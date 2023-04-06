@@ -1,4 +1,10 @@
 ### Hi there 👋
+<img src='https://www.codewars.com/users/codingMustache/badges/large' alt='codeware'/>
+
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=codingMustache&count_private=true&theme=tokyonight&showicons=true)]()
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=codingMustache&langs_count=5&theme=tokyonight)]()
 
 <!--
 **codingMustache/codingMustache** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
