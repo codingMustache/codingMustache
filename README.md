@@ -9,7 +9,6 @@
 <br>
 
 ##  👤 <strong> About Me </strong>
-<hr/>
 
 👋 Hi, My Name is Jorge Carvajal
 
@@ -25,7 +24,6 @@
 <br>
   
 ##  🧰 <strong> ToolBox  </strong>
-<hr/>
 <!--lang -->
 <p align='center'>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width='20'/> 
