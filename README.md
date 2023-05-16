@@ -16,7 +16,7 @@
 
 📚 Currently learning Swift
 
-<br>
+⬆️ Top 3% on CodeWars
 
 <img class='codewar' src='https://www.codewars.com/users/codingMustache/badges/small' alt='codewars' width='250'/>
 
