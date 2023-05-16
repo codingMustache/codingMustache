@@ -1,14 +1,11 @@
-
 <div align='center'>
-
-<img class='codewar' src='./logo.svg' alt='codewars' width='450'/>
 
 # Coding Mustache
 
+<img class='codewar' src='./logo.svg' alt='codewars' width='450'/>
 
 </div>
 
-<br>
 <br>
 
 ##  👤 <strong> About Me </strong>
