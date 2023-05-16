@@ -6,7 +6,7 @@
 
 </div>
 
-<br>
+
 
 ##  👤 <strong> About Me </strong>
 
@@ -20,8 +20,6 @@
 
 <img class='codewar' src='https://www.codewars.com/users/codingMustache/badges/small' alt='codewars' width='250'/>
 
-<br>
-<br>
   
 ##  🧰 <strong> ToolBox  </strong>
 <!--lang -->
