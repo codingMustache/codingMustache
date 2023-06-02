@@ -6,7 +6,7 @@
 
 </div>
 
-https://img.shields.io/github/stars/codingmustache?style=social
+<img src="https://img.shields.io/github/stars/codingmustache?style=social" alt=''/>
 
 ##  👤 <strong> About Me </strong>
 
