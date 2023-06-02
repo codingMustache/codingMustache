@@ -2,7 +2,7 @@
 
 # Coding Mustache
 
-<img class='codewar' src='./logo.svg' alt='codewars' width='450'/>
+<img src='./logo.svg' alt='codewars' width='450'/>
 
 </div>
 
