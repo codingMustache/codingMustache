@@ -6,8 +6,6 @@
 
 </div>
 
-<img src="https://img.shields.io/github/stars/codingmustache?style=social" />
-
 ##  👤 <strong> About Me </strong>
 
 👋 Hi, My Name is Jorge Carvajal
