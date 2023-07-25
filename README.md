@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+ 
 <div align='center'>
 
 # Coding Mustache
@@ -7,16 +9,19 @@
 </div>
 
 ##  👤 <strong> About Me </strong>
+<div align='center'>
 
 👋 Hi, My Name is Jorge Carvajal
 
 💻 I am a fullstack developer
 
-📚 Currently learning Swift
+📚 Currently learning <picture><i media="(prefers-color-scheme: dark)" class="devicon-swift-plain colored"></i> <i media="(prefers-color-scheme: light)" class="devicon-swift-plain"></i></picture>
 
 ⬆️ Top 3% on CodeWars
 
 <img class='codewar' src='https://www.codewars.com/users/codingMustache/badges/small' alt='codewars' width='250'/>
+
+</div>
 
   
 ##  🧰 <strong> ToolBox  </strong>
