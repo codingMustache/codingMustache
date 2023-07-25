@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
  
 <div align='center'>
 
@@ -15,7 +14,8 @@
 
 💻 I am a fullstack developer
 
-📚 Currently learning <i class="devicon-swift-plain colored"></i>
+📚 Currently learning <picture><img media="(prefers-color-scheme: dark)" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width='20'/><img media="(prefers-color-scheme: light)" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-plain.svg" width='20' />
+          </picture>
 
 ⬆️ Top 3% on CodeWars
 
