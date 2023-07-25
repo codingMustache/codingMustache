@@ -14,7 +14,7 @@
 
 💻 I am a fullstack developer
 
-<div justify='center' align='center'>📚 Currently learning <picture><source media="(prefers-color-scheme: dark)" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width='20'/><source media="(prefers-color-scheme: light)" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-plain.svg" width='20' /><img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width='20'></picture></div> <br>
+<div justify='center' align='center'>📚 Currently learning <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width='20'/><source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-plain.svg" width='20' /><img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width='20'></picture></div> <br>
 
 ⬆️ Top 3% on CodeWars
 
