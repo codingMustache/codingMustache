@@ -15,7 +15,7 @@
 
 💻 I am a fullstack developer
 
-📚 Currently learning <picture><i media="(prefers-color-scheme: dark)" class="devicon-swift-plain colored"></i> <i media="(prefers-color-scheme: light)" class="devicon-swift-plain"></i></picture>
+📚 Currently learning <i class="devicon-swift-plain colored"></i>
 
 ⬆️ Top 3% on CodeWars
 
