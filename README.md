@@ -65,17 +65,20 @@ Oh, and did I mention I'm a top-notch CodeWars warrior? 🏆 I've battled throug
 
 ## 📬 Contact Me
 <div align='center' >&ensp;&ensp;
+<a href='https://www.codingmustache.dev'>
+<img src='website.png' height='50' title='Portfolio Site'/>
+</a>&ensp;&ensp;
 <a href='https://www.codingmustache.dev/assets/contactCard.vcf'>
-<img src='contact.png' height='50'/>
+<img src='contact.png' height='50'title='Contact Card'/>
 </a>&ensp;&ensp;
 <a href='mailto:contact@codingMustache.dev'>
-<img src='email.png' height='50'/>
+<img src='email.png' height='50'title='Email'/>
 </a>&ensp;&ensp;
 <a href='tel:+14422646552'>
-<img src='phone.png' height='50'/>
+<img src='phone.png' height='50' title='Phone Number'/>
 </a>&ensp;&ensp;
 <a href='https://www.linkedin.com/in/codingmustache/'>
-<img src='linkedin.png' height='50'/>
+<img src='linkedin.png' height='50' title='LinkedIn'/>
 </a>
 </div>
 <hr>
