@@ -26,7 +26,7 @@ Oh, and did I mention I'm a top-notch CodeWars warrior? 🏆 I've battled throug
 </details>
 
 ##  🧰 <strong> ToolBox  </strong>
-<div align='center'>
+<div align='center' style='max-width: 300px'>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width='30'/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"width='30'/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"width='30'/> 
