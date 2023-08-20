@@ -1,8 +1,8 @@
 
 <h1> <picture>
-<source media="(prefers-color-scheme: dark)" srcset='dark-logo.svg' alt='codewars' width='50'/>
-<source media="(prefers-color-scheme: light)" srcset='logo.svg' alt='codewars' width='50'/>
-<img src=logo.svg' alt='codewars' width='50'/>
+<source media="(prefers-color-scheme: dark)" srcset='dark-logo.svg' alt='codewars' width='100'/>
+<source media="(prefers-color-scheme: light)" srcset='logo.svg' alt='codewars' width='100'/>
+<img src=logo.svg' alt='codewars' width='100'/>
 </picture> Jorge Carvajal</h1>
 
 <details>
