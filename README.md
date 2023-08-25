@@ -1,4 +1,4 @@
-
+<img src='banner.png'>
 <h1> <picture>
 <source media="(prefers-color-scheme: dark)" srcset='dark-logo.svg' alt='codewars' width='100'/>
 <source media="(prefers-color-scheme: light)" srcset='logo.svg' alt='codewars' width='100'/>
