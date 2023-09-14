@@ -5,6 +5,9 @@
 <a href="https://discordapp.com/users/428306258366300170">
   <img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord Badge"/>
 </a>
+<a href="https://www.npmjs.com/~codingmustache">
+  <img src="https://img.shields.io/badge/npm-orange?style=for-the-badge&logo=npm&logoColor=white" alt="Discord Badge"/>
+</a>
 </div>
 
 
