@@ -1,7 +1,7 @@
 
 Hello there!
 
-```json
+```javascript
 Jorge = {
     From: Miami, Fl,
     Location: San Diego, CA,
