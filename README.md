@@ -1,10 +1,5 @@
 
-Hello there!
+Hello I'm Jorge and I love making things on the internet
 
-```json
-Jorge = {
-    From: Miami, Fl,
-    Location: San Diego, CA,
-    Exp: 3 years
-}
-```
+
+**Joke of the day:**    Did you hear the one about the giant pickle?  He was kind of a big dill.
