@@ -26,9 +26,9 @@ if (months < 0) ((months += 12), years--);
 const parts = [];
 if (years) parts.push(`${years} years `);
 if (months) parts.push(`${months} months `);
-if (days) parts.push(`${days} days `);
-if (hours) parts.push(`${hours} hours `);
-if (minutes) parts.push(`${minutes} minutes`);
+if (days) parts.push(`${days} days`);
+// if (hours) parts.push(`${hours} hours `);
+// if (minutes) parts.push(`${minutes} minutes`);
 /**
  * Last Shutdown
  * @author codingMustache
@@ -43,4 +43,4 @@ if (minutes) parts.push(`${minutes} minutes`);
  Since the last Shutdown```
  ```
  */
-export default `## Home Server Up-Time\n\nIts Been **${parts.join("")}** since the last server shutdown`;
+export default `## Home Server Up-Time\n\nIts been **${parts.join("")}** since this server shutdown`;

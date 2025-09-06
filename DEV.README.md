@@ -11,8 +11,7 @@ You can add `npm start` within the directory and that will run the script.
 
 ### Sorting
 
-The script is pulling files and using the node `.sort()`. Use
-use official documentation on further sorting.
+The script is pulling files from the `./utils` and using the `Array.sort()`.
 
 ## Contributing
 
