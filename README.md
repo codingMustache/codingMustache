@@ -4,24 +4,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the day
 
-What do you do when your bunny gets wet? You get your hare dryer.
+What creature is smarter than a talking parrot? A spelling bee.
 
 ## Home Server Up-Time
 
-Its Been ***8 days 16 hours 10 minutes *** Since the last server shutdown
+Its Been ** 8 days 16 hours 11 minutes ** Since the last server shutdown
 
 
 ## Daily Trivia
 
-The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
- 1. HD Graphics 700 
- 2. HD Graphics 600
- 3. HD Graphics 7000
- 4. HD Graphics 500
+In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
+ 1. Static
+ 2. Public
+ 3. Private
+ 4. Final
 
 
 
 <details>
   <summary>Answer</summary>
-  HD Graphics 500
+  Final
 </details>
