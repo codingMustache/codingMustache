@@ -4,25 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the day
 
-What's the difference between a hippo and a zippo? One is really heavy, the other is a little lighter.
+Do I enjoy making courthouse puns? Guilty
 
-## Server Up-Time
-**Its Been:** 8 days 3 hours 47 minutes 
-
-Since the last server shutdown
+## Home Server Up-Time
+Its Been **8 days 16 hours 9 minutes ** Since the last server shutdown
 
 
 ## Daily Trivia
 
-Which of the following physical typologies are used with Ethernet Networks?
- 1. Mesh
- 2. Ring
- 3. Hex
- 4. Star
+The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
+ 1. United States
+ 2. Taiwan
+ 3. China (People&#039;s Republic of)
+ 4. Germany
 
 
 
 <details>
   <summary>Answer</summary>
-  Star
+  Taiwan
 </details>
