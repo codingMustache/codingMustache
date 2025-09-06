@@ -8,7 +8,7 @@ const ansArr = [...incorrect_answers, correct_answer]
     .map((e, i) => ` ${i + 1}. ${e}\n`)
     .join("");
 export default `
-## Daily Trivia\n\n${question}\n${ansArr}\n\n
+## Daily Trivia\n\n${question}\n${ansArr}
 <details>
   <summary>Answer</summary>
   ${correct_answer}

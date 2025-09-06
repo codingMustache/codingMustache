@@ -2,24 +2,24 @@
 
 Hello I'm Jorge and I love making things for the internet
 
-## Joke of the day
+## Joke of the Day
 
-They laughed when I said I wanted to be a comedian – they’re not laughing now.
+Why do bananas have to put on sunscreen before they go to the beach? Because they might peel!
 
 ## Home Server Up-Time
 
-Its Been **8 days 16 hours 14 minutes** since the last server shutdown
+Its Been **8 days ** since the last server shutdown
 
 
 ## Daily Trivia
 
-What does AD stand for in relation to Windows Operating Systems? 
- 1. Active Directory
- 2. Active Department
- 3. Automated Database
- 4. Alternative Drive
+Generally, which component of a computer draws the most power?
+ 1. Video Card
+ 2. Power Supply
+ 3. Processor
+ 4. Hard Drive
 
 <details>
   <summary>Answer</summary>
-  Active Directory
+  Video Card
 </details>
