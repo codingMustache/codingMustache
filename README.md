@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I got fired from a florist, apparently I took too many leaves.
+Did you hear that the police have a warrant out on a midget psychic ripping people off? It reads “Small medium at large.”
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **8 days** since this server shutdown
 
 ## Daily Trivia
 
-Which kind of algorithm is Ron Rivest not famous for creating?
- 1. Secret sharing scheme
- 2. Stream cipher
- 3. Asymmetric encryption
- 4. Hashing algorithm
+In computing, what does LAN stand for?
+ 1. Local Area Network
+ 2. Light Access Node
+ 3. Land Address Navigation
+ 4. Long Antenna Node
 
 <details>
   <summary>Answer</summary>
-  Secret sharing scheme
+  Local Area Network
 </details>
