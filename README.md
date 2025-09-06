@@ -4,25 +4,25 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the day
 
-What are the strongest days of the week? Saturday and Sunday...the rest are weekdays.
+What's the difference between a hippo and a zippo? One is really heavy, the other is a little lighter.
 
 ## Server Up-Time
-**Its Been:** 8 days 3 hours 37 minutes 
+**Its Been:** 8 days 3 hours 47 minutes 
 
 Since the last server shutdown
 
 
 ## Daily Trivia
 
-What does the International System of Quantities refer 1024 bytes as?
- 1. Kelobyte
- 2. Kibibyte
- 3. Kylobyte
- 4. Kilobyte
+Which of the following physical typologies are used with Ethernet Networks?
+ 1. Mesh
+ 2. Ring
+ 3. Hex
+ 4. Star
 
 
 
 <details>
   <summary>Answer</summary>
-  Kibibyte
+  Star
 </details>
