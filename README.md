@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the chicken get a penalty? For fowl play.
+How much does a hipster weigh? An instagram.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **8 days** since this server shutdown
 
 ## Daily Trivia
 
-What major programming language does Unreal Engine 4 use?
- 1. Assembly
- 2. C#
- 3. ECMAScript
- 4. C++
+Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
+ 1. Microsoft
+ 2. Atari
+ 3. Commodore
+ 4. Apple
 
 <details>
   <summary>Answer</summary>
-  C++
+  Apple
 </details>
