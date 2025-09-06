@@ -4,27 +4,25 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the day
 
-Do you want a brief explanation of what an acorn is? In a nutshell, it's an oak tree.
+So, I heard this pun about cows, but it’s kinda offensive so I won’t say it. I don’t want there to be any beef between us. 
 
 ## Server Up-Time
-Its Been
-
- 8 days 3 hours, 13 minutes
+Its Been: 32 minutes
 
 Since the last server shutdown
 
 
 ## Daily Trivia
 
-In computing terms, typically what does CLI stand for?
- 1. Common Language Input
- 2. Control Line Interface
- 3. Common Language Interface
- 4. Command Line Interface
+On which computer hardware device is the BIOS chip located?
+ 1. Motherboard
+ 2. Graphics Processing Unit
+ 3. Central Processing Unit
+ 4. Hard Disk Drive
 
 
 
 <details>
   <summary>Answer</summary>
-  Command Line Interface
+  Motherboard
 </details>
