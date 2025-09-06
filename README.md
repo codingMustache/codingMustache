@@ -4,25 +4,25 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the day
 
-What do you get when you cross a pig and a pineapple? A porky pine
+Why do bees hum? Because they don't know the words.
 
 ## Server Up-Time
-Its Been: 34 minutes
+Its Been: 0
 
 Since the last server shutdown
 
 
 ## Daily Trivia
 
-What did the name of the Tor Anonymity Network orignially stand for?
- 1. The Only Router
- 2. The Orange Router
- 3. The Ominous Router
- 4. The Onion Router
+Who invented the &quot;Spanning Tree Protocol&quot;?
+ 1. Paul Vixie
+ 2. Vint Cerf
+ 3. Michael Roberts
+ 4. Radia Perlman
 
 
 
 <details>
   <summary>Answer</summary>
-  The Onion Router
+  Radia Perlman
 </details>
