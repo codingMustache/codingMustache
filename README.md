@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the man put his money in the freezer? He wanted cold hard cash!
+I got fired from a florist, apparently I took too many leaves.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **8 days** since this server shutdown
 
 ## Daily Trivia
 
-What was the first Android version specifically optimized for tablets?
- 1. Honeycomb
- 2. Eclair
- 3. Froyo
- 4. Marshmellow
+Which kind of algorithm is Ron Rivest not famous for creating?
+ 1. Secret sharing scheme
+ 2. Stream cipher
+ 3. Asymmetric encryption
+ 4. Hashing algorithm
 
 <details>
   <summary>Answer</summary>
-  Honeycomb
+  Secret sharing scheme
 </details>
