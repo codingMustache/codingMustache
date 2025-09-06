@@ -1,0 +1,21 @@
+{
+    "name": "dreadme",
+    "version": "1.0.0",
+    "description": "github profile dynamic read me. Meant to be trigered with a cron job",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/codingMustache/codingMustache.git"
+    },
+    "author": "codingMustache",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/codingMustache/codingMustache/issues",
+        "email": "bug@codingMusatche.dev"
+    },
+    "homepage": "https://github.com/codingMustache/codingMustache"
+}
