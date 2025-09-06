@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do bees do after they are married? They go on a honeymoon.
+Archaeology really is a career in ruins.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **8 days** since this server shutdown
 
 ## Daily Trivia
 
-Who invented the &quot;Spanning Tree Protocol&quot;?
- 1. Paul Vixie
- 2. Vint Cerf
- 3. Radia Perlman
- 4. Michael Roberts
+Which of these programming languages is a low-level language?
+ 1. Python
+ 2. Assembly
+ 3. Pascal
+ 4. C#
 
 <details>
   <summary>Answer</summary>
-  Radia Perlman
+  Assembly
 </details>
