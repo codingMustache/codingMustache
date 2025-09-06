@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Archaeology really is a career in ruins.
+To be Frank, I'd have to change my name.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **8 days** since this server shutdown
 
 ## Daily Trivia
 
-Which of these programming languages is a low-level language?
- 1. Python
- 2. Assembly
- 3. Pascal
- 4. C#
+How many cores does the Intel i7-6950X have?
+ 1. 12
+ 2. 8
+ 3. 4
+ 4. 10
 
 <details>
   <summary>Answer</summary>
-  Assembly
+  10
 </details>
