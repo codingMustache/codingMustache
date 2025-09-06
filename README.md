@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear that the police have a warrant out on a midget psychic ripping people off? It reads “Small medium at large.”
+Who is the coolest Doctor in the hospital? The hip Doctor!
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **8 days** since this server shutdown
 
 ## Daily Trivia
 
-In computing, what does LAN stand for?
- 1. Local Area Network
- 2. Light Access Node
- 3. Land Address Navigation
- 4. Long Antenna Node
+What was the name of the first Bulgarian personal computer?
+ 1. Pravetz 82
+ 2. IMKO-1
+ 3. Pravetz 8D
+ 4. IZOT 1030
 
 <details>
   <summary>Answer</summary>
-  Local Area Network
+  IMKO-1
 </details>
