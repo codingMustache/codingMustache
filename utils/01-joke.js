@@ -6,4 +6,4 @@ const { joke } = await (
         headers: { Accept: "application/json" },
     })
 ).json();
-export default `**Joke of the day:** ${joke}`;
+export default `## Joke of the day\n\n${joke}`;

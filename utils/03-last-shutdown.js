@@ -37,7 +37,7 @@ if (months < 0) ((months += 12), years--);
  Since the last Shutdown```
  ```
  */
-export default `
+export default `## Server Up-Time
 Its Been
 
 ${years ? years + " years, " : ""}${months ? months + " months, " : ""} ${days ? days + " days " : ""}${hours ? hours + " hours, " : ""}${minutes ? minutes + " minutes" : ""}

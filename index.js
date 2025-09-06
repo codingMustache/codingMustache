@@ -4,7 +4,7 @@ import { fileURLToPath } from "url";
 import { execSync } from "node:child_process";
 
 const dir = "./utils";
-const readMe = "README.md";
+const readMe = "./README.md";
 try {
     const __filename = fileURLToPath(import.meta.url);
     const __dirname = dirname(__filename);
@@ -25,9 +25,8 @@ try {
 }
 try {
     const msg = `Profile README update: ${new Date().toISOString()}`;
-    execSync("git pull --rebase");
     execSync(`git add ${readMe}`);
-    execSync(`git commit -m "${msg}`);
+    execSync(`git commit -m "${msg}"`);
     execSync("git push");
 } catch (e) {
     console.error(e);
