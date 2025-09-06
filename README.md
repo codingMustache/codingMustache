@@ -4,23 +4,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the day
 
-Do I enjoy making courthouse puns? Guilty
+Why don’t skeletons ever go trick or treating? Because they have nobody to go with.
 
 ## Home Server Up-Time
+
 Its Been **8 days 16 hours 9 minutes ** Since the last server shutdown
 
 
 ## Daily Trivia
 
-The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
- 1. United States
- 2. Taiwan
- 3. China (People&#039;s Republic of)
- 4. Germany
+How many kilobytes in one gigabyte (in decimal)?
+ 1. 1000000
+ 2. 1000
+ 3. 1024
+ 4. 1048576
 
 
 
 <details>
   <summary>Answer</summary>
-  Taiwan
+  1000000
 </details>
