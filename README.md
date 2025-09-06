@@ -4,22 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-which flower is most fierce? Dandelion
+How do robots eat guacamole? With computer chips.
 
 ## Home Server Up-Time
 
-Its Been **8 days** since this server shutdown
+Its been **8 days** since this server shutdown
 
 
 ## Daily Trivia
 
-.rs is the top-level domain for what country?
- 1. Rwanda
- 2. Russia
- 3. Serbia
- 4. Romania
+Which one of these is not an official development name for a Ubuntu release?
+ 1. Trusty Tahr
+ 2. Utopic Unicorn
+ 3. Mystic Mansion
+ 4. Wily Werewolf
 
 <details>
   <summary>Answer</summary>
-  Serbia
+  Mystic Mansion
 </details>
