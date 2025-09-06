@@ -4,24 +4,28 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the day
 
-What creature is smarter than a talking parrot? A spelling bee.
+A panda walks into a bar and says to the bartender “I’ll have a Scotch and . . . . . . . . . . . . . . Coke thank you”. 
+
+“Sure thing” the bartender replies and asks “but what’s with the big pause?” 
+
+The panda holds up his hands and says “I was born with them”
 
 ## Home Server Up-Time
 
-Its Been ** 8 days 16 hours 11 minutes ** Since the last server shutdown
+Its Been **8 days 16 hours 11 minutes** Since the last server shutdown
 
 
 ## Daily Trivia
 
-In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
- 1. Static
- 2. Public
- 3. Private
- 4. Final
+Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
+ 1. Shellshock
+ 2. Corrupted Blood
+ 3. Heartbleed
+ 4. Shellscript
 
 
 
 <details>
   <summary>Answer</summary>
-  Final
+  Heartbleed
 </details>
