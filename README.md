@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you get hanging from Apple trees? Sore arms.
+How does a scientist freshen their breath? With experi-mints!
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **9 days** since this server shutdown
 
 ## Daily Trivia
 
-In the server hosting industry IaaS stands for...
- 1. Internet and a Server
- 2. Internet as a Service
- 3. Infrastructure as a Service
- 4. Infrastructure as a Server
+What does the &quot;MP&quot; stand for in MP3?
+ 1. Moving Picture
+ 2. Micro Point
+ 3. Music Player
+ 4. Multi Pass
 
 <details>
   <summary>Answer</summary>
-  Infrastructure as a Service
+  Moving Picture
 </details>
