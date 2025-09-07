@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How was the snow globe feeling after the storm? A little shaken.
+A boy dug three holes in the yard. When his mother saw, she exclaimed: "well, well, well"
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **9 days** since this server shutdown
 
 ## Daily Trivia
 
-What is the name of Layer 7 of the OSI model?
- 1. Session
- 2. Application
- 3. Present
- 4. Network
+What does the term GPU stand for?
+ 1. Graphical Proprietary Unit
+ 2. Gaming Processor Unit
+ 3. Graphite Producing Unit
+ 4. Graphics Processing Unit
 
 <details>
   <summary>Answer</summary>
-  Application
+  Graphics Processing Unit
 </details>
