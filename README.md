@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Sgt.: Commissar! Commissar! The troops are revolting! Commissar: Well, you’re pretty repulsive yourself.
+Conjunctivitis.com – now that’s a site for sore eyes.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **9 days** since this server shutdown
 
 ## Daily Trivia
 
-America Online (AOL) started out as which of these online service providers?
- 1. CompuServe
- 2. Prodigy
- 3. Quantum Link
- 4. GEnie
+What internet protocol was documented in RFC 1459?
+ 1. HTTP
+ 2. HTTPS
+ 3. FTP
+ 4. IRC
 
 <details>
   <summary>Answer</summary>
-  Quantum Link
+  IRC
 </details>
