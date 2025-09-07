@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the difference between a poorly dressed man on a tricycle and a well dressed man on a bicycle? Attire.
+How do you get two whales in a car? Start in England and drive West.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **9 days** since this server shutdown
 
 ## Daily Trivia
 
-Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
- 1. Nautilus
- 2. Enigma Machine
- 3. Clipper Chip
- 4. Skipjack
+Which kind of algorithm is Ron Rivest not famous for creating?
+ 1. Hashing algorithm
+ 2. Secret sharing scheme
+ 3. Asymmetric encryption
+ 4. Stream cipher
 
 <details>
   <summary>Answer</summary>
-  Clipper Chip
+  Secret sharing scheme
 </details>
