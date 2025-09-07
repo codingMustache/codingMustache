@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-People are making apocalypse jokes like there’s no tomorrow.
+A man got hit in the head with a can of Coke, but he was alright because it was a soft drink.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **9 days** since this server shutdown
 
 ## Daily Trivia
 
-How many bits make up the significand portion of a single precision floating point number?
- 1. 8
- 2. 53
- 3. 15
- 4. 23
+What was the name given to Android 4.3?
+ 1. Lollipop
+ 2. Froyo
+ 3. Jelly Bean
+ 4. Nutella
 
 <details>
   <summary>Answer</summary>
-  23
+  Jelly Bean
 </details>
