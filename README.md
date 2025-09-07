@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you teach a kid to climb stairs? There is a step by step guide.
+What happens when you anger a brain surgeon? They will give you a piece of your mind.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **9 days** since this server shutdown
 
 ## Daily Trivia
 
-What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
- 1. FM Synthesizer
- 2. Programmable Sound Generator (PSG)
- 3. ADPCM Sampler
- 4. PCM Sampler
+What vulnerability ranked #1 on the OWASP Top 10 in 2013?
+ 1. Broken Authentication
+ 2. Cross-Site Scripting
+ 3. Insecure Direct Object References
+ 4. Injection 
 
 <details>
   <summary>Answer</summary>
-  ADPCM Sampler
+  Injection 
 </details>
