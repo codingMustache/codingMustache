@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Last night me and my girlfriend watched three DVDs back to back. Luckily I was the one facing the TV.
+What musical instrument is found in the bathroom? A tuba toothpaste.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **9 days** since this server shutdown
 
 ## Daily Trivia
 
-In any programming language, what is the most common way to iterate through an array?
- 1. &#039;If&#039; Statements
- 2. &#039;Do-while&#039; loops
- 3. &#039;While&#039; loops
- 4. &#039;For&#039; loops
+What does RAID stand for?
+ 1. Rapid Access for Indexed Devices
+ 2. Range of Applications with Identical Designs
+ 3. Redundant Array of Independent Disks
+ 4. Randomized Abstract Identification Description
 
 <details>
   <summary>Answer</summary>
-  &#039;For&#039; loops
+  Redundant Array of Independent Disks
 </details>
