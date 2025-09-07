@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the dog say to the two trees? Bark bark.
+Have you heard of the band 1023MB? They haven't got a gig yet.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **9 days** since this server shutdown
 
 ## Daily Trivia
 
-Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
- 1. Nautilus
- 2. Clipper Chip
- 3. Skipjack
- 4. Enigma Machine
+Who is the original author of the realtime physics engine called PhysX?
+ 1. AMD
+ 2. Nvidia
+ 3. NovodeX
+ 4. Ageia
 
 <details>
   <summary>Answer</summary>
-  Clipper Chip
+  NovodeX
 </details>
