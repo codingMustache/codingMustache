@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you get when you cross a chicken with a skunk? A fowl smell!
+What do prisoners use to call each other? Cell phones.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **9 days** since this server shutdown
 
 ## Daily Trivia
 
-What is the code name for the mobile operating system Android 7.0?
- 1. Jelly Bean
- 2. Nougat
- 3. Ice Cream Sandwich
- 4. Marshmallow
+What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
+ 1. Heat Vent
+ 2. Temperature Decipator
+ 3. CPU Vent
+ 4. Heat Sink
 
 <details>
   <summary>Answer</summary>
-  Nougat
+  Heat Sink
 </details>
