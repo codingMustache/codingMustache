@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-In my career as a lumberjack I cut down exactly 52,487 trees. I know because I kept a log.
+What's the difference between a poorly dressed man on a tricycle and a well dressed man on a bicycle? Attire.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **9 days** since this server shutdown
 
 ## Daily Trivia
 
-What port does HTTP run on?
- 1. 443
- 2. 53
- 3. 80
- 4. 23
+Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
+ 1. Nautilus
+ 2. Enigma Machine
+ 3. Clipper Chip
+ 4. Skipjack
 
 <details>
   <summary>Answer</summary>
-  80
+  Clipper Chip
 </details>
