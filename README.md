@@ -4,8 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was Santa's little helper feeling depressed? Because he has low elf esteem.
-
+How was the snow globe feeling after the storm? A little shaken.
 
 ## Home Server Up-Time
 
@@ -14,13 +13,13 @@ Its been **9 days** since this server shutdown
 
 ## Daily Trivia
 
-This mobile OS held the largest market share in 2012.
- 1. Android
- 2. BlackBerry
- 3. iOS
- 4. Symbian
+What is the name of Layer 7 of the OSI model?
+ 1. Session
+ 2. Application
+ 3. Present
+ 4. Network
 
 <details>
   <summary>Answer</summary>
-  iOS
+  Application
 </details>
