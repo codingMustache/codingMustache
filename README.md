@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do prisoners use to call each other? Cell phones.
+You know that cemetery up the road? People are dying to get in there.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **9 days** since this server shutdown
 
 ## Daily Trivia
 
-What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
- 1. Heat Vent
- 2. Temperature Decipator
- 3. CPU Vent
- 4. Heat Sink
+What does RAID stand for?
+ 1. Randomized Abstract Identification Description
+ 2. Range of Applications with Identical Designs
+ 3. Rapid Access for Indexed Devices
+ 4. Redundant Array of Independent Disks
 
 <details>
   <summary>Answer</summary>
-  Heat Sink
+  Redundant Array of Independent Disks
 </details>
