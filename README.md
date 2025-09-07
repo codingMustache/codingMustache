@@ -4,7 +4,8 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How does a scientist freshen their breath? With experi-mints!
+Why was Santa's little helper feeling depressed? Because he has low elf esteem.
+
 
 ## Home Server Up-Time
 
@@ -13,13 +14,13 @@ Its been **9 days** since this server shutdown
 
 ## Daily Trivia
 
-What does the &quot;MP&quot; stand for in MP3?
- 1. Moving Picture
- 2. Micro Point
- 3. Music Player
- 4. Multi Pass
+This mobile OS held the largest market share in 2012.
+ 1. Android
+ 2. BlackBerry
+ 3. iOS
+ 4. Symbian
 
 <details>
   <summary>Answer</summary>
-  Moving Picture
+  iOS
 </details>
