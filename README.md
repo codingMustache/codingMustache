@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Every night at 11:11, I make a wish that someone will come fix my broken clock.
+Why don’t seagulls fly over the bay? Because then they’d be bay-gulls!
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **9 days** since this server shutdown
 
 ## Daily Trivia
 
-Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
- 1. Apple
- 2. Atari
- 3. Microsoft
- 4. Commodore
+What does the computer software acronym JVM stand for?
+ 1. Java Vendor Machine
+ 2. Java Visual Machine
+ 3. Just Virtual Machine
+ 4. Java Virtual Machine
 
 <details>
   <summary>Answer</summary>
-  Apple
+  Java Virtual Machine
 </details>
