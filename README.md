@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the feline fail the lie detector test? Because he be lion.
+What did Romans use to cut pizza before the rolling cutter was invented? Lil Caesars
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **9 days** since this server shutdown
 
 ## Daily Trivia
 
-Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
- 1. Shellshock
- 2. Corrupted Blood
- 3. Heartbleed
- 4. Shellscript
+The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
+ 1. HD Graphics 7000
+ 2. HD Graphics 600
+ 3. HD Graphics 700 
+ 4. HD Graphics 500
 
 <details>
   <summary>Answer</summary>
-  Heartbleed
+  HD Graphics 500
 </details>
