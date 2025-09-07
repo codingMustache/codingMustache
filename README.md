@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Whenever the cashier at the grocery store asks my dad if he would like the milk in a bag he replies, ‘No, just leave it in the carton!’
+Why are graveyards so noisy? Because of all the coffin.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **9 days** since this server shutdown
 
 ## Daily Trivia
 
-What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
- 1. Heat Sink
- 2. Temperature Decipator
- 3. Heat Vent
- 4. CPU Vent
+Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
+ 1. 44.1 kHz
+ 2. 20.5 kHz
+ 3. 1.5 MHz
+ 4. 32.0 kHz
 
 <details>
   <summary>Answer</summary>
-  Heat Sink
+  44.1 kHz
 </details>
