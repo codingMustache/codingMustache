@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A cannibal is someone who is fed up with people.
+What do bees do after they are married? They go on a honeymoon.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **9 days** since this server shutdown
 
 ## Daily Trivia
 
-In the server hosting industry IaaS stands for...
- 1. Internet as a Service
- 2. Internet and a Server
- 3. Infrastructure as a Server
- 4. Infrastructure as a Service
+What does the term GPU stand for?
+ 1. Graphics Processing Unit
+ 2. Graphite Producing Unit
+ 3. Gaming Processor Unit
+ 4. Graphical Proprietary Unit
 
 <details>
   <summary>Answer</summary>
-  Infrastructure as a Service
+  Graphics Processing Unit
 </details>
