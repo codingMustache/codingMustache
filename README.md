@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Shout out to my grandma, that's the only way she can hear.
+In my career as a lumberjack I cut down exactly 52,487 trees. I know because I kept a log.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **9 days** since this server shutdown
 
 ## Daily Trivia
 
-Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
- 1. Cherry MX Brown
- 2. Cherry MX Red
- 3. Cherry MX Blue
- 4. Cherry MX Black
+What port does HTTP run on?
+ 1. 443
+ 2. 53
+ 3. 80
+ 4. 23
 
 <details>
   <summary>Answer</summary>
-  Cherry MX Blue
+  80
 </details>
