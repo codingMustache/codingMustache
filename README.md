@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of award did the dentist receive? A little plaque.
+Every night at 11:11, I make a wish that someone will come fix my broken clock.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **9 days** since this server shutdown
 
 ## Daily Trivia
 
-When Gmail first launched, how much storage did it provide for your email?
- 1. Unlimited
- 2. 5GB
- 3. 512MB
- 4. 1GB
+Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
+ 1. Apple
+ 2. Atari
+ 3. Microsoft
+ 4. Commodore
 
 <details>
   <summary>Answer</summary>
-  1GB
+  Apple
 </details>
