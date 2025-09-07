@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you do on a remote island? Try and find the TV island it belongs to.
+Did you hear about the two thieves who stole a calendar? They each got six months.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **9 days** since this server shutdown
 
 ## Daily Trivia
 
-Australia, Japan, and Southeast Asia are in which ITU Region?
- 1. Region 3
- 2. Region 4
- 3. Region 2
- 4. Region 1
+What five letter word is the motto of the IBM Computer company?
+ 1. Logic
+ 2. Pixel
+ 3. Click
+ 4. Think
 
 <details>
   <summary>Answer</summary>
-  Region 3
+  Think
 </details>
