@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I ordered a chicken and an egg from Amazon. I'll let you know.
+Why did the banana go to the doctor? He was not "peeling" well.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **9 days** since this server shutdown
 
 ## Daily Trivia
 
-Which of these is not a layer in the OSI model for data communications?
- 1. Physical Layer
- 2. Transport Layer
- 3. Application Layer
- 4. Connection Layer
+Which data structure does FILO apply to?
+ 1. Tree
+ 2. Queue
+ 3. Heap
+ 4. Stack
 
 <details>
   <summary>Answer</summary>
-  Connection Layer
+  Stack
 </details>
