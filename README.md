@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-You know that cemetery up the road? People are dying to get in there.
+Where’s the bin? Dad: I haven’t been anywhere!
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **9 days** since this server shutdown
 
 ## Daily Trivia
 
-What does RAID stand for?
- 1. Randomized Abstract Identification Description
- 2. Range of Applications with Identical Designs
- 3. Rapid Access for Indexed Devices
- 4. Redundant Array of Independent Disks
+How many bits make up the significand portion of a single precision floating point number?
+ 1. 23
+ 2. 15
+ 3. 8
+ 4. 53
 
 <details>
   <summary>Answer</summary>
-  Redundant Array of Independent Disks
+  23
 </details>
