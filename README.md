@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I’ve deleted the phone numbers of all the Germans I know from my mobile phone. Now it’s Hans free.
+What kind of award did the dentist receive? A little plaque.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **9 days** since this server shutdown
 
 ## Daily Trivia
 
-Which of these is not a key value of Agile software development?
- 1. Comprehensive documentation
- 2. Individuals and interactions
- 3. Customer collaboration
- 4. Responding to change
+When Gmail first launched, how much storage did it provide for your email?
+ 1. Unlimited
+ 2. 5GB
+ 3. 512MB
+ 4. 1GB
 
 <details>
   <summary>Answer</summary>
-  Comprehensive documentation
+  1GB
 </details>
