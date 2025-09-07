@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What does an angry pepper do? It gets jalapeño face.
+A horse walks into a bar. The bar tender says "Hey." The horse says "Sure."
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **9 days** since this server shutdown
 
 ## Daily Trivia
 
-How many kilobytes in one gigabyte (in decimal)?
- 1. 1024
- 2. 1000
- 3. 1000000
- 4. 1048576
+HTML is what type of language?
+ 1. Programming Language
+ 2. Scripting Language
+ 3. Macro Language
+ 4. Markup Language
 
 <details>
   <summary>Answer</summary>
-  1000000
+  Markup Language
 </details>
