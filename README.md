@@ -4,9 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do pumpkins sit on people’s porches?
-
-They have no hands to knock on the door.
+I ordered a chicken and an egg from Amazon. I'll let you know.
 
 ## Home Server Up-Time
 
@@ -15,13 +13,13 @@ Its been **9 days** since this server shutdown
 
 ## Daily Trivia
 
-Unix Time is defined as the number of seconds that have elapsed since when?
- 1. Midnight, July 4, 1976
- 2. Midnight on the creator of Unix&#039;s birthday
- 3. Midnight, July 4, 1980
- 4. Midnight, January 1, 1970
+Which of these is not a layer in the OSI model for data communications?
+ 1. Physical Layer
+ 2. Transport Layer
+ 3. Application Layer
+ 4. Connection Layer
 
 <details>
   <summary>Answer</summary>
-  Midnight, January 1, 1970
+  Connection Layer
 </details>
