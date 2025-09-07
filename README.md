@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was the strawberry sad? Its parents were in a jam.
+I went to a book store and asked the saleswoman where the Self Help section was, she said if she told me it would defeat the purpose.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **9 days** since this server shutdown
 
 ## Daily Trivia
 
-Which of these is not a layer in the OSI model for data communications?
- 1. Physical Layer
- 2. Application Layer
- 3. Transport Layer
- 4. Connection Layer
+What was the first company to use the term &quot;Golden Master&quot;?
+ 1. Apple
+ 2. IBM
+ 3. Microsoft
+ 4. Google
 
 <details>
   <summary>Answer</summary>
-  Connection Layer
+  Apple
 </details>
