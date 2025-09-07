@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A doll was recently found dead in a rice paddy. It's the only known instance of a nick nack paddy wack.
+What do you call a fly without wings? A walk.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **9 days** since this server shutdown
 
 ## Daily Trivia
 
-The acronym &quot;RIP&quot; stands for which of these?
- 1. Routing Information Protocol
- 2. Routine Inspection Protocol
- 3. Regular Interval Processes
- 4. Runtime Instance Processes
+Which programming language shares its name with an island in Indonesia?
+ 1. Jakarta
+ 2. C
+ 3. Python
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  Routing Information Protocol
+  Java
 </details>
