@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the piece of bread say to the knife? Butter me up.
+Every machine in the coin factory broke down all of a sudden without explanation. It just doesn’t make any cents.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **10 days** since this server shutdown
 
 ## Daily Trivia
 
-What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
- 1. Coffee Lake
- 2. Broadwell
- 3. Skylake
- 4. Sandy Bridge
+Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
+ 1. Cheetah
+ 2. Puma
+ 3. Tiger
+ 4. Leopard
 
 <details>
   <summary>Answer</summary>
-  Coffee Lake
+  Cheetah
 </details>
