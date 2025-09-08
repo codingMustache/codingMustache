@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I dreamed about drowning in an ocean made out of orange soda last night. It took me a while to work out it was just a Fanta sea.
+Astronomers got tired watching the moon go around the earth for 24 hours. They decided to call it a day.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **10 days** since this server shutdown
 
 ## Daily Trivia
 
-What is the name of Layer 7 of the OSI model?
- 1. Network
- 2. Session
- 3. Present
- 4. Application
+While Apple was formed in California, in which western state was Microsoft founded?
+ 1. Colorado
+ 2. Washington
+ 3. Arizona
+ 4. New Mexico
 
 <details>
   <summary>Answer</summary>
-  Application
+  New Mexico
 </details>
