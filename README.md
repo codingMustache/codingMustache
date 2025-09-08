@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to hate facial hair, but then it grew on me.
+My dentist is the best, he even has a little plaque!
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **10 days** since this server shutdown
 
 ## Daily Trivia
 
-Which one of these is not an official development name for a Ubuntu release?
- 1. Mystic Mansion
- 2. Wily Werewolf
- 3. Utopic Unicorn
- 4. Trusty Tahr
+In web design, what does CSS stand for?
+ 1. Cascading Style Sheet
+ 2. Corrective Style Sheet
+ 3. Counter Strike: Source
+ 4. Computer Style Sheet
 
 <details>
   <summary>Answer</summary>
-  Mystic Mansion
+  Cascading Style Sheet
 </details>
