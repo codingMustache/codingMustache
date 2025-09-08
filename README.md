@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Pie is $2.50 in Jamaica and $3.00 in The Bahamas. These are the pie-rates of the Caribbean.
+How come the stadium got hot after the game? Because all of the fans left.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **10 days** since this server shutdown
 
 ## Daily Trivia
 
-In computing, what does LAN stand for?
- 1. Long Antenna Node
- 2. Local Area Network
- 3. Land Address Navigation
- 4. Light Access Node
+The numbering system with a radix of 16 is more commonly referred to as 
+ 1. Octal
+ 2. Duodecimal
+ 3. Binary
+ 4. Hexidecimal
 
 <details>
   <summary>Answer</summary>
-  Local Area Network
+  Hexidecimal
 </details>
