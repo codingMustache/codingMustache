@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I burned 2000 calories today, I left my food in the oven for too long.
+So, I heard this pun about cows, but it’s kinda offensive so I won’t say it. I don’t want there to be any beef between us. 
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **10 days** since this server shutdown
 
 ## Daily Trivia
 
-What five letter word is the motto of the IBM Computer company?
- 1. Click
- 2. Logic
- 3. Think
- 4. Pixel
+Which of the following is the oldest of these computers by release date?
+ 1. Commodore 64
+ 2. ZX Spectrum
+ 3. TRS-80
+ 4. Apple 3
 
 <details>
   <summary>Answer</summary>
-  Think
+  TRS-80
 </details>
