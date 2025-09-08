@@ -4,22 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I ate a clock yesterday. It was so time consuming.
+I asked a frenchman if he played video games. He said "Wii"
 
 ## Home Server Up-Time
 
-Its been **9 days** since this server shutdown
+Its been **10 days** since this server shutdown
 
 
 ## Daily Trivia
 
-Lenovo acquired IBM&#039;s personal computer division, including the ThinkPad line of laptops and tablets, in what year?
- 1. 1999
- 2. 2002
- 3. 2005
- 4. 2008
+What is the main CPU is the Sega Mega Drive / Sega Genesis?
+ 1. Zilog Z80
+ 2. Yamaha YM2612
+ 3. Intel 8088
+ 4. Motorola 68000
 
 <details>
   <summary>Answer</summary>
-  2005
+  Motorola 68000
 </details>
