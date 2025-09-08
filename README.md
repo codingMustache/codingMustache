@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the teddy bear say “no” to dessert? Because she was stuffed.
+Where do you learn to make banana splits? At sundae school.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **10 days** since this server shutdown
 
 ## Daily Trivia
 
-Nvidia&#039;s headquarters are based in which Silicon Valley city?
- 1. Santa Clara
- 2. Mountain View
- 3. Palo Alto
- 4. Cupertino
+While Apple was formed in California, in which western state was Microsoft founded?
+ 1. Arizona
+ 2. Colorado
+ 3. New Mexico
+ 4. Washington
 
 <details>
   <summary>Answer</summary>
-  Santa Clara
+  New Mexico
 </details>
