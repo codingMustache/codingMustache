@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Don't trust atoms. They make up everything.
+What does a female snake use for support? A co-Bra!
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **10 days** since this server shutdown
 
 ## Daily Trivia
 
-What does the &#039;S&#039; in the RSA encryption algorithm stand for?
- 1. Shamir
- 2. Stable
- 3. Schottky
- 4. Secure
+While Apple was formed in California, in which western state was Microsoft founded?
+ 1. Arizona
+ 2. Colorado
+ 3. New Mexico
+ 4. Washington
 
 <details>
   <summary>Answer</summary>
-  Shamir
+  New Mexico
 </details>
