@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The urge to sing the Lion King song is just a whim away.
+what happens when you cross a sheep with a kangaroo ? A woolly jumper!
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **10 days** since this server shutdown
 
 ## Daily Trivia
 
-How many values can a single byte represent?
- 1. 256
- 2. 1
- 3. 8
- 4. 1024
+Which SQL keyword is used to fetch data from a database?
+ 1. EXEC
+ 2. VALUES
+ 3. INDEX
+ 4. SELECT
 
 <details>
   <summary>Answer</summary>
-  256
+  SELECT
 </details>
