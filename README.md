@@ -4,7 +4,9 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the traffic light say to the car as it passed? "Don't look I'm changing!"
+ I never wanted to believe that my Dad was stealing from his job as a road worker. But when I got home, all the signs were there.
+
+
 
 ## Home Server Up-Time
 
@@ -13,13 +15,13 @@ Its been **10 days** since this server shutdown
 
 ## Daily Trivia
 
-The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
- 1. HD Graphics 7000
- 2. HD Graphics 700 
- 3. HD Graphics 600
- 4. HD Graphics 500
+Which RAID array type is associated with data mirroring?
+ 1. RAID 0
+ 2. RAID 5
+ 3. RAID 10
+ 4. RAID 1
 
 <details>
   <summary>Answer</summary>
-  HD Graphics 500
+  RAID 1
 </details>
