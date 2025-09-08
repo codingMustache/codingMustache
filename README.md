@@ -4,8 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Q: What did the spaghetti say to the other spaghetti?
-A: Pasta la vista, baby!
+What do you call two guys hanging out by your window? Kurt & Rod.
 
 ## Home Server Up-Time
 
@@ -14,13 +13,13 @@ Its been **10 days** since this server shutdown
 
 ## Daily Trivia
 
-What does RAID stand for?
- 1. Rapid Access for Indexed Devices
- 2. Redundant Array of Independent Disks
- 3. Range of Applications with Identical Designs
- 4. Randomized Abstract Identification Description
+On which computer hardware device is the BIOS chip located?
+ 1. Hard Disk Drive
+ 2. Central Processing Unit
+ 3. Motherboard
+ 4. Graphics Processing Unit
 
 <details>
   <summary>Answer</summary>
-  Redundant Array of Independent Disks
+  Motherboard
 </details>
