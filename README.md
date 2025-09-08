@@ -4,7 +4,9 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What has three letters and starts with gas? A Car.
+What did the hat say to the scarf?
+You can hang around. I'll just go on ahead.
+
 
 ## Home Server Up-Time
 
@@ -13,13 +15,13 @@ Its been **10 days** since this server shutdown
 
 ## Daily Trivia
 
-If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
- 1. JavaScript
- 2. C++
- 3. Python
- 4. Binary
+Which programming language shares its name with an island in Indonesia?
+ 1. Python
+ 2. Java
+ 3. C
+ 4. Jakarta
 
 <details>
   <summary>Answer</summary>
-  Binary
+  Java
 </details>
