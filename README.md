@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Pie is $2.50 in Jamaica and $3.00 in The Bahamas. These are the pie-rates of the Caribbean.
+There’s a new type of broom out, it’s sweeping the nation.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **9 days** since this server shutdown
 
 ## Daily Trivia
 
-The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
- 1. United States
- 2. Germany
- 3. China (People&#039;s Republic of)
- 4. Taiwan
+On Twitter, what was the original character limit for a Tweet?
+ 1. 120
+ 2. 160
+ 3. 100
+ 4. 140
 
 <details>
   <summary>Answer</summary>
-  Taiwan
+  140
 </details>
