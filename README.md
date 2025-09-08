@@ -4,7 +4,9 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I asked a frenchman if he played video games. He said "Wii"
+I used to work at a stationery store.  But, I didn't feel like I was going anywhere.
+
+So, I got a job at a travel agency.  Now, I know I'll be going places.
 
 ## Home Server Up-Time
 
@@ -13,13 +15,13 @@ Its been **10 days** since this server shutdown
 
 ## Daily Trivia
 
-What is the main CPU is the Sega Mega Drive / Sega Genesis?
- 1. Zilog Z80
- 2. Yamaha YM2612
- 3. Intel 8088
- 4. Motorola 68000
+Which data structure does FILO apply to?
+ 1. Stack
+ 2. Tree
+ 3. Heap
+ 4. Queue
 
 <details>
   <summary>Answer</summary>
-  Motorola 68000
+  Stack
 </details>
