@@ -4,8 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Hostess: Do you have a preference of where you sit?
-Dad: Down.
+I made a playlist for hiking. It has music from Peanuts, The Cranberries, and Eminem. I call it my Trail Mix.
 
 ## Home Server Up-Time
 
@@ -14,13 +13,13 @@ Its been **10 days** since this server shutdown
 
 ## Daily Trivia
 
-The C programming language was created by this American computer scientist. 
- 1. Tim Berners Lee
- 2. al-Khwārizmī
- 3. Willis Ware
- 4. Dennis Ritchie
+What is the name of Layer 7 of the OSI model?
+ 1. Network
+ 2. Session
+ 3. Application
+ 4. Present
 
 <details>
   <summary>Answer</summary>
-  Dennis Ritchie
+  Application
 </details>
