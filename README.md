@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-which flower is most fierce? Dandelion
+I invented a new word! Plagiarism!
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **10 days** since this server shutdown
 
 ## Daily Trivia
 
-Which of these programming languages is a low-level language?
- 1. Python
- 2. Assembly
- 3. C#
- 4. Pascal
+Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
+ 1. Four Years
+ 2. Two Years
+ 3. Eight Years
+ 4. Year
 
 <details>
   <summary>Answer</summary>
-  Assembly
+  Year
 </details>
