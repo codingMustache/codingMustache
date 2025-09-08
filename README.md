@@ -4,9 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
- I never wanted to believe that my Dad was stealing from his job as a road worker. But when I got home, all the signs were there.
-
-
+New atoms frequently lose electrons when they fail to keep an ion them.
 
 ## Home Server Up-Time
 
@@ -15,13 +13,13 @@ Its been **10 days** since this server shutdown
 
 ## Daily Trivia
 
-Which RAID array type is associated with data mirroring?
- 1. RAID 0
- 2. RAID 5
- 3. RAID 10
- 4. RAID 1
+Which of these is not a layer in the OSI model for data communications?
+ 1. Connection Layer
+ 2. Transport Layer
+ 3. Application Layer
+ 4. Physical Layer
 
 <details>
   <summary>Answer</summary>
-  RAID 1
+  Connection Layer
 </details>
