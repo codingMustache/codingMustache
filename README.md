@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I thought about going on an all-almond diet. But that's just nuts.
+I used to have a job at a calendar factory but I got the sack because I took a couple of days off.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **10 days** since this server shutdown
 
 ## Daily Trivia
 
-In web design, what does CSS stand for?
- 1. Counter Strike: Source
- 2. Corrective Style Sheet
- 3. Computer Style Sheet
- 4. Cascading Style Sheet
+The teapot often seen in many 3D modeling applications is called what?
+ 1. Pixar Teapot
+ 2. Utah Teapot
+ 3. Tennessee Teapot
+ 4. 3D Teapot
 
 <details>
   <summary>Answer</summary>
-  Cascading Style Sheet
+  Utah Teapot
 </details>
