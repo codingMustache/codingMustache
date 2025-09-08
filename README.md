@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I had a pair of racing snails. I removed their shells to make them more aerodynamic, but they became sluggish.
+Two satellites decided to get married. The wedding wasn't much, but the reception was incredible.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **10 days** since this server shutdown
 
 ## Daily Trivia
 
-HTML is what type of language?
- 1. Scripting Language
- 2. Programming Language
- 3. Macro Language
- 4. Markup Language
+The C programming language was created by this American computer scientist. 
+ 1. Tim Berners Lee
+ 2. al-Khwārizmī
+ 3. Willis Ware
+ 4. Dennis Ritchie
 
 <details>
   <summary>Answer</summary>
-  Markup Language
+  Dennis Ritchie
 </details>
