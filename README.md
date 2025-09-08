@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Two satellites decided to get married. The wedding wasn't much, but the reception was incredible.
+I tried taking some high resolution photos of local farmland, but they all turned out a bit grainy.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **10 days** since this server shutdown
 
 ## Daily Trivia
 
-The C programming language was created by this American computer scientist. 
- 1. Tim Berners Lee
- 2. al-Khwārizmī
- 3. Willis Ware
- 4. Dennis Ritchie
+Which of these is not a layer in the OSI model for data communications?
+ 1. Connection Layer
+ 2. Transport Layer
+ 3. Physical Layer
+ 4. Application Layer
 
 <details>
   <summary>Answer</summary>
-  Dennis Ritchie
+  Connection Layer
 </details>
