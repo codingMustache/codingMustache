@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A cannibal is someone who is fed up with people.
+Someone broke into my house last night and stole my limbo trophy. How low can you go?
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **10 days** since this server shutdown
 
 ## Daily Trivia
 
-What amount of bits commonly equals one byte?
- 1. 1
- 2. 64
- 3. 8
- 4. 2
+What does the &#039;S&#039; in the RSA encryption algorithm stand for?
+ 1. Stable
+ 2. Secure
+ 3. Shamir
+ 4. Schottky
 
 <details>
   <summary>Answer</summary>
-  8
+  Shamir
 </details>
