@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the house go to the doctor? It was having window panes.
+New atoms frequently lose electrons when they fail to keep an ion them.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **10 days** since this server shutdown
 
 ## Daily Trivia
 
-What was the first commerically available computer processor?
- 1. Intel 486SX
- 2. TMS 1000
- 3. Intel 4004
- 4. AMD AM386
+Australia, Japan, and Southeast Asia are in which ITU Region?
+ 1. Region 4
+ 2. Region 3
+ 3. Region 2
+ 4. Region 1
 
 <details>
   <summary>Answer</summary>
-  Intel 4004
+  Region 3
 </details>
