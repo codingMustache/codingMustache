@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-In the news a courtroom artist was arrested today, I'm not surprised, he always seemed sketchy.
+How do you fix a broken pizza? With tomato paste.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **9 days** since this server shutdown
 
 ## Daily Trivia
 
-Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
- 1. Skipjack
- 2. Nautilus
- 3. Enigma Machine
- 4. Clipper Chip
+What does the term GPU stand for?
+ 1. Gaming Processor Unit
+ 2. Graphite Producing Unit
+ 3. Graphical Proprietary Unit
+ 4. Graphics Processing Unit
 
 <details>
   <summary>Answer</summary>
-  Clipper Chip
+  Graphics Processing Unit
 </details>
