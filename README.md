@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear the news? FedEx and UPS are merging. They’re going to go by the name Fed-Up from now on.
+What do you call a guy lying on your doorstep? Matt.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **10 days** since this server shutdown
 
 ## Daily Trivia
 
-On which day did the World Wide Web go online?
- 1. December 17, 1996
- 2. December 20, 1990
- 3. November 12, 1990
- 4. November 24, 1995
+Which of these is not a layer in the OSI model for data communications?
+ 1. Transport Layer
+ 2. Application Layer
+ 3. Connection Layer
+ 4. Physical Layer
 
 <details>
   <summary>Answer</summary>
-  December 20, 1990
+  Connection Layer
 </details>
