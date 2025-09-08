@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you make a 'one' disappear? You add a 'g' and it's 'gone'
+I was going to get a brain transplant, but I changed my mind
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **10 days** since this server shutdown
 
 ## Daily Trivia
 
-This mobile OS held the largest market share in 2012.
- 1. Android
- 2. BlackBerry
- 3. Symbian
- 4. iOS
+How many Hz does the video standard PAL support?
+ 1. 60
+ 2. 25
+ 3. 50
+ 4. 59
 
 <details>
   <summary>Answer</summary>
-  iOS
+  50
 </details>
