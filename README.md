@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-what happens when you cross a sheep with a kangaroo ? A woolly jumper!
+Did you hear the joke about the wandering nun? She was a roman catholic.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **10 days** since this server shutdown
 
 ## Daily Trivia
 
-Which SQL keyword is used to fetch data from a database?
- 1. EXEC
- 2. VALUES
- 3. INDEX
- 4. SELECT
+How many Hz does the video standard PAL support?
+ 1. 25
+ 2. 60
+ 3. 50
+ 4. 59
 
 <details>
   <summary>Answer</summary>
-  SELECT
+  50
 </details>
