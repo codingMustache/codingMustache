@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the shy pebble wish for? That she was a little boulder.
+How come the stadium got hot after the game? Because all of the fans left.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **9 days** since this server shutdown
 
 ## Daily Trivia
 
-What language does Node.js use?
- 1. JavaScript
- 2. Joomla Source Code
- 3. Java Source
- 4. Java
+What did the name of the Tor Anonymity Network orignially stand for?
+ 1. The Onion Router
+ 2. The Ominous Router
+ 3. The Orange Router
+ 4. The Only Router
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  The Onion Router
 </details>
