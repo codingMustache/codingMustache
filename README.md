@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a guy lying on your doorstep? Matt.
+How do you teach a kid to climb stairs? There is a step by step guide.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **10 days** since this server shutdown
 
 ## Daily Trivia
 
-Which of these is not a layer in the OSI model for data communications?
- 1. Transport Layer
- 2. Application Layer
- 3. Connection Layer
- 4. Physical Layer
+What does CPU stand for?
+ 1. Central Processing Unit
+ 2. Central Processor Unit
+ 3. Computer Personal Unit
+ 4. Central Process Unit
 
 <details>
   <summary>Answer</summary>
-  Connection Layer
+  Central Processing Unit
 </details>
