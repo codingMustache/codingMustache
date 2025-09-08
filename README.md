@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How come the stadium got hot after the game? Because all of the fans left.
+In the news a courtroom artist was arrested today, I'm not surprised, he always seemed sketchy.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **9 days** since this server shutdown
 
 ## Daily Trivia
 
-What did the name of the Tor Anonymity Network orignially stand for?
- 1. The Onion Router
- 2. The Ominous Router
- 3. The Orange Router
- 4. The Only Router
+Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
+ 1. Skipjack
+ 2. Nautilus
+ 3. Enigma Machine
+ 4. Clipper Chip
 
 <details>
   <summary>Answer</summary>
-  The Onion Router
+  Clipper Chip
 </details>
