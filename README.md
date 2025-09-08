@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Mountains aren't just funny, they are hill areas
+What do you get when you cross a chicken with a skunk? A fowl smell!
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **10 days** since this server shutdown
 
 ## Daily Trivia
 
-On which day did the World Wide Web go online?
- 1. November 12, 1990
- 2. December 17, 1996
- 3. November 24, 1995
- 4. December 20, 1990
+Which operating system was released first?
+ 1. Mac OS
+ 2. Linux
+ 3. OS/2
+ 4. Windows
 
 <details>
   <summary>Answer</summary>
-  December 20, 1990
+  Mac OS
 </details>
