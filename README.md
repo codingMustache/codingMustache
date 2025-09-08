@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What happens to a frog's car when it breaks down? It gets toad.
+I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **10 days** since this server shutdown
 
 ## Daily Trivia
 
-In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
- 1. &lt;marquee&gt;&lt;/marquee&gt;
- 2. &lt;scroll&gt;&lt;/scroll&gt;
- 3. &lt;move&gt;&lt;/move&gt;
- 4. &lt;slide&gt;&lt;/slide&gt;
+What programming language was GitHub written in?
+ 1. Lua
+ 2. Python
+ 3. JavaScript
+ 4. Ruby
 
 <details>
   <summary>Answer</summary>
-  &lt;marquee&gt;&lt;/marquee&gt;
+  Ruby
 </details>
