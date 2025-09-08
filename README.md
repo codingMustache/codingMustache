@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the fish say when it swam into a wall? Damn!
+What do you call a guy lying on your doorstep? Matt.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **10 days** since this server shutdown
 
 ## Daily Trivia
 
-What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
- 1. Sandy Bridge
- 2. Coffee Lake
- 3. Skylake
- 4. Broadwell
+Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
+ 1. Skipjack
+ 2. Clipper Chip
+ 3. Enigma Machine
+ 4. Nautilus
 
 <details>
   <summary>Answer</summary>
-  Coffee Lake
+  Clipper Chip
 </details>
