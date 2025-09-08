@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Yesterday a clown held a door open for me. I thought it was a nice jester.
+To the person who stole my anti-depressant pills: I hope you're happy now.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **10 days** since this server shutdown
 
 ## Daily Trivia
 
-Which operating system was released first?
- 1. Windows
- 2. Linux
- 3. OS/2
- 4. Mac OS
+Which programming language was developed by Sun Microsystems in 1995?
+ 1. Solaris OS
+ 2. Python
+ 3. Java
+ 4. C++
 
 <details>
   <summary>Answer</summary>
-  Mac OS
+  Java
 </details>
