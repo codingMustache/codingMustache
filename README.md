@@ -4,8 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the cookie cry?
-Because his mother was a wafer so long
+What creature is smarter than a talking parrot? A spelling bee.
 
 ## Home Server Up-Time
 
@@ -14,13 +13,13 @@ Its been **10 days** since this server shutdown
 
 ## Daily Trivia
 
-What does the International System of Quantities refer 1024 bytes as?
- 1. Kibibyte
- 2. Kelobyte
- 3. Kilobyte
- 4. Kylobyte
+What was the first commerically available computer processor?
+ 1. Intel 486SX
+ 2. Intel 4004
+ 3. TMS 1000
+ 4. AMD AM386
 
 <details>
   <summary>Answer</summary>
-  Kibibyte
+  Intel 4004
 </details>
