@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do cows wear bells? Because their horns don't work.
+What did the doctor say to the gingerbread man who broke his leg? Try icing it.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **10 days** since this server shutdown
 
 ## Daily Trivia
 
-Unix Time is defined as the number of seconds that have elapsed since when?
- 1. Midnight on the creator of Unix&#039;s birthday
- 2. Midnight, July 4, 1976
- 3. Midnight, July 4, 1980
- 4. Midnight, January 1, 1970
+Dutch computer scientist Mark Overmars is known for creating which game development engine?
+ 1. Stencyl
+ 2. Game Maker
+ 3. Construct
+ 4. Torque 2D
 
 <details>
   <summary>Answer</summary>
-  Midnight, January 1, 1970
+  Game Maker
 </details>
