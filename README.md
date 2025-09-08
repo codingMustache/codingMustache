@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I went to the zoo the other day, there was only one dog in it. It was a shitzu.
+Why did the opera singer go sailing? They wanted to hit the high Cs.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **10 days** since this server shutdown
 
 ## Daily Trivia
 
-What port does HTTP run on?
- 1. 23
- 2. 80
- 3. 53
- 4. 443
+When did the online streaming service &quot;Mixer&quot; launch?
+ 1. 2013
+ 2. 2009
+ 3. 2011
+ 4. 2016
 
 <details>
   <summary>Answer</summary>
-  80
+  2016
 </details>
