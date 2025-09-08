@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the difference between a guitar and a fish? You can tune a guitar but you can't "tuna" fish!
+What's the difference between a poorly dressed man on a tricycle and a well dressed man on a bicycle? Attire.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **10 days** since this server shutdown
 
 ## Daily Trivia
 
-Who is the founder of Palantir?
- 1. Mark Zuckerberg
- 2. Marc Benioff
- 3. Jack Dorsey
- 4. Peter Thiel
+In programming, the ternary operator is mostly defined with what symbol(s)?
+ 1. ?:
+ 2. ??
+ 3. if then
+ 4. ?
 
 <details>
   <summary>Answer</summary>
-  Peter Thiel
+  ?:
 </details>
