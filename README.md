@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-As I suspected, someone has been adding soil to my garden. The plot thickens.
+I had a pair of racing snails. I removed their shells to make them more aerodynamic, but they became sluggish.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **10 days** since this server shutdown
 
 ## Daily Trivia
 
-What language does Node.js use?
- 1. JavaScript
- 2. Joomla Source Code
- 3. Java Source
- 4. Java
+HTML is what type of language?
+ 1. Scripting Language
+ 2. Programming Language
+ 3. Macro Language
+ 4. Markup Language
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  Markup Language
 </details>
