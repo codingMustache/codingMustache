@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to have a job at a calendar factory but I got the sack because I took a couple of days off.
+A termite walks into a bar and asks “Is the bar tender here?”
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **10 days** since this server shutdown
 
 ## Daily Trivia
 
-Dutch computer scientist Mark Overmars is known for creating which game development engine?
- 1. Construct
- 2. Game Maker
- 3. Stencyl
- 4. Torque 2D
+Who is the original author of the realtime physics engine called PhysX?
+ 1. AMD
+ 2. Nvidia
+ 3. NovodeX
+ 4. Ageia
 
 <details>
   <summary>Answer</summary>
-  Game Maker
+  NovodeX
 </details>
