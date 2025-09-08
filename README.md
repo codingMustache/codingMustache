@@ -4,7 +4,8 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-When does a joke become a dad joke? When it becomes apparent.
+Q: What did the spaghetti say to the other spaghetti?
+A: Pasta la vista, baby!
 
 ## Home Server Up-Time
 
@@ -13,13 +14,13 @@ Its been **10 days** since this server shutdown
 
 ## Daily Trivia
 
-The C programming language was created by this American computer scientist. 
- 1. Dennis Ritchie
- 2. al-Khwārizmī
- 3. Willis Ware
- 4. Tim Berners Lee
+What does RAID stand for?
+ 1. Rapid Access for Indexed Devices
+ 2. Redundant Array of Independent Disks
+ 3. Range of Applications with Identical Designs
+ 4. Randomized Abstract Identification Description
 
 <details>
   <summary>Answer</summary>
-  Dennis Ritchie
+  Redundant Array of Independent Disks
 </details>
