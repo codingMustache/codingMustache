@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a group of disorganized cats? A cat-tastrophe.
+I broke my finger at work today, on the other hand I'm completely fine.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **10 days** since this server shutdown
 
 ## Daily Trivia
 
-The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
- 1. Marshall Islands
- 2. Tuvalu
- 3. Micronesia
- 4. Fiji
+What was the name of the first Bulgarian personal computer?
+ 1. IZOT 1030
+ 2. Pravetz 82
+ 3. Pravetz 8D
+ 4. IMKO-1
 
 <details>
   <summary>Answer</summary>
-  Micronesia
+  IMKO-1
 </details>
