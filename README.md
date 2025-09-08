@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What creature is smarter than a talking parrot? A spelling bee.
+What do you call a beehive without the b's? An eehive.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **10 days** since this server shutdown
 
 ## Daily Trivia
 
-What was the first commerically available computer processor?
- 1. Intel 486SX
- 2. Intel 4004
- 3. TMS 1000
- 4. AMD AM386
+America Online (AOL) started out as which of these online service providers?
+ 1. Quantum Link
+ 2. CompuServe
+ 3. GEnie
+ 4. Prodigy
 
 <details>
   <summary>Answer</summary>
-  Intel 4004
+  Quantum Link
 </details>
