@@ -4,11 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A panda walks into a bar and says to the bartender “I’ll have a Scotch and . . . . . . . . . . . . . . Coke thank you”. 
-
-“Sure thing” the bartender replies and asks “but what’s with the big pause?” 
-
-The panda holds up his hands and says “I was born with them”
+What did the traffic light say to the car as it passed? "Don't look I'm changing!"
 
 ## Home Server Up-Time
 
@@ -17,13 +13,13 @@ Its been **10 days** since this server shutdown
 
 ## Daily Trivia
 
-On which computer hardware device is the BIOS chip located?
- 1. Motherboard
- 2. Hard Disk Drive
- 3. Central Processing Unit
- 4. Graphics Processing Unit
+The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
+ 1. HD Graphics 7000
+ 2. HD Graphics 700 
+ 3. HD Graphics 600
+ 4. HD Graphics 500
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  HD Graphics 500
 </details>
