@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why is the new Kindle screen textured to look like paper? So you feel write at home.
+So, I heard this pun about cows, but it’s kinda offensive so I won’t say it. I don’t want there to be any beef between us. 
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **10 days** since this server shutdown
 
 ## Daily Trivia
 
-What is the most preferred image format used for logos in the Wikimedia database?
- 1. .gif
- 2. .svg
- 3. .jpeg
- 4. .png
+Which of the following physical typologies are used with Ethernet Networks?
+ 1. Mesh
+ 2. Star
+ 3. Ring
+ 4. Hex
 
 <details>
   <summary>Answer</summary>
-  .svg
+  Star
 </details>
