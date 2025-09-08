@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-So, I heard this pun about cows, but it’s kinda offensive so I won’t say it. I don’t want there to be any beef between us. 
+I got fired from the transmission factor, turns out I didn't put on enough shifts...
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **10 days** since this server shutdown
 
 ## Daily Trivia
 
-Which of the following physical typologies are used with Ethernet Networks?
- 1. Mesh
- 2. Star
- 3. Ring
- 4. Hex
+Dutch computer scientist Mark Overmars is known for creating which game development engine?
+ 1. Stencyl
+ 2. Game Maker
+ 3. Construct
+ 4. Torque 2D
 
 <details>
   <summary>Answer</summary>
-  Star
+  Game Maker
 </details>
