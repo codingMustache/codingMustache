@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The invention of the wheel was what got things rolling
+How many apples grow on a tree? All of them!
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **10 days** since this server shutdown
 
 ## Daily Trivia
 
-The numbering system with a radix of 16 is more commonly referred to as 
- 1. Binary
- 2. Duodecimal
- 3. Hexidecimal
- 4. Octal
+What major programming language does Unreal Engine 4 use?
+ 1. C#
+ 2. Assembly
+ 3. ECMAScript
+ 4. C++
 
 <details>
   <summary>Answer</summary>
-  Hexidecimal
+  C++
 </details>
