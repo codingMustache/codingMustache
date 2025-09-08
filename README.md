@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do bees hum? Because they don't know the words.
+How do you organize a space party? You planet.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **10 days** since this server shutdown
 
 ## Daily Trivia
 
-Which of the following languages is used as a scripting language in the Unity 3D game engine?
- 1. C#
- 2. Java
- 3. C++
- 4. Objective-C
+In the server hosting industry IaaS stands for...
+ 1. Internet as a Service
+ 2. Internet and a Server
+ 3. Infrastructure as a Server
+ 4. Infrastructure as a Service
 
 <details>
   <summary>Answer</summary>
-  C#
+  Infrastructure as a Service
 </details>
