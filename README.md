@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I broke my finger at work today, on the other hand I'm completely fine.
+The Swiss must've been pretty confident in their chances of victory if they included a corkscrew in their army knife.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **10 days** since this server shutdown
 
 ## Daily Trivia
 
-What was the name of the first Bulgarian personal computer?
- 1. IZOT 1030
- 2. Pravetz 82
- 3. Pravetz 8D
- 4. IMKO-1
+On which computer hardware device is the BIOS chip located?
+ 1. Graphics Processing Unit
+ 2. Motherboard
+ 3. Central Processing Unit
+ 4. Hard Disk Drive
 
 <details>
   <summary>Answer</summary>
-  IMKO-1
+  Motherboard
 </details>
