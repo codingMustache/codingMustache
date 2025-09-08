@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Mountains aren't just funny, they are hill areas
+I've just written a song about a tortilla. Well, it is more of a rap really.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **10 days** since this server shutdown
 
 ## Daily Trivia
 
-What is the name of the default theme that is installed with Windows XP?
- 1. Neptune
- 2. Whistler
- 3. Luna
- 4. Bliss
+The C programming language was created by this American computer scientist. 
+ 1. Willis Ware
+ 2. Dennis Ritchie
+ 3. al-Khwārizmī
+ 4. Tim Berners Lee
 
 <details>
   <summary>Answer</summary>
-  Luna
+  Dennis Ritchie
 </details>
