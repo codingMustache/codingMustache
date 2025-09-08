@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-"Hey, dad, did you get a haircut?" "No, I got them all cut."
+I applied to be a doorman but didn't get the job due to lack of experience. That surprised me, I thought it was an entry level position.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **10 days** since this server shutdown
 
 ## Daily Trivia
 
-This mobile OS held the largest market share in 2012.
- 1. Symbian
- 2. BlackBerry
- 3. Android
- 4. iOS
+In computing terms, typically what does CLI stand for?
+ 1. Common Language Interface
+ 2. Control Line Interface
+ 3. Common Language Input
+ 4. Command Line Interface
 
 <details>
   <summary>Answer</summary>
-  iOS
+  Command Line Interface
 </details>
