@@ -4,9 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the hat say to the scarf?
-You can hang around. I'll just go on ahead.
-
+Why did the teddy bear say “no” to dessert? Because she was stuffed.
 
 ## Home Server Up-Time
 
@@ -15,13 +13,13 @@ Its been **10 days** since this server shutdown
 
 ## Daily Trivia
 
-Which programming language shares its name with an island in Indonesia?
- 1. Python
- 2. Java
- 3. C
- 4. Jakarta
+Nvidia&#039;s headquarters are based in which Silicon Valley city?
+ 1. Santa Clara
+ 2. Mountain View
+ 3. Palo Alto
+ 4. Cupertino
 
 <details>
   <summary>Answer</summary>
-  Java
+  Santa Clara
 </details>
