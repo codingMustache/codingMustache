@@ -4,7 +4,8 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What concert costs only 45 cents? 50 cent featuring Nickelback.
+Cosmetic surgery used to be such a taboo subject.
+Now you can talk about Botox and nobody raises an eyebrow.
 
 ## Home Server Up-Time
 
@@ -13,13 +14,13 @@ Its been **10 days** since this server shutdown
 
 ## Daily Trivia
 
-What is the name of the process that sends one qubit of information using two bits of classical information?
- 1. Quantum Programming
- 2. Quantum Entanglement
- 3. Quantum Teleportation
- 4. Super Dense Coding
+How long is an IPv6 address?
+ 1. 64 bits
+ 2. 128 bits
+ 3. 32 bits
+ 4. 128 bytes
 
 <details>
   <summary>Answer</summary>
-  Quantum Teleportation
+  128 bits
 </details>
