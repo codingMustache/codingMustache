@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why is the new Kindle screen textured to look like paper? So you feel write at home.
+Why do wizards clean their teeth three times a day? To prevent bat breath!
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **10 days** since this server shutdown
 
 ## Daily Trivia
 
-Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
- 1. Amazon
- 2. eBay
- 3. Overstock
- 4. Shopify
+Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
+ 1. Enigma Machine
+ 2. Skipjack
+ 3. Clipper Chip
+ 4. Nautilus
 
 <details>
   <summary>Answer</summary>
-  Amazon
+  Clipper Chip
 </details>
