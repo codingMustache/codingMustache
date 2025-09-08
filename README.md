@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the traffic light say to the car as it passed? "Don't look I'm changing!"
+It’s hard to explain puns to kleptomaniacs, because they take everything literally.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **10 days** since this server shutdown
 
 ## Daily Trivia
 
-Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
- 1. Heartbleed
- 2. Shellscript
- 3. Corrupted Blood
- 4. Shellshock
+The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
+ 1. Germany
+ 2. China (People&#039;s Republic of)
+ 3. Taiwan
+ 4. United States
 
 <details>
   <summary>Answer</summary>
-  Heartbleed
+  Taiwan
 </details>
