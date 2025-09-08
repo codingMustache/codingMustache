@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I hate perforated lines, they're tearable.
+The urge to sing the Lion King song is just a whim away.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **10 days** since this server shutdown
 
 ## Daily Trivia
 
-What does the International System of Quantities refer 1024 bytes as?
- 1. Kibibyte
- 2. Kelobyte
- 3. Kylobyte
- 4. Kilobyte
+How many values can a single byte represent?
+ 1. 256
+ 2. 1
+ 3. 8
+ 4. 1024
 
 <details>
   <summary>Answer</summary>
-  Kibibyte
+  256
 </details>
