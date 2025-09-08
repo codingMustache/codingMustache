@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many apples grow on a tree? All of them!
+R.I.P. boiled water. You will be mist.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **10 days** since this server shutdown
 
 ## Daily Trivia
 
-What major programming language does Unreal Engine 4 use?
- 1. C#
- 2. Assembly
- 3. ECMAScript
- 4. C++
+What does the Prt Sc button do?
+ 1. Captures what&#039;s on the screen and copies it to your clipboard
+ 2. Nothing
+ 3. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
+ 4. Closes all windows
 
 <details>
   <summary>Answer</summary>
-  C++
+  Captures what&#039;s on the screen and copies it to your clipboard
 </details>
