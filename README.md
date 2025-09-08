@@ -4,7 +4,8 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Every machine in the coin factory broke down all of a sudden without explanation. It just doesn’t make any cents.
+"Dad, I'm cold."
+"Go stand in the corner, I hear it's 90 degrees."
 
 ## Home Server Up-Time
 
@@ -13,13 +14,13 @@ Its been **10 days** since this server shutdown
 
 ## Daily Trivia
 
-Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
- 1. Cheetah
- 2. Puma
- 3. Tiger
- 4. Leopard
+Which of the following languages is used as a scripting language in the Unity 3D game engine?
+ 1. Objective-C
+ 2. C#
+ 3. C++
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  Cheetah
+  C#
 </details>
