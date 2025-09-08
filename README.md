@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-If you’re struggling to think of what to get someone for Christmas. Get them a fridge and watch their face light up when they open it.
+which flower is most fierce? Dandelion
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **10 days** since this server shutdown
 
 ## Daily Trivia
 
-Which of these names was an actual codename for a cancelled Microsoft project?
- 1. Neptune
- 2. Saturn
- 3. Pollux
- 4. Enceladus
+Which of these people was NOT a founder of Apple Inc?
+ 1. Steve Jobs
+ 2. Ronald Wayne
+ 3. Jonathan Ive
+ 4. Steve Wozniak
 
 <details>
   <summary>Answer</summary>
-  Neptune
+  Jonathan Ive
 </details>
