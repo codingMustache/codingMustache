@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I saw an ad in a shop window, "Television for sale, $1, volume stuck on full", I thought, "I can't turn that down".
+I went on a date last night with a girl from the zoo. It was great. She’s a keeper.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **10 days** since this server shutdown
 
 ## Daily Trivia
 
-How many bits make up the significand portion of a single precision floating point number?
- 1. 8
- 2. 23
- 3. 53
- 4. 15
+Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
+ 1. Year
+ 2. Four Years
+ 3. Two Years
+ 4. Eight Years
 
 <details>
   <summary>Answer</summary>
-  23
+  Year
 </details>
