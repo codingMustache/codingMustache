@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A termite walks into a bar and asks “Is the bar tender here?”
+Dad I’m hungry’ … ‘Hi hungry I’m dad
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **10 days** since this server shutdown
 
 ## Daily Trivia
 
-Who is the original author of the realtime physics engine called PhysX?
- 1. AMD
- 2. Nvidia
- 3. NovodeX
- 4. Ageia
+The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
+ 1. Taiwan
+ 2. China (People&#039;s Republic of)
+ 3. Germany
+ 4. United States
 
 <details>
   <summary>Answer</summary>
-  NovodeX
+  Taiwan
 </details>
