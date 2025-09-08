@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-They tried to make a diamond shaped like a duck. It quacked under the pressure.
+Why did the kid cross the playground? To get to the other slide.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **10 days** since this server shutdown
 
 ## Daily Trivia
 
-The name of technology company HP stands for what?
- 1. Howard Packmann
- 2. Husker-Pollosk
- 3. Hellman-Pohl
- 4. Hewlett-Packard
+What is the most preferred image format used for logos in the Wikimedia database?
+ 1. .png
+ 2. .jpeg
+ 3. .gif
+ 4. .svg
 
 <details>
   <summary>Answer</summary>
-  Hewlett-Packard
+  .svg
 </details>
