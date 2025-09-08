@@ -4,7 +4,8 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A butcher accidentally backed into his meat grinder and got a little behind in his work that day.
+Q: What did the spaghetti say to the other spaghetti?
+A: Pasta la vista, baby!
 
 ## Home Server Up-Time
 
@@ -13,13 +14,13 @@ Its been **10 days** since this server shutdown
 
 ## Daily Trivia
 
-The acronym &quot;RIP&quot; stands for which of these?
- 1. Routing Information Protocol
- 2. Routine Inspection Protocol
- 3. Regular Interval Processes
- 4. Runtime Instance Processes
+What language does Node.js use?
+ 1. Java
+ 2. Java Source
+ 3. JavaScript
+ 4. Joomla Source Code
 
 <details>
   <summary>Answer</summary>
-  Routing Information Protocol
+  JavaScript
 </details>
