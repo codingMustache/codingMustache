@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the difference between a hippo and a zippo? One is really heavy, the other is a little lighter.
+Where does batman go to the bathroom? The batroom.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-Who is the original author of the realtime physics engine called PhysX?
- 1. Ageia
- 2. Nvidia
- 3. AMD
- 4. NovodeX
+What is the number of keys on a standard Windows Keyboard?
+ 1. 104
+ 2. 64
+ 3. 94
+ 4. 76
 
 <details>
   <summary>Answer</summary>
-  NovodeX
+  104
 </details>
