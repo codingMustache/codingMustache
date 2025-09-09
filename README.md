@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you teach a kid to climb stairs? There is a step by step guide.
+Did you know you should always take an extra pair of pants golfing? Just in case you get a hole in one.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-What amount of bits commonly equals one byte?
- 1. 2
- 2. 64
- 3. 8
- 4. 1
+What is the code name for the mobile operating system Android 7.0?
+ 1. Ice Cream Sandwich
+ 2. Jelly Bean
+ 3. Marshmallow
+ 4. Nougat
 
 <details>
   <summary>Answer</summary>
-  8
+  Nougat
 </details>
