@@ -4,7 +4,9 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the ocean say to the beach? Thanks for all the sediment.
+What did the hat say to the scarf?
+You can hang around. I'll just go on ahead.
+
 
 ## Home Server Up-Time
 
@@ -13,13 +15,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-What internet protocol was documented in RFC 1459?
- 1. IRC
- 2. HTTPS
- 3. HTTP
- 4. FTP
+On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
+ 1. Percent Sign
+ 2. Dollar Sign
+ 3. Exclamation Mark
+ 4. Asterisk
 
 <details>
   <summary>Answer</summary>
-  IRC
+  Exclamation Mark
 </details>
