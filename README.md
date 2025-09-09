@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the chicken get a penalty? For fowl play.
+The rotation of earth really makes my day.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-When was the programming language &quot;C#&quot; released?
- 1. 2000
- 2. 2001
- 3. 1999
- 4. 1998
+In computing, what does MIDI stand for?
+ 1. Musical Interface of Digital Instruments
+ 2. Modular Interface of Digital Instruments
+ 3. Musical Instrument Data Interface
+ 4. Musical Instrument Digital Interface
 
 <details>
   <summary>Answer</summary>
-  2000
+  Musical Instrument Digital Interface
 </details>
