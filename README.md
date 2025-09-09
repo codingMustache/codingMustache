@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the miner get fired from his job? He took it for granite...
+Why did the tomato blush? Because it saw the salad dressing.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-Which of these is not a layer in the OSI model for data communications?
- 1. Application Layer
- 2. Connection Layer
- 3. Physical Layer
- 4. Transport Layer
+Which of the following physical typologies are used with Ethernet Networks?
+ 1. Ring
+ 2. Mesh
+ 3. Star
+ 4. Hex
 
 <details>
   <summary>Answer</summary>
-  Connection Layer
+  Star
 </details>
