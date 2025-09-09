@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Two satellites decided to get married. The wedding wasn't much, but the reception was incredible.
+What did the Buffalo say to his little boy when he dropped him off at school? Bison.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-When did the online streaming service &quot;Mixer&quot; launch?
- 1. 2013
- 2. 2016
- 3. 2011
- 4. 2009
+In the server hosting industry IaaS stands for...
+ 1. Internet and a Server
+ 2. Internet as a Service
+ 3. Infrastructure as a Service
+ 4. Infrastructure as a Server
 
 <details>
   <summary>Answer</summary>
-  2016
+  Infrastructure as a Service
 </details>
