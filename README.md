@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-To the person who stole my anti-depressant pills: I hope you're happy now.
+Why are fish easy to weigh? Because they have their own scales.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-What five letter word is the motto of the IBM Computer company?
- 1. Think
- 2. Pixel
- 3. Logic
- 4. Click
+Which of the following physical typologies are used with Ethernet Networks?
+ 1. Ring
+ 2. Hex
+ 3. Mesh
+ 4. Star
 
 <details>
   <summary>Answer</summary>
-  Think
+  Star
 </details>
