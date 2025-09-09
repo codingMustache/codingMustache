@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the m&m go to school? Because it wanted to be a Smartie!
+When does a joke become a dad joke? When it becomes apparent.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-The acronym &quot;RIP&quot; stands for which of these?
- 1. Routine Inspection Protocol
- 2. Regular Interval Processes
- 3. Runtime Instance Processes
- 4. Routing Information Protocol
+Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
+ 1. eBay
+ 2. Overstock
+ 3. Amazon
+ 4. Shopify
 
 <details>
   <summary>Answer</summary>
-  Routing Information Protocol
+  Amazon
 </details>
