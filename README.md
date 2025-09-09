@@ -4,7 +4,8 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you know the first French fries weren't actually cooked in France? They were cooked in Greece.
+Hostess: Do you have a preference of where you sit?
+Dad: Down.
 
 ## Home Server Up-Time
 
@@ -13,13 +14,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
- 1. Percent Sign
- 2. Exclamation Mark
- 3. Asterisk
- 4. Dollar Sign
+In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
+ 1. &lt;slide&gt;&lt;/slide&gt;
+ 2. &lt;scroll&gt;&lt;/scroll&gt;
+ 3. &lt;move&gt;&lt;/move&gt;
+ 4. &lt;marquee&gt;&lt;/marquee&gt;
 
 <details>
   <summary>Answer</summary>
-  Exclamation Mark
+  &lt;marquee&gt;&lt;/marquee&gt;
 </details>
