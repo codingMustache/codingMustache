@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How come the stadium got hot after the game? Because all of the fans left.
+Where do you take someone who’s been injured in a peek-a-boo accident? To the I.C.U.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **10 days** since this server shutdown
 
 ## Daily Trivia
 
-The numbering system with a radix of 16 is more commonly referred to as 
- 1. Octal
- 2. Duodecimal
- 3. Binary
- 4. Hexidecimal
+Australia, Japan, and Southeast Asia are in which ITU Region?
+ 1. Region 1
+ 2. Region 3
+ 3. Region 2
+ 4. Region 4
 
 <details>
   <summary>Answer</summary>
-  Hexidecimal
+  Region 3
 </details>
