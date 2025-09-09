@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Writing with a broken pencil is pointless.
+The word queue is ironic. It's just q with a bunch of silent letters waiting in line.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
- 1. Taiwan
- 2. United States
- 3. Germany
- 4. China (People&#039;s Republic of)
+What is known as &quot;the brain&quot; of the Computer?
+ 1. Keyboard
+ 2. Graphics Processing Unit
+ 3. Central Processing Unit
+ 4. Motherboard
 
 <details>
   <summary>Answer</summary>
-  Taiwan
+  Central Processing Unit
 </details>
