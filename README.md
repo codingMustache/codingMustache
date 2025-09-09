@@ -13,13 +13,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
- 1. China (People&#039;s Republic of)
- 2. United States
- 3. Taiwan
- 4. Germany
+The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
+ 1. HD Graphics 700 
+ 2. HD Graphics 600
+ 3. HD Graphics 7000
+ 4. HD Graphics 500
 
 <details>
   <summary>Answer</summary>
-  Taiwan
+  HD Graphics 500
 </details>
