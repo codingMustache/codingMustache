@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-When Dad drops a pea off of his plate ‘oh dear I’ve pee’d on the table!
+What did the 0 say to the 8? Nice belt.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-Which computer language would you associate Django framework with?
- 1. Python
- 2. C#
- 3. Java
- 4. C++
+Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
+ 1. eBay
+ 2. Overstock
+ 3. Shopify
+ 4. Amazon
 
 <details>
   <summary>Answer</summary>
-  Python
+  Amazon
 </details>
