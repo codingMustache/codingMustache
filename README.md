@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I thought my wife was joking when she said she'd leave me if I didn't stop signing "I'm A Believer"... Then I saw her face.
+Why did the miner get fired from his job? He took it for granite...
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-Which programming language shares its name with an island in Indonesia?
- 1. Python
- 2. C
- 3. Java
- 4. Jakarta
+What is the main CPU is the Sega Mega Drive / Sega Genesis?
+ 1. Yamaha YM2612
+ 2. Motorola 68000
+ 3. Zilog Z80
+ 4. Intel 8088
 
 <details>
   <summary>Answer</summary>
-  Java
+  Motorola 68000
 </details>
