@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-When does a joke become a dad joke? When it becomes apparent.
+What did the drummer name her twin daughters? Anna One, Anna Two...
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
- 1. eBay
- 2. Overstock
- 3. Amazon
- 4. Shopify
+The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
+ 1. HD Graphics 7000
+ 2. HD Graphics 600
+ 3. HD Graphics 500
+ 4. HD Graphics 700 
 
 <details>
   <summary>Answer</summary>
-  Amazon
+  HD Graphics 500
 </details>
