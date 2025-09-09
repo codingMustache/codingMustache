@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I went to a book store and asked the saleswoman where the Self Help section was, she said if she told me it would defeat the purpose.
+I'd like to start a diet, but I've got too much on my plate right now.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-Which computer hardware device provides an interface for all other connected devices to communicate?
- 1. Central Processing Unit
- 2. Random Access Memory
- 3. Motherboard
- 4. Hard Disk Drive
+Who is the founder of Palantir?
+ 1. Jack Dorsey
+ 2. Peter Thiel
+ 3. Marc Benioff
+ 4. Mark Zuckerberg
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  Peter Thiel
 </details>
