@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Do I enjoy making courthouse puns? Guilty
+Why did the octopus beat the shark in a fight? Because it was well armed.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-Who invented the &quot;Spanning Tree Protocol&quot;?
- 1. Paul Vixie
- 2. Radia Perlman
- 3. Vint Cerf
- 4. Michael Roberts
+Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
+ 1. Shellscript
+ 2. Corrupted Blood
+ 3. Heartbleed
+ 4. Shellshock
 
 <details>
   <summary>Answer</summary>
-  Radia Perlman
+  Heartbleed
 </details>
