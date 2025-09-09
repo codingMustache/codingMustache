@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was the strawberry sad? Its parents were in a jam.
+To the person who stole my anti-depressant pills: I hope you're happy now.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
- 1. PCM Sampler
- 2. ADPCM Sampler
- 3. FM Synthesizer
- 4. Programmable Sound Generator (PSG)
+What was the first Android version specifically optimized for tablets?
+ 1. Honeycomb
+ 2. Marshmellow
+ 3. Froyo
+ 4. Eclair
 
 <details>
   <summary>Answer</summary>
-  ADPCM Sampler
+  Honeycomb
 </details>
