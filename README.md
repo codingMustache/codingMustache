@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why can't eggs have love? They will break up too soon.
+When Dad drops a pea off of his plate ‘oh dear I’ve pee’d on the table!
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
- 1. Marshall Islands
- 2. Tuvalu
- 3. Fiji
- 4. Micronesia
+Which computer language would you associate Django framework with?
+ 1. Python
+ 2. C#
+ 3. Java
+ 4. C++
 
 <details>
   <summary>Answer</summary>
-  Micronesia
+  Python
 </details>
