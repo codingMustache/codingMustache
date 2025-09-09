@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It’s hard to explain puns to kleptomaniacs, because they take everything literally.
+Why did the teddy bear say “no” to dessert? Because she was stuffed.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-What does GHz stand for?
- 1. Gigahatz
- 2. Gigahotz
- 3. Gigahertz
- 4. Gigahetz
+What does AD stand for in relation to Windows Operating Systems? 
+ 1. Active Directory
+ 2. Active Department
+ 3. Automated Database
+ 4. Alternative Drive
 
 <details>
   <summary>Answer</summary>
-  Gigahertz
+  Active Directory
 </details>
