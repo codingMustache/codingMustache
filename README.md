@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How come a man driving a train got struck by lightning? He was a good conductor.
+Remember, the best angle to approach a problem from is the "try" angle.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-Lenovo acquired IBM&#039;s personal computer division, including the ThinkPad line of laptops and tablets, in what year?
- 1. 2005
- 2. 2008
- 3. 2002
- 4. 1999
+How fast is USB 3.1 Gen 2 theoretically?
+ 1. 5 Gb/s
+ 2. 8 Gb/s
+ 3. 1 Gb/s
+ 4. 10 Gb/s
 
 <details>
   <summary>Answer</summary>
-  2005
+  10 Gb/s
 </details>
