@@ -4,7 +4,8 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a boomerang that won't come back? A stick.
+Why did the cookie cry?
+Because his mother was a wafer so long
 
 ## Home Server Up-Time
 
@@ -13,13 +14,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-Generally, which component of a computer draws the most power?
- 1. Processor
- 2. Hard Drive
- 3. Power Supply
- 4. Video Card
+What does the term MIME stand for, in regards to computing?
+ 1. Multipurpose Internet Mail Extensions
+ 2. Mail Interleave Method Exchange
+ 3. Multipurpose Interleave Mail Exchange
+ 4. Mail Internet Mail Exchange
 
 <details>
   <summary>Answer</summary>
-  Video Card
+  Multipurpose Internet Mail Extensions
 </details>
