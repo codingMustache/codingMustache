@@ -4,8 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is red and smells like blue paint?
-Red paint!
+Without geometry life is pointless.
 
 ## Home Server Up-Time
 
@@ -14,13 +13,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-What is the main CPU is the Sega Mega Drive / Sega Genesis?
- 1. Motorola 68000
- 2. Intel 8088
- 3. Yamaha YM2612
- 4. Zilog Z80
+The C programming language was created by this American computer scientist. 
+ 1. Dennis Ritchie
+ 2. Willis Ware
+ 3. al-Khwārizmī
+ 4. Tim Berners Lee
 
 <details>
   <summary>Answer</summary>
-  Motorola 68000
+  Dennis Ritchie
 </details>
