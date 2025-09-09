@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Someone asked me to name two structures that hold water. I said "Well dam"
+I had a pair of racing snails. I removed their shells to make them more aerodynamic, but they became sluggish.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-Which computer hardware device provides an interface for all other connected devices to communicate?
- 1. Motherboard
- 2. Random Access Memory
- 3. Hard Disk Drive
- 4. Central Processing Unit
+How many kilobytes in one gigabyte (in decimal)?
+ 1. 1024
+ 2. 1000
+ 3. 1048576
+ 4. 1000000
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  1000000
 </details>
