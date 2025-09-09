@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the campsite that got visited by Bigfoot? It got in tents.
+Two satellites decided to get married. The wedding wasn't much, but the reception was incredible.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
- 1. &lt;slide&gt;&lt;/slide&gt;
- 2. &lt;marquee&gt;&lt;/marquee&gt;
- 3. &lt;move&gt;&lt;/move&gt;
- 4. &lt;scroll&gt;&lt;/scroll&gt;
+When did the online streaming service &quot;Mixer&quot; launch?
+ 1. 2013
+ 2. 2016
+ 3. 2011
+ 4. 2009
 
 <details>
   <summary>Answer</summary>
-  &lt;marquee&gt;&lt;/marquee&gt;
+  2016
 </details>
