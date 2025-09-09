@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are oranges the smartest fruit? Because they are made to concentrate. 
+What is a witch's favorite subject in school? Spelling!
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-What does &quot;LCD&quot; stand for?
- 1. Liquid Crystal Display
- 2. Last Common Difference
- 3. Long Continuous Design
- 4. Language Control Design
+Which of these is not a layer in the OSI model for data communications?
+ 1. Connection Layer
+ 2. Application Layer
+ 3. Physical Layer
+ 4. Transport Layer
 
 <details>
   <summary>Answer</summary>
-  Liquid Crystal Display
+  Connection Layer
 </details>
