@@ -4,7 +4,8 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-You will never guess what Elsa did to the balloon. She let it go.
+Some people say that I never got over my obsession with Phil Collins.
+But take a look at me now.
 
 ## Home Server Up-Time
 
@@ -13,13 +14,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-The numbering system with a radix of 16 is more commonly referred to as 
- 1. Hexidecimal
- 2. Octal
- 3. Duodecimal
- 4. Binary
+What does the term GPU stand for?
+ 1. Gaming Processor Unit
+ 2. Graphical Proprietary Unit
+ 3. Graphite Producing Unit
+ 4. Graphics Processing Unit
 
 <details>
   <summary>Answer</summary>
-  Hexidecimal
+  Graphics Processing Unit
 </details>
