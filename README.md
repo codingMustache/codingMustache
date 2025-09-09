@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you know that ghosts call their true love their ghoul-friend?
+Why did the miner get fired from his job? He took it for granite...
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-What does AD stand for in relation to Windows Operating Systems? 
- 1. Active Department
- 2. Alternative Drive
- 3. Automated Database
- 4. Active Directory
+Which of these is not a layer in the OSI model for data communications?
+ 1. Application Layer
+ 2. Connection Layer
+ 3. Physical Layer
+ 4. Transport Layer
 
 <details>
   <summary>Answer</summary>
-  Active Directory
+  Connection Layer
 </details>
