@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the kidnapping at school? It's ok, he woke up.
+What kind of music do planets listen to? Nep-tunes.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-Who invented the &quot;Spanning Tree Protocol&quot;?
- 1. Michael Roberts
- 2. Radia Perlman
- 3. Vint Cerf
- 4. Paul Vixie
+In the server hosting industry IaaS stands for...
+ 1. Infrastructure as a Server
+ 2. Infrastructure as a Service
+ 3. Internet and a Server
+ 4. Internet as a Service
 
 <details>
   <summary>Answer</summary>
-  Radia Perlman
+  Infrastructure as a Service
 </details>
