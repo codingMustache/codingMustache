@@ -4,7 +4,8 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you steal a coat? You jacket.
+What do you do when you see a space man?
+Park your car, man.
 
 ## Home Server Up-Time
 
@@ -13,13 +14,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-.at is the top-level domain for what country?
- 1. Argentina
- 2. Australia
- 3. Angola
- 4. Austria
+What is the name of the default theme that is installed with Windows XP?
+ 1. Whistler
+ 2. Neptune
+ 3. Bliss
+ 4. Luna
 
 <details>
   <summary>Answer</summary>
-  Austria
+  Luna
 </details>
