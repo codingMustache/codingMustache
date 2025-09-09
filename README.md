@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Is there a hole in your shoe? No… Then how’d you get your foot in it?
+Have you heard of the band 1023MB? They haven't got a gig yet.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
- 1. Amazon
- 2. Shopify
- 3. Overstock
- 4. eBay
+Who is the original author of the realtime physics engine called PhysX?
+ 1. NovodeX
+ 2. AMD
+ 3. Nvidia
+ 4. Ageia
 
 <details>
   <summary>Answer</summary>
-  Amazon
+  NovodeX
 </details>
