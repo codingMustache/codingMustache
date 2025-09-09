@@ -4,7 +4,8 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It was so cold yesterday my computer froze. My own fault though, I left too many windows open.
+What is red and smells like blue paint?
+Red paint!
 
 ## Home Server Up-Time
 
@@ -13,13 +14,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-In computing, what does LAN stand for?
- 1. Local Area Network
- 2. Light Access Node
- 3. Long Antenna Node
- 4. Land Address Navigation
+What is the main CPU is the Sega Mega Drive / Sega Genesis?
+ 1. Motorola 68000
+ 2. Intel 8088
+ 3. Yamaha YM2612
+ 4. Zilog Z80
 
 <details>
   <summary>Answer</summary>
-  Local Area Network
+  Motorola 68000
 </details>
