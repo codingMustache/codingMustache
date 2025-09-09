@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I’ll tell you something about German sausages, they’re the wurst
+I'm glad I know sign language, it's pretty handy.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
- 1. Puma
- 2. Tiger
- 3. Leopard
- 4. Cheetah
+Whistler was the codename of this Microsoft Operating System.
+ 1. Windows XP
+ 2. Windows 95
+ 3. Windows 7
+ 4. Windows 2000
 
 <details>
   <summary>Answer</summary>
-  Cheetah
+  Windows XP
 </details>
