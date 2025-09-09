@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is a witch's favorite subject in school? Spelling!
+I used to work for an origami company but they folded.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-Which of these is not a layer in the OSI model for data communications?
- 1. Connection Layer
- 2. Application Layer
- 3. Physical Layer
- 4. Transport Layer
+Unix Time is defined as the number of seconds that have elapsed since when?
+ 1. Midnight, July 4, 1980
+ 2. Midnight on the creator of Unix&#039;s birthday
+ 3. Midnight, January 1, 1970
+ 4. Midnight, July 4, 1976
 
 <details>
   <summary>Answer</summary>
-  Connection Layer
+  Midnight, January 1, 1970
 </details>
