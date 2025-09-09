@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A Skeleton walked into a bar he said I need a beer and a mop
+Bad at golf? Join the club.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-When was the programming language &quot;C#&quot; released?
- 1. 2001
- 2. 1999
- 3. 1998
- 4. 2000
+This mobile OS held the largest market share in 2012.
+ 1. Symbian
+ 2. iOS
+ 3. Android
+ 4. BlackBerry
 
 <details>
   <summary>Answer</summary>
-  2000
+  iOS
 </details>
