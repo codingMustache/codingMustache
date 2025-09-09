@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-“Hold on, I have something in my shoe”  “I’m pretty sure it’s a foot”
+Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
- 1. PHP
- 2. JavaScript
- 3. Python
- 4. C#
+What major programming language does Unreal Engine 4 use?
+ 1. C#
+ 2. ECMAScript
+ 3. C++
+ 4. Assembly
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  C++
 </details>
