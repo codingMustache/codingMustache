@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a fly without wings? A walk.
+What did one plate say to the other plate? Dinner is on me!
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-Dutch computer scientist Mark Overmars is known for creating which game development engine?
- 1. Stencyl
- 2. Construct
- 3. Torque 2D
- 4. Game Maker
+Which RAID array type is associated with data mirroring?
+ 1. RAID 10
+ 2. RAID 5
+ 3. RAID 0
+ 4. RAID 1
 
 <details>
   <summary>Answer</summary>
-  Game Maker
+  RAID 1
 </details>
