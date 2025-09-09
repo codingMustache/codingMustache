@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do rabbits go after they get married? On a bunny-moon.
+Waking up this morning was an eye-opening experience.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-Which kind of algorithm is Ron Rivest not famous for creating?
- 1. Stream cipher
- 2. Hashing algorithm
- 3. Asymmetric encryption
- 4. Secret sharing scheme
+Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
+ 1. JavaScript
+ 2. Python
+ 3. C#
+ 4. PHP
 
 <details>
   <summary>Answer</summary>
-  Secret sharing scheme
+  JavaScript
 </details>
