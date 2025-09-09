@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a pig with three eyes? Piiig
+Bought a new jacket suit the other day and it burst into flames. Well, it was a blazer
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-What was the first Android version specifically optimized for tablets?
- 1. Honeycomb
- 2. Froyo
- 3. Marshmellow
- 4. Eclair
+In programming, what do you call functions with the same name but different implementations?
+ 1. Overloading
+ 2. Inheriting
+ 3. Abstracting
+ 4. Overriding
 
 <details>
   <summary>Answer</summary>
-  Honeycomb
+  Overloading
 </details>
