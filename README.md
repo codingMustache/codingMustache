@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why is it always hot in the corner of a room? Because a corner is 90 degrees.
+My wife said I was immature. So I told her to get out of my fort.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-In any programming language, what is the most common way to iterate through an array?
- 1. &#039;For&#039; loops
- 2. &#039;While&#039; loops
- 3. &#039;Do-while&#039; loops
- 4. &#039;If&#039; Statements
+Which programming language was developed by Sun Microsystems in 1995?
+ 1. Solaris OS
+ 2. C++
+ 3. Python
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  &#039;For&#039; loops
+  Java
 </details>
