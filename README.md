@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do you take someone who’s been injured in a peek-a-boo accident? To the I.C.U.
+Did you hear the one about the guy with the broken hearing aid? Neither did he.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **10 days** since this server shutdown
 
 ## Daily Trivia
 
-Australia, Japan, and Southeast Asia are in which ITU Region?
- 1. Region 1
- 2. Region 3
- 3. Region 2
- 4. Region 4
+What is the name of Layer 7 of the OSI model?
+ 1. Session
+ 2. Application
+ 3. Network
+ 4. Present
 
 <details>
   <summary>Answer</summary>
-  Region 3
+  Application
 </details>
