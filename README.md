@@ -4,7 +4,8 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The rotation of earth really makes my day.
+What do you do when you see a space man?
+Park your car, man.
 
 ## Home Server Up-Time
 
@@ -13,13 +14,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-How many bits make up the significand portion of a single precision floating point number?
- 1. 8
- 2. 53
- 3. 23
- 4. 15
+What did the name of the Tor Anonymity Network orignially stand for?
+ 1. The Onion Router
+ 2. The Ominous Router
+ 3. The Orange Router
+ 4. The Only Router
 
 <details>
   <summary>Answer</summary>
-  23
+  The Onion Router
 </details>
