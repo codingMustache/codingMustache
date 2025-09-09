@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-“Hold on, I have something in my shoe”  “I’m pretty sure it’s a foot”
+Why does Han Solo like gum? It's chewy!
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-How many kilobytes in one gigabyte (in decimal)?
- 1. 1048576
- 2. 1000000
- 3. 1000
- 4. 1024
+Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
+ 1. Puma
+ 2. Tiger
+ 3. Cheetah
+ 4. Leopard
 
 <details>
   <summary>Answer</summary>
-  1000000
+  Cheetah
 </details>
