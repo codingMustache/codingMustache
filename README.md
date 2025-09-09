@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you get when you cross a chicken with a skunk? A fowl smell!
+A magician was driving down the street and then he turned into a driveway.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
- 1. Atari
- 2. Commodore
- 3. Microsoft
- 4. Apple
+What vulnerability ranked #1 on the OWASP Top 10 in 2013?
+ 1. Injection 
+ 2. Insecure Direct Object References
+ 3. Cross-Site Scripting
+ 4. Broken Authentication
 
 <details>
   <summary>Answer</summary>
-  Apple
+  Injection 
 </details>
