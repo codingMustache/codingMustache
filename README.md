@@ -4,7 +4,9 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The word queue is ironic. It's just q with a bunch of silent letters waiting in line.
+Why did Mozart kill all his chickens?
+Because when he asked them who the best composer was, they'd all say "Bach bach bach!"
+
 
 ## Home Server Up-Time
 
@@ -13,13 +15,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-What is known as &quot;the brain&quot; of the Computer?
- 1. Keyboard
- 2. Graphics Processing Unit
+On which computer hardware device is the BIOS chip located?
+ 1. Motherboard
+ 2. Hard Disk Drive
  3. Central Processing Unit
- 4. Motherboard
+ 4. Graphics Processing Unit
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  Motherboard
 </details>
