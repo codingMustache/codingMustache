@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I’m on a whiskey diet. I’ve lost three days already.
+I used to work in a shoe recycling shop. It was sole destroying.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
- 1. Yellow
- 2. Blue
- 3. Green
- 4. Red
+What does the acronym CDN stand for in terms of networking?
+ 1. Content Distribution Network
+ 2. Computational Data Network
+ 3. Content Delivery Network
+ 4. Compressed Data Network
 
 <details>
   <summary>Answer</summary>
-  Green
+  Content Delivery Network
 </details>
