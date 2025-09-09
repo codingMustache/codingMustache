@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's orange and sounds like a parrot? A Carrot.
+I applied to be a doorman but didn't get the job due to lack of experience. That surprised me, I thought it was an entry level position.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-The teapot often seen in many 3D modeling applications is called what?
- 1. Utah Teapot
- 2. Pixar Teapot
- 3. 3D Teapot
- 4. Tennessee Teapot
+What is known as &quot;the brain&quot; of the Computer?
+ 1. Motherboard
+ 2. Keyboard
+ 3. Graphics Processing Unit
+ 4. Central Processing Unit
 
 <details>
   <summary>Answer</summary>
-  Utah Teapot
+  Central Processing Unit
 </details>
