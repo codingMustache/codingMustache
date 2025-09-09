@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The other day, my wife asked me to pass her lipstick but I accidentally passed her a glue stick. She still isn't talking to me.
+You will never guess what Elsa did to the balloon. She let it go.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-In web design, what does CSS stand for?
- 1. Counter Strike: Source
- 2. Cascading Style Sheet
- 3. Corrective Style Sheet
- 4. Computer Style Sheet
+The numbering system with a radix of 16 is more commonly referred to as 
+ 1. Hexidecimal
+ 2. Octal
+ 3. Duodecimal
+ 4. Binary
 
 <details>
   <summary>Answer</summary>
-  Cascading Style Sheet
+  Hexidecimal
 </details>
