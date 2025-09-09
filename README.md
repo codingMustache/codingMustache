@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where does batman go to the bathroom? The batroom.
+A Skeleton walked into a bar he said I need a beer and a mop
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-What is the number of keys on a standard Windows Keyboard?
- 1. 104
- 2. 64
- 3. 94
- 4. 76
+When was the programming language &quot;C#&quot; released?
+ 1. 2001
+ 2. 1999
+ 3. 1998
+ 4. 2000
 
 <details>
   <summary>Answer</summary>
-  104
+  2000
 </details>
