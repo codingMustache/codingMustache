@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Some people eat light bulbs. They say it's a nice light snack.
+Why did the tomato blush? Because it saw the salad dressing.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-Which of these programming languages is a low-level language?
- 1. Pascal
+The programming language &#039;Swift&#039; was created to replace what other programming language?
+ 1. C++
  2. C#
- 3. Assembly
- 4. Python
+ 3. Ruby
+ 4. Objective-C
 
 <details>
   <summary>Answer</summary>
-  Assembly
+  Objective-C
 </details>
