@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My wife said I was immature. So I told her to get out of my fort.
+I decided to sell my Hoover… well it was just collecting dust.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-Which programming language was developed by Sun Microsystems in 1995?
- 1. Solaris OS
+Which computer language would you associate Django framework with?
+ 1. Java
  2. C++
- 3. Python
- 4. Java
+ 3. C#
+ 4. Python
 
 <details>
   <summary>Answer</summary>
-  Java
+  Python
 </details>
