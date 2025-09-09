@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-They say Dodger Stadium can hold up to fifty-six thousand people, but that is just a ballpark figure.
+Why do trees seem suspicious on sunny days? Dunno, they're just a bit shady.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-What does the acronym CDN stand for in terms of networking?
- 1. Content Distribution Network
- 2. Computational Data Network
- 3. Compressed Data Network
- 4. Content Delivery Network
+How fast is USB 3.1 Gen 2 theoretically?
+ 1. 1 Gb/s
+ 2. 10 Gb/s
+ 3. 5 Gb/s
+ 4. 8 Gb/s
 
 <details>
   <summary>Answer</summary>
-  Content Delivery Network
+  10 Gb/s
 </details>
