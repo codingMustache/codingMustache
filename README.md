@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of music do planets listen to? Nep-tunes.
+I was wondering why the frisbee was getting bigger, then it hit me.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-In the server hosting industry IaaS stands for...
- 1. Infrastructure as a Server
- 2. Infrastructure as a Service
- 3. Internet and a Server
- 4. Internet as a Service
+Which data structure does FILO apply to?
+ 1. Heap
+ 2. Stack
+ 3. Queue
+ 4. Tree
 
 <details>
   <summary>Answer</summary>
-  Infrastructure as a Service
+  Stack
 </details>
