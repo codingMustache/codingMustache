@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Every morning when I go out, I get hit by bicycle. Every morning!  It's a vicious cycle.
+Why do pirates not know the alphabet? They always get stuck at "C".
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-What was the name given to Android 4.3?
- 1. Froyo
- 2. Lollipop
- 3. Jelly Bean
- 4. Nutella
+What is the number of keys on a standard Windows Keyboard?
+ 1. 76
+ 2. 64
+ 3. 94
+ 4. 104
 
 <details>
   <summary>Answer</summary>
-  Jelly Bean
+  104
 </details>
