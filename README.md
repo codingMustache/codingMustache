@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I’m only familiar with 25 letters in the English language. I don’t know why.
+Who did the wizard marry? His ghoul-friend
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **10 days** since this server shutdown
 
 ## Daily Trivia
 
-In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
- 1. static
- 2. absolute
- 3. relative
- 4. center
+In any programming language, what is the most common way to iterate through an array?
+ 1. &#039;While&#039; loops
+ 2. &#039;Do-while&#039; loops
+ 3. &#039;For&#039; loops
+ 4. &#039;If&#039; Statements
 
 <details>
   <summary>Answer</summary>
-  center
+  &#039;For&#039; loops
 </details>
