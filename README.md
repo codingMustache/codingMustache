@@ -4,22 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I considered building the patio by myself. But I didn't have the stones.
+Why is it always hot in the corner of a room? Because a corner is 90 degrees.
 
 ## Home Server Up-Time
 
-Its been **10 days** since this server shutdown
+Its been **11 days** since this server shutdown
 
 
 ## Daily Trivia
 
-Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
- 1. Commodore
- 2. Apple
- 3. Atari
- 4. Microsoft
+In any programming language, what is the most common way to iterate through an array?
+ 1. &#039;For&#039; loops
+ 2. &#039;While&#039; loops
+ 3. &#039;Do-while&#039; loops
+ 4. &#039;If&#039; Statements
 
 <details>
   <summary>Answer</summary>
-  Apple
+  &#039;For&#039; loops
 </details>
