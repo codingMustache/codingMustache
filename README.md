@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the feline fail the lie detector test? Because he be lion.
+My pet mouse 'Elvis' died last night. He was caught in a trap..
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-The numbering system with a radix of 16 is more commonly referred to as 
- 1. Hexidecimal
- 2. Octal
- 3. Duodecimal
- 4. Binary
+Which SQL keyword is used to fetch data from a database?
+ 1. INDEX
+ 2. VALUES
+ 3. SELECT
+ 4. EXEC
 
 <details>
   <summary>Answer</summary>
-  Hexidecimal
+  SELECT
 </details>
