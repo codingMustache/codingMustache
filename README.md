@@ -4,8 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Some people say that I never got over my obsession with Phil Collins.
-But take a look at me now.
+A Sandwich walks into a bar, the bartender says “Sorry, we don’t serve food here”
 
 ## Home Server Up-Time
 
@@ -14,13 +13,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-What does the term GPU stand for?
- 1. Gaming Processor Unit
- 2. Graphical Proprietary Unit
- 3. Graphite Producing Unit
- 4. Graphics Processing Unit
+In programming, the ternary operator is mostly defined with what symbol(s)?
+ 1. ?:
+ 2. ?
+ 3. if then
+ 4. ??
 
 <details>
   <summary>Answer</summary>
-  Graphics Processing Unit
+  ?:
 </details>
