@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-If you’re struggling to think of what to get someone for Christmas. Get them a fridge and watch their face light up when they open it.
+I’ve just been reading a book about anti-gravity, it’s impossible to put down!
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-What is the name of the process that sends one qubit of information using two bits of classical information?
- 1. Quantum Teleportation
- 2. Quantum Programming
- 3. Super Dense Coding
- 4. Quantum Entanglement
+HTML is what type of language?
+ 1. Programming Language
+ 2. Markup Language
+ 3. Macro Language
+ 4. Scripting Language
 
 <details>
   <summary>Answer</summary>
-  Quantum Teleportation
+  Markup Language
 </details>
