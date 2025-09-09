@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Remember, the best angle to approach a problem from is the "try" angle.
+If you’re struggling to think of what to get someone for Christmas. Get them a fridge and watch their face light up when they open it.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-How fast is USB 3.1 Gen 2 theoretically?
- 1. 5 Gb/s
- 2. 8 Gb/s
- 3. 1 Gb/s
- 4. 10 Gb/s
+What is the name of the process that sends one qubit of information using two bits of classical information?
+ 1. Quantum Teleportation
+ 2. Quantum Programming
+ 3. Super Dense Coding
+ 4. Quantum Entanglement
 
 <details>
   <summary>Answer</summary>
-  10 Gb/s
+  Quantum Teleportation
 </details>
