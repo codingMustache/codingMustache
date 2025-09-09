@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My wife told me to rub the herbs on the meat for better flavor. That's sage advice.
+Did you know that ghosts call their true love their ghoul-friend?
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-What was the name of the security vulnerability found in Bash in 2014?
- 1. Heartbleed
- 2. Bashbug
- 3. Stagefright
- 4. Shellshock
+What does AD stand for in relation to Windows Operating Systems? 
+ 1. Active Department
+ 2. Alternative Drive
+ 3. Automated Database
+ 4. Active Directory
 
 <details>
   <summary>Answer</summary>
-  Shellshock
+  Active Directory
 </details>
