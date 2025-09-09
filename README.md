@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Waking up this morning was an eye-opening experience.
+I'm practicing for a bug-eating contest and I've got butterflies in my stomach.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
- 1. JavaScript
- 2. Python
- 3. C#
- 4. PHP
+.rs is the top-level domain for what country?
+ 1. Romania
+ 2. Russia
+ 3. Rwanda
+ 4. Serbia
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  Serbia
 </details>
