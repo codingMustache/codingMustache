@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the octopus beat the shark in a fight? Because it was well armed.
+Why is it so windy inside an arena? All those fans.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
- 1. Shellscript
- 2. Corrupted Blood
- 3. Heartbleed
- 4. Shellshock
+The Harvard architecture for micro-controllers added which additional bus?
+ 1. Instruction
+ 2. Address
+ 3. Data
+ 4. Control
 
 <details>
   <summary>Answer</summary>
-  Heartbleed
+  Instruction
 </details>
