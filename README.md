@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A bartender broke up with her boyfriend, but he kept asking her for another shot.
+What's brown and sticky? A stick.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-Whistler was the codename of this Microsoft Operating System.
- 1. Windows 7
- 2. Windows 2000
- 3. Windows XP
- 4. Windows 95
+The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
+ 1. Fiji
+ 2. Marshall Islands
+ 3. Tuvalu
+ 4. Micronesia
 
 <details>
   <summary>Answer</summary>
-  Windows XP
+  Micronesia
 </details>
