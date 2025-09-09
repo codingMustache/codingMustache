@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's brown and sticky? A stick.
+It’s hard to explain puns to kleptomaniacs, because they take everything literally.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
- 1. Fiji
- 2. Marshall Islands
- 3. Tuvalu
- 4. Micronesia
+What does GHz stand for?
+ 1. Gigahatz
+ 2. Gigahotz
+ 3. Gigahertz
+ 4. Gigahetz
 
 <details>
   <summary>Answer</summary>
-  Micronesia
+  Gigahertz
 </details>
