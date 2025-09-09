@@ -4,8 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Hostess: Do you have a preference of where you sit?
-Dad: Down.
+I’m on a whiskey diet. I’ve lost three days already.
 
 ## Home Server Up-Time
 
@@ -14,13 +13,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
- 1. &lt;slide&gt;&lt;/slide&gt;
- 2. &lt;scroll&gt;&lt;/scroll&gt;
- 3. &lt;move&gt;&lt;/move&gt;
- 4. &lt;marquee&gt;&lt;/marquee&gt;
+In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
+ 1. Yellow
+ 2. Blue
+ 3. Green
+ 4. Red
 
 <details>
   <summary>Answer</summary>
-  &lt;marquee&gt;&lt;/marquee&gt;
+  Green
 </details>
