@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the dog say to the two trees? Bark bark.
+"Dad, do you think it's going to snow this winter?" "I dont know, its all up in the air"
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-Which programming language was developed by Sun Microsystems in 1995?
- 1. Java
- 2. Solaris OS
- 3. Python
- 4. C++
+Unix Time is defined as the number of seconds that have elapsed since when?
+ 1. Midnight on the creator of Unix&#039;s birthday
+ 2. Midnight, January 1, 1970
+ 3. Midnight, July 4, 1980
+ 4. Midnight, July 4, 1976
 
 <details>
   <summary>Answer</summary>
-  Java
+  Midnight, January 1, 1970
 </details>
