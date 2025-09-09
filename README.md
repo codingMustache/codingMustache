@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why is it so windy inside an arena? All those fans.
+What did the dog say to the two trees? Bark bark.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-The Harvard architecture for micro-controllers added which additional bus?
- 1. Instruction
- 2. Address
- 3. Data
- 4. Control
+Which programming language was developed by Sun Microsystems in 1995?
+ 1. Java
+ 2. Solaris OS
+ 3. Python
+ 4. C++
 
 <details>
   <summary>Answer</summary>
-  Instruction
+  Java
 </details>
