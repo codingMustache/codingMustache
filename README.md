@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-This furniture store keeps emailing me, all I wanted was one night stand!
+I ate a clock yesterday. It was so time consuming.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **12 days** since this server shutdown
 
 ## Daily Trivia
 
-In computing terms, typically what does CLI stand for?
- 1. Command Line Interface
- 2. Common Language Interface
- 3. Control Line Interface
- 4. Common Language Input
+How many cores does the Intel i7-6950X have?
+ 1. 10
+ 2. 12
+ 3. 8
+ 4. 4
 
 <details>
   <summary>Answer</summary>
-  Command Line Interface
+  10
 </details>
