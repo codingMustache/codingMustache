@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the chameleon who couldn't change color? They had a reptile dysfunction.
+What’s brown and sounds like a bell? Dung!
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **12 days** since this server shutdown
 
 ## Daily Trivia
 
-Which of the following physical typologies are used with Ethernet Networks?
- 1. Mesh
- 2. Hex
- 3. Star
- 4. Ring
+The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
+ 1. Germany
+ 2. United States
+ 3. Taiwan
+ 4. China (People&#039;s Republic of)
 
 <details>
   <summary>Answer</summary>
-  Star
+  Taiwan
 </details>
