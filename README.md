@@ -4,9 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the hat say to the scarf?
-You can hang around. I'll just go on ahead.
-
+Why are oranges the smartest fruit? Because they are made to concentrate. 
 
 ## Home Server Up-Time
 
@@ -15,13 +13,13 @@ Its been **12 days** since this server shutdown
 
 ## Daily Trivia
 
-When was the programming language &quot;C#&quot; released?
- 1. 2000
- 2. 1998
- 3. 2001
- 4. 1999
+Australia, Japan, and Southeast Asia are in which ITU Region?
+ 1. Region 4
+ 2. Region 2
+ 3. Region 1
+ 4. Region 3
 
 <details>
   <summary>Answer</summary>
-  2000
+  Region 3
 </details>
