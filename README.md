@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I bought shoes from a drug dealer once. I don't know what he laced them with, but I was tripping all day.
+A Sandwich walks into a bar, the bartender says “Sorry, we don’t serve food here”
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **12 days** since this server shutdown
 
 ## Daily Trivia
 
-Whistler was the codename of this Microsoft Operating System.
- 1. Windows 7
- 2. Windows 2000
- 3. Windows 95
- 4. Windows XP
+Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
+ 1. C#
+ 2. Python
+ 3. PHP
+ 4. JavaScript
 
 <details>
   <summary>Answer</summary>
-  Windows XP
+  JavaScript
 </details>
