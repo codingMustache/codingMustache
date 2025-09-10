@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The urge to sing the Lion King song is just a whim away.
+I tried to milk a cow today, but was unsuccessful. Udder failure.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **12 days** since this server shutdown
 
 ## Daily Trivia
 
-What does the computer software acronym JVM stand for?
- 1. Java Vendor Machine
- 2. Java Visual Machine
- 3. Java Virtual Machine
- 4. Just Virtual Machine
+The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
+ 1. Fiji
+ 2. Tuvalu
+ 3. Marshall Islands
+ 4. Micronesia
 
 <details>
   <summary>Answer</summary>
-  Java Virtual Machine
+  Micronesia
 </details>
