@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I saw my husband trip and fall while carrying a laundry basket full of ironed clothes. I watched it all unfold.
+Why are giraffes so slow to apologize? Because it takes them a long time to swallow their pride.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **12 days** since this server shutdown
 
 ## Daily Trivia
 
-In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
- 1. static
- 2. absolute
- 3. relative
- 4. center
+Which of the following is NOT a computer science algorithm?
+ 1. Bubble Sort
+ 2. Merge Sort
+ 3. Float Sort
+ 4. Quick Sort
 
 <details>
   <summary>Answer</summary>
-  center
+  Float Sort
 </details>
