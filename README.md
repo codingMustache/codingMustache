@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I got a reversible jacket for Christmas, I can't wait to see how it turns out.
+I made a belt out of watches once... It was a waist of time.
 
 ## Home Server Up-Time
 
@@ -14,10 +14,10 @@ Its been **12 days** since this server shutdown
 ## Daily Trivia
 
 How many kilobytes in one gigabyte (in decimal)?
- 1. 1000000
- 2. 1048576
- 3. 1024
- 4. 1000
+ 1. 1024
+ 2. 1000
+ 3. 1048576
+ 4. 1000000
 
 <details>
   <summary>Answer</summary>
