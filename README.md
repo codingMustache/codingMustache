@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The other day I was listening to a song about superglue, it’s been stuck in my head ever since.
+This morning I was wondering where the sun was, but then it dawned on me.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **12 days** since this server shutdown
 
 ## Daily Trivia
 
-What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
- 1. Heat Sink
- 2. CPU Vent
- 3. Temperature Decipator
- 4. Heat Vent
+Which of the following is the oldest of these computers by release date?
+ 1. TRS-80
+ 2. Apple 3
+ 3. ZX Spectrum
+ 4. Commodore 64
 
 <details>
   <summary>Answer</summary>
-  Heat Sink
+  TRS-80
 </details>
