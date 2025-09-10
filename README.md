@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Whats a penguins favorite relative? Aunt Arctica.
+I saw my husband trip and fall while carrying a laundry basket full of ironed clothes. I watched it all unfold.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **12 days** since this server shutdown
 
 ## Daily Trivia
 
-This mobile OS held the largest market share in 2012.
- 1. iOS
- 2. Symbian
- 3. BlackBerry
- 4. Android
+In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
+ 1. static
+ 2. absolute
+ 3. relative
+ 4. center
 
 <details>
   <summary>Answer</summary>
-  iOS
+  center
 </details>
