@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the knife dress up in a suit? Because it wanted to look sharp
+I really want to buy one of those supermarket checkout dividers, but the cashier keeps putting it back.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **12 days** since this server shutdown
 
 ## Daily Trivia
 
-Which programming language shares its name with an island in Indonesia?
+Which computer language would you associate Django framework with?
  1. Java
- 2. Jakarta
- 3. C
- 4. Python
+ 2. Python
+ 3. C++
+ 4. C#
 
 <details>
   <summary>Answer</summary>
-  Java
+  Python
 </details>
