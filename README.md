@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Just watched a documentary about beavers… It was the best damn program I’ve ever seen.
+Every machine in the coin factory broke down all of a sudden without explanation. It just doesn’t make any cents.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-How many cores does the Intel i7-6950X have?
- 1. 12
- 2. 8
- 3. 4
- 4. 10
+In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
+ 1. Public
+ 2. Private
+ 3. Static
+ 4. Final
 
 <details>
   <summary>Answer</summary>
-  10
+  Final
 </details>
