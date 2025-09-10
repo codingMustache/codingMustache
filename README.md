@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the worker get fired from the orange juice factory? Lack of concentration.
+What do you call a fashionable lawn statue with an excellent sense of rhythmn? A metro-gnome
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **12 days** since this server shutdown
 
 ## Daily Trivia
 
-.rs is the top-level domain for what country?
- 1. Serbia
- 2. Rwanda
- 3. Russia
- 4. Romania
+What is the domain name for the country Tuvalu?
+ 1. .tl
+ 2. .tv
+ 3. .tt
+ 4. .tu
 
 <details>
   <summary>Answer</summary>
-  Serbia
+  .tv
 </details>
