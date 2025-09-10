@@ -4,7 +4,9 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the big flower say to the littler flower? Hi, bud!
+Why do pumpkins sit on people’s porches?
+
+They have no hands to knock on the door.
 
 ## Home Server Up-Time
 
@@ -13,13 +15,13 @@ Its been **12 days** since this server shutdown
 
 ## Daily Trivia
 
-Approximately how many Apple I personal computers were created?
- 1. 500
- 2. 1000
- 3. 100
- 4. 200
+The programming language &#039;Swift&#039; was created to replace what other programming language?
+ 1. C++
+ 2. Ruby
+ 3. Objective-C
+ 4. C#
 
 <details>
   <summary>Answer</summary>
-  200
+  Objective-C
 </details>
