@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the best thing about elevator jokes? They work on so many levels.
+Have you ever heard of a music group called Cellophane? They mostly wrap.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **12 days** since this server shutdown
 
 ## Daily Trivia
 
-Which of the following languages is used as a scripting language in the Unity 3D game engine?
- 1. C++
- 2. C#
- 3. Java
- 4. Objective-C
+In computing, what does LAN stand for?
+ 1. Local Area Network
+ 2. Land Address Navigation
+ 3. Light Access Node
+ 4. Long Antenna Node
 
 <details>
   <summary>Answer</summary>
-  C#
+  Local Area Network
 </details>
