@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Just watched a documentary about beavers… It was the best damn program I’ve ever seen.
+Why did the feline fail the lie detector test? Because he be lion.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **12 days** since this server shutdown
 
 ## Daily Trivia
 
-What does the term GPU stand for?
- 1. Graphical Proprietary Unit
- 2. Graphics Processing Unit
- 3. Graphite Producing Unit
- 4. Gaming Processor Unit
+What is known as &quot;the brain&quot; of the Computer?
+ 1. Graphics Processing Unit
+ 2. Central Processing Unit
+ 3. Motherboard
+ 4. Keyboard
 
 <details>
   <summary>Answer</summary>
-  Graphics Processing Unit
+  Central Processing Unit
 </details>
