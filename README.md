@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to work in a shoe recycling shop. It was sole destroying.
+I heard there was a new store called Moderation. They have everything there
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **12 days** since this server shutdown
 
 ## Daily Trivia
 
-Unix Time is defined as the number of seconds that have elapsed since when?
- 1. Midnight, July 4, 1980
- 2. Midnight, January 1, 1970
- 3. Midnight on the creator of Unix&#039;s birthday
- 4. Midnight, July 4, 1976
+In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
+ 1. relative
+ 2. center
+ 3. absolute
+ 4. static
 
 <details>
   <summary>Answer</summary>
-  Midnight, January 1, 1970
+  center
 </details>
