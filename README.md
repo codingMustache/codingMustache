@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the 0 say to the 8? Nice belt.
+When is a door not a door? When it's ajar.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **12 days** since this server shutdown
 
 ## Daily Trivia
 
-On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
- 1. Asterisk
- 2. Exclamation Mark
- 3. Dollar Sign
- 4. Percent Sign
+What does the &quot;MP&quot; stand for in MP3?
+ 1. Moving Picture
+ 2. Music Player
+ 3. Micro Point
+ 4. Multi Pass
 
 <details>
   <summary>Answer</summary>
-  Exclamation Mark
+  Moving Picture
 </details>
