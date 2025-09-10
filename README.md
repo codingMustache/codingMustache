@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I really want to buy one of those supermarket checkout dividers, but the cashier keeps putting it back.
+Why did Sweden start painting barcodes on the sides of their battleships? So they could Scandinavian.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **12 days** since this server shutdown
 
 ## Daily Trivia
 
-Which computer language would you associate Django framework with?
- 1. Java
- 2. Python
- 3. C++
- 4. C#
+What was the name given to Android 4.3?
+ 1. Jelly Bean
+ 2. Froyo
+ 3. Nutella
+ 4. Lollipop
 
 <details>
   <summary>Answer</summary>
-  Python
+  Jelly Bean
 </details>
