@@ -4,9 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Never Trust Someone With Graph Paper...
-
-They're always plotting something.
+Why did the worker get fired from the orange juice factory? Lack of concentration.
 
 ## Home Server Up-Time
 
@@ -15,13 +13,13 @@ Its been **12 days** since this server shutdown
 
 ## Daily Trivia
 
-According to the International System of Units, how many bytes are in a kilobyte of RAM?
- 1. 512
- 2. 1024
- 3. 500
- 4. 1000
+.rs is the top-level domain for what country?
+ 1. Serbia
+ 2. Rwanda
+ 3. Russia
+ 4. Romania
 
 <details>
   <summary>Answer</summary>
-  1000
+  Serbia
 </details>
