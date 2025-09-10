@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-This morning I was wondering where the sun was, but then it dawned on me.
+Why didn’t the skeleton cross the road? Because he had no guts.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **12 days** since this server shutdown
 
 ## Daily Trivia
 
-Which of the following is the oldest of these computers by release date?
- 1. TRS-80
- 2. Apple 3
- 3. ZX Spectrum
- 4. Commodore 64
+What does the &#039;S&#039; in the RSA encryption algorithm stand for?
+ 1. Shamir
+ 2. Stable
+ 3. Schottky
+ 4. Secure
 
 <details>
   <summary>Answer</summary>
-  TRS-80
+  Shamir
 </details>
