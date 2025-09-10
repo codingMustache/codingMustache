@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-If you walk into a forest and cut down a tree, but the tree doesn't understand why you cut it down, do you think it's stumped?
+Why is it always hot in the corner of a room? Because a corner is 90 degrees.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-What is the number of keys on a standard Windows Keyboard?
- 1. 94
- 2. 64
- 3. 104
- 4. 76
+Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
+ 1. Apple
+ 2. Commodore
+ 3. Atari
+ 4. Microsoft
 
 <details>
   <summary>Answer</summary>
-  104
+  Apple
 </details>
