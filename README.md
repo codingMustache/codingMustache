@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many optometrists does it take to change a light bulb? 1 or 2? 1... or 2?
+Conjunctivitis.com – now that’s a site for sore eyes.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **12 days** since this server shutdown
 
 ## Daily Trivia
 
-What does the term MIME stand for, in regards to computing?
- 1. Multipurpose Internet Mail Extensions
- 2. Mail Interleave Method Exchange
- 3. Multipurpose Interleave Mail Exchange
- 4. Mail Internet Mail Exchange
+What is the name of the default theme that is installed with Windows XP?
+ 1. Neptune
+ 2. Luna
+ 3. Whistler
+ 4. Bliss
 
 <details>
   <summary>Answer</summary>
-  Multipurpose Internet Mail Extensions
+  Luna
 </details>
