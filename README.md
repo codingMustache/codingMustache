@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do hens stay fit? They always egg-cercise!
+How does the moon cut his hair? Eclipse it.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **12 days** since this server shutdown
 
 ## Daily Trivia
 
-Which operating system was released first?
- 1. OS/2
- 2. Linux
- 3. Mac OS
- 4. Windows
+What port does HTTP run on?
+ 1. 80
+ 2. 23
+ 3. 443
+ 4. 53
 
 <details>
   <summary>Answer</summary>
-  Mac OS
+  80
 </details>
