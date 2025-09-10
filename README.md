@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are basketball players messy eaters? Because they are always dribbling.
+What's a ninja's favorite type of shoes? Sneakers!
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-How long is an IPv6 address?
- 1. 32 bits
- 2. 64 bits
- 3. 128 bits
- 4. 128 bytes
+What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
+ 1. Sandy Bridge
+ 2. Coffee Lake
+ 3. Skylake
+ 4. Broadwell
 
 <details>
   <summary>Answer</summary>
-  128 bits
+  Coffee Lake
 </details>
