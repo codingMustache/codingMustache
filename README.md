@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a fashionable lawn statue with an excellent sense of rhythmn? A metro-gnome
+What did the mountain climber name his son? Cliff.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **12 days** since this server shutdown
 
 ## Daily Trivia
 
-What is the domain name for the country Tuvalu?
- 1. .tl
- 2. .tv
- 3. .tt
- 4. .tu
+Which of these programming languages is a low-level language?
+ 1. Python
+ 2. C#
+ 3. Pascal
+ 4. Assembly
 
 <details>
   <summary>Answer</summary>
-  .tv
+  Assembly
 </details>
