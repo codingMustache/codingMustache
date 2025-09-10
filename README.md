@@ -4,7 +4,8 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Thanks for explaining the word "many" to me. It means a lot.
+What is the least spoken language in the world?
+Sign Language
 
 ## Home Server Up-Time
 
@@ -13,13 +14,13 @@ Its been **12 days** since this server shutdown
 
 ## Daily Trivia
 
-Which of these is not a key value of Agile software development?
- 1. Comprehensive documentation
- 2. Customer collaboration
- 3. Individuals and interactions
- 4. Responding to change
+What major programming language does Unreal Engine 4 use?
+ 1. C++
+ 2. ECMAScript
+ 3. C#
+ 4. Assembly
 
 <details>
   <summary>Answer</summary>
-  Comprehensive documentation
+  C++
 </details>
