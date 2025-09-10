@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How did Darth Vader know what Luke was getting for Christmas? He felt his presents.
+Without geometry life is pointless.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **12 days** since this server shutdown
 
 ## Daily Trivia
 
-In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
- 1. Static
- 2. Private
- 3. Public
- 4. Final
+In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
+ 1. center
+ 2. relative
+ 3. absolute
+ 4. static
 
 <details>
   <summary>Answer</summary>
-  Final
+  center
 </details>
