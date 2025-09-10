@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a fat psychic? A four-chin teller.
+What did Michael Jackson name his denim store?    Billy Jeans!
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **12 days** since this server shutdown
 
 ## Daily Trivia
 
-While Apple was formed in California, in which western state was Microsoft founded?
- 1. Washington
- 2. Colorado
- 3. New Mexico
- 4. Arizona
+Which operating system was released first?
+ 1. OS/2
+ 2. Windows
+ 3. Mac OS
+ 4. Linux
 
 <details>
   <summary>Answer</summary>
-  New Mexico
+  Mac OS
 </details>
