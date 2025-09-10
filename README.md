@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a pile of cats?  A Meowtain.
+How much does a hipster weigh? An instagram.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **12 days** since this server shutdown
 
 ## Daily Trivia
 
-What vulnerability ranked #1 on the OWASP Top 10 in 2013?
- 1. Broken Authentication
- 2. Cross-Site Scripting
- 3. Injection 
- 4. Insecure Direct Object References
+The teapot often seen in many 3D modeling applications is called what?
+ 1. Utah Teapot
+ 2. Pixar Teapot
+ 3. 3D Teapot
+ 4. Tennessee Teapot
 
 <details>
   <summary>Answer</summary>
-  Injection 
+  Utah Teapot
 </details>
