@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It takes guts to be an organ donor.
+What did the Zen Buddist say to the hotdog vendor? Make me one with everything.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **12 days** since this server shutdown
 
 ## Daily Trivia
 
-In programming, what do you call functions with the same name but different implementations?
- 1. Overloading
- 2. Overriding
- 3. Abstracting
- 4. Inheriting
+What internet protocol was documented in RFC 1459?
+ 1. IRC
+ 2. HTTP
+ 3. HTTPS
+ 4. FTP
 
 <details>
   <summary>Answer</summary>
-  Overloading
+  IRC
 </details>
