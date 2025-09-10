@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What’s brown and sounds like a bell? Dung!
+You can't trust a ladder. It will always let you down
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **12 days** since this server shutdown
 
 ## Daily Trivia
 
-The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
- 1. Germany
- 2. United States
- 3. Taiwan
- 4. China (People&#039;s Republic of)
+What was the name given to Android 4.3?
+ 1. Jelly Bean
+ 2. Nutella
+ 3. Froyo
+ 4. Lollipop
 
 <details>
   <summary>Answer</summary>
-  Taiwan
+  Jelly Bean
 </details>
