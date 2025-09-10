@@ -4,7 +4,9 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Two muffins were sitting in an oven, and the first looks over to the second, and says, “man, it’s really hot in here”. The second looks over at the first with a surprised look, and answers, “WHOA, a talking muffin!”
+Never Trust Someone With Graph Paper...
+
+They're always plotting something.
 
 ## Home Server Up-Time
 
@@ -13,13 +15,13 @@ Its been **12 days** since this server shutdown
 
 ## Daily Trivia
 
-What was the name of the security vulnerability found in Bash in 2014?
- 1. Shellshock
- 2. Heartbleed
- 3. Bashbug
- 4. Stagefright
+According to the International System of Units, how many bytes are in a kilobyte of RAM?
+ 1. 512
+ 2. 1024
+ 3. 500
+ 4. 1000
 
 <details>
   <summary>Answer</summary>
-  Shellshock
+  1000
 </details>
