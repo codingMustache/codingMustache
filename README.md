@@ -4,22 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do wizards clean their teeth three times a day? To prevent bat breath!
+What did the big flower say to the littler flower? Hi, bud!
 
 ## Home Server Up-Time
 
-Its been **11 days** since this server shutdown
+Its been **12 days** since this server shutdown
 
 
 ## Daily Trivia
 
-The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
- 1. Fiji
- 2. Tuvalu
- 3. Marshall Islands
- 4. Micronesia
+Approximately how many Apple I personal computers were created?
+ 1. 500
+ 2. 1000
+ 3. 100
+ 4. 200
 
 <details>
   <summary>Answer</summary>
-  Micronesia
+  200
 </details>
