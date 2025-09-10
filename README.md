@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do locomotives know where they're going? Lots of training
+I wear a stethoscope so that in a medical emergency I can teach people a valuable lesson about assumptions.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **12 days** since this server shutdown
 
 ## Daily Trivia
 
-Which kind of algorithm is Ron Rivest not famous for creating?
- 1. Stream cipher
- 2. Asymmetric encryption
- 3. Hashing algorithm
- 4. Secret sharing scheme
+In the server hosting industry IaaS stands for...
+ 1. Infrastructure as a Server
+ 2. Internet and a Server
+ 3. Infrastructure as a Service
+ 4. Internet as a Service
 
 <details>
   <summary>Answer</summary>
-  Secret sharing scheme
+  Infrastructure as a Service
 </details>
