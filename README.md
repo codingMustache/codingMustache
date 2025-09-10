@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a dad that has fallen through the ice? A Popsicle.
+How do the trees get on the internet? They log on.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **12 days** since this server shutdown
 
 ## Daily Trivia
 
-Which data structure does FILO apply to?
- 1. Tree
- 2. Stack
- 3. Heap
- 4. Queue
+On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
+ 1. Dollar Sign
+ 2. Exclamation Mark
+ 3. Percent Sign
+ 4. Asterisk
 
 <details>
   <summary>Answer</summary>
-  Stack
+  Exclamation Mark
 </details>
