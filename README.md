@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the Mexican train killer? He had loco motives
+What's the best thing about elevator jokes? They work on so many levels.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **12 days** since this server shutdown
 
 ## Daily Trivia
 
-Which SQL keyword is used to fetch data from a database?
- 1. SELECT
- 2. EXEC
- 3. VALUES
- 4. INDEX
+Which of the following languages is used as a scripting language in the Unity 3D game engine?
+ 1. C++
+ 2. C#
+ 3. Java
+ 4. Objective-C
 
 <details>
   <summary>Answer</summary>
-  SELECT
+  C#
 </details>
