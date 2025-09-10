@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I went to the zoo yesterday and saw a baguette in a cage. It was bread in captivity.
+They laughed when I said I wanted to be a comedian – they’re not laughing now.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **12 days** since this server shutdown
 
 ## Daily Trivia
 
-What does the term MIME stand for, in regards to computing?
- 1. Mail Internet Mail Exchange
- 2. Multipurpose Interleave Mail Exchange
- 3. Mail Interleave Method Exchange
- 4. Multipurpose Internet Mail Extensions
+What was the name of the first Bulgarian personal computer?
+ 1. Pravetz 82
+ 2. Pravetz 8D
+ 3. IZOT 1030
+ 4. IMKO-1
 
 <details>
   <summary>Answer</summary>
-  Multipurpose Internet Mail Extensions
+  IMKO-1
 </details>
