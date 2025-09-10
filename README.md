@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How does the moon cut his hair? Eclipse it.
+Two dyslexics walk into a bra.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **12 days** since this server shutdown
 
 ## Daily Trivia
 
-What port does HTTP run on?
- 1. 80
- 2. 23
- 3. 443
- 4. 53
+Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
+ 1. Apple
+ 2. Microsoft
+ 3. Atari
+ 4. Commodore
 
 <details>
   <summary>Answer</summary>
-  80
+  Apple
 </details>
