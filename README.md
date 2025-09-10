@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Ever wondered why bees hum? It's because they don't know the words.
+I’ll tell you something about German sausages, they’re the wurst
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **12 days** since this server shutdown
 
 ## Daily Trivia
 
-What does the computer software acronym JVM stand for?
- 1. Java Vendor Machine
- 2. Java Virtual Machine
- 3. Java Visual Machine
- 4. Just Virtual Machine
+Which RAID array type is associated with data mirroring?
+ 1. RAID 1
+ 2. RAID 0
+ 3. RAID 10
+ 4. RAID 5
 
 <details>
   <summary>Answer</summary>
-  Java Virtual Machine
+  RAID 1
 </details>
