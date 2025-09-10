@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I accidentally drank a bottle of invisible ink. Now I’m in hospital, waiting to be seen.
+Why are basketball players messy eaters? Because they are always dribbling.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **11 days** since this server shutdown
 
 ## Daily Trivia
 
-How many Hz does the video standard PAL support?
- 1. 50
- 2. 25
- 3. 60
- 4. 59
+How long is an IPv6 address?
+ 1. 32 bits
+ 2. 64 bits
+ 3. 128 bits
+ 4. 128 bytes
 
 <details>
   <summary>Answer</summary>
-  50
+  128 bits
 </details>
