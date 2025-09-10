@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why didn’t the skeleton cross the road? Because he had no guts.
+How do you steal a coat? You jacket.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **12 days** since this server shutdown
 
 ## Daily Trivia
 
-What does the &#039;S&#039; in the RSA encryption algorithm stand for?
- 1. Shamir
- 2. Stable
- 3. Schottky
- 4. Secure
+How many Hz does the video standard PAL support?
+ 1. 50
+ 2. 25
+ 3. 60
+ 4. 59
 
 <details>
   <summary>Answer</summary>
-  Shamir
+  50
 </details>
