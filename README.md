@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Two peanuts were walking down the street. One was a salted.
+What happens when you anger a brain surgeon? They will give you a piece of your mind.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **12 days** since this server shutdown
 
 ## Daily Trivia
 
-What was the first company to use the term &quot;Golden Master&quot;?
- 1. IBM
- 2. Microsoft
- 3. Google
- 4. Apple
+What vulnerability ranked #1 on the OWASP Top 10 in 2013?
+ 1. Injection 
+ 2. Insecure Direct Object References
+ 3. Cross-Site Scripting
+ 4. Broken Authentication
 
 <details>
   <summary>Answer</summary>
-  Apple
+  Injection 
 </details>
