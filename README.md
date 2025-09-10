@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is worse then finding a worm in your Apple? Finding half a worm in your Apple.
+I broke my finger at work today, on the other hand I'm completely fine.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **12 days** since this server shutdown
 
 ## Daily Trivia
 
-What is the domain name for the country Tuvalu?
- 1. .tt
- 2. .tl
- 3. .tv
- 4. .tu
+How many values can a single byte represent?
+ 1. 8
+ 2. 1024
+ 3. 1
+ 4. 256
 
 <details>
   <summary>Answer</summary>
-  .tv
+  256
 </details>
