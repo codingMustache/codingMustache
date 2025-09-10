@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A horse walks into a bar. The bar tender says "Hey." The horse says "Sure."
+Ever wondered why bees hum? It's because they don't know the words.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **12 days** since this server shutdown
 
 ## Daily Trivia
 
-What was Bitcoin&#039;s block size limit in 2010?
- 1. 1GB
- 2. 1 KB
- 3. 1 TB
- 4. 1 MB
+What does the computer software acronym JVM stand for?
+ 1. Java Vendor Machine
+ 2. Java Virtual Machine
+ 3. Java Visual Machine
+ 4. Just Virtual Machine
 
 <details>
   <summary>Answer</summary>
-  1 MB
+  Java Virtual Machine
 </details>
