@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A woman is on trial for beating her husband to death with his guitar collection. Judge says, ‘First offender?’ She says, ‘No, first a Gibson! Then a Fender!’
+How do hens stay fit? They always egg-cercise!
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **12 days** since this server shutdown
 
 ## Daily Trivia
 
-All of the following programs are classified as raster graphics editors EXCEPT:
- 1. Paint.NET
- 2. Inkscape
- 3. GIMP
- 4. Adobe Photoshop
+Which operating system was released first?
+ 1. OS/2
+ 2. Linux
+ 3. Mac OS
+ 4. Windows
 
 <details>
   <summary>Answer</summary>
-  Inkscape
+  Mac OS
 </details>
