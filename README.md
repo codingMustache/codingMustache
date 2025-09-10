@@ -4,7 +4,8 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do pirates not know the alphabet? They always get stuck at "C".
+What is the best way to carve?
+Whittle by whittle.
 
 ## Home Server Up-Time
 
@@ -13,13 +14,13 @@ Its been **12 days** since this server shutdown
 
 ## Daily Trivia
 
-What does LTS stand for in the software market?
- 1. Ludicrous Turbo Speed
- 2. Long Term Support
- 3. Ludicrous Transfer Speed
- 4. Long Taco Service
+The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
+ 1. Micronesia
+ 2. Tuvalu
+ 3. Fiji
+ 4. Marshall Islands
 
 <details>
   <summary>Answer</summary>
-  Long Term Support
+  Micronesia
 </details>
