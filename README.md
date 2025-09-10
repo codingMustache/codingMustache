@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do robots eat guacamole? With computer chips.
+Did you hear about the chameleon who couldn't change color? They had a reptile dysfunction.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **12 days** since this server shutdown
 
 ## Daily Trivia
 
-What programming language was GitHub written in?
- 1. Python
- 2. JavaScript
- 3. Lua
- 4. Ruby
+Which of the following physical typologies are used with Ethernet Networks?
+ 1. Mesh
+ 2. Hex
+ 3. Star
+ 4. Ring
 
 <details>
   <summary>Answer</summary>
-  Ruby
+  Star
 </details>
