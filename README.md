@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I burned 2000 calories today, I left my food in the oven for too long.
+I went to the zoo yesterday and saw a baguette in a cage. It was bread in captivity.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **12 days** since this server shutdown
 
 ## Daily Trivia
 
-What was the name given to Android 4.3?
- 1. Jelly Bean
- 2. Lollipop
- 3. Froyo
- 4. Nutella
+What does the term MIME stand for, in regards to computing?
+ 1. Mail Internet Mail Exchange
+ 2. Multipurpose Interleave Mail Exchange
+ 3. Mail Interleave Method Exchange
+ 4. Multipurpose Internet Mail Extensions
 
 <details>
   <summary>Answer</summary>
-  Jelly Bean
+  Multipurpose Internet Mail Extensions
 </details>
