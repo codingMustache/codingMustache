@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many kids with ADD does it take to change a lightbulb? Let's go ride bikes!
+If you think swimming with dolphins is expensive, you should try swimming with sharks--it cost me an arm and a leg!
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **12 days** since this server shutdown
 
 ## Daily Trivia
 
-What vulnerability ranked #1 on the OWASP Top 10 in 2013?
- 1. Insecure Direct Object References
- 2. Injection 
- 3. Cross-Site Scripting
- 4. Broken Authentication
+Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
+ 1. Leopard
+ 2. Tiger
+ 3. Puma
+ 4. Cheetah
 
 <details>
   <summary>Answer</summary>
-  Injection 
+  Cheetah
 </details>
