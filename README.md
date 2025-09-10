@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A cannibal is someone who is fed up with people.
+What musical instrument is found in the bathroom? A tuba toothpaste.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **12 days** since this server shutdown
 
 ## Daily Trivia
 
-What was the name of the first Bulgarian personal computer?
- 1. Pravetz 82
- 2. Pravetz 8D
- 3. IZOT 1030
- 4. IMKO-1
+Which operating system was released first?
+ 1. Linux
+ 2. Windows
+ 3. Mac OS
+ 4. OS/2
 
 <details>
   <summary>Answer</summary>
-  IMKO-1
+  Mac OS
 </details>
