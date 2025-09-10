@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where does Fonzie like to go for lunch? Chick-Fil-Eyyyyyyyy.
+What kind of bagel can fly? A plain bagel.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **12 days** since this server shutdown
 
 ## Daily Trivia
 
-The C programming language was created by this American computer scientist. 
- 1. Dennis Ritchie
- 2. Willis Ware
- 3. al-Khwārizmī
- 4. Tim Berners Lee
+What is the name of the default theme that is installed with Windows XP?
+ 1. Luna
+ 2. Bliss
+ 3. Whistler
+ 4. Neptune
 
 <details>
   <summary>Answer</summary>
-  Dennis Ritchie
+  Luna
 </details>
