@@ -4,8 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is the least spoken language in the world?
-Sign Language
+Who is the coolest Doctor in the hospital? The hip Doctor!
 
 ## Home Server Up-Time
 
@@ -14,13 +13,13 @@ Its been **12 days** since this server shutdown
 
 ## Daily Trivia
 
-On Twitter, what was the original character limit for a Tweet?
- 1. 120
- 2. 160
- 3. 100
- 4. 140
+What does the &quot;MP&quot; stand for in MP3?
+ 1. Music Player
+ 2. Multi Pass
+ 3. Moving Picture
+ 4. Micro Point
 
 <details>
   <summary>Answer</summary>
-  140
+  Moving Picture
 </details>
