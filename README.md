@@ -4,7 +4,9 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I made a belt out of watches once... It was a waist of time.
+What's the worst part about being a cross-eyed teacher?
+
+They can't control their pupils.
 
 ## Home Server Up-Time
 
@@ -13,13 +15,13 @@ Its been **12 days** since this server shutdown
 
 ## Daily Trivia
 
-How many kilobytes in one gigabyte (in decimal)?
- 1. 1024
- 2. 1000
- 3. 1048576
- 4. 1000000
+How many values can a single byte represent?
+ 1. 8
+ 2. 256
+ 3. 1
+ 4. 1024
 
 <details>
   <summary>Answer</summary>
-  1000000
+  256
 </details>
