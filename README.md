@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you get if you put a duck in a cement mixer? Quacks in the pavement.
+My dentist is the best, he even has a little plaque!
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **12 days** since this server shutdown
 
 ## Daily Trivia
 
-Which computer language would you associate Django framework with?
- 1. Python
- 2. C++
- 3. C#
- 4. Java
+All of the following programs are classified as raster graphics editors EXCEPT:
+ 1. Inkscape
+ 2. GIMP
+ 3. Adobe Photoshop
+ 4. Paint.NET
 
 <details>
   <summary>Answer</summary>
-  Python
+  Inkscape
 </details>
