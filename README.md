@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My dentist is the best, he even has a little plaque!
+Milk is also the fastest liquid on earth – its pasteurized before you even see it
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **12 days** since this server shutdown
 
 ## Daily Trivia
 
-All of the following programs are classified as raster graphics editors EXCEPT:
- 1. Inkscape
- 2. GIMP
- 3. Adobe Photoshop
- 4. Paint.NET
+Which programming language shares its name with an island in Indonesia?
+ 1. Jakarta
+ 2. Python
+ 3. C
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  Inkscape
+  Java
 </details>
