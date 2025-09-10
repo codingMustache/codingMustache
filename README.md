@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What’s brown and sounds like a bell? Dung!
+What do you get if you put a duck in a cement mixer? Quacks in the pavement.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **12 days** since this server shutdown
 
 ## Daily Trivia
 
-What is the name of Layer 7 of the OSI model?
- 1. Network
- 2. Session
- 3. Present
- 4. Application
+The numbering system with a radix of 16 is more commonly referred to as 
+ 1. Binary
+ 2. Duodecimal
+ 3. Octal
+ 4. Hexidecimal
 
 <details>
   <summary>Answer</summary>
-  Application
+  Hexidecimal
 </details>
