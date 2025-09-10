@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-There’s a new type of broom out, it’s sweeping the nation.
+Why did Dracula lie in the wrong coffin? He made a grave mistake.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **12 days** since this server shutdown
 
 ## Daily Trivia
 
-What language does Node.js use?
- 1. Joomla Source Code
- 2. Java
- 3. Java Source
- 4. JavaScript
+Approximately how many Apple I personal computers were created?
+ 1. 500
+ 2. 100
+ 3. 1000
+ 4. 200
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  200
 </details>
