@@ -6,11 +6,6 @@ Hello I'm Jorge and I love making things for the internet
 
 What did the Zen Buddist say to the hotdog vendor? Make me one with everything.
 
-## Home Server Up-Time
-
-Its been **12 days** since this server shutdown
-
-
 ## Daily Trivia
 
 What internet protocol was documented in RFC 1459?
