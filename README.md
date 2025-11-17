@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Without geometry life is pointless.
+Why is the new Kindle screen textured to look like paper? So you feel write at home.
 
 
 ## Daily Trivia
 
-Unix Time is defined as the number of seconds that have elapsed since when?
- 1. Midnight, January 1, 1970
- 2. Midnight, July 4, 1980
- 3. Midnight on the creator of Unix&#039;s birthday
- 4. Midnight, July 4, 1976
+Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
+ 1. Cherry MX Black
+ 2. Cherry MX Red
+ 3. Cherry MX Blue
+ 4. Cherry MX Brown
 
 <details>
   <summary>Answer</summary>
-  Midnight, January 1, 1970
+  Cherry MX Blue
 </details>
 
 
