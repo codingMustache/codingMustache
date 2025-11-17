@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-When will the little snake arrive? I don't know but he won't be long...
+They say Dodger Stadium can hold up to fifty-six thousand people, but that is just a ballpark figure.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **4 days** since this server shutdown
 
 ## Daily Trivia
 
-Which kind of algorithm is Ron Rivest not famous for creating?
- 1. Stream cipher
- 2. Asymmetric encryption
- 3. Hashing algorithm
- 4. Secret sharing scheme
+What does the &quot;MP&quot; stand for in MP3?
+ 1. Music Player
+ 2. Moving Picture
+ 3. Multi Pass
+ 4. Micro Point
 
 <details>
   <summary>Answer</summary>
-  Secret sharing scheme
+  Moving Picture
 </details>
