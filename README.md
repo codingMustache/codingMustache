@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why is the new Kindle screen textured to look like paper? So you feel write at home.
+Some people say that comedians who tell one too many light bulb jokes soon burn out, but they don't know watt they are talking about. They're not that bright.
 
 
 ## Daily Trivia
 
-Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
- 1. JavaScript
- 2. PHP
- 3. Python
- 4. C#
+Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
+ 1. Skipjack
+ 2. Nautilus
+ 3. Enigma Machine
+ 4. Clipper Chip
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  Clipper Chip
 </details>
 
 
