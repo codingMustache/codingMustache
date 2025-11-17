@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I been watching a channel on TV that is strictly just about origami — of course it is paper-view.
+Without geometry life is pointless.
 
 
 ## Daily Trivia
 
-Which of the following is a personal computer made by the Japanese company Fujitsu?
- 1. FM-7
- 2. MSX
- 3. Xmillennium 
- 4. PC-9801
+Unix Time is defined as the number of seconds that have elapsed since when?
+ 1. Midnight, January 1, 1970
+ 2. Midnight, July 4, 1980
+ 3. Midnight on the creator of Unix&#039;s birthday
+ 4. Midnight, July 4, 1976
 
 <details>
   <summary>Answer</summary>
-  FM-7
+  Midnight, January 1, 1970
 </details>
 
 
