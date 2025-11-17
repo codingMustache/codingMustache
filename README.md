@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I had a dream that I was a muffler last night. I woke up exhausted!
+Why is the ocean always blue? Because the shore never waves back.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **4 days** since this server shutdown
 
 ## Daily Trivia
 
-What does the computer software acronym JVM stand for?
- 1. Java Visual Machine
- 2. Java Virtual Machine
- 3. Just Virtual Machine
- 4. Java Vendor Machine
+In the server hosting industry IaaS stands for...
+ 1. Internet as a Service
+ 2. Infrastructure as a Server
+ 3. Internet and a Server
+ 4. Infrastructure as a Service
 
 <details>
   <summary>Answer</summary>
-  Java Virtual Machine
+  Infrastructure as a Service
 </details>
