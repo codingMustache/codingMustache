@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I always wanted to look into why I procrastinate, but I keep putting it off. 
+What do you call a pile of cats?  A Meowtain.
 
 
 ## Daily Trivia
 
-What does the International System of Quantities refer 1024 bytes as?
- 1. Kelobyte
- 2. Kilobyte
- 3. Kylobyte
- 4. Kibibyte
+What language does Node.js use?
+ 1. Java Source
+ 2. Java
+ 3. Joomla Source Code
+ 4. JavaScript
 
 <details>
   <summary>Answer</summary>
-  Kibibyte
+  JavaScript
 </details>
 
 
