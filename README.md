@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's orange and sounds like a parrot? A Carrot.
+What do you call someone with no nose? Nobody knows.
 
 
 ## Daily Trivia
 
-In computing, what does LAN stand for?
- 1. Local Area Network
- 2. Land Address Navigation
- 3. Light Access Node
- 4. Long Antenna Node
+On which computer hardware device is the BIOS chip located?
+ 1. Hard Disk Drive
+ 2. Central Processing Unit
+ 3. Graphics Processing Unit
+ 4. Motherboard
 
 <details>
   <summary>Answer</summary>
-  Local Area Network
+  Motherboard
 </details>
 
 
