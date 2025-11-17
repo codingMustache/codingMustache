@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a beehive without the b's? An eehive.
+My boss told me to have a good day. So I went home...
 
 
 ## Daily Trivia
 
-Who is the founder of Palantir?
- 1. Jack Dorsey
- 2. Marc Benioff
- 3. Peter Thiel
- 4. Mark Zuckerberg
+Nvidia&#039;s headquarters are based in which Silicon Valley city?
+ 1. Santa Clara
+ 2. Mountain View
+ 3. Cupertino
+ 4. Palo Alto
 
 <details>
   <summary>Answer</summary>
-  Peter Thiel
+  Santa Clara
 </details>
 
 
