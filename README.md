@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I dreamed about drowning in an ocean made out of orange soda last night. It took me a while to work out it was just a Fanta sea.
+Bad at golf? Join the club.
 
 
 ## Daily Trivia
 
-What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
- 1. Data link
- 2. Transport
- 3. Network
- 4. Session
+Which of the following computer components can be built using only NAND gates?
+ 1. ALU
+ 2. CPU
+ 3. RAM
+ 4. Register
 
 <details>
   <summary>Answer</summary>
-  Transport
+  ALU
 </details>
 
 
