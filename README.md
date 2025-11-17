@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-"I'll call you later." Don't call me later, call me Dad.
+Wife told me to take the spider out instead of killing it... We had some drinks, cool guy, wants to be a web developer.
 
 
 ## Daily Trivia
 
-The teapot often seen in many 3D modeling applications is called what?
- 1. 3D Teapot
- 2. Utah Teapot
- 3. Pixar Teapot
- 4. Tennessee Teapot
+In computing, what does LAN stand for?
+ 1. Long Antenna Node
+ 2. Local Area Network
+ 3. Light Access Node
+ 4. Land Address Navigation
 
 <details>
   <summary>Answer</summary>
-  Utah Teapot
+  Local Area Network
 </details>
 
 
