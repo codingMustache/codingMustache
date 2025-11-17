@@ -4,22 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why is the ocean always blue? Because the shore never waves back.
-
-## Home Server Up-Time
-
-Its been **4 days** since this server shutdown
+I’ve deleted the phone numbers of all the Germans I know from my mobile phone. Now it’s Hans free.
 
 
 ## Daily Trivia
 
-In the server hosting industry IaaS stands for...
- 1. Internet as a Service
- 2. Infrastructure as a Server
- 3. Internet and a Server
- 4. Infrastructure as a Service
+What does &quot;LCD&quot; stand for?
+ 1. Language Control Design
+ 2. Liquid Crystal Display
+ 3. Last Common Difference
+ 4. Long Continuous Design
 
 <details>
   <summary>Answer</summary>
-  Infrastructure as a Service
+  Liquid Crystal Display
 </details>
+
+
+## Home Server Up-Time
+
+Its been **4 days** since this server shutdown
