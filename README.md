@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the difference between a seal and a sea lion?
-An ion! 
+You can't run through a camp site. You can only ran, because it's past tents.
 
 
 ## Daily Trivia
 
-How long is an IPv6 address?
- 1. 32 bits
- 2. 128 bytes
- 3. 64 bits
- 4. 128 bits
+The numbering system with a radix of 16 is more commonly referred to as 
+ 1. Binary
+ 2. Hexidecimal
+ 3. Duodecimal
+ 4. Octal
 
 <details>
   <summary>Answer</summary>
-  128 bits
+  Hexidecimal
 </details>
 
 
