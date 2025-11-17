@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Hostess: Do you have a preference of where you sit?
-Dad: Down.
+What did the traffic light say to the car as it passed? "Don't look I'm changing!"
 
 
 ## Daily Trivia
 
-What is known as &quot;the brain&quot; of the Computer?
- 1. Motherboard
- 2. Graphics Processing Unit
- 3. Keyboard
- 4. Central Processing Unit
+What is the domain name for the country Tuvalu?
+ 1. .tl
+ 2. .tt
+ 3. .tu
+ 4. .tv
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  .tv
 </details>
 
 
