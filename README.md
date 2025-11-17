@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to hate facial hair, but then it grew on me.
+Did you know crocodiles could grow up to 15 feet? But most just have 4.
 
 
 ## Daily Trivia
 
-What is the name of the default theme that is installed with Windows XP?
- 1. Bliss
- 2. Whistler
- 3. Neptune
- 4. Luna
+.rs is the top-level domain for what country?
+ 1. Russia
+ 2. Romania
+ 3. Rwanda
+ 4. Serbia
 
 <details>
   <summary>Answer</summary>
-  Luna
+  Serbia
 </details>
 
 
