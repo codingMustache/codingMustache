@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do choirs keep buckets handy? So they can carry their tune
+Why is the new Kindle screen textured to look like paper? So you feel write at home.
 
 
 ## Daily Trivia
 
-When Gmail first launched, how much storage did it provide for your email?
- 1. 512MB
- 2. 5GB
- 3. 1GB
- 4. Unlimited
+Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
+ 1. JavaScript
+ 2. PHP
+ 3. Python
+ 4. C#
 
 <details>
   <summary>Answer</summary>
-  1GB
+  JavaScript
 </details>
 
 
