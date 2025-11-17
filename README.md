@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you get when you cross a rabbit with a water hose? Hare spray.
+Remember, the best angle to approach a problem from is the "try" angle.
 
 
 ## Daily Trivia
 
-In computing terms, typically what does CLI stand for?
- 1. Control Line Interface
- 2. Common Language Interface
- 3. Command Line Interface
- 4. Common Language Input
+Which data structure does FILO apply to?
+ 1. Stack
+ 2. Tree
+ 3. Heap
+ 4. Queue
 
 <details>
   <summary>Answer</summary>
-  Command Line Interface
+  Stack
 </details>
 
 
