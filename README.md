@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call someone with no nose? Nobody knows.
+A magician was driving down the street and then he turned into a driveway.
 
 
 ## Daily Trivia
 
-On which computer hardware device is the BIOS chip located?
- 1. Hard Disk Drive
- 2. Central Processing Unit
- 3. Graphics Processing Unit
- 4. Motherboard
+Lenovo acquired IBM&#039;s personal computer division, including the ThinkPad line of laptops and tablets, in what year?
+ 1. 2002
+ 2. 1999
+ 3. 2008
+ 4. 2005
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  2005
 </details>
 
 
