@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Remember, the best angle to approach a problem from is the "try" angle.
+Hear about the new restaurant called Karma? There’s no menu: You get what you deserve.
 
 
 ## Daily Trivia
 
-Which data structure does FILO apply to?
- 1. Stack
- 2. Tree
- 3. Heap
- 4. Queue
+If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
+ 1. C++
+ 2. Binary
+ 3. JavaScript
+ 4. Python
 
 <details>
   <summary>Answer</summary>
-  Stack
+  Binary
 </details>
 
 
