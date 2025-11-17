@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Sore throats are a pain in the neck!
+What do you get when you cross a rabbit with a water hose? Hare spray.
 
 
 ## Daily Trivia
 
-What is the main CPU is the Sega Mega Drive / Sega Genesis?
- 1. Yamaha YM2612
- 2. Zilog Z80
- 3. Intel 8088
- 4. Motorola 68000
+In computing terms, typically what does CLI stand for?
+ 1. Control Line Interface
+ 2. Common Language Interface
+ 3. Command Line Interface
+ 4. Common Language Input
 
 <details>
   <summary>Answer</summary>
-  Motorola 68000
+  Command Line Interface
 </details>
 
 
