@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the best thing about elevator jokes? They work on so many levels.
+Why doesn't the Chimney-Sweep call out sick from work? Because he's used to working with a flue.
 
 
 ## Daily Trivia
 
-The teapot often seen in many 3D modeling applications is called what?
- 1. Pixar Teapot
- 2. 3D Teapot
- 3. Tennessee Teapot
- 4. Utah Teapot
+The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
+ 1. HD Graphics 700 
+ 2. HD Graphics 500
+ 3. HD Graphics 7000
+ 4. HD Graphics 600
 
 <details>
   <summary>Answer</summary>
-  Utah Teapot
+  HD Graphics 500
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **4 days** since this server shutdown
+Its been **5 days** since this server shutdown
