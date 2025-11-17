@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the feline fail the lie detector test? Because he be lion.
+Me and my mates are in a band called Duvet. We're a cover band.
 
 
 ## Daily Trivia
 
-On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
- 1. Dollar Sign
- 2. Exclamation Mark
- 3. Percent Sign
- 4. Asterisk
+Which of the following computer components can be built using only NAND gates?
+ 1. ALU
+ 2. RAM
+ 3. CPU
+ 4. Register
 
 <details>
   <summary>Answer</summary>
-  Exclamation Mark
+  ALU
 </details>
 
 
