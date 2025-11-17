@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Bad at golf? Join the club.
+Why do choirs keep buckets handy? So they can carry their tune
 
 
 ## Daily Trivia
 
-Which of the following computer components can be built using only NAND gates?
- 1. ALU
- 2. CPU
- 3. RAM
- 4. Register
+When Gmail first launched, how much storage did it provide for your email?
+ 1. 512MB
+ 2. 5GB
+ 3. 1GB
+ 4. Unlimited
 
 <details>
   <summary>Answer</summary>
-  ALU
+  1GB
 </details>
 
 
