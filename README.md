@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Wife told me to take the spider out instead of killing it... We had some drinks, cool guy, wants to be a web developer.
+Why did the feline fail the lie detector test? Because he be lion.
 
 
 ## Daily Trivia
 
-In computing, what does LAN stand for?
- 1. Long Antenna Node
- 2. Local Area Network
- 3. Light Access Node
- 4. Land Address Navigation
+On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
+ 1. Dollar Sign
+ 2. Exclamation Mark
+ 3. Percent Sign
+ 4. Asterisk
 
 <details>
   <summary>Answer</summary>
-  Local Area Network
+  Exclamation Mark
 </details>
 
 
