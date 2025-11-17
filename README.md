@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is a vampire's favorite fruit? A blood orange.
+Sore throats are a pain in the neck!
 
 
 ## Daily Trivia
 
-What does GHz stand for?
- 1. Gigahetz
- 2. Gigahatz
- 3. Gigahotz
- 4. Gigahertz
+What is the main CPU is the Sega Mega Drive / Sega Genesis?
+ 1. Yamaha YM2612
+ 2. Zilog Z80
+ 3. Intel 8088
+ 4. Motorola 68000
 
 <details>
   <summary>Answer</summary>
-  Gigahertz
+  Motorola 68000
 </details>
 
 
