@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Some people say that comedians who tell one too many light bulb jokes soon burn out, but they don't know watt they are talking about. They're not that bright.
+I always wanted to look into why I procrastinate, but I keep putting it off. 
 
 
 ## Daily Trivia
 
-Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
- 1. Skipjack
- 2. Nautilus
- 3. Enigma Machine
- 4. Clipper Chip
+What does the International System of Quantities refer 1024 bytes as?
+ 1. Kelobyte
+ 2. Kilobyte
+ 3. Kylobyte
+ 4. Kibibyte
 
 <details>
   <summary>Answer</summary>
-  Clipper Chip
+  Kibibyte
 </details>
 
 
