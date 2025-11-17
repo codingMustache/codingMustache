@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to work in a shoe recycling shop. It was sole destroying.
+Conjunctivitis.com – now that’s a site for sore eyes.
 
 
 ## Daily Trivia
 
-How many bits make up the significand portion of a single precision floating point number?
- 1. 8
- 2. 53
- 3. 15
- 4. 23
+In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
+ 1. print(&quot;Hello World&quot;)
+ 2. console.log(&quot;Hello World&quot;)
+ 3. echo &quot;Hello World&quot;
+ 4. printf(&quot;Hello World&quot;)
 
 <details>
   <summary>Answer</summary>
-  23
+  print(&quot;Hello World&quot;)
 </details>
 
 
