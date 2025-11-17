@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What happens to a frog's car when it breaks down? It gets toad.
+Why does it take longer to get from 1st to 2nd base, than it does to get from 2nd to 3rd base? Because there’s a Shortstop in between!
 
 
 ## Daily Trivia
 
-What is the number of keys on a standard Windows Keyboard?
- 1. 94
- 2. 104
- 3. 64
- 4. 76
+How fast is USB 3.1 Gen 2 theoretically?
+ 1. 8 Gb/s
+ 2. 10 Gb/s
+ 3. 5 Gb/s
+ 4. 1 Gb/s
 
 <details>
   <summary>Answer</summary>
-  104
+  10 Gb/s
 </details>
 
 
