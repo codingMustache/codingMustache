@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to be a banker, but I lost interest.
+I’m on a whiskey diet. I’ve lost three days already.
 
 
 ## Daily Trivia
 
-The acronym &quot;RIP&quot; stands for which of these?
- 1. Routine Inspection Protocol
- 2. Routing Information Protocol
- 3. Regular Interval Processes
- 4. Runtime Instance Processes
+What was the first Android version specifically optimized for tablets?
+ 1. Eclair
+ 2. Froyo
+ 3. Marshmellow
+ 4. Honeycomb
 
 <details>
   <summary>Answer</summary>
-  Routing Information Protocol
+  Honeycomb
 </details>
 
 
