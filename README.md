@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many South Americans does it take to change a lightbulb? A Brazilian
+What do you call a beehive without the b's? An eehive.
 
 
 ## Daily Trivia
 
-What port does HTTP run on?
- 1. 443
- 2. 80
- 3. 23
- 4. 53
+Who is the founder of Palantir?
+ 1. Jack Dorsey
+ 2. Marc Benioff
+ 3. Peter Thiel
+ 4. Mark Zuckerberg
 
 <details>
   <summary>Answer</summary>
-  80
+  Peter Thiel
 </details>
 
 
