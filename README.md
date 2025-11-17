@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Hear about the new restaurant called Karma? There’s no menu: You get what you deserve.
+I used to hate facial hair, but then it grew on me.
 
 
 ## Daily Trivia
 
-If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
- 1. C++
- 2. Binary
- 3. JavaScript
- 4. Python
+What is the name of the default theme that is installed with Windows XP?
+ 1. Bliss
+ 2. Whistler
+ 3. Neptune
+ 4. Luna
 
 <details>
   <summary>Answer</summary>
-  Binary
+  Luna
 </details>
 
 
