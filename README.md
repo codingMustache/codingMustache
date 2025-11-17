@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I’ve deleted the phone numbers of all the Germans I know from my mobile phone. Now it’s Hans free.
+What happens to a frog's car when it breaks down? It gets toad.
 
 
 ## Daily Trivia
 
-What does &quot;LCD&quot; stand for?
- 1. Language Control Design
- 2. Liquid Crystal Display
- 3. Last Common Difference
- 4. Long Continuous Design
+What is the number of keys on a standard Windows Keyboard?
+ 1. 94
+ 2. 104
+ 3. 64
+ 4. 76
 
 <details>
   <summary>Answer</summary>
-  Liquid Crystal Display
+  104
 </details>
 
 
