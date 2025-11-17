@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why does it take longer to get from 1st to 2nd base, than it does to get from 2nd to 3rd base? Because there’s a Shortstop in between!
+What is a vampire's favorite fruit? A blood orange.
 
 
 ## Daily Trivia
 
-.rs is the top-level domain for what country?
- 1. Russia
- 2. Rwanda
- 3. Serbia
- 4. Romania
+What does GHz stand for?
+ 1. Gigahetz
+ 2. Gigahatz
+ 3. Gigahotz
+ 4. Gigahertz
 
 <details>
   <summary>Answer</summary>
-  Serbia
+  Gigahertz
 </details>
 
 
