@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What’s Forest Gump’s Facebook password? 1forest1
+I accidentally took my cats meds last night. Don’t ask meow.
 
 ## Home Server Up-Time
 
@@ -13,13 +13,13 @@ Its been **4 days** since this server shutdown
 
 ## Daily Trivia
 
-What is the domain name for the country Tuvalu?
- 1. .tl
- 2. .tv
- 3. .tt
- 4. .tu
+What was the first Android version specifically optimized for tablets?
+ 1. Honeycomb
+ 2. Marshmellow
+ 3. Froyo
+ 4. Eclair
 
 <details>
   <summary>Answer</summary>
-  .tv
+  Honeycomb
 </details>
