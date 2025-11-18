@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you fix a broken pizza? With tomato paste.
+Chances are if you' ve seen one shopping center, you've seen a mall.
 
 
 ## Daily Trivia
 
-Which programming language was developed by Sun Microsystems in 1995?
- 1. Python
- 2. Solaris OS
- 3. C++
- 4. Java
+What does the Prt Sc button do?
+ 1. Nothing
+ 2. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
+ 3. Captures what&#039;s on the screen and copies it to your clipboard
+ 4. Closes all windows
 
 <details>
   <summary>Answer</summary>
-  Java
+  Captures what&#039;s on the screen and copies it to your clipboard
 </details>
 
 
