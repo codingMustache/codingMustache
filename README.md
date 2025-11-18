@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A girl once asked me what my heart desired, apparently blood, oxygen and neural messages were all wrong answers
+Why can't your nose be 12 inches long? Because then it'd be a foot!
 
 
 ## Daily Trivia
 
-What is the code name for the mobile operating system Android 7.0?
- 1. Nougat
- 2. Marshmallow
- 3. Jelly Bean
- 4. Ice Cream Sandwich
+In computing, what does LAN stand for?
+ 1. Local Area Network
+ 2. Land Address Navigation
+ 3. Light Access Node
+ 4. Long Antenna Node
 
 <details>
   <summary>Answer</summary>
-  Nougat
+  Local Area Network
 </details>
 
 
