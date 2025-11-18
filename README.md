@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I was wondering why the frisbee was getting bigger, then it hit me.
+What do you call a cow with two legs? Lean beef.
 
 
 ## Daily Trivia
 
-What programming language was GitHub written in?
- 1. JavaScript
- 2. Python
- 3. Lua
- 4. Ruby
+Which data structure does FILO apply to?
+ 1. Tree
+ 2. Heap
+ 3. Stack
+ 4. Queue
 
 <details>
   <summary>Answer</summary>
-  Ruby
+  Stack
 </details>
 
 
