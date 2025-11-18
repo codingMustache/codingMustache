@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the bread factory burning down? They say the business is toast.
+I used to be a banker, but I lost interest.
 
 
 ## Daily Trivia
 
-What was the name given to Android 4.3?
- 1. Lollipop
- 2. Nutella
- 3. Froyo
- 4. Jelly Bean
+What does &quot;LCD&quot; stand for?
+ 1. Liquid Crystal Display
+ 2. Language Control Design
+ 3. Last Common Difference
+ 4. Long Continuous Design
 
 <details>
   <summary>Answer</summary>
-  Jelly Bean
+  Liquid Crystal Display
 </details>
 
 
