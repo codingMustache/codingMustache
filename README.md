@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do owls go to buy their baby clothes? The owlet malls.
+What's the difference between a poorly dressed man on a tricycle and a well dressed man on a bicycle? Attire.
 
 
 ## Daily Trivia
 
-What does AD stand for in relation to Windows Operating Systems? 
- 1. Alternative Drive
- 2. Automated Database
- 3. Active Department
- 4. Active Directory
+What does the &quot;MP&quot; stand for in MP3?
+ 1. Music Player
+ 2. Multi Pass
+ 3. Micro Point
+ 4. Moving Picture
 
 <details>
   <summary>Answer</summary>
-  Active Directory
+  Moving Picture
 </details>
 
 
