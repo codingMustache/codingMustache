@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the difference between a poorly dressed man on a tricycle and a well dressed man on a bicycle? Attire.
+What has a bed that you can’t sleep in? A river.
 
 
 ## Daily Trivia
 
-What does the &quot;MP&quot; stand for in MP3?
- 1. Music Player
- 2. Multi Pass
- 3. Micro Point
- 4. Moving Picture
+What major programming language does Unreal Engine 4 use?
+ 1. Assembly
+ 2. C++
+ 3. ECMAScript
+ 4. C#
 
 <details>
   <summary>Answer</summary>
-  Moving Picture
+  C++
 </details>
 
 
