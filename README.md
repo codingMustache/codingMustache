@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the fireman wear red, white, and blue suspenders? To hold his pants up.
+I ate a clock yesterday. It was so time consuming.
 
 
 ## Daily Trivia
 
-Who invented the &quot;Spanning Tree Protocol&quot;?
- 1. Vint Cerf
- 2. Paul Vixie
- 3. Michael Roberts
- 4. Radia Perlman
+What is the name of Layer 7 of the OSI model?
+ 1. Application
+ 2. Present
+ 3. Network
+ 4. Session
 
 <details>
   <summary>Answer</summary>
-  Radia Perlman
+  Application
 </details>
 
 
