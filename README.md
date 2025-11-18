@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What has a bed that you can’t sleep in? A river.
+I've been trying to come up with a dad joke about momentum . . . but I just can't seem to get it going.
 
 
 ## Daily Trivia
 
-What major programming language does Unreal Engine 4 use?
- 1. Assembly
+The programming language &#039;Swift&#039; was created to replace what other programming language?
+ 1. C#
  2. C++
- 3. ECMAScript
- 4. C#
+ 3. Ruby
+ 4. Objective-C
 
 <details>
   <summary>Answer</summary>
-  C++
+  Objective-C
 </details>
 
 
