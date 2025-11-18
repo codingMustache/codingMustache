@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I think circles are pointless.
+Why don't skeletons ride roller coasters? They don't have the stomach for it.
 
 
 ## Daily Trivia
 
-What does GHz stand for?
- 1. Gigahotz
- 2. Gigahertz
- 3. Gigahetz
- 4. Gigahatz
+The teapot often seen in many 3D modeling applications is called what?
+ 1. Utah Teapot
+ 2. Tennessee Teapot
+ 3. Pixar Teapot
+ 4. 3D Teapot
 
 <details>
   <summary>Answer</summary>
-  Gigahertz
+  Utah Teapot
 </details>
 
 
