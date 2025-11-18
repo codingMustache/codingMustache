@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I've been trying to come up with a dad joke about momentum . . . but I just can't seem to get it going.
+Why do wizards clean their teeth three times a day? To prevent bat breath!
 
 
 ## Daily Trivia
 
-The programming language &#039;Swift&#039; was created to replace what other programming language?
- 1. C#
- 2. C++
- 3. Ruby
- 4. Objective-C
+This mobile OS held the largest market share in 2012.
+ 1. Android
+ 2. iOS
+ 3. BlackBerry
+ 4. Symbian
 
 <details>
   <summary>Answer</summary>
-  Objective-C
+  iOS
 </details>
 
 
