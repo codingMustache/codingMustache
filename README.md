@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Sometimes I tuck my knees into my chest and lean forward.  That’s just how I roll.
+I wouldn't buy anything with velcro. It's a total rip-off.
 
 
 ## Daily Trivia
 
-What is the name of Layer 7 of the OSI model?
- 1. Application
- 2. Present
- 3. Network
- 4. Session
+Which computer language would you associate Django framework with?
+ 1. C++
+ 2. Python
+ 3. C#
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  Application
+  Python
 </details>
 
 
