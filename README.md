@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are basketball players messy eaters? Because they are always dribbling.
+Why do valley girls hang out in odd numbered groups? Because they can't even.
 
 
 ## Daily Trivia
 
-The C programming language was created by this American computer scientist. 
- 1. Tim Berners Lee
- 2. Willis Ware
- 3. Dennis Ritchie
- 4. al-Khwārizmī
+Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
+ 1. Commodore
+ 2. Apple
+ 3. Atari
+ 4. Microsoft
 
 <details>
   <summary>Answer</summary>
-  Dennis Ritchie
+  Apple
 </details>
 
 
