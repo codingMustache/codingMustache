@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is a tornado's favorite game to play? Twister!
+What's the difference between roast beef and pea soup. Anyone can roast beef, but nobody can pee soup.
 
 
 ## Daily Trivia
 
-Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
- 1. Puma
- 2. Leopard
- 3. Tiger
- 4. Cheetah
+In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
+ 1. &lt;scroll&gt;&lt;/scroll&gt;
+ 2. &lt;move&gt;&lt;/move&gt;
+ 3. &lt;marquee&gt;&lt;/marquee&gt;
+ 4. &lt;slide&gt;&lt;/slide&gt;
 
 <details>
   <summary>Answer</summary>
-  Cheetah
+  &lt;marquee&gt;&lt;/marquee&gt;
 </details>
 
 
