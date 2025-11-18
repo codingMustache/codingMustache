@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the judge say to the dentist? Do you swear to pull the tooth, the whole tooth and nothing but the tooth?
+Why are basketball players messy eaters? Because they are always dribbling.
 
 
 ## Daily Trivia
 
-While Apple was formed in California, in which western state was Microsoft founded?
- 1. Washington
- 2. New Mexico
- 3. Colorado
- 4. Arizona
+The C programming language was created by this American computer scientist. 
+ 1. Tim Berners Lee
+ 2. Willis Ware
+ 3. Dennis Ritchie
+ 4. al-Khwārizmī
 
 <details>
   <summary>Answer</summary>
-  New Mexico
+  Dennis Ritchie
 </details>
 
 
