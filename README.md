@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Chances are if you' ve seen one shopping center, you've seen a mall.
+What do you call a guy lying on your doorstep? Matt.
 
 
 ## Daily Trivia
 
-What does the Prt Sc button do?
- 1. Nothing
- 2. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
- 3. Captures what&#039;s on the screen and copies it to your clipboard
- 4. Closes all windows
+In computing, what does MIDI stand for?
+ 1. Musical Interface of Digital Instruments
+ 2. Modular Interface of Digital Instruments
+ 3. Musical Instrument Digital Interface
+ 4. Musical Instrument Data Interface
 
 <details>
   <summary>Answer</summary>
-  Captures what&#039;s on the screen and copies it to your clipboard
+  Musical Instrument Digital Interface
 </details>
 
 
