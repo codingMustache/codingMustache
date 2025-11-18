@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of music do mummy's like? Rap
+A man walks into a bar and orders helicopter flavor chips. The barman replies “sorry mate we only do plain”
 
 
 ## Daily Trivia
 
-What does the Prt Sc button do?
- 1. Captures what&#039;s on the screen and copies it to your clipboard
- 2. Closes all windows
- 3. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
- 4. Nothing
+Which of the following is a personal computer made by the Japanese company Fujitsu?
+ 1. FM-7
+ 2. MSX
+ 3. PC-9801
+ 4. Xmillennium 
 
 <details>
   <summary>Answer</summary>
-  Captures what&#039;s on the screen and copies it to your clipboard
+  FM-7
 </details>
 
 
