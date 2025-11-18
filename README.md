@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I don’t play soccer because I enjoy the sport. I’m just doing it for kicks.
+What is a tornado's favorite game to play? Twister!
 
 
 ## Daily Trivia
 
-What language does Node.js use?
- 1. JavaScript
- 2. Java Source
- 3. Java
- 4. Joomla Source Code
+Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
+ 1. Puma
+ 2. Leopard
+ 3. Tiger
+ 4. Cheetah
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  Cheetah
 </details>
 
 
