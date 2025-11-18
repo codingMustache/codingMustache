@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do wizards clean their teeth three times a day? To prevent bat breath!
+My boss told me to attach two pieces of wood together... I totally nailed it!
 
 
 ## Daily Trivia
 
-This mobile OS held the largest market share in 2012.
- 1. Android
- 2. iOS
- 3. BlackBerry
- 4. Symbian
+When was the programming language &quot;C#&quot; released?
+ 1. 1998
+ 2. 2000
+ 3. 2001
+ 4. 1999
 
 <details>
   <summary>Answer</summary>
-  iOS
+  2000
 </details>
 
 
