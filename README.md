@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why can't your nose be 12 inches long? Because then it'd be a foot!
+What did the judge say to the dentist? Do you swear to pull the tooth, the whole tooth and nothing but the tooth?
 
 
 ## Daily Trivia
 
-In computing, what does LAN stand for?
- 1. Local Area Network
- 2. Land Address Navigation
- 3. Light Access Node
- 4. Long Antenna Node
+While Apple was formed in California, in which western state was Microsoft founded?
+ 1. Washington
+ 2. New Mexico
+ 3. Colorado
+ 4. Arizona
 
 <details>
   <summary>Answer</summary>
-  Local Area Network
+  New Mexico
 </details>
 
 
