@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I wouldn't buy anything with velcro. It's a total rip-off.
+I don’t play soccer because I enjoy the sport. I’m just doing it for kicks.
 
 
 ## Daily Trivia
 
-Which computer language would you associate Django framework with?
- 1. C++
- 2. Python
- 3. C#
- 4. Java
+What language does Node.js use?
+ 1. JavaScript
+ 2. Java Source
+ 3. Java
+ 4. Joomla Source Code
 
 <details>
   <summary>Answer</summary>
-  Python
+  JavaScript
 </details>
 
 
