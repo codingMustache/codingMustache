@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why don't skeletons ride roller coasters? They don't have the stomach for it.
+Why was the shirt happy to hang around the tank top? Because it was armless
 
 
 ## Daily Trivia
 
-The teapot often seen in many 3D modeling applications is called what?
- 1. Utah Teapot
- 2. Tennessee Teapot
- 3. Pixar Teapot
- 4. 3D Teapot
+All of the following programs are classified as raster graphics editors EXCEPT:
+ 1. GIMP
+ 2. Adobe Photoshop
+ 3. Paint.NET
+ 4. Inkscape
 
 <details>
   <summary>Answer</summary>
-  Utah Teapot
+  Inkscape
 </details>
 
 
