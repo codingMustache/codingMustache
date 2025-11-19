@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where does Fonzie like to go for lunch? Chick-Fil-Eyyyyyyyy.
+What kind of award did the dentist receive? A little plaque.
 
 
 ## Daily Trivia
 
-The numbering system with a radix of 16 is more commonly referred to as 
- 1. Binary
- 2. Hexidecimal
- 3. Duodecimal
- 4. Octal
+.rs is the top-level domain for what country?
+ 1. Romania
+ 2. Rwanda
+ 3. Serbia
+ 4. Russia
 
 <details>
   <summary>Answer</summary>
-  Hexidecimal
+  Serbia
 </details>
 
 
