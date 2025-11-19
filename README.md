@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a nervous javelin thrower? Shakespeare.
+What’s the longest word in the dictionary? Smiles. Because there’s a mile between the two S’s.
 
 
 ## Daily Trivia
 
-When did the online streaming service &quot;Mixer&quot; launch?
- 1. 2009
- 2. 2011
- 3. 2016
- 4. 2013
+On which day did the World Wide Web go online?
+ 1. December 20, 1990
+ 2. November 24, 1995
+ 3. November 12, 1990
+ 4. December 17, 1996
 
 <details>
   <summary>Answer</summary>
-  2016
+  December 20, 1990
 </details>
 
 
