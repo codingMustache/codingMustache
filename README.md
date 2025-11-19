@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do hens stay fit? They always egg-cercise!
+Yesterday I confused the words "jacuzzi" and "yakuza". Now I'm in hot water with the Japanese mafia.
 
 
 ## Daily Trivia
 
-Which of the following languages is used as a scripting language in the Unity 3D game engine?
- 1. Objective-C
- 2. C++
- 3. Java
- 4. C#
+When was the programming language &quot;C#&quot; released?
+ 1. 1998
+ 2. 1999
+ 3. 2000
+ 4. 2001
 
 <details>
   <summary>Answer</summary>
-  C#
+  2000
 </details>
 
 
