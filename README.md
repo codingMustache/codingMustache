@@ -4,22 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do pumpkins sit on people’s porches?
-
-They have no hands to knock on the door.
+Why is the ocean always blue? Because the shore never waves back.
 
 
 ## Daily Trivia
 
-When Gmail first launched, how much storage did it provide for your email?
- 1. 512MB
- 2. 5GB
- 3. Unlimited
- 4. 1GB
+What was the name of the first Bulgarian personal computer?
+ 1. Pravetz 8D
+ 2. Pravetz 82
+ 3. IMKO-1
+ 4. IZOT 1030
 
 <details>
   <summary>Answer</summary>
-  1GB
+  IMKO-1
 </details>
 
 
