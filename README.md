@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a magician who has lost their magic? Ian.
+A man walked in to a bar with some asphalt on his arm. He said “Two beers please, one for me and one for the road.”
 
 
 ## Daily Trivia
 
-What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
- 1. Data link
- 2. Network
- 3. Transport
- 4. Session
+What does the computer software acronym JVM stand for?
+ 1. Java Vendor Machine
+ 2. Java Visual Machine
+ 3. Just Virtual Machine
+ 4. Java Virtual Machine
 
 <details>
   <summary>Answer</summary>
-  Transport
+  Java Virtual Machine
 </details>
 
 
