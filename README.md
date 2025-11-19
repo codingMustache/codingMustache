@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are fish so smart? Because they live in schools!
+I used to work for a soft drink can crusher. It was soda pressing.
 
 
 ## Daily Trivia
 
-Nvidia&#039;s headquarters are based in which Silicon Valley city?
- 1. Palo Alto
- 2. Cupertino
- 3. Mountain View
- 4. Santa Clara
+What vulnerability ranked #1 on the OWASP Top 10 in 2013?
+ 1. Injection 
+ 2. Insecure Direct Object References
+ 3. Cross-Site Scripting
+ 4. Broken Authentication
 
 <details>
   <summary>Answer</summary>
-  Santa Clara
+  Injection 
 </details>
 
 
