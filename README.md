@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the octopus beat the shark in a fight? Because it was well armed.
+Did you hear the one about the giant pickle?  He was kind of a big dill.
 
 
 ## Daily Trivia
 
-Whistler was the codename of this Microsoft Operating System.
- 1. Windows XP
- 2. Windows 2000
- 3. Windows 95
- 4. Windows 7
+.at is the top-level domain for what country?
+ 1. Austria
+ 2. Angola
+ 3. Australia
+ 4. Argentina
 
 <details>
   <summary>Answer</summary>
-  Windows XP
+  Austria
 </details>
 
 
