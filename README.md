@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to work for a soft drink can crusher. It was soda pressing.
+What do you call a magician who has lost their magic? Ian.
 
 
 ## Daily Trivia
 
-What vulnerability ranked #1 on the OWASP Top 10 in 2013?
- 1. Injection 
- 2. Insecure Direct Object References
- 3. Cross-Site Scripting
- 4. Broken Authentication
+What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
+ 1. Data link
+ 2. Network
+ 3. Transport
+ 4. Session
 
 <details>
   <summary>Answer</summary>
-  Injection 
+  Transport
 </details>
 
 
