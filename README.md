@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of award did the dentist receive? A little plaque.
+Why did the house go to the doctor? It was having window panes.
 
 
 ## Daily Trivia
 
-.rs is the top-level domain for what country?
- 1. Romania
- 2. Rwanda
- 3. Serbia
- 4. Russia
+How many bits make up the significand portion of a single precision floating point number?
+ 1. 8
+ 2. 23
+ 3. 53
+ 4. 15
 
 <details>
   <summary>Answer</summary>
-  Serbia
+  23
 </details>
 
 
