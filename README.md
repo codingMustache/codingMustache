@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was Santa's little helper feeling depressed? Because he has low elf esteem.
-
+What do you call a careful wolf? Aware wolf.
 
 
 ## Daily Trivia
 
-What does GHz stand for?
- 1. Gigahotz
- 2. Gigahetz
- 3. Gigahertz
- 4. Gigahatz
+Which RAID array type is associated with data mirroring?
+ 1. RAID 5
+ 2. RAID 10
+ 3. RAID 1
+ 4. RAID 0
 
 <details>
   <summary>Answer</summary>
-  Gigahertz
+  RAID 1
 </details>
 
 
