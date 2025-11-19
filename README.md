@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was Santa's little helper feeling depressed? Because he has low elf esteem.
-
+Why did the octopus beat the shark in a fight? Because it was well armed.
 
 
 ## Daily Trivia
 
-In the server hosting industry IaaS stands for...
- 1. Infrastructure as a Server
- 2. Internet as a Service
- 3. Infrastructure as a Service
- 4. Internet and a Server
+Whistler was the codename of this Microsoft Operating System.
+ 1. Windows XP
+ 2. Windows 2000
+ 3. Windows 95
+ 4. Windows 7
 
 <details>
   <summary>Answer</summary>
-  Infrastructure as a Service
+  Windows XP
 </details>
 
 
