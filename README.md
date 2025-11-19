@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Geology rocks, but Geography is where it's at!
+Where does Fonzie like to go for lunch? Chick-Fil-Eyyyyyyyy.
 
 
 ## Daily Trivia
 
-What does the &quot;MP&quot; stand for in MP3?
- 1. Music Player
- 2. Multi Pass
- 3. Micro Point
- 4. Moving Picture
+The numbering system with a radix of 16 is more commonly referred to as 
+ 1. Binary
+ 2. Hexidecimal
+ 3. Duodecimal
+ 4. Octal
 
 <details>
   <summary>Answer</summary>
-  Moving Picture
+  Hexidecimal
 </details>
 
 
