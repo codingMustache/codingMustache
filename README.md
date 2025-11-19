@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How come the stadium got hot after the game? Because all of the fans left.
+What do you call an elephant that doesn’t matter? An irrelephant.
 
 
 ## Daily Trivia
 
-In programming, the ternary operator is mostly defined with what symbol(s)?
- 1. ?:
- 2. ?
- 3. if then
- 4. ??
+In computing terms, typically what does CLI stand for?
+ 1. Command Line Interface
+ 2. Common Language Input
+ 3. Control Line Interface
+ 4. Common Language Interface
 
 <details>
   <summary>Answer</summary>
-  ?:
+  Command Line Interface
 </details>
 
 
