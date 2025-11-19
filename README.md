@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Is the pool safe for diving? It deep ends.
+Why are pirates called pirates? Because they arrr!
 
 
 ## Daily Trivia
 
-Which data structure does FILO apply to?
- 1. Stack
- 2. Tree
- 3. Heap
- 4. Queue
+What was the first company to use the term &quot;Golden Master&quot;?
+ 1. Apple
+ 2. Google
+ 3. IBM
+ 4. Microsoft
 
 <details>
   <summary>Answer</summary>
-  Stack
+  Apple
 </details>
 
 
