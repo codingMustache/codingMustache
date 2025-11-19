@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A man walked in to a bar with some asphalt on his arm. He said “Two beers please, one for me and one for the road.”
+Geology rocks, but Geography is where it's at!
 
 
 ## Daily Trivia
 
-What does the computer software acronym JVM stand for?
- 1. Java Vendor Machine
- 2. Java Visual Machine
- 3. Just Virtual Machine
- 4. Java Virtual Machine
+What does the &quot;MP&quot; stand for in MP3?
+ 1. Music Player
+ 2. Multi Pass
+ 3. Micro Point
+ 4. Moving Picture
 
 <details>
   <summary>Answer</summary>
-  Java Virtual Machine
+  Moving Picture
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **6 days** since this server shutdown
+Its been **** since this server shutdown
