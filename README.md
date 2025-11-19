@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-When you have a bladder infection, urine trouble.
+Why was Santa's little helper feeling depressed? Because he has low elf esteem.
+
 
 
 ## Daily Trivia
 
-In computing, what does MIDI stand for?
- 1. Musical Interface of Digital Instruments
- 2. Musical Instrument Digital Interface
- 3. Modular Interface of Digital Instruments
- 4. Musical Instrument Data Interface
+In the server hosting industry IaaS stands for...
+ 1. Infrastructure as a Server
+ 2. Internet as a Service
+ 3. Infrastructure as a Service
+ 4. Internet and a Server
 
 <details>
   <summary>Answer</summary>
-  Musical Instrument Digital Interface
+  Infrastructure as a Service
 </details>
 
 
