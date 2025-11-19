@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the house go to the doctor? It was having window panes.
+I adopted my dog from a blacksmith. As soon as we got home he made a bolt for the door.
 
 
 ## Daily Trivia
 
-How many bits make up the significand portion of a single precision floating point number?
- 1. 8
- 2. 23
- 3. 53
- 4. 15
+How many bytes are in a single Kibibyte?
+ 1. 1024
+ 2. 1000
+ 3. 2400
+ 4. 1240
 
 <details>
   <summary>Answer</summary>
-  23
+  1024
 </details>
 
 
