@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the difference between a rooster and a crow? A rooster can crow but a crow cannot rooster.
+The other day, my wife asked me to pass her lipstick but I accidentally passed her a glue stick. She still isn't talking to me.
 
 
 ## Daily Trivia
 
-What does the &#039;S&#039; in the RSA encryption algorithm stand for?
- 1. Secure
- 2. Schottky
- 3. Shamir
- 4. Stable
+In web design, what does CSS stand for?
+ 1. Counter Strike: Source
+ 2. Cascading Style Sheet
+ 3. Computer Style Sheet
+ 4. Corrective Style Sheet
 
 <details>
   <summary>Answer</summary>
-  Shamir
+  Cascading Style Sheet
 </details>
 
 
