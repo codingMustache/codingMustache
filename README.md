@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A quick shoutout to all of the sidewalks out there... Thanks for keeping me off the streets.
+Why are fish so smart? Because they live in schools!
 
 
 ## Daily Trivia
 
-How many bytes are in a single Kibibyte?
- 1. 1024
- 2. 1240
- 3. 1000
- 4. 2400
+Nvidia&#039;s headquarters are based in which Silicon Valley city?
+ 1. Palo Alto
+ 2. Cupertino
+ 3. Mountain View
+ 4. Santa Clara
 
 <details>
   <summary>Answer</summary>
-  1024
+  Santa Clara
 </details>
 
 
