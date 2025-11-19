@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What’s the longest word in the dictionary? Smiles. Because there’s a mile between the two S’s.
+I finally bought the limited edition Thesaurus that I've always wanted. When I opened it, all the pages were blank.
+I have no words to describe how angry I am.
 
 
 ## Daily Trivia
 
-On which day did the World Wide Web go online?
- 1. December 20, 1990
- 2. November 24, 1995
- 3. November 12, 1990
- 4. December 17, 1996
+Nvidia&#039;s headquarters are based in which Silicon Valley city?
+ 1. Palo Alto
+ 2. Cupertino
+ 3. Mountain View
+ 4. Santa Clara
 
 <details>
   <summary>Answer</summary>
-  December 20, 1990
+  Santa Clara
 </details>
 
 
