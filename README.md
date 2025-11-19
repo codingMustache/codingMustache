@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A police officer caught two kids playing with a firework and a car battery. He charged one and let the other one off.
+What do you call corn that joins the army? Kernel.
 
 
 ## Daily Trivia
 
-Which of the following languages is used as a scripting language in the Unity 3D game engine?
+The programming language &#039;Swift&#039; was created to replace what other programming language?
  1. C#
- 2. Java
+ 2. Objective-C
  3. C++
- 4. Objective-C
+ 4. Ruby
 
 <details>
   <summary>Answer</summary>
-  C#
+  Objective-C
 </details>
 
 
