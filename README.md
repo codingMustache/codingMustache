@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the scarecrow win an award? Because he was outstanding in his field.
+If at first you don't succeed, sky diving is not for you!
 
 
 ## Daily Trivia
 
-In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
- 1. print(&quot;Hello World&quot;)
- 2. printf(&quot;Hello World&quot;)
- 3. echo &quot;Hello World&quot;
- 4. console.log(&quot;Hello World&quot;)
+Which RAID array type is associated with data mirroring?
+ 1. RAID 10
+ 2. RAID 5
+ 3. RAID 0
+ 4. RAID 1
 
 <details>
   <summary>Answer</summary>
-  print(&quot;Hello World&quot;)
+  RAID 1
 </details>
 
 
