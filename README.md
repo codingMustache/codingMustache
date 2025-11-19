@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a careful wolf? Aware wolf.
+What did the digital clock say to the grandfather clock? Look, no hands!
 
 
 ## Daily Trivia
 
-Which RAID array type is associated with data mirroring?
- 1. RAID 5
- 2. RAID 10
- 3. RAID 1
- 4. RAID 0
+Which programming language shares its name with an island in Indonesia?
+ 1. Python
+ 2. Java
+ 3. C
+ 4. Jakarta
 
 <details>
   <summary>Answer</summary>
-  RAID 1
+  Java
 </details>
 
 
