@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A farmer had 297 cows, when he rounded them up, he found he had 300
+When you have a bladder infection, urine trouble.
 
 
 ## Daily Trivia
 
-Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
- 1. Cherry MX Blue
- 2. Cherry MX Brown
- 3. Cherry MX Red
- 4. Cherry MX Black
+In computing, what does MIDI stand for?
+ 1. Musical Interface of Digital Instruments
+ 2. Musical Instrument Digital Interface
+ 3. Modular Interface of Digital Instruments
+ 4. Musical Instrument Data Interface
 
 <details>
   <summary>Answer</summary>
-  Cherry MX Blue
+  Musical Instrument Digital Interface
 </details>
 
 
