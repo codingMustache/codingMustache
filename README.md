@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I adopted my dog from a blacksmith. As soon as we got home he made a bolt for the door.
+Why did the miner get fired from his job? He took it for granite...
 
 
 ## Daily Trivia
 
-How many bytes are in a single Kibibyte?
- 1. 1024
- 2. 1000
- 3. 2400
- 4. 1240
+What is the main CPU is the Sega Mega Drive / Sega Genesis?
+ 1. Motorola 68000
+ 2. Intel 8088
+ 3. Yamaha YM2612
+ 4. Zilog Z80
 
 <details>
   <summary>Answer</summary>
-  1024
+  Motorola 68000
 </details>
 
 
