@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do hens stay fit? They always egg-cercise!
+A quick shoutout to all of the sidewalks out there... Thanks for keeping me off the streets.
 
 
 ## Daily Trivia
 
-What internet protocol was documented in RFC 1459?
- 1. IRC
- 2. FTP
- 3. HTTPS
- 4. HTTP
+How many bytes are in a single Kibibyte?
+ 1. 1024
+ 2. 1240
+ 3. 1000
+ 4. 2400
 
 <details>
   <summary>Answer</summary>
-  IRC
+  1024
 </details>
 
 
