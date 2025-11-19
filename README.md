@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the miner get fired from his job? He took it for granite...
+What's the difference between a rooster and a crow? A rooster can crow but a crow cannot rooster.
 
 
 ## Daily Trivia
 
-What is the main CPU is the Sega Mega Drive / Sega Genesis?
- 1. Motorola 68000
- 2. Intel 8088
- 3. Yamaha YM2612
- 4. Zilog Z80
+What does the &#039;S&#039; in the RSA encryption algorithm stand for?
+ 1. Secure
+ 2. Schottky
+ 3. Shamir
+ 4. Stable
 
 <details>
   <summary>Answer</summary>
-  Motorola 68000
+  Shamir
 </details>
 
 
