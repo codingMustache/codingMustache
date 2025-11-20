@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My wife said I was immature. So I told her to get out of my fort.
+Can February march? No, but April may.
 
 
 ## Daily Trivia
 
-The numbering system with a radix of 16 is more commonly referred to as 
- 1. Binary
- 2. Octal
- 3. Hexidecimal
- 4. Duodecimal
+What does the &quot;MP&quot; stand for in MP3?
+ 1. Moving Picture
+ 2. Micro Point
+ 3. Multi Pass
+ 4. Music Player
 
 <details>
   <summary>Answer</summary>
-  Hexidecimal
+  Moving Picture
 </details>
 
 
