@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to be a banker, but I lost interest.
+I was in an 80's band called the prevention. We were better than the cure.
 
 
 ## Daily Trivia
 
-Which data structure does FILO apply to?
- 1. Heap
- 2. Tree
- 3. Stack
- 4. Queue
+In programming, the ternary operator is mostly defined with what symbol(s)?
+ 1. ?
+ 2. if then
+ 3. ??
+ 4. ?:
 
 <details>
   <summary>Answer</summary>
-  Stack
+  ?:
 </details>
 
 
