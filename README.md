@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the sentence fail the driving test? It never came to a full stop.
+Why do birds fly south for the winter? Because it's too far to walk.
 
 
 ## Daily Trivia
 
-How many bytes are in a single Kibibyte?
- 1. 1024
- 2. 1240
- 3. 2400
- 4. 1000
+While Apple was formed in California, in which western state was Microsoft founded?
+ 1. New Mexico
+ 2. Colorado
+ 3. Washington
+ 4. Arizona
 
 <details>
   <summary>Answer</summary>
-  1024
+  New Mexico
 </details>
 
 
