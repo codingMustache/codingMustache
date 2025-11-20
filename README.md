@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is the tallest building in the world? The library – it’s got the most stories!
+Who did the wizard marry? His ghoul-friend
 
 
 ## Daily Trivia
 
-Which of the following is a personal computer made by the Japanese company Fujitsu?
- 1. PC-9801
- 2. Xmillennium 
- 3. MSX
- 4. FM-7
+What is known as &quot;the brain&quot; of the Computer?
+ 1. Graphics Processing Unit
+ 2. Keyboard
+ 3. Central Processing Unit
+ 4. Motherboard
 
 <details>
   <summary>Answer</summary>
-  FM-7
+  Central Processing Unit
 </details>
 
 
