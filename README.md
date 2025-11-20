@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to work for an origami company but they folded.
+I broke my finger at work today, on the other hand I'm completely fine.
 
 
 ## Daily Trivia
 
-What does GHz stand for?
- 1. Gigahertz
- 2. Gigahotz
- 3. Gigahetz
- 4. Gigahatz
+Which operating system was released first?
+ 1. Mac OS
+ 2. OS/2
+ 3. Linux
+ 4. Windows
 
 <details>
   <summary>Answer</summary>
-  Gigahertz
+  Mac OS
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **** since this server shutdown
+Its been **1 days** since this server shutdown
