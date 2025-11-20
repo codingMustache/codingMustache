@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do young cows eat lunch? In the calf-ateria.
+How do you organize a space party? You planet.
 
 
 ## Daily Trivia
 
-What was the name of the security vulnerability found in Bash in 2014?
- 1. Heartbleed
- 2. Bashbug
- 3. Stagefright
- 4. Shellshock
+What is the name of Layer 7 of the OSI model?
+ 1. Session
+ 2. Network
+ 3. Present
+ 4. Application
 
 <details>
   <summary>Answer</summary>
-  Shellshock
+  Application
 </details>
 
 
