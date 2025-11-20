@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Can February march? No, but April may.
+I used to be a banker, but I lost interest.
 
 
 ## Daily Trivia
 
-What does the &quot;MP&quot; stand for in MP3?
- 1. Moving Picture
- 2. Micro Point
- 3. Multi Pass
- 4. Music Player
+Which data structure does FILO apply to?
+ 1. Heap
+ 2. Tree
+ 3. Stack
+ 4. Queue
 
 <details>
   <summary>Answer</summary>
-  Moving Picture
+  Stack
 </details>
 
 
