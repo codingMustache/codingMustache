@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I've been trying to come up with a dad joke about momentum . . . but I just can't seem to get it going.
+I saw an ad in a shop window, "Television for sale, $1, volume stuck on full", I thought, "I can't turn that down".
 
 
 ## Daily Trivia
 
-What does CPU stand for?
- 1. Central Processor Unit
- 2. Central Processing Unit
- 3. Computer Personal Unit
- 4. Central Process Unit
+The programming language &#039;Swift&#039; was created to replace what other programming language?
+ 1. C#
+ 2. Objective-C
+ 3. Ruby
+ 4. C++
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  Objective-C
 </details>
 
 
