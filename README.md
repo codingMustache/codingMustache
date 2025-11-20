@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do you learn to make banana splits? At sundae school.
+Don't tell secrets in corn fields. Too many ears around.
 
 
 ## Daily Trivia
 
-Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
- 1. Cherry MX Brown
- 2. Cherry MX Blue
- 3. Cherry MX Red
- 4. Cherry MX Black
+What is the number of keys on a standard Windows Keyboard?
+ 1. 104
+ 2. 76
+ 3. 94
+ 4. 64
 
 <details>
   <summary>Answer</summary>
-  Cherry MX Blue
+  104
 </details>
 
 
