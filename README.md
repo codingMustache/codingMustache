@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call your friend who stands in a hole? Phil.
+Some people say that comedians who tell one too many light bulb jokes soon burn out, but they don't know watt they are talking about. They're not that bright.
 
 
 ## Daily Trivia
 
-How many bits make up the significand portion of a single precision floating point number?
- 1. 23
- 2. 8
- 3. 53
- 4. 15
+Unix Time is defined as the number of seconds that have elapsed since when?
+ 1. Midnight, July 4, 1980
+ 2. Midnight, July 4, 1976
+ 3. Midnight on the creator of Unix&#039;s birthday
+ 4. Midnight, January 1, 1970
 
 <details>
   <summary>Answer</summary>
-  23
+  Midnight, January 1, 1970
 </details>
 
 
