@@ -4,17 +4,16 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My friend keeps telling me "Cheer up. You aren't stuck in a deep hole in the ground, filled with water."
-I know he means well.
+What do you do on a remote island? Try and find the TV island it belongs to.
 
 
 ## Daily Trivia
 
 Which of these is not a layer in the OSI model for data communications?
- 1. Physical Layer
- 2. Transport Layer
- 3. Application Layer
- 4. Connection Layer
+ 1. Connection Layer
+ 2. Physical Layer
+ 3. Transport Layer
+ 4. Application Layer
 
 <details>
   <summary>Answer</summary>
