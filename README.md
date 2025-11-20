@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do birds fly south for the winter? Because it's too far to walk.
+I asked a frenchman if he played video games. He said "Wii"
 
 
 ## Daily Trivia
 
-While Apple was formed in California, in which western state was Microsoft founded?
- 1. New Mexico
- 2. Colorado
- 3. Washington
- 4. Arizona
+Who is the original author of the realtime physics engine called PhysX?
+ 1. NovodeX
+ 2. Ageia
+ 3. Nvidia
+ 4. AMD
 
 <details>
   <summary>Answer</summary>
-  New Mexico
+  NovodeX
 </details>
 
 
