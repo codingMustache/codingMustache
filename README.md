@@ -4,20 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do hamburgers go to dance? The meat-ball.
+Why did Mozart kill all his chickens?
+Because when he asked them who the best composer was, they'd all say "Bach bach bach!"
+
 
 
 ## Daily Trivia
 
-Australia, Japan, and Southeast Asia are in which ITU Region?
- 1. Region 4
- 2. Region 2
- 3. Region 1
- 4. Region 3
+How many bytes are in a single Kibibyte?
+ 1. 1024
+ 2. 2400
+ 3. 1000
+ 4. 1240
 
 <details>
   <summary>Answer</summary>
-  Region 3
+  1024
 </details>
 
 
