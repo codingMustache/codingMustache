@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the scientist who was lab partners with a pot of boiling water? He had a very esteemed colleague.
+I used to work for an origami company but they folded.
 
 
 ## Daily Trivia
 
-What is the name of Layer 7 of the OSI model?
- 1. Session
- 2. Network
- 3. Application
- 4. Present
+What does GHz stand for?
+ 1. Gigahertz
+ 2. Gigahotz
+ 3. Gigahetz
+ 4. Gigahatz
 
 <details>
   <summary>Answer</summary>
-  Application
+  Gigahertz
 </details>
 
 
