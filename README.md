@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you do on a remote island? Try and find the TV island it belongs to.
+Astronomers got tired watching the moon go around the earth for 24 hours. They decided to call it a day.
 
 
 ## Daily Trivia
 
-Which of these is not a layer in the OSI model for data communications?
- 1. Connection Layer
- 2. Physical Layer
- 3. Transport Layer
- 4. Application Layer
+In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
+ 1. Red
+ 2. Green
+ 3. Yellow
+ 4. Blue
 
 <details>
   <summary>Answer</summary>
-  Connection Layer
+  Green
 </details>
 
 
