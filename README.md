@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are basketball players messy eaters? Because they are always dribbling.
+This is my step ladder. I never knew my real ladder.
 
 
 ## Daily Trivia
 
-How many kilobytes in one gigabyte (in decimal)?
- 1. 1000000
- 2. 1024
- 3. 1000
- 4. 1048576
+Which programming language shares its name with an island in Indonesia?
+ 1. Python
+ 2. Java
+ 3. C
+ 4. Jakarta
 
 <details>
   <summary>Answer</summary>
-  1000000
+  Java
 </details>
 
 
