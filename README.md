@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was it called the dark ages? Because of all the knights. 
+What do you call your friend who stands in a hole? Phil.
 
 
 ## Daily Trivia
 
-Which one of these is not an official development name for a Ubuntu release?
- 1. Trusty Tahr
- 2. Utopic Unicorn
- 3. Wily Werewolf
- 4. Mystic Mansion
+How many bits make up the significand portion of a single precision floating point number?
+ 1. 23
+ 2. 8
+ 3. 53
+ 4. 15
 
 <details>
   <summary>Answer</summary>
-  Mystic Mansion
+  23
 </details>
 
 
