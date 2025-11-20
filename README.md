@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What don't watermelons get married? Because they cantaloupe.
+What do you call a snake who builds houses? A boa constructor!
 
 
 ## Daily Trivia
 
-On which day did the World Wide Web go online?
- 1. December 20, 1990
- 2. December 17, 1996
- 3. November 12, 1990
- 4. November 24, 1995
+In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
+ 1. Static
+ 2. Private
+ 3. Public
+ 4. Final
 
 <details>
   <summary>Answer</summary>
-  December 20, 1990
+  Final
 </details>
 
 
