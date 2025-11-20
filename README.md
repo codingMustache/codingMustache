@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A Skeleton walked into a bar he said I need a beer and a mop
+Why did the sentence fail the driving test? It never came to a full stop.
 
 
 ## Daily Trivia
 
-Who is the founder of Palantir?
- 1. Marc Benioff
- 2. Peter Thiel
- 3. Mark Zuckerberg
- 4. Jack Dorsey
+How many bytes are in a single Kibibyte?
+ 1. 1024
+ 2. 1240
+ 3. 2400
+ 4. 1000
 
 <details>
   <summary>Answer</summary>
-  Peter Thiel
+  1024
 </details>
 
 
