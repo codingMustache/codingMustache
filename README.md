@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why don’t skeletons ever go trick or treating? Because they have nobody to go with.
+Did you hear about the scientist who was lab partners with a pot of boiling water? He had a very esteemed colleague.
 
 
 ## Daily Trivia
 
-Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
- 1. JavaScript
- 2. PHP
- 3. Python
- 4. C#
+What is the name of Layer 7 of the OSI model?
+ 1. Session
+ 2. Network
+ 3. Application
+ 4. Present
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  Application
 </details>
 
 
