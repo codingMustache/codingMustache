@@ -4,22 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did Mozart kill all his chickens?
-Because when he asked them who the best composer was, they'd all say "Bach bach bach!"
-
+Why did the girl smear peanut butter on the road? To go with the traffic jam.
 
 
 ## Daily Trivia
 
-How many bytes are in a single Kibibyte?
- 1. 1024
- 2. 2400
- 3. 1000
- 4. 1240
+What does LTS stand for in the software market?
+ 1. Ludicrous Transfer Speed
+ 2. Long Term Support
+ 3. Long Taco Service
+ 4. Ludicrous Turbo Speed
 
 <details>
   <summary>Answer</summary>
-  1024
+  Long Term Support
 </details>
 
 
