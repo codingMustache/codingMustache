@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-This is my step ladder. I never knew my real ladder.
+Why is it so windy inside an arena? All those fans.
 
 
 ## Daily Trivia
 
-Which programming language shares its name with an island in Indonesia?
- 1. Python
- 2. Java
- 3. C
- 4. Jakarta
+How many cores does the Intel i7-6950X have?
+ 1. 12
+ 2. 8
+ 3. 4
+ 4. 10
 
 <details>
   <summary>Answer</summary>
-  Java
+  10
 </details>
 
 
