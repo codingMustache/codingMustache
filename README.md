@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Don't tell secrets in corn fields. Too many ears around.
+Writing with a broken pencil is pointless.
 
 
 ## Daily Trivia
 
-What is the number of keys on a standard Windows Keyboard?
- 1. 104
- 2. 76
- 3. 94
- 4. 64
+Laserjet and inkjet printers are both examples of what type of printer?
+ 1. Non-impact printer
+ 2. Dot matrix printer
+ 3. Daisywheel printer
+ 4. Impact printer
 
 <details>
   <summary>Answer</summary>
-  104
+  Non-impact printer
 </details>
 
 
