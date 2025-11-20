@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Writing with a broken pencil is pointless.
+Where do young cows eat lunch? In the calf-ateria.
 
 
 ## Daily Trivia
 
-Laserjet and inkjet printers are both examples of what type of printer?
- 1. Non-impact printer
- 2. Dot matrix printer
- 3. Daisywheel printer
- 4. Impact printer
+What was the name of the security vulnerability found in Bash in 2014?
+ 1. Heartbleed
+ 2. Bashbug
+ 3. Stagefright
+ 4. Shellshock
 
 <details>
   <summary>Answer</summary>
-  Non-impact printer
+  Shellshock
 </details>
 
 
