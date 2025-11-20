@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the girl smear peanut butter on the road? To go with the traffic jam.
+What don't watermelons get married? Because they cantaloupe.
 
 
 ## Daily Trivia
 
-What does LTS stand for in the software market?
- 1. Ludicrous Transfer Speed
- 2. Long Term Support
- 3. Long Taco Service
- 4. Ludicrous Turbo Speed
+On which day did the World Wide Web go online?
+ 1. December 20, 1990
+ 2. December 17, 1996
+ 3. November 12, 1990
+ 4. November 24, 1995
 
 <details>
   <summary>Answer</summary>
-  Long Term Support
+  December 20, 1990
 </details>
 
 
