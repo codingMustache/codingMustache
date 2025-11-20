@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Some people say that comedians who tell one too many light bulb jokes soon burn out, but they don't know watt they are talking about. They're not that bright.
+Where do you learn to make banana splits? At sundae school.
 
 
 ## Daily Trivia
 
-Unix Time is defined as the number of seconds that have elapsed since when?
- 1. Midnight, July 4, 1980
- 2. Midnight, July 4, 1976
- 3. Midnight on the creator of Unix&#039;s birthday
- 4. Midnight, January 1, 1970
+Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
+ 1. Cherry MX Brown
+ 2. Cherry MX Blue
+ 3. Cherry MX Red
+ 4. Cherry MX Black
 
 <details>
   <summary>Answer</summary>
-  Midnight, January 1, 1970
+  Cherry MX Blue
 </details>
 
 
