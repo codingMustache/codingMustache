@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A doll was recently found dead in a rice paddy. It's the only known instance of a nick nack paddy wack.
+Where do you take someone who has been injured in a Peek-a-boo accident? To the I.C.U.
 
 
 ## Daily Trivia
 
-Which of the following computer components can be built using only NAND gates?
- 1. ALU
- 2. Register
- 3. CPU
- 4. RAM
+The Harvard architecture for micro-controllers added which additional bus?
+ 1. Instruction
+ 2. Control
+ 3. Data
+ 4. Address
 
 <details>
   <summary>Answer</summary>
-  ALU
+  Instruction
 </details>
 
 
