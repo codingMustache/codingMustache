@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Thanks for explaining the word "many" to me. It means a lot.
+I made a playlist for hiking. It has music from Peanuts, The Cranberries, and Eminem. I call it my Trail Mix.
 
 
 ## Daily Trivia
 
-How fast is USB 3.1 Gen 2 theoretically?
- 1. 10 Gb/s
- 2. 8 Gb/s
- 3. 5 Gb/s
- 4. 1 Gb/s
+Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
+ 1. Cheetah
+ 2. Leopard
+ 3. Tiger
+ 4. Puma
 
 <details>
   <summary>Answer</summary>
-  10 Gb/s
+  Cheetah
 </details>
 
 
