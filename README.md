@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I really want to buy one of those supermarket checkout dividers, but the cashier keeps putting it back.
+A doll was recently found dead in a rice paddy. It's the only known instance of a nick nack paddy wack.
 
 
 ## Daily Trivia
 
-What does the Prt Sc button do?
- 1. Closes all windows
- 2. Captures what&#039;s on the screen and copies it to your clipboard
- 3. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
- 4. Nothing
+Which of the following computer components can be built using only NAND gates?
+ 1. ALU
+ 2. Register
+ 3. CPU
+ 4. RAM
 
 <details>
   <summary>Answer</summary>
-  Captures what&#039;s on the screen and copies it to your clipboard
+  ALU
 </details>
 
 
