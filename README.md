@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do sheep go to get their hair cut? The baa-baa shop.
+Every night at 11:11, I make a wish that someone will come fix my broken clock.
 
 
 ## Daily Trivia
 
-Which of these is not a key value of Agile software development?
- 1. Comprehensive documentation
- 2. Responding to change
- 3. Customer collaboration
- 4. Individuals and interactions
+Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
+ 1. JavaScript
+ 2. PHP
+ 3. Python
+ 4. C#
 
 <details>
   <summary>Answer</summary>
-  Comprehensive documentation
+  JavaScript
 </details>
 
 
