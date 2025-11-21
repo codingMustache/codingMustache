@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do bees go to the bathroom?  The BP station.
+What do you call a pig with three eyes? Piiig
 
 
 ## Daily Trivia
 
-What was the name of the first Bulgarian personal computer?
- 1. Pravetz 82
- 2. Pravetz 8D
- 3. IMKO-1
- 4. IZOT 1030
+Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
+ 1. Microsoft
+ 2. Atari
+ 3. Commodore
+ 4. Apple
 
 <details>
   <summary>Answer</summary>
-  IMKO-1
+  Apple
 </details>
 
 
