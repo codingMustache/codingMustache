@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do bees do after they are married? They go on a honeymoon.
+How many South Americans does it take to change a lightbulb? A Brazilian
 
 
 ## Daily Trivia
 
-What amount of bits commonly equals one byte?
- 1. 1
- 2. 2
- 3. 64
- 4. 8
+.at is the top-level domain for what country?
+ 1. Argentina
+ 2. Australia
+ 3. Angola
+ 4. Austria
 
 <details>
   <summary>Answer</summary>
-  8
+  Austria
 </details>
 
 
