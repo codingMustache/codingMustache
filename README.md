@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why is the new Kindle screen textured to look like paper? So you feel write at home.
+What do you call your friend who stands in a hole? Phil.
 
 
 ## Daily Trivia
 
-Who is the founder of Palantir?
- 1. Jack Dorsey
- 2. Marc Benioff
- 3. Peter Thiel
- 4. Mark Zuckerberg
+What does the term MIME stand for, in regards to computing?
+ 1. Multipurpose Interleave Mail Exchange
+ 2. Multipurpose Internet Mail Extensions
+ 3. Mail Internet Mail Exchange
+ 4. Mail Interleave Method Exchange
 
 <details>
   <summary>Answer</summary>
-  Peter Thiel
+  Multipurpose Internet Mail Extensions
 </details>
 
 
