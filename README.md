@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many South Americans does it take to change a lightbulb? A Brazilian
+What do you call a pile of cats?  A Meowtain.
 
 
 ## Daily Trivia
 
-.at is the top-level domain for what country?
- 1. Argentina
- 2. Australia
- 3. Angola
- 4. Austria
+Which of the following is a personal computer made by the Japanese company Fujitsu?
+ 1. FM-7
+ 2. PC-9801
+ 3. MSX
+ 4. Xmillennium 
 
 <details>
   <summary>Answer</summary>
-  Austria
+  FM-7
 </details>
 
 
