@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did one nut say as he chased another nut?  I'm a cashew!
+What did one plate say to the other plate? Dinner is on me!
 
 
 ## Daily Trivia
 
-According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:
- 1. A&#039; + B&#039;
- 2. A&#039;B&#039;
- 3. A&#039;B + B&#039;A
- 4. AB&#039; + AB
+What was the first Android version specifically optimized for tablets?
+ 1. Eclair
+ 2. Froyo
+ 3. Marshmellow
+ 4. Honeycomb
 
 <details>
   <summary>Answer</summary>
-  A&#039; + B&#039;
+  Honeycomb
 </details>
 
 
