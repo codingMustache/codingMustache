@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call your friend who stands in a hole? Phil.
+My boss told me to have a good day. So I went home...
 
 
 ## Daily Trivia
 
-What does the term MIME stand for, in regards to computing?
- 1. Multipurpose Interleave Mail Exchange
- 2. Multipurpose Internet Mail Extensions
- 3. Mail Internet Mail Exchange
- 4. Mail Interleave Method Exchange
+Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
+ 1. Overstock
+ 2. eBay
+ 3. Shopify
+ 4. Amazon
 
 <details>
   <summary>Answer</summary>
-  Multipurpose Internet Mail Extensions
+  Amazon
 </details>
 
 
