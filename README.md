@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the tree go to the dentist? It needed a root canal.
+A Sandwich walks into a bar, the bartender says “Sorry, we don’t serve food here”
 
 
 ## Daily Trivia
 
-What does &quot;LCD&quot; stand for?
- 1. Language Control Design
- 2. Last Common Difference
- 3. Long Continuous Design
- 4. Liquid Crystal Display
+What was the name given to Android 4.3?
+ 1. Lollipop
+ 2. Nutella
+ 3. Froyo
+ 4. Jelly Bean
 
 <details>
   <summary>Answer</summary>
-  Liquid Crystal Display
+  Jelly Bean
 </details>
 
 
