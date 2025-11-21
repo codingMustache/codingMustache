@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-When is a door not a door? When it's ajar.
+Our wedding was so beautiful, even the cake was in tiers.
 
 
 ## Daily Trivia
 
-What was the name given to Android 4.3?
- 1. Nutella
- 2. Froyo
- 3. Lollipop
- 4. Jelly Bean
+In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
+ 1. print(&quot;Hello World&quot;)
+ 2. console.log(&quot;Hello World&quot;)
+ 3. printf(&quot;Hello World&quot;)
+ 4. echo &quot;Hello World&quot;
 
 <details>
   <summary>Answer</summary>
-  Jelly Bean
+  print(&quot;Hello World&quot;)
 </details>
 
 
