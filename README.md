@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call two barracuda fish?  A Pairacuda!
+Why is the new Kindle screen textured to look like paper? So you feel write at home.
 
 
 ## Daily Trivia
 
-What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
- 1. Session
- 2. Data link
- 3. Transport
- 4. Network
+Who is the founder of Palantir?
+ 1. Jack Dorsey
+ 2. Marc Benioff
+ 3. Peter Thiel
+ 4. Mark Zuckerberg
 
 <details>
   <summary>Answer</summary>
-  Transport
+  Peter Thiel
 </details>
 
 
