@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-When I left school, I passed every one of my exams with the exception of Greek Mythology. It always was my achilles elbow
+When is a door not a door? When it's ajar.
 
 
 ## Daily Trivia
 
-The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
- 1. Acorn Computers
- 2. Commodore Business Machines
- 3. Amstrad PLC
- 4. Sinclair Research
+What was the name given to Android 4.3?
+ 1. Nutella
+ 2. Froyo
+ 3. Lollipop
+ 4. Jelly Bean
 
 <details>
   <summary>Answer</summary>
-  Acorn Computers
+  Jelly Bean
 </details>
 
 
