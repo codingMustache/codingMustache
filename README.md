@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I gave my friend 10 puns hoping that one of them would make him laugh. Sadly, no pun in ten did.
+I’m on a whiskey diet. I’ve lost three days already.
 
 
 ## Daily Trivia
 
-In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
- 1. printf(&quot;Hello World&quot;)
- 2. echo &quot;Hello World&quot;
- 3. print(&quot;Hello World&quot;)
- 4. console.log(&quot;Hello World&quot;)
+In computing, what does MIDI stand for?
+ 1. Musical Interface of Digital Instruments
+ 2. Modular Interface of Digital Instruments
+ 3. Musical Instrument Data Interface
+ 4. Musical Instrument Digital Interface
 
 <details>
   <summary>Answer</summary>
-  print(&quot;Hello World&quot;)
+  Musical Instrument Digital Interface
 </details>
 
 
