@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Two guys walked into a bar, the third one ducked.
+How do robots eat guacamole? With computer chips.
 
 
 ## Daily Trivia
 
-What vulnerability ranked #1 on the OWASP Top 10 in 2013?
- 1. Broken Authentication
- 2. Cross-Site Scripting
- 3. Insecure Direct Object References
- 4. Injection 
+In networking, what does OSPF stand for?
+ 1. Open Shortest Path First
+ 2. Order Sense Ping Find
+ 3. Order State Part First
+ 4. Open Signal Path Finder
 
 <details>
   <summary>Answer</summary>
-  Injection 
+  Open Shortest Path First
 </details>
 
 
