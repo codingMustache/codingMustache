@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the belt go to prison? He held up a pair of pants!
+Me and my mates are in a band called Duvet. We're a cover band.
 
 
 ## Daily Trivia
 
-What vulnerability ranked #1 on the OWASP Top 10 in 2013?
- 1. Broken Authentication
- 2. Cross-Site Scripting
- 3. Insecure Direct Object References
- 4. Injection 
+When Gmail first launched, how much storage did it provide for your email?
+ 1. Unlimited
+ 2. 5GB
+ 3. 512MB
+ 4. 1GB
 
 <details>
   <summary>Answer</summary>
-  Injection 
+  1GB
 </details>
 
 
