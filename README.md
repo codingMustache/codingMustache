@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the half blind man fall in the well? Because he couldn't see that well!
+Q: What did the spaghetti say to the other spaghetti?
+A: Pasta la vista, baby!
 
 
 ## Daily Trivia
 
-On Twitter, what was the original character limit for a Tweet?
- 1. 100
- 2. 140
- 3. 160
- 4. 120
+Australia, Japan, and Southeast Asia are in which ITU Region?
+ 1. Region 2
+ 2. Region 1
+ 3. Region 3
+ 4. Region 4
 
 <details>
   <summary>Answer</summary>
-  140
+  Region 3
 </details>
 
 
