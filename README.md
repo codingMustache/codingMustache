@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Our wedding was so beautiful, even the cake was in tiers.
+What do you call two barracuda fish?  A Pairacuda!
 
 
 ## Daily Trivia
 
-What is the domain name for the country Tuvalu?
- 1. .tt
- 2. .tv
- 3. .tu
- 4. .tl
+What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
+ 1. Session
+ 2. Data link
+ 3. Transport
+ 4. Network
 
 <details>
   <summary>Answer</summary>
-  .tv
+  Transport
 </details>
 
 
