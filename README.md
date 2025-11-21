@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's a ninja's favorite type of shoes? Sneakers!
+Why did the half blind man fall in the well? Because he couldn't see that well!
 
 
 ## Daily Trivia
 
-The name of technology company HP stands for what?
- 1. Howard Packmann
- 2. Husker-Pollosk
- 3. Hellman-Pohl
- 4. Hewlett-Packard
+On Twitter, what was the original character limit for a Tweet?
+ 1. 100
+ 2. 140
+ 3. 160
+ 4. 120
 
 <details>
   <summary>Answer</summary>
-  Hewlett-Packard
+  140
 </details>
 
 
