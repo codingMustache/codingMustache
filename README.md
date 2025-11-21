@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My boss told me to have a good day. So I went home...
+I ordered a chicken and an egg from Amazon. I'll let you know.
 
 
 ## Daily Trivia
 
-Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
- 1. Overstock
- 2. eBay
- 3. Shopify
- 4. Amazon
+When did the online streaming service &quot;Mixer&quot; launch?
+ 1. 2009
+ 2. 2013
+ 3. 2011
+ 4. 2016
 
 <details>
   <summary>Answer</summary>
-  Amazon
+  2016
 </details>
 
 
