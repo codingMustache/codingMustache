@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where does Napoleon keep his armies? In his sleevies.
+My new thesaurus is terrible. In fact, it's so bad, I'd say it's terrible.
 
 
 ## Daily Trivia
 
-Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
- 1. Cheetah
- 2. Tiger
- 3. Puma
- 4. Leopard
+How many kilobytes in one gigabyte (in decimal)?
+ 1. 1048576
+ 2. 1000000
+ 3. 1024
+ 4. 1000
 
 <details>
   <summary>Answer</summary>
-  Cheetah
+  1000000
 </details>
 
 
