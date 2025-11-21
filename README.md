@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My new thesaurus is terrible. In fact, it's so bad, I'd say it's terrible.
+What do you call a snake who builds houses? A boa constructor!
 
 
 ## Daily Trivia
 
-How many kilobytes in one gigabyte (in decimal)?
- 1. 1048576
- 2. 1000000
- 3. 1024
- 4. 1000
+The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
+ 1. Germany
+ 2. United States
+ 3. Taiwan
+ 4. China (People&#039;s Republic of)
 
 <details>
   <summary>Answer</summary>
-  1000000
+  Taiwan
 </details>
 
 
