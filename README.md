@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Me and my mates are in a band called Duvet. We're a cover band.
+How come a man driving a train got struck by lightning? He was a good conductor.
 
 
 ## Daily Trivia
 
-When Gmail first launched, how much storage did it provide for your email?
- 1. Unlimited
- 2. 5GB
- 3. 512MB
- 4. 1GB
+Dutch computer scientist Mark Overmars is known for creating which game development engine?
+ 1. Construct
+ 2. Stencyl
+ 3. Game Maker
+ 4. Torque 2D
 
 <details>
   <summary>Answer</summary>
-  1GB
+  Game Maker
 </details>
 
 
