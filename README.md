@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a snake who builds houses? A boa constructor!
+Our wedding was so beautiful, even the cake was in tiers.
 
 
 ## Daily Trivia
 
-The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
- 1. Germany
- 2. United States
- 3. Taiwan
- 4. China (People&#039;s Republic of)
+What is the domain name for the country Tuvalu?
+ 1. .tt
+ 2. .tv
+ 3. .tu
+ 4. .tl
 
 <details>
   <summary>Answer</summary>
-  Taiwan
+  .tv
 </details>
 
 
