@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a pig with three eyes? Piiig
+Thanks for explaining the word "many" to me. It means a lot.
 
 
 ## Daily Trivia
 
-Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
- 1. Microsoft
- 2. Atari
- 3. Commodore
- 4. Apple
+How fast is USB 3.1 Gen 2 theoretically?
+ 1. 10 Gb/s
+ 2. 8 Gb/s
+ 3. 5 Gb/s
+ 4. 1 Gb/s
 
 <details>
   <summary>Answer</summary>
-  Apple
+  10 Gb/s
 </details>
 
 
