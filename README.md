@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do robots eat guacamole? With computer chips.
+Shout out to my grandma, that's the only way she can hear.
 
 
 ## Daily Trivia
 
-In networking, what does OSPF stand for?
- 1. Open Shortest Path First
- 2. Order Sense Ping Find
- 3. Order State Part First
- 4. Open Signal Path Finder
+The numbering system with a radix of 16 is more commonly referred to as 
+ 1. Octal
+ 2. Duodecimal
+ 3. Hexidecimal
+ 4. Binary
 
 <details>
   <summary>Answer</summary>
-  Open Shortest Path First
+  Hexidecimal
 </details>
 
 
