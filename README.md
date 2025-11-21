@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Shout out to my grandma, that's the only way she can hear.
+When I left school, I passed every one of my exams with the exception of Greek Mythology. It always was my achilles elbow
 
 
 ## Daily Trivia
 
-The numbering system with a radix of 16 is more commonly referred to as 
- 1. Octal
- 2. Duodecimal
- 3. Hexidecimal
- 4. Binary
+The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
+ 1. Acorn Computers
+ 2. Commodore Business Machines
+ 3. Amstrad PLC
+ 4. Sinclair Research
 
 <details>
   <summary>Answer</summary>
-  Hexidecimal
+  Acorn Computers
 </details>
 
 
