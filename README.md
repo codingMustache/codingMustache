@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you make a 'one' disappear? You add a 'g' and it's 'gone'
+Velcro… What a rip-off.
 
 
 ## Daily Trivia
 
-How long is an IPv6 address?
- 1. 128 bits
- 2. 128 bytes
- 3. 64 bits
- 4. 32 bits
+What is the main CPU is the Sega Mega Drive / Sega Genesis?
+ 1. Zilog Z80
+ 2. Yamaha YM2612
+ 3. Motorola 68000
+ 4. Intel 8088
 
 <details>
   <summary>Answer</summary>
-  128 bits
+  Motorola 68000
 </details>
 
 
