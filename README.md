@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Cosmetic surgery used to be such a taboo subject.
-Now you can talk about Botox and nobody raises an eyebrow.
+I was at the library and asked if they have any books on "paranoia", the librarian replied, "yes, they are right behind you"
 
 
 ## Daily Trivia
 
-What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
- 1. Network
- 2. Transport
- 3. Data link
- 4. Session
+What was the first Android version specifically optimized for tablets?
+ 1. Marshmellow
+ 2. Froyo
+ 3. Eclair
+ 4. Honeycomb
 
 <details>
   <summary>Answer</summary>
-  Transport
+  Honeycomb
 </details>
 
 
