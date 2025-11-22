@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A boy dug three holes in the yard. When his mother saw, she exclaimed: "well, well, well"
+What biscuit does a short person like? Shortbread. 
 
 
 ## Daily Trivia
 
-What does the International System of Quantities refer 1024 bytes as?
- 1. Kibibyte
- 2. Kylobyte
- 3. Kilobyte
- 4. Kelobyte
+What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
+ 1. CPU Vent
+ 2. Heat Vent
+ 3. Heat Sink
+ 4. Temperature Decipator
 
 <details>
   <summary>Answer</summary>
-  Kibibyte
+  Heat Sink
 </details>
 
 
