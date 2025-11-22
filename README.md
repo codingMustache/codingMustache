@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did Sweden start painting barcodes on the sides of their battleships? So they could Scandinavian.
+Today, my son asked "Can I have a book mark?" and I burst into tears. 11 years old and he still doesn't know my name is Brian.
 
 
 ## Daily Trivia
 
-How fast is USB 3.1 Gen 2 theoretically?
- 1. 5 Gb/s
- 2. 8 Gb/s
- 3. 1 Gb/s
- 4. 10 Gb/s
+According to the International System of Units, how many bytes are in a kilobyte of RAM?
+ 1. 1000
+ 2. 512
+ 3. 500
+ 4. 1024
 
 <details>
   <summary>Answer</summary>
-  10 Gb/s
+  1000
 </details>
 
 
