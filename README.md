@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do you take someone who has been injured in a Peek-a-boo accident? To the I.C.U.
+Where do owls go to buy their baby clothes? The owlet malls.
 
 
 ## Daily Trivia
 
-How many bits make up the significand portion of a single precision floating point number?
- 1. 53
- 2. 15
- 3. 8
- 4. 23
+What language does Node.js use?
+ 1. Java Source
+ 2. JavaScript
+ 3. Java
+ 4. Joomla Source Code
 
 <details>
   <summary>Answer</summary>
-  23
+  JavaScript
 </details>
 
 
