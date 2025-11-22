@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why can't a bicycle stand on its own? It's two-tired.
+I asked my date to go to the gym the other day. They never showed up. That's when I knew we wouldn't work out.
 
 
 ## Daily Trivia
 
-What major programming language does Unreal Engine 4 use?
- 1. C++
- 2. ECMAScript
- 3. C#
- 4. Assembly
+What is the name of the default theme that is installed with Windows XP?
+ 1. Luna
+ 2. Whistler
+ 3. Neptune
+ 4. Bliss
 
 <details>
   <summary>Answer</summary>
-  C++
+  Luna
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **2 days** since this server shutdown
+Its been **** since this server shutdown
