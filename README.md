@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call cheese by itself? Provolone.
+Why can't a bicycle stand on its own? It's two-tired.
 
 
 ## Daily Trivia
 
-What does CPU stand for?
- 1. Central Processor Unit
- 2. Computer Personal Unit
- 3. Central Process Unit
- 4. Central Processing Unit
+What major programming language does Unreal Engine 4 use?
+ 1. C++
+ 2. ECMAScript
+ 3. C#
+ 4. Assembly
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  C++
 </details>
 
 
