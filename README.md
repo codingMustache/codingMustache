@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the half blind man fall in the well? Because he couldn't see that well!
+I’ve deleted the phone numbers of all the Germans I know from my mobile phone. Now it’s Hans free.
 
 
 ## Daily Trivia
 
-The Harvard architecture for micro-controllers added which additional bus?
- 1. Control
- 2. Data
- 3. Instruction
- 4. Address
+What was Bitcoin&#039;s block size limit in 2010?
+ 1. 1GB
+ 2. 1 KB
+ 3. 1 TB
+ 4. 1 MB
 
 <details>
   <summary>Answer</summary>
-  Instruction
+  1 MB
 </details>
 
 
