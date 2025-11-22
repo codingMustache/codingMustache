@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call an elephant that doesn’t matter? An irrelephant.
+My first time using an elevator was an uplifting experience. The second time let me down.
 
 
 ## Daily Trivia
 
-Which of these is not a key value of Agile software development?
- 1. Individuals and interactions
- 2. Customer collaboration
- 3. Responding to change
- 4. Comprehensive documentation
+When Gmail first launched, how much storage did it provide for your email?
+ 1. 1GB
+ 2. 512MB
+ 3. 5GB
+ 4. Unlimited
 
 <details>
   <summary>Answer</summary>
-  Comprehensive documentation
+  1GB
 </details>
 
 
