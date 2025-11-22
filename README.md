@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are ghosts bad liars? Because you can see right through them!
+A boy dug three holes in the yard. When his mother saw, she exclaimed: "well, well, well"
 
 
 ## Daily Trivia
 
-Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
- 1. Apple
- 2. Commodore
- 3. Atari
- 4. Microsoft
+What does the International System of Quantities refer 1024 bytes as?
+ 1. Kibibyte
+ 2. Kylobyte
+ 3. Kilobyte
+ 4. Kelobyte
 
 <details>
   <summary>Answer</summary>
-  Apple
+  Kibibyte
 </details>
 
 
