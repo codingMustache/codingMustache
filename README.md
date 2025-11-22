@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It doesn't matter how much you push the envelope. It will still be stationary.
+Why does Waldo only wear stripes? Because he doesn't want to be spotted.
 
 
 ## Daily Trivia
 
-Australia, Japan, and Southeast Asia are in which ITU Region?
- 1. Region 2
- 2. Region 4
- 3. Region 1
- 4. Region 3
+What programming language was GitHub written in?
+ 1. JavaScript
+ 2. Python
+ 3. Lua
+ 4. Ruby
 
 <details>
   <summary>Answer</summary>
-  Region 3
+  Ruby
 </details>
 
 
