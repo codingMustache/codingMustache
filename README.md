@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you find Will Smith in the snow?  Look for fresh prints.
+What do you call a girl between two posts? Annette.
 
 
 ## Daily Trivia
 
-In programming, the ternary operator is mostly defined with what symbol(s)?
- 1. ??
- 2. if then
- 3. ?:
- 4. ?
+What was the first company to use the term &quot;Golden Master&quot;?
+ 1. Apple
+ 2. Google
+ 3. Microsoft
+ 4. IBM
 
 <details>
   <summary>Answer</summary>
-  ?:
+  Apple
 </details>
 
 
