@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My wife is on a tropical fruit diet, the house is full of stuff. It is enough to make a mango crazy.
+How do you find Will Smith in the snow?  Look for fresh prints.
 
 
 ## Daily Trivia
 
-In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
- 1. Static
- 2. Private
- 3. Final
- 4. Public
+In programming, the ternary operator is mostly defined with what symbol(s)?
+ 1. ??
+ 2. if then
+ 3. ?:
+ 4. ?
 
 <details>
   <summary>Answer</summary>
-  Final
+  ?:
 </details>
 
 
