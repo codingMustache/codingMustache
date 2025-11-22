@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What biscuit does a short person like? Shortbread. 
+A man tried to sell me a coffin today. I told him that's the last thing I need.
 
 
 ## Daily Trivia
 
-What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
- 1. CPU Vent
- 2. Heat Vent
- 3. Heat Sink
- 4. Temperature Decipator
+The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
+ 1. Sinclair Research
+ 2. Acorn Computers
+ 3. Commodore Business Machines
+ 4. Amstrad PLC
 
 <details>
   <summary>Answer</summary>
-  Heat Sink
+  Acorn Computers
 </details>
 
 
