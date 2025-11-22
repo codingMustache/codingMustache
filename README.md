@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Animal Fact #25: Most bobcats are not named bob.
+Why can't a bicycle stand on its own? It's two-tired.
 
 
 ## Daily Trivia
 
-How fast is USB 3.1 Gen 2 theoretically?
- 1. 5 Gb/s
- 2. 8 Gb/s
- 3. 1 Gb/s
- 4. 10 Gb/s
+What is the name of the process that sends one qubit of information using two bits of classical information?
+ 1. Quantum Entanglement
+ 2. Quantum Teleportation
+ 3. Super Dense Coding
+ 4. Quantum Programming
 
 <details>
   <summary>Answer</summary>
-  10 Gb/s
+  Quantum Teleportation
 </details>
 
 
