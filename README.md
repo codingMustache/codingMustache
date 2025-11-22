@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do owls go to buy their baby clothes? The owlet malls.
+What did the dog say to the two trees? Bark bark.
 
 
 ## Daily Trivia
 
-What language does Node.js use?
- 1. Java Source
- 2. JavaScript
- 3. Java
- 4. Joomla Source Code
+What does the &#039;S&#039; in the RSA encryption algorithm stand for?
+ 1. Shamir
+ 2. Stable
+ 3. Schottky
+ 4. Secure
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  Shamir
 </details>
 
 
