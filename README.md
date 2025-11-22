@@ -4,22 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do pumpkins sit on people’s porches?
-
-They have no hands to knock on the door.
+What do you call a bee that lives in America? A USB.
 
 
 ## Daily Trivia
 
-How many bits make up the significand portion of a single precision floating point number?
- 1. 23
- 2. 15
- 3. 53
- 4. 8
+Which computer hardware device provides an interface for all other connected devices to communicate?
+ 1. Motherboard
+ 2. Random Access Memory
+ 3. Hard Disk Drive
+ 4. Central Processing Unit
 
 <details>
   <summary>Answer</summary>
-  23
+  Motherboard
 </details>
 
 
