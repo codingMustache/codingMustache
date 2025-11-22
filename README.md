@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a girl between two posts? Annette.
+My wife is on a tropical fruit diet, the house is full of stuff. It is enough to make a mango crazy.
 
 
 ## Daily Trivia
 
-What was the first company to use the term &quot;Golden Master&quot;?
- 1. Apple
- 2. Google
- 3. Microsoft
- 4. IBM
+Which of the following is a personal computer made by the Japanese company Fujitsu?
+ 1. FM-7
+ 2. MSX
+ 3. Xmillennium 
+ 4. PC-9801
 
 <details>
   <summary>Answer</summary>
-  Apple
+  FM-7
 </details>
 
 
