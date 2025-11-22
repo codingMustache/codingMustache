@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-To the person who stole my anti-depressant pills: I hope you're happy now.
+I was in an 80's band called the prevention. We were better than the cure.
 
 
 ## Daily Trivia
 
-What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
- 1. ADPCM Sampler
- 2. FM Synthesizer
- 3. PCM Sampler
- 4. Programmable Sound Generator (PSG)
+What does the Prt Sc button do?
+ 1. Nothing
+ 2. Captures what&#039;s on the screen and copies it to your clipboard
+ 3. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
+ 4. Closes all windows
 
 <details>
   <summary>Answer</summary>
-  ADPCM Sampler
+  Captures what&#039;s on the screen and copies it to your clipboard
 </details>
 
 
