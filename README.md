@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many tickles does it take to tickle an octopus? Ten-tickles!
+My wife is on a tropical fruit diet, the house is full of stuff. It is enough to make a mango crazy.
 
 
 ## Daily Trivia
 
-How many kilobytes in one gigabyte (in decimal)?
- 1. 1000000
- 2. 1048576
- 3. 1024
- 4. 1000
+In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
+ 1. Static
+ 2. Private
+ 3. Final
+ 4. Public
 
 <details>
   <summary>Answer</summary>
-  1000000
+  Final
 </details>
 
 
