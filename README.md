@@ -4,16 +4,16 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a bee that lives in America? A USB.
+You can't trust a ladder. It will always let you down
 
 
 ## Daily Trivia
 
 Which computer hardware device provides an interface for all other connected devices to communicate?
- 1. Motherboard
- 2. Random Access Memory
- 3. Hard Disk Drive
- 4. Central Processing Unit
+ 1. Hard Disk Drive
+ 2. Central Processing Unit
+ 3. Motherboard
+ 4. Random Access Memory
 
 <details>
   <summary>Answer</summary>
