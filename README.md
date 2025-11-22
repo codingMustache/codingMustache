@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why can't a bicycle stand on its own? It's two-tired.
+What has ears but cannot hear? A field of corn.
 
 
 ## Daily Trivia
 
-What is the name of the process that sends one qubit of information using two bits of classical information?
- 1. Quantum Entanglement
- 2. Quantum Teleportation
- 3. Super Dense Coding
- 4. Quantum Programming
+What does LTS stand for in the software market?
+ 1. Long Term Support
+ 2. Ludicrous Turbo Speed
+ 3. Ludicrous Transfer Speed
+ 4. Long Taco Service
 
 <details>
   <summary>Answer</summary>
-  Quantum Teleportation
+  Long Term Support
 </details>
 
 
