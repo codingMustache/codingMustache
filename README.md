@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It's been months since I bought the book "how to scam people online". It still hasn't turned up.
+Where do fish keep their money? In the riverbank
 
 
 ## Daily Trivia
 
-What was the first commerically available computer processor?
- 1. Intel 486SX
- 2. TMS 1000
- 3. Intel 4004
- 4. AMD AM386
+Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
+ 1. Enigma Machine
+ 2. Skipjack
+ 3. Nautilus
+ 4. Clipper Chip
 
 <details>
   <summary>Answer</summary>
-  Intel 4004
+  Clipper Chip
 </details>
 
 
