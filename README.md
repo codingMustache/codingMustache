@@ -4,16 +4,16 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Two parrots are sitting on a perch. One turns to the other and asks, "do you smell fish?"
+Why do cows wear bells? Because their horns don't work.
 
 
 ## Daily Trivia
 
 What was the name given to Android 4.3?
- 1. Lollipop
- 2. Nutella
- 3. Froyo
- 4. Jelly Bean
+ 1. Jelly Bean
+ 2. Froyo
+ 3. Nutella
+ 4. Lollipop
 
 <details>
   <summary>Answer</summary>
