@@ -4,20 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I was at the library and asked if they have any books on "paranoia", the librarian replied, "yes, they are right behind you"
+Why do pumpkins sit on people’s porches?
+
+They have no hands to knock on the door.
 
 
 ## Daily Trivia
 
-What was the first Android version specifically optimized for tablets?
- 1. Marshmellow
- 2. Froyo
- 3. Eclair
- 4. Honeycomb
+How many bits make up the significand portion of a single precision floating point number?
+ 1. 23
+ 2. 15
+ 3. 53
+ 4. 8
 
 <details>
   <summary>Answer</summary>
-  Honeycomb
+  23
 </details>
 
 
