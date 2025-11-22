@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a fat psychic? A four-chin teller.
+It's been months since I bought the book "how to scam people online". It still hasn't turned up.
 
 
 ## Daily Trivia
 
-What port does HTTP run on?
- 1. 23
- 2. 80
- 3. 53
- 4. 443
+What was the first commerically available computer processor?
+ 1. Intel 486SX
+ 2. TMS 1000
+ 3. Intel 4004
+ 4. AMD AM386
 
 <details>
   <summary>Answer</summary>
-  80
+  Intel 4004
 </details>
 
 
