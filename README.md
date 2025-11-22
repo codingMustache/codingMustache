@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It's been months since I bought the book "how to scam people online". It still hasn't turned up.
+Where do you take someone who has been injured in a Peek-a-boo accident? To the I.C.U.
 
 
 ## Daily Trivia
 
-How many cores does the Intel i7-6950X have?
- 1. 12
- 2. 8
- 3. 4
- 4. 10
+How many bits make up the significand portion of a single precision floating point number?
+ 1. 53
+ 2. 15
+ 3. 8
+ 4. 23
 
 <details>
   <summary>Answer</summary>
-  10
+  23
 </details>
 
 
