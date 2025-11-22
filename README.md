@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Our wedding was so beautiful, even the cake was in tiers.
+Why did Sweden start painting barcodes on the sides of their battleships? So they could Scandinavian.
 
 
 ## Daily Trivia
 
-In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
- 1. print(&quot;Hello World&quot;)
- 2. console.log(&quot;Hello World&quot;)
- 3. printf(&quot;Hello World&quot;)
- 4. echo &quot;Hello World&quot;
+How fast is USB 3.1 Gen 2 theoretically?
+ 1. 5 Gb/s
+ 2. 8 Gb/s
+ 3. 1 Gb/s
+ 4. 10 Gb/s
 
 <details>
   <summary>Answer</summary>
-  print(&quot;Hello World&quot;)
+  10 Gb/s
 </details>
 
 
