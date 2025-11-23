@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you get when you cross a pig and a pineapple? A porky pine
+Why do we tell actors to “break a leg?” Because every play has a cast.
 
 
 ## Daily Trivia
 
-The programming language &#039;Swift&#039; was created to replace what other programming language?
- 1. C#
- 2. Ruby
- 3. C++
- 4. Objective-C
+What was the name of the security vulnerability found in Bash in 2014?
+ 1. Heartbleed
+ 2. Bashbug
+ 3. Shellshock
+ 4. Stagefright
 
 <details>
   <summary>Answer</summary>
-  Objective-C
+  Shellshock
 </details>
 
 
