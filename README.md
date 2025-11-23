@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A beekeeper was indicted after he confessed to years of stealing at work. They charged him with emBEEzlement
+Where’s the bin? Dad: I haven’t been anywhere!
 
 
 ## Daily Trivia
 
-In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
- 1. static
- 2. center
- 3. absolute
- 4. relative
+When was the programming language &quot;C#&quot; released?
+ 1. 2001
+ 2. 1999
+ 3. 2000
+ 4. 1998
 
 <details>
   <summary>Answer</summary>
-  center
+  2000
 </details>
 
 
