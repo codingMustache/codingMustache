@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My dog used to chase people on a bike a lot. It got so bad I had to take his bike away.
+How does a dyslexic poet write? Inverse.
 
 
 ## Daily Trivia
 
-What does LTS stand for in the software market?
- 1. Ludicrous Turbo Speed
- 2. Ludicrous Transfer Speed
- 3. Long Term Support
- 4. Long Taco Service
+In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
+ 1. print(&quot;Hello World&quot;)
+ 2. printf(&quot;Hello World&quot;)
+ 3. echo &quot;Hello World&quot;
+ 4. console.log(&quot;Hello World&quot;)
 
 <details>
   <summary>Answer</summary>
-  Long Term Support
+  print(&quot;Hello World&quot;)
 </details>
 
 
