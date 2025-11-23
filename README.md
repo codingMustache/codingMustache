@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a guy lying on your doorstep? Matt.
+Did you hear about the runner who was criticized? He just took it in stride
 
 
 ## Daily Trivia
 
-This mobile OS held the largest market share in 2012.
- 1. Android
- 2. BlackBerry
- 3. Symbian
- 4. iOS
+Which operating system was released first?
+ 1. Mac OS
+ 2. OS/2
+ 3. Linux
+ 4. Windows
 
 <details>
   <summary>Answer</summary>
-  iOS
+  Mac OS
 </details>
 
 
