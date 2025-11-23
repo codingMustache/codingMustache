@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I couldn't get a reservation at the library. They were completely booked.
+Today a man knocked on my door and asked for a small donation towards the local swimming pool. I gave him a glass of water.
 
 
 ## Daily Trivia
 
-Approximately how many Apple I personal computers were created?
- 1. 100
- 2. 1000
- 3. 200
- 4. 500
+On Twitter, what was the original character limit for a Tweet?
+ 1. 120
+ 2. 140
+ 3. 160
+ 4. 100
 
 <details>
   <summary>Answer</summary>
-  200
+  140
 </details>
 
 
