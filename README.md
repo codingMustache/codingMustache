@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the tomato blush? Because it saw the salad dressing.
+I'll tell you what often gets over looked... garden fences.
 
 
 ## Daily Trivia
 
-Generally, which component of a computer draws the most power?
- 1. Video Card
- 2. Hard Drive
- 3. Processor
- 4. Power Supply
+Which of these is not a key value of Agile software development?
+ 1. Comprehensive documentation
+ 2. Responding to change
+ 3. Customer collaboration
+ 4. Individuals and interactions
 
 <details>
   <summary>Answer</summary>
-  Video Card
+  Comprehensive documentation
 </details>
 
 
