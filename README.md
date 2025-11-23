@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What musical instrument is found in the bathroom? A tuba toothpaste.
+How did the hipster burn the roof of his mouth? He ate the pizza before it was cool.
 
 
 ## Daily Trivia
 
-The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
- 1. Commodore Business Machines
- 2. Sinclair Research
- 3. Amstrad PLC
- 4. Acorn Computers
+What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
+ 1. Heat Sink
+ 2. CPU Vent
+ 3. Temperature Decipator
+ 4. Heat Vent
 
 <details>
   <summary>Answer</summary>
-  Acorn Computers
+  Heat Sink
 </details>
 
 
