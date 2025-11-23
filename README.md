@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the Mexican train killer? He had loco motives
+What did the shy pebble wish for? That she was a little boulder.
 
 
 ## Daily Trivia
 
-What does the acronym CDN stand for in terms of networking?
- 1. Compressed Data Network
- 2. Content Distribution Network
- 3. Content Delivery Network
- 4. Computational Data Network
+The Harvard architecture for micro-controllers added which additional bus?
+ 1. Data
+ 2. Control
+ 3. Address
+ 4. Instruction
 
 <details>
   <summary>Answer</summary>
-  Content Delivery Network
+  Instruction
 </details>
 
 
