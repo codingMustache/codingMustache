@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the shy pebble wish for? That she was a little boulder.
+I couldn't get a reservation at the library. They were completely booked.
 
 
 ## Daily Trivia
 
-The Harvard architecture for micro-controllers added which additional bus?
- 1. Data
- 2. Control
- 3. Address
- 4. Instruction
+Approximately how many Apple I personal computers were created?
+ 1. 100
+ 2. 1000
+ 3. 200
+ 4. 500
 
 <details>
   <summary>Answer</summary>
-  Instruction
+  200
 </details>
 
 
