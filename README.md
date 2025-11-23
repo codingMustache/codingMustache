@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later.
+What do you call a female snake. misssssssss 
 
 
 ## Daily Trivia
 
-Which of the following computer components can be built using only NAND gates?
- 1. CPU
- 2. Register
- 3. RAM
- 4. ALU
+Laserjet and inkjet printers are both examples of what type of printer?
+ 1. Non-impact printer
+ 2. Daisywheel printer
+ 3. Dot matrix printer
+ 4. Impact printer
 
 <details>
   <summary>Answer</summary>
-  ALU
+  Non-impact printer
 </details>
 
 
