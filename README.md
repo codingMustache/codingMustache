@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Today a man knocked on my door and asked for a small donation towards the local swimming pool. I gave him a glass of water.
+What do you get when you cross a pig and a pineapple? A porky pine
 
 
 ## Daily Trivia
 
-On Twitter, what was the original character limit for a Tweet?
- 1. 120
- 2. 140
- 3. 160
- 4. 100
+The programming language &#039;Swift&#039; was created to replace what other programming language?
+ 1. C#
+ 2. Ruby
+ 3. C++
+ 4. Objective-C
 
 <details>
   <summary>Answer</summary>
-  140
+  Objective-C
 </details>
 
 
