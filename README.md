@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where’s the bin? Dad: I haven’t been anywhere!
+It takes guts to be an organ donor.
 
 
 ## Daily Trivia
 
-When was the programming language &quot;C#&quot; released?
- 1. 2001
- 2. 1999
- 3. 2000
- 4. 1998
+What was the name of the security vulnerability found in Bash in 2014?
+ 1. Bashbug
+ 2. Stagefright
+ 3. Shellshock
+ 4. Heartbleed
 
 <details>
   <summary>Answer</summary>
-  2000
+  Shellshock
 </details>
 
 
