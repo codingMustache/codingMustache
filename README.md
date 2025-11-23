@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do you learn to make banana splits? At sundae school.
+Why are giraffes so slow to apologize? Because it takes them a long time to swallow their pride.
 
 
 ## Daily Trivia
 
-Which programming language was developed by Sun Microsystems in 1995?
- 1. Java
- 2. C++
- 3. Python
- 4. Solaris OS
+The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
+ 1. Sinclair Research
+ 2. Acorn Computers
+ 3. Amstrad PLC
+ 4. Commodore Business Machines
 
 <details>
   <summary>Answer</summary>
-  Java
+  Acorn Computers
 </details>
 
 
