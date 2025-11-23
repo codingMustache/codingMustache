@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why don't sharks eat clowns?  Because they taste funny.
+My dog used to chase people on a bike a lot. It got so bad I had to take his bike away.
 
 
 ## Daily Trivia
 
-What is the main CPU is the Sega Mega Drive / Sega Genesis?
- 1. Zilog Z80
- 2. Yamaha YM2612
- 3. Motorola 68000
- 4. Intel 8088
+What does LTS stand for in the software market?
+ 1. Ludicrous Turbo Speed
+ 2. Ludicrous Transfer Speed
+ 3. Long Term Support
+ 4. Long Taco Service
 
 <details>
   <summary>Answer</summary>
-  Motorola 68000
+  Long Term Support
 </details>
 
 
