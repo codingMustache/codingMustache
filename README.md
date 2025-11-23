@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a fish with no eyes? A fsh.
+Dad, can you put my shoes on? I don't think they'll fit me.
 
 
 ## Daily Trivia
 
-What is the most preferred image format used for logos in the Wikimedia database?
- 1. .svg
- 2. .png
- 3. .jpeg
- 4. .gif
+Laserjet and inkjet printers are both examples of what type of printer?
+ 1. Impact printer
+ 2. Daisywheel printer
+ 3. Dot matrix printer
+ 4. Non-impact printer
 
 <details>
   <summary>Answer</summary>
-  .svg
+  Non-impact printer
 </details>
 
 
