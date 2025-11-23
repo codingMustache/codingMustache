@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My wife is on a tropical fruit diet, the house is full of stuff. It is enough to make a mango crazy.
+A beekeeper was indicted after he confessed to years of stealing at work. They charged him with emBEEzlement
 
 
 ## Daily Trivia
 
-How many kilobytes in one gigabyte (in decimal)?
- 1. 1000
- 2. 1048576
- 3. 1024
- 4. 1000000
+In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
+ 1. static
+ 2. center
+ 3. absolute
+ 4. relative
 
 <details>
   <summary>Answer</summary>
-  1000000
+  center
 </details>
 
 
