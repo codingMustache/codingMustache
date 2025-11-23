@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The great thing about stationery shops is they're always in the same place...
+Why don't sharks eat clowns?  Because they taste funny.
 
 
 ## Daily Trivia
 
-The Harvard architecture for micro-controllers added which additional bus?
- 1. Instruction
- 2. Data
- 3. Address
- 4. Control
+What is the main CPU is the Sega Mega Drive / Sega Genesis?
+ 1. Zilog Z80
+ 2. Yamaha YM2612
+ 3. Motorola 68000
+ 4. Intel 8088
 
 <details>
   <summary>Answer</summary>
-  Instruction
+  Motorola 68000
 </details>
 
 
