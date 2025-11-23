@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do birds fly south for the winter? Because it's too far to walk.
+"I'm sorry." "Hi sorry, I'm dad"
 
 
 ## Daily Trivia
 
-What vulnerability ranked #1 on the OWASP Top 10 in 2013?
- 1. Broken Authentication
- 2. Cross-Site Scripting
- 3. Insecure Direct Object References
- 4. Injection 
+In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
+ 1. printf(&quot;Hello World&quot;)
+ 2. console.log(&quot;Hello World&quot;)
+ 3. echo &quot;Hello World&quot;
+ 4. print(&quot;Hello World&quot;)
 
 <details>
   <summary>Answer</summary>
-  Injection 
+  print(&quot;Hello World&quot;)
 </details>
 
 
