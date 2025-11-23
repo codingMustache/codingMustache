@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why can’t you hear a pterodactyl go to the bathroom? The p is silent.
+I wouldn't buy anything with velcro. It's a total rip-off.
 
 
 ## Daily Trivia
 
-The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
- 1. HD Graphics 700 
- 2. HD Graphics 600
- 3. HD Graphics 7000
- 4. HD Graphics 500
+What is the name of Layer 7 of the OSI model?
+ 1. Application
+ 2. Session
+ 3. Present
+ 4. Network
 
 <details>
   <summary>Answer</summary>
-  HD Graphics 500
+  Application
 </details>
 
 
