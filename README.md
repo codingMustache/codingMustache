@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-“Hold on, I have something in my shoe”  “I’m pretty sure it’s a foot”
+Two parrots are sitting on a perch. One turns to the other and asks, "do you smell fish?"
 
 
 ## Daily Trivia
 
-Which SQL keyword is used to fetch data from a database?
- 1. SELECT
- 2. EXEC
- 3. VALUES
- 4. INDEX
+The numbering system with a radix of 16 is more commonly referred to as 
+ 1. Binary
+ 2. Duodecimal
+ 3. Octal
+ 4. Hexidecimal
 
 <details>
   <summary>Answer</summary>
-  SELECT
+  Hexidecimal
 </details>
 
 
