@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-"Dad, I'm cold."
-"Go stand in the corner, I hear it's 90 degrees."
+They tried to make a diamond shaped like a duck. It quacked under the pressure.
 
 
 ## Daily Trivia
 
-What does the Prt Sc button do?
- 1. Closes all windows
- 2. Captures what&#039;s on the screen and copies it to your clipboard
- 3. Nothing
- 4. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
+What is the code name for the mobile operating system Android 7.0?
+ 1. Marshmallow
+ 2. Jelly Bean
+ 3. Ice Cream Sandwich
+ 4. Nougat
 
 <details>
   <summary>Answer</summary>
-  Captures what&#039;s on the screen and copies it to your clipboard
+  Nougat
 </details>
 
 
