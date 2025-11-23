@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was the shirt happy to hang around the tank top? Because it was armless
+Did you hear about the Mexican train killer? He had loco motives
 
 
 ## Daily Trivia
 
-All of the following programs are classified as raster graphics editors EXCEPT:
- 1. GIMP
- 2. Paint.NET
- 3. Inkscape
- 4. Adobe Photoshop
+What does the acronym CDN stand for in terms of networking?
+ 1. Compressed Data Network
+ 2. Content Distribution Network
+ 3. Content Delivery Network
+ 4. Computational Data Network
 
 <details>
   <summary>Answer</summary>
-  Inkscape
+  Content Delivery Network
 </details>
 
 
