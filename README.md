@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I boiled a funny bone last night and had a laughing stock
+I went to a Foo Fighters Concert once... It was Everlong...
 
 
 ## Daily Trivia
 
-What is the code name for the mobile operating system Android 7.0?
- 1. Jelly Bean
- 2. Marshmallow
- 3. Nougat
- 4. Ice Cream Sandwich
+In web design, what does CSS stand for?
+ 1. Computer Style Sheet
+ 2. Counter Strike: Source
+ 3. Corrective Style Sheet
+ 4. Cascading Style Sheet
 
 <details>
   <summary>Answer</summary>
-  Nougat
+  Cascading Style Sheet
 </details>
 
 
