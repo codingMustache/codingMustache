@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I knew a guy who collected candy canes, they were all in mint condition
+A ghost walks into a bar and asks for a glass of vodka but the bar tender says, “sorry we don’t serve spirits”
 
 
 ## Daily Trivia
 
-Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
- 1. Year
- 2. Eight Years
- 3. Two Years
- 4. Four Years
+Approximately how many Apple I personal computers were created?
+ 1. 100
+ 2. 500
+ 3. 200
+ 4. 1000
 
 <details>
   <summary>Answer</summary>
-  Year
+  200
 </details>
 
 
