@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It takes guts to be an organ donor.
+What musical instrument is found in the bathroom? A tuba toothpaste.
 
 
 ## Daily Trivia
 
-What was the name of the security vulnerability found in Bash in 2014?
- 1. Bashbug
- 2. Stagefright
- 3. Shellshock
- 4. Heartbleed
+The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
+ 1. Commodore Business Machines
+ 2. Sinclair Research
+ 3. Amstrad PLC
+ 4. Acorn Computers
 
 <details>
   <summary>Answer</summary>
-  Shellshock
+  Acorn Computers
 </details>
 
 
