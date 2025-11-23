@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a female snake. misssssssss 
+Why did the man put his money in the freezer? He wanted cold hard cash!
 
 
 ## Daily Trivia
 
-Laserjet and inkjet printers are both examples of what type of printer?
- 1. Non-impact printer
- 2. Daisywheel printer
- 3. Dot matrix printer
- 4. Impact printer
+While Apple was formed in California, in which western state was Microsoft founded?
+ 1. Arizona
+ 2. New Mexico
+ 3. Colorado
+ 4. Washington
 
 <details>
   <summary>Answer</summary>
-  Non-impact printer
+  New Mexico
 </details>
 
 
