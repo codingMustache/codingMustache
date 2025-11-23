@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-They tried to make a diamond shaped like a duck. It quacked under the pressure.
+I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later.
 
 
 ## Daily Trivia
 
-Australia, Japan, and Southeast Asia are in which ITU Region?
- 1. Region 3
- 2. Region 4
- 3. Region 2
- 4. Region 1
+Which of the following computer components can be built using only NAND gates?
+ 1. CPU
+ 2. Register
+ 3. RAM
+ 4. ALU
 
 <details>
   <summary>Answer</summary>
-  Region 3
+  ALU
 </details>
 
 
