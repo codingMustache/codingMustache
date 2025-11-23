@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do we tell actors to “break a leg?” Because every play has a cast.
+"Dad, I'm cold."
+"Go stand in the corner, I hear it's 90 degrees."
 
 
 ## Daily Trivia
 
-What was the name of the security vulnerability found in Bash in 2014?
- 1. Heartbleed
- 2. Bashbug
- 3. Shellshock
- 4. Stagefright
+What does the Prt Sc button do?
+ 1. Closes all windows
+ 2. Captures what&#039;s on the screen and copies it to your clipboard
+ 3. Nothing
+ 4. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
 
 <details>
   <summary>Answer</summary>
-  Shellshock
+  Captures what&#039;s on the screen and copies it to your clipboard
 </details>
 
 
