@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-They tried to make a diamond shaped like a duck. It quacked under the pressure.
+My wife is on a tropical fruit diet, the house is full of stuff. It is enough to make a mango crazy.
 
 
 ## Daily Trivia
 
-What is the code name for the mobile operating system Android 7.0?
- 1. Marshmallow
- 2. Jelly Bean
- 3. Ice Cream Sandwich
- 4. Nougat
+How many kilobytes in one gigabyte (in decimal)?
+ 1. 1000
+ 2. 1048576
+ 3. 1024
+ 4. 1000000
 
 <details>
   <summary>Answer</summary>
-  Nougat
+  1000000
 </details>
 
 
