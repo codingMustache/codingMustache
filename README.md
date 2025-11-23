@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-"I'm sorry." "Hi sorry, I'm dad"
+Why did the tomato blush? Because it saw the salad dressing.
 
 
 ## Daily Trivia
 
-In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
- 1. printf(&quot;Hello World&quot;)
- 2. console.log(&quot;Hello World&quot;)
- 3. echo &quot;Hello World&quot;
- 4. print(&quot;Hello World&quot;)
+Generally, which component of a computer draws the most power?
+ 1. Video Card
+ 2. Hard Drive
+ 3. Processor
+ 4. Power Supply
 
 <details>
   <summary>Answer</summary>
-  print(&quot;Hello World&quot;)
+  Video Card
 </details>
 
 
