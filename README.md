@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How did the hipster burn the roof of his mouth? He ate the pizza before it was cool.
+I boiled a funny bone last night and had a laughing stock
 
 
 ## Daily Trivia
 
-What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
- 1. Heat Sink
- 2. CPU Vent
- 3. Temperature Decipator
- 4. Heat Vent
+What is the code name for the mobile operating system Android 7.0?
+ 1. Jelly Bean
+ 2. Marshmallow
+ 3. Nougat
+ 4. Ice Cream Sandwich
 
 <details>
   <summary>Answer</summary>
-  Heat Sink
+  Nougat
 </details>
 
 
