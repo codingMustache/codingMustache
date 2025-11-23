@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Two parrots are sitting on a perch. One turns to the other and asks, "do you smell fish?"
+Why was the shirt happy to hang around the tank top? Because it was armless
 
 
 ## Daily Trivia
 
-The numbering system with a radix of 16 is more commonly referred to as 
- 1. Binary
- 2. Duodecimal
- 3. Octal
- 4. Hexidecimal
+All of the following programs are classified as raster graphics editors EXCEPT:
+ 1. GIMP
+ 2. Paint.NET
+ 3. Inkscape
+ 4. Adobe Photoshop
 
 <details>
   <summary>Answer</summary>
-  Hexidecimal
+  Inkscape
 </details>
 
 
