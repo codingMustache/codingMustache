@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How come the stadium got hot after the game? Because all of the fans left.
+Man, I really love my furniture... me and my recliner go way back.
 
 
 ## Daily Trivia
 
-Which of these programming languages is a low-level language?
- 1. Python
- 2. Assembly
- 3. C#
- 4. Pascal
+According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:
+ 1. AB&#039; + AB
+ 2. A&#039;B&#039;
+ 3. A&#039; + B&#039;
+ 4. A&#039;B + B&#039;A
 
 <details>
   <summary>Answer</summary>
-  Assembly
+  A&#039; + B&#039;
 </details>
 
 
