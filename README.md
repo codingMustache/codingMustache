@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do the trees get on the internet? They log on.
+A quick shoutout to all of the sidewalks out there... Thanks for keeping me off the streets.
 
 
 ## Daily Trivia
 
-What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
- 1. Session
- 2. Data link
- 3. Network
- 4. Transport
+The acronym &quot;RIP&quot; stands for which of these?
+ 1. Runtime Instance Processes
+ 2. Routine Inspection Protocol
+ 3. Routing Information Protocol
+ 4. Regular Interval Processes
 
 <details>
   <summary>Answer</summary>
-  Transport
+  Routing Information Protocol
 </details>
 
 
