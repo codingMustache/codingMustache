@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I think circles are pointless.
+Why did the coffee file a police report? It got mugged.
 
 
 ## Daily Trivia
 
-In the server hosting industry IaaS stands for...
- 1. Internet as a Service
- 2. Internet and a Server
- 3. Infrastructure as a Server
- 4. Infrastructure as a Service
+How many kilobytes in one gigabyte (in decimal)?
+ 1. 1048576
+ 2. 1000
+ 3. 1000000
+ 4. 1024
 
 <details>
   <summary>Answer</summary>
-  Infrastructure as a Service
+  1000000
 </details>
 
 
