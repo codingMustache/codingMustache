@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to work for an origami company but they folded.
+How do you find Will Smith in the snow?  Look for fresh prints.
 
 
 ## Daily Trivia
 
-Which SQL keyword is used to fetch data from a database?
- 1. SELECT
- 2. EXEC
- 3. VALUES
- 4. INDEX
+What is the name of the process that sends one qubit of information using two bits of classical information?
+ 1. Quantum Programming
+ 2. Super Dense Coding
+ 3. Quantum Teleportation
+ 4. Quantum Entanglement
 
 <details>
   <summary>Answer</summary>
-  SELECT
+  Quantum Teleportation
 </details>
 
 
