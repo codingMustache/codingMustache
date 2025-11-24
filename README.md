@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-You can't trust a ladder. It will always let you down
+I really want to buy one of those supermarket checkout dividers, but the cashier keeps putting it back.
 
 
 ## Daily Trivia
 
-What is the name of Layer 7 of the OSI model?
- 1. Application
- 2. Present
- 3. Network
- 4. Session
+What is the name of the process that sends one qubit of information using two bits of classical information?
+ 1. Quantum Entanglement
+ 2. Quantum Teleportation
+ 3. Super Dense Coding
+ 4. Quantum Programming
 
 <details>
   <summary>Answer</summary>
-  Application
+  Quantum Teleportation
 </details>
 
 
