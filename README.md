@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do cows wear bells? Because their horns don't work.
+Why do valley girls hang out in odd numbered groups? Because they can't even.
 
 
 ## Daily Trivia
 
-On Twitter, what was the original character limit for a Tweet?
- 1. 140
- 2. 100
- 3. 160
- 4. 120
+What is the main CPU is the Sega Mega Drive / Sega Genesis?
+ 1. Intel 8088
+ 2. Zilog Z80
+ 3. Motorola 68000
+ 4. Yamaha YM2612
 
 <details>
   <summary>Answer</summary>
-  140
+  Motorola 68000
 </details>
 
 
