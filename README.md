@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you find Will Smith in the snow?  Look for fresh prints.
+A man is washing the car with his son. The son asks...... "Dad, can’t you just use a sponge?"
 
 
 ## Daily Trivia
 
-What is the name of the process that sends one qubit of information using two bits of classical information?
- 1. Quantum Programming
- 2. Super Dense Coding
- 3. Quantum Teleportation
- 4. Quantum Entanglement
+The numbering system with a radix of 16 is more commonly referred to as 
+ 1. Octal
+ 2. Hexidecimal
+ 3. Binary
+ 4. Duodecimal
 
 <details>
   <summary>Answer</summary>
-  Quantum Teleportation
+  Hexidecimal
 </details>
 
 
