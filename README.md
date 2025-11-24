@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I asked a frenchman if he played video games. He said "Wii"
+Why is no one friends with Dracula? Because he's a pain in the neck.
 
 
 ## Daily Trivia
 
-Approximately how many Apple I personal computers were created?
- 1. 100
- 2. 500
- 3. 200
- 4. 1000
+What was the first company to use the term &quot;Golden Master&quot;?
+ 1. Google
+ 2. IBM
+ 3. Apple
+ 4. Microsoft
 
 <details>
   <summary>Answer</summary>
-  200
+  Apple
 </details>
 
 
