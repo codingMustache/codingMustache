@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to work in a shoe recycling shop. It was sole destroying.
+Where do cats write notes?
+Scratch Paper!
 
 
 ## Daily Trivia
 
-What is the name of the process that sends one qubit of information using two bits of classical information?
- 1. Super Dense Coding
- 2. Quantum Entanglement
- 3. Quantum Teleportation
- 4. Quantum Programming
+What was the name given to Android 4.3?
+ 1. Jelly Bean
+ 2. Lollipop
+ 3. Nutella
+ 4. Froyo
 
 <details>
   <summary>Answer</summary>
-  Quantum Teleportation
+  Jelly Bean
 </details>
 
 
