@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Someone broke into my house last night and stole my limbo trophy. How low can you go?
+Why do bears have hairy coats? Fur protection.
 
 
 ## Daily Trivia
 
-What does CPU stand for?
- 1. Central Processor Unit
- 2. Central Processing Unit
- 3. Computer Personal Unit
- 4. Central Process Unit
+On Twitter, what was the original character limit for a Tweet?
+ 1. 100
+ 2. 160
+ 3. 140
+ 4. 120
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  140
 </details>
 
 
