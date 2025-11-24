@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why should you never trust a pig with a secret? Because it's bound to squeal.
+A man tried to sell me a coffin today. I told him that's the last thing I need.
 
 
 ## Daily Trivia
 
-Who invented the &quot;Spanning Tree Protocol&quot;?
- 1. Radia Perlman
- 2. Michael Roberts
- 3. Vint Cerf
- 4. Paul Vixie
+Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
+ 1. Shellshock
+ 2. Corrupted Blood
+ 3. Shellscript
+ 4. Heartbleed
 
 <details>
   <summary>Answer</summary>
-  Radia Perlman
+  Heartbleed
 </details>
 
 
