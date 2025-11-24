@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a group of killer whales playing instruments? An Orca-stra.
+Why couldn't the kid see the pirate movie? Because it was rated arrr!
 
 
 ## Daily Trivia
 
-What does LTS stand for in the software market?
- 1. Long Taco Service
- 2. Ludicrous Transfer Speed
- 3. Ludicrous Turbo Speed
- 4. Long Term Support
+The name of technology company HP stands for what?
+ 1. Husker-Pollosk
+ 2. Howard Packmann
+ 3. Hewlett-Packard
+ 4. Hellman-Pohl
 
 <details>
   <summary>Answer</summary>
-  Long Term Support
+  Hewlett-Packard
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **1 days** since this server shutdown
+Its been **2 days** since this server shutdown
