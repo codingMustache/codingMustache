@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A man is washing the car with his son. The son asks...... "Dad, can’t you just use a sponge?"
+How do the trees get on the internet? They log on.
 
 
 ## Daily Trivia
 
-The numbering system with a radix of 16 is more commonly referred to as 
- 1. Octal
- 2. Hexidecimal
- 3. Binary
- 4. Duodecimal
+What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
+ 1. Session
+ 2. Data link
+ 3. Network
+ 4. Transport
 
 <details>
   <summary>Answer</summary>
-  Hexidecimal
+  Transport
 </details>
 
 
