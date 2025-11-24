@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why is no one friends with Dracula? Because he's a pain in the neck.
+I used to work in a shoe recycling shop. It was sole destroying.
 
 
 ## Daily Trivia
 
-What was the first company to use the term &quot;Golden Master&quot;?
- 1. Google
- 2. IBM
- 3. Apple
- 4. Microsoft
+What is the name of the process that sends one qubit of information using two bits of classical information?
+ 1. Super Dense Coding
+ 2. Quantum Entanglement
+ 3. Quantum Teleportation
+ 4. Quantum Programming
 
 <details>
   <summary>Answer</summary>
-  Apple
+  Quantum Teleportation
 </details>
 
 
