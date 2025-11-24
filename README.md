@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do valley girls hang out in odd numbered groups? Because they can't even.
+Without geometry life is pointless.
 
 
 ## Daily Trivia
 
-What is the main CPU is the Sega Mega Drive / Sega Genesis?
- 1. Intel 8088
- 2. Zilog Z80
- 3. Motorola 68000
- 4. Yamaha YM2612
+Generally, which component of a computer draws the most power?
+ 1. Processor
+ 2. Power Supply
+ 3. Hard Drive
+ 4. Video Card
 
 <details>
   <summary>Answer</summary>
-  Motorola 68000
+  Video Card
 </details>
 
 
