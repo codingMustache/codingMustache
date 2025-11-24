@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What’s brown and sounds like a bell? Dung!
+This morning I was wondering where the sun was, but then it dawned on me.
 
 
 ## Daily Trivia
 
-.rs is the top-level domain for what country?
- 1. Serbia
- 2. Rwanda
- 3. Russia
- 4. Romania
+In programming, what do you call functions with the same name but different implementations?
+ 1. Overriding
+ 2. Abstracting
+ 3. Inheriting
+ 4. Overloading
 
 <details>
   <summary>Answer</summary>
-  Serbia
+  Overloading
 </details>
 
 
