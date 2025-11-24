@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-This morning I was wondering where the sun was, but then it dawned on me.
+Why can't eggs have love? They will break up too soon.
 
 
 ## Daily Trivia
 
-In programming, what do you call functions with the same name but different implementations?
- 1. Overriding
- 2. Abstracting
- 3. Inheriting
- 4. Overloading
+Which of these names was an actual codename for a cancelled Microsoft project?
+ 1. Saturn
+ 2. Neptune
+ 3. Pollux
+ 4. Enceladus
 
 <details>
   <summary>Answer</summary>
-  Overloading
+  Neptune
 </details>
 
 
