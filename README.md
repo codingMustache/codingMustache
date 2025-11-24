@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-"Dad, I'm cold."
-"Go stand in the corner, I hear it's 90 degrees."
+When Dad drops a pea off of his plate ‘oh dear I’ve pee’d on the table!
 
 
 ## Daily Trivia
 
-How many bits make up the significand portion of a single precision floating point number?
- 1. 8
- 2. 53
- 3. 15
- 4. 23
+On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
+ 1. Asterisk
+ 2. Dollar Sign
+ 3. Percent Sign
+ 4. Exclamation Mark
 
 <details>
   <summary>Answer</summary>
-  23
+  Exclamation Mark
 </details>
 
 
