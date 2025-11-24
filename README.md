@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I had a rough day, and then somebody went and ripped the front and back pages from my dictionary. It just goes from bad to worse.
+You can't trust a ladder. It will always let you down
 
 
 ## Daily Trivia
 
-How many Hz does the video standard PAL support?
- 1. 60
- 2. 59
- 3. 25
- 4. 50
+What is the name of Layer 7 of the OSI model?
+ 1. Application
+ 2. Present
+ 3. Network
+ 4. Session
 
 <details>
   <summary>Answer</summary>
-  50
+  Application
 </details>
 
 
