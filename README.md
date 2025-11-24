@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the coffee file a police report? It got mugged.
+How does a penguin build it’s house? Igloos it together.
 
 
 ## Daily Trivia
 
-How many kilobytes in one gigabyte (in decimal)?
- 1. 1048576
- 2. 1000
- 3. 1000000
- 4. 1024
+What was the first company to use the term &quot;Golden Master&quot;?
+ 1. IBM
+ 2. Apple
+ 3. Microsoft
+ 4. Google
 
 <details>
   <summary>Answer</summary>
-  1000000
+  Apple
 </details>
 
 
