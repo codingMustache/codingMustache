@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the man put his money in the freezer? He wanted cold hard cash!
+Why are giraffes so slow to apologize? Because it takes them a long time to swallow their pride.
 
 
 ## Daily Trivia
 
-How many cores does the Intel i7-6950X have?
- 1. 8
- 2. 12
- 3. 10
- 4. 4
+What does AD stand for in relation to Windows Operating Systems? 
+ 1. Alternative Drive
+ 2. Active Department
+ 3. Active Directory
+ 4. Automated Database
 
 <details>
   <summary>Answer</summary>
-  10
+  Active Directory
 </details>
 
 
