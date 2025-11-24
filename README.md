@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The first time I got a universal remote control I thought to myself, "This changes everything"
+What do you call a guy lying on your doorstep? Matt.
 
 
 ## Daily Trivia
 
-Which of the following computer components can be built using only NAND gates?
- 1. CPU
- 2. RAM
- 3. Register
- 4. ALU
+Which kind of algorithm is Ron Rivest not famous for creating?
+ 1. Hashing algorithm
+ 2. Asymmetric encryption
+ 3. Secret sharing scheme
+ 4. Stream cipher
 
 <details>
   <summary>Answer</summary>
-  ALU
+  Secret sharing scheme
 </details>
 
 
