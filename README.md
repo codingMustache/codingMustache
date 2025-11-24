@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why can't eggs have love? They will break up too soon.
+Did you hear about the scientist who was lab partners with a pot of boiling water? He had a very esteemed colleague.
 
 
 ## Daily Trivia
 
-Which of these names was an actual codename for a cancelled Microsoft project?
- 1. Saturn
- 2. Neptune
- 3. Pollux
- 4. Enceladus
+Lenovo acquired IBM&#039;s personal computer division, including the ThinkPad line of laptops and tablets, in what year?
+ 1. 2008
+ 2. 1999
+ 3. 2002
+ 4. 2005
 
 <details>
   <summary>Answer</summary>
-  Neptune
+  2005
 </details>
 
 
