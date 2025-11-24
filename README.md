@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I went to the doctor today and he told me I had type A blood but it was a type O.
+I used to work for an origami company but they folded.
 
 
 ## Daily Trivia
 
-What is the code name for the mobile operating system Android 7.0?
- 1. Ice Cream Sandwich
- 2. Jelly Bean
- 3. Marshmallow
- 4. Nougat
+Which SQL keyword is used to fetch data from a database?
+ 1. SELECT
+ 2. EXEC
+ 3. VALUES
+ 4. INDEX
 
 <details>
   <summary>Answer</summary>
-  Nougat
+  SELECT
 </details>
 
 
