@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why couldn't the kid see the pirate movie? Because it was rated arrr!
+Where does Napoleon keep his armies? In his sleevies.
 
 
 ## Daily Trivia
 
-The name of technology company HP stands for what?
- 1. Husker-Pollosk
- 2. Howard Packmann
- 3. Hewlett-Packard
- 4. Hellman-Pohl
+What is the most preferred image format used for logos in the Wikimedia database?
+ 1. .gif
+ 2. .svg
+ 3. .png
+ 4. .jpeg
 
 <details>
   <summary>Answer</summary>
-  Hewlett-Packard
+  .svg
 </details>
 
 
