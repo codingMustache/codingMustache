@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a guy lying on your doorstep? Matt.
+How come the stadium got hot after the game? Because all of the fans left.
 
 
 ## Daily Trivia
 
-Which kind of algorithm is Ron Rivest not famous for creating?
- 1. Hashing algorithm
- 2. Asymmetric encryption
- 3. Secret sharing scheme
- 4. Stream cipher
+Which of these programming languages is a low-level language?
+ 1. Python
+ 2. Assembly
+ 3. C#
+ 4. Pascal
 
 <details>
   <summary>Answer</summary>
-  Secret sharing scheme
+  Assembly
 </details>
 
 
