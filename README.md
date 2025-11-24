@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I’ve just been reading a book about anti-gravity, it’s impossible to put down!
+I don't trust stairs. They're always up to something.
 
 
 ## Daily Trivia
 
-The teapot often seen in many 3D modeling applications is called what?
- 1. Pixar Teapot
- 2. Utah Teapot
- 3. 3D Teapot
- 4. Tennessee Teapot
+.rs is the top-level domain for what country?
+ 1. Rwanda
+ 2. Russia
+ 3. Serbia
+ 4. Romania
 
 <details>
   <summary>Answer</summary>
-  Utah Teapot
+  Serbia
 </details>
 
 
