@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I ate a clock yesterday. It was so time consuming.
+I asked a frenchman if he played video games. He said "Wii"
 
 
 ## Daily Trivia
 
-What was the first Android version specifically optimized for tablets?
- 1. Froyo
- 2. Honeycomb
- 3. Eclair
- 4. Marshmellow
+Approximately how many Apple I personal computers were created?
+ 1. 100
+ 2. 500
+ 3. 200
+ 4. 1000
 
 <details>
   <summary>Answer</summary>
-  Honeycomb
+  200
 </details>
 
 
