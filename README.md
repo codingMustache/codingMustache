@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why don’t skeletons ever go trick or treating? Because they have nobody to go with.
+Parallel lines have so much in common. It’s a shame they’ll never meet.
 
 
 ## Daily Trivia
 
-What major programming language does Unreal Engine 4 use?
- 1. C++
- 2. ECMAScript
- 3. C#
- 4. Assembly
+On which computer hardware device is the BIOS chip located?
+ 1. Central Processing Unit
+ 2. Graphics Processing Unit
+ 3. Hard Disk Drive
+ 4. Motherboard
 
 <details>
   <summary>Answer</summary>
-  C++
+  Motherboard
 </details>
 
 
