@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Conjunctivitis.com – now that’s a site for sore eyes.
+Why does Waldo only wear stripes? Because he doesn't want to be spotted.
 
 
 ## Daily Trivia
 
-Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
- 1. Puma
- 2. Cheetah
- 3. Tiger
- 4. Leopard
+What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
+ 1. Heat Vent
+ 2. Heat Sink
+ 3. Temperature Decipator
+ 4. CPU Vent
 
 <details>
   <summary>Answer</summary>
-  Cheetah
+  Heat Sink
 </details>
 
 
