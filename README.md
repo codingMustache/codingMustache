@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why is it so windy inside an arena? All those fans.
+I met this girl on a dating site and, I don't know, we just clicked.
 
 
 ## Daily Trivia
 
-All of the following programs are classified as raster graphics editors EXCEPT:
- 1. Inkscape
- 2. Adobe Photoshop
- 3. GIMP
- 4. Paint.NET
+What is the most preferred image format used for logos in the Wikimedia database?
+ 1. .svg
+ 2. .gif
+ 3. .jpeg
+ 4. .png
 
 <details>
   <summary>Answer</summary>
-  Inkscape
+  .svg
 </details>
 
 
