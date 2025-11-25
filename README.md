@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The first time I got a universal remote control I thought to myself, "This changes everything"
+You know that cemetery up the road? People are dying to get in there.
 
 
 ## Daily Trivia
 
-Which programming language was developed by Sun Microsystems in 1995?
- 1. Python
- 2. Solaris OS
- 3. C++
- 4. Java
+The name of technology company HP stands for what?
+ 1. Hellman-Pohl
+ 2. Hewlett-Packard
+ 3. Howard Packmann
+ 4. Husker-Pollosk
 
 <details>
   <summary>Answer</summary>
-  Java
+  Hewlett-Packard
 </details>
 
 
