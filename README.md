@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is a witch's favorite subject in school? Spelling!
+What's the difference between roast beef and pea soup. Anyone can roast beef, but nobody can pee soup.
 
 
 ## Daily Trivia
 
-Dutch computer scientist Mark Overmars is known for creating which game development engine?
- 1. Game Maker
- 2. Stencyl
- 3. Construct
- 4. Torque 2D
+What does GHz stand for?
+ 1. Gigahotz
+ 2. Gigahertz
+ 3. Gigahatz
+ 4. Gigahetz
 
 <details>
   <summary>Answer</summary>
-  Game Maker
+  Gigahertz
 </details>
 
 
