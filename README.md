@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Parallel lines have so much in common. It’s a shame they’ll never meet.
+Every night at 11:11, I make a wish that someone will come fix my broken clock.
 
 
 ## Daily Trivia
 
-On which computer hardware device is the BIOS chip located?
- 1. Central Processing Unit
- 2. Graphics Processing Unit
- 3. Hard Disk Drive
- 4. Motherboard
+What is the name of Layer 7 of the OSI model?
+ 1. Session
+ 2. Network
+ 3. Application
+ 4. Present
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  Application
 </details>
 
 
