@@ -4,20 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A steak pun is a rare medium well done.
+Doctor: Do you want to hear the good news or the bad news?
+Patient: Good news please.
+Doctor: we're naming a disease after you.
 
 
 ## Daily Trivia
 
-Whistler was the codename of this Microsoft Operating System.
- 1. Windows 7
- 2. Windows 95
- 3. Windows 2000
- 4. Windows XP
+According to the International System of Units, how many bytes are in a kilobyte of RAM?
+ 1. 500
+ 2. 1024
+ 3. 1000
+ 4. 512
 
 <details>
   <summary>Answer</summary>
-  Windows XP
+  1000
 </details>
 
 
