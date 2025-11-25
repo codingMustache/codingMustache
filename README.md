@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the left eye say to the right eye? Between us, something smells!
+When Dad drops a pea off of his plate ‘oh dear I’ve pee’d on the table!
 
 
 ## Daily Trivia
 
-If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
- 1. Python
- 2. Binary
- 3. JavaScript
- 4. C++
+In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
+ 1. printf(&quot;Hello World&quot;)
+ 2. echo &quot;Hello World&quot;
+ 3. print(&quot;Hello World&quot;)
+ 4. console.log(&quot;Hello World&quot;)
 
 <details>
   <summary>Answer</summary>
-  Binary
+  print(&quot;Hello World&quot;)
 </details>
 
 
