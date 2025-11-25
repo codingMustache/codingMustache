@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Whats a penguins favorite relative? Aunt Arctica.
+What is the best way to carve?
+Whittle by whittle.
 
 
 ## Daily Trivia
 
-America Online (AOL) started out as which of these online service providers?
- 1. CompuServe
- 2. Prodigy
- 3. GEnie
- 4. Quantum Link
+What was the first commerically available computer processor?
+ 1. Intel 4004
+ 2. AMD AM386
+ 3. TMS 1000
+ 4. Intel 486SX
 
 <details>
   <summary>Answer</summary>
-  Quantum Link
+  Intel 4004
 </details>
 
 
