@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the chicken get a penalty? For fowl play.
+What cheese can never be yours? Nacho cheese.
 
 
 ## Daily Trivia
 
-In web design, what does CSS stand for?
- 1. Corrective Style Sheet
- 2. Cascading Style Sheet
- 3. Counter Strike: Source
- 4. Computer Style Sheet
+Dutch computer scientist Mark Overmars is known for creating which game development engine?
+ 1. Stencyl
+ 2. Construct
+ 3. Torque 2D
+ 4. Game Maker
 
 <details>
   <summary>Answer</summary>
-  Cascading Style Sheet
+  Game Maker
 </details>
 
 
