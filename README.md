@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It’s hard to explain puns to kleptomaniacs, because they take everything literally.
+What do vegetarian zombies eat? Grrrrrainnnnnssss.
 
 
 ## Daily Trivia
 
-What is the name of the default theme that is installed with Windows XP?
- 1. Neptune
- 2. Luna
- 3. Bliss
- 4. Whistler
+When did the online streaming service &quot;Mixer&quot; launch?
+ 1. 2013
+ 2. 2009
+ 3. 2011
+ 4. 2016
 
 <details>
   <summary>Answer</summary>
-  Luna
+  2016
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **2 days** since this server shutdown
+Its been **3 days** since this server shutdown
