@@ -4,21 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is the best way to carve?
-Whittle by whittle.
+What's large, grey, and doesn't matter?
+An irrelephant.
+
 
 
 ## Daily Trivia
 
-What was the first commerically available computer processor?
- 1. Intel 4004
- 2. AMD AM386
- 3. TMS 1000
- 4. Intel 486SX
+Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
+ 1. Cherry MX Black
+ 2. Cherry MX Red
+ 3. Cherry MX Brown
+ 4. Cherry MX Blue
 
 <details>
   <summary>Answer</summary>
-  Intel 4004
+  Cherry MX Blue
 </details>
 
 
