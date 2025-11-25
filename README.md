@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you steal a coat? You jacket.
+I tried to write a chemistry joke, but could never get a reaction.
 
 
 ## Daily Trivia
 
-Which one of these is not an official development name for a Ubuntu release?
- 1. Mystic Mansion
- 2. Wily Werewolf
- 3. Utopic Unicorn
- 4. Trusty Tahr
+What is the domain name for the country Tuvalu?
+ 1. .tu
+ 2. .tt
+ 3. .tl
+ 4. .tv
 
 <details>
   <summary>Answer</summary>
-  Mystic Mansion
+  .tv
 </details>
 
 
