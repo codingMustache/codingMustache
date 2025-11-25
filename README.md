@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-You know what they say about cliffhangers...
+Why did the burglar hang his mugshot on the wall? To prove that he was framed!
 
 
 ## Daily Trivia
 
-What is the most preferred image format used for logos in the Wikimedia database?
- 1. .svg
- 2. .gif
- 3. .jpeg
- 4. .png
+.at is the top-level domain for what country?
+ 1. Austria
+ 2. Angola
+ 3. Australia
+ 4. Argentina
 
 <details>
   <summary>Answer</summary>
-  .svg
+  Austria
 </details>
 
 
