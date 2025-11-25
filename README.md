@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the difference between a poorly dressed man on a tricycle and a well dressed man on a bicycle? Attire.
+I was thinking about moving to Moscow but there is no point Russian into things.
 
 
 ## Daily Trivia
 
-Which operating system was released first?
- 1. Mac OS
- 2. Windows
- 3. Linux
- 4. OS/2
+What does CPU stand for?
+ 1. Central Process Unit
+ 2. Computer Personal Unit
+ 3. Central Processing Unit
+ 4. Central Processor Unit
 
 <details>
   <summary>Answer</summary>
-  Mac OS
+  Central Processing Unit
 </details>
 
 
