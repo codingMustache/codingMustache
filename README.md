@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A bartender broke up with her boyfriend, but he kept asking her for another shot.
+Why don’t skeletons ever go trick or treating? Because they have nobody to go with.
 
 
 ## Daily Trivia
 
-Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
- 1. 32.0 kHz
- 2. 1.5 MHz
- 3. 20.5 kHz
- 4. 44.1 kHz
+What major programming language does Unreal Engine 4 use?
+ 1. C++
+ 2. ECMAScript
+ 3. C#
+ 4. Assembly
 
 <details>
   <summary>Answer</summary>
-  44.1 kHz
+  C++
 </details>
 
 
