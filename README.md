@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Every night at 11:11, I make a wish that someone will come fix my broken clock.
+What is a witch's favorite subject in school? Spelling!
 
 
 ## Daily Trivia
 
-What is the name of Layer 7 of the OSI model?
- 1. Session
- 2. Network
- 3. Application
- 4. Present
+Dutch computer scientist Mark Overmars is known for creating which game development engine?
+ 1. Game Maker
+ 2. Stencyl
+ 3. Construct
+ 4. Torque 2D
 
 <details>
   <summary>Answer</summary>
-  Application
+  Game Maker
 </details>
 
 
