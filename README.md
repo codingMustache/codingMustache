@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why does Waldo only wear stripes? Because he doesn't want to be spotted.
+How do you steal a coat? You jacket.
 
 
 ## Daily Trivia
 
-What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
- 1. Heat Vent
- 2. Heat Sink
- 3. Temperature Decipator
- 4. CPU Vent
+Which one of these is not an official development name for a Ubuntu release?
+ 1. Mystic Mansion
+ 2. Wily Werewolf
+ 3. Utopic Unicorn
+ 4. Trusty Tahr
 
 <details>
   <summary>Answer</summary>
-  Heat Sink
+  Mystic Mansion
 </details>
 
 
