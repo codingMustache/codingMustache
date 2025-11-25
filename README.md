@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Q: What did the spaghetti say to the other spaghetti?
-A: Pasta la vista, baby!
+What does a clock do when it's hungry? It goes back four seconds!
 
 
 ## Daily Trivia
 
-What does the acronym CDN stand for in terms of networking?
- 1. Content Distribution Network
- 2. Computational Data Network
- 3. Compressed Data Network
- 4. Content Delivery Network
+What is the most preferred image format used for logos in the Wikimedia database?
+ 1. .jpeg
+ 2. .gif
+ 3. .svg
+ 4. .png
 
 <details>
   <summary>Answer</summary>
-  Content Delivery Network
+  .svg
 </details>
 
 
