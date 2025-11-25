@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a cow with two legs? Lean beef.
+Why did the chicken get a penalty? For fowl play.
 
 
 ## Daily Trivia
 
-Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
- 1. Shellshock
- 2. Heartbleed
- 3. Corrupted Blood
- 4. Shellscript
+In web design, what does CSS stand for?
+ 1. Corrective Style Sheet
+ 2. Cascading Style Sheet
+ 3. Counter Strike: Source
+ 4. Computer Style Sheet
 
 <details>
   <summary>Answer</summary>
-  Heartbleed
+  Cascading Style Sheet
 </details>
 
 
