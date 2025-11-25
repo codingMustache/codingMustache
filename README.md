@@ -4,22 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's large, grey, and doesn't matter?
-An irrelephant.
-
+Q: What did the spaghetti say to the other spaghetti?
+A: Pasta la vista, baby!
 
 
 ## Daily Trivia
 
-Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
- 1. Cherry MX Black
- 2. Cherry MX Red
- 3. Cherry MX Brown
- 4. Cherry MX Blue
+What does the acronym CDN stand for in terms of networking?
+ 1. Content Distribution Network
+ 2. Computational Data Network
+ 3. Compressed Data Network
+ 4. Content Delivery Network
 
 <details>
   <summary>Answer</summary>
-  Cherry MX Blue
+  Content Delivery Network
 </details>
 
 
