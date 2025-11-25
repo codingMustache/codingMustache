@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do you take someone who’s been injured in a peek-a-boo accident? To the I.C.U.
+A bartender broke up with her boyfriend, but he kept asking her for another shot.
 
 
 ## Daily Trivia
 
-What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
- 1. ADPCM Sampler
- 2. PCM Sampler
- 3. Programmable Sound Generator (PSG)
- 4. FM Synthesizer
+Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
+ 1. 32.0 kHz
+ 2. 1.5 MHz
+ 3. 20.5 kHz
+ 4. 44.1 kHz
 
 <details>
   <summary>Answer</summary>
-  ADPCM Sampler
+  44.1 kHz
 </details>
 
 
