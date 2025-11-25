@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How does a dyslexic poet write? Inverse.
+Scientists finally did a study on forks. It's about tine!
 
 
 ## Daily Trivia
 
-On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
- 1. Asterisk
- 2. Exclamation Mark
- 3. Percent Sign
- 4. Dollar Sign
+Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
+ 1. 32.0 kHz
+ 2. 1.5 MHz
+ 3. 44.1 kHz
+ 4. 20.5 kHz
 
 <details>
   <summary>Answer</summary>
-  Exclamation Mark
+  44.1 kHz
 </details>
 
 
