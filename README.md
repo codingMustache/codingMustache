@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I went to the zoo yesterday and saw a baguette in a cage. It was bread in captivity.
+How much does a hipster weigh? An instagram.
 
 
 ## Daily Trivia
 
-What is the main CPU is the Sega Mega Drive / Sega Genesis?
- 1. Motorola 68000
- 2. Intel 8088
- 3. Yamaha YM2612
- 4. Zilog Z80
+Which data structure does FILO apply to?
+ 1. Queue
+ 2. Heap
+ 3. Stack
+ 4. Tree
 
 <details>
   <summary>Answer</summary>
-  Motorola 68000
+  Stack
 </details>
 
 
