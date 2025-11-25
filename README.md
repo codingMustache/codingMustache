@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the burglar hang his mugshot on the wall? To prove that he was framed!
+I've got a joke about vegetables for you... but it's a bit corny.
 
 
 ## Daily Trivia
 
-.at is the top-level domain for what country?
- 1. Austria
- 2. Angola
- 3. Australia
- 4. Argentina
+Unix Time is defined as the number of seconds that have elapsed since when?
+ 1. Midnight, January 1, 1970
+ 2. Midnight, July 4, 1976
+ 3. Midnight, July 4, 1980
+ 4. Midnight on the creator of Unix&#039;s birthday
 
 <details>
   <summary>Answer</summary>
-  Austria
+  Midnight, January 1, 1970
 </details>
 
 
