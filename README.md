@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A man got hit in the head with a can of Coke, but he was alright because it was a soft drink.
+What did the left eye say to the right eye? Between us, something smells!
 
 
 ## Daily Trivia
 
-The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
- 1. Fiji
- 2. Tuvalu
- 3. Marshall Islands
- 4. Micronesia
+If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
+ 1. Python
+ 2. Binary
+ 3. JavaScript
+ 4. C++
 
 <details>
   <summary>Answer</summary>
-  Micronesia
+  Binary
 </details>
 
 
