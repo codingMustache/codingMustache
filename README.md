@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the difference between roast beef and pea soup. Anyone can roast beef, but nobody can pee soup.
+What's the difference between a poorly dressed man on a tricycle and a well dressed man on a bicycle? Attire.
 
 
 ## Daily Trivia
 
-What does GHz stand for?
- 1. Gigahotz
- 2. Gigahertz
- 3. Gigahatz
- 4. Gigahetz
+Which operating system was released first?
+ 1. Mac OS
+ 2. Windows
+ 3. Linux
+ 4. OS/2
 
 <details>
   <summary>Answer</summary>
-  Gigahertz
+  Mac OS
 </details>
 
 
