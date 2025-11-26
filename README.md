@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I saw a documentary on TV last night about how they put ships together.  It was rivetting.
+What does a pirate pay for his corn? A buccaneer!
 
 
 ## Daily Trivia
 
-What is the name of the default theme that is installed with Windows XP?
- 1. Bliss
- 2. Whistler
- 3. Luna
- 4. Neptune
+Which computer hardware device provides an interface for all other connected devices to communicate?
+ 1. Random Access Memory
+ 2. Hard Disk Drive
+ 3. Central Processing Unit
+ 4. Motherboard
 
 <details>
   <summary>Answer</summary>
-  Luna
+  Motherboard
 </details>
 
 
