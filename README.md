@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you get when you cross a chicken with a skunk? A fowl smell!
+Why doesn't the Chimney-Sweep call out sick from work? Because he's used to working with a flue.
 
 
 ## Daily Trivia
 
-What was the first commerically available computer processor?
- 1. Intel 486SX
- 2. TMS 1000
- 3. AMD AM386
- 4. Intel 4004
+What major programming language does Unreal Engine 4 use?
+ 1. Assembly
+ 2. C++
+ 3. C#
+ 4. ECMAScript
 
 <details>
   <summary>Answer</summary>
-  Intel 4004
+  C++
 </details>
 
 
