@@ -4,20 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Conjunctivitis.com – now that’s a site for sore eyes.
+ I never wanted to believe that my Dad was stealing from his job as a road worker. But when I got home, all the signs were there.
+
+
 
 
 ## Daily Trivia
 
-What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
- 1. Session
- 2. Network
- 3. Transport
- 4. Data link
+On Twitter, what was the original character limit for a Tweet?
+ 1. 140
+ 2. 100
+ 3. 160
+ 4. 120
 
 <details>
   <summary>Answer</summary>
-  Transport
+  140
 </details>
 
 
