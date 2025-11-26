@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many tickles does it take to tickle an octopus? Ten-tickles!
+Why do bananas have to put on sunscreen before they go to the beach? Because they might peel!
 
 
 ## Daily Trivia
 
-What is the domain name for the country Tuvalu?
- 1. .tu
- 2. .tt
- 3. .tl
- 4. .tv
+What does the term MIME stand for, in regards to computing?
+ 1. Mail Internet Mail Exchange
+ 2. Multipurpose Interleave Mail Exchange
+ 3. Mail Interleave Method Exchange
+ 4. Multipurpose Internet Mail Extensions
 
 <details>
   <summary>Answer</summary>
-  .tv
+  Multipurpose Internet Mail Extensions
 </details>
 
 
