@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I went to a book store and asked the saleswoman where the Self Help section was, she said if she told me it would defeat the purpose.
+What's the difference between roast beef and pea soup. Anyone can roast beef, but nobody can pee soup.
 
 
 ## Daily Trivia
 
-Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
- 1. Clipper Chip
- 2. Nautilus
- 3. Skipjack
- 4. Enigma Machine
+The teapot often seen in many 3D modeling applications is called what?
+ 1. Tennessee Teapot
+ 2. 3D Teapot
+ 3. Pixar Teapot
+ 4. Utah Teapot
 
 <details>
   <summary>Answer</summary>
-  Clipper Chip
+  Utah Teapot
 </details>
 
 
