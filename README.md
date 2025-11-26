@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do bananas have to put on sunscreen before they go to the beach? Because they might peel!
+What happens to a frog's car when it breaks down? It gets toad.
 
 
 ## Daily Trivia
 
-What does the term MIME stand for, in regards to computing?
- 1. Mail Internet Mail Exchange
- 2. Multipurpose Interleave Mail Exchange
- 3. Mail Interleave Method Exchange
- 4. Multipurpose Internet Mail Extensions
+How many values can a single byte represent?
+ 1. 1
+ 2. 8
+ 3. 256
+ 4. 1024
 
 <details>
   <summary>Answer</summary>
-  Multipurpose Internet Mail Extensions
+  256
 </details>
 
 
