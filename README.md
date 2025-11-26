@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I just wrote a book on reverse psychology. Do not read it!
+I used to be a banker, but I lost interest.
 
 
 ## Daily Trivia
 
-Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
- 1. Cherry MX Blue
- 2. Cherry MX Brown
- 3. Cherry MX Red
- 4. Cherry MX Black
+Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
+ 1. Shellscript
+ 2. Shellshock
+ 3. Heartbleed
+ 4. Corrupted Blood
 
 <details>
   <summary>Answer</summary>
-  Cherry MX Blue
+  Heartbleed
 </details>
 
 
