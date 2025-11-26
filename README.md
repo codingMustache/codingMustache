@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-No matter how kind you are, German children are kinder.
+I saw a documentary on TV last night about how they put ships together.  It was rivetting.
 
 
 ## Daily Trivia
 
-In web design, what does CSS stand for?
- 1. Computer Style Sheet
- 2. Cascading Style Sheet
- 3. Corrective Style Sheet
- 4. Counter Strike: Source
+What is the name of the default theme that is installed with Windows XP?
+ 1. Bliss
+ 2. Whistler
+ 3. Luna
+ 4. Neptune
 
 <details>
   <summary>Answer</summary>
-  Cascading Style Sheet
+  Luna
 </details>
 
 
