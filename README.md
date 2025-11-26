@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why doesn't the Chimney-Sweep call out sick from work? Because he's used to working with a flue.
+I just wrote a book on reverse psychology. Do not read it!
 
 
 ## Daily Trivia
 
-What major programming language does Unreal Engine 4 use?
- 1. Assembly
- 2. C++
- 3. C#
- 4. ECMAScript
+Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
+ 1. Cherry MX Blue
+ 2. Cherry MX Brown
+ 3. Cherry MX Red
+ 4. Cherry MX Black
 
 <details>
   <summary>Answer</summary>
-  C++
+  Cherry MX Blue
 </details>
 
 
