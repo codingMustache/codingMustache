@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do hamburgers go to dance? The meat-ball.
+I'm practicing for a bug-eating contest and I've got butterflies in my stomach.
 
 
 ## Daily Trivia
 
-The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
- 1. Acorn Computers
- 2. Amstrad PLC
- 3. Sinclair Research
- 4. Commodore Business Machines
+The acronym &quot;RIP&quot; stands for which of these?
+ 1. Runtime Instance Processes
+ 2. Routing Information Protocol
+ 3. Routine Inspection Protocol
+ 4. Regular Interval Processes
 
 <details>
   <summary>Answer</summary>
-  Acorn Computers
+  Routing Information Protocol
 </details>
 
 
