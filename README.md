@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the difference between roast beef and pea soup. Anyone can roast beef, but nobody can pee soup.
+Why didn’t the orange win the race? It ran out of juice.
 
 
 ## Daily Trivia
 
-The teapot often seen in many 3D modeling applications is called what?
- 1. Tennessee Teapot
- 2. 3D Teapot
- 3. Pixar Teapot
- 4. Utah Teapot
+In computing terms, typically what does CLI stand for?
+ 1. Common Language Input
+ 2. Control Line Interface
+ 3. Common Language Interface
+ 4. Command Line Interface
 
 <details>
   <summary>Answer</summary>
-  Utah Teapot
+  Command Line Interface
 </details>
 
 
