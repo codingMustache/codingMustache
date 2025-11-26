@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What does a clock do when it's hungry? It goes back four seconds!
+I’m on a whiskey diet. I’ve lost three days already.
 
 
 ## Daily Trivia
 
-What is the most preferred image format used for logos in the Wikimedia database?
- 1. .jpeg
- 2. .gif
- 3. .svg
- 4. .png
+How many kilobytes in one gigabyte (in decimal)?
+ 1. 1000000
+ 2. 1024
+ 3. 1048576
+ 4. 1000
 
 <details>
   <summary>Answer</summary>
-  .svg
+  1000000
 </details>
 
 
