@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to be a banker, but I lost interest.
+No matter how kind you are, German children are kinder.
 
 
 ## Daily Trivia
 
-Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
- 1. Shellscript
- 2. Shellshock
- 3. Heartbleed
- 4. Corrupted Blood
+In web design, what does CSS stand for?
+ 1. Computer Style Sheet
+ 2. Cascading Style Sheet
+ 3. Corrective Style Sheet
+ 4. Counter Strike: Source
 
 <details>
   <summary>Answer</summary>
-  Heartbleed
+  Cascading Style Sheet
 </details>
 
 
