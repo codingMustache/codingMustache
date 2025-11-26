@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-what do you call a dog that can do magic tricks? a labracadabrador
+What did the scarf say to the hat? You go on ahead, I am going to hang around a bit longer.
 
 
 ## Daily Trivia
 
-What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
- 1. FM Synthesizer
- 2. Programmable Sound Generator (PSG)
- 3. PCM Sampler
- 4. ADPCM Sampler
+What was the first commerically available computer processor?
+ 1. TMS 1000
+ 2. Intel 4004
+ 3. AMD AM386
+ 4. Intel 486SX
 
 <details>
   <summary>Answer</summary>
-  ADPCM Sampler
+  Intel 4004
 </details>
 
 
