@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you get two whales in a car? Start in England and drive West.
+Conjunctivitis.com – now that’s a site for sore eyes.
 
 
 ## Daily Trivia
 
-What does LTS stand for in the software market?
- 1. Long Taco Service
- 2. Ludicrous Transfer Speed
- 3. Long Term Support
- 4. Ludicrous Turbo Speed
+What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
+ 1. Session
+ 2. Network
+ 3. Transport
+ 4. Data link
 
 <details>
   <summary>Answer</summary>
-  Long Term Support
+  Transport
 </details>
 
 
