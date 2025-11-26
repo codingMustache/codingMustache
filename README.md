@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the teddy bear say “no” to dessert? Because she was stuffed.
+What concert costs only 45 cents? 50 cent featuring Nickelback.
 
 
 ## Daily Trivia
 
-Which of these names was an actual codename for a cancelled Microsoft project?
- 1. Neptune
- 2. Saturn
- 3. Pollux
- 4. Enceladus
+In the server hosting industry IaaS stands for...
+ 1. Internet and a Server
+ 2. Infrastructure as a Service
+ 3. Internet as a Service
+ 4. Infrastructure as a Server
 
 <details>
   <summary>Answer</summary>
-  Neptune
+  Infrastructure as a Service
 </details>
 
 
