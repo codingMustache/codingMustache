@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I made a playlist for hiking. It has music from Peanuts, The Cranberries, and Eminem. I call it my Trail Mix.
+I got fired from a florist, apparently I took too many leaves.
 
 
 ## Daily Trivia
 
-Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
- 1. Eight Years
- 2. Two Years
- 3. Year
- 4. Four Years
+Which operating system was released first?
+ 1. Mac OS
+ 2. OS/2
+ 3. Linux
+ 4. Windows
 
 <details>
   <summary>Answer</summary>
-  Year
+  Mac OS
 </details>
 
 
