@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My wife is on a tropical fruit diet, the house is full of stuff. It is enough to make a mango crazy.
+what do you call a dog that can do magic tricks? a labracadabrador
 
 
 ## Daily Trivia
 
-The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
- 1. HD Graphics 700 
- 2. HD Graphics 600
- 3. HD Graphics 7000
- 4. HD Graphics 500
+What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
+ 1. FM Synthesizer
+ 2. Programmable Sound Generator (PSG)
+ 3. PCM Sampler
+ 4. ADPCM Sampler
 
 <details>
   <summary>Answer</summary>
-  HD Graphics 500
+  ADPCM Sampler
 </details>
 
 
