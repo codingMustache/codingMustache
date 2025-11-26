@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call an old snowman? Water.
+What is a tornado's favorite game to play? Twister!
 
 
 ## Daily Trivia
 
-What is the most preferred image format used for logos in the Wikimedia database?
- 1. .png
- 2. .jpeg
- 3. .svg
- 4. .gif
+Which of the following computer components can be built using only NAND gates?
+ 1. ALU
+ 2. Register
+ 3. RAM
+ 4. CPU
 
 <details>
   <summary>Answer</summary>
-  .svg
+  ALU
 </details>
 
 
