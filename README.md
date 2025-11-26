@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-New atoms frequently lose electrons when they fail to keep an ion them.
+I met this girl on a dating site and, I don't know, we just clicked.
 
 
 ## Daily Trivia
 
-What does CPU stand for?
- 1. Central Process Unit
- 2. Central Processing Unit
- 3. Computer Personal Unit
- 4. Central Processor Unit
+What was the name given to Android 4.3?
+ 1. Froyo
+ 2. Lollipop
+ 3. Jelly Bean
+ 4. Nutella
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  Jelly Bean
 </details>
 
 
