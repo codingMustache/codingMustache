@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why didn’t the orange win the race? It ran out of juice.
+Why was ten scared of seven? Because seven ate nine.
 
 
 ## Daily Trivia
 
-In computing terms, typically what does CLI stand for?
- 1. Common Language Input
- 2. Control Line Interface
- 3. Common Language Interface
- 4. Command Line Interface
+In programming, the ternary operator is mostly defined with what symbol(s)?
+ 1. if then
+ 2. ??
+ 3. ?:
+ 4. ?
 
 <details>
   <summary>Answer</summary>
-  Command Line Interface
+  ?:
 </details>
 
 
