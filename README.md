@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The other day I was listening to a song about superglue, it’s been stuck in my head ever since.
+I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take.
 
 
 ## Daily Trivia
 
-On Twitter, what was the original character limit for a Tweet?
- 1. 140
- 2. 100
- 3. 160
- 4. 120
+In computing, what does LAN stand for?
+ 1. Light Access Node
+ 2. Local Area Network
+ 3. Land Address Navigation
+ 4. Long Antenna Node
 
 <details>
   <summary>Answer</summary>
-  140
+  Local Area Network
 </details>
 
 
