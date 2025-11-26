@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was ten scared of seven? Because seven ate nine.
+Where do hamburgers go to dance? The meat-ball.
 
 
 ## Daily Trivia
 
-In programming, the ternary operator is mostly defined with what symbol(s)?
- 1. if then
- 2. ??
- 3. ?:
- 4. ?
+The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
+ 1. Acorn Computers
+ 2. Amstrad PLC
+ 3. Sinclair Research
+ 4. Commodore Business Machines
 
 <details>
   <summary>Answer</summary>
-  ?:
+  Acorn Computers
 </details>
 
 
