@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-In the news a courtroom artist was arrested today, I'm not surprised, he always seemed sketchy.
+Why didn’t the skeleton cross the road? Because he had no guts.
 
 
 ## Daily Trivia
 
-What is the most preferred image format used for logos in the Wikimedia database?
- 1. .gif
- 2. .jpeg
- 3. .svg
- 4. .png
+Lenovo acquired IBM&#039;s personal computer division, including the ThinkPad line of laptops and tablets, in what year?
+ 1. 1999
+ 2. 2005
+ 3. 2002
+ 4. 2008
 
 <details>
   <summary>Answer</summary>
-  .svg
+  2005
 </details>
 
 
