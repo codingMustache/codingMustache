@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I'm practicing for a bug-eating contest and I've got butterflies in my stomach.
+What do you get when you cross a chicken with a skunk? A fowl smell!
 
 
 ## Daily Trivia
 
-The acronym &quot;RIP&quot; stands for which of these?
- 1. Runtime Instance Processes
- 2. Routing Information Protocol
- 3. Routine Inspection Protocol
- 4. Regular Interval Processes
+What was the first commerically available computer processor?
+ 1. Intel 486SX
+ 2. TMS 1000
+ 3. AMD AM386
+ 4. Intel 4004
 
 <details>
   <summary>Answer</summary>
-  Routing Information Protocol
+  Intel 4004
 </details>
 
 
