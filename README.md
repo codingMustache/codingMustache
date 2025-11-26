@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Somebody stole my Microsoft Office and they're going to pay - you have my Word.
+Why was the robot angry? Because someone kept pressing his buttons!
 
 
 ## Daily Trivia
 
-What programming language was GitHub written in?
- 1. Ruby
- 2. Lua
- 3. Python
- 4. JavaScript
+HTML is what type of language?
+ 1. Macro Language
+ 2. Markup Language
+ 3. Programming Language
+ 4. Scripting Language
 
 <details>
   <summary>Answer</summary>
-  Ruby
+  Markup Language
 </details>
 
 
