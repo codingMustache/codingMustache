@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call cheese by itself? Provolone.
+In the news a courtroom artist was arrested today, I'm not surprised, he always seemed sketchy.
 
 
 ## Daily Trivia
 
-Which operating system was released first?
- 1. Mac OS
- 2. Windows
- 3. Linux
- 4. OS/2
+What is the most preferred image format used for logos in the Wikimedia database?
+ 1. .gif
+ 2. .jpeg
+ 3. .svg
+ 4. .png
 
 <details>
   <summary>Answer</summary>
-  Mac OS
+  .svg
 </details>
 
 
