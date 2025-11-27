@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do hamburgers go to dance? The meat-ball.
+What do you call two guys hanging out by your window? Kurt & Rod.
 
 
 ## Daily Trivia
 
-Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
- 1. Corrupted Blood
- 2. Shellshock
- 3. Shellscript
- 4. Heartbleed
+What was the name given to Android 4.3?
+ 1. Jelly Bean
+ 2. Lollipop
+ 3. Nutella
+ 4. Froyo
 
 <details>
   <summary>Answer</summary>
-  Heartbleed
+  Jelly Bean
 </details>
 
 
