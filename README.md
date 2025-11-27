@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A cannibal is someone who is fed up with people.
+How do you fix a broken pizza? With tomato paste.
 
 
 ## Daily Trivia
 
-What does GHz stand for?
- 1. Gigahotz
- 2. Gigahertz
- 3. Gigahetz
- 4. Gigahatz
+In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
+ 1. &lt;slide&gt;&lt;/slide&gt;
+ 2. &lt;marquee&gt;&lt;/marquee&gt;
+ 3. &lt;move&gt;&lt;/move&gt;
+ 4. &lt;scroll&gt;&lt;/scroll&gt;
 
 <details>
   <summary>Answer</summary>
-  Gigahertz
+  &lt;marquee&gt;&lt;/marquee&gt;
 </details>
 
 
