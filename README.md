@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A quick shoutout to all of the sidewalks out there... Thanks for keeping me off the streets.
+I wear a stethoscope so that in a medical emergency I can teach people a valuable lesson about assumptions.
 
 
 ## Daily Trivia
 
-In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
- 1. Final
- 2. Public
- 3. Private
- 4. Static
+What is the code name for the mobile operating system Android 7.0?
+ 1. Nougat
+ 2. Jelly Bean
+ 3. Ice Cream Sandwich
+ 4. Marshmallow
 
 <details>
   <summary>Answer</summary>
-  Final
+  Nougat
 </details>
 
 
