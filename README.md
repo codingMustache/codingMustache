@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why can't a bicycle stand on its own? It's two-tired.
+I gave all my dead batteries away today, free of charge.
 
 
 ## Daily Trivia
 
-In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
- 1. center
- 2. absolute
- 3. static
- 4. relative
+What was the name given to Android 4.3?
+ 1. Jelly Bean
+ 2. Nutella
+ 3. Froyo
+ 4. Lollipop
 
 <details>
   <summary>Answer</summary>
-  center
+  Jelly Bean
 </details>
 
 
