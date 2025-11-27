@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A man is washing the car with his son. The son asks...... "Dad, can’t you just use a sponge?"
+What did the shy pebble wish for? That she was a little boulder.
 
 
 ## Daily Trivia
 
-What major programming language does Unreal Engine 4 use?
- 1. Assembly
- 2. C#
- 3. ECMAScript
- 4. C++
+Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
+ 1. Four Years
+ 2. Two Years
+ 3. Eight Years
+ 4. Year
 
 <details>
   <summary>Answer</summary>
-  C++
+  Year
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **4 days** since this server shutdown
+Its been **5 days** since this server shutdown
