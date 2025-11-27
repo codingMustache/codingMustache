@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-In the news a courtroom artist was arrested today, I'm not surprised, he always seemed sketchy.
+What do you call a cow with no legs? Ground beef.
 
 
 ## Daily Trivia
 
-What is the most preferred image format used for logos in the Wikimedia database?
- 1. .svg
- 2. .jpeg
- 3. .png
- 4. .gif
+Which of the following languages is used as a scripting language in the Unity 3D game engine?
+ 1. C++
+ 2. Objective-C
+ 3. C#
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  .svg
+  C#
 </details>
 
 
