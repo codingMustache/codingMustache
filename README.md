@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A girl once asked me what my heart desired, apparently blood, oxygen and neural messages were all wrong answers
+A man is washing the car with his son. The son asks...... "Dad, can’t you just use a sponge?"
 
 
 ## Daily Trivia
 
-In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
- 1. Static
- 2. Private
- 3. Final
- 4. Public
+What major programming language does Unreal Engine 4 use?
+ 1. Assembly
+ 2. C#
+ 3. ECMAScript
+ 4. C++
 
 <details>
   <summary>Answer</summary>
-  Final
+  C++
 </details>
 
 
