@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are fish easy to weigh? Because they have their own scales.
+What did Yoda say when he saw himself in 4K? "HDMI"
 
 
 ## Daily Trivia
 
-What major programming language does Unreal Engine 4 use?
- 1. C++
- 2. Assembly
- 3. C#
- 4. ECMAScript
+What does AD stand for in relation to Windows Operating Systems? 
+ 1. Active Department
+ 2. Active Directory
+ 3. Automated Database
+ 4. Alternative Drive
 
 <details>
   <summary>Answer</summary>
-  C++
+  Active Directory
 </details>
 
 
