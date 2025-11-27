@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do hamburgers go to dance? The meat-ball.
+Have you heard of the band 1023MB? They haven't got a gig yet.
 
 
 ## Daily Trivia
 
-What does the acronym CDN stand for in terms of networking?
- 1. Compressed Data Network
- 2. Computational Data Network
- 3. Content Distribution Network
- 4. Content Delivery Network
+Who invented the &quot;Spanning Tree Protocol&quot;?
+ 1. Radia Perlman
+ 2. Michael Roberts
+ 3. Vint Cerf
+ 4. Paul Vixie
 
 <details>
   <summary>Answer</summary>
-  Content Delivery Network
+  Radia Perlman
 </details>
 
 
