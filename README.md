@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I’m only familiar with 25 letters in the English language. I don’t know why.
+The other day, my wife asked me to pass her lipstick but I accidentally passed her a glue stick. She still isn't talking to me.
 
 
 ## Daily Trivia
 
-Which operating system was released first?
- 1. Mac OS
- 2. Windows
- 3. Linux
- 4. OS/2
+Generally, which component of a computer draws the most power?
+ 1. Hard Drive
+ 2. Video Card
+ 3. Processor
+ 4. Power Supply
 
 <details>
   <summary>Answer</summary>
-  Mac OS
+  Video Card
 </details>
 
 
