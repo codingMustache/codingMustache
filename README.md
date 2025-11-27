@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How much does a hipster weigh? An instagram.
+An apple a day keeps the bullies away. If you throw it hard enough.
 
 
 ## Daily Trivia
 
-What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
- 1. Skylake
- 2. Broadwell
- 3. Sandy Bridge
- 4. Coffee Lake
+Which SQL keyword is used to fetch data from a database?
+ 1. INDEX
+ 2. SELECT
+ 3. EXEC
+ 4. VALUES
 
 <details>
   <summary>Answer</summary>
-  Coffee Lake
+  SELECT
 </details>
 
 
