@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I wear a stethoscope so that in a medical emergency I can teach people a valuable lesson about assumptions.
+Why are fish easy to weigh? Because they have their own scales.
 
 
 ## Daily Trivia
 
-What is the code name for the mobile operating system Android 7.0?
- 1. Nougat
- 2. Jelly Bean
- 3. Ice Cream Sandwich
- 4. Marshmallow
+What major programming language does Unreal Engine 4 use?
+ 1. C++
+ 2. Assembly
+ 3. C#
+ 4. ECMAScript
 
 <details>
   <summary>Answer</summary>
-  Nougat
+  C++
 </details>
 
 
