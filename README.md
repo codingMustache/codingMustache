@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where does Fonzie like to go for lunch? Chick-Fil-Eyyyyyyyy.
+A Sandwich walks into a bar, the bartender says “Sorry, we don’t serve food here”
 
 
 ## Daily Trivia
 
-What does the computer software acronym JVM stand for?
- 1. Java Visual Machine
- 2. Just Virtual Machine
- 3. Java Virtual Machine
- 4. Java Vendor Machine
+The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
+ 1. Sinclair Research
+ 2. Amstrad PLC
+ 3. Commodore Business Machines
+ 4. Acorn Computers
 
 <details>
   <summary>Answer</summary>
-  Java Virtual Machine
+  Acorn Computers
 </details>
 
 
