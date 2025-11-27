@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the Buffalo say to his little boy when he dropped him off at school? Bison.
+It's difficult to say what my wife does, she sells sea shells by the sea shore.
 
 
 ## Daily Trivia
 
-In computing terms, typically what does CLI stand for?
- 1. Common Language Input
- 2. Command Line Interface
- 3. Control Line Interface
- 4. Common Language Interface
+The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
+ 1. United States
+ 2. Germany
+ 3. China (People&#039;s Republic of)
+ 4. Taiwan
 
 <details>
   <summary>Answer</summary>
-  Command Line Interface
+  Taiwan
 </details>
 
 
