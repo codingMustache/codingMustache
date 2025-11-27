@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did Yoda say when he saw himself in 4K? "HDMI"
+I burned 2000 calories today, I left my food in the oven for too long.
 
 
 ## Daily Trivia
 
-What does AD stand for in relation to Windows Operating Systems? 
- 1. Active Department
- 2. Active Directory
- 3. Automated Database
- 4. Alternative Drive
+What does the International System of Quantities refer 1024 bytes as?
+ 1. Kylobyte
+ 2. Kilobyte
+ 3. Kelobyte
+ 4. Kibibyte
 
 <details>
   <summary>Answer</summary>
-  Active Directory
+  Kibibyte
 </details>
 
 
