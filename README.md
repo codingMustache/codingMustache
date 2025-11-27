@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I burned 2000 calories today, I left my food in the oven for too long.
+How much does a hipster weigh? An instagram.
 
 
 ## Daily Trivia
 
-What does the International System of Quantities refer 1024 bytes as?
- 1. Kylobyte
- 2. Kilobyte
- 3. Kelobyte
- 4. Kibibyte
+What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
+ 1. Skylake
+ 2. Broadwell
+ 3. Sandy Bridge
+ 4. Coffee Lake
 
 <details>
   <summary>Answer</summary>
-  Kibibyte
+  Coffee Lake
 </details>
 
 
