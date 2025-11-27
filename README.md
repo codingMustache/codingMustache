@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It's difficult to say what my wife does, she sells sea shells by the sea shore.
+A quick shoutout to all of the sidewalks out there... Thanks for keeping me off the streets.
 
 
 ## Daily Trivia
 
-The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
- 1. United States
- 2. Germany
- 3. China (People&#039;s Republic of)
- 4. Taiwan
+In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
+ 1. Final
+ 2. Public
+ 3. Private
+ 4. Static
 
 <details>
   <summary>Answer</summary>
-  Taiwan
+  Final
 </details>
 
 
