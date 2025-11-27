@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you know you should always take an extra pair of pants golfing? Just in case you get a hole in one.
+Why did the m&m go to school? Because it wanted to be a Smartie!
 
 
 ## Daily Trivia
 
-Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
- 1. eBay
- 2. Overstock
- 3. Shopify
- 4. Amazon
+Approximately how many Apple I personal computers were created?
+ 1. 100
+ 2. 500
+ 3. 1000
+ 4. 200
 
 <details>
   <summary>Answer</summary>
-  Amazon
+  200
 </details>
 
 
