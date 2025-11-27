@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The other day, my wife asked me to pass her lipstick but I accidentally passed her a glue stick. She still isn't talking to me.
+How do locomotives know where they're going? Lots of training
 
 
 ## Daily Trivia
 
-Generally, which component of a computer draws the most power?
- 1. Hard Drive
- 2. Video Card
- 3. Processor
- 4. Power Supply
+How many bytes are in a single Kibibyte?
+ 1. 1240
+ 2. 2400
+ 3. 1024
+ 4. 1000
 
 <details>
   <summary>Answer</summary>
-  Video Card
+  1024
 </details>
 
 
