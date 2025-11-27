@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A Sandwich walks into a bar, the bartender says “Sorry, we don’t serve food here”
+What do you call a dictionary on drugs? High definition.
 
 
 ## Daily Trivia
 
-The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
- 1. Sinclair Research
- 2. Amstrad PLC
- 3. Commodore Business Machines
- 4. Acorn Computers
+How many cores does the Intel i7-6950X have?
+ 1. 4
+ 2. 10
+ 3. 8
+ 4. 12
 
 <details>
   <summary>Answer</summary>
-  Acorn Computers
+  10
 </details>
 
 
