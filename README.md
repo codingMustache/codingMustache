@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the shy pebble wish for? That she was a little boulder.
+A man got hit in the head with a can of Coke, but he was alright because it was a soft drink.
 
 
 ## Daily Trivia
 
-Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
- 1. Four Years
- 2. Two Years
- 3. Eight Years
- 4. Year
+.rs is the top-level domain for what country?
+ 1. Russia
+ 2. Serbia
+ 3. Romania
+ 4. Rwanda
 
 <details>
   <summary>Answer</summary>
-  Year
+  Serbia
 </details>
 
 
