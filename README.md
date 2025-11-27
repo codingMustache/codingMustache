@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Can a kangaroo jump higher than the Empire State Building? Of course. The Empire State Building can't jump.
+*Reversing the car* "Ah, this takes me back"
 
 
 ## Daily Trivia
 
-What was the first company to use the term &quot;Golden Master&quot;?
- 1. Apple
- 2. IBM
- 3. Microsoft
- 4. Google
+Which of these names was an actual codename for a cancelled Microsoft project?
+ 1. Saturn
+ 2. Pollux
+ 3. Neptune
+ 4. Enceladus
 
 <details>
   <summary>Answer</summary>
-  Apple
+  Neptune
 </details>
 
 
