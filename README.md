@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the guy who invented Lifesavers? They say he made a mint.
+Shout out to my grandma, that's the only way she can hear.
 
 
 ## Daily Trivia
 
-Which data structure does FILO apply to?
- 1. Tree
- 2. Stack
- 3. Heap
- 4. Queue
+Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
+ 1. Two Years
+ 2. Year
+ 3. Four Years
+ 4. Eight Years
 
 <details>
   <summary>Answer</summary>
-  Stack
+  Year
 </details>
 
 
