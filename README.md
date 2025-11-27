@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call two guys hanging out by your window? Kurt & Rod.
+Why was Santa's little helper feeling depressed? Because he has low elf esteem.
+
 
 
 ## Daily Trivia
 
-What was the name given to Android 4.3?
- 1. Jelly Bean
- 2. Lollipop
- 3. Nutella
- 4. Froyo
+What does LTS stand for in the software market?
+ 1. Ludicrous Transfer Speed
+ 2. Long Term Support
+ 3. Ludicrous Turbo Speed
+ 4. Long Taco Service
 
 <details>
   <summary>Answer</summary>
-  Jelly Bean
+  Long Term Support
 </details>
 
 
