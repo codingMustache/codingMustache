@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of tree fits in your hand? A palm tree!
+What did the Buffalo say to his little boy when he dropped him off at school? Bison.
 
 
 ## Daily Trivia
 
-Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
- 1. Shellshock
- 2. Corrupted Blood
- 3. Heartbleed
- 4. Shellscript
+In computing terms, typically what does CLI stand for?
+ 1. Common Language Input
+ 2. Command Line Interface
+ 3. Control Line Interface
+ 4. Common Language Interface
 
 <details>
   <summary>Answer</summary>
-  Heartbleed
+  Command Line Interface
 </details>
 
 
