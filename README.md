@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What’s E.T. short for? He’s only got little legs.
+How does a French skeleton say hello? Bone-jour.
 
 
 ## Daily Trivia
 
-In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
- 1. Red
- 2. Green
- 3. Blue
- 4. Yellow
+America Online (AOL) started out as which of these online service providers?
+ 1. Quantum Link
+ 2. Prodigy
+ 3. CompuServe
+ 4. GEnie
 
 <details>
   <summary>Answer</summary>
-  Green
+  Quantum Link
 </details>
 
 
