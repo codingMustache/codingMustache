@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you do on a remote island? Try and find the TV island it belongs to.
+In the news a courtroom artist was arrested today, I'm not surprised, he always seemed sketchy.
 
 
 ## Daily Trivia
 
-What language does Node.js use?
- 1. JavaScript
- 2. Joomla Source Code
- 3. Java Source
- 4. Java
+What is the most preferred image format used for logos in the Wikimedia database?
+ 1. .svg
+ 2. .jpeg
+ 3. .png
+ 4. .gif
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  .svg
 </details>
 
 
