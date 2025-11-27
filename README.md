@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I gave all my dead batteries away today, free of charge.
+Why are oranges the smartest fruit? Because they are made to concentrate. 
 
 
 ## Daily Trivia
 
-What was the name given to Android 4.3?
- 1. Jelly Bean
- 2. Nutella
- 3. Froyo
- 4. Lollipop
+In programming, what do you call functions with the same name but different implementations?
+ 1. Overriding
+ 2. Inheriting
+ 3. Abstracting
+ 4. Overloading
 
 <details>
   <summary>Answer</summary>
-  Jelly Bean
+  Overloading
 </details>
 
 
