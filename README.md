@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How does a French skeleton say hello? Bone-jour.
+A cannibal is someone who is fed up with people.
 
 
 ## Daily Trivia
 
-America Online (AOL) started out as which of these online service providers?
- 1. Quantum Link
- 2. Prodigy
- 3. CompuServe
- 4. GEnie
+What does GHz stand for?
+ 1. Gigahotz
+ 2. Gigahertz
+ 3. Gigahetz
+ 4. Gigahatz
 
 <details>
   <summary>Answer</summary>
-  Quantum Link
+  Gigahertz
 </details>
 
 
