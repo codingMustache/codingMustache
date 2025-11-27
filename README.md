@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do you never see elephants hiding in trees? Because they're so good at it.
+What kind of magic do cows believe in? MOODOO.
 
 
 ## Daily Trivia
 
-What major programming language does Unreal Engine 4 use?
- 1. Assembly
- 2. C++
- 3. C#
- 4. ECMAScript
+How fast is USB 3.1 Gen 2 theoretically?
+ 1. 8 Gb/s
+ 2. 5 Gb/s
+ 3. 1 Gb/s
+ 4. 10 Gb/s
 
 <details>
   <summary>Answer</summary>
-  C++
+  10 Gb/s
 </details>
 
 
