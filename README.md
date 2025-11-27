@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the cheese who saved the world? It was Legend-dairy!
+Did you hear about the guy who invented Lifesavers? They say he made a mint.
 
 
 ## Daily Trivia
 
-How long is an IPv6 address?
- 1. 128 bits
- 2. 128 bytes
- 3. 64 bits
- 4. 32 bits
+Which data structure does FILO apply to?
+ 1. Tree
+ 2. Stack
+ 3. Heap
+ 4. Queue
 
 <details>
   <summary>Answer</summary>
-  128 bits
+  Stack
 </details>
 
 
