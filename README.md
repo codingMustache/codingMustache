@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why couldn't the lifeguard save the hippie? He was too far out, man.
+Where does Fonzie like to go for lunch? Chick-Fil-Eyyyyyyyy.
 
 
 ## Daily Trivia
 
-Nvidia&#039;s headquarters are based in which Silicon Valley city?
- 1. Mountain View
- 2. Santa Clara
- 3. Palo Alto
- 4. Cupertino
+What does the computer software acronym JVM stand for?
+ 1. Java Visual Machine
+ 2. Just Virtual Machine
+ 3. Java Virtual Machine
+ 4. Java Vendor Machine
 
 <details>
   <summary>Answer</summary>
-  Santa Clara
+  Java Virtual Machine
 </details>
 
 
