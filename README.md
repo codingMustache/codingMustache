@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A man got hit in the head with a can of Coke, but he was alright because it was a soft drink.
+Why can't a bicycle stand on its own? It's two-tired.
 
 
 ## Daily Trivia
 
-.rs is the top-level domain for what country?
- 1. Russia
- 2. Serbia
- 3. Romania
- 4. Rwanda
+In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
+ 1. center
+ 2. absolute
+ 3. static
+ 4. relative
 
 <details>
   <summary>Answer</summary>
-  Serbia
+  center
 </details>
 
 
