@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Writing with a broken pencil is pointless.
+Just watched a documentary about beavers… It was the best damn program I’ve ever seen.
 
 
 ## Daily Trivia
 
-How many bytes are in a single Kibibyte?
- 1. 1024
- 2. 1240
- 3. 1000
- 4. 2400
+What internet protocol was documented in RFC 1459?
+ 1. HTTPS
+ 2. FTP
+ 3. HTTP
+ 4. IRC
 
 <details>
   <summary>Answer</summary>
-  1024
+  IRC
 </details>
 
 
