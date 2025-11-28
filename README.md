@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are fish easy to weigh? Because they have their own scales.
+Did you hear about the submarine industry? It really took a dive...
 
 
 ## Daily Trivia
 
-What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
- 1. Sandy Bridge
- 2. Skylake
- 3. Coffee Lake
- 4. Broadwell
+How fast is USB 3.1 Gen 2 theoretically?
+ 1. 10 Gb/s
+ 2. 1 Gb/s
+ 3. 8 Gb/s
+ 4. 5 Gb/s
 
 <details>
   <summary>Answer</summary>
-  Coffee Lake
+  10 Gb/s
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **5 days** since this server shutdown
+Its been **6 days** since this server shutdown
