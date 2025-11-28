@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the left eye say to the right eye? Between us, something smells!
+Dad I’m hungry’ … ‘Hi hungry I’m dad
 
 
 ## Daily Trivia
 
-What does the term MIME stand for, in regards to computing?
- 1. Mail Internet Mail Exchange
- 2. Multipurpose Interleave Mail Exchange
- 3. Mail Interleave Method Exchange
- 4. Multipurpose Internet Mail Extensions
+America Online (AOL) started out as which of these online service providers?
+ 1. CompuServe
+ 2. Prodigy
+ 3. GEnie
+ 4. Quantum Link
 
 <details>
   <summary>Answer</summary>
-  Multipurpose Internet Mail Extensions
+  Quantum Link
 </details>
 
 
