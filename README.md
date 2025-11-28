@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-They say Dodger Stadium can hold up to fifty-six thousand people, but that is just a ballpark figure.
+Did you hear about the kidnapping at school? It's ok, he woke up.
 
 
 ## Daily Trivia
 
-When Gmail first launched, how much storage did it provide for your email?
- 1. 1GB
- 2. 5GB
- 3. 512MB
- 4. Unlimited
+What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
+ 1. Programmable Sound Generator (PSG)
+ 2. FM Synthesizer
+ 3. PCM Sampler
+ 4. ADPCM Sampler
 
 <details>
   <summary>Answer</summary>
-  1GB
+  ADPCM Sampler
 </details>
 
 
