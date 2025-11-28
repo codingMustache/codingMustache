@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A quick shoutout to all of the sidewalks out there... Thanks for keeping me off the streets.
+We all know where the Big Apple is but does anyone know where the Minneapolis?
 
 
 ## Daily Trivia
 
-On which computer hardware device is the BIOS chip located?
- 1. Central Processing Unit
- 2. Motherboard
- 3. Hard Disk Drive
- 4. Graphics Processing Unit
+Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
+ 1. 44.1 kHz
+ 2. 20.5 kHz
+ 3. 1.5 MHz
+ 4. 32.0 kHz
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  44.1 kHz
 </details>
 
 
