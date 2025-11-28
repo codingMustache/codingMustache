@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What has three letters and starts with gas? A Car.
+I used to hate facial hair, but then it grew on me.
 
 
 ## Daily Trivia
 
-The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
- 1. Tuvalu
- 2. Fiji
- 3. Micronesia
- 4. Marshall Islands
+What is the most preferred image format used for logos in the Wikimedia database?
+ 1. .svg
+ 2. .gif
+ 3. .jpeg
+ 4. .png
 
 <details>
   <summary>Answer</summary>
-  Micronesia
+  .svg
 </details>
 
 
