@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the dog say to the two trees? Bark bark.
+Why did the cookie cry? It was feeling crumby.
 
 
 ## Daily Trivia
 
-What vulnerability ranked #1 on the OWASP Top 10 in 2013?
- 1. Cross-Site Scripting
- 2. Broken Authentication
- 3. Injection 
- 4. Insecure Direct Object References
+Australia, Japan, and Southeast Asia are in which ITU Region?
+ 1. Region 3
+ 2. Region 1
+ 3. Region 2
+ 4. Region 4
 
 <details>
   <summary>Answer</summary>
-  Injection 
+  Region 3
 </details>
 
 
