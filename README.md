@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a fly without wings? A walk.
+A horse walks into a bar. The bar tender says "Hey." The horse says "Sure."
 
 
 ## Daily Trivia
 
-How many kilobytes in one gigabyte (in decimal)?
- 1. 1048576
- 2. 1000
- 3. 1000000
- 4. 1024
+What is the code name for the mobile operating system Android 7.0?
+ 1. Jelly Bean
+ 2. Ice Cream Sandwich
+ 3. Nougat
+ 4. Marshmallow
 
 <details>
   <summary>Answer</summary>
-  1000000
+  Nougat
 </details>
 
 
