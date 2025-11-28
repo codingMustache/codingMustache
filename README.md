@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-“Hold on, I have something in my shoe”  “I’m pretty sure it’s a foot”
+What kind of music do planets listen to? Nep-tunes.
 
 
 ## Daily Trivia
 
-Which kind of algorithm is Ron Rivest not famous for creating?
- 1. Hashing algorithm
- 2. Asymmetric encryption
- 3. Stream cipher
- 4. Secret sharing scheme
+What was Bitcoin&#039;s block size limit in 2010?
+ 1. 1GB
+ 2. 1 KB
+ 3. 1 TB
+ 4. 1 MB
 
 <details>
   <summary>Answer</summary>
-  Secret sharing scheme
+  1 MB
 </details>
 
 
