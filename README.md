@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How come the stadium got hot after the game? Because all of the fans left.
+What has three letters and starts with gas? A Car.
 
 
 ## Daily Trivia
 
-Which one of these is not an official development name for a Ubuntu release?
- 1. Mystic Mansion
- 2. Wily Werewolf
- 3. Utopic Unicorn
- 4. Trusty Tahr
+The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
+ 1. Tuvalu
+ 2. Fiji
+ 3. Micronesia
+ 4. Marshall Islands
 
 <details>
   <summary>Answer</summary>
-  Mystic Mansion
+  Micronesia
 </details>
 
 
