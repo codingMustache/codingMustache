@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the knife dress up in a suit? Because it wanted to look sharp
+How does a penguin build it’s house? Igloos it together.
 
 
 ## Daily Trivia
 
-In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
- 1. Static
- 2. Private
- 3. Public
- 4. Final
+What was the first Android version specifically optimized for tablets?
+ 1. Froyo
+ 2. Eclair
+ 3. Marshmellow
+ 4. Honeycomb
 
 <details>
   <summary>Answer</summary>
-  Final
+  Honeycomb
 </details>
 
 
