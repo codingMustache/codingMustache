@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of music do planets listen to? Nep-tunes.
+I wish I could clean mirrors for a living. It's just something I can see myself doing.
 
 
 ## Daily Trivia
 
-What was Bitcoin&#039;s block size limit in 2010?
- 1. 1GB
- 2. 1 KB
- 3. 1 TB
- 4. 1 MB
+What internet protocol was documented in RFC 1459?
+ 1. FTP
+ 2. HTTPS
+ 3. IRC
+ 4. HTTP
 
 <details>
   <summary>Answer</summary>
-  1 MB
+  IRC
 </details>
 
 
