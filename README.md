@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What has a bed that you can’t sleep in? A river.
+They say Dodger Stadium can hold up to fifty-six thousand people, but that is just a ballpark figure.
 
 
 ## Daily Trivia
 
-Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
- 1. Cherry MX Black
- 2. Cherry MX Red
- 3. Cherry MX Brown
- 4. Cherry MX Blue
+When Gmail first launched, how much storage did it provide for your email?
+ 1. 1GB
+ 2. 5GB
+ 3. 512MB
+ 4. Unlimited
 
 <details>
   <summary>Answer</summary>
-  Cherry MX Blue
+  1GB
 </details>
 
 
