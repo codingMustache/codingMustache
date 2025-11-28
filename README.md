@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the difference between a seal and a sea lion?
-An ion! 
+What's a ninja's favorite type of shoes? Sneakers!
 
 
 ## Daily Trivia
 
-What was the first commerically available computer processor?
- 1. AMD AM386
- 2. Intel 4004
- 3. Intel 486SX
- 4. TMS 1000
+How fast is USB 3.1 Gen 2 theoretically?
+ 1. 5 Gb/s
+ 2. 8 Gb/s
+ 3. 1 Gb/s
+ 4. 10 Gb/s
 
 <details>
   <summary>Answer</summary>
-  Intel 4004
+  10 Gb/s
 </details>
 
 
