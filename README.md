@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why is it always hot in the corner of a room? Because a corner is 90 degrees.
+What do you call a fly without wings? A walk.
 
 
 ## Daily Trivia
 
-On Twitter, what was the original character limit for a Tweet?
- 1. 140
- 2. 100
- 3. 160
- 4. 120
+How many kilobytes in one gigabyte (in decimal)?
+ 1. 1048576
+ 2. 1000
+ 3. 1000000
+ 4. 1024
 
 <details>
   <summary>Answer</summary>
-  140
+  1000000
 </details>
 
 
