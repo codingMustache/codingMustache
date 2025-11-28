@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-We all know where the Big Apple is but does anyone know where the Minneapolis?
+How do you get two whales in a car? Start in England and drive West.
 
 
 ## Daily Trivia
 
-Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
- 1. 44.1 kHz
- 2. 20.5 kHz
- 3. 1.5 MHz
- 4. 32.0 kHz
+Which of these is not a layer in the OSI model for data communications?
+ 1. Physical Layer
+ 2. Connection Layer
+ 3. Application Layer
+ 4. Transport Layer
 
 <details>
   <summary>Answer</summary>
-  44.1 kHz
+  Connection Layer
 </details>
 
 
