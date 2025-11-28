@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to work in a shoe recycling shop. It was sole destroying.
+I ate a clock yesterday. It was so time consuming.
 
 
 ## Daily Trivia
 
-Which of the following is a personal computer made by the Japanese company Fujitsu?
- 1. PC-9801
- 2. FM-7
- 3. Xmillennium 
- 4. MSX
+The name of technology company HP stands for what?
+ 1. Howard Packmann
+ 2. Husker-Pollosk
+ 3. Hewlett-Packard
+ 4. Hellman-Pohl
 
 <details>
   <summary>Answer</summary>
-  FM-7
+  Hewlett-Packard
 </details>
 
 
