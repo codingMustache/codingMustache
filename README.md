@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was the robot angry? Because someone kept pressing his buttons!
+Why did the knife dress up in a suit? Because it wanted to look sharp
 
 
 ## Daily Trivia
 
-The teapot often seen in many 3D modeling applications is called what?
- 1. Tennessee Teapot
- 2. 3D Teapot
- 3. Utah Teapot
- 4. Pixar Teapot
+Which of the following physical typologies are used with Ethernet Networks?
+ 1. Ring
+ 2. Mesh
+ 3. Hex
+ 4. Star
 
 <details>
   <summary>Answer</summary>
-  Utah Teapot
+  Star
 </details>
 
 
