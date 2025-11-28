@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A horse walks into a bar. The bar tender says "Hey." The horse says "Sure."
+What did the left eye say to the right eye? Between us, something smells!
 
 
 ## Daily Trivia
 
-What is the code name for the mobile operating system Android 7.0?
- 1. Jelly Bean
- 2. Ice Cream Sandwich
- 3. Nougat
- 4. Marshmallow
+What does the term MIME stand for, in regards to computing?
+ 1. Mail Internet Mail Exchange
+ 2. Multipurpose Interleave Mail Exchange
+ 3. Mail Interleave Method Exchange
+ 4. Multipurpose Internet Mail Extensions
 
 <details>
   <summary>Answer</summary>
-  Nougat
+  Multipurpose Internet Mail Extensions
 </details>
 
 
