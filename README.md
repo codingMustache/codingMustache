@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did Dracula lie in the wrong coffin? He made a grave mistake.
+The word queue is ironic. It's just q with a bunch of silent letters waiting in line.
 
 
 ## Daily Trivia
 
-In computing, what does LAN stand for?
- 1. Local Area Network
- 2. Long Antenna Node
- 3. Light Access Node
- 4. Land Address Navigation
+Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
+ 1. Commodore
+ 2. Apple
+ 3. Atari
+ 4. Microsoft
 
 <details>
   <summary>Answer</summary>
-  Local Area Network
+  Apple
 </details>
 
 
