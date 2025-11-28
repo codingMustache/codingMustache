@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to hate facial hair, but then it grew on me.
+Did you hear about the scientist who was lab partners with a pot of boiling water? He had a very esteemed colleague.
 
 
 ## Daily Trivia
 
-What is the most preferred image format used for logos in the Wikimedia database?
- 1. .svg
- 2. .gif
- 3. .jpeg
- 4. .png
+According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:
+ 1. A&#039;B + B&#039;A
+ 2. A&#039;B&#039;
+ 3. AB&#039; + AB
+ 4. A&#039; + B&#039;
 
 <details>
   <summary>Answer</summary>
-  .svg
+  A&#039; + B&#039;
 </details>
 
 
