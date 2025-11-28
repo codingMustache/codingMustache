@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's a ninja's favorite type of shoes? Sneakers!
+How come a man driving a train got struck by lightning? He was a good conductor.
 
 
 ## Daily Trivia
 
-How fast is USB 3.1 Gen 2 theoretically?
- 1. 5 Gb/s
- 2. 8 Gb/s
- 3. 1 Gb/s
- 4. 10 Gb/s
+Who is the founder of Palantir?
+ 1. Mark Zuckerberg
+ 2. Peter Thiel
+ 3. Marc Benioff
+ 4. Jack Dorsey
 
 <details>
   <summary>Answer</summary>
-  10 Gb/s
+  Peter Thiel
 </details>
 
 
