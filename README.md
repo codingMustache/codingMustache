@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of magic do cows believe in? MOODOO.
+What do you get when you cross a snowman with a vampire? Frostbite.
 
 
 ## Daily Trivia
 
-How fast is USB 3.1 Gen 2 theoretically?
- 1. 8 Gb/s
- 2. 5 Gb/s
- 3. 1 Gb/s
- 4. 10 Gb/s
+What is the most preferred image format used for logos in the Wikimedia database?
+ 1. .jpeg
+ 2. .svg
+ 3. .png
+ 4. .gif
 
 <details>
   <summary>Answer</summary>
-  10 Gb/s
+  .svg
 </details>
 
 
