@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the knife dress up in a suit? Because it wanted to look sharp
+Dad, can you put my shoes on? I don't think they'll fit me.
 
 
 ## Daily Trivia
 
-Which of the following physical typologies are used with Ethernet Networks?
- 1. Ring
- 2. Mesh
- 3. Hex
- 4. Star
+What was the name given to Android 4.3?
+ 1. Lollipop
+ 2. Nutella
+ 3. Jelly Bean
+ 4. Froyo
 
 <details>
   <summary>Answer</summary>
-  Star
+  Jelly Bean
 </details>
 
 
