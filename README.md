@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How does a penguin build it’s house? Igloos it together.
+“Hold on, I have something in my shoe”  “I’m pretty sure it’s a foot”
 
 
 ## Daily Trivia
 
-What was the first Android version specifically optimized for tablets?
- 1. Froyo
- 2. Eclair
- 3. Marshmellow
- 4. Honeycomb
+Which kind of algorithm is Ron Rivest not famous for creating?
+ 1. Hashing algorithm
+ 2. Asymmetric encryption
+ 3. Stream cipher
+ 4. Secret sharing scheme
 
 <details>
   <summary>Answer</summary>
-  Honeycomb
+  Secret sharing scheme
 </details>
 
 
