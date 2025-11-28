@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How come a man driving a train got struck by lightning? He was a good conductor.
+Why was the robot angry? Because someone kept pressing his buttons!
 
 
 ## Daily Trivia
 
-Who is the founder of Palantir?
- 1. Mark Zuckerberg
- 2. Peter Thiel
- 3. Marc Benioff
- 4. Jack Dorsey
+The teapot often seen in many 3D modeling applications is called what?
+ 1. Tennessee Teapot
+ 2. 3D Teapot
+ 3. Utah Teapot
+ 4. Pixar Teapot
 
 <details>
   <summary>Answer</summary>
-  Peter Thiel
+  Utah Teapot
 </details>
 
 
