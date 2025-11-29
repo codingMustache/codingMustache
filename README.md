@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I don't trust sushi, there's something fishy about it.
+You will never guess what Elsa did to the balloon. She let it go.
 
 
 ## Daily Trivia
 
-The teapot often seen in many 3D modeling applications is called what?
- 1. Pixar Teapot
- 2. 3D Teapot
- 3. Tennessee Teapot
- 4. Utah Teapot
+Which computer language would you associate Django framework with?
+ 1. Java
+ 2. C++
+ 3. Python
+ 4. C#
 
 <details>
   <summary>Answer</summary>
-  Utah Teapot
+  Python
 </details>
 
 
