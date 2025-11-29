@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the cookie cry? It was feeling crumby.
+I invented a new word! Plagiarism!
 
 
 ## Daily Trivia
 
-Whistler was the codename of this Microsoft Operating System.
- 1. Windows 95
- 2. Windows 2000
- 3. Windows 7
- 4. Windows XP
+When did the online streaming service &quot;Mixer&quot; launch?
+ 1. 2009
+ 2. 2016
+ 3. 2013
+ 4. 2011
 
 <details>
   <summary>Answer</summary>
-  Windows XP
+  2016
 </details>
 
 
