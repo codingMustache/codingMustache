@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-You can't run through a camp site. You can only ran, because it's past tents.
+I tried to milk a cow today, but was unsuccessful. Udder failure.
 
 
 ## Daily Trivia
 
-How fast is USB 3.1 Gen 2 theoretically?
- 1. 5 Gb/s
- 2. 8 Gb/s
- 3. 1 Gb/s
- 4. 10 Gb/s
+Which of the following computer components can be built using only NAND gates?
+ 1. RAM
+ 2. CPU
+ 3. ALU
+ 4. Register
 
 <details>
   <summary>Answer</summary>
-  10 Gb/s
+  ALU
 </details>
 
 
