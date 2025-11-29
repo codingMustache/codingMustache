@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I needed a password eight characters long so I picked Snow White and the Seven Dwarfs.
+What kind of award did the dentist receive? A little plaque.
 
 
 ## Daily Trivia
 
-Which of these people was NOT a founder of Apple Inc?
- 1. Ronald Wayne
- 2. Jonathan Ive
- 3. Steve Jobs
- 4. Steve Wozniak
+Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
+ 1. Clipper Chip
+ 2. Nautilus
+ 3. Skipjack
+ 4. Enigma Machine
 
 <details>
   <summary>Answer</summary>
-  Jonathan Ive
+  Clipper Chip
 </details>
 
 
