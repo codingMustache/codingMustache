@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-You will never guess what Elsa did to the balloon. She let it go.
+What do you call a nervous javelin thrower? Shakespeare.
 
 
 ## Daily Trivia
 
-Which computer language would you associate Django framework with?
- 1. Java
- 2. C++
- 3. Python
- 4. C#
+What was the name of the first Bulgarian personal computer?
+ 1. Pravetz 8D
+ 2. Pravetz 82
+ 3. IMKO-1
+ 4. IZOT 1030
 
 <details>
   <summary>Answer</summary>
-  Python
+  IMKO-1
 </details>
 
 
