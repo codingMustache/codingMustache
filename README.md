@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What has three letters and starts with gas? A Car.
+What do you get if you cross a turkey with a ghost? A poultry-geist!
 
 
 ## Daily Trivia
 
-What does the acronym CDN stand for in terms of networking?
- 1. Compressed Data Network
- 2. Content Distribution Network
- 3. Computational Data Network
- 4. Content Delivery Network
+When was the programming language &quot;C#&quot; released?
+ 1. 1998
+ 2. 2000
+ 3. 1999
+ 4. 2001
 
 <details>
   <summary>Answer</summary>
-  Content Delivery Network
+  2000
 </details>
 
 
