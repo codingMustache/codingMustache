@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My friend keeps telling me "Cheer up. You aren't stuck in a deep hole in the ground, filled with water."
-I know he means well.
+You can't run through a camp site. You can only ran, because it's past tents.
 
 
 ## Daily Trivia
 
-Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
- 1. Eight Years
- 2. Year
- 3. Four Years
- 4. Two Years
+How fast is USB 3.1 Gen 2 theoretically?
+ 1. 5 Gb/s
+ 2. 8 Gb/s
+ 3. 1 Gb/s
+ 4. 10 Gb/s
 
 <details>
   <summary>Answer</summary>
-  Year
+  10 Gb/s
 </details>
 
 
