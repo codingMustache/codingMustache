@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Waking up this morning was an eye-opening experience.
+I finally bought the limited edition Thesaurus that I've always wanted. When I opened it, all the pages were blank.
+I have no words to describe how angry I am.
 
 
 ## Daily Trivia
 
-Whistler was the codename of this Microsoft Operating System.
- 1. Windows 95
- 2. Windows 7
- 3. Windows XP
- 4. Windows 2000
+When Gmail first launched, how much storage did it provide for your email?
+ 1. 5GB
+ 2. 1GB
+ 3. 512MB
+ 4. Unlimited
 
 <details>
   <summary>Answer</summary>
-  Windows XP
+  1GB
 </details>
 
 
