@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many apples grow on a tree? All of them!
+I once lost a banana at court but then I appealed. 
 
 
 ## Daily Trivia
 
-What does LTS stand for in the software market?
- 1. Ludicrous Transfer Speed
- 2. Ludicrous Turbo Speed
- 3. Long Taco Service
- 4. Long Term Support
+What did the name of the Tor Anonymity Network orignially stand for?
+ 1. The Only Router
+ 2. The Orange Router
+ 3. The Ominous Router
+ 4. The Onion Router
 
 <details>
   <summary>Answer</summary>
-  Long Term Support
+  The Onion Router
 </details>
 
 
