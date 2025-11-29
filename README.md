@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a cow with two legs? Lean beef.
+Why did the worker get fired from the orange juice factory? Lack of concentration.
 
 
 ## Daily Trivia
 
-What internet protocol was documented in RFC 1459?
- 1. HTTP
- 2. HTTPS
- 3. FTP
- 4. IRC
+When was the programming language &quot;C#&quot; released?
+ 1. 1999
+ 2. 2000
+ 3. 1998
+ 4. 2001
 
 <details>
   <summary>Answer</summary>
-  IRC
+  2000
 </details>
 
 
