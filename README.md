@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you get if you cross a turkey with a ghost? A poultry-geist!
+Why are giraffes so slow to apologize? Because it takes them a long time to swallow their pride.
 
 
 ## Daily Trivia
 
-When was the programming language &quot;C#&quot; released?
- 1. 1998
- 2. 2000
- 3. 1999
- 4. 2001
+Which one of these is not an official development name for a Ubuntu release?
+ 1. Mystic Mansion
+ 2. Wily Werewolf
+ 3. Utopic Unicorn
+ 4. Trusty Tahr
 
 <details>
   <summary>Answer</summary>
-  2000
+  Mystic Mansion
 </details>
 
 
