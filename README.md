@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I decided to sell my Hoover… well it was just collecting dust.
+What did the piece of bread say to the knife? Butter me up.
 
 
 ## Daily Trivia
 
-What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
- 1. FM Synthesizer
- 2. Programmable Sound Generator (PSG)
- 3. PCM Sampler
- 4. ADPCM Sampler
+Nvidia&#039;s headquarters are based in which Silicon Valley city?
+ 1. Palo Alto
+ 2. Cupertino
+ 3. Mountain View
+ 4. Santa Clara
 
 <details>
   <summary>Answer</summary>
-  ADPCM Sampler
+  Santa Clara
 </details>
 
 
