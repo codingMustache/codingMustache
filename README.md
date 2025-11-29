@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the piece of bread say to the knife? Butter me up.
+Why was the broom late for the meeting? He overswept.
 
 
 ## Daily Trivia
 
-Nvidia&#039;s headquarters are based in which Silicon Valley city?
- 1. Palo Alto
- 2. Cupertino
- 3. Mountain View
- 4. Santa Clara
+What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
+ 1. Temperature Decipator
+ 2. Heat Sink
+ 3. CPU Vent
+ 4. Heat Vent
 
 <details>
   <summary>Answer</summary>
-  Santa Clara
+  Heat Sink
 </details>
 
 
