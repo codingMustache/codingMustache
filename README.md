@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What’s the advantage of living in Switzerland? Well, the flag is a big plus.
+Why did the cookie cry? It was feeling crumby.
 
 
 ## Daily Trivia
 
-What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
- 1. PCM Sampler
- 2. ADPCM Sampler
- 3. Programmable Sound Generator (PSG)
- 4. FM Synthesizer
+Whistler was the codename of this Microsoft Operating System.
+ 1. Windows 95
+ 2. Windows 2000
+ 3. Windows 7
+ 4. Windows XP
 
 <details>
   <summary>Answer</summary>
-  ADPCM Sampler
+  Windows XP
 </details>
 
 
