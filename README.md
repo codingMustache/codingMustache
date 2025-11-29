@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a nervous javelin thrower? Shakespeare.
+My wife is on a tropical fruit diet, the house is full of stuff. It is enough to make a mango crazy.
 
 
 ## Daily Trivia
 
-What was the name of the first Bulgarian personal computer?
- 1. Pravetz 8D
- 2. Pravetz 82
- 3. IMKO-1
- 4. IZOT 1030
+In the server hosting industry IaaS stands for...
+ 1. Infrastructure as a Service
+ 2. Infrastructure as a Server
+ 3. Internet and a Server
+ 4. Internet as a Service
 
 <details>
   <summary>Answer</summary>
-  IMKO-1
+  Infrastructure as a Service
 </details>
 
 
