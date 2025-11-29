@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What cheese can never be yours? Nacho cheese.
+What’s Forest Gump’s Facebook password? 1forest1
 
 
 ## Daily Trivia
 
-What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
- 1. Programmable Sound Generator (PSG)
- 2. FM Synthesizer
- 3. PCM Sampler
- 4. ADPCM Sampler
+What is the name of Layer 7 of the OSI model?
+ 1. Network
+ 2. Session
+ 3. Application
+ 4. Present
 
 <details>
   <summary>Answer</summary>
-  ADPCM Sampler
+  Application
 </details>
 
 
