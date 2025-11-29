@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the girl smear peanut butter on the road? To go with the traffic jam.
+How did Darth Vader know what Luke was getting for Christmas? He felt his presents.
 
 
 ## Daily Trivia
 
-What does the &#039;S&#039; in the RSA encryption algorithm stand for?
- 1. Stable
- 2. Schottky
- 3. Secure
- 4. Shamir
+How many bits make up the significand portion of a single precision floating point number?
+ 1. 53
+ 2. 23
+ 3. 8
+ 4. 15
 
 <details>
   <summary>Answer</summary>
-  Shamir
+  23
 </details>
 
 
