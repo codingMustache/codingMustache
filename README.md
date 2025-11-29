@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I invented a new word! Plagiarism!
+Did you hear about the cheese who saved the world? It was Legend-dairy!
 
 
 ## Daily Trivia
 
-When did the online streaming service &quot;Mixer&quot; launch?
- 1. 2009
- 2. 2016
- 3. 2013
- 4. 2011
+The C programming language was created by this American computer scientist. 
+ 1. al-Khwārizmī
+ 2. Willis Ware
+ 3. Tim Berners Lee
+ 4. Dennis Ritchie
 
 <details>
   <summary>Answer</summary>
-  2016
+  Dennis Ritchie
 </details>
 
 
