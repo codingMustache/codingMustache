@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Dad I’m hungry’ … ‘Hi hungry I’m dad
+I needed a password eight characters long so I picked Snow White and the Seven Dwarfs.
 
 
 ## Daily Trivia
 
-America Online (AOL) started out as which of these online service providers?
- 1. CompuServe
- 2. Prodigy
- 3. GEnie
- 4. Quantum Link
+Which of these people was NOT a founder of Apple Inc?
+ 1. Ronald Wayne
+ 2. Jonathan Ive
+ 3. Steve Jobs
+ 4. Steve Wozniak
 
 <details>
   <summary>Answer</summary>
-  Quantum Link
+  Jonathan Ive
 </details>
 
 
