@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I tried to milk a cow today, but was unsuccessful. Udder failure.
+Why do cows not have toes? They lactose!
 
 
 ## Daily Trivia
 
-Which of the following computer components can be built using only NAND gates?
- 1. RAM
- 2. CPU
- 3. ALU
- 4. Register
+If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
+ 1. JavaScript
+ 2. C++
+ 3. Python
+ 4. Binary
 
 <details>
   <summary>Answer</summary>
-  ALU
+  Binary
 </details>
 
 
