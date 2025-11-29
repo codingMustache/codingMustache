@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What’s Forest Gump’s Facebook password? 1forest1
+Waking up this morning was an eye-opening experience.
 
 
 ## Daily Trivia
 
-What is the name of Layer 7 of the OSI model?
- 1. Network
- 2. Session
- 3. Application
- 4. Present
+Whistler was the codename of this Microsoft Operating System.
+ 1. Windows 95
+ 2. Windows 7
+ 3. Windows XP
+ 4. Windows 2000
 
 <details>
   <summary>Answer</summary>
-  Application
+  Windows XP
 </details>
 
 
