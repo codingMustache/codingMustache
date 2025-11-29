@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-They're making a movie about clocks. It's about time
+What do you call a cow with two legs? Lean beef.
 
 
 ## Daily Trivia
 
-Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
- 1. Puma
- 2. Tiger
- 3. Leopard
- 4. Cheetah
+What internet protocol was documented in RFC 1459?
+ 1. HTTP
+ 2. HTTPS
+ 3. FTP
+ 4. IRC
 
 <details>
   <summary>Answer</summary>
-  Cheetah
+  IRC
 </details>
 
 
