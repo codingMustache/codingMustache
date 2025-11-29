@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the feline fail the lie detector test? Because he be lion.
+So, I heard this pun about cows, but it’s kinda offensive so I won’t say it. I don’t want there to be any beef between us. 
 
 
 ## Daily Trivia
 
-Australia, Japan, and Southeast Asia are in which ITU Region?
- 1. Region 1
- 2. Region 4
- 3. Region 3
- 4. Region 2
+Generally, which component of a computer draws the most power?
+ 1. Hard Drive
+ 2. Processor
+ 3. Power Supply
+ 4. Video Card
 
 <details>
   <summary>Answer</summary>
-  Region 3
+  Video Card
 </details>
 
 
