@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Do you know where you can get chicken broth in bulk? The stock market.
+I'm glad I know sign language, it's pretty handy.
 
 
 ## Daily Trivia
 
-What port does HTTP run on?
- 1. 80
- 2. 23
- 3. 443
- 4. 53
+In web design, what does CSS stand for?
+ 1. Counter Strike: Source
+ 2. Corrective Style Sheet
+ 3. Computer Style Sheet
+ 4. Cascading Style Sheet
 
 <details>
   <summary>Answer</summary>
-  80
+  Cascading Style Sheet
 </details>
 
 
