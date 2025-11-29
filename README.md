@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where does Napoleon keep his armies? In his sleevies.
+My friend keeps telling me "Cheer up. You aren't stuck in a deep hole in the ground, filled with water."
+I know he means well.
 
 
 ## Daily Trivia
 
-When Gmail first launched, how much storage did it provide for your email?
- 1. 5GB
- 2. 1GB
- 3. 512MB
- 4. Unlimited
+Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
+ 1. Eight Years
+ 2. Year
+ 3. Four Years
+ 4. Two Years
 
 <details>
   <summary>Answer</summary>
-  1GB
+  Year
 </details>
 
 
