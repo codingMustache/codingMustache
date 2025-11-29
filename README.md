@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of award did the dentist receive? A little plaque.
+What cheese can never be yours? Nacho cheese.
 
 
 ## Daily Trivia
 
-Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
- 1. Clipper Chip
- 2. Nautilus
- 3. Skipjack
- 4. Enigma Machine
+What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
+ 1. Programmable Sound Generator (PSG)
+ 2. FM Synthesizer
+ 3. PCM Sampler
+ 4. ADPCM Sampler
 
 <details>
   <summary>Answer</summary>
-  Clipper Chip
+  ADPCM Sampler
 </details>
 
 
