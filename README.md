@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you give a sick lemon? Lemonaid.
+Why did the feline fail the lie detector test? Because he be lion.
 
 
 ## Daily Trivia
 
-What port does HTTP run on?
- 1. 443
- 2. 80
- 3. 53
- 4. 23
+Australia, Japan, and Southeast Asia are in which ITU Region?
+ 1. Region 1
+ 2. Region 4
+ 3. Region 3
+ 4. Region 2
 
 <details>
   <summary>Answer</summary>
-  80
+  Region 3
 </details>
 
 
