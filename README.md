@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My wife is on a tropical fruit diet, the house is full of stuff. It is enough to make a mango crazy.
+How many apples grow on a tree? All of them!
 
 
 ## Daily Trivia
 
-In the server hosting industry IaaS stands for...
- 1. Infrastructure as a Service
- 2. Infrastructure as a Server
- 3. Internet and a Server
- 4. Internet as a Service
+What does LTS stand for in the software market?
+ 1. Ludicrous Transfer Speed
+ 2. Ludicrous Turbo Speed
+ 3. Long Taco Service
+ 4. Long Term Support
 
 <details>
   <summary>Answer</summary>
-  Infrastructure as a Service
+  Long Term Support
 </details>
 
 
