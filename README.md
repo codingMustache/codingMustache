@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do robots eat guacamole? With computer chips.
+You know what they say about cliffhangers...
 
 
 ## Daily Trivia
 
-What port does HTTP run on?
- 1. 80
- 2. 23
- 3. 443
- 4. 53
+In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
+ 1. Blue
+ 2. Red
+ 3. Green
+ 4. Yellow
 
 <details>
   <summary>Answer</summary>
-  80
+  Green
 </details>
 
 
