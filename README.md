@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I gave my friend 10 puns hoping that one of them would make him laugh. Sadly, no pun in ten did.
+Why can't a bicycle stand on its own? It's two-tired.
 
 
 ## Daily Trivia
 
-What does AD stand for in relation to Windows Operating Systems? 
- 1. Alternative Drive
- 2. Active Directory
- 3. Automated Database
- 4. Active Department
+Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
+ 1. JavaScript
+ 2. PHP
+ 3. Python
+ 4. C#
 
 <details>
   <summary>Answer</summary>
-  Active Directory
+  JavaScript
 </details>
 
 
