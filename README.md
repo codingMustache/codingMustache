@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why don’t seagulls fly over the bay? Because then they’d be bay-gulls!
+My New Years resolution is to stop leaving things so late.
 
 
 ## Daily Trivia
 
-Which of these names was an actual codename for a cancelled Microsoft project?
- 1. Pollux
- 2. Enceladus
- 3. Neptune
- 4. Saturn
+How many cores does the Intel i7-6950X have?
+ 1. 10
+ 2. 4
+ 3. 8
+ 4. 12
 
 <details>
   <summary>Answer</summary>
-  Neptune
+  10
 </details>
 
 
