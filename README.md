@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the judge say to the dentist? Do you swear to pull the tooth, the whole tooth and nothing but the tooth?
+What do you call a cow with two legs? Lean beef.
 
 
 ## Daily Trivia
 
-In any programming language, what is the most common way to iterate through an array?
- 1. &#039;While&#039; loops
- 2. &#039;Do-while&#039; loops
- 3. &#039;For&#039; loops
- 4. &#039;If&#039; Statements
+The programming language &#039;Swift&#039; was created to replace what other programming language?
+ 1. C#
+ 2. Objective-C
+ 3. C++
+ 4. Ruby
 
 <details>
   <summary>Answer</summary>
-  &#039;For&#039; loops
+  Objective-C
 </details>
 
 
