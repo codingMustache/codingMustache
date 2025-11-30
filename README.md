@@ -4,20 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Some people eat light bulbs. They say it's a nice light snack.
+Why do pumpkins sit on people’s porches?
+
+They have no hands to knock on the door.
 
 
 ## Daily Trivia
 
-What was the name of the first Bulgarian personal computer?
- 1. IMKO-1
- 2. Pravetz 82
- 3. Pravetz 8D
- 4. IZOT 1030
+Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
+ 1. Heartbleed
+ 2. Corrupted Blood
+ 3. Shellshock
+ 4. Shellscript
 
 <details>
   <summary>Answer</summary>
-  IMKO-1
+  Heartbleed
 </details>
 
 
