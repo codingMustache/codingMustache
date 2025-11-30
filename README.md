@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I just read a book about Stockholm syndrome. It was pretty bad at first, but by the end I liked it.
+Animal Fact #25: Most bobcats are not named bob.
 
 
 ## Daily Trivia
 
-Which kind of algorithm is Ron Rivest not famous for creating?
- 1. Secret sharing scheme
- 2. Hashing algorithm
- 3. Asymmetric encryption
- 4. Stream cipher
+Lenovo acquired IBM&#039;s personal computer division, including the ThinkPad line of laptops and tablets, in what year?
+ 1. 2002
+ 2. 1999
+ 3. 2008
+ 4. 2005
 
 <details>
   <summary>Answer</summary>
-  Secret sharing scheme
+  2005
 </details>
 
 
