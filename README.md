@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the grape do when he got stepped on? He let out a little wine.
+How does a scientist freshen their breath? With experi-mints!
 
 
 ## Daily Trivia
 
-What is the name of the default theme that is installed with Windows XP?
- 1. Whistler
- 2. Bliss
- 3. Neptune
- 4. Luna
+What does the acronym CDN stand for in terms of networking?
+ 1. Compressed Data Network
+ 2. Computational Data Network
+ 3. Content Distribution Network
+ 4. Content Delivery Network
 
 <details>
   <summary>Answer</summary>
-  Luna
+  Content Delivery Network
 </details>
 
 
