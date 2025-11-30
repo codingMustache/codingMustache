@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I knew a guy who collected candy canes, they were all in mint condition
+A bartender broke up with her boyfriend, but he kept asking her for another shot.
 
 
 ## Daily Trivia
 
-In web design, what does CSS stand for?
- 1. Cascading Style Sheet
- 2. Computer Style Sheet
- 3. Corrective Style Sheet
- 4. Counter Strike: Source
+On Twitter, what was the original character limit for a Tweet?
+ 1. 100
+ 2. 160
+ 3. 140
+ 4. 120
 
 <details>
   <summary>Answer</summary>
-  Cascading Style Sheet
+  140
 </details>
 
 
