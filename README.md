@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-You can't trust a ladder. It will always let you down
+I couldn't figure out how the seat belt worked. Then it just clicked.
 
 
 ## Daily Trivia
 
-Which of the following is NOT a computer science algorithm?
- 1. Quick Sort
- 2. Float Sort
- 3. Bubble Sort
- 4. Merge Sort
+Which kind of algorithm is Ron Rivest not famous for creating?
+ 1. Secret sharing scheme
+ 2. Hashing algorithm
+ 3. Stream cipher
+ 4. Asymmetric encryption
 
 <details>
   <summary>Answer</summary>
-  Float Sort
+  Secret sharing scheme
 </details>
 
 
