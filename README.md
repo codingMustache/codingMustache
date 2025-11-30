@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-So, I heard this pun about cows, but it’s kinda offensive so I won’t say it. I don’t want there to be any beef between us. 
+What did the 0 say to the 8? Nice belt.
 
 
 ## Daily Trivia
 
-Generally, which component of a computer draws the most power?
- 1. Hard Drive
- 2. Processor
- 3. Power Supply
- 4. Video Card
+Which of the following computer components can be built using only NAND gates?
+ 1. CPU
+ 2. RAM
+ 3. Register
+ 4. ALU
 
 <details>
   <summary>Answer</summary>
-  Video Card
+  ALU
 </details>
 
 
