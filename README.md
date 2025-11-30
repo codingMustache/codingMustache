@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I went to the doctor today and he told me I had type A blood but it was a type O.
+A red and a blue ship have just collided in the Caribbean. Apparently the survivors are marooned.
 
 
 ## Daily Trivia
 
-Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
- 1. Commodore
- 2. Atari
- 3. Microsoft
- 4. Apple
+The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
+ 1. HD Graphics 700 
+ 2. HD Graphics 600
+ 3. HD Graphics 500
+ 4. HD Graphics 7000
 
 <details>
   <summary>Answer</summary>
-  Apple
+  HD Graphics 500
 </details>
 
 
