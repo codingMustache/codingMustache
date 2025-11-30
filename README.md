@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the ocean say to the beach? Thanks for all the sediment.
+In my career as a lumberjack I cut down exactly 52,487 trees. I know because I kept a log.
 
 
 ## Daily Trivia
 
-Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
- 1. PHP
- 2. JavaScript
- 3. Python
- 4. C#
+On which day did the World Wide Web go online?
+ 1. December 20, 1990
+ 2. December 17, 1996
+ 3. November 12, 1990
+ 4. November 24, 1995
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  December 20, 1990
 </details>
 
 
