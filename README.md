@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why can't a bicycle stand on its own? It's two-tired.
+Why don’t seagulls fly over the bay? Because then they’d be bay-gulls!
 
 
 ## Daily Trivia
 
-Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
- 1. JavaScript
- 2. PHP
- 3. Python
- 4. C#
+Which of these names was an actual codename for a cancelled Microsoft project?
+ 1. Pollux
+ 2. Enceladus
+ 3. Neptune
+ 4. Saturn
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  Neptune
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **7 days** since this server shutdown
+Its been **8 days** since this server shutdown
