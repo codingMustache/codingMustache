@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do bears have hairy coats? Fur protection.
+What do you call a gorilla wearing headphones? Anything you'd like, it can't hear you.
 
 
 ## Daily Trivia
 
-On which day did the World Wide Web go online?
- 1. November 12, 1990
- 2. November 24, 1995
- 3. December 20, 1990
- 4. December 17, 1996
+Which computer language would you associate Django framework with?
+ 1. C++
+ 2. C#
+ 3. Python
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  December 20, 1990
+  Python
 </details>
 
 
