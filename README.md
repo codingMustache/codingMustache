@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did Dracula lie in the wrong coffin? He made a grave mistake.
+What do you call a boomerang that won't come back? A stick.
 
 
 ## Daily Trivia
 
-Approximately how many Apple I personal computers were created?
- 1. 200
- 2. 1000
- 3. 500
- 4. 100
+What is the domain name for the country Tuvalu?
+ 1. .tv
+ 2. .tu
+ 3. .tt
+ 4. .tl
 
 <details>
   <summary>Answer</summary>
-  200
+  .tv
 </details>
 
 
