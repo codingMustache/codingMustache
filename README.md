@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-You know what they say about cliffhangers...
+What did the ocean say to the beach? Thanks for all the sediment.
 
 
 ## Daily Trivia
 
-In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
- 1. Blue
- 2. Red
- 3. Green
- 4. Yellow
+Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
+ 1. PHP
+ 2. JavaScript
+ 3. Python
+ 4. C#
 
 <details>
   <summary>Answer</summary>
-  Green
+  JavaScript
 </details>
 
 
