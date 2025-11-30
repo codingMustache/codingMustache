@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I made a belt out of watches once... It was a waist of time.
+How do robots eat guacamole? With computer chips.
 
 
 ## Daily Trivia
 
-Which SQL keyword is used to fetch data from a database?
- 1. EXEC
- 2. VALUES
- 3. INDEX
- 4. SELECT
+What port does HTTP run on?
+ 1. 80
+ 2. 23
+ 3. 443
+ 4. 53
 
 <details>
   <summary>Answer</summary>
-  SELECT
+  80
 </details>
 
 
