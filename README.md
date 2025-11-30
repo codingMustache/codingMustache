@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a cow with two legs? Lean beef.
+Thanks for explaining the word "many" to me. It means a lot.
 
 
 ## Daily Trivia
 
-The programming language &#039;Swift&#039; was created to replace what other programming language?
- 1. C#
- 2. Objective-C
- 3. C++
- 4. Ruby
+Which SQL keyword is used to fetch data from a database?
+ 1. EXEC
+ 2. VALUES
+ 3. SELECT
+ 4. INDEX
 
 <details>
   <summary>Answer</summary>
-  Objective-C
+  SELECT
 </details>
 
 
