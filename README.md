@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Thanks for explaining the word "many" to me. It means a lot.
+I knew a guy who collected candy canes, they were all in mint condition
 
 
 ## Daily Trivia
 
-Which SQL keyword is used to fetch data from a database?
- 1. EXEC
- 2. VALUES
- 3. SELECT
- 4. INDEX
+In web design, what does CSS stand for?
+ 1. Cascading Style Sheet
+ 2. Computer Style Sheet
+ 3. Corrective Style Sheet
+ 4. Counter Strike: Source
 
 <details>
   <summary>Answer</summary>
-  SELECT
+  Cascading Style Sheet
 </details>
 
 
