@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Animal Fact #25: Most bobcats are not named bob.
+People who don't eat gluten are really going against the grain.
 
 
 ## Daily Trivia
 
-Lenovo acquired IBM&#039;s personal computer division, including the ThinkPad line of laptops and tablets, in what year?
- 1. 2002
- 2. 1999
- 3. 2008
- 4. 2005
+Which of the following is a personal computer made by the Japanese company Fujitsu?
+ 1. PC-9801
+ 2. MSX
+ 3. Xmillennium 
+ 4. FM-7
 
 <details>
   <summary>Answer</summary>
-  2005
+  FM-7
 </details>
 
 
