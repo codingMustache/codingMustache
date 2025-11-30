@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why can't you use "Beef stew" as a password? Because it's not stroganoff.
+What do you call a gorilla wearing headphones? Anything you'd like, it can't hear you.
 
 
 ## Daily Trivia
 
-In computing, what does MIDI stand for?
- 1. Musical Instrument Digital Interface
- 2. Musical Instrument Data Interface
- 3. Modular Interface of Digital Instruments
- 4. Musical Interface of Digital Instruments
+According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:
+ 1. A&#039;B + B&#039;A
+ 2. A&#039;B&#039;
+ 3. AB&#039; + AB
+ 4. A&#039; + B&#039;
 
 <details>
   <summary>Answer</summary>
-  Musical Instrument Digital Interface
+  A&#039; + B&#039;
 </details>
 
 
