@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where did you learn to make ice cream? Sunday school.
+Did you know crocodiles could grow up to 15 feet? But most just have 4.
 
 
 ## Daily Trivia
 
-Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
- 1. Amazon
- 2. Shopify
- 3. Overstock
- 4. eBay
+Which of these people was NOT a founder of Apple Inc?
+ 1. Steve Jobs
+ 2. Ronald Wayne
+ 3. Steve Wozniak
+ 4. Jonathan Ive
 
 <details>
   <summary>Answer</summary>
-  Amazon
+  Jonathan Ive
 </details>
 
 
