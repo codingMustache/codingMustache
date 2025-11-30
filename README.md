@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How does a scientist freshen their breath? With experi-mints!
+You can't trust a ladder. It will always let you down
 
 
 ## Daily Trivia
 
-What does the acronym CDN stand for in terms of networking?
- 1. Compressed Data Network
- 2. Computational Data Network
- 3. Content Distribution Network
- 4. Content Delivery Network
+Which of the following is NOT a computer science algorithm?
+ 1. Quick Sort
+ 2. Float Sort
+ 3. Bubble Sort
+ 4. Merge Sort
 
 <details>
   <summary>Answer</summary>
-  Content Delivery Network
+  Float Sort
 </details>
 
 
