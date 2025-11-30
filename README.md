@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the difference between a hippo and a zippo? One is really heavy, the other is a little lighter.
+Why did Dracula lie in the wrong coffin? He made a grave mistake.
 
 
 ## Daily Trivia
 
-The acronym &quot;RIP&quot; stands for which of these?
- 1. Regular Interval Processes
- 2. Routine Inspection Protocol
- 3. Runtime Instance Processes
- 4. Routing Information Protocol
+Approximately how many Apple I personal computers were created?
+ 1. 200
+ 2. 1000
+ 3. 500
+ 4. 100
 
 <details>
   <summary>Answer</summary>
-  Routing Information Protocol
+  200
 </details>
 
 
