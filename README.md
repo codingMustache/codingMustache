@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's a ninja's favorite type of shoes? Sneakers!
+Why do bears have hairy coats? Fur protection.
 
 
 ## Daily Trivia
 
-Which of the following is a personal computer made by the Japanese company Fujitsu?
- 1. MSX
- 2. Xmillennium 
- 3. FM-7
- 4. PC-9801
+On which day did the World Wide Web go online?
+ 1. November 12, 1990
+ 2. November 24, 1995
+ 3. December 20, 1990
+ 4. December 17, 1996
 
 <details>
   <summary>Answer</summary>
-  FM-7
+  December 20, 1990
 </details>
 
 
