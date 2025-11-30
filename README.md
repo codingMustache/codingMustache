@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a boomerang that won't come back? A stick.
+What did the grape do when he got stepped on? He let out a little wine.
 
 
 ## Daily Trivia
 
-What is the domain name for the country Tuvalu?
- 1. .tv
- 2. .tu
- 3. .tt
- 4. .tl
+What is the name of the default theme that is installed with Windows XP?
+ 1. Whistler
+ 2. Bliss
+ 3. Neptune
+ 4. Luna
 
 <details>
   <summary>Answer</summary>
-  .tv
+  Luna
 </details>
 
 
