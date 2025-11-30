@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I finally bought the limited edition Thesaurus that I've always wanted. When I opened it, all the pages were blank.
-I have no words to describe how angry I am.
+A man walks into a bar and orders helicopter flavor chips. The barman replies “sorry mate we only do plain”
 
 
 ## Daily Trivia
 
-On which computer hardware device is the BIOS chip located?
- 1. Hard Disk Drive
- 2. Central Processing Unit
- 3. Graphics Processing Unit
- 4. Motherboard
+Which programming language shares its name with an island in Indonesia?
+ 1. Jakarta
+ 2. C
+ 3. Python
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  Java
 </details>
 
 
