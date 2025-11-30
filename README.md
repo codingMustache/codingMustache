@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A ghost walks into a bar and asks for a glass of vodka but the bar tender says, “sorry we don’t serve spirits”
+Why can't you use "Beef stew" as a password? Because it's not stroganoff.
 
 
 ## Daily Trivia
 
-Which RAID array type is associated with data mirroring?
- 1. RAID 1
- 2. RAID 5
- 3. RAID 10
- 4. RAID 0
+In computing, what does MIDI stand for?
+ 1. Musical Instrument Digital Interface
+ 2. Musical Instrument Data Interface
+ 3. Modular Interface of Digital Instruments
+ 4. Musical Interface of Digital Instruments
 
 <details>
   <summary>Answer</summary>
-  RAID 1
+  Musical Instrument Digital Interface
 </details>
 
 
