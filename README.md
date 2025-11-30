@@ -4,22 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do pumpkins sit on people’s porches?
-
-They have no hands to knock on the door.
+What's the difference between a hippo and a zippo? One is really heavy, the other is a little lighter.
 
 
 ## Daily Trivia
 
-Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
- 1. Heartbleed
- 2. Corrupted Blood
- 3. Shellshock
- 4. Shellscript
+The acronym &quot;RIP&quot; stands for which of these?
+ 1. Regular Interval Processes
+ 2. Routine Inspection Protocol
+ 3. Runtime Instance Processes
+ 4. Routing Information Protocol
 
 <details>
   <summary>Answer</summary>
-  Heartbleed
+  Routing Information Protocol
 </details>
 
 
