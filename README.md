@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-People who don't eat gluten are really going against the grain.
+A ghost walks into a bar and asks for a glass of vodka but the bar tender says, “sorry we don’t serve spirits”
 
 
 ## Daily Trivia
 
-Which of the following is a personal computer made by the Japanese company Fujitsu?
- 1. PC-9801
- 2. MSX
- 3. Xmillennium 
- 4. FM-7
+Which RAID array type is associated with data mirroring?
+ 1. RAID 1
+ 2. RAID 5
+ 3. RAID 10
+ 4. RAID 0
 
 <details>
   <summary>Answer</summary>
-  FM-7
+  RAID 1
 </details>
 
 
