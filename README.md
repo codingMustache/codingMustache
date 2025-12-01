@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I’ll tell you something about German sausages, they’re the wurst
+My boss told me to have a good day... so I went home.
 
 
 ## Daily Trivia
 
-Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
- 1. Cheetah
- 2. Tiger
- 3. Puma
- 4. Leopard
+The numbering system with a radix of 16 is more commonly referred to as 
+ 1. Binary
+ 2. Duodecimal
+ 3. Octal
+ 4. Hexidecimal
 
 <details>
   <summary>Answer</summary>
-  Cheetah
+  Hexidecimal
 </details>
 
 
