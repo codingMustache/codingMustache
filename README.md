@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the Dorito farmer say to the other Dorito farmer? Cool Ranch!
+What do you call a fish with no eyes? A fsh.
 
 
 ## Daily Trivia
 
-In the server hosting industry IaaS stands for...
- 1. Infrastructure as a Service
- 2. Internet as a Service
- 3. Internet and a Server
- 4. Infrastructure as a Server
+Generally, which component of a computer draws the most power?
+ 1. Video Card
+ 2. Power Supply
+ 3. Processor
+ 4. Hard Drive
 
 <details>
   <summary>Answer</summary>
-  Infrastructure as a Service
+  Video Card
 </details>
 
 
