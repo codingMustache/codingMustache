@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are pirates called pirates? Because they arrr!
+Why is it always hot in the corner of a room? Because a corner is 90 degrees.
 
 
 ## Daily Trivia
 
-Which of the following is NOT a computer science algorithm?
- 1. Float Sort
- 2. Quick Sort
- 3. Merge Sort
- 4. Bubble Sort
+What does AD stand for in relation to Windows Operating Systems? 
+ 1. Alternative Drive
+ 2. Active Directory
+ 3. Automated Database
+ 4. Active Department
 
 <details>
   <summary>Answer</summary>
-  Float Sort
+  Active Directory
 </details>
 
 
