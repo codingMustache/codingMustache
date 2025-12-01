@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I tried taking some high resolution photos of local farmland, but they all turned out a bit grainy.
+A man was caught stealing in a supermarket today while balanced on the shoulders of a couple of vampires. He was charged with shoplifting on two counts. 
 
 
 ## Daily Trivia
 
-Which of the following is NOT a computer science algorithm?
- 1. Float Sort
- 2. Bubble Sort
- 3. Merge Sort
- 4. Quick Sort
+The C programming language was created by this American computer scientist. 
+ 1. Tim Berners Lee
+ 2. Willis Ware
+ 3. al-Khwārizmī
+ 4. Dennis Ritchie
 
 <details>
   <summary>Answer</summary>
-  Float Sort
+  Dennis Ritchie
 </details>
 
 
