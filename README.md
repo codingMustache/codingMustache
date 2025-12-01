@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you organize a space party? You planet.
+How many bones are in the human hand? A handful of them.
 
 
 ## Daily Trivia
 
-Which of these is not a key value of Agile software development?
- 1. Individuals and interactions
- 2. Customer collaboration
- 3. Responding to change
- 4. Comprehensive documentation
+In computing, what does LAN stand for?
+ 1. Long Antenna Node
+ 2. Light Access Node
+ 3. Local Area Network
+ 4. Land Address Navigation
 
 <details>
   <summary>Answer</summary>
-  Comprehensive documentation
+  Local Area Network
 </details>
 
 
