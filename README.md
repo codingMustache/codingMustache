@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-"What time is it?" I don't know... it keeps changing.
+How do you organize a space party? You planet.
 
 
 ## Daily Trivia
 
-In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
- 1. absolute
- 2. static
- 3. center
- 4. relative
+Which of these is not a key value of Agile software development?
+ 1. Individuals and interactions
+ 2. Customer collaboration
+ 3. Responding to change
+ 4. Comprehensive documentation
 
 <details>
   <summary>Answer</summary>
-  center
+  Comprehensive documentation
 </details>
 
 
