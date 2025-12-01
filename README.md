@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why is it always hot in the corner of a room? Because a corner is 90 degrees.
+The biggest knight at King Arthur's round table was Sir Cumference. He acquired his size from eating too much pi.
 
 
 ## Daily Trivia
 
-What does AD stand for in relation to Windows Operating Systems? 
- 1. Alternative Drive
- 2. Active Directory
- 3. Automated Database
- 4. Active Department
+What was the name given to Android 4.3?
+ 1. Jelly Bean
+ 2. Nutella
+ 3. Lollipop
+ 4. Froyo
 
 <details>
   <summary>Answer</summary>
-  Active Directory
+  Jelly Bean
 </details>
 
 
