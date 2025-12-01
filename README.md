@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I don't trust stairs. They're always up to something.
+It takes guts to be an organ donor.
 
 
 ## Daily Trivia
 
-The name of technology company HP stands for what?
- 1. Howard Packmann
- 2. Hellman-Pohl
- 3. Hewlett-Packard
- 4. Husker-Pollosk
+When was the programming language &quot;C#&quot; released?
+ 1. 2000
+ 2. 1998
+ 3. 1999
+ 4. 2001
 
 <details>
   <summary>Answer</summary>
-  Hewlett-Packard
+  2000
 </details>
 
 
