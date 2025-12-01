@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I decided to sell my Hoover… well it was just collecting dust.
+What is a tornado's favorite game to play? Twister!
 
 
 ## Daily Trivia
 
-Australia, Japan, and Southeast Asia are in which ITU Region?
- 1. Region 1
- 2. Region 2
- 3. Region 4
- 4. Region 3
+Which of these programming languages is a low-level language?
+ 1. Python
+ 2. C#
+ 3. Assembly
+ 4. Pascal
 
 <details>
   <summary>Answer</summary>
-  Region 3
+  Assembly
 </details>
 
 
