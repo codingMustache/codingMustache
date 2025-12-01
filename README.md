@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My sea sickness comes in waves.
+What did the Dorito farmer say to the other Dorito farmer? Cool Ranch!
 
 
 ## Daily Trivia
 
-What is known as &quot;the brain&quot; of the Computer?
- 1. Graphics Processing Unit
- 2. Motherboard
- 3. Central Processing Unit
- 4. Keyboard
+In the server hosting industry IaaS stands for...
+ 1. Infrastructure as a Service
+ 2. Internet as a Service
+ 3. Internet and a Server
+ 4. Infrastructure as a Server
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  Infrastructure as a Service
 </details>
 
 
