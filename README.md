@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How does a dyslexic poet write? Inverse.
+What kind of bagel can fly? A plain bagel.
 
 
 ## Daily Trivia
 
-The C programming language was created by this American computer scientist. 
- 1. al-Khwārizmī
- 2. Tim Berners Lee
- 3. Willis Ware
- 4. Dennis Ritchie
+Nvidia&#039;s headquarters are based in which Silicon Valley city?
+ 1. Santa Clara
+ 2. Palo Alto
+ 3. Cupertino
+ 4. Mountain View
 
 <details>
   <summary>Answer</summary>
-  Dennis Ritchie
+  Santa Clara
 </details>
 
 
