@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the father tomato say to the baby tomato whilst on a family walk? Ketchup.
+I'm practicing for a bug-eating contest and I've got butterflies in my stomach.
 
 
 ## Daily Trivia
 
-What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
- 1. Session
- 2. Data link
- 3. Network
- 4. Transport
+Which programming language shares its name with an island in Indonesia?
+ 1. Java
+ 2. C
+ 3. Python
+ 4. Jakarta
 
 <details>
   <summary>Answer</summary>
-  Transport
+  Java
 </details>
 
 
