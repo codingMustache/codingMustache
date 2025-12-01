@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My friend told me that pepper is the best seasoning for a roast, but I took it with a grain of salt.
+What do you call a group of killer whales playing instruments? An Orca-stra.
 
 
 ## Daily Trivia
 
-What does GHz stand for?
- 1. Gigahatz
- 2. Gigahetz
- 3. Gigahertz
- 4. Gigahotz
+In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
+ 1. Green
+ 2. Blue
+ 3. Yellow
+ 4. Red
 
 <details>
   <summary>Answer</summary>
-  Gigahertz
+  Green
 </details>
 
 
