@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many optometrists does it take to change a light bulb? 1 or 2? 1... or 2?
+How does a dyslexic poet write? Inverse.
 
 
 ## Daily Trivia
 
-What does the &#039;S&#039; in the RSA encryption algorithm stand for?
- 1. Secure
- 2. Schottky
- 3. Shamir
- 4. Stable
+The C programming language was created by this American computer scientist. 
+ 1. al-Khwārizmī
+ 2. Tim Berners Lee
+ 3. Willis Ware
+ 4. Dennis Ritchie
 
 <details>
   <summary>Answer</summary>
-  Shamir
+  Dennis Ritchie
 </details>
 
 
