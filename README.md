@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do bees have sticky hair? Because they use honey combs!
+My sea sickness comes in waves.
 
 
 ## Daily Trivia
 
-Which computer hardware device provides an interface for all other connected devices to communicate?
- 1. Central Processing Unit
+What is known as &quot;the brain&quot; of the Computer?
+ 1. Graphics Processing Unit
  2. Motherboard
- 3. Random Access Memory
- 4. Hard Disk Drive
+ 3. Central Processing Unit
+ 4. Keyboard
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  Central Processing Unit
 </details>
 
 
