@@ -4,20 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I was thinking about moving to Moscow but there is no point Russian into things.
+Where was the Declaration of Independence signed?
+
+At the bottom! 
 
 
 ## Daily Trivia
 
-What five letter word is the motto of the IBM Computer company?
- 1. Think
- 2. Pixel
- 3. Logic
- 4. Click
+America Online (AOL) started out as which of these online service providers?
+ 1. Quantum Link
+ 2. Prodigy
+ 3. CompuServe
+ 4. GEnie
 
 <details>
   <summary>Answer</summary>
-  Think
+  Quantum Link
 </details>
 
 
