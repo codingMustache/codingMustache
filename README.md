@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Do you want a brief explanation of what an acorn is? In a nutshell, it's an oak tree.
+"What time is it?" I don't know... it keeps changing.
 
 
 ## Daily Trivia
 
-What does RAID stand for?
- 1. Randomized Abstract Identification Description
- 2. Redundant Array of Independent Disks
- 3. Range of Applications with Identical Designs
- 4. Rapid Access for Indexed Devices
+In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
+ 1. absolute
+ 2. static
+ 3. center
+ 4. relative
 
 <details>
   <summary>Answer</summary>
-  Redundant Array of Independent Disks
+  center
 </details>
 
 
