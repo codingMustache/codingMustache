@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I'm practicing for a bug-eating contest and I've got butterflies in my stomach.
+Who is the coolest Doctor in the hospital? The hip Doctor!
 
 
 ## Daily Trivia
 
-Which programming language shares its name with an island in Indonesia?
- 1. Java
- 2. C
- 3. Python
- 4. Jakarta
+What does the term GPU stand for?
+ 1. Gaming Processor Unit
+ 2. Graphite Producing Unit
+ 3. Graphical Proprietary Unit
+ 4. Graphics Processing Unit
 
 <details>
   <summary>Answer</summary>
-  Java
+  Graphics Processing Unit
 </details>
 
 
