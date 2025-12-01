@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you fix a damaged jack-o-lantern? You use a pumpkin patch.
+I wouldn't buy anything with velcro. It's a total rip-off.
 
 
 ## Daily Trivia
 
-What was the first company to use the term &quot;Golden Master&quot;?
- 1. Apple
- 2. Google
- 3. Microsoft
- 4. IBM
+Dutch computer scientist Mark Overmars is known for creating which game development engine?
+ 1. Stencyl
+ 2. Construct
+ 3. Torque 2D
+ 4. Game Maker
 
 <details>
   <summary>Answer</summary>
-  Apple
+  Game Maker
 </details>
 
 
