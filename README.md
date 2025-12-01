@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a group of killer whales playing instruments? An Orca-stra.
+Why did the feline fail the lie detector test? Because he be lion.
 
 
 ## Daily Trivia
 
-In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
- 1. Green
- 2. Blue
- 3. Yellow
- 4. Red
+Which data structure does FILO apply to?
+ 1. Queue
+ 2. Heap
+ 3. Stack
+ 4. Tree
 
 <details>
   <summary>Answer</summary>
-  Green
+  Stack
 </details>
 
 
