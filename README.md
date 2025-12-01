@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I tried to write a chemistry joke, but could never get a reaction.
+Why do bees have sticky hair? Because they use honey combs!
 
 
 ## Daily Trivia
 
-What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
- 1. Broadwell
- 2. Coffee Lake
- 3. Skylake
- 4. Sandy Bridge
+Which computer hardware device provides an interface for all other connected devices to communicate?
+ 1. Central Processing Unit
+ 2. Motherboard
+ 3. Random Access Memory
+ 4. Hard Disk Drive
 
 <details>
   <summary>Answer</summary>
-  Coffee Lake
+  Motherboard
 </details>
 
 
