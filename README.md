@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Archaeology really is a career in ruins.
+I ate a clock yesterday. It was so time consuming.
 
 
 ## Daily Trivia
 
-What five letter word is the motto of the IBM Computer company?
- 1. Think
- 2. Pixel
- 3. Logic
- 4. Click
+What was the first Android version specifically optimized for tablets?
+ 1. Eclair
+ 2. Marshmellow
+ 3. Froyo
+ 4. Honeycomb
 
 <details>
   <summary>Answer</summary>
-  Think
+  Honeycomb
 </details>
 
 
