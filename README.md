@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It takes guts to be an organ donor.
+Why did Sweden start painting barcodes on the sides of their battleships? So they could Scandinavian.
 
 
 ## Daily Trivia
 
-When was the programming language &quot;C#&quot; released?
- 1. 2000
- 2. 1998
- 3. 1999
- 4. 2001
+HTML is what type of language?
+ 1. Macro Language
+ 2. Scripting Language
+ 3. Programming Language
+ 4. Markup Language
 
 <details>
   <summary>Answer</summary>
-  2000
+  Markup Language
 </details>
 
 
