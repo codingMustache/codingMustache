@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is a tornado's favorite game to play? Twister!
+What did the drummer name her twin daughters? Anna One, Anna Two...
 
 
 ## Daily Trivia
 
-Which of these programming languages is a low-level language?
- 1. Python
- 2. C#
- 3. Assembly
- 4. Pascal
+What internet protocol was documented in RFC 1459?
+ 1. FTP
+ 2. IRC
+ 3. HTTPS
+ 4. HTTP
 
 <details>
   <summary>Answer</summary>
-  Assembly
+  IRC
 </details>
 
 
