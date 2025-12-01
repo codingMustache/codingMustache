@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did Sweden start painting barcodes on the sides of their battleships? So they could Scandinavian.
+I tried taking some high resolution photos of local farmland, but they all turned out a bit grainy.
 
 
 ## Daily Trivia
 
-HTML is what type of language?
- 1. Macro Language
- 2. Scripting Language
- 3. Programming Language
- 4. Markup Language
+Which of the following is NOT a computer science algorithm?
+ 1. Float Sort
+ 2. Bubble Sort
+ 3. Merge Sort
+ 4. Quick Sort
 
 <details>
   <summary>Answer</summary>
-  Markup Language
+  Float Sort
 </details>
 
 
