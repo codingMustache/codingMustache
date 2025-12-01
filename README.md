@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The biggest knight at King Arthur's round table was Sir Cumference. He acquired his size from eating too much pi.
+I was in an 80's band called the prevention. We were better than the cure.
 
 
 ## Daily Trivia
 
-What was the name given to Android 4.3?
- 1. Jelly Bean
- 2. Nutella
- 3. Lollipop
- 4. Froyo
+On which day did the World Wide Web go online?
+ 1. November 24, 1995
+ 2. December 17, 1996
+ 3. December 20, 1990
+ 4. November 12, 1990
 
 <details>
   <summary>Answer</summary>
-  Jelly Bean
+  December 20, 1990
 </details>
 
 
