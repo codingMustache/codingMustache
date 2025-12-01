@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I wouldn't buy anything with velcro. It's a total rip-off.
+I don't trust stairs. They're always up to something.
 
 
 ## Daily Trivia
 
-Dutch computer scientist Mark Overmars is known for creating which game development engine?
- 1. Stencyl
- 2. Construct
- 3. Torque 2D
- 4. Game Maker
+The name of technology company HP stands for what?
+ 1. Howard Packmann
+ 2. Hellman-Pohl
+ 3. Hewlett-Packard
+ 4. Husker-Pollosk
 
 <details>
   <summary>Answer</summary>
-  Game Maker
+  Hewlett-Packard
 </details>
 
 
