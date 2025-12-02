@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A man is washing the car with his son. The son asks...... "Dad, can’t you just use a sponge?"
+What was a more important invention than the first telephone? The second one.
 
 
 ## Daily Trivia
 
-The Harvard architecture for micro-controllers added which additional bus?
- 1. Instruction
- 2. Address
- 3. Control
- 4. Data
+How long is an IPv6 address?
+ 1. 128 bytes
+ 2. 128 bits
+ 3. 32 bits
+ 4. 64 bits
 
 <details>
   <summary>Answer</summary>
-  Instruction
+  128 bits
 </details>
 
 
