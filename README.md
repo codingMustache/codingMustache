@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do sheep go to get their hair cut? The baa-baa shop.
+A man tried to sell me a coffin today. I told him that's the last thing I need.
 
 
 ## Daily Trivia
 
-What does LTS stand for in the software market?
- 1. Long Taco Service
- 2. Ludicrous Transfer Speed
- 3. Ludicrous Turbo Speed
- 4. Long Term Support
+What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
+ 1. Session
+ 2. Data link
+ 3. Transport
+ 4. Network
 
 <details>
   <summary>Answer</summary>
-  Long Term Support
+  Transport
 </details>
 
 
