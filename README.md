@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Whiteboards ... are remarkable.
+How do you teach a kid to climb stairs? There is a step by step guide.
 
 
 ## Daily Trivia
 
-What did the name of the Tor Anonymity Network orignially stand for?
- 1. The Ominous Router
- 2. The Orange Router
- 3. The Only Router
- 4. The Onion Router
+The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
+ 1. HD Graphics 700 
+ 2. HD Graphics 600
+ 3. HD Graphics 7000
+ 4. HD Graphics 500
 
 <details>
   <summary>Answer</summary>
-  The Onion Router
+  HD Graphics 500
 </details>
 
 
