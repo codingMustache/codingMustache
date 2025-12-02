@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you steal a coat? You jacket.
+People are making apocalypse jokes like there’s no tomorrow.
 
 
 ## Daily Trivia
 
-The Harvard architecture for micro-controllers added which additional bus?
- 1. Instruction
- 2. Data
- 3. Control
- 4. Address
+The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
+ 1. Marshall Islands
+ 2. Fiji
+ 3. Tuvalu
+ 4. Micronesia
 
 <details>
   <summary>Answer</summary>
-  Instruction
+  Micronesia
 </details>
 
 
