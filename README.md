@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you teach a kid to climb stairs? There is a step by step guide.
+What don't watermelons get married? Because they cantaloupe.
 
 
 ## Daily Trivia
 
-The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
- 1. HD Graphics 700 
- 2. HD Graphics 600
- 3. HD Graphics 7000
- 4. HD Graphics 500
+When Gmail first launched, how much storage did it provide for your email?
+ 1. 512MB
+ 2. Unlimited
+ 3. 5GB
+ 4. 1GB
 
 <details>
   <summary>Answer</summary>
-  HD Graphics 500
+  1GB
 </details>
 
 
