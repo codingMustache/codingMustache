@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What cheese can never be yours? Nacho cheese.
+How can you tell a vampire has a cold? They start coffin.
 
 
 ## Daily Trivia
 
-According to the International System of Units, how many bytes are in a kilobyte of RAM?
- 1. 1000
- 2. 500
- 3. 1024
- 4. 512
+In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
+ 1. static
+ 2. absolute
+ 3. relative
+ 4. center
 
 <details>
   <summary>Answer</summary>
-  1000
+  center
 </details>
 
 
