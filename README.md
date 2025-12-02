@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I’m reading a book on the history of glue – can’t put it down.
+I couldn't get a reservation at the library. They were completely booked.
 
 
 ## Daily Trivia
 
-In networking, what does OSPF stand for?
- 1. Order State Part First
- 2. Order Sense Ping Find
- 3. Open Shortest Path First
- 4. Open Signal Path Finder
+Which of the following is the oldest of these computers by release date?
+ 1. TRS-80
+ 2. Commodore 64
+ 3. ZX Spectrum
+ 4. Apple 3
 
 <details>
   <summary>Answer</summary>
-  Open Shortest Path First
+  TRS-80
 </details>
 
 
