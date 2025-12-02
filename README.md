@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to have a job at a calendar factory but I got the sack because I took a couple of days off.
+The urge to sing the Lion King song is just a whim away.
 
 
 ## Daily Trivia
 
-In programming, what do you call functions with the same name but different implementations?
- 1. Abstracting
- 2. Overloading
- 3. Overriding
- 4. Inheriting
+What is the main CPU is the Sega Mega Drive / Sega Genesis?
+ 1. Intel 8088
+ 2. Motorola 68000
+ 3. Zilog Z80
+ 4. Yamaha YM2612
 
 <details>
   <summary>Answer</summary>
-  Overloading
+  Motorola 68000
 </details>
 
 
