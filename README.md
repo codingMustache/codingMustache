@@ -4,22 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the worst part about being a cross-eyed teacher?
-
-They can't control their pupils.
+As I suspected, someone has been adding soil to my garden. The plot thickens.
 
 
 ## Daily Trivia
 
-Which programming language shares its name with an island in Indonesia?
- 1. Python
- 2. C
- 3. Jakarta
- 4. Java
+Which computer hardware device provides an interface for all other connected devices to communicate?
+ 1. Hard Disk Drive
+ 2. Motherboard
+ 3. Random Access Memory
+ 4. Central Processing Unit
 
 <details>
   <summary>Answer</summary>
-  Java
+  Motherboard
 </details>
 
 
