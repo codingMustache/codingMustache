@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the chameleon who couldn't change color? They had a reptile dysfunction.
+"Dad, do you think it's going to snow this winter?" "I dont know, its all up in the air"
 
 
 ## Daily Trivia
 
-Which computer hardware device provides an interface for all other connected devices to communicate?
- 1. Central Processing Unit
- 2. Hard Disk Drive
- 3. Random Access Memory
- 4. Motherboard
+In computing, what does LAN stand for?
+ 1. Local Area Network
+ 2. Land Address Navigation
+ 3. Light Access Node
+ 4. Long Antenna Node
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  Local Area Network
 </details>
 
 
