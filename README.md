@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A man tried to sell me a coffin today. I told him that's the last thing I need.
+What do you call a group of killer whales playing instruments? An Orca-stra.
 
 
 ## Daily Trivia
 
-What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
- 1. Session
- 2. Data link
- 3. Transport
- 4. Network
+Which RAID array type is associated with data mirroring?
+ 1. RAID 5
+ 2. RAID 0
+ 3. RAID 10
+ 4. RAID 1
 
 <details>
   <summary>Answer</summary>
-  Transport
+  RAID 1
 </details>
 
 
