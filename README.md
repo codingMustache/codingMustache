@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The invention of the wheel was what got things rolling
+My dentist is the best, he even has a little plaque!
 
 
 ## Daily Trivia
 
-In programming, what do you call functions with the same name but different implementations?
- 1. Abstracting
- 2. Overriding
- 3. Overloading
- 4. Inheriting
+What is the most preferred image format used for logos in the Wikimedia database?
+ 1. .png
+ 2. .svg
+ 3. .jpeg
+ 4. .gif
 
 <details>
   <summary>Answer</summary>
-  Overloading
+  .svg
 </details>
 
 
