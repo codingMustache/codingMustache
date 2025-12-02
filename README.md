@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did Michael Jackson name his denim store?    Billy Jeans!
+I used to have a job at a calendar factory but I got the sack because I took a couple of days off.
 
 
 ## Daily Trivia
 
-What programming language was GitHub written in?
- 1. JavaScript
- 2. Python
- 3. Lua
- 4. Ruby
+In programming, what do you call functions with the same name but different implementations?
+ 1. Abstracting
+ 2. Overloading
+ 3. Overriding
+ 4. Inheriting
 
 <details>
   <summary>Answer</summary>
-  Ruby
+  Overloading
 </details>
 
 
