@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a group of killer whales playing instruments? An Orca-stra.
+If you walk into a forest and cut down a tree, but the tree doesn't understand why you cut it down, do you think it's stumped?
 
 
 ## Daily Trivia
 
-Which RAID array type is associated with data mirroring?
- 1. RAID 5
- 2. RAID 0
- 3. RAID 10
- 4. RAID 1
+Approximately how many Apple I personal computers were created?
+ 1. 200
+ 2. 1000
+ 3. 500
+ 4. 100
 
 <details>
   <summary>Answer</summary>
-  RAID 1
+  200
 </details>
 
 
