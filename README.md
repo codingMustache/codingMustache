@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What don't watermelons get married? Because they cantaloupe.
+What do you get when you cross a rabbit with a water hose? Hare spray.
 
 
 ## Daily Trivia
 
-When Gmail first launched, how much storage did it provide for your email?
- 1. 512MB
- 2. Unlimited
- 3. 5GB
- 4. 1GB
+What is the name of the default theme that is installed with Windows XP?
+ 1. Whistler
+ 2. Bliss
+ 3. Neptune
+ 4. Luna
 
 <details>
   <summary>Answer</summary>
-  1GB
+  Luna
 </details>
 
 
