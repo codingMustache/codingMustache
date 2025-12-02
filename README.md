@@ -4,22 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the hat say to the scarf?
-You can hang around. I'll just go on ahead.
-
+Why did the feline fail the lie detector test? Because he be lion.
 
 
 ## Daily Trivia
 
-When was the programming language &quot;C#&quot; released?
- 1. 2000
- 2. 1999
- 3. 2001
- 4. 1998
+In networking, what does OSPF stand for?
+ 1. Order State Part First
+ 2. Order Sense Ping Find
+ 3. Open Signal Path Finder
+ 4. Open Shortest Path First
 
 <details>
   <summary>Answer</summary>
-  2000
+  Open Shortest Path First
 </details>
 
 
