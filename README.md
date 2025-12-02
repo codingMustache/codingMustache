@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are fish so smart? Because they live in schools!
+What do you call a careful wolf? Aware wolf.
 
 
 ## Daily Trivia
 
-How long is an IPv6 address?
- 1. 32 bits
- 2. 128 bits
- 3. 64 bits
- 4. 128 bytes
+What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
+ 1. FM Synthesizer
+ 2. Programmable Sound Generator (PSG)
+ 3. PCM Sampler
+ 4. ADPCM Sampler
 
 <details>
   <summary>Answer</summary>
-  128 bits
+  ADPCM Sampler
 </details>
 
 
