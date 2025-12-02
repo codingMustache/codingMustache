@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a boy who stopped digging holes? Douglas.
+What is the hardest part about sky diving? The ground.
 
 
 ## Daily Trivia
 
-Which of these is not a key value of Agile software development?
- 1. Individuals and interactions
- 2. Customer collaboration
- 3. Responding to change
- 4. Comprehensive documentation
+In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
+ 1. Red
+ 2. Green
+ 3. Blue
+ 4. Yellow
 
 <details>
   <summary>Answer</summary>
-  Comprehensive documentation
+  Green
 </details>
 
 
