@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do hamburgers go to dance? The meat-ball.
+Two peanuts were walking down the street. One was a salted.
 
 
 ## Daily Trivia
 
-In web design, what does CSS stand for?
- 1. Counter Strike: Source
- 2. Cascading Style Sheet
- 3. Corrective Style Sheet
- 4. Computer Style Sheet
+Which programming language shares its name with an island in Indonesia?
+ 1. Python
+ 2. C
+ 3. Jakarta
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  Cascading Style Sheet
+  Java
 </details>
 
 
