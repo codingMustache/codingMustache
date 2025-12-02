@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Have you heard about the owl sanctuary job opening? It’s all night shifts but they’re all a hoot over there.
+I’m reading a book on the history of glue – can’t put it down.
 
 
 ## Daily Trivia
 
-What was the name of the security vulnerability found in Bash in 2014?
- 1. Heartbleed
- 2. Bashbug
- 3. Stagefright
- 4. Shellshock
+In networking, what does OSPF stand for?
+ 1. Order State Part First
+ 2. Order Sense Ping Find
+ 3. Open Shortest Path First
+ 4. Open Signal Path Finder
 
 <details>
   <summary>Answer</summary>
-  Shellshock
+  Open Shortest Path First
 </details>
 
 
