@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take.
+What concert costs only 45 cents? 50 cent featuring Nickelback.
 
 
 ## Daily Trivia
 
-What does AD stand for in relation to Windows Operating Systems? 
- 1. Alternative Drive
- 2. Automated Database
- 3. Active Directory
- 4. Active Department
+What vulnerability ranked #1 on the OWASP Top 10 in 2013?
+ 1. Broken Authentication
+ 2. Cross-Site Scripting
+ 3. Injection 
+ 4. Insecure Direct Object References
 
 <details>
   <summary>Answer</summary>
-  Active Directory
+  Injection 
 </details>
 
 
