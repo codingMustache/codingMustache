@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the feline fail the lie detector test? Because he be lion.
+Whiteboards ... are remarkable.
 
 
 ## Daily Trivia
 
-In networking, what does OSPF stand for?
- 1. Order State Part First
- 2. Order Sense Ping Find
- 3. Open Signal Path Finder
- 4. Open Shortest Path First
+What did the name of the Tor Anonymity Network orignially stand for?
+ 1. The Ominous Router
+ 2. The Orange Router
+ 3. The Only Router
+ 4. The Onion Router
 
 <details>
   <summary>Answer</summary>
-  Open Shortest Path First
+  The Onion Router
 </details>
 
 
