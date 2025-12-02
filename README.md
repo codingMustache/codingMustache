@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The urge to sing the Lion King song is just a whim away.
+What creature is smarter than a talking parrot? A spelling bee.
 
 
 ## Daily Trivia
 
-What is the main CPU is the Sega Mega Drive / Sega Genesis?
- 1. Intel 8088
- 2. Motorola 68000
- 3. Zilog Z80
- 4. Yamaha YM2612
+How many cores does the Intel i7-6950X have?
+ 1. 10
+ 2. 8
+ 3. 4
+ 4. 12
 
 <details>
   <summary>Answer</summary>
-  Motorola 68000
+  10
 </details>
 
 
