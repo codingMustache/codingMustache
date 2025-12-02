@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you get when you cross a rabbit with a water hose? Hare spray.
+Why do cows not have toes? They lactose!
 
 
 ## Daily Trivia
 
-What is the name of the default theme that is installed with Windows XP?
- 1. Whistler
- 2. Bliss
- 3. Neptune
- 4. Luna
+Which computer hardware device provides an interface for all other connected devices to communicate?
+ 1. Central Processing Unit
+ 2. Hard Disk Drive
+ 3. Random Access Memory
+ 4. Motherboard
 
 <details>
   <summary>Answer</summary>
-  Luna
+  Motherboard
 </details>
 
 
