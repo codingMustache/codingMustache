@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The first time I got a universal remote control I thought to myself, "This changes everything"
+Why can't your nose be 12 inches long? Because then it'd be a foot!
 
 
 ## Daily Trivia
 
-In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
- 1. Red
- 2. Green
- 3. Blue
- 4. Yellow
+The Harvard architecture for micro-controllers added which additional bus?
+ 1. Address
+ 2. Data
+ 3. Control
+ 4. Instruction
 
 <details>
   <summary>Answer</summary>
-  Green
+  Instruction
 </details>
 
 
