@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are oranges the smartest fruit? Because they are made to concentrate. 
+What’s the longest word in the dictionary? Smiles. Because there’s a mile between the two S’s.
 
 
 ## Daily Trivia
 
-What was Bitcoin&#039;s block size limit in 2010?
- 1. 1GB
- 2. 1 KB
- 3. 1 TB
- 4. 1 MB
+What vulnerability ranked #1 on the OWASP Top 10 in 2013?
+ 1. Insecure Direct Object References
+ 2. Injection 
+ 3. Cross-Site Scripting
+ 4. Broken Authentication
 
 <details>
   <summary>Answer</summary>
-  1 MB
+  Injection 
 </details>
 
 
