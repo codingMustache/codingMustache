@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a female snake. misssssssss 
+They laughed when I said I wanted to be a comedian – they’re not laughing now.
 
 
 ## Daily Trivia
 
-What does the &#039;S&#039; in the RSA encryption algorithm stand for?
- 1. Shamir
- 2. Stable
- 3. Schottky
- 4. Secure
+What is the code name for the mobile operating system Android 7.0?
+ 1. Marshmallow
+ 2. Nougat
+ 3. Jelly Bean
+ 4. Ice Cream Sandwich
 
 <details>
   <summary>Answer</summary>
-  Shamir
+  Nougat
 </details>
 
 
