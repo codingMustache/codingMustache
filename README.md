@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you get when you cross a pig and a pineapple? A porky pine
+What time did the man go to the dentist? Tooth hurt-y.
 
 
 ## Daily Trivia
 
-America Online (AOL) started out as which of these online service providers?
- 1. Prodigy
- 2. CompuServe
- 3. Quantum Link
- 4. GEnie
+While Apple was formed in California, in which western state was Microsoft founded?
+ 1. New Mexico
+ 2. Washington
+ 3. Colorado
+ 4. Arizona
 
 <details>
   <summary>Answer</summary>
-  Quantum Link
+  New Mexico
 </details>
 
 
