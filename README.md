@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call an alligator in a vest? An in-vest-igator!
+Why are oranges the smartest fruit? Because they are made to concentrate. 
 
 
 ## Daily Trivia
 
-Which of these people was NOT a founder of Apple Inc?
- 1. Ronald Wayne
- 2. Steve Jobs
- 3. Steve Wozniak
- 4. Jonathan Ive
+What was Bitcoin&#039;s block size limit in 2010?
+ 1. 1GB
+ 2. 1 KB
+ 3. 1 TB
+ 4. 1 MB
 
 <details>
   <summary>Answer</summary>
-  Jonathan Ive
+  1 MB
 </details>
 
 
