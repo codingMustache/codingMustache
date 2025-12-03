@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A man is washing the car with his son. The son asks...... "Dad, can’t you just use a sponge?"
+I just broke my guitar. It's okay, I won't fret
 
 
 ## Daily Trivia
 
-What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
- 1. Data link
- 2. Session
- 3. Network
- 4. Transport
+This mobile OS held the largest market share in 2012.
+ 1. iOS
+ 2. Symbian
+ 3. BlackBerry
+ 4. Android
 
 <details>
   <summary>Answer</summary>
-  Transport
+  iOS
 </details>
 
 
