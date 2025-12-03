@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is the best way to carve?
-Whittle by whittle.
+"What time is it?" I don't know... it keeps changing.
 
 
 ## Daily Trivia
 
-The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
- 1. Tuvalu
- 2. Micronesia
- 3. Marshall Islands
- 4. Fiji
+What is the code name for the mobile operating system Android 7.0?
+ 1. Nougat
+ 2. Marshmallow
+ 3. Jelly Bean
+ 4. Ice Cream Sandwich
 
 <details>
   <summary>Answer</summary>
-  Micronesia
+  Nougat
 </details>
 
 
