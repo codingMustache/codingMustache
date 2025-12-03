@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I got fired from the transmission factor, turns out I didn't put on enough shifts...
+I always wanted to look into why I procrastinate, but I keep putting it off. 
 
 
 ## Daily Trivia
 
-In networking, what does OSPF stand for?
- 1. Order State Part First
- 2. Order Sense Ping Find
- 3. Open Signal Path Finder
- 4. Open Shortest Path First
+.at is the top-level domain for what country?
+ 1. Australia
+ 2. Argentina
+ 3. Austria
+ 4. Angola
 
 <details>
   <summary>Answer</summary>
-  Open Shortest Path First
+  Austria
 </details>
 
 
