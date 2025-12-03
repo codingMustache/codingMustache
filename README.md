@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Camping is intense.
+What do you do when your bunny gets wet? You get your hare dryer.
 
 
 ## Daily Trivia
 
-What does the term MIME stand for, in regards to computing?
- 1. Multipurpose Internet Mail Extensions
- 2. Multipurpose Interleave Mail Exchange
- 3. Mail Internet Mail Exchange
- 4. Mail Interleave Method Exchange
+What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
+ 1. Coffee Lake
+ 2. Broadwell
+ 3. Skylake
+ 4. Sandy Bridge
 
 <details>
   <summary>Answer</summary>
-  Multipurpose Internet Mail Extensions
+  Coffee Lake
 </details>
 
 
