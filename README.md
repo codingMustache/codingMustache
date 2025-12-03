@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did one wall say to the other wall? I'll meet you at the corner!
+I was shocked when I was diagnosed as colorblind... It came out of the purple.
 
 
 ## Daily Trivia
 
-What does the &#039;S&#039; in the RSA encryption algorithm stand for?
- 1. Schottky
- 2. Stable
- 3. Secure
- 4. Shamir
+Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
+ 1. Microsoft
+ 2. Atari
+ 3. Commodore
+ 4. Apple
 
 <details>
   <summary>Answer</summary>
-  Shamir
+  Apple
 </details>
 
 
