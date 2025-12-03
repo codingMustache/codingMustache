@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What musical instrument is found in the bathroom? A tuba toothpaste.
+What do you call an alligator in a vest? An in-vest-igator!
 
 
 ## Daily Trivia
 
-Which of these is not a layer in the OSI model for data communications?
- 1. Application Layer
- 2. Transport Layer
- 3. Physical Layer
- 4. Connection Layer
+Which of these people was NOT a founder of Apple Inc?
+ 1. Ronald Wayne
+ 2. Steve Jobs
+ 3. Steve Wozniak
+ 4. Jonathan Ive
 
 <details>
   <summary>Answer</summary>
-  Connection Layer
+  Jonathan Ive
 </details>
 
 
