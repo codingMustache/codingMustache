@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Two muffins were sitting in an oven, and the first looks over to the second, and says, “man, it’s really hot in here”. The second looks over at the first with a surprised look, and answers, “WHOA, a talking muffin!”
+What do you get when you cross a snowman with a vampire? Frostbite.
 
 
 ## Daily Trivia
 
-What does the Prt Sc button do?
- 1. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
- 2. Nothing
- 3. Captures what&#039;s on the screen and copies it to your clipboard
- 4. Closes all windows
+Australia, Japan, and Southeast Asia are in which ITU Region?
+ 1. Region 4
+ 2. Region 2
+ 3. Region 1
+ 4. Region 3
 
 <details>
   <summary>Answer</summary>
-  Captures what&#039;s on the screen and copies it to your clipboard
+  Region 3
 </details>
 
 
