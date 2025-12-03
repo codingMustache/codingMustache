@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-They laughed when I said I wanted to be a comedian – they’re not laughing now.
+Why do bees have sticky hair? Because they use honey combs!
 
 
 ## Daily Trivia
 
-What is the code name for the mobile operating system Android 7.0?
- 1. Marshmallow
- 2. Nougat
- 3. Jelly Bean
- 4. Ice Cream Sandwich
+Australia, Japan, and Southeast Asia are in which ITU Region?
+ 1. Region 4
+ 2. Region 3
+ 3. Region 2
+ 4. Region 1
 
 <details>
   <summary>Answer</summary>
-  Nougat
+  Region 3
 </details>
 
 
