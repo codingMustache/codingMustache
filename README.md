@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What’s the longest word in the dictionary? Smiles. Because there’s a mile between the two S’s.
+Wife told me to take the spider out instead of killing it... We had some drinks, cool guy, wants to be a web developer.
 
 
 ## Daily Trivia
 
-What vulnerability ranked #1 on the OWASP Top 10 in 2013?
- 1. Insecure Direct Object References
- 2. Injection 
- 3. Cross-Site Scripting
- 4. Broken Authentication
+What was the name of the first Bulgarian personal computer?
+ 1. IZOT 1030
+ 2. Pravetz 8D
+ 3. IMKO-1
+ 4. Pravetz 82
 
 <details>
   <summary>Answer</summary>
-  Injection 
+  IMKO-1
 </details>
 
 
