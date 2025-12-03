@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the m&m go to school? Because it wanted to be a Smartie!
+Camping is intense.
 
 
 ## Daily Trivia
 
-What does the Prt Sc button do?
- 1. Nothing
- 2. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
- 3. Captures what&#039;s on the screen and copies it to your clipboard
- 4. Closes all windows
+What does the term MIME stand for, in regards to computing?
+ 1. Multipurpose Internet Mail Extensions
+ 2. Multipurpose Interleave Mail Exchange
+ 3. Mail Internet Mail Exchange
+ 4. Mail Interleave Method Exchange
 
 <details>
   <summary>Answer</summary>
-  Captures what&#039;s on the screen and copies it to your clipboard
+  Multipurpose Internet Mail Extensions
 </details>
 
 
