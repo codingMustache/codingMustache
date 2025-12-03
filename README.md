@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What musical instrument is found in the bathroom? A tuba toothpaste.
+What did one wall say to the other wall? I'll meet you at the corner!
 
 
 ## Daily Trivia
 
-What is the name of the default theme that is installed with Windows XP?
- 1. Luna
- 2. Bliss
- 3. Neptune
- 4. Whistler
+What does the &#039;S&#039; in the RSA encryption algorithm stand for?
+ 1. Schottky
+ 2. Stable
+ 3. Secure
+ 4. Shamir
 
 <details>
   <summary>Answer</summary>
-  Luna
+  Shamir
 </details>
 
 
