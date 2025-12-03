@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-"What time is it?" I don't know... it keeps changing.
+Why do wizards clean their teeth three times a day? To prevent bat breath!
 
 
 ## Daily Trivia
 
-What is the code name for the mobile operating system Android 7.0?
- 1. Nougat
- 2. Marshmallow
- 3. Jelly Bean
- 4. Ice Cream Sandwich
+Which of these names was an actual codename for a cancelled Microsoft project?
+ 1. Neptune
+ 2. Saturn
+ 3. Pollux
+ 4. Enceladus
 
 <details>
   <summary>Answer</summary>
-  Nougat
+  Neptune
 </details>
 
 
