@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the chameleon who couldn't change color? They had a reptile dysfunction.
+A woman is on trial for beating her husband to death with his guitar collection. Judge says, ‘First offender?’ She says, ‘No, first a Gibson! Then a Fender!’
 
 
 ## Daily Trivia
 
-Which programming language was developed by Sun Microsystems in 1995?
- 1. Java
- 2. C++
- 3. Solaris OS
- 4. Python
+Which computer hardware device provides an interface for all other connected devices to communicate?
+ 1. Random Access Memory
+ 2. Central Processing Unit
+ 3. Motherboard
+ 4. Hard Disk Drive
 
 <details>
   <summary>Answer</summary>
-  Java
+  Motherboard
 </details>
 
 
