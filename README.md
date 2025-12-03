@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you do when your bunny gets wet? You get your hare dryer.
+A man walks into a bar and orders helicopter flavor chips. The barman replies “sorry mate we only do plain”
 
 
 ## Daily Trivia
 
-What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
- 1. Coffee Lake
- 2. Broadwell
- 3. Skylake
- 4. Sandy Bridge
+What internet protocol was documented in RFC 1459?
+ 1. IRC
+ 2. HTTP
+ 3. HTTPS
+ 4. FTP
 
 <details>
   <summary>Answer</summary>
-  Coffee Lake
+  IRC
 </details>
 
 
