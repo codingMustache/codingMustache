@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I’m reading a book on the history of glue – can’t put it down.
+How do you get a baby alien to sleep?  You rocket.
 
 
 ## Daily Trivia
 
-In any programming language, what is the most common way to iterate through an array?
- 1. &#039;If&#039; Statements
- 2. &#039;Do-while&#039; loops
- 3. &#039;While&#039; loops
- 4. &#039;For&#039; loops
+Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
+ 1. Puma
+ 2. Cheetah
+ 3. Tiger
+ 4. Leopard
 
 <details>
   <summary>Answer</summary>
-  &#039;For&#039; loops
+  Cheetah
 </details>
 
 
