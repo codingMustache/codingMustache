@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What time did the man go to the dentist? Tooth hurt-y.
+What do you call a fake noodle? An impasta.
 
 
 ## Daily Trivia
 
-While Apple was formed in California, in which western state was Microsoft founded?
- 1. New Mexico
- 2. Washington
- 3. Colorado
- 4. Arizona
+What does CPU stand for?
+ 1. Central Processing Unit
+ 2. Computer Personal Unit
+ 3. Central Process Unit
+ 4. Central Processor Unit
 
 <details>
   <summary>Answer</summary>
-  New Mexico
+  Central Processing Unit
 </details>
 
 
