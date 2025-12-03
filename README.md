@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-“My Dog has no nose.” “How does he smell?” “Awful”
+What is the leading cause of dry skin? Towels
 
 
 ## Daily Trivia
 
-The teapot often seen in many 3D modeling applications is called what?
- 1. Tennessee Teapot
- 2. 3D Teapot
- 3. Utah Teapot
- 4. Pixar Teapot
+Which of the following languages is used as a scripting language in the Unity 3D game engine?
+ 1. C#
+ 2. Java
+ 3. Objective-C
+ 4. C++
 
 <details>
   <summary>Answer</summary>
-  Utah Teapot
+  C#
 </details>
 
 
