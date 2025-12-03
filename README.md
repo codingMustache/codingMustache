@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-This furniture store keeps emailing me, all I wanted was one night stand!
+Why did the belt go to prison? He held up a pair of pants!
 
 
 ## Daily Trivia
 
-Which of these is not a layer in the OSI model for data communications?
- 1. Transport Layer
- 2. Physical Layer
- 3. Connection Layer
- 4. Application Layer
+Which of these names was an actual codename for a cancelled Microsoft project?
+ 1. Pollux
+ 2. Enceladus
+ 3. Saturn
+ 4. Neptune
 
 <details>
   <summary>Answer</summary>
-  Connection Layer
+  Neptune
 </details>
 
 
