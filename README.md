@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How was the snow globe feeling after the storm? A little shaken.
+Don’t interrupt someone working intently on a puzzle. Chances are, you’ll hear some crosswords.
 
 
 ## Daily Trivia
 
-What programming language was GitHub written in?
- 1. Lua
- 2. Python
- 3. JavaScript
- 4. Ruby
+Which SQL keyword is used to fetch data from a database?
+ 1. VALUES
+ 2. SELECT
+ 3. INDEX
+ 4. EXEC
 
 <details>
   <summary>Answer</summary>
-  Ruby
+  SELECT
 </details>
 
 
