@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A woman is on trial for beating her husband to death with his guitar collection. Judge says, ‘First offender?’ She says, ‘No, first a Gibson! Then a Fender!’
+Sore throats are a pain in the neck!
 
 
 ## Daily Trivia
 
-Which computer hardware device provides an interface for all other connected devices to communicate?
- 1. Random Access Memory
- 2. Central Processing Unit
- 3. Motherboard
- 4. Hard Disk Drive
+Which kind of algorithm is Ron Rivest not famous for creating?
+ 1. Stream cipher
+ 2. Asymmetric encryption
+ 3. Hashing algorithm
+ 4. Secret sharing scheme
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  Secret sharing scheme
 </details>
 
 
