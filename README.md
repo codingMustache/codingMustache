@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I was shocked when I was diagnosed as colorblind... It came out of the purple.
+Why did the m&m go to school? Because it wanted to be a Smartie!
 
 
 ## Daily Trivia
 
-Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
- 1. Microsoft
- 2. Atari
- 3. Commodore
- 4. Apple
+What does the Prt Sc button do?
+ 1. Nothing
+ 2. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
+ 3. Captures what&#039;s on the screen and copies it to your clipboard
+ 4. Closes all windows
 
 <details>
   <summary>Answer</summary>
-  Apple
+  Captures what&#039;s on the screen and copies it to your clipboard
 </details>
 
 
