@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Don’t interrupt someone working intently on a puzzle. Chances are, you’ll hear some crosswords.
+This furniture store keeps emailing me, all I wanted was one night stand!
 
 
 ## Daily Trivia
 
-Which SQL keyword is used to fetch data from a database?
- 1. VALUES
- 2. SELECT
- 3. INDEX
- 4. EXEC
+Which of these is not a layer in the OSI model for data communications?
+ 1. Transport Layer
+ 2. Physical Layer
+ 3. Connection Layer
+ 4. Application Layer
 
 <details>
   <summary>Answer</summary>
-  SELECT
+  Connection Layer
 </details>
 
 
