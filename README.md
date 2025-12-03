@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A man walks into a bar and orders helicopter flavor chips. The barman replies “sorry mate we only do plain”
+I got fired from the transmission factor, turns out I didn't put on enough shifts...
 
 
 ## Daily Trivia
 
-What internet protocol was documented in RFC 1459?
- 1. IRC
- 2. HTTP
- 3. HTTPS
- 4. FTP
+In networking, what does OSPF stand for?
+ 1. Order State Part First
+ 2. Order Sense Ping Find
+ 3. Open Signal Path Finder
+ 4. Open Shortest Path First
 
 <details>
   <summary>Answer</summary>
-  IRC
+  Open Shortest Path First
 </details>
 
 
