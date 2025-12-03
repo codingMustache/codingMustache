@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I just broke my guitar. It's okay, I won't fret
+My New Years resolution is to stop leaving things so late.
 
 
 ## Daily Trivia
 
-This mobile OS held the largest market share in 2012.
- 1. iOS
- 2. Symbian
- 3. BlackBerry
- 4. Android
+The teapot often seen in many 3D modeling applications is called what?
+ 1. Pixar Teapot
+ 2. 3D Teapot
+ 3. Tennessee Teapot
+ 4. Utah Teapot
 
 <details>
   <summary>Answer</summary>
-  iOS
+  Utah Teapot
 </details>
 
 
