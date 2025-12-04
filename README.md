@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is the least spoken language in the world?
-Sign Language
+Did you hear about the cow who jumped over the barbed wire fence? It was udder destruction.
 
 
 ## Daily Trivia
 
-Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
- 1. Puma
- 2. Cheetah
- 3. Tiger
- 4. Leopard
+What does the term GPU stand for?
+ 1. Gaming Processor Unit
+ 2. Graphite Producing Unit
+ 3. Graphical Proprietary Unit
+ 4. Graphics Processing Unit
 
 <details>
   <summary>Answer</summary>
-  Cheetah
+  Graphics Processing Unit
 </details>
 
 
