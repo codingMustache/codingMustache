@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What musical instrument is found in the bathroom? A tuba toothpaste.
+A man is washing the car with his son. The son asks...... "Dad, can’t you just use a sponge?"
 
 
 ## Daily Trivia
 
-The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
- 1. Germany
- 2. United States
- 3. China (People&#039;s Republic of)
- 4. Taiwan
+What amount of bits commonly equals one byte?
+ 1. 64
+ 2. 2
+ 3. 8
+ 4. 1
 
 <details>
   <summary>Answer</summary>
-  Taiwan
+  8
 </details>
 
 
