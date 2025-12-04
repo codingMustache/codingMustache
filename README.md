@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do we tell actors to “break a leg?” Because every play has a cast.
+What creature is smarter than a talking parrot? A spelling bee.
 
 
 ## Daily Trivia
 
-America Online (AOL) started out as which of these online service providers?
- 1. GEnie
- 2. Quantum Link
- 3. Prodigy
- 4. CompuServe
+In programming, the ternary operator is mostly defined with what symbol(s)?
+ 1. if then
+ 2. ?:
+ 3. ??
+ 4. ?
 
 <details>
   <summary>Answer</summary>
-  Quantum Link
+  ?:
 </details>
 
 
