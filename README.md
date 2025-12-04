@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where does astronauts hangout after work? At the spacebar.
+Guy told me today he did not know what cloning is. I told him, "that makes 2 of us."
 
 
 ## Daily Trivia
 
-Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
- 1. Puma
- 2. Tiger
- 3. Cheetah
- 4. Leopard
+What is the main CPU is the Sega Mega Drive / Sega Genesis?
+ 1. Zilog Z80
+ 2. Yamaha YM2612
+ 3. Motorola 68000
+ 4. Intel 8088
 
 <details>
   <summary>Answer</summary>
-  Cheetah
+  Motorola 68000
 </details>
 
 
