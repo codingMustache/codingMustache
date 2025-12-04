@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a criminal going down the stairs? Condescending
+Why did the cowboy have a weiner dog? Somebody told him to get a long little doggy.
 
 
 ## Daily Trivia
 
-How many cores does the Intel i7-6950X have?
- 1. 8
- 2. 12
- 3. 4
- 4. 10
+What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
+ 1. Programmable Sound Generator (PSG)
+ 2. ADPCM Sampler
+ 3. FM Synthesizer
+ 4. PCM Sampler
 
 <details>
   <summary>Answer</summary>
-  10
+  ADPCM Sampler
 </details>
 
 
