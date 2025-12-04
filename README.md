@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why don't skeletons ride roller coasters? They don't have the stomach for it.
+Where does Napoleon keep his armies? In his sleevies.
 
 
 ## Daily Trivia
 
-What does the &#039;S&#039; in the RSA encryption algorithm stand for?
- 1. Shamir
- 2. Secure
- 3. Stable
- 4. Schottky
+According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:
+ 1. A&#039;B + B&#039;A
+ 2. A&#039;B&#039;
+ 3. AB&#039; + AB
+ 4. A&#039; + B&#039;
 
 <details>
   <summary>Answer</summary>
-  Shamir
+  A&#039; + B&#039;
 </details>
 
 
