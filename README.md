@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Who is the coolest Doctor in the hospital? The hip Doctor!
+Where does astronauts hangout after work? At the spacebar.
 
 
 ## Daily Trivia
 
-The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
- 1. Taiwan
- 2. United States
- 3. Germany
- 4. China (People&#039;s Republic of)
+Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
+ 1. Puma
+ 2. Tiger
+ 3. Cheetah
+ 4. Leopard
 
 <details>
   <summary>Answer</summary>
-  Taiwan
+  Cheetah
 </details>
 
 
