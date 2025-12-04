@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Have you heard of the band 1023MB? They haven't got a gig yet.
+What lies at the bottom of the ocean and twitches? A nervous wreck.
 
 
 ## Daily Trivia
 
-In computing terms, typically what does CLI stand for?
- 1. Common Language Input
- 2. Control Line Interface
- 3. Common Language Interface
- 4. Command Line Interface
+Which SQL keyword is used to fetch data from a database?
+ 1. SELECT
+ 2. EXEC
+ 3. VALUES
+ 4. INDEX
 
 <details>
   <summary>Answer</summary>
-  Command Line Interface
+  SELECT
 </details>
 
 
