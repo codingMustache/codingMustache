@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the dog say to the two trees? Bark bark.
+Why was the shirt happy to hang around the tank top? Because it was armless
 
 
 ## Daily Trivia
 
-On Twitter, what was the original character limit for a Tweet?
- 1. 120
- 2. 160
- 3. 100
- 4. 140
+Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
+ 1. Heartbleed
+ 2. Shellshock
+ 3. Corrupted Blood
+ 4. Shellscript
 
 <details>
   <summary>Answer</summary>
-  140
+  Heartbleed
 </details>
 
 
