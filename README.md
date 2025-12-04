@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear the one about the giant pickle?  He was kind of a big dill.
+I accidentally drank a bottle of invisible ink. Now I’m in hospital, waiting to be seen.
 
 
 ## Daily Trivia
 
-The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
- 1. Fiji
- 2. Tuvalu
- 3. Marshall Islands
- 4. Micronesia
+On which day did the World Wide Web go online?
+ 1. November 24, 1995
+ 2. November 12, 1990
+ 3. December 20, 1990
+ 4. December 17, 1996
 
 <details>
   <summary>Answer</summary>
-  Micronesia
+  December 20, 1990
 </details>
 
 
