@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What lies at the bottom of the ocean and twitches? A nervous wreck.
+What is a tornado's favorite game to play? Twister!
 
 
 ## Daily Trivia
 
-Which SQL keyword is used to fetch data from a database?
- 1. SELECT
- 2. EXEC
- 3. VALUES
- 4. INDEX
+What is known as &quot;the brain&quot; of the Computer?
+ 1. Motherboard
+ 2. Graphics Processing Unit
+ 3. Central Processing Unit
+ 4. Keyboard
 
 <details>
   <summary>Answer</summary>
-  SELECT
+  Central Processing Unit
 </details>
 
 
