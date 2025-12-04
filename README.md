@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Guy told me today he did not know what cloning is. I told him, "that makes 2 of us."
+Why do we tell actors to “break a leg?” Because every play has a cast.
 
 
 ## Daily Trivia
 
-What is the main CPU is the Sega Mega Drive / Sega Genesis?
- 1. Zilog Z80
- 2. Yamaha YM2612
- 3. Motorola 68000
- 4. Intel 8088
+America Online (AOL) started out as which of these online service providers?
+ 1. GEnie
+ 2. Quantum Link
+ 3. Prodigy
+ 4. CompuServe
 
 <details>
   <summary>Answer</summary>
-  Motorola 68000
+  Quantum Link
 </details>
 
 
