@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the late tomato say to the early tomato? I’ll ketch up
+Coffee has a tough time at my house, every morning it gets mugged.
 
 
 ## Daily Trivia
 
-Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
- 1. Four Years
- 2. Two Years
- 3. Eight Years
- 4. Year
+While Apple was formed in California, in which western state was Microsoft founded?
+ 1. Arizona
+ 2. Colorado
+ 3. New Mexico
+ 4. Washington
 
 <details>
   <summary>Answer</summary>
-  Year
+  New Mexico
 </details>
 
 
