@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do sheep go to get their hair cut? The baa-baa shop.
+Where do rabbits go after they get married? On a bunny-moon.
 
 
 ## Daily Trivia
 
-In the server hosting industry IaaS stands for...
- 1. Internet as a Service
- 2. Internet and a Server
- 3. Infrastructure as a Service
- 4. Infrastructure as a Server
+Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
+ 1. Cherry MX Blue
+ 2. Cherry MX Brown
+ 3. Cherry MX Red
+ 4. Cherry MX Black
 
 <details>
   <summary>Answer</summary>
-  Infrastructure as a Service
+  Cherry MX Blue
 </details>
 
 
