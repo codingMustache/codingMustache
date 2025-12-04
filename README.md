@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I broke my finger at work today, on the other hand I'm completely fine.
+What do you call a fish wearing a bowtie? Sofishticated.
 
 
 ## Daily Trivia
 
-In programming, what do you call functions with the same name but different implementations?
- 1. Inheriting
- 2. Abstracting
- 3. Overriding
- 4. Overloading
+In any programming language, what is the most common way to iterate through an array?
+ 1. &#039;For&#039; loops
+ 2. &#039;While&#039; loops
+ 3. &#039;If&#039; Statements
+ 4. &#039;Do-while&#039; loops
 
 <details>
   <summary>Answer</summary>
-  Overloading
+  &#039;For&#039; loops
 </details>
 
 
