@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is a tornado's favorite game to play? Twister!
+What do you call a criminal going down the stairs? Condescending
 
 
 ## Daily Trivia
 
-What is known as &quot;the brain&quot; of the Computer?
- 1. Motherboard
- 2. Graphics Processing Unit
- 3. Central Processing Unit
- 4. Keyboard
+How many cores does the Intel i7-6950X have?
+ 1. 8
+ 2. 12
+ 3. 4
+ 4. 10
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  10
 </details>
 
 
