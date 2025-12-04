@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a fish wearing a bowtie? Sofishticated.
+Where do sheep go to get their hair cut? The baa-baa shop.
 
 
 ## Daily Trivia
 
-In any programming language, what is the most common way to iterate through an array?
- 1. &#039;For&#039; loops
- 2. &#039;While&#039; loops
- 3. &#039;If&#039; Statements
- 4. &#039;Do-while&#039; loops
+In the server hosting industry IaaS stands for...
+ 1. Internet as a Service
+ 2. Internet and a Server
+ 3. Infrastructure as a Service
+ 4. Infrastructure as a Server
 
 <details>
   <summary>Answer</summary>
-  &#039;For&#039; loops
+  Infrastructure as a Service
 </details>
 
 
