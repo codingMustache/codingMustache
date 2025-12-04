@@ -4,20 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do bees do after they are married? They go on a honeymoon.
+How many seconds are in a year?
+12.
+January 2nd, February 2nd, March 2nd, April 2nd.... etc
 
 
 ## Daily Trivia
 
-Which data structure does FILO apply to?
- 1. Heap
- 2. Tree
- 3. Queue
- 4. Stack
+What does RAID stand for?
+ 1. Range of Applications with Identical Designs
+ 2. Redundant Array of Independent Disks
+ 3. Rapid Access for Indexed Devices
+ 4. Randomized Abstract Identification Description
 
 <details>
   <summary>Answer</summary>
-  Stack
+  Redundant Array of Independent Disks
 </details>
 
 
