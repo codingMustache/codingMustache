@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Today a man knocked on my door and asked for a small donation towards the local swimming pool. I gave him a glass of water.
+Child: Dad, make me a sandwich. Dad: Poof! You're a sandwich.
 
 
 ## Daily Trivia
 
-When Gmail first launched, how much storage did it provide for your email?
- 1. 1GB
- 2. 512MB
- 3. Unlimited
- 4. 5GB
+Which of these names was an actual codename for a cancelled Microsoft project?
+ 1. Enceladus
+ 2. Pollux
+ 3. Saturn
+ 4. Neptune
 
 <details>
   <summary>Answer</summary>
-  1GB
+  Neptune
 </details>
 
 
