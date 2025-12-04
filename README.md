@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the octopus beat the shark in a fight? Because it was well armed.
+A steak pun is a rare medium well done.
 
 
 ## Daily Trivia
 
-The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
- 1. Tuvalu
- 2. Marshall Islands
- 3. Micronesia
- 4. Fiji
+What does the Prt Sc button do?
+ 1. Nothing
+ 2. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
+ 3. Closes all windows
+ 4. Captures what&#039;s on the screen and copies it to your clipboard
 
 <details>
   <summary>Answer</summary>
-  Micronesia
+  Captures what&#039;s on the screen and copies it to your clipboard
 </details>
 
 
