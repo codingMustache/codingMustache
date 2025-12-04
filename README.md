@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Ever wondered why bees hum? It's because they don't know the words.
+I considered building the patio by myself. But I didn't have the stones.
 
 
 ## Daily Trivia
 
-In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
- 1. relative
- 2. static
- 3. center
- 4. absolute
+Who invented the &quot;Spanning Tree Protocol&quot;?
+ 1. Michael Roberts
+ 2. Vint Cerf
+ 3. Radia Perlman
+ 4. Paul Vixie
 
 <details>
   <summary>Answer</summary>
-  center
+  Radia Perlman
 </details>
 
 
