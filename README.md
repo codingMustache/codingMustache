@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I am terrified of elevators. I’m going to start taking steps to avoid them.
+What musical instrument is found in the bathroom? A tuba toothpaste.
 
 
 ## Daily Trivia
 
-On which computer hardware device is the BIOS chip located?
- 1. Hard Disk Drive
- 2. Motherboard
- 3. Graphics Processing Unit
- 4. Central Processing Unit
+The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
+ 1. Germany
+ 2. United States
+ 3. China (People&#039;s Republic of)
+ 4. Taiwan
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  Taiwan
 </details>
 
 
