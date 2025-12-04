@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the cowboy have a weiner dog? Somebody told him to get a long little doggy.
+Dad died because he couldn't remember his blood type. I will never forget his last words. Be positive.
 
 
 ## Daily Trivia
 
-What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
- 1. Programmable Sound Generator (PSG)
- 2. ADPCM Sampler
- 3. FM Synthesizer
- 4. PCM Sampler
+What does the Prt Sc button do?
+ 1. Nothing
+ 2. Captures what&#039;s on the screen and copies it to your clipboard
+ 3. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
+ 4. Closes all windows
 
 <details>
   <summary>Answer</summary>
-  ADPCM Sampler
+  Captures what&#039;s on the screen and copies it to your clipboard
 </details>
 
 
