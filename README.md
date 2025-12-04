@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I accidentally drank a bottle of invisible ink. Now I’m in hospital, waiting to be seen.
+Which side of the chicken has more feathers? The outside.
 
 
 ## Daily Trivia
 
-On which day did the World Wide Web go online?
- 1. November 24, 1995
- 2. November 12, 1990
- 3. December 20, 1990
- 4. December 17, 1996
+What was Bitcoin&#039;s block size limit in 2010?
+ 1. 1 KB
+ 2. 1 TB
+ 3. 1 MB
+ 4. 1GB
 
 <details>
   <summary>Answer</summary>
-  December 20, 1990
+  1 MB
 </details>
 
 
