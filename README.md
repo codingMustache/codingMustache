@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a careful wolf? Aware wolf.
+What did the mountain climber name his son? Cliff.
 
 
 ## Daily Trivia
 
-Which one of these is not an official development name for a Ubuntu release?
- 1. Trusty Tahr
- 2. Wily Werewolf
- 3. Utopic Unicorn
- 4. Mystic Mansion
+What does the term GPU stand for?
+ 1. Gaming Processor Unit
+ 2. Graphics Processing Unit
+ 3. Graphite Producing Unit
+ 4. Graphical Proprietary Unit
 
 <details>
   <summary>Answer</summary>
-  Mystic Mansion
+  Graphics Processing Unit
 </details>
 
 
