@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I considered building the patio by myself. But I didn't have the stones.
+What do bees do after they are married? They go on a honeymoon.
 
 
 ## Daily Trivia
 
-Who invented the &quot;Spanning Tree Protocol&quot;?
- 1. Michael Roberts
- 2. Vint Cerf
- 3. Radia Perlman
- 4. Paul Vixie
+Which data structure does FILO apply to?
+ 1. Heap
+ 2. Tree
+ 3. Queue
+ 4. Stack
 
 <details>
   <summary>Answer</summary>
-  Radia Perlman
+  Stack
 </details>
 
 
