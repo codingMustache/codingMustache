@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I always wanted to look into why I procrastinate, but I keep putting it off. 
+Have you heard of the band 1023MB? They haven't got a gig yet.
 
 
 ## Daily Trivia
 
-.at is the top-level domain for what country?
- 1. Australia
- 2. Argentina
- 3. Austria
- 4. Angola
+In computing terms, typically what does CLI stand for?
+ 1. Common Language Input
+ 2. Control Line Interface
+ 3. Common Language Interface
+ 4. Command Line Interface
 
 <details>
   <summary>Answer</summary>
-  Austria
+  Command Line Interface
 </details>
 
 
