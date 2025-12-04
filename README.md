@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-An apple a day keeps the bullies away. If you throw it hard enough.
+The best time on a clock is 6:30--hands down.
 
 
 ## Daily Trivia
 
-Which one of these is not an official development name for a Ubuntu release?
- 1. Wily Werewolf
- 2. Mystic Mansion
- 3. Utopic Unicorn
- 4. Trusty Tahr
+In computing, what does MIDI stand for?
+ 1. Musical Interface of Digital Instruments
+ 2. Musical Instrument Digital Interface
+ 3. Modular Interface of Digital Instruments
+ 4. Musical Instrument Data Interface
 
 <details>
   <summary>Answer</summary>
-  Mystic Mansion
+  Musical Instrument Digital Interface
 </details>
 
 
