@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Q: What did the spaghetti say to the other spaghetti?
-A: Pasta la vista, baby!
+Did you hear the one about the giant pickle?  He was kind of a big dill.
 
 
 ## Daily Trivia
 
-Lenovo acquired IBM&#039;s personal computer division, including the ThinkPad line of laptops and tablets, in what year?
- 1. 1999
- 2. 2005
- 3. 2002
- 4. 2008
+The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
+ 1. Fiji
+ 2. Tuvalu
+ 3. Marshall Islands
+ 4. Micronesia
 
 <details>
   <summary>Answer</summary>
-  2005
+  Micronesia
 </details>
 
 
