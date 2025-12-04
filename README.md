@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What creature is smarter than a talking parrot? A spelling bee.
+Why did the octopus beat the shark in a fight? Because it was well armed.
 
 
 ## Daily Trivia
 
-In programming, the ternary operator is mostly defined with what symbol(s)?
- 1. if then
- 2. ?:
- 3. ??
- 4. ?
+The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
+ 1. Tuvalu
+ 2. Marshall Islands
+ 3. Micronesia
+ 4. Fiji
 
 <details>
   <summary>Answer</summary>
-  ?:
+  Micronesia
 </details>
 
 
