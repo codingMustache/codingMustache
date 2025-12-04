@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The best time on a clock is 6:30--hands down.
+What do you call a careful wolf? Aware wolf.
 
 
 ## Daily Trivia
 
-In computing, what does MIDI stand for?
- 1. Musical Interface of Digital Instruments
- 2. Musical Instrument Digital Interface
- 3. Modular Interface of Digital Instruments
- 4. Musical Instrument Data Interface
+Which one of these is not an official development name for a Ubuntu release?
+ 1. Trusty Tahr
+ 2. Wily Werewolf
+ 3. Utopic Unicorn
+ 4. Mystic Mansion
 
 <details>
   <summary>Answer</summary>
-  Musical Instrument Digital Interface
+  Mystic Mansion
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **11 days** since this server shutdown
+Its been **12 days** since this server shutdown
