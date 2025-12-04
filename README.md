@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where does Napoleon keep his armies? In his sleevies.
+An apple a day keeps the bullies away. If you throw it hard enough.
 
 
 ## Daily Trivia
 
-According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:
- 1. A&#039;B + B&#039;A
- 2. A&#039;B&#039;
- 3. AB&#039; + AB
- 4. A&#039; + B&#039;
+Which one of these is not an official development name for a Ubuntu release?
+ 1. Wily Werewolf
+ 2. Mystic Mansion
+ 3. Utopic Unicorn
+ 4. Trusty Tahr
 
 <details>
   <summary>Answer</summary>
-  A&#039; + B&#039;
+  Mystic Mansion
 </details>
 
 
