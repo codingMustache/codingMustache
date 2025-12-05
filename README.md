@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I’ve got this disease where I can’t stop making airport puns. The doctor says it terminal.
+I was thinking about moving to Moscow but there is no point Russian into things.
 
 
 ## Daily Trivia
 
-In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
- 1. printf(&quot;Hello World&quot;)
- 2. echo &quot;Hello World&quot;
- 3. console.log(&quot;Hello World&quot;)
- 4. print(&quot;Hello World&quot;)
+Which computer language would you associate Django framework with?
+ 1. C#
+ 2. C++
+ 3. Python
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  print(&quot;Hello World&quot;)
+  Python
 </details>
 
 
