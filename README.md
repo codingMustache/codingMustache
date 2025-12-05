@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I saw my husband trip and fall while carrying a laundry basket full of ironed clothes. I watched it all unfold.
+What do prisoners use to call each other? Cell phones.
 
 
 ## Daily Trivia
 
-In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
- 1. Public
- 2. Final
- 3. Private
- 4. Static
+What does GHz stand for?
+ 1. Gigahertz
+ 2. Gigahatz
+ 3. Gigahetz
+ 4. Gigahotz
 
 <details>
   <summary>Answer</summary>
-  Final
+  Gigahertz
 </details>
 
 
