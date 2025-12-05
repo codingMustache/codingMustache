@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Is there a hole in your shoe? No… Then how’d you get your foot in it?
+Have you heard the story about the magic tractor? It drove down the road and turned into a field.
 
 
 ## Daily Trivia
 
-When Gmail first launched, how much storage did it provide for your email?
- 1. 512MB
- 2. 5GB
- 3. 1GB
- 4. Unlimited
+What was the name given to Android 4.3?
+ 1. Lollipop
+ 2. Nutella
+ 3. Froyo
+ 4. Jelly Bean
 
 <details>
   <summary>Answer</summary>
-  1GB
+  Jelly Bean
 </details>
 
 
