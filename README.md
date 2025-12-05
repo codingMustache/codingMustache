@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I was thinking about moving to Moscow but there is no point Russian into things.
+I ate a clock yesterday. It was so time consuming.
 
 
 ## Daily Trivia
 
-Which computer language would you associate Django framework with?
- 1. C#
- 2. C++
- 3. Python
- 4. Java
+The name of technology company HP stands for what?
+ 1. Hewlett-Packard
+ 2. Howard Packmann
+ 3. Hellman-Pohl
+ 4. Husker-Pollosk
 
 <details>
   <summary>Answer</summary>
-  Python
+  Hewlett-Packard
 </details>
 
 
