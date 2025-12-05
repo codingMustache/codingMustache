@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you know the first French fries weren't actually cooked in France? They were cooked in Greece.
+A termite walks into a bar and asks “Is the bar tender here?”
 
 
 ## Daily Trivia
 
-Unix Time is defined as the number of seconds that have elapsed since when?
- 1. Midnight, July 4, 1980
- 2. Midnight on the creator of Unix&#039;s birthday
- 3. Midnight, July 4, 1976
- 4. Midnight, January 1, 1970
+On which computer hardware device is the BIOS chip located?
+ 1. Hard Disk Drive
+ 2. Central Processing Unit
+ 3. Graphics Processing Unit
+ 4. Motherboard
 
 <details>
   <summary>Answer</summary>
-  Midnight, January 1, 1970
+  Motherboard
 </details>
 
 
