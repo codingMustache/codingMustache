@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The other day I was listening to a song about superglue, it’s been stuck in my head ever since.
+Is the pool safe for diving? It deep ends.
 
 
 ## Daily Trivia
 
-Which of the following is NOT a computer science algorithm?
- 1. Bubble Sort
- 2. Quick Sort
- 3. Merge Sort
- 4. Float Sort
+Which data structure does FILO apply to?
+ 1. Tree
+ 2. Stack
+ 3. Heap
+ 4. Queue
 
 <details>
   <summary>Answer</summary>
-  Float Sort
+  Stack
 </details>
 
 
