@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do bees do after they are married? They go on a honeymoon.
+I'd like to start a diet, but I've got too much on my plate right now.
 
 
 ## Daily Trivia
 
-What does RAID stand for?
- 1. Range of Applications with Identical Designs
- 2. Rapid Access for Indexed Devices
- 3. Randomized Abstract Identification Description
- 4. Redundant Array of Independent Disks
+In programming, the ternary operator is mostly defined with what symbol(s)?
+ 1. ?:
+ 2. if then
+ 3. ?
+ 4. ??
 
 <details>
   <summary>Answer</summary>
-  Redundant Array of Independent Disks
+  ?:
 </details>
 
 
