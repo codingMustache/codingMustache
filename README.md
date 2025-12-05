@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Man, I really love my furniture... me and my recliner go way back.
+Recent survey revealed 6 out of 7 dwarf's aren't happy.
 
 
 ## Daily Trivia
 
-What does AD stand for in relation to Windows Operating Systems? 
- 1. Alternative Drive
- 2. Automated Database
- 3. Active Directory
- 4. Active Department
+What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
+ 1. Temperature Decipator
+ 2. CPU Vent
+ 3. Heat Sink
+ 4. Heat Vent
 
 <details>
   <summary>Answer</summary>
-  Active Directory
+  Heat Sink
 </details>
 
 
