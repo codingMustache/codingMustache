@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the melons plan a big wedding? Because they cantaloupe!
+I had a dream that I was a muffler last night. I woke up exhausted!
 
 
 ## Daily Trivia
 
-In programming, the ternary operator is mostly defined with what symbol(s)?
- 1. ?
- 2. ?:
- 3. ??
- 4. if then
+According to the International System of Units, how many bytes are in a kilobyte of RAM?
+ 1. 1000
+ 2. 500
+ 3. 1024
+ 4. 512
 
 <details>
   <summary>Answer</summary>
-  ?:
+  1000
 </details>
 
 
