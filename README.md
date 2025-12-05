@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to be addicted to the hokey pokey, but I turned myself around.
+I heard there was a new store called Moderation. They have everything there
 
 
 ## Daily Trivia
 
-How long is an IPv6 address?
- 1. 32 bits
- 2. 128 bits
- 3. 64 bits
- 4. 128 bytes
+What was the first Android version specifically optimized for tablets?
+ 1. Marshmellow
+ 2. Honeycomb
+ 3. Froyo
+ 4. Eclair
 
 <details>
   <summary>Answer</summary>
-  128 bits
+  Honeycomb
 </details>
 
 
