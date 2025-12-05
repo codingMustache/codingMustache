@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Have you heard of the band 1023MB? They haven't got a gig yet.
+I saw my husband trip and fall while carrying a laundry basket full of ironed clothes. I watched it all unfold.
 
 
 ## Daily Trivia
 
-Which operating system was released first?
- 1. Mac OS
- 2. Linux
- 3. Windows
- 4. OS/2
+In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
+ 1. Public
+ 2. Final
+ 3. Private
+ 4. Static
 
 <details>
   <summary>Answer</summary>
-  Mac OS
+  Final
 </details>
 
 
