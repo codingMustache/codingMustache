@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Yesterday, I accidentally swallowed some food coloring. The doctor says I’m okay, but I feel like I’ve dyed a little inside.
+Parallel lines have so much in common. It’s a shame they’ll never meet.
 
 
 ## Daily Trivia
 
-What does the acronym CDN stand for in terms of networking?
- 1. Content Delivery Network
- 2. Compressed Data Network
- 3. Computational Data Network
- 4. Content Distribution Network
+When was the programming language &quot;C#&quot; released?
+ 1. 1999
+ 2. 1998
+ 3. 2000
+ 4. 2001
 
 <details>
   <summary>Answer</summary>
-  Content Delivery Network
+  2000
 </details>
 
 
