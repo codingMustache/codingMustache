@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do Alexander the Great and Winnie the Pooh have in common? Same middle name.
+A man was caught stealing in a supermarket today while balanced on the shoulders of a couple of vampires. He was charged with shoplifting on two counts. 
 
 
 ## Daily Trivia
 
-Which of these is not a key value of Agile software development?
- 1. Responding to change
- 2. Customer collaboration
- 3. Individuals and interactions
- 4. Comprehensive documentation
+What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
+ 1. Transport
+ 2. Network
+ 3. Data link
+ 4. Session
 
 <details>
   <summary>Answer</summary>
-  Comprehensive documentation
+  Transport
 </details>
 
 
