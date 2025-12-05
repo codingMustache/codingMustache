@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why does Han Solo like gum? It's chewy!
+Why did the tree go to the dentist? It needed a root canal.
 
 
 ## Daily Trivia
 
-Whistler was the codename of this Microsoft Operating System.
- 1. Windows 2000
- 2. Windows XP
- 3. Windows 7
- 4. Windows 95
+America Online (AOL) started out as which of these online service providers?
+ 1. CompuServe
+ 2. Prodigy
+ 3. GEnie
+ 4. Quantum Link
 
 <details>
   <summary>Answer</summary>
-  Windows XP
+  Quantum Link
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **12 days** since this server shutdown
+Its been **13 days** since this server shutdown
