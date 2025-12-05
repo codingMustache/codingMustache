@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I decided to sell my Hoover… well it was just collecting dust.
+What do bees do after they are married? They go on a honeymoon.
 
 
 ## Daily Trivia
 
-Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
- 1. Tiger
- 2. Cheetah
- 3. Puma
- 4. Leopard
+What does RAID stand for?
+ 1. Range of Applications with Identical Designs
+ 2. Rapid Access for Indexed Devices
+ 3. Randomized Abstract Identification Description
+ 4. Redundant Array of Independent Disks
 
 <details>
   <summary>Answer</summary>
-  Cheetah
+  Redundant Array of Independent Disks
 </details>
 
 
