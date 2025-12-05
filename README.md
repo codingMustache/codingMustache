@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I'd like to start a diet, but I've got too much on my plate right now.
+When is a door not a door? When it's ajar.
 
 
 ## Daily Trivia
 
-In programming, the ternary operator is mostly defined with what symbol(s)?
- 1. ?:
- 2. if then
- 3. ?
- 4. ??
+Australia, Japan, and Southeast Asia are in which ITU Region?
+ 1. Region 4
+ 2. Region 3
+ 3. Region 2
+ 4. Region 1
 
 <details>
   <summary>Answer</summary>
-  ?:
+  Region 3
 </details>
 
 
