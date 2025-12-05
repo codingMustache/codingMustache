@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Parallel lines have so much in common. It’s a shame they’ll never meet.
+Man, I really love my furniture... me and my recliner go way back.
 
 
 ## Daily Trivia
 
-When was the programming language &quot;C#&quot; released?
- 1. 1999
- 2. 1998
- 3. 2000
- 4. 2001
+What does AD stand for in relation to Windows Operating Systems? 
+ 1. Alternative Drive
+ 2. Automated Database
+ 3. Active Directory
+ 4. Active Department
 
 <details>
   <summary>Answer</summary>
-  2000
+  Active Directory
 </details>
 
 
