@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the chicken get a penalty? For fowl play.
+Why did the melons plan a big wedding? Because they cantaloupe!
 
 
 ## Daily Trivia
 
-On which day did the World Wide Web go online?
- 1. December 17, 1996
- 2. November 12, 1990
- 3. November 24, 1995
- 4. December 20, 1990
+In programming, the ternary operator is mostly defined with what symbol(s)?
+ 1. ?
+ 2. ?:
+ 3. ??
+ 4. if then
 
 <details>
   <summary>Answer</summary>
-  December 20, 1990
+  ?:
 </details>
 
 
