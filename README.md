@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-“Hold on, I have something in my shoe”  “I’m pretty sure it’s a foot”
+What do you call a boy who stopped digging holes? Douglas.
 
 
 ## Daily Trivia
 
-What programming language was GitHub written in?
- 1. JavaScript
- 2. Python
- 3. Ruby
- 4. Lua
+What was the first company to use the term &quot;Golden Master&quot;?
+ 1. IBM
+ 2. Microsoft
+ 3. Google
+ 4. Apple
 
 <details>
   <summary>Answer</summary>
-  Ruby
+  Apple
 </details>
 
 
