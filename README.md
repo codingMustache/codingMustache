@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How come the stadium got hot after the game? Because all of the fans left.
+It was raining cats and dogs the other day. I almost stepped in a poodle.
 
 
 ## Daily Trivia
 
-What does LTS stand for in the software market?
- 1. Ludicrous Turbo Speed
- 2. Ludicrous Transfer Speed
- 3. Long Taco Service
- 4. Long Term Support
+Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
+ 1. Heartbleed
+ 2. Shellscript
+ 3. Corrupted Blood
+ 4. Shellshock
 
 <details>
   <summary>Answer</summary>
-  Long Term Support
+  Heartbleed
 </details>
 
 
