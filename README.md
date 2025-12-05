@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I heard there was a new store called Moderation. They have everything there
+What did the green grape say to the purple grape?
+BREATH!!
 
 
 ## Daily Trivia
 
-What was the first Android version specifically optimized for tablets?
- 1. Marshmellow
- 2. Honeycomb
- 3. Froyo
- 4. Eclair
+In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
+ 1. Red
+ 2. Yellow
+ 3. Green
+ 4. Blue
 
 <details>
   <summary>Answer</summary>
-  Honeycomb
+  Green
 </details>
 
 
