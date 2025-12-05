@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-People who don't eat gluten are really going against the grain.
+Did you know the first French fries weren't actually cooked in France? They were cooked in Greece.
 
 
 ## Daily Trivia
 
-Who is the original author of the realtime physics engine called PhysX?
- 1. NovodeX
- 2. AMD
- 3. Nvidia
- 4. Ageia
+Unix Time is defined as the number of seconds that have elapsed since when?
+ 1. Midnight, July 4, 1980
+ 2. Midnight on the creator of Unix&#039;s birthday
+ 3. Midnight, July 4, 1976
+ 4. Midnight, January 1, 1970
 
 <details>
   <summary>Answer</summary>
-  NovodeX
+  Midnight, January 1, 1970
 </details>
 
 
