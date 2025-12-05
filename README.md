@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was the broom late for the meeting? He overswept.
+I had a dream that I was a muffler last night. I woke up exhausted!
 
 
 ## Daily Trivia
 
-Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
- 1. Microsoft
- 2. Atari
- 3. Commodore
- 4. Apple
+On which day did the World Wide Web go online?
+ 1. December 20, 1990
+ 2. December 17, 1996
+ 3. November 12, 1990
+ 4. November 24, 1995
 
 <details>
   <summary>Answer</summary>
-  Apple
+  December 20, 1990
 </details>
 
 
