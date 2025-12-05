@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Chances are if you' ve seen one shopping center, you've seen a mall.
+I decided to sell my Hoover… well it was just collecting dust.
 
 
 ## Daily Trivia
 
-What is the most preferred image format used for logos in the Wikimedia database?
- 1. .jpeg
- 2. .svg
- 3. .png
- 4. .gif
+Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
+ 1. Tiger
+ 2. Cheetah
+ 3. Puma
+ 4. Leopard
 
 <details>
   <summary>Answer</summary>
-  .svg
+  Cheetah
 </details>
 
 
