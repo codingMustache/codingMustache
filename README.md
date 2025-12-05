@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I'm glad I know sign language, it's pretty handy.
+The other day I was listening to a song about superglue, it’s been stuck in my head ever since.
 
 
 ## Daily Trivia
 
-Unix Time is defined as the number of seconds that have elapsed since when?
- 1. Midnight, July 4, 1980
- 2. Midnight, July 4, 1976
- 3. Midnight on the creator of Unix&#039;s birthday
- 4. Midnight, January 1, 1970
+Which of the following is NOT a computer science algorithm?
+ 1. Bubble Sort
+ 2. Quick Sort
+ 3. Merge Sort
+ 4. Float Sort
 
 <details>
   <summary>Answer</summary>
-  Midnight, January 1, 1970
+  Float Sort
 </details>
 
 
