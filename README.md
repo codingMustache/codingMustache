@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the chicken get a penalty? For fowl play.
+Why did the belt go to prison? He held up a pair of pants!
 
 
 ## Daily Trivia
 
-What five letter word is the motto of the IBM Computer company?
- 1. Logic
- 2. Click
- 3. Pixel
- 4. Think
+What does the International System of Quantities refer 1024 bytes as?
+ 1. Kylobyte
+ 2. Kilobyte
+ 3. Kelobyte
+ 4. Kibibyte
 
 <details>
   <summary>Answer</summary>
-  Think
+  Kibibyte
 </details>
 
 
