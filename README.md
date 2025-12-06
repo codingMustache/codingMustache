@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the clown have neck pain? - Because he slept funny
+"Why do seagulls fly over the ocean?" "Because if they flew over the bay, we'd call them bagels."
 
 
 ## Daily Trivia
 
-This mobile OS held the largest market share in 2012.
- 1. Android
- 2. BlackBerry
- 3. iOS
- 4. Symbian
+When was the programming language &quot;C#&quot; released?
+ 1. 1998
+ 2. 2000
+ 3. 1999
+ 4. 2001
 
 <details>
   <summary>Answer</summary>
-  iOS
+  2000
 </details>
 
 
