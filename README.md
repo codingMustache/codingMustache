@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Child: Dad, make me a sandwich. Dad: Poof! You're a sandwich.
+The shovel was a ground-breaking invention.
 
 
 ## Daily Trivia
 
-What vulnerability ranked #1 on the OWASP Top 10 in 2013?
- 1. Insecure Direct Object References
- 2. Cross-Site Scripting
- 3. Injection 
- 4. Broken Authentication
+When did the online streaming service &quot;Mixer&quot; launch?
+ 1. 2016
+ 2. 2013
+ 3. 2009
+ 4. 2011
 
 <details>
   <summary>Answer</summary>
-  Injection 
+  2016
 </details>
 
 
