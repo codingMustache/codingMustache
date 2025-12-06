@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to have a job at a calendar factory but I got the sack because I took a couple of days off.
+How do locomotives know where they're going? Lots of training
 
 
 ## Daily Trivia
 
-Which of these names was an actual codename for a cancelled Microsoft project?
- 1. Enceladus
- 2. Saturn
- 3. Pollux
- 4. Neptune
+What major programming language does Unreal Engine 4 use?
+ 1. C#
+ 2. C++
+ 3. Assembly
+ 4. ECMAScript
 
 <details>
   <summary>Answer</summary>
-  Neptune
+  C++
 </details>
 
 
