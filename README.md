@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My boss told me to have a good day... so I went home.
+Why should you never trust a pig with a secret? Because it's bound to squeal.
 
 
 ## Daily Trivia
 
-What programming language was GitHub written in?
- 1. JavaScript
- 2. Ruby
- 3. Python
- 4. Lua
+Who invented the &quot;Spanning Tree Protocol&quot;?
+ 1. Paul Vixie
+ 2. Vint Cerf
+ 3. Radia Perlman
+ 4. Michael Roberts
 
 <details>
   <summary>Answer</summary>
-  Ruby
+  Radia Perlman
 </details>
 
 
