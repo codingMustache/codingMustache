@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-"Why do seagulls fly over the ocean?" "Because if they flew over the bay, we'd call them bagels."
+When do doctors get angry? When they run out of patients.
 
 
 ## Daily Trivia
 
-When was the programming language &quot;C#&quot; released?
- 1. 1998
- 2. 2000
- 3. 1999
- 4. 2001
+In the server hosting industry IaaS stands for...
+ 1. Internet and a Server
+ 2. Internet as a Service
+ 3. Infrastructure as a Server
+ 4. Infrastructure as a Service
 
 <details>
   <summary>Answer</summary>
-  2000
+  Infrastructure as a Service
 </details>
 
 
