@@ -4,22 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many seconds are in a year?
-12.
-January 2nd, February 2nd, March 2nd, April 2nd.... etc
+Some people say that I never got over my obsession with Phil Collins.
+But take a look at me now.
 
 
 ## Daily Trivia
 
-Dutch computer scientist Mark Overmars is known for creating which game development engine?
- 1. Stencyl
- 2. Construct
- 3. Torque 2D
- 4. Game Maker
+Which kind of algorithm is Ron Rivest not famous for creating?
+ 1. Asymmetric encryption
+ 2. Hashing algorithm
+ 3. Secret sharing scheme
+ 4. Stream cipher
 
 <details>
   <summary>Answer</summary>
-  Game Maker
+  Secret sharing scheme
 </details>
 
 
