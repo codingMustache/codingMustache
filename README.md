@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the cheese factory that exploded in France? There was nothing left but de Brie.
+What do prisoners use to call each other? Cell phones.
 
 
 ## Daily Trivia
 
-What does CPU stand for?
- 1. Central Process Unit
- 2. Computer Personal Unit
- 3. Central Processor Unit
- 4. Central Processing Unit
+Australia, Japan, and Southeast Asia are in which ITU Region?
+ 1. Region 2
+ 2. Region 4
+ 3. Region 3
+ 4. Region 1
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  Region 3
 </details>
 
 
