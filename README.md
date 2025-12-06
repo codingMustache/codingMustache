@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Hear about the new restaurant called Karma? There’s no menu: You get what you deserve.
+I went to the store to pick up eight cans of sprite... when I got home I realized I'd only picked seven up
 
 
 ## Daily Trivia
 
-In programming, what do you call functions with the same name but different implementations?
- 1. Overriding
- 2. Abstracting
- 3. Inheriting
- 4. Overloading
+In computing terms, typically what does CLI stand for?
+ 1. Control Line Interface
+ 2. Common Language Interface
+ 3. Command Line Interface
+ 4. Common Language Input
 
 <details>
   <summary>Answer</summary>
-  Overloading
+  Command Line Interface
 </details>
 
 
