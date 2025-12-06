@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I went to the store to pick up eight cans of sprite... when I got home I realized I'd only picked seven up
+What did the big flower say to the littler flower? Hi, bud!
 
 
 ## Daily Trivia
 
-In computing terms, typically what does CLI stand for?
- 1. Control Line Interface
- 2. Common Language Interface
- 3. Command Line Interface
- 4. Common Language Input
+Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
+ 1. Leopard
+ 2. Puma
+ 3. Tiger
+ 4. Cheetah
 
 <details>
   <summary>Answer</summary>
-  Command Line Interface
+  Cheetah
 </details>
 
 
