@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Somebody stole my Microsoft Office and they're going to pay - you have my Word.
+Where does Fonzie like to go for lunch? Chick-Fil-Eyyyyyyyy.
 
 
 ## Daily Trivia
 
-Approximately how many Apple I personal computers were created?
- 1. 100
- 2. 500
- 3. 1000
- 4. 200
+Which of the following languages is used as a scripting language in the Unity 3D game engine?
+ 1. Objective-C
+ 2. C++
+ 3. Java
+ 4. C#
 
 <details>
   <summary>Answer</summary>
-  200
+  C#
 </details>
 
 
