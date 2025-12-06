@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do valley girls hang out in odd numbered groups? Because they can't even.
+This morning I was wondering where the sun was, but then it dawned on me.
 
 
 ## Daily Trivia
 
-What does the &quot;MP&quot; stand for in MP3?
- 1. Multi Pass
- 2. Music Player
- 3. Micro Point
- 4. Moving Picture
+When did the online streaming service &quot;Mixer&quot; launch?
+ 1. 2009
+ 2. 2013
+ 3. 2016
+ 4. 2011
 
 <details>
   <summary>Answer</summary>
-  Moving Picture
+  2016
 </details>
 
 
