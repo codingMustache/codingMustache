@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-"Dad, do you think it's going to snow this winter?" "I dont know, its all up in the air"
+Hear about the new restaurant called Karma? There’s no menu: You get what you deserve.
 
 
 ## Daily Trivia
 
-The Harvard architecture for micro-controllers added which additional bus?
- 1. Instruction
- 2. Address
- 3. Data
- 4. Control
+In programming, what do you call functions with the same name but different implementations?
+ 1. Overriding
+ 2. Abstracting
+ 3. Inheriting
+ 4. Overloading
 
 <details>
   <summary>Answer</summary>
-  Instruction
+  Overloading
 </details>
 
 
