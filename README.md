@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-When do doctors get angry? When they run out of patients.
+Why do ducks make great detectives? They always quack the case.
 
 
 ## Daily Trivia
 
-In the server hosting industry IaaS stands for...
- 1. Internet and a Server
- 2. Internet as a Service
- 3. Infrastructure as a Server
- 4. Infrastructure as a Service
+What is the name of the default theme that is installed with Windows XP?
+ 1. Neptune
+ 2. Whistler
+ 3. Bliss
+ 4. Luna
 
 <details>
   <summary>Answer</summary>
-  Infrastructure as a Service
+  Luna
 </details>
 
 
