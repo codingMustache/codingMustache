@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Some people say that I never got over my obsession with Phil Collins.
-But take a look at me now.
+Milk is also the fastest liquid on earth – its pasteurized before you even see it
 
 
 ## Daily Trivia
 
-Which kind of algorithm is Ron Rivest not famous for creating?
- 1. Asymmetric encryption
- 2. Hashing algorithm
- 3. Secret sharing scheme
- 4. Stream cipher
+What does &quot;LCD&quot; stand for?
+ 1. Language Control Design
+ 2. Last Common Difference
+ 3. Long Continuous Design
+ 4. Liquid Crystal Display
 
 <details>
   <summary>Answer</summary>
-  Secret sharing scheme
+  Liquid Crystal Display
 </details>
 
 
