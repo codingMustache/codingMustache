@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do prisoners use to call each other? Cell phones.
+It’s hard to explain puns to kleptomaniacs, because they take everything literally.
 
 
 ## Daily Trivia
 
-Australia, Japan, and Southeast Asia are in which ITU Region?
- 1. Region 2
- 2. Region 4
- 3. Region 3
- 4. Region 1
+What does GHz stand for?
+ 1. Gigahotz
+ 2. Gigahetz
+ 3. Gigahertz
+ 4. Gigahatz
 
 <details>
   <summary>Answer</summary>
-  Region 3
+  Gigahertz
 </details>
 
 
