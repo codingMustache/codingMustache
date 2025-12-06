@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do ducks make great detectives? They always quack the case.
+Did you hear about the cheese factory that exploded in France? There was nothing left but de Brie.
 
 
 ## Daily Trivia
 
-What is the name of the default theme that is installed with Windows XP?
- 1. Neptune
- 2. Whistler
- 3. Bliss
- 4. Luna
+What does CPU stand for?
+ 1. Central Process Unit
+ 2. Computer Personal Unit
+ 3. Central Processor Unit
+ 4. Central Processing Unit
 
 <details>
   <summary>Answer</summary>
-  Luna
+  Central Processing Unit
 </details>
 
 
