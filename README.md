@@ -4,22 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Mahatma Gandhi, as you know, walked barefoot most of the time, which produced an impressive set of calluses on his feet. 
-He also ate very little, which made him rather frail and with his odd diet, he suffered from bad breath. 
-This made him a super calloused fragile mystic hexed by halitosis.
+Never take advice from electrons. They are always negative.
 
 
 ## Daily Trivia
 
-The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
- 1. Acorn Computers
- 2. Commodore Business Machines
- 3. Amstrad PLC
- 4. Sinclair Research
+What does RAID stand for?
+ 1. Rapid Access for Indexed Devices
+ 2. Range of Applications with Identical Designs
+ 3. Randomized Abstract Identification Description
+ 4. Redundant Array of Independent Disks
 
 <details>
   <summary>Answer</summary>
-  Acorn Computers
+  Redundant Array of Independent Disks
 </details>
 
 
