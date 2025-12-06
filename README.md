@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-This morning I was wondering where the sun was, but then it dawned on me.
+How come a man driving a train got struck by lightning? He was a good conductor.
 
 
 ## Daily Trivia
 
-When did the online streaming service &quot;Mixer&quot; launch?
- 1. 2009
- 2. 2013
- 3. 2016
- 4. 2011
+In the server hosting industry IaaS stands for...
+ 1. Internet as a Service
+ 2. Internet and a Server
+ 3. Infrastructure as a Server
+ 4. Infrastructure as a Service
 
 <details>
   <summary>Answer</summary>
-  2016
+  Infrastructure as a Service
 </details>
 
 
