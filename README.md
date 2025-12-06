@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts.
+This is my step ladder. I never knew my real ladder.
 
 
 ## Daily Trivia
 
-Which of the following languages is used as a scripting language in the Unity 3D game engine?
- 1. Java
- 2. Objective-C
- 3. C#
- 4. C++
+Whistler was the codename of this Microsoft Operating System.
+ 1. Windows 2000
+ 2. Windows 7
+ 3. Windows 95
+ 4. Windows XP
 
 <details>
   <summary>Answer</summary>
-  C#
+  Windows XP
 </details>
 
 
