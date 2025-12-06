@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What has ears but cannot hear? A field of corn.
+Why did the chicken get a penalty? For fowl play.
 
 
 ## Daily Trivia
 
-What is the code name for the mobile operating system Android 7.0?
- 1. Marshmallow
- 2. Ice Cream Sandwich
- 3. Jelly Bean
- 4. Nougat
+What five letter word is the motto of the IBM Computer company?
+ 1. Logic
+ 2. Click
+ 3. Pixel
+ 4. Think
 
 <details>
   <summary>Answer</summary>
-  Nougat
+  Think
 </details>
 
 
