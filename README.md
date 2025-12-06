@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Never take advice from electrons. They are always negative.
+I got a reversible jacket for Christmas, I can't wait to see how it turns out.
 
 
 ## Daily Trivia
 
-What does RAID stand for?
- 1. Rapid Access for Indexed Devices
- 2. Range of Applications with Identical Designs
- 3. Randomized Abstract Identification Description
- 4. Redundant Array of Independent Disks
+All of the following programs are classified as raster graphics editors EXCEPT:
+ 1. GIMP
+ 2. Paint.NET
+ 3. Adobe Photoshop
+ 4. Inkscape
 
 <details>
   <summary>Answer</summary>
-  Redundant Array of Independent Disks
+  Inkscape
 </details>
 
 
