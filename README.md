@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I got a reversible jacket for Christmas, I can't wait to see how it turns out.
+I used to have a job at a calendar factory but I got the sack because I took a couple of days off.
 
 
 ## Daily Trivia
 
-All of the following programs are classified as raster graphics editors EXCEPT:
- 1. GIMP
- 2. Paint.NET
- 3. Adobe Photoshop
- 4. Inkscape
+Which of these names was an actual codename for a cancelled Microsoft project?
+ 1. Enceladus
+ 2. Saturn
+ 3. Pollux
+ 4. Neptune
 
 <details>
   <summary>Answer</summary>
-  Inkscape
+  Neptune
 </details>
 
 
