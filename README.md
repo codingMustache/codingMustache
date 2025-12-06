@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the big flower say to the littler flower? Hi, bud!
+Why did the clown have neck pain? - Because he slept funny
 
 
 ## Daily Trivia
 
-Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
- 1. Leopard
- 2. Puma
- 3. Tiger
- 4. Cheetah
+This mobile OS held the largest market share in 2012.
+ 1. Android
+ 2. BlackBerry
+ 3. iOS
+ 4. Symbian
 
 <details>
   <summary>Answer</summary>
-  Cheetah
+  iOS
 </details>
 
 
