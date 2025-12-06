@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Thanks for explaining the word "many" to me. It means a lot.
+I bought shoes from a drug dealer once. I don't know what he laced them with, but I was tripping all day.
 
 
 ## Daily Trivia
 
-The name of technology company HP stands for what?
- 1. Hewlett-Packard
- 2. Hellman-Pohl
- 3. Husker-Pollosk
- 4. Howard Packmann
+In any programming language, what is the most common way to iterate through an array?
+ 1. &#039;If&#039; Statements
+ 2. &#039;While&#039; loops
+ 3. &#039;For&#039; loops
+ 4. &#039;Do-while&#039; loops
 
 <details>
   <summary>Answer</summary>
-  Hewlett-Packard
+  &#039;For&#039; loops
 </details>
 
 
