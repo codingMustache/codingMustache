@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Don't tell secrets in corn fields. Too many ears around.
+What do you get if you cross a turkey with a ghost? A poultry-geist!
 
 
 ## Daily Trivia
 
-America Online (AOL) started out as which of these online service providers?
- 1. CompuServe
- 2. Quantum Link
- 3. GEnie
- 4. Prodigy
+Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
+ 1. C#
+ 2. JavaScript
+ 3. Python
+ 4. PHP
 
 <details>
   <summary>Answer</summary>
-  Quantum Link
+  JavaScript
 </details>
 
 
