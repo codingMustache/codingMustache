@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-When I left school, I passed every one of my exams with the exception of Greek Mythology. It always was my achilles elbow
+My boss told me that he was going to fire the person with the worst posture. I have a hunch, it might be me.
 
 
 ## Daily Trivia
@@ -12,8 +12,8 @@ When I left school, I passed every one of my exams with the exception of Greek M
 The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
  1. Micronesia
  2. Fiji
- 3. Marshall Islands
- 4. Tuvalu
+ 3. Tuvalu
+ 4. Marshall Islands
 
 <details>
   <summary>Answer</summary>
