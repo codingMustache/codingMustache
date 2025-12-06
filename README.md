@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-This is my step ladder. I never knew my real ladder.
+Why can’t you hear a pterodactyl go to the bathroom? The p is silent.
 
 
 ## Daily Trivia
 
-Whistler was the codename of this Microsoft Operating System.
- 1. Windows 2000
- 2. Windows 7
- 3. Windows 95
- 4. Windows XP
+If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
+ 1. Python
+ 2. C++
+ 3. JavaScript
+ 4. Binary
 
 <details>
   <summary>Answer</summary>
-  Windows XP
+  Binary
 </details>
 
 
