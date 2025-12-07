@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-At the boxing match, the dad got into the popcorn line and the line for hot dogs, but he wanted to stay out of the punchline.
+I accidentally took my cats meds last night. Don’t ask meow.
 
 
 ## Daily Trivia
 
-What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
- 1. ADPCM Sampler
- 2. FM Synthesizer
- 3. PCM Sampler
- 4. Programmable Sound Generator (PSG)
+Australia, Japan, and Southeast Asia are in which ITU Region?
+ 1. Region 1
+ 2. Region 2
+ 3. Region 4
+ 4. Region 3
 
 <details>
   <summary>Answer</summary>
-  ADPCM Sampler
+  Region 3
 </details>
 
 
