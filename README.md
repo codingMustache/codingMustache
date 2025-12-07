@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was the shirt happy to hang around the tank top? Because it was armless
+I tried to milk a cow today, but was unsuccessful. Udder failure.
 
 
 ## Daily Trivia
 
-On which day did the World Wide Web go online?
- 1. November 24, 1995
- 2. November 12, 1990
- 3. December 17, 1996
- 4. December 20, 1990
+Unix Time is defined as the number of seconds that have elapsed since when?
+ 1. Midnight, July 4, 1980
+ 2. Midnight on the creator of Unix&#039;s birthday
+ 3. Midnight, January 1, 1970
+ 4. Midnight, July 4, 1976
 
 <details>
   <summary>Answer</summary>
-  December 20, 1990
+  Midnight, January 1, 1970
 </details>
 
 
