@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the green grape say to the purple grape?
-BREATH!!
+What do you call a boy who stopped digging holes? Douglas.
 
 
 ## Daily Trivia
 
-Which of the following is a personal computer made by the Japanese company Fujitsu?
- 1. FM-7
- 2. PC-9801
- 3. Xmillennium 
- 4. MSX
+What vulnerability ranked #1 on the OWASP Top 10 in 2013?
+ 1. Broken Authentication
+ 2. Insecure Direct Object References
+ 3. Injection 
+ 4. Cross-Site Scripting
 
 <details>
   <summary>Answer</summary>
-  FM-7
+  Injection 
 </details>
 
 
