@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do locomotives know where they're going? Lots of training
+What did the green grape say to the purple grape?
+BREATH!!
 
 
 ## Daily Trivia
 
-What major programming language does Unreal Engine 4 use?
- 1. C#
- 2. C++
- 3. Assembly
- 4. ECMAScript
+Which of the following is a personal computer made by the Japanese company Fujitsu?
+ 1. FM-7
+ 2. PC-9801
+ 3. Xmillennium 
+ 4. MSX
 
 <details>
   <summary>Answer</summary>
-  C++
+  FM-7
 </details>
 
 
