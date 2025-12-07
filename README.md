@@ -4,20 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I asked the surgeon if I could administer my own anesthetic, they said: go ahead, knock yourself out.
+Doctor: Do you want to hear the good news or the bad news?
+Patient: Good news please.
+Doctor: we're naming a disease after you.
 
 
 ## Daily Trivia
 
-Who is the founder of Palantir?
- 1. Jack Dorsey
- 2. Marc Benioff
- 3. Peter Thiel
- 4. Mark Zuckerberg
+In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
+ 1. Blue
+ 2. Red
+ 3. Yellow
+ 4. Green
 
 <details>
   <summary>Answer</summary>
-  Peter Thiel
+  Green
 </details>
 
 
