@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do bees have sticky hair? Because they use honey combs!
+Nurse: Doctor, there's a patient that says he's invisible. Doctor: Well, tell him I can't see him right now!
 
 
 ## Daily Trivia
 
-The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
- 1. HD Graphics 7000
- 2. HD Graphics 600
- 3. HD Graphics 500
- 4. HD Graphics 700 
+According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:
+ 1. A&#039; + B&#039;
+ 2. A&#039;B&#039;
+ 3. A&#039;B + B&#039;A
+ 4. AB&#039; + AB
 
 <details>
   <summary>Answer</summary>
-  HD Graphics 500
+  A&#039; + B&#039;
 </details>
 
 
