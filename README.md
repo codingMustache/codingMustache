@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I was just looking at my ceiling. Not sure if it’s the best ceiling in the world, but it’s definitely up there.
+Why did the opera singer go sailing? They wanted to hit the high Cs.
 
 
 ## Daily Trivia
 
-What five letter word is the motto of the IBM Computer company?
- 1. Logic
- 2. Click
- 3. Pixel
- 4. Think
+On which day did the World Wide Web go online?
+ 1. December 20, 1990
+ 2. November 24, 1995
+ 3. November 12, 1990
+ 4. December 17, 1996
 
 <details>
   <summary>Answer</summary>
-  Think
+  December 20, 1990
 </details>
 
 
