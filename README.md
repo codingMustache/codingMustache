@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Nurse: Doctor, there's a patient that says he's invisible. Doctor: Well, tell him I can't see him right now!
+Why can't a bicycle stand on its own? It's two-tired.
 
 
 ## Daily Trivia
 
-According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:
- 1. A&#039; + B&#039;
- 2. A&#039;B&#039;
- 3. A&#039;B + B&#039;A
- 4. AB&#039; + AB
+What was the first Android version specifically optimized for tablets?
+ 1. Honeycomb
+ 2. Froyo
+ 3. Marshmellow
+ 4. Eclair
 
 <details>
   <summary>Answer</summary>
-  A&#039; + B&#039;
+  Honeycomb
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **14 days** since this server shutdown
+Its been **15 days** since this server shutdown
