@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a sheep with no legs? A cloud.
+Why did the cookie cry?
+Because his mother was a wafer so long
 
 
 ## Daily Trivia
 
-Approximately how many Apple I personal computers were created?
- 1. 100
- 2. 500
- 3. 1000
- 4. 200
+The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
+ 1. Amstrad PLC
+ 2. Sinclair Research
+ 3. Commodore Business Machines
+ 4. Acorn Computers
 
 <details>
   <summary>Answer</summary>
-  200
+  Acorn Computers
 </details>
 
 
