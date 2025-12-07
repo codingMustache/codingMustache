@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the opera singer go sailing? They wanted to hit the high Cs.
+A ghost walks into a bar and asks for a glass of vodka but the bar tender says, “sorry we don’t serve spirits”
 
 
 ## Daily Trivia
 
-On which day did the World Wide Web go online?
- 1. December 20, 1990
- 2. November 24, 1995
- 3. November 12, 1990
- 4. December 17, 1996
+Which SQL keyword is used to fetch data from a database?
+ 1. INDEX
+ 2. SELECT
+ 3. VALUES
+ 4. EXEC
 
 <details>
   <summary>Answer</summary>
-  December 20, 1990
+  SELECT
 </details>
 
 
