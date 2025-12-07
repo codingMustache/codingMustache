@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why can't eggs have love? They will break up too soon.
+It's difficult to say what my wife does, she sells sea shells by the sea shore.
 
 
 ## Daily Trivia
 
-What does RAID stand for?
- 1. Rapid Access for Indexed Devices
- 2. Range of Applications with Identical Designs
- 3. Randomized Abstract Identification Description
- 4. Redundant Array of Independent Disks
+Which of these programming languages is a low-level language?
+ 1. Pascal
+ 2. C#
+ 3. Python
+ 4. Assembly
 
 <details>
   <summary>Answer</summary>
-  Redundant Array of Independent Disks
+  Assembly
 </details>
 
 
