@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I made a playlist for hiking. It has music from Peanuts, The Cranberries, and Eminem. I call it my Trail Mix.
+New atoms frequently lose electrons when they fail to keep an ion them.
 
 
 ## Daily Trivia
 
-Approximately how many Apple I personal computers were created?
- 1. 200
- 2. 1000
- 3. 500
- 4. 100
+How many bits make up the significand portion of a single precision floating point number?
+ 1. 23
+ 2. 8
+ 3. 53
+ 4. 15
 
 <details>
   <summary>Answer</summary>
-  200
+  23
 </details>
 
 
