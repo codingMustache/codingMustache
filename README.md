@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A ghost walks into a bar and asks for a glass of vodka but the bar tender says, “sorry we don’t serve spirits”
+Want to hear a chimney joke? Got stacks of em! First one's on the house
 
 
 ## Daily Trivia
 
-Which SQL keyword is used to fetch data from a database?
- 1. INDEX
- 2. SELECT
- 3. VALUES
- 4. EXEC
+What does the International System of Quantities refer 1024 bytes as?
+ 1. Kelobyte
+ 2. Kilobyte
+ 3. Kibibyte
+ 4. Kylobyte
 
 <details>
   <summary>Answer</summary>
-  SELECT
+  Kibibyte
 </details>
 
 
