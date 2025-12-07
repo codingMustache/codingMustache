@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you make a 'one' disappear? You add a 'g' and it's 'gone'
+In my career as a lumberjack I cut down exactly 52,487 trees. I know because I kept a log.
 
 
 ## Daily Trivia
 
-Approximately how many Apple I personal computers were created?
- 1. 100
- 2. 1000
- 3. 200
- 4. 500
+What five letter word is the motto of the IBM Computer company?
+ 1. Pixel
+ 2. Click
+ 3. Logic
+ 4. Think
 
 <details>
   <summary>Answer</summary>
-  200
+  Think
 </details>
 
 
