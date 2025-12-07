@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why can't a bicycle stand on its own? It's two-tired.
+Why do bees hum? Because they don't know the words.
 
 
 ## Daily Trivia
 
-What was the first Android version specifically optimized for tablets?
- 1. Honeycomb
- 2. Froyo
- 3. Marshmellow
- 4. Eclair
+What major programming language does Unreal Engine 4 use?
+ 1. C#
+ 2. Assembly
+ 3. ECMAScript
+ 4. C++
 
 <details>
   <summary>Answer</summary>
-  Honeycomb
+  C++
 </details>
 
 
