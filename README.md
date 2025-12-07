@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do bees hum? Because they don't know the words.
+I went to a book store and asked the saleswoman where the Self Help section was, she said if she told me it would defeat the purpose.
 
 
 ## Daily Trivia
 
-What major programming language does Unreal Engine 4 use?
- 1. C#
- 2. Assembly
- 3. ECMAScript
- 4. C++
+In networking, what does OSPF stand for?
+ 1. Open Shortest Path First
+ 2. Open Signal Path Finder
+ 3. Order Sense Ping Find
+ 4. Order State Part First
 
 <details>
   <summary>Answer</summary>
-  C++
+  Open Shortest Path First
 </details>
 
 
