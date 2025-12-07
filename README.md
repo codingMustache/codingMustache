@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do fish keep their money? In the riverbank
+I used to be addicted to the hokey pokey, but I turned myself around.
 
 
 ## Daily Trivia
 
-Which RAID array type is associated with data mirroring?
- 1. RAID 10
- 2. RAID 0
- 3. RAID 5
- 4. RAID 1
+Whistler was the codename of this Microsoft Operating System.
+ 1. Windows XP
+ 2. Windows 2000
+ 3. Windows 95
+ 4. Windows 7
 
 <details>
   <summary>Answer</summary>
-  RAID 1
+  Windows XP
 </details>
 
 
