@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-In my career as a lumberjack I cut down exactly 52,487 trees. I know because I kept a log.
+I am so good at sleeping I can do it with my eyes closed!
 
 
 ## Daily Trivia
 
-What five letter word is the motto of the IBM Computer company?
- 1. Pixel
- 2. Click
- 3. Logic
- 4. Think
+Which kind of algorithm is Ron Rivest not famous for creating?
+ 1. Secret sharing scheme
+ 2. Stream cipher
+ 3. Asymmetric encryption
+ 4. Hashing algorithm
 
 <details>
   <summary>Answer</summary>
-  Think
+  Secret sharing scheme
 </details>
 
 
