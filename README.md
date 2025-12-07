@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What type of music do balloons hate? Pop music!
+Why did the fireman wear red, white, and blue suspenders? To hold his pants up.
 
 
 ## Daily Trivia
 
-Which of these people was NOT a founder of Apple Inc?
- 1. Steve Jobs
- 2. Ronald Wayne
- 3. Jonathan Ive
- 4. Steve Wozniak
+Which of these is not a key value of Agile software development?
+ 1. Individuals and interactions
+ 2. Customer collaboration
+ 3. Responding to change
+ 4. Comprehensive documentation
 
 <details>
   <summary>Answer</summary>
-  Jonathan Ive
+  Comprehensive documentation
 </details>
 
 
