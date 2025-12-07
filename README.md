@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I'd like to start a diet, but I've got too much on my plate right now.
+How do you make a 'one' disappear? You add a 'g' and it's 'gone'
 
 
 ## Daily Trivia
 
-The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
- 1. HD Graphics 500
- 2. HD Graphics 7000
- 3. HD Graphics 600
- 4. HD Graphics 700 
+Approximately how many Apple I personal computers were created?
+ 1. 100
+ 2. 1000
+ 3. 200
+ 4. 500
 
 <details>
   <summary>Answer</summary>
-  HD Graphics 500
+  200
 </details>
 
 
