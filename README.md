@@ -4,20 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I went to a book store and asked the saleswoman where the Self Help section was, she said if she told me it would defeat the purpose.
+Where was the Declaration of Independence signed?
+
+At the bottom! 
 
 
 ## Daily Trivia
 
-In networking, what does OSPF stand for?
- 1. Open Shortest Path First
- 2. Open Signal Path Finder
- 3. Order Sense Ping Find
- 4. Order State Part First
+In computing, what does LAN stand for?
+ 1. Long Antenna Node
+ 2. Land Address Navigation
+ 3. Light Access Node
+ 4. Local Area Network
 
 <details>
   <summary>Answer</summary>
-  Open Shortest Path First
+  Local Area Network
 </details>
 
 
