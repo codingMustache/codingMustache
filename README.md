@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a boy who stopped digging holes? Douglas.
+Waking up this morning was an eye-opening experience.
 
 
 ## Daily Trivia
 
-What vulnerability ranked #1 on the OWASP Top 10 in 2013?
- 1. Broken Authentication
- 2. Insecure Direct Object References
- 3. Injection 
- 4. Cross-Site Scripting
+On which day did the World Wide Web go online?
+ 1. December 17, 1996
+ 2. November 12, 1990
+ 3. November 24, 1995
+ 4. December 20, 1990
 
 <details>
   <summary>Answer</summary>
-  Injection 
+  December 20, 1990
 </details>
 
 
