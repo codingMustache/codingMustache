@@ -4,22 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where was the Declaration of Independence signed?
-
-At the bottom! 
+At the boxing match, the dad got into the popcorn line and the line for hot dogs, but he wanted to stay out of the punchline.
 
 
 ## Daily Trivia
 
-In computing, what does LAN stand for?
- 1. Long Antenna Node
- 2. Land Address Navigation
- 3. Light Access Node
- 4. Local Area Network
+What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
+ 1. ADPCM Sampler
+ 2. FM Synthesizer
+ 3. PCM Sampler
+ 4. Programmable Sound Generator (PSG)
 
 <details>
   <summary>Answer</summary>
-  Local Area Network
+  ADPCM Sampler
 </details>
 
 
