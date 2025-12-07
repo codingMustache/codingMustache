@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Waking up this morning was an eye-opening experience.
+What did Yoda say when he saw himself in 4K? "HDMI"
 
 
 ## Daily Trivia
 
-On which day did the World Wide Web go online?
- 1. December 17, 1996
- 2. November 12, 1990
- 3. November 24, 1995
- 4. December 20, 1990
+All of the following programs are classified as raster graphics editors EXCEPT:
+ 1. Adobe Photoshop
+ 2. GIMP
+ 3. Inkscape
+ 4. Paint.NET
 
 <details>
   <summary>Answer</summary>
-  December 20, 1990
+  Inkscape
 </details>
 
 
