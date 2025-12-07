@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-New atoms frequently lose electrons when they fail to keep an ion them.
+How come a man driving a train got struck by lightning? He was a good conductor.
 
 
 ## Daily Trivia
 
-How many bits make up the significand portion of a single precision floating point number?
- 1. 23
- 2. 8
- 3. 53
- 4. 15
+.rs is the top-level domain for what country?
+ 1. Romania
+ 2. Russia
+ 3. Serbia
+ 4. Rwanda
 
 <details>
   <summary>Answer</summary>
-  23
+  Serbia
 </details>
 
 
