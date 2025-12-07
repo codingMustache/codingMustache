@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the cookie cry?
-Because his mother was a wafer so long
+Where do fish keep their money? In the riverbank
 
 
 ## Daily Trivia
 
-The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
- 1. Amstrad PLC
- 2. Sinclair Research
- 3. Commodore Business Machines
- 4. Acorn Computers
+Which RAID array type is associated with data mirroring?
+ 1. RAID 10
+ 2. RAID 0
+ 3. RAID 5
+ 4. RAID 1
 
 <details>
   <summary>Answer</summary>
-  Acorn Computers
+  RAID 1
 </details>
 
 
