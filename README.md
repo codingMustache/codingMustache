@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Got a new suit recently made entirely of living plants. I wasn’t sure at first, but it’s grown on me
+Me and my mates are in a band called Duvet. We're a cover band.
 
 
 ## Daily Trivia
 
-What does the International System of Quantities refer 1024 bytes as?
- 1. Kibibyte
- 2. Kelobyte
- 3. Kilobyte
- 4. Kylobyte
+How many cores does the Intel i7-6950X have?
+ 1. 10
+ 2. 4
+ 3. 8
+ 4. 12
 
 <details>
   <summary>Answer</summary>
-  Kibibyte
+  10
 </details>
 
 
