@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Two guys walked into a bar, the third one ducked.
+Why was the shirt happy to hang around the tank top? Because it was armless
 
 
 ## Daily Trivia
 
-Which of the following computer components can be built using only NAND gates?
- 1. CPU
- 2. Register
- 3. RAM
- 4. ALU
+On which day did the World Wide Web go online?
+ 1. November 24, 1995
+ 2. November 12, 1990
+ 3. December 17, 1996
+ 4. December 20, 1990
 
 <details>
   <summary>Answer</summary>
-  ALU
+  December 20, 1990
 </details>
 
 
