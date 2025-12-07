@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I accidentally took my cats meds last night. Don’t ask meow.
+What did the grape do when he got stepped on? He let out a little wine.
 
 
 ## Daily Trivia
 
-Australia, Japan, and Southeast Asia are in which ITU Region?
- 1. Region 1
- 2. Region 2
- 3. Region 4
- 4. Region 3
+Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
+ 1. Corrupted Blood
+ 2. Heartbleed
+ 3. Shellscript
+ 4. Shellshock
 
 <details>
   <summary>Answer</summary>
-  Region 3
+  Heartbleed
 </details>
 
 
