@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why is no one friends with Dracula? Because he's a pain in the neck.
+"Dad, I'm hungry." Hello, Hungry. I'm Dad.
 
 
 ## Daily Trivia
 
-What amount of bits commonly equals one byte?
- 1. 8
- 2. 1
- 3. 64
- 4. 2
+On which day did the World Wide Web go online?
+ 1. November 12, 1990
+ 2. December 20, 1990
+ 3. December 17, 1996
+ 4. November 24, 1995
 
 <details>
   <summary>Answer</summary>
-  8
+  December 20, 1990
 </details>
 
 
