@@ -4,22 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Never Trust Someone With Graph Paper...
-
-They're always plotting something.
+I had a rough day, and then somebody went and ripped the front and back pages from my dictionary. It just goes from bad to worse.
 
 
 ## Daily Trivia
 
-The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
- 1. Fiji
- 2. Micronesia
- 3. Marshall Islands
- 4. Tuvalu
+What was the name of the security vulnerability found in Bash in 2014?
+ 1. Heartbleed
+ 2. Bashbug
+ 3. Stagefright
+ 4. Shellshock
 
 <details>
   <summary>Answer</summary>
-  Micronesia
+  Shellshock
 </details>
 
 
