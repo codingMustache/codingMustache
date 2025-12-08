@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are ghosts bad liars? Because you can see right through them!
+What did Yoda say when he saw himself in 4K? "HDMI"
 
 
 ## Daily Trivia
 
-Lenovo acquired IBM&#039;s personal computer division, including the ThinkPad line of laptops and tablets, in what year?
- 1. 1999
- 2. 2005
- 3. 2002
- 4. 2008
+Which of these is not a key value of Agile software development?
+ 1. Individuals and interactions
+ 2. Customer collaboration
+ 3. Responding to change
+ 4. Comprehensive documentation
 
 <details>
   <summary>Answer</summary>
-  2005
+  Comprehensive documentation
 </details>
 
 
