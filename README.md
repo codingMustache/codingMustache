@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-In my career as a lumberjack I cut down exactly 52,487 trees. I know because I kept a log.
+So, I heard this pun about cows, but it’s kinda offensive so I won’t say it. I don’t want there to be any beef between us. 
 
 
 ## Daily Trivia
 
-How fast is USB 3.1 Gen 2 theoretically?
- 1. 10 Gb/s
- 2. 1 Gb/s
- 3. 8 Gb/s
- 4. 5 Gb/s
+The name of technology company HP stands for what?
+ 1. Hellman-Pohl
+ 2. Husker-Pollosk
+ 3. Howard Packmann
+ 4. Hewlett-Packard
 
 <details>
   <summary>Answer</summary>
-  10 Gb/s
+  Hewlett-Packard
 </details>
 
 
