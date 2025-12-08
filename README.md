@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are fish easy to weigh? Because they have their own scales.
+What did one snowman say to the other snow man? Do you smell carrot?
 
 
 ## Daily Trivia
 
-In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
- 1. print(&quot;Hello World&quot;)
- 2. echo &quot;Hello World&quot;
- 3. printf(&quot;Hello World&quot;)
- 4. console.log(&quot;Hello World&quot;)
+How many values can a single byte represent?
+ 1. 8
+ 2. 1
+ 3. 1024
+ 4. 256
 
 <details>
   <summary>Answer</summary>
-  print(&quot;Hello World&quot;)
+  256
 </details>
 
 
