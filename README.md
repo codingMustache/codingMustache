@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A termite walks into a bar and asks “Is the bar tender here?”
+My New Years resolution is to stop leaving things so late.
 
 
 ## Daily Trivia
 
-How many values can a single byte represent?
- 1. 1024
- 2. 256
- 3. 1
- 4. 8
+What is the main CPU is the Sega Mega Drive / Sega Genesis?
+ 1. Zilog Z80
+ 2. Yamaha YM2612
+ 3. Intel 8088
+ 4. Motorola 68000
 
 <details>
   <summary>Answer</summary>
-  256
+  Motorola 68000
 </details>
 
 
