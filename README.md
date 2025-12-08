@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of dinosaur loves to sleep? A stega-snore-us.
+Why are fish easy to weigh? Because they have their own scales.
 
 
 ## Daily Trivia
 
-Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
- 1. 20.5 kHz
- 2. 44.1 kHz
- 3. 32.0 kHz
- 4. 1.5 MHz
+In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
+ 1. print(&quot;Hello World&quot;)
+ 2. echo &quot;Hello World&quot;
+ 3. printf(&quot;Hello World&quot;)
+ 4. console.log(&quot;Hello World&quot;)
 
 <details>
   <summary>Answer</summary>
-  44.1 kHz
+  print(&quot;Hello World&quot;)
 </details>
 
 
