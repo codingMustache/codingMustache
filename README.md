@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is the tallest building in the world? The library – it’s got the most stories!
+Can a kangaroo jump higher than the Empire State Building? Of course. The Empire State Building can't jump.
 
 
 ## Daily Trivia
 
-What does &quot;LCD&quot; stand for?
- 1. Last Common Difference
- 2. Liquid Crystal Display
- 3. Long Continuous Design
- 4. Language Control Design
+How many bits make up the significand portion of a single precision floating point number?
+ 1. 23
+ 2. 8
+ 3. 15
+ 4. 53
 
 <details>
   <summary>Answer</summary>
-  Liquid Crystal Display
+  23
 </details>
 
 
