@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Q: What did the spaghetti say to the other spaghetti?
-A: Pasta la vista, baby!
+My son is studying to be a surgeon, I just hope he makes the cut.
 
 
 ## Daily Trivia
 
-Laserjet and inkjet printers are both examples of what type of printer?
- 1. Impact printer
- 2. Daisywheel printer
- 3. Dot matrix printer
- 4. Non-impact printer
+Which computer hardware device provides an interface for all other connected devices to communicate?
+ 1. Random Access Memory
+ 2. Motherboard
+ 3. Hard Disk Drive
+ 4. Central Processing Unit
 
 <details>
   <summary>Answer</summary>
-  Non-impact printer
+  Motherboard
 </details>
 
 
