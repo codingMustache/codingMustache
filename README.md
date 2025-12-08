@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My son is studying to be a surgeon, I just hope he makes the cut.
+I cut my finger cutting cheese. I know it may be a cheesy story but I feel grate now.
 
 
 ## Daily Trivia
 
-Which computer hardware device provides an interface for all other connected devices to communicate?
- 1. Random Access Memory
- 2. Motherboard
- 3. Hard Disk Drive
- 4. Central Processing Unit
+What major programming language does Unreal Engine 4 use?
+ 1. ECMAScript
+ 2. C++
+ 3. C#
+ 4. Assembly
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  C++
 </details>
 
 
