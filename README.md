@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did one snowman say to the other snow man? Do you smell carrot?
+I was wondering why the frisbee was getting bigger, then it hit me.
 
 
 ## Daily Trivia
 
-How many values can a single byte represent?
- 1. 8
- 2. 1
- 3. 1024
- 4. 256
+What five letter word is the motto of the IBM Computer company?
+ 1. Click
+ 2. Logic
+ 3. Pixel
+ 4. Think
 
 <details>
   <summary>Answer</summary>
-  256
+  Think
 </details>
 
 
