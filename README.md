@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The invention of the wheel was what got things rolling
+Where does Fonzie like to go for lunch? Chick-Fil-Eyyyyyyyy.
 
 
 ## Daily Trivia
 
-Nvidia&#039;s headquarters are based in which Silicon Valley city?
- 1. Palo Alto
- 2. Cupertino
- 3. Mountain View
- 4. Santa Clara
+How long is an IPv6 address?
+ 1. 128 bytes
+ 2. 128 bits
+ 3. 32 bits
+ 4. 64 bits
 
 <details>
   <summary>Answer</summary>
-  Santa Clara
+  128 bits
 </details>
 
 
