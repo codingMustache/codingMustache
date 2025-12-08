@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the m&m go to school? Because it wanted to be a Smartie!
+Why do fish live in salt water? Because pepper makes them sneeze!
 
 
 ## Daily Trivia
 
-What five letter word is the motto of the IBM Computer company?
- 1. Click
- 2. Logic
- 3. Think
- 4. Pixel
+What does GHz stand for?
+ 1. Gigahotz
+ 2. Gigahetz
+ 3. Gigahatz
+ 4. Gigahertz
 
 <details>
   <summary>Answer</summary>
-  Think
+  Gigahertz
 </details>
 
 
