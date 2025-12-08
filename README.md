@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where does Fonzie like to go for lunch? Chick-Fil-Eyyyyyyyy.
+For Valentine's day, I decided to get my wife some beads for an abacus.  It's the little things that count.
 
 
 ## Daily Trivia
 
-How long is an IPv6 address?
- 1. 128 bytes
- 2. 128 bits
- 3. 32 bits
- 4. 64 bits
+HTML is what type of language?
+ 1. Programming Language
+ 2. Scripting Language
+ 3. Markup Language
+ 4. Macro Language
 
 <details>
   <summary>Answer</summary>
-  128 bits
+  Markup Language
 </details>
 
 
