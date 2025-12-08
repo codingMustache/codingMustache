@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Can a kangaroo jump higher than the Empire State Building? Of course. The Empire State Building can't jump.
+What do you call a magician who has lost their magic? Ian.
 
 
 ## Daily Trivia
 
-How many bits make up the significand portion of a single precision floating point number?
- 1. 23
- 2. 8
- 3. 15
- 4. 53
+HTML is what type of language?
+ 1. Scripting Language
+ 2. Macro Language
+ 3. Programming Language
+ 4. Markup Language
 
 <details>
   <summary>Answer</summary>
-  23
+  Markup Language
 </details>
 
 
