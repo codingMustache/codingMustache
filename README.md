@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I was going to learn how to juggle, but I didn't have the balls.
+Where did you learn to make ice cream? Sunday school.
 
 
 ## Daily Trivia
 
-Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
- 1. Four Years
- 2. Two Years
- 3. Eight Years
- 4. Year
+In any programming language, what is the most common way to iterate through an array?
+ 1. &#039;If&#039; Statements
+ 2. &#039;Do-while&#039; loops
+ 3. &#039;For&#039; loops
+ 4. &#039;While&#039; loops
 
 <details>
   <summary>Answer</summary>
-  Year
+  &#039;For&#039; loops
 </details>
 
 
