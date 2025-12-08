@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do fish live in salt water? Because pepper makes them sneeze!
+People saying 'boo! to their friends has risen by 85% in the last year.... That's a frightening statistic.
 
 
 ## Daily Trivia
 
-What does GHz stand for?
- 1. Gigahotz
- 2. Gigahetz
- 3. Gigahatz
- 4. Gigahertz
+What was the name of the security vulnerability found in Bash in 2014?
+ 1. Stagefright
+ 2. Shellshock
+ 3. Heartbleed
+ 4. Bashbug
 
 <details>
   <summary>Answer</summary>
-  Gigahertz
+  Shellshock
 </details>
 
 
