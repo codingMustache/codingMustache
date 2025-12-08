@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What has three letters and starts with gas? A Car.
+A termite walks into a bar and asks “Is the bar tender here?”
 
 
 ## Daily Trivia
 
-What is the domain name for the country Tuvalu?
- 1. .tv
- 2. .tu
- 3. .tt
- 4. .tl
+How many values can a single byte represent?
+ 1. 1024
+ 2. 256
+ 3. 1
+ 4. 8
 
 <details>
   <summary>Answer</summary>
-  .tv
+  256
 </details>
 
 
