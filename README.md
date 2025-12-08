@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-which flower is most fierce? Dandelion
+I always wanted to look into why I procrastinate, but I keep putting it off. 
 
 
 ## Daily Trivia
 
-Which of these is not a key value of Agile software development?
- 1. Responding to change
- 2. Customer collaboration
- 3. Comprehensive documentation
- 4. Individuals and interactions
+Which of the following is a personal computer made by the Japanese company Fujitsu?
+ 1. PC-9801
+ 2. MSX
+ 3. Xmillennium 
+ 4. FM-7
 
 <details>
   <summary>Answer</summary>
-  Comprehensive documentation
+  FM-7
 </details>
 
 
