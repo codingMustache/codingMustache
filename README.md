@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I’m on a whiskey diet. I’ve lost three days already.
+Why is no one friends with Dracula? Because he's a pain in the neck.
 
 
 ## Daily Trivia
 
-What was the first commerically available computer processor?
- 1. TMS 1000
- 2. AMD AM386
- 3. Intel 4004
- 4. Intel 486SX
+What amount of bits commonly equals one byte?
+ 1. 8
+ 2. 1
+ 3. 64
+ 4. 2
 
 <details>
   <summary>Answer</summary>
-  Intel 4004
+  8
 </details>
 
 
