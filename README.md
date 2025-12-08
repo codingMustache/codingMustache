@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My New Years resolution is to stop leaving things so late.
+What do you call a guy lying on your doorstep? Matt.
 
 
 ## Daily Trivia
 
-What is the main CPU is the Sega Mega Drive / Sega Genesis?
- 1. Zilog Z80
- 2. Yamaha YM2612
- 3. Intel 8088
- 4. Motorola 68000
+In computing, what does MIDI stand for?
+ 1. Musical Interface of Digital Instruments
+ 2. Modular Interface of Digital Instruments
+ 3. Musical Instrument Data Interface
+ 4. Musical Instrument Digital Interface
 
 <details>
   <summary>Answer</summary>
-  Motorola 68000
+  Musical Instrument Digital Interface
 </details>
 
 
