@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I was wondering why the frisbee was getting bigger, then it hit me.
+The word queue is ironic. It's just q with a bunch of silent letters waiting in line.
 
 
 ## Daily Trivia
 
-What five letter word is the motto of the IBM Computer company?
- 1. Click
- 2. Logic
- 3. Pixel
- 4. Think
+What programming language was GitHub written in?
+ 1. JavaScript
+ 2. Python
+ 3. Ruby
+ 4. Lua
 
 <details>
   <summary>Answer</summary>
-  Think
+  Ruby
 </details>
 
 
