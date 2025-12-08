@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-People saying 'boo! to their friends has risen by 85% in the last year.... That's a frightening statistic.
+Why don't skeletons ride roller coasters? They don't have the stomach for it.
 
 
 ## Daily Trivia
 
-What was the name of the security vulnerability found in Bash in 2014?
- 1. Stagefright
- 2. Shellshock
- 3. Heartbleed
- 4. Bashbug
+What does the computer software acronym JVM stand for?
+ 1. Just Virtual Machine
+ 2. Java Visual Machine
+ 3. Java Vendor Machine
+ 4. Java Virtual Machine
 
 <details>
   <summary>Answer</summary>
-  Shellshock
+  Java Virtual Machine
 </details>
 
 
