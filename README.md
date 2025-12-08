@@ -4,20 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why is it a bad idea to iron your four-leaf clover? Cause you shouldn't press your luck.
+Never Trust Someone With Graph Paper...
+
+They're always plotting something.
 
 
 ## Daily Trivia
 
-On which computer hardware device is the BIOS chip located?
- 1. Hard Disk Drive
- 2. Central Processing Unit
- 3. Graphics Processing Unit
- 4. Motherboard
+The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
+ 1. Fiji
+ 2. Micronesia
+ 3. Marshall Islands
+ 4. Tuvalu
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  Micronesia
 </details>
 
 
