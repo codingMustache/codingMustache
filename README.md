@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the kid cross the playground? To get to the other slide.
+Waking up this morning was an eye-opening experience.
 
 
 ## Daily Trivia
 
-What is the number of keys on a standard Windows Keyboard?
- 1. 76
- 2. 104
- 3. 94
- 4. 64
+Who invented the &quot;Spanning Tree Protocol&quot;?
+ 1. Paul Vixie
+ 2. Vint Cerf
+ 3. Michael Roberts
+ 4. Radia Perlman
 
 <details>
   <summary>Answer</summary>
-  104
+  Radia Perlman
 </details>
 
 
