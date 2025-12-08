@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many hipsters does it take to change a lightbulb? Oh, it's a really obscure number. You've probably never heard of it.
+What did the ocean say to the shore? Nothing, it just waved.
 
 
 ## Daily Trivia
 
-All of the following programs are classified as raster graphics editors EXCEPT:
- 1. Inkscape
- 2. Paint.NET
- 3. Adobe Photoshop
- 4. GIMP
+What does the International System of Quantities refer 1024 bytes as?
+ 1. Kibibyte
+ 2. Kelobyte
+ 3. Kilobyte
+ 4. Kylobyte
 
 <details>
   <summary>Answer</summary>
-  Inkscape
+  Kibibyte
 </details>
 
 
