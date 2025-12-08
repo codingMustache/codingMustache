@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-So, I heard this pun about cows, but it’s kinda offensive so I won’t say it. I don’t want there to be any beef between us. 
+Why are ghosts bad liars? Because you can see right through them!
 
 
 ## Daily Trivia
 
-The name of technology company HP stands for what?
- 1. Hellman-Pohl
- 2. Husker-Pollosk
- 3. Howard Packmann
- 4. Hewlett-Packard
+Lenovo acquired IBM&#039;s personal computer division, including the ThinkPad line of laptops and tablets, in what year?
+ 1. 1999
+ 2. 2005
+ 3. 2002
+ 4. 2008
 
 <details>
   <summary>Answer</summary>
-  Hewlett-Packard
+  2005
 </details>
 
 
