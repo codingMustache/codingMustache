@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-For Valentine's day, I decided to get my wife some beads for an abacus.  It's the little things that count.
+In my career as a lumberjack I cut down exactly 52,487 trees. I know because I kept a log.
 
 
 ## Daily Trivia
 
-HTML is what type of language?
- 1. Programming Language
- 2. Scripting Language
- 3. Markup Language
- 4. Macro Language
+How fast is USB 3.1 Gen 2 theoretically?
+ 1. 10 Gb/s
+ 2. 1 Gb/s
+ 3. 8 Gb/s
+ 4. 5 Gb/s
 
 <details>
   <summary>Answer</summary>
-  Markup Language
+  10 Gb/s
 </details>
 
 
