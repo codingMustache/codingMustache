@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are snake races so exciting? They're always neck and neck.
+So, I heard this pun about cows, but it’s kinda offensive so I won’t say it. I don’t want there to be any beef between us. 
 
 
 ## Daily Trivia
 
-In computing, what does LAN stand for?
- 1. Long Antenna Node
- 2. Local Area Network
- 3. Light Access Node
- 4. Land Address Navigation
+Which of the following is the oldest of these computers by release date?
+ 1. ZX Spectrum
+ 2. TRS-80
+ 3. Commodore 64
+ 4. Apple 3
 
 <details>
   <summary>Answer</summary>
-  Local Area Network
+  TRS-80
 </details>
 
 
