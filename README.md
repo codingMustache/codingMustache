@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I just broke my guitar. It's okay, I won't fret
+Why did Dracula lie in the wrong coffin? He made a grave mistake.
 
 
 ## Daily Trivia
 
-Which of the following physical typologies are used with Ethernet Networks?
- 1. Ring
- 2. Star
- 3. Hex
- 4. Mesh
+Which of these people was NOT a founder of Apple Inc?
+ 1. Jonathan Ive
+ 2. Steve Wozniak
+ 3. Ronald Wayne
+ 4. Steve Jobs
 
 <details>
   <summary>Answer</summary>
-  Star
+  Jonathan Ive
 </details>
 
 
