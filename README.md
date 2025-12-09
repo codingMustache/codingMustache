@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do you learn to make banana splits? At sundae school.
+When will the little snake arrive? I don't know but he won't be long...
 
 
 ## Daily Trivia
 
-What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
- 1. Data link
- 2. Session
- 3. Network
- 4. Transport
+In web design, what does CSS stand for?
+ 1. Cascading Style Sheet
+ 2. Computer Style Sheet
+ 3. Corrective Style Sheet
+ 4. Counter Strike: Source
 
 <details>
   <summary>Answer</summary>
-  Transport
+  Cascading Style Sheet
 </details>
 
 
