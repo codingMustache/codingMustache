@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a bee that lives in America? A USB.
+A man tried to sell me a coffin today. I told him that's the last thing I need.
 
 
 ## Daily Trivia
 
-How many Hz does the video standard PAL support?
- 1. 59
- 2. 60
- 3. 25
- 4. 50
+All of the following programs are classified as raster graphics editors EXCEPT:
+ 1. Inkscape
+ 2. Adobe Photoshop
+ 3. GIMP
+ 4. Paint.NET
 
 <details>
   <summary>Answer</summary>
-  50
+  Inkscape
 </details>
 
 
