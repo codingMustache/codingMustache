@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-When you have a bladder infection, urine trouble.
+I’ve got this disease where I can’t stop making airport puns. The doctor says it terminal.
 
 
 ## Daily Trivia
 
-What major programming language does Unreal Engine 4 use?
- 1. C#
- 2. Assembly
- 3. C++
- 4. ECMAScript
+The acronym &quot;RIP&quot; stands for which of these?
+ 1. Regular Interval Processes
+ 2. Runtime Instance Processes
+ 3. Routine Inspection Protocol
+ 4. Routing Information Protocol
 
 <details>
   <summary>Answer</summary>
-  C++
+  Routing Information Protocol
 </details>
 
 
