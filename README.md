@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you tell the difference between a crocodile and an alligator? You will see one later and one in a while.
+Did you hear about the cheese factory that exploded in France? There was nothing left but de Brie.
 
 
 ## Daily Trivia
 
-What does &quot;LCD&quot; stand for?
- 1. Long Continuous Design
- 2. Language Control Design
- 3. Liquid Crystal Display
- 4. Last Common Difference
+Which computer language would you associate Django framework with?
+ 1. C#
+ 2. C++
+ 3. Python
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  Liquid Crystal Display
+  Python
 </details>
 
 
