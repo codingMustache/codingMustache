@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Me and my mates are in a band called Duvet. We're a cover band.
+What’s the advantage of living in Switzerland? Well, the flag is a big plus.
 
 
 ## Daily Trivia
 
-Unix Time is defined as the number of seconds that have elapsed since when?
- 1. Midnight on the creator of Unix&#039;s birthday
- 2. Midnight, July 4, 1980
- 3. Midnight, July 4, 1976
- 4. Midnight, January 1, 1970
+Approximately how many Apple I personal computers were created?
+ 1. 500
+ 2. 100
+ 3. 1000
+ 4. 200
 
 <details>
   <summary>Answer</summary>
-  Midnight, January 1, 1970
+  200
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **16 days** since this server shutdown
+Its been **17 days** since this server shutdown
