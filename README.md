@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-People are shocked to discover I have a police record but I love their greatest hits!
+Me and my mates are in a band called Duvet. We're a cover band.
 
 
 ## Daily Trivia
 
-In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
- 1. &lt;marquee&gt;&lt;/marquee&gt;
- 2. &lt;slide&gt;&lt;/slide&gt;
- 3. &lt;scroll&gt;&lt;/scroll&gt;
- 4. &lt;move&gt;&lt;/move&gt;
+Unix Time is defined as the number of seconds that have elapsed since when?
+ 1. Midnight on the creator of Unix&#039;s birthday
+ 2. Midnight, July 4, 1980
+ 3. Midnight, July 4, 1976
+ 4. Midnight, January 1, 1970
 
 <details>
   <summary>Answer</summary>
-  &lt;marquee&gt;&lt;/marquee&gt;
+  Midnight, January 1, 1970
 </details>
 
 
