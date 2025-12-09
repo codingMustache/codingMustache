@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How are false teeth like stars? They come out at night!
+What did the piece of bread say to the knife? Butter me up.
 
 
 ## Daily Trivia
 
-What does the acronym CDN stand for in terms of networking?
- 1. Content Delivery Network
- 2. Compressed Data Network
- 3. Computational Data Network
- 4. Content Distribution Network
+The acronym &quot;RIP&quot; stands for which of these?
+ 1. Regular Interval Processes
+ 2. Runtime Instance Processes
+ 3. Routine Inspection Protocol
+ 4. Routing Information Protocol
 
 <details>
   <summary>Answer</summary>
-  Content Delivery Network
+  Routing Information Protocol
 </details>
 
 
