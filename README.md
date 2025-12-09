@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the digital clock say to the grandfather clock? Look, no hands!
+I had a rough day, and then somebody went and ripped the front and back pages from my dictionary. It just goes from bad to worse.
 
 
 ## Daily Trivia
 
-When was the programming language &quot;C#&quot; released?
- 1. 1999
- 2. 2000
- 3. 2001
- 4. 1998
+How many cores does the Intel i7-6950X have?
+ 1. 10
+ 2. 4
+ 3. 12
+ 4. 8
 
 <details>
   <summary>Answer</summary>
-  2000
+  10
 </details>
 
 
