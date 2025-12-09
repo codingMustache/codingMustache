@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do bees do after they are married? They go on a honeymoon.
+Two parrots are sitting on a perch. One turns to the other and asks, "do you smell fish?"
 
 
 ## Daily Trivia
 
-America Online (AOL) started out as which of these online service providers?
- 1. GEnie
- 2. Prodigy
- 3. Quantum Link
- 4. CompuServe
+What does the &quot;MP&quot; stand for in MP3?
+ 1. Moving Picture
+ 2. Micro Point
+ 3. Multi Pass
+ 4. Music Player
 
 <details>
   <summary>Answer</summary>
-  Quantum Link
+  Moving Picture
 </details>
 
 
