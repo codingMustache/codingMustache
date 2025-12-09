@@ -9,15 +9,15 @@ So, I heard this pun about cows, but it’s kinda offensive so I won’t say it.
 
 ## Daily Trivia
 
-Which of the following is the oldest of these computers by release date?
- 1. ZX Spectrum
- 2. TRS-80
- 3. Commodore 64
- 4. Apple 3
+.at is the top-level domain for what country?
+ 1. Argentina
+ 2. Australia
+ 3. Austria
+ 4. Angola
 
 <details>
   <summary>Answer</summary>
-  TRS-80
+  Austria
 </details>
 
 
