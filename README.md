@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Hear about the new restaurant called Karma? There’s no menu: You get what you deserve.
+People are shocked to discover I have a police record but I love their greatest hits!
 
 
 ## Daily Trivia
 
-Which of the following is a personal computer made by the Japanese company Fujitsu?
- 1. PC-9801
- 2. Xmillennium 
- 3. MSX
- 4. FM-7
+In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
+ 1. &lt;marquee&gt;&lt;/marquee&gt;
+ 2. &lt;slide&gt;&lt;/slide&gt;
+ 3. &lt;scroll&gt;&lt;/scroll&gt;
+ 4. &lt;move&gt;&lt;/move&gt;
 
 <details>
   <summary>Answer</summary>
-  FM-7
+  &lt;marquee&gt;&lt;/marquee&gt;
 </details>
 
 
