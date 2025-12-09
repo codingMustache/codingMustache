@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did one nut say as he chased another nut?  I'm a cashew!
+How do you tell the difference between a crocodile and an alligator? You will see one later and one in a while.
 
 
 ## Daily Trivia
 
-What was Bitcoin&#039;s block size limit in 2010?
- 1. 1 TB
- 2. 1GB
- 3. 1 MB
- 4. 1 KB
+What does &quot;LCD&quot; stand for?
+ 1. Long Continuous Design
+ 2. Language Control Design
+ 3. Liquid Crystal Display
+ 4. Last Common Difference
 
 <details>
   <summary>Answer</summary>
-  1 MB
+  Liquid Crystal Display
 </details>
 
 
