@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I needed a password eight characters long so I picked Snow White and the Seven Dwarfs.
+Hear about the new restaurant called Karma? There’s no menu: You get what you deserve.
 
 
 ## Daily Trivia
 
-What is the name of the default theme that is installed with Windows XP?
- 1. Luna
- 2. Neptune
- 3. Whistler
- 4. Bliss
+Which of the following is a personal computer made by the Japanese company Fujitsu?
+ 1. PC-9801
+ 2. Xmillennium 
+ 3. MSX
+ 4. FM-7
 
 <details>
   <summary>Answer</summary>
-  Luna
+  FM-7
 </details>
 
 
