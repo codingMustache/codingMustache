@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How are false teeth like stars? They come out at night!
+What did the ocean say to the beach? Thanks for all the sediment.
 
 
 ## Daily Trivia
 
-What was the name given to Android 4.3?
- 1. Jelly Bean
- 2. Froyo
- 3. Nutella
- 4. Lollipop
+Which programming language was developed by Sun Microsystems in 1995?
+ 1. Solaris OS
+ 2. Python
+ 3. C++
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  Jelly Bean
+  Java
 </details>
 
 
