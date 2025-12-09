@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why can't a bicycle stand on its own? It's two-tired.
+Where do you learn to make banana splits? At sundae school.
 
 
 ## Daily Trivia
 
-.rs is the top-level domain for what country?
- 1. Serbia
- 2. Russia
- 3. Rwanda
- 4. Romania
+What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
+ 1. Data link
+ 2. Session
+ 3. Network
+ 4. Transport
 
 <details>
   <summary>Answer</summary>
-  Serbia
+  Transport
 </details>
 
 
