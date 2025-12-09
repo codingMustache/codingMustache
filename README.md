@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Do I enjoy making courthouse puns? Guilty
+Why can't a bicycle stand on its own? It's two-tired.
 
 
 ## Daily Trivia
 
-What does GHz stand for?
- 1. Gigahertz
- 2. Gigahotz
- 3. Gigahatz
- 4. Gigahetz
+.rs is the top-level domain for what country?
+ 1. Serbia
+ 2. Russia
+ 3. Rwanda
+ 4. Romania
 
 <details>
   <summary>Answer</summary>
-  Gigahertz
+  Serbia
 </details>
 
 
