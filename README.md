@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It takes guts to be an organ donor.
+What did one nut say as he chased another nut?  I'm a cashew!
 
 
 ## Daily Trivia
 
-Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
- 1. Commodore
- 2. Atari
- 3. Microsoft
- 4. Apple
+What was Bitcoin&#039;s block size limit in 2010?
+ 1. 1 TB
+ 2. 1GB
+ 3. 1 MB
+ 4. 1 KB
 
 <details>
   <summary>Answer</summary>
-  Apple
+  1 MB
 </details>
 
 
