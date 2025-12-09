@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a guy lying on your doorstep? Matt.
+What did one wall say to the other wall? I'll meet you at the corner!
 
 
 ## Daily Trivia
 
-While Apple was formed in California, in which western state was Microsoft founded?
- 1. New Mexico
- 2. Arizona
- 3. Colorado
- 4. Washington
+What does the Prt Sc button do?
+ 1. Captures what&#039;s on the screen and copies it to your clipboard
+ 2. Closes all windows
+ 3. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
+ 4. Nothing
 
 <details>
   <summary>Answer</summary>
-  New Mexico
+  Captures what&#039;s on the screen and copies it to your clipboard
 </details>
 
 
