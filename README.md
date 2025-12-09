@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Two parrots are sitting on a perch. One turns to the other and asks, "do you smell fish?"
+It’s hard to explain puns to kleptomaniacs, because they take everything literally.
 
 
 ## Daily Trivia
 
-What does the &quot;MP&quot; stand for in MP3?
- 1. Moving Picture
- 2. Micro Point
- 3. Multi Pass
- 4. Music Player
+What was the name given to Android 4.3?
+ 1. Jelly Bean
+ 2. Froyo
+ 3. Nutella
+ 4. Lollipop
 
 <details>
   <summary>Answer</summary>
-  Moving Picture
+  Jelly Bean
 </details>
 
 
