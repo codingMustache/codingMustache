@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Scientists finally did a study on forks. It's about tine!
+What do bees do after they are married? They go on a honeymoon.
 
 
 ## Daily Trivia
 
-Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
- 1. Apple
- 2. Commodore
- 3. Atari
- 4. Microsoft
+America Online (AOL) started out as which of these online service providers?
+ 1. GEnie
+ 2. Prodigy
+ 3. Quantum Link
+ 4. CompuServe
 
 <details>
   <summary>Answer</summary>
-  Apple
+  Quantum Link
 </details>
 
 
