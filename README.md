@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Feeling pretty proud of myself. The Sesame Street puzzle I bought said 3-5 years, but I finished it in 18 months.
+I used to hate facial hair, but then it grew on me.
 
 
 ## Daily Trivia
 
-What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
- 1. Broadwell
- 2. Coffee Lake
- 3. Skylake
- 4. Sandy Bridge
+What is the main CPU is the Sega Mega Drive / Sega Genesis?
+ 1. Zilog Z80
+ 2. Intel 8088
+ 3. Yamaha YM2612
+ 4. Motorola 68000
 
 <details>
   <summary>Answer</summary>
-  Coffee Lake
+  Motorola 68000
 </details>
 
 
