@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do valley girls hang out in odd numbered groups? Because they can't even.
+How come the stadium got hot after the game? Because all of the fans left.
 
 
 ## Daily Trivia
 
-What does the computer software acronym JVM stand for?
- 1. Java Vendor Machine
- 2. Just Virtual Machine
- 3. Java Visual Machine
- 4. Java Virtual Machine
+According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:
+ 1. A&#039;B + B&#039;A
+ 2. A&#039;B&#039;
+ 3. AB&#039; + AB
+ 4. A&#039; + B&#039;
 
 <details>
   <summary>Answer</summary>
-  Java Virtual Machine
+  A&#039; + B&#039;
 </details>
 
 
