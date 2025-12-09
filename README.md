@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It’s hard to explain puns to kleptomaniacs, because they take everything literally.
+I always wanted to look into why I procrastinate, but I keep putting it off. 
 
 
 ## Daily Trivia
 
-What was the name given to Android 4.3?
- 1. Jelly Bean
- 2. Froyo
- 3. Nutella
- 4. Lollipop
+Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
+ 1. 44.1 kHz
+ 2. 32.0 kHz
+ 3. 1.5 MHz
+ 4. 20.5 kHz
 
 <details>
   <summary>Answer</summary>
-  Jelly Bean
+  44.1 kHz
 </details>
 
 
