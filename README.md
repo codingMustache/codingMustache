@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the ocean say to the beach? Thanks for all the sediment.
+Why do valley girls hang out in odd numbered groups? Because they can't even.
 
 
 ## Daily Trivia
 
-Which programming language was developed by Sun Microsystems in 1995?
- 1. Solaris OS
- 2. Python
- 3. C++
- 4. Java
+What does the computer software acronym JVM stand for?
+ 1. Java Vendor Machine
+ 2. Just Virtual Machine
+ 3. Java Visual Machine
+ 4. Java Virtual Machine
 
 <details>
   <summary>Answer</summary>
-  Java
+  Java Virtual Machine
 </details>
 
 
