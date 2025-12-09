@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you know you should always take an extra pair of pants golfing? Just in case you get a hole in one.
+When you have a bladder infection, urine trouble.
 
 
 ## Daily Trivia
 
-In programming, the ternary operator is mostly defined with what symbol(s)?
- 1. if then
- 2. ?:
- 3. ?
- 4. ??
+What major programming language does Unreal Engine 4 use?
+ 1. C#
+ 2. Assembly
+ 3. C++
+ 4. ECMAScript
 
 <details>
   <summary>Answer</summary>
-  ?:
+  C++
 </details>
 
 
