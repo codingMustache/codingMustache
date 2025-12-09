@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A man tried to sell me a coffin today. I told him that's the last thing I need.
+I needed a password eight characters long so I picked Snow White and the Seven Dwarfs.
 
 
 ## Daily Trivia
 
-All of the following programs are classified as raster graphics editors EXCEPT:
- 1. Inkscape
- 2. Adobe Photoshop
- 3. GIMP
- 4. Paint.NET
+What is the name of the default theme that is installed with Windows XP?
+ 1. Luna
+ 2. Neptune
+ 3. Whistler
+ 4. Bliss
 
 <details>
   <summary>Answer</summary>
-  Inkscape
+  Luna
 </details>
 
 
