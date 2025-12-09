@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the piece of bread say to the knife? Butter me up.
+I just broke my guitar. It's okay, I won't fret
 
 
 ## Daily Trivia
 
-The acronym &quot;RIP&quot; stands for which of these?
- 1. Regular Interval Processes
- 2. Runtime Instance Processes
- 3. Routine Inspection Protocol
- 4. Routing Information Protocol
+Which of the following physical typologies are used with Ethernet Networks?
+ 1. Ring
+ 2. Star
+ 3. Hex
+ 4. Mesh
 
 <details>
   <summary>Answer</summary>
-  Routing Information Protocol
+  Star
 </details>
 
 
