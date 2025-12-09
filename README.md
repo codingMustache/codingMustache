@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I had a rough day, and then somebody went and ripped the front and back pages from my dictionary. It just goes from bad to worse.
+What do you call a bee that lives in America? A USB.
 
 
 ## Daily Trivia
 
-How many cores does the Intel i7-6950X have?
- 1. 10
- 2. 4
- 3. 12
- 4. 8
+How many Hz does the video standard PAL support?
+ 1. 59
+ 2. 60
+ 3. 25
+ 4. 50
 
 <details>
   <summary>Answer</summary>
-  10
+  50
 </details>
 
 
