@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did one wall say to the other wall? I'll meet you at the corner!
+Did you know you should always take an extra pair of pants golfing? Just in case you get a hole in one.
 
 
 ## Daily Trivia
 
-What does the Prt Sc button do?
- 1. Captures what&#039;s on the screen and copies it to your clipboard
- 2. Closes all windows
- 3. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
- 4. Nothing
+In programming, the ternary operator is mostly defined with what symbol(s)?
+ 1. if then
+ 2. ?:
+ 3. ?
+ 4. ??
 
 <details>
   <summary>Answer</summary>
-  Captures what&#039;s on the screen and copies it to your clipboard
+  ?:
 </details>
 
 
