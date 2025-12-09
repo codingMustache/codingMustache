@@ -9,15 +9,15 @@ Did you hear about the cheese factory that exploded in France? There was nothing
 
 ## Daily Trivia
 
-Which computer language would you associate Django framework with?
- 1. C#
- 2. C++
- 3. Python
- 4. Java
+What was the first company to use the term &quot;Golden Master&quot;?
+ 1. IBM
+ 2. Apple
+ 3. Microsoft
+ 4. Google
 
 <details>
   <summary>Answer</summary>
-  Python
+  Apple
 </details>
 
 
