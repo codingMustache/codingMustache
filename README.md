@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the cowboy have a weiner dog? Somebody told him to get a long little doggy.
+There are two types of people in this world, those who can extrapolate from incomplete data...
 
 
 ## Daily Trivia
 
-What does the computer software acronym JVM stand for?
- 1. Just Virtual Machine
- 2. Java Vendor Machine
- 3. Java Visual Machine
- 4. Java Virtual Machine
+What does the term GPU stand for?
+ 1. Graphics Processing Unit
+ 2. Graphite Producing Unit
+ 3. Gaming Processor Unit
+ 4. Graphical Proprietary Unit
 
 <details>
   <summary>Answer</summary>
-  Java Virtual Machine
+  Graphics Processing Unit
 </details>
 
 
