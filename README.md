@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I’ll tell you something about German sausages, they’re the wurst
+I went to the store to pick up eight cans of sprite... when I got home I realized I'd only picked seven up
 
 
 ## Daily Trivia
 
-In any programming language, what is the most common way to iterate through an array?
- 1. &#039;If&#039; Statements
- 2. &#039;Do-while&#039; loops
- 3. &#039;For&#039; loops
- 4. &#039;While&#039; loops
+Approximately how many Apple I personal computers were created?
+ 1. 200
+ 2. 100
+ 3. 500
+ 4. 1000
 
 <details>
   <summary>Answer</summary>
-  &#039;For&#039; loops
+  200
 </details>
 
 
