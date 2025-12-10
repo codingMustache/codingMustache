@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you know if there’s an elephant under your bed? Your head hits the ceiling!
+What do I look like? A JOKE MACHINE!?
 
 
 ## Daily Trivia
 
-HTML is what type of language?
- 1. Programming Language
- 2. Macro Language
- 3. Markup Language
- 4. Scripting Language
+The teapot often seen in many 3D modeling applications is called what?
+ 1. 3D Teapot
+ 2. Tennessee Teapot
+ 3. Pixar Teapot
+ 4. Utah Teapot
 
 <details>
   <summary>Answer</summary>
-  Markup Language
+  Utah Teapot
 </details>
 
 
