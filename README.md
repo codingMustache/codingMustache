@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Whats a penguins favorite relative? Aunt Arctica.
+There are two types of people in this world, those who can extrapolate from incomplete data...
 
 
 ## Daily Trivia
 
-Which RAID array type is associated with data mirroring?
- 1. RAID 5
- 2. RAID 10
- 3. RAID 1
- 4. RAID 0
+Which computer hardware device provides an interface for all other connected devices to communicate?
+ 1. Motherboard
+ 2. Random Access Memory
+ 3. Hard Disk Drive
+ 4. Central Processing Unit
 
 <details>
   <summary>Answer</summary>
-  RAID 1
+  Motherboard
 </details>
 
 
