@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Thanks for explaining the word "many" to me. It means a lot.
+What is the leading cause of dry skin? Towels
 
 
 ## Daily Trivia
 
-What is the name of the process that sends one qubit of information using two bits of classical information?
- 1. Quantum Teleportation
- 2. Super Dense Coding
- 3. Quantum Entanglement
- 4. Quantum Programming
+The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
+ 1. Taiwan
+ 2. China (People&#039;s Republic of)
+ 3. United States
+ 4. Germany
 
 <details>
   <summary>Answer</summary>
-  Quantum Teleportation
+  Taiwan
 </details>
 
 
