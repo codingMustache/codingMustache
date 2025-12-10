@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do choirs keep buckets handy? So they can carry their tune
+Have you heard about the film "Constipation", you probably haven't because it's not out yet.
 
 
 ## Daily Trivia
 
-The Harvard architecture for micro-controllers added which additional bus?
- 1. Instruction
- 2. Control
- 3. Address
- 4. Data
+Which SQL keyword is used to fetch data from a database?
+ 1. SELECT
+ 2. EXEC
+ 3. VALUES
+ 4. INDEX
 
 <details>
   <summary>Answer</summary>
-  Instruction
+  SELECT
 </details>
 
 
