@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-There are two types of people in this world, those who can extrapolate from incomplete data...
+I couldn't get a reservation at the library. They were completely booked.
 
 
 ## Daily Trivia
 
-Which computer hardware device provides an interface for all other connected devices to communicate?
- 1. Motherboard
- 2. Random Access Memory
- 3. Hard Disk Drive
- 4. Central Processing Unit
+The teapot often seen in many 3D modeling applications is called what?
+ 1. Tennessee Teapot
+ 2. 3D Teapot
+ 3. Pixar Teapot
+ 4. Utah Teapot
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  Utah Teapot
 </details>
 
 
