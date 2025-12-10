@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the girl smear peanut butter on the road? To go with the traffic jam.
+Why are snake races so exciting? They're always neck and neck.
 
 
 ## Daily Trivia
 
-Which of these is not a key value of Agile software development?
- 1. Responding to change
- 2. Customer collaboration
- 3. Individuals and interactions
- 4. Comprehensive documentation
+In programming, what do you call functions with the same name but different implementations?
+ 1. Overloading
+ 2. Inheriting
+ 3. Abstracting
+ 4. Overriding
 
 <details>
   <summary>Answer</summary>
-  Comprehensive documentation
+  Overloading
 </details>
 
 
