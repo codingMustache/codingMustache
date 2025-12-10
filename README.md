@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to work for an origami company but they folded.
+What did the Red light say to the Green light? Don't look at me I'm changing!
 
 
 ## Daily Trivia
 
-In programming, the ternary operator is mostly defined with what symbol(s)?
- 1. ?:
- 2. ?
- 3. if then
- 4. ??
+How fast is USB 3.1 Gen 2 theoretically?
+ 1. 10 Gb/s
+ 2. 1 Gb/s
+ 3. 8 Gb/s
+ 4. 5 Gb/s
 
 <details>
   <summary>Answer</summary>
-  ?:
+  10 Gb/s
 </details>
 
 
