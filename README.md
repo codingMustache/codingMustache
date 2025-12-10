@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the worst thing about ancient history class? The teachers tend to Babylon.
+What's the difference between a seal and a sea lion?
+An ion! 
 
 
 ## Daily Trivia
 
-Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
- 1. Enigma Machine
- 2. Skipjack
- 3. Nautilus
- 4. Clipper Chip
+What does CPU stand for?
+ 1. Central Processing Unit
+ 2. Central Processor Unit
+ 3. Computer Personal Unit
+ 4. Central Process Unit
 
 <details>
   <summary>Answer</summary>
-  Clipper Chip
+  Central Processing Unit
 </details>
 
 
