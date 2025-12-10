@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do I look like? A JOKE MACHINE!?
+I think circles are pointless.
 
 
 ## Daily Trivia
 
-The teapot often seen in many 3D modeling applications is called what?
- 1. 3D Teapot
- 2. Tennessee Teapot
- 3. Pixar Teapot
- 4. Utah Teapot
+What is the main CPU is the Sega Mega Drive / Sega Genesis?
+ 1. Zilog Z80
+ 2. Yamaha YM2612
+ 3. Intel 8088
+ 4. Motorola 68000
 
 <details>
   <summary>Answer</summary>
-  Utah Teapot
+  Motorola 68000
 </details>
 
 
