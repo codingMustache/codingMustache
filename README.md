@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the green grape say to the purple grape?
-BREATH!!
+What's the difference between a poorly dressed man on a tricycle and a well dressed man on a bicycle? Attire.
 
 
 ## Daily Trivia
 
-What does CPU stand for?
- 1. Central Process Unit
- 2. Central Processing Unit
- 3. Computer Personal Unit
- 4. Central Processor Unit
+Which SQL keyword is used to fetch data from a database?
+ 1. INDEX
+ 2. VALUES
+ 3. EXEC
+ 4. SELECT
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  SELECT
 </details>
 
 
