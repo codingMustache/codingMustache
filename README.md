@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Can I watch the TV? Dad: Yes, but don’t turn it on.
+Why are snake races so exciting? They're always neck and neck.
 
 
 ## Daily Trivia
 
-Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
- 1. 32.0 kHz
- 2. 1.5 MHz
- 3. 44.1 kHz
- 4. 20.5 kHz
+What does the International System of Quantities refer 1024 bytes as?
+ 1. Kilobyte
+ 2. Kelobyte
+ 3. Kibibyte
+ 4. Kylobyte
 
 <details>
   <summary>Answer</summary>
-  44.1 kHz
+  Kibibyte
 </details>
 
 
