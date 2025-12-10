@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I went to the store to pick up eight cans of sprite... when I got home I realized I'd only picked seven up
+What kind of music do planets listen to? Nep-tunes.
 
 
 ## Daily Trivia
 
-Approximately how many Apple I personal computers were created?
- 1. 200
- 2. 100
- 3. 500
- 4. 1000
+Dutch computer scientist Mark Overmars is known for creating which game development engine?
+ 1. Torque 2D
+ 2. Game Maker
+ 3. Construct
+ 4. Stencyl
 
 <details>
   <summary>Answer</summary>
-  200
+  Game Maker
 </details>
 
 
