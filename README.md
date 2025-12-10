@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of bagel can fly? A plain bagel.
+How do you tell the difference between a crocodile and an alligator? You will see one later and one in a while.
 
 
 ## Daily Trivia
 
-In web design, what does CSS stand for?
- 1. Corrective Style Sheet
- 2. Cascading Style Sheet
- 3. Counter Strike: Source
- 4. Computer Style Sheet
+Which programming language was developed by Sun Microsystems in 1995?
+ 1. Python
+ 2. Solaris OS
+ 3. C++
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  Cascading Style Sheet
+  Java
 </details>
 
 
