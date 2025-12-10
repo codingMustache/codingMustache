@@ -4,20 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are snake races so exciting? They're always neck and neck.
+What's large, grey, and doesn't matter?
+An irrelephant.
+
 
 
 ## Daily Trivia
 
-What does the International System of Quantities refer 1024 bytes as?
- 1. Kilobyte
- 2. Kelobyte
- 3. Kibibyte
- 4. Kylobyte
+What was the first company to use the term &quot;Golden Master&quot;?
+ 1. IBM
+ 2. Microsoft
+ 3. Google
+ 4. Apple
 
 <details>
   <summary>Answer</summary>
-  Kibibyte
+  Apple
 </details>
 
 
