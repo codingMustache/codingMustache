@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How come the stadium got hot after the game? Because all of the fans left.
+Whats a penguins favorite relative? Aunt Arctica.
 
 
 ## Daily Trivia
 
-The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
- 1. Micronesia
- 2. Marshall Islands
- 3. Tuvalu
- 4. Fiji
+Which RAID array type is associated with data mirroring?
+ 1. RAID 5
+ 2. RAID 10
+ 3. RAID 1
+ 4. RAID 0
 
 <details>
   <summary>Answer</summary>
-  Micronesia
+  RAID 1
 </details>
 
 
