@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I think circles are pointless.
+What did the green grape say to the purple grape?
+BREATH!!
 
 
 ## Daily Trivia
 
-What is the main CPU is the Sega Mega Drive / Sega Genesis?
- 1. Zilog Z80
- 2. Yamaha YM2612
- 3. Intel 8088
- 4. Motorola 68000
+What does CPU stand for?
+ 1. Central Process Unit
+ 2. Central Processing Unit
+ 3. Computer Personal Unit
+ 4. Central Processor Unit
 
 <details>
   <summary>Answer</summary>
-  Motorola 68000
+  Central Processing Unit
 </details>
 
 
