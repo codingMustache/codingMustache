@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-There are two types of people in this world, those who can extrapolate from incomplete data...
+You will never guess what Elsa did to the balloon. She let it go.
 
 
 ## Daily Trivia
 
-What does the term GPU stand for?
- 1. Graphics Processing Unit
- 2. Graphite Producing Unit
- 3. Gaming Processor Unit
- 4. Graphical Proprietary Unit
+.rs is the top-level domain for what country?
+ 1. Rwanda
+ 2. Romania
+ 3. Russia
+ 4. Serbia
 
 <details>
   <summary>Answer</summary>
-  Graphics Processing Unit
+  Serbia
 </details>
 
 
