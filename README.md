@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Have you heard about the film "Constipation", you probably haven't because it's not out yet.
+I've been trying to come up with a dad joke about momentum . . . but I just can't seem to get it going.
 
 
 ## Daily Trivia
 
-Which SQL keyword is used to fetch data from a database?
- 1. SELECT
- 2. EXEC
- 3. VALUES
- 4. INDEX
+What does the &#039;S&#039; in the RSA encryption algorithm stand for?
+ 1. Secure
+ 2. Schottky
+ 3. Stable
+ 4. Shamir
 
 <details>
   <summary>Answer</summary>
-  SELECT
+  Shamir
 </details>
 
 
