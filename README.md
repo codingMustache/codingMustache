@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I finally bought the limited edition Thesaurus that I've always wanted. When I opened it, all the pages were blank.
-I have no words to describe how angry I am.
+I once lost a banana at court but then I appealed. 
 
 
 ## Daily Trivia
 
-What port does HTTP run on?
- 1. 53
- 2. 443
- 3. 80
- 4. 23
+Which programming language shares its name with an island in Indonesia?
+ 1. Java
+ 2. C
+ 3. Jakarta
+ 4. Python
 
 <details>
   <summary>Answer</summary>
-  80
+  Java
 </details>
 
 
