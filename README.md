@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are snake races so exciting? They're always neck and neck.
+What did the drummer name her twin daughters? Anna One, Anna Two...
 
 
 ## Daily Trivia
 
-In programming, what do you call functions with the same name but different implementations?
- 1. Overloading
- 2. Inheriting
- 3. Abstracting
- 4. Overriding
+.rs is the top-level domain for what country?
+ 1. Serbia
+ 2. Russia
+ 3. Romania
+ 4. Rwanda
 
 <details>
   <summary>Answer</summary>
-  Overloading
+  Serbia
 </details>
 
 
