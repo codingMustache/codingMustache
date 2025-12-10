@@ -4,22 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's large, grey, and doesn't matter?
-An irrelephant.
-
+What kind of bagel can fly? A plain bagel.
 
 
 ## Daily Trivia
 
-What was the first company to use the term &quot;Golden Master&quot;?
- 1. IBM
- 2. Microsoft
- 3. Google
- 4. Apple
+In web design, what does CSS stand for?
+ 1. Corrective Style Sheet
+ 2. Cascading Style Sheet
+ 3. Counter Strike: Source
+ 4. Computer Style Sheet
 
 <details>
   <summary>Answer</summary>
-  Apple
+  Cascading Style Sheet
 </details>
 
 
