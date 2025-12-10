@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I got fired from the transmission factor, turns out I didn't put on enough shifts...
+How do you teach a kid to climb stairs? There is a step by step guide.
 
 
 ## Daily Trivia
 
-On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
- 1. Dollar Sign
- 2. Exclamation Mark
- 3. Percent Sign
- 4. Asterisk
+Which of the following is the oldest of these computers by release date?
+ 1. TRS-80
+ 2. Apple 3
+ 3. Commodore 64
+ 4. ZX Spectrum
 
 <details>
   <summary>Answer</summary>
-  Exclamation Mark
+  TRS-80
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **17 days** since this server shutdown
+Its been **18 days** since this server shutdown
