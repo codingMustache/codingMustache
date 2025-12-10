@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of music do planets listen to? Nep-tunes.
+What do you call a fake noodle? An impasta.
 
 
 ## Daily Trivia
 
-Dutch computer scientist Mark Overmars is known for creating which game development engine?
- 1. Torque 2D
- 2. Game Maker
- 3. Construct
- 4. Stencyl
+Laserjet and inkjet printers are both examples of what type of printer?
+ 1. Impact printer
+ 2. Daisywheel printer
+ 3. Non-impact printer
+ 4. Dot matrix printer
 
 <details>
   <summary>Answer</summary>
-  Game Maker
+  Non-impact printer
 </details>
 
 
