@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the Red light say to the Green light? Don't look at me I'm changing!
+I finally bought the limited edition Thesaurus that I've always wanted. When I opened it, all the pages were blank.
+I have no words to describe how angry I am.
 
 
 ## Daily Trivia
 
-How fast is USB 3.1 Gen 2 theoretically?
- 1. 10 Gb/s
- 2. 1 Gb/s
- 3. 8 Gb/s
- 4. 5 Gb/s
+What port does HTTP run on?
+ 1. 53
+ 2. 443
+ 3. 80
+ 4. 23
 
 <details>
   <summary>Answer</summary>
-  10 Gb/s
+  80
 </details>
 
 
