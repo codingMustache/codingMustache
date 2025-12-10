@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My son is studying to be a surgeon, I just hope he makes the cut.
+Have you ever heard of a music group called Cellophane? They mostly wrap.
 
 
 ## Daily Trivia
 
-What five letter word is the motto of the IBM Computer company?
- 1. Think
- 2. Pixel
- 3. Logic
- 4. Click
+How many bits make up the significand portion of a single precision floating point number?
+ 1. 8
+ 2. 15
+ 3. 53
+ 4. 23
 
 <details>
   <summary>Answer</summary>
-  Think
+  23
 </details>
 
 
