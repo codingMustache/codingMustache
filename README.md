@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you know that protons have mass? I didn't even know they were catholic.
+My son is studying to be a surgeon, I just hope he makes the cut.
 
 
 ## Daily Trivia
 
-Dutch computer scientist Mark Overmars is known for creating which game development engine?
- 1. Construct
- 2. Stencyl
- 3. Game Maker
- 4. Torque 2D
+What five letter word is the motto of the IBM Computer company?
+ 1. Think
+ 2. Pixel
+ 3. Logic
+ 4. Click
 
 <details>
   <summary>Answer</summary>
-  Game Maker
+  Think
 </details>
 
 
