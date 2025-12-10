@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Bought a new jacket suit the other day and it burst into flames. Well, it was a blazer
+What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand...
 
 
 ## Daily Trivia
 
-What does GHz stand for?
- 1. Gigahetz
- 2. Gigahertz
- 3. Gigahotz
- 4. Gigahatz
+What was the first commerically available computer processor?
+ 1. TMS 1000
+ 2. AMD AM386
+ 3. Intel 4004
+ 4. Intel 486SX
 
 <details>
   <summary>Answer</summary>
-  Gigahertz
+  Intel 4004
 </details>
 
 
