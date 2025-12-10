@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you tell the difference between a crocodile and an alligator? You will see one later and one in a while.
+What is the tallest building in the world? The library – it’s got the most stories!
 
 
 ## Daily Trivia
 
-What does GHz stand for?
- 1. Gigahotz
- 2. Gigahertz
- 3. Gigahetz
- 4. Gigahatz
+.rs is the top-level domain for what country?
+ 1. Serbia
+ 2. Russia
+ 3. Romania
+ 4. Rwanda
 
 <details>
   <summary>Answer</summary>
-  Gigahertz
+  Serbia
 </details>
 
 
