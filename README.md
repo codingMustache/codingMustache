@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I once lost a banana at court but then I appealed. 
+Why do choirs keep buckets handy? So they can carry their tune
 
 
 ## Daily Trivia
 
-Which programming language shares its name with an island in Indonesia?
- 1. Java
- 2. C
- 3. Jakarta
- 4. Python
+The Harvard architecture for micro-controllers added which additional bus?
+ 1. Instruction
+ 2. Control
+ 3. Address
+ 4. Data
 
 <details>
   <summary>Answer</summary>
-  Java
+  Instruction
 </details>
 
 
