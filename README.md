@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I don’t play soccer because I enjoy the sport. I’m just doing it for kicks.
+What did the fish say when it swam into a wall? Damn!
 
 
 ## Daily Trivia
 
-What is the name of Layer 7 of the OSI model?
- 1. Present
- 2. Network
- 3. Application
- 4. Session
+Which of these programming languages is a low-level language?
+ 1. Assembly
+ 2. Pascal
+ 3. C#
+ 4. Python
 
 <details>
   <summary>Answer</summary>
-  Application
+  Assembly
 </details>
 
 
