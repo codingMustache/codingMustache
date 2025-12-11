@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How much does a hipster weigh? An instagram.
+An apple a day keeps the bullies away. If you throw it hard enough.
 
 
 ## Daily Trivia
 
-What was the first Android version specifically optimized for tablets?
- 1. Froyo
- 2. Honeycomb
- 3. Eclair
- 4. Marshmellow
+Laserjet and inkjet printers are both examples of what type of printer?
+ 1. Impact printer
+ 2. Daisywheel printer
+ 3. Dot matrix printer
+ 4. Non-impact printer
 
 <details>
   <summary>Answer</summary>
-  Honeycomb
+  Non-impact printer
 </details>
 
 
