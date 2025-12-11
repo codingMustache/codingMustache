@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the Clydesdale give the pony a glass of water?  Because he was a little horse!
+Did you hear about the runner who was criticized? He just took it in stride
 
 
 ## Daily Trivia
 
-Which programming language shares its name with an island in Indonesia?
- 1. Python
- 2. C
- 3. Jakarta
- 4. Java
+Australia, Japan, and Southeast Asia are in which ITU Region?
+ 1. Region 2
+ 2. Region 1
+ 3. Region 4
+ 4. Region 3
 
 <details>
   <summary>Answer</summary>
-  Java
+  Region 3
 </details>
 
 
