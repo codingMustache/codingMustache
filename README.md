@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many kids with ADD does it take to change a lightbulb? Let's go ride bikes!
+Why was the strawberry sad? Its parents were in a jam.
 
 
 ## Daily Trivia
 
-What internet protocol was documented in RFC 1459?
- 1. IRC
- 2. FTP
- 3. HTTPS
- 4. HTTP
+Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
+ 1. 20.5 kHz
+ 2. 32.0 kHz
+ 3. 44.1 kHz
+ 4. 1.5 MHz
 
 <details>
   <summary>Answer</summary>
-  IRC
+  44.1 kHz
 </details>
 
 
