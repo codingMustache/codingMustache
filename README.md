@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-There’s a new type of broom out, it’s sweeping the nation.
+Why did the Clydesdale give the pony a glass of water?  Because he was a little horse!
 
 
 ## Daily Trivia
 
-.at is the top-level domain for what country?
- 1. Angola
- 2. Austria
- 3. Australia
- 4. Argentina
+Which programming language shares its name with an island in Indonesia?
+ 1. Python
+ 2. C
+ 3. Jakarta
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  Austria
+  Java
 </details>
 
 
