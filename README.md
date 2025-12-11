@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I just got fired from a florist, apparently I took too many leaves.
+What don't watermelons get married? Because they cantaloupe.
 
 
 ## Daily Trivia
 
-Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
- 1. Apple
- 2. Commodore
- 3. Atari
- 4. Microsoft
+What does the &quot;MP&quot; stand for in MP3?
+ 1. Multi Pass
+ 2. Micro Point
+ 3. Moving Picture
+ 4. Music Player
 
 <details>
   <summary>Answer</summary>
-  Apple
+  Moving Picture
 </details>
 
 
