@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-People are making apocalypse jokes like there’s no tomorrow.
+Want to hear a chimney joke? Got stacks of em! First one's on the house
 
 
 ## Daily Trivia
 
-According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:
- 1. AB&#039; + AB
- 2. A&#039; + B&#039;
- 3. A&#039;B + B&#039;A
- 4. A&#039;B&#039;
+In any programming language, what is the most common way to iterate through an array?
+ 1. &#039;If&#039; Statements
+ 2. &#039;Do-while&#039; loops
+ 3. &#039;For&#039; loops
+ 4. &#039;While&#039; loops
 
 <details>
   <summary>Answer</summary>
-  A&#039; + B&#039;
+  &#039;For&#039; loops
 </details>
 
 
