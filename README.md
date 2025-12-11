@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was the strawberry sad? Its parents were in a jam.
+People are making apocalypse jokes like there’s no tomorrow.
 
 
 ## Daily Trivia
 
-Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
- 1. 20.5 kHz
- 2. 32.0 kHz
- 3. 44.1 kHz
- 4. 1.5 MHz
+According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:
+ 1. AB&#039; + AB
+ 2. A&#039; + B&#039;
+ 3. A&#039;B + B&#039;A
+ 4. A&#039;B&#039;
 
 <details>
   <summary>Answer</summary>
-  44.1 kHz
+  A&#039; + B&#039;
 </details>
 
 
