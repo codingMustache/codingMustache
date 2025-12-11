@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A police officer caught two kids playing with a firework and a car battery. He charged one and let the other one off.
+I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later.
 
 
 ## Daily Trivia
 
-What does AD stand for in relation to Windows Operating Systems? 
- 1. Active Department
- 2. Alternative Drive
- 3. Active Directory
- 4. Automated Database
+Which data structure does FILO apply to?
+ 1. Heap
+ 2. Queue
+ 3. Tree
+ 4. Stack
 
 <details>
   <summary>Answer</summary>
-  Active Directory
+  Stack
 </details>
 
 
