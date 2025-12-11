@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I'll tell you what often gets over looked... garden fences.
+Egyptians claimed to invent the guitar, but they were such lyres.﻿
 
 
 ## Daily Trivia
 
-.at is the top-level domain for what country?
- 1. Argentina
- 2. Australia
- 3. Austria
- 4. Angola
+What does the Prt Sc button do?
+ 1. Closes all windows
+ 2. Captures what&#039;s on the screen and copies it to your clipboard
+ 3. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
+ 4. Nothing
 
 <details>
   <summary>Answer</summary>
-  Austria
+  Captures what&#039;s on the screen and copies it to your clipboard
 </details>
 
 
