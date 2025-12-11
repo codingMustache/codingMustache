@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-This is my step ladder. I never knew my real ladder.
+A police officer caught two kids playing with a firework and a car battery. He charged one and let the other one off.
 
 
 ## Daily Trivia
 
-Who is the founder of Palantir?
- 1. Marc Benioff
- 2. Jack Dorsey
- 3. Peter Thiel
- 4. Mark Zuckerberg
+What does AD stand for in relation to Windows Operating Systems? 
+ 1. Active Department
+ 2. Alternative Drive
+ 3. Active Directory
+ 4. Automated Database
 
 <details>
   <summary>Answer</summary>
-  Peter Thiel
+  Active Directory
 </details>
 
 
