@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Two satellites decided to get married. The wedding wasn't much, but the reception was incredible.
+I don’t play soccer because I enjoy the sport. I’m just doing it for kicks.
 
 
 ## Daily Trivia
 
-On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
- 1. Dollar Sign
- 2. Exclamation Mark
- 3. Asterisk
- 4. Percent Sign
+What is the name of Layer 7 of the OSI model?
+ 1. Present
+ 2. Network
+ 3. Application
+ 4. Session
 
 <details>
   <summary>Answer</summary>
-  Exclamation Mark
+  Application
 </details>
 
 
