@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the fish say when it swam into a wall? Damn!
+My boss told me to attach two pieces of wood together... I totally nailed it!
 
 
 ## Daily Trivia
 
-Which of these programming languages is a low-level language?
- 1. Assembly
- 2. Pascal
- 3. C#
- 4. Python
+The teapot often seen in many 3D modeling applications is called what?
+ 1. Utah Teapot
+ 2. Pixar Teapot
+ 3. 3D Teapot
+ 4. Tennessee Teapot
 
 <details>
   <summary>Answer</summary>
-  Assembly
+  Utah Teapot
 </details>
 
 
