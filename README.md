@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What don't watermelons get married? Because they cantaloupe.
+A dad washes his car with his son. But after a while, the son says, "why can't you just use a sponge?"
 
 
 ## Daily Trivia
 
-What does the &quot;MP&quot; stand for in MP3?
- 1. Multi Pass
- 2. Micro Point
- 3. Moving Picture
- 4. Music Player
+What was the first commerically available computer processor?
+ 1. Intel 4004
+ 2. TMS 1000
+ 3. Intel 486SX
+ 4. AMD AM386
 
 <details>
   <summary>Answer</summary>
-  Moving Picture
+  Intel 4004
 </details>
 
 
