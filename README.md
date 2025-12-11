@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A farmer had 297 cows, when he rounded them up, he found he had 300
+There’s a new type of broom out, it’s sweeping the nation.
 
 
 ## Daily Trivia
 
-According to the International System of Units, how many bytes are in a kilobyte of RAM?
- 1. 1000
- 2. 512
- 3. 500
- 4. 1024
+.at is the top-level domain for what country?
+ 1. Angola
+ 2. Austria
+ 3. Australia
+ 4. Argentina
 
 <details>
   <summary>Answer</summary>
-  1000
+  Austria
 </details>
 
 
