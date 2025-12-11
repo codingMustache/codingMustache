@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do robots eat guacamole? With computer chips.
+A farmer had 297 cows, when he rounded them up, he found he had 300
 
 
 ## Daily Trivia
 
-Which data structure does FILO apply to?
- 1. Tree
- 2. Heap
- 3. Queue
- 4. Stack
+According to the International System of Units, how many bytes are in a kilobyte of RAM?
+ 1. 1000
+ 2. 512
+ 3. 500
+ 4. 1024
 
 <details>
   <summary>Answer</summary>
-  Stack
+  1000
 </details>
 
 
