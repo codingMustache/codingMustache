@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do robots eat guacamole? With computer chips.
+I'll tell you what often gets over looked... garden fences.
 
 
 ## Daily Trivia
 
-Approximately how many Apple I personal computers were created?
- 1. 200
- 2. 1000
- 3. 500
- 4. 100
+.at is the top-level domain for what country?
+ 1. Argentina
+ 2. Australia
+ 3. Austria
+ 4. Angola
 
 <details>
   <summary>Answer</summary>
-  200
+  Austria
 </details>
 
 
