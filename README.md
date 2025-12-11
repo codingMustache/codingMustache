@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why is Peter Pan always flying? Because he Neverlands.
+You can't run through a camp site. You can only ran, because it's past tents.
 
 
 ## Daily Trivia
 
-HTML is what type of language?
- 1. Macro Language
- 2. Programming Language
- 3. Scripting Language
- 4. Markup Language
+What does CPU stand for?
+ 1. Central Process Unit
+ 2. Computer Personal Unit
+ 3. Central Processing Unit
+ 4. Central Processor Unit
 
 <details>
   <summary>Answer</summary>
-  Markup Language
+  Central Processing Unit
 </details>
 
 
