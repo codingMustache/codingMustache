@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Yesterday, I accidentally swallowed some food coloring. The doctor says I’m okay, but I feel like I’ve dyed a little inside.
+A bartender broke up with her boyfriend, but he kept asking her for another shot.
 
 
 ## Daily Trivia
 
-What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
- 1. Data link
- 2. Session
- 3. Network
- 4. Transport
+All of the following programs are classified as raster graphics editors EXCEPT:
+ 1. Paint.NET
+ 2. GIMP
+ 3. Inkscape
+ 4. Adobe Photoshop
 
 <details>
   <summary>Answer</summary>
-  Transport
+  Inkscape
 </details>
 
 
