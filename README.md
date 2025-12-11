@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Want to hear a chimney joke? Got stacks of em! First one's on the house
+*Reversing the car* "Ah, this takes me back"
 
 
 ## Daily Trivia
 
-In any programming language, what is the most common way to iterate through an array?
- 1. &#039;If&#039; Statements
- 2. &#039;Do-while&#039; loops
- 3. &#039;For&#039; loops
- 4. &#039;While&#039; loops
+What port does HTTP run on?
+ 1. 53
+ 2. 443
+ 3. 23
+ 4. 80
 
 <details>
   <summary>Answer</summary>
-  &#039;For&#039; loops
+  80
 </details>
 
 
