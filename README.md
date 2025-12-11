@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How does a penguin build it’s house? Igloos it together.
+Why do pirates not know the alphabet? They always get stuck at "C".
 
 
 ## Daily Trivia
 
-What does &quot;LCD&quot; stand for?
- 1. Last Common Difference
- 2. Liquid Crystal Display
- 3. Language Control Design
- 4. Long Continuous Design
+What does GHz stand for?
+ 1. Gigahotz
+ 2. Gigahetz
+ 3. Gigahatz
+ 4. Gigahertz
 
 <details>
   <summary>Answer</summary>
-  Liquid Crystal Display
+  Gigahertz
 </details>
 
 
