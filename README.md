@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later.
+A doll was recently found dead in a rice paddy. It's the only known instance of a nick nack paddy wack.
 
 
 ## Daily Trivia
 
-Which data structure does FILO apply to?
- 1. Heap
- 2. Queue
- 3. Tree
- 4. Stack
+Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
+ 1. Corrupted Blood
+ 2. Shellscript
+ 3. Heartbleed
+ 4. Shellshock
 
 <details>
   <summary>Answer</summary>
-  Stack
+  Heartbleed
 </details>
 
 
