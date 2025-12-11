@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of music do planets listen to? Nep-tunes.
+I had a dream that I was a muffler last night. I woke up exhausted!
 
 
 ## Daily Trivia
 
-Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
- 1. Four Years
- 2. Two Years
- 3. Eight Years
- 4. Year
+When Gmail first launched, how much storage did it provide for your email?
+ 1. 512MB
+ 2. 5GB
+ 3. 1GB
+ 4. Unlimited
 
 <details>
   <summary>Answer</summary>
-  Year
+  1GB
 </details>
 
 
