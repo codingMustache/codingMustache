@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-*Reversing the car* "Ah, this takes me back"
+Guy told me today he did not know what cloning is. I told him, "that makes 2 of us."
 
 
 ## Daily Trivia
 
-What port does HTTP run on?
- 1. 53
- 2. 443
- 3. 23
- 4. 80
+What does &quot;LCD&quot; stand for?
+ 1. Last Common Difference
+ 2. Liquid Crystal Display
+ 3. Language Control Design
+ 4. Long Continuous Design
 
 <details>
   <summary>Answer</summary>
-  80
+  Liquid Crystal Display
 </details>
 
 
