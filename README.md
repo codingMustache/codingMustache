@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you do when you see a space man?
-Park your car, man.
+Two satellites decided to get married. The wedding wasn't much, but the reception was incredible.
 
 
 ## Daily Trivia
 
-Who is the founder of Palantir?
- 1. Peter Thiel
- 2. Jack Dorsey
- 3. Marc Benioff
- 4. Mark Zuckerberg
+On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
+ 1. Dollar Sign
+ 2. Exclamation Mark
+ 3. Asterisk
+ 4. Percent Sign
 
 <details>
   <summary>Answer</summary>
-  Peter Thiel
+  Exclamation Mark
 </details>
 
 
