@@ -4,22 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's large, grey, and doesn't matter?
-An irrelephant.
-
+I invented a new word! Plagiarism!
 
 
 ## Daily Trivia
 
-What port does HTTP run on?
- 1. 53
- 2. 443
- 3. 23
- 4. 80
+What was the name given to Android 4.3?
+ 1. Nutella
+ 2. Froyo
+ 3. Jelly Bean
+ 4. Lollipop
 
 <details>
   <summary>Answer</summary>
-  80
+  Jelly Bean
 </details>
 
 
