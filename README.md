@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call corn that joins the army? Kernel.
+How come a man driving a train got struck by lightning? He was a good conductor.
 
 
 ## Daily Trivia
 
-On Twitter, what was the original character limit for a Tweet?
- 1. 120
- 2. 160
- 3. 140
- 4. 100
+Who invented the &quot;Spanning Tree Protocol&quot;?
+ 1. Paul Vixie
+ 2. Vint Cerf
+ 3. Michael Roberts
+ 4. Radia Perlman
 
 <details>
   <summary>Answer</summary>
-  140
+  Radia Perlman
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **18 days** since this server shutdown
+Its been **19 days** since this server shutdown
