@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Guy told me today he did not know what cloning is. I told him, "that makes 2 of us."
+This is my step ladder. I never knew my real ladder.
 
 
 ## Daily Trivia
 
-What does &quot;LCD&quot; stand for?
- 1. Last Common Difference
- 2. Liquid Crystal Display
- 3. Language Control Design
- 4. Long Continuous Design
+Who is the founder of Palantir?
+ 1. Marc Benioff
+ 2. Jack Dorsey
+ 3. Peter Thiel
+ 4. Mark Zuckerberg
 
 <details>
   <summary>Answer</summary>
-  Liquid Crystal Display
+  Peter Thiel
 </details>
 
 
