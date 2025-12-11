@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My boss told me to attach two pieces of wood together... I totally nailed it!
+I bought shoes from a drug dealer once. I don't know what he laced them with, but I was tripping all day.
 
 
 ## Daily Trivia
 
-The teapot often seen in many 3D modeling applications is called what?
- 1. Utah Teapot
- 2. Pixar Teapot
- 3. 3D Teapot
- 4. Tennessee Teapot
+In computing, what does LAN stand for?
+ 1. Local Area Network
+ 2. Land Address Navigation
+ 3. Light Access Node
+ 4. Long Antenna Node
 
 <details>
   <summary>Answer</summary>
-  Utah Teapot
+  Local Area Network
 </details>
 
 
