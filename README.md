@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A bartender broke up with her boyfriend, but he kept asking her for another shot.
+Why did the tomato blush? Because it saw the salad dressing.
 
 
 ## Daily Trivia
 
-All of the following programs are classified as raster graphics editors EXCEPT:
- 1. Paint.NET
- 2. GIMP
- 3. Inkscape
- 4. Adobe Photoshop
+What amount of bits commonly equals one byte?
+ 1. 1
+ 2. 2
+ 3. 8
+ 4. 64
 
 <details>
   <summary>Answer</summary>
-  Inkscape
+  8
 </details>
 
 
