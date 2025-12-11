@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you know crocodiles could grow up to 15 feet? But most just have 4.
+What kind of music do planets listen to? Nep-tunes.
 
 
 ## Daily Trivia
 
-What amount of bits commonly equals one byte?
- 1. 8
- 2. 64
- 3. 2
- 4. 1
+Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
+ 1. Four Years
+ 2. Two Years
+ 3. Eight Years
+ 4. Year
 
 <details>
   <summary>Answer</summary>
-  8
+  Year
 </details>
 
 
