@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I had a pair of racing snails. I removed their shells to make them more aerodynamic, but they became sluggish.
+What kind of award did the dentist receive? A little plaque.
 
 
 ## Daily Trivia
 
-Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
- 1. JavaScript
- 2. Python
- 3. C#
- 4. PHP
+In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
+ 1. relative
+ 2. static
+ 3. absolute
+ 4. center
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  center
 </details>
 
 
