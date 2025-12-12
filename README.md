@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I was in an 80's band called the prevention. We were better than the cure.
+I've started telling everyone about the benefits of eating dried grapes. It's all about raisin awareness.
 
 
 ## Daily Trivia
 
-What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
- 1. Sandy Bridge
- 2. Skylake
- 3. Coffee Lake
- 4. Broadwell
+The numbering system with a radix of 16 is more commonly referred to as 
+ 1. Duodecimal
+ 2. Hexidecimal
+ 3. Octal
+ 4. Binary
 
 <details>
   <summary>Answer</summary>
-  Coffee Lake
+  Hexidecimal
 </details>
 
 
