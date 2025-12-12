@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What does a pirate pay for his corn? A buccaneer!
+What do you call a droid that takes the long way around? R2 detour.
 
 
 ## Daily Trivia
 
-Dutch computer scientist Mark Overmars is known for creating which game development engine?
- 1. Torque 2D
- 2. Game Maker
- 3. Stencyl
- 4. Construct
+HTML is what type of language?
+ 1. Macro Language
+ 2. Programming Language
+ 3. Markup Language
+ 4. Scripting Language
 
 <details>
   <summary>Answer</summary>
-  Game Maker
+  Markup Language
 </details>
 
 
