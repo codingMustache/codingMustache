@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is the tallest building in the world? The library – it’s got the most stories!
+This morning I was wondering where the sun was, but then it dawned on me.
 
 
 ## Daily Trivia
 
-The name of technology company HP stands for what?
- 1. Howard Packmann
- 2. Husker-Pollosk
- 3. Hellman-Pohl
- 4. Hewlett-Packard
+On which day did the World Wide Web go online?
+ 1. December 17, 1996
+ 2. November 12, 1990
+ 3. November 24, 1995
+ 4. December 20, 1990
 
 <details>
   <summary>Answer</summary>
-  Hewlett-Packard
+  December 20, 1990
 </details>
 
 
