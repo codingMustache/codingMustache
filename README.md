@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the ocean say to the shore? Nothing, it just waved.
+When people are sad, I sometimes let them colour in my tattoos. Sometimes all they need is a shoulder to crayon.
 
 
 ## Daily Trivia
 
-Which of the following is a personal computer made by the Japanese company Fujitsu?
- 1. FM-7
- 2. MSX
- 3. Xmillennium 
- 4. PC-9801
+Which programming language shares its name with an island in Indonesia?
+ 1. Python
+ 2. Java
+ 3. C
+ 4. Jakarta
 
 <details>
   <summary>Answer</summary>
-  FM-7
+  Java
 </details>
 
 
