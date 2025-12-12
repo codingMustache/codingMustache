@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Have you heard the rumor going around about butter? Never mind, I shouldn't spread it.
+A man walks into a bar and orders helicopter flavor chips. The barman replies “sorry mate we only do plain”
 
 
 ## Daily Trivia
 
-Which data structure does FILO apply to?
- 1. Tree
- 2. Heap
- 3. Queue
- 4. Stack
+.rs is the top-level domain for what country?
+ 1. Romania
+ 2. Russia
+ 3. Serbia
+ 4. Rwanda
 
 <details>
   <summary>Answer</summary>
-  Stack
+  Serbia
 </details>
 
 
