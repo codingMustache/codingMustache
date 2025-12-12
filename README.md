@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It takes guts to be an organ donor.
+Why do choirs keep buckets handy? So they can carry their tune
 
 
 ## Daily Trivia
 
-What is the number of keys on a standard Windows Keyboard?
- 1. 94
- 2. 64
- 3. 104
- 4. 76
+Which of these programming languages is a low-level language?
+ 1. Python
+ 2. C#
+ 3. Assembly
+ 4. Pascal
 
 <details>
   <summary>Answer</summary>
-  104
+  Assembly
 </details>
 
 
