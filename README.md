@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-They tried to make a diamond shaped like a duck. It quacked under the pressure.
+Why are mummys scared of vacation? They're afraid to unwind.
 
 
 ## Daily Trivia
 
-What does the acronym CDN stand for in terms of networking?
- 1. Computational Data Network
- 2. Compressed Data Network
- 3. Content Distribution Network
- 4. Content Delivery Network
+In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
+ 1. Public
+ 2. Final
+ 3. Private
+ 4. Static
 
 <details>
   <summary>Answer</summary>
-  Content Delivery Network
+  Final
 </details>
 
 
