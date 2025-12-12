@@ -4,22 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Never Trust Someone With Graph Paper...
-
-They're always plotting something.
+What did the shy pebble wish for? That she was a little boulder.
 
 
 ## Daily Trivia
 
-What does the computer software acronym JVM stand for?
- 1. Java Vendor Machine
- 2. Java Visual Machine
- 3. Just Virtual Machine
- 4. Java Virtual Machine
+What internet protocol was documented in RFC 1459?
+ 1. FTP
+ 2. HTTPS
+ 3. HTTP
+ 4. IRC
 
 <details>
   <summary>Answer</summary>
-  Java Virtual Machine
+  IRC
 </details>
 
 
