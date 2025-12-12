@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a fly without wings? A walk.
+Did you hear about the kidnapping at school? It's ok, he woke up.
 
 
 ## Daily Trivia
 
-When Gmail first launched, how much storage did it provide for your email?
- 1. 1GB
- 2. Unlimited
- 3. 5GB
- 4. 512MB
+What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
+ 1. Session
+ 2. Data link
+ 3. Network
+ 4. Transport
 
 <details>
   <summary>Answer</summary>
-  1GB
+  Transport
 </details>
 
 
