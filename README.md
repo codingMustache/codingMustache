@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a beehive without the b's? An eehive.
+Why are skeletons so calm? Because nothing gets under their skin.
 
 
 ## Daily Trivia
 
-What is known as &quot;the brain&quot; of the Computer?
- 1. Motherboard
- 2. Graphics Processing Unit
- 3. Keyboard
- 4. Central Processing Unit
+.at is the top-level domain for what country?
+ 1. Austria
+ 2. Angola
+ 3. Argentina
+ 4. Australia
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  Austria
 </details>
 
 
