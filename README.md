@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the shy pebble wish for? That she was a little boulder.
+Every machine in the coin factory broke down all of a sudden without explanation. It just doesn’t make any cents.
 
 
 ## Daily Trivia
 
-What internet protocol was documented in RFC 1459?
- 1. FTP
- 2. HTTPS
- 3. HTTP
- 4. IRC
+In web design, what does CSS stand for?
+ 1. Cascading Style Sheet
+ 2. Computer Style Sheet
+ 3. Corrective Style Sheet
+ 4. Counter Strike: Source
 
 <details>
   <summary>Answer</summary>
-  IRC
+  Cascading Style Sheet
 </details>
 
 
