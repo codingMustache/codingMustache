@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A steak pun is a rare medium well done.
+I’m reading a book on the history of glue – can’t put it down.
 
 
 ## Daily Trivia
 
-On which computer hardware device is the BIOS chip located?
- 1. Hard Disk Drive
- 2. Central Processing Unit
- 3. Motherboard
- 4. Graphics Processing Unit
+In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
+ 1. &lt;scroll&gt;&lt;/scroll&gt;
+ 2. &lt;marquee&gt;&lt;/marquee&gt;
+ 3. &lt;slide&gt;&lt;/slide&gt;
+ 4. &lt;move&gt;&lt;/move&gt;
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  &lt;marquee&gt;&lt;/marquee&gt;
 </details>
 
 
