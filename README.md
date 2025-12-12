@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I bought shoes from a drug dealer once. I don't know what he laced them with, but I was tripping all day.
+Two silk worms had a race. They ended up in a tie.
 
 
 ## Daily Trivia
 
-The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
- 1. Taiwan
- 2. China (People&#039;s Republic of)
- 3. Germany
- 4. United States
+Which of these names was an actual codename for a cancelled Microsoft project?
+ 1. Neptune
+ 2. Saturn
+ 3. Pollux
+ 4. Enceladus
 
 <details>
   <summary>Answer</summary>
-  Taiwan
+  Neptune
 </details>
 
 
