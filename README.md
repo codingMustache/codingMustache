@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do nurses carry around red crayons? Sometimes they need to draw blood.
+What does a pirate pay for his corn? A buccaneer!
 
 
 ## Daily Trivia
 
-What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
- 1. Skylake
- 2. Sandy Bridge
- 3. Coffee Lake
- 4. Broadwell
+Dutch computer scientist Mark Overmars is known for creating which game development engine?
+ 1. Torque 2D
+ 2. Game Maker
+ 3. Stencyl
+ 4. Construct
 
 <details>
   <summary>Answer</summary>
-  Coffee Lake
+  Game Maker
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **19 days** since this server shutdown
+Its been **20 days** since this server shutdown
