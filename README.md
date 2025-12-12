@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why didn’t the skeleton cross the road? Because he had no guts.
+Did you know Albert Einstein was a real person? All this time, I thought he was just a theoretical physicist!
 
 
 ## Daily Trivia
 
-On which day did the World Wide Web go online?
- 1. December 17, 1996
- 2. December 20, 1990
- 3. November 12, 1990
- 4. November 24, 1995
+What was the first company to use the term &quot;Golden Master&quot;?
+ 1. Apple
+ 2. Google
+ 3. IBM
+ 4. Microsoft
 
 <details>
   <summary>Answer</summary>
-  December 20, 1990
+  Apple
 </details>
 
 
