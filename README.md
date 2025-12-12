@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Every machine in the coin factory broke down all of a sudden without explanation. It just doesn’t make any cents.
+What is the tallest building in the world? The library – it’s got the most stories!
 
 
 ## Daily Trivia
 
-In web design, what does CSS stand for?
- 1. Cascading Style Sheet
- 2. Computer Style Sheet
- 3. Corrective Style Sheet
- 4. Counter Strike: Source
+The name of technology company HP stands for what?
+ 1. Howard Packmann
+ 2. Husker-Pollosk
+ 3. Hellman-Pohl
+ 4. Hewlett-Packard
 
 <details>
   <summary>Answer</summary>
-  Cascading Style Sheet
+  Hewlett-Packard
 </details>
 
 
