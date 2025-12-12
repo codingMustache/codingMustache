@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I’m reading a book on the history of glue – can’t put it down.
+Did you hear about the campsite that got visited by Bigfoot? It got in tents.
 
 
 ## Daily Trivia
 
-In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
- 1. &lt;scroll&gt;&lt;/scroll&gt;
- 2. &lt;marquee&gt;&lt;/marquee&gt;
- 3. &lt;slide&gt;&lt;/slide&gt;
- 4. &lt;move&gt;&lt;/move&gt;
+What does the computer software acronym JVM stand for?
+ 1. Java Virtual Machine
+ 2. Just Virtual Machine
+ 3. Java Visual Machine
+ 4. Java Vendor Machine
 
 <details>
   <summary>Answer</summary>
-  &lt;marquee&gt;&lt;/marquee&gt;
+  Java Virtual Machine
 </details>
 
 
