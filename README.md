@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The best time on a clock is 6:30--hands down.
+Archaeology really is a career in ruins.
 
 
 ## Daily Trivia
 
-Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
- 1. Clipper Chip
- 2. Nautilus
- 3. Skipjack
- 4. Enigma Machine
+Which programming language shares its name with an island in Indonesia?
+ 1. Jakarta
+ 2. Python
+ 3. Java
+ 4. C
 
 <details>
   <summary>Answer</summary>
-  Clipper Chip
+  Java
 </details>
 
 
