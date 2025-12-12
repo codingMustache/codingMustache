@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of award did the dentist receive? A little plaque.
+This is my step ladder. I never knew my real ladder.
 
 
 ## Daily Trivia
 
-In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
- 1. relative
- 2. static
- 3. absolute
- 4. center
+What is the name of the process that sends one qubit of information using two bits of classical information?
+ 1. Quantum Teleportation
+ 2. Super Dense Coding
+ 3. Quantum Entanglement
+ 4. Quantum Programming
 
 <details>
   <summary>Answer</summary>
-  center
+  Quantum Teleportation
 </details>
 
 
