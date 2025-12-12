@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you know Albert Einstein was a real person? All this time, I thought he was just a theoretical physicist!
+I was in an 80's band called the prevention. We were better than the cure.
 
 
 ## Daily Trivia
 
-What was the first company to use the term &quot;Golden Master&quot;?
- 1. Apple
- 2. Google
- 3. IBM
- 4. Microsoft
+What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
+ 1. Sandy Bridge
+ 2. Skylake
+ 3. Coffee Lake
+ 4. Broadwell
 
 <details>
   <summary>Answer</summary>
-  Apple
+  Coffee Lake
 </details>
 
 
