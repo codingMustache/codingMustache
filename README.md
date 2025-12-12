@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A man walks into a bar and orders helicopter flavor chips. The barman replies “sorry mate we only do plain”
+I had a pair of racing snails. I removed their shells to make them more aerodynamic, but they became sluggish.
 
 
 ## Daily Trivia
 
-.rs is the top-level domain for what country?
- 1. Romania
- 2. Russia
- 3. Serbia
- 4. Rwanda
+Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
+ 1. JavaScript
+ 2. Python
+ 3. C#
+ 4. PHP
 
 <details>
   <summary>Answer</summary>
-  Serbia
+  JavaScript
 </details>
 
 
