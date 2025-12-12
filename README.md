@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the kidnapping at school? It's ok, he woke up.
+It takes guts to be an organ donor.
 
 
 ## Daily Trivia
 
-What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
- 1. Session
- 2. Data link
- 3. Network
- 4. Transport
+What is the number of keys on a standard Windows Keyboard?
+ 1. 94
+ 2. 64
+ 3. 104
+ 4. 76
 
 <details>
   <summary>Answer</summary>
-  Transport
+  104
 </details>
 
 
