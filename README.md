@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-“Hold on, I have something in my shoe”  “I’m pretty sure it’s a foot”
+"I'll call you later." Don't call me later, call me Dad.
 
 
 ## Daily Trivia
 
-Which of these is not a key value of Agile software development?
- 1. Customer collaboration
- 2. Comprehensive documentation
- 3. Responding to change
- 4. Individuals and interactions
+What does the &quot;MP&quot; stand for in MP3?
+ 1. Micro Point
+ 2. Multi Pass
+ 3. Music Player
+ 4. Moving Picture
 
 <details>
   <summary>Answer</summary>
-  Comprehensive documentation
+  Moving Picture
 </details>
 
 
