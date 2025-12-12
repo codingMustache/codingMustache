@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the campsite that got visited by Bigfoot? It got in tents.
+Can I watch the TV? Dad: Yes, but don’t turn it on.
 
 
 ## Daily Trivia
 
-What does the computer software acronym JVM stand for?
- 1. Java Virtual Machine
- 2. Just Virtual Machine
- 3. Java Visual Machine
- 4. Java Vendor Machine
+Which SQL keyword is used to fetch data from a database?
+ 1. SELECT
+ 2. INDEX
+ 3. VALUES
+ 4. EXEC
 
 <details>
   <summary>Answer</summary>
-  Java Virtual Machine
+  SELECT
 </details>
 
 
