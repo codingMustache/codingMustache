@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I am terrified of elevators. I’m going to start taking steps to avoid them.
+Have you heard the rumor going around about butter? Never mind, I shouldn't spread it.
 
 
 ## Daily Trivia
 
-Which SQL keyword is used to fetch data from a database?
- 1. SELECT
- 2. EXEC
- 3. INDEX
- 4. VALUES
+Which data structure does FILO apply to?
+ 1. Tree
+ 2. Heap
+ 3. Queue
+ 4. Stack
 
 <details>
   <summary>Answer</summary>
-  SELECT
+  Stack
 </details>
 
 
