@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-When people are sad, I sometimes let them colour in my tattoos. Sometimes all they need is a shoulder to crayon.
+“Hold on, I have something in my shoe”  “I’m pretty sure it’s a foot”
 
 
 ## Daily Trivia
 
-Which programming language shares its name with an island in Indonesia?
- 1. Python
- 2. Java
- 3. C
- 4. Jakarta
+Which of these is not a key value of Agile software development?
+ 1. Customer collaboration
+ 2. Comprehensive documentation
+ 3. Responding to change
+ 4. Individuals and interactions
 
 <details>
   <summary>Answer</summary>
-  Java
+  Comprehensive documentation
 </details>
 
 
