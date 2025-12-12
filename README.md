@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the traffic light say to the car as it passed? "Don't look I'm changing!"
+Why don't you find hippopotamuses hiding in trees?
+They're really good at it.
 
 
 ## Daily Trivia
 
-Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
- 1. Cherry MX Black
- 2. Cherry MX Blue
- 3. Cherry MX Red
- 4. Cherry MX Brown
+How long is an IPv6 address?
+ 1. 128 bits
+ 2. 128 bytes
+ 3. 64 bits
+ 4. 32 bits
 
 <details>
   <summary>Answer</summary>
-  Cherry MX Blue
+  128 bits
 </details>
 
 
