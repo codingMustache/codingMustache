@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are skeletons so calm? Because nothing gets under their skin.
+Why did the man run around his bed? Because he was trying to catch up on his sleep!
 
 
 ## Daily Trivia
 
-.at is the top-level domain for what country?
- 1. Austria
- 2. Angola
- 3. Argentina
- 4. Australia
+Australia, Japan, and Southeast Asia are in which ITU Region?
+ 1. Region 3
+ 2. Region 4
+ 3. Region 2
+ 4. Region 1
 
 <details>
   <summary>Answer</summary>
-  Austria
+  Region 3
 </details>
 
 
