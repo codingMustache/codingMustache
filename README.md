@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many optometrists does it take to change a light bulb? 1 or 2? 1... or 2?
+To the guy who invented zero... thanks for nothing.
 
 
 ## Daily Trivia
 
-What is the name of the default theme that is installed with Windows XP?
- 1. Bliss
- 2. Whistler
- 3. Neptune
- 4. Luna
+Who invented the &quot;Spanning Tree Protocol&quot;?
+ 1. Vint Cerf
+ 2. Michael Roberts
+ 3. Paul Vixie
+ 4. Radia Perlman
 
 <details>
   <summary>Answer</summary>
-  Luna
+  Radia Perlman
 </details>
 
 
