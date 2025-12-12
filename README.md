@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Two silk worms had a race. They ended up in a tie.
+What did the traffic light say to the car as it passed? "Don't look I'm changing!"
 
 
 ## Daily Trivia
 
-Which of these names was an actual codename for a cancelled Microsoft project?
- 1. Neptune
- 2. Saturn
- 3. Pollux
- 4. Enceladus
+Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
+ 1. Cherry MX Black
+ 2. Cherry MX Blue
+ 3. Cherry MX Red
+ 4. Cherry MX Brown
 
 <details>
   <summary>Answer</summary>
-  Neptune
+  Cherry MX Blue
 </details>
 
 
