@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the man run around his bed? Because he was trying to catch up on his sleep!
+Why didn’t the skeleton cross the road? Because he had no guts.
 
 
 ## Daily Trivia
 
-Australia, Japan, and Southeast Asia are in which ITU Region?
- 1. Region 3
- 2. Region 4
- 3. Region 2
- 4. Region 1
+On which day did the World Wide Web go online?
+ 1. December 17, 1996
+ 2. December 20, 1990
+ 3. November 12, 1990
+ 4. November 24, 1995
 
 <details>
   <summary>Answer</summary>
-  Region 3
+  December 20, 1990
 </details>
 
 
