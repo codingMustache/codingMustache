@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-To the guy who invented zero... thanks for nothing.
+They tried to make a diamond shaped like a duck. It quacked under the pressure.
 
 
 ## Daily Trivia
 
-Who invented the &quot;Spanning Tree Protocol&quot;?
- 1. Vint Cerf
- 2. Michael Roberts
- 3. Paul Vixie
- 4. Radia Perlman
+What does the acronym CDN stand for in terms of networking?
+ 1. Computational Data Network
+ 2. Compressed Data Network
+ 3. Content Distribution Network
+ 4. Content Delivery Network
 
 <details>
   <summary>Answer</summary>
-  Radia Perlman
+  Content Delivery Network
 </details>
 
 
