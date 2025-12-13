@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My dentist is the best, he even has a little plaque!
+If a child refuses to sleep during nap time, are they guilty of resisting a rest?
 
 
 ## Daily Trivia
 
-When was the programming language &quot;C#&quot; released?
- 1. 2000
- 2. 2001
- 3. 1999
- 4. 1998
+On which computer hardware device is the BIOS chip located?
+ 1. Graphics Processing Unit
+ 2. Motherboard
+ 3. Central Processing Unit
+ 4. Hard Disk Drive
 
 <details>
   <summary>Answer</summary>
-  2000
+  Motherboard
 </details>
 
 
