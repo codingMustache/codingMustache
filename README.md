@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I just read a book about Stockholm syndrome. It was pretty bad at first, but by the end I liked it.
+Two guys walked into a bar, the third one ducked.
 
 
 ## Daily Trivia
 
-What is the number of keys on a standard Windows Keyboard?
- 1. 64
- 2. 94
- 3. 104
- 4. 76
+The teapot often seen in many 3D modeling applications is called what?
+ 1. Pixar Teapot
+ 2. Utah Teapot
+ 3. 3D Teapot
+ 4. Tennessee Teapot
 
 <details>
   <summary>Answer</summary>
-  104
+  Utah Teapot
 </details>
 
 
