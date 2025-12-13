@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A man is washing the car with his son. The son asks...... "Dad, can’t you just use a sponge?"
+Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor.
 
 
 ## Daily Trivia
 
-When did the online streaming service &quot;Mixer&quot; launch?
- 1. 2013
- 2. 2016
- 3. 2011
- 4. 2009
+Which operating system was released first?
+ 1. OS/2
+ 2. Mac OS
+ 3. Linux
+ 4. Windows
 
 <details>
   <summary>Answer</summary>
-  2016
+  Mac OS
 </details>
 
 
