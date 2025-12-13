@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do nurses carry around red crayons? Sometimes they need to draw blood.
+I gave my friend 10 puns hoping that one of them would make him laugh. Sadly, no pun in ten did.
 
 
 ## Daily Trivia
 
-What does the Prt Sc button do?
- 1. Nothing
- 2. Captures what&#039;s on the screen and copies it to your clipboard
- 3. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
- 4. Closes all windows
+What is the domain name for the country Tuvalu?
+ 1. .tt
+ 2. .tl
+ 3. .tu
+ 4. .tv
 
 <details>
   <summary>Answer</summary>
-  Captures what&#039;s on the screen and copies it to your clipboard
+  .tv
 </details>
 
 
