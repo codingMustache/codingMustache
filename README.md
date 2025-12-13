@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I started a new business making yachts in my attic this year...the sails are going through the roof
+What do you get hanging from Apple trees? Sore arms.
 
 
 ## Daily Trivia
 
-What does the &quot;MP&quot; stand for in MP3?
- 1. Multi Pass
- 2. Micro Point
- 3. Music Player
- 4. Moving Picture
+Approximately how many Apple I personal computers were created?
+ 1. 200
+ 2. 1000
+ 3. 500
+ 4. 100
 
 <details>
   <summary>Answer</summary>
-  Moving Picture
+  200
 </details>
 
 
