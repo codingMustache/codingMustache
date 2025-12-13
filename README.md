@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Doctor you've got to help me, I'm addicted to Twitter. Doctor: I don't follow you.
+There’s a new type of broom out, it’s sweeping the nation.
 
 
 ## Daily Trivia
 
-Which computer hardware device provides an interface for all other connected devices to communicate?
- 1. Motherboard
- 2. Random Access Memory
- 3. Hard Disk Drive
- 4. Central Processing Unit
+In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
+ 1. Red
+ 2. Blue
+ 3. Green
+ 4. Yellow
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  Green
 </details>
 
 
