@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The other day I was listening to a song about superglue, it’s been stuck in my head ever since.
+I used to be a banker, but I lost interest.
 
 
 ## Daily Trivia
 
-How many cores does the Intel i7-6950X have?
- 1. 8
- 2. 12
- 3. 4
- 4. 10
+What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
+ 1. Heat Sink
+ 2. CPU Vent
+ 3. Temperature Decipator
+ 4. Heat Vent
 
 <details>
   <summary>Answer</summary>
-  10
+  Heat Sink
 </details>
 
 
