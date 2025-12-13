@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Writing with a broken pencil is pointless.
+Milk is also the fastest liquid on earth – its pasteurized before you even see it
 
 
 ## Daily Trivia
 
-Which data structure does FILO apply to?
- 1. Queue
- 2. Heap
- 3. Tree
- 4. Stack
+Unix Time is defined as the number of seconds that have elapsed since when?
+ 1. Midnight, January 1, 1970
+ 2. Midnight, July 4, 1976
+ 3. Midnight on the creator of Unix&#039;s birthday
+ 4. Midnight, July 4, 1980
 
 <details>
   <summary>Answer</summary>
-  Stack
+  Midnight, January 1, 1970
 </details>
 
 
