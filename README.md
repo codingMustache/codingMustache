@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I gave my friend 10 puns hoping that one of them would make him laugh. Sadly, no pun in ten did.
+What's orange and sounds like a parrot? A Carrot.
 
 
 ## Daily Trivia
 
-What is the domain name for the country Tuvalu?
- 1. .tt
- 2. .tl
- 3. .tu
- 4. .tv
+What does CPU stand for?
+ 1. Central Process Unit
+ 2. Computer Personal Unit
+ 3. Central Processor Unit
+ 4. Central Processing Unit
 
 <details>
   <summary>Answer</summary>
-  .tv
+  Central Processing Unit
 </details>
 
 
