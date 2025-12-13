@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-If a child refuses to sleep during nap time, are they guilty of resisting a rest?
+Why do nurses carry around red crayons? Sometimes they need to draw blood.
 
 
 ## Daily Trivia
 
-On which computer hardware device is the BIOS chip located?
- 1. Graphics Processing Unit
- 2. Motherboard
- 3. Central Processing Unit
- 4. Hard Disk Drive
+What is the code name for the mobile operating system Android 7.0?
+ 1. Ice Cream Sandwich
+ 2. Jelly Bean
+ 3. Marshmallow
+ 4. Nougat
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  Nougat
 </details>
 
 
