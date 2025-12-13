@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's blue and not very heavy?  Light blue.
+I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts.
 
 
 ## Daily Trivia
 
-How long is an IPv6 address?
- 1. 32 bits
- 2. 128 bytes
- 3. 128 bits
- 4. 64 bits
+Which kind of algorithm is Ron Rivest not famous for creating?
+ 1. Asymmetric encryption
+ 2. Secret sharing scheme
+ 3. Hashing algorithm
+ 4. Stream cipher
 
 <details>
   <summary>Answer</summary>
-  128 bits
+  Secret sharing scheme
 </details>
 
 
