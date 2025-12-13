@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I heard there was a new store called Moderation. They have everything there
+A cannibal is someone who is fed up with people.
 
 
 ## Daily Trivia
 
-Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
- 1. Shopify
- 2. Overstock
- 3. eBay
- 4. Amazon
+HTML is what type of language?
+ 1. Scripting Language
+ 2. Programming Language
+ 3. Macro Language
+ 4. Markup Language
 
 <details>
   <summary>Answer</summary>
-  Amazon
+  Markup Language
 </details>
 
 
