@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the burglar hang his mugshot on the wall? To prove that he was framed!
+What's blue and not very heavy?  Light blue.
 
 
 ## Daily Trivia
 
-According to the International System of Units, how many bytes are in a kilobyte of RAM?
- 1. 512
- 2. 1024
- 3. 1000
- 4. 500
+How long is an IPv6 address?
+ 1. 32 bits
+ 2. 128 bytes
+ 3. 128 bits
+ 4. 64 bits
 
 <details>
   <summary>Answer</summary>
-  1000
+  128 bits
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **20 days** since this server shutdown
+Its been **21 days** since this server shutdown
