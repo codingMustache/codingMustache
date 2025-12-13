@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-There’s a new type of broom out, it’s sweeping the nation.
+Why did the burglar hang his mugshot on the wall? To prove that he was framed!
 
 
 ## Daily Trivia
 
-In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
- 1. Red
- 2. Blue
- 3. Green
- 4. Yellow
+According to the International System of Units, how many bytes are in a kilobyte of RAM?
+ 1. 512
+ 2. 1024
+ 3. 1000
+ 4. 500
 
 <details>
   <summary>Answer</summary>
-  Green
+  1000
 </details>
 
 
