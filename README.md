@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a boomerang that won't come back? A stick.
+What kind of magic do cows believe in? MOODOO.
 
 
 ## Daily Trivia
 
-What is the name of the default theme that is installed with Windows XP?
- 1. Neptune
- 2. Whistler
- 3. Bliss
- 4. Luna
+How long is an IPv6 address?
+ 1. 32 bits
+ 2. 64 bits
+ 3. 128 bytes
+ 4. 128 bits
 
 <details>
   <summary>Answer</summary>
-  Luna
+  128 bits
 </details>
 
 
