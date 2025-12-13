@@ -4,22 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did Mozart kill all his chickens?
-Because when he asked them who the best composer was, they'd all say "Bach bach bach!"
-
+I just read a book about Stockholm syndrome. It was pretty bad at first, but by the end I liked it.
 
 
 ## Daily Trivia
 
-What does the computer software acronym JVM stand for?
- 1. Java Vendor Machine
- 2. Just Virtual Machine
- 3. Java Visual Machine
- 4. Java Virtual Machine
+America Online (AOL) started out as which of these online service providers?
+ 1. Quantum Link
+ 2. GEnie
+ 3. Prodigy
+ 4. CompuServe
 
 <details>
   <summary>Answer</summary>
-  Java Virtual Machine
+  Quantum Link
 </details>
 
 
