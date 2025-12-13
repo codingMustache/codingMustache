@@ -4,20 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are fish easy to weigh? Because they have their own scales.
+Why did Mozart kill all his chickens?
+Because when he asked them who the best composer was, they'd all say "Bach bach bach!"
+
 
 
 ## Daily Trivia
 
-In any programming language, what is the most common way to iterate through an array?
- 1. &#039;While&#039; loops
- 2. &#039;For&#039; loops
- 3. &#039;If&#039; Statements
- 4. &#039;Do-while&#039; loops
+What does the computer software acronym JVM stand for?
+ 1. Java Vendor Machine
+ 2. Just Virtual Machine
+ 3. Java Visual Machine
+ 4. Java Virtual Machine
 
 <details>
   <summary>Answer</summary>
-  &#039;For&#039; loops
+  Java Virtual Machine
 </details>
 
 
