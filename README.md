@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A cannibal is someone who is fed up with people.
+Did you hear the joke about the wandering nun? She was a roman catholic.
 
 
 ## Daily Trivia
 
-HTML is what type of language?
- 1. Scripting Language
- 2. Programming Language
- 3. Macro Language
- 4. Markup Language
+Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
+ 1. Corrupted Blood
+ 2. Heartbleed
+ 3. Shellshock
+ 4. Shellscript
 
 <details>
   <summary>Answer</summary>
-  Markup Language
+  Heartbleed
 </details>
 
 
