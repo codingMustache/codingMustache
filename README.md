@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a pig that knows karate? A pork chop!
+Did you hear about the guy whose whole left side was cut off? He's all right now.
 
 
 ## Daily Trivia
 
-Which RAID array type is associated with data mirroring?
- 1. RAID 0
- 2. RAID 10
- 3. RAID 5
- 4. RAID 1
+What amount of bits commonly equals one byte?
+ 1. 64
+ 2. 8
+ 3. 2
+ 4. 1
 
 <details>
   <summary>Answer</summary>
-  RAID 1
+  8
 </details>
 
 
