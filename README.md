@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Want to hear my pizza joke? Never mind, it's too cheesy.
+A man is washing the car with his son. The son asks...... "Dad, can’t you just use a sponge?"
 
 
 ## Daily Trivia
 
-Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
- 1. Shellscript
- 2. Corrupted Blood
- 3. Heartbleed
- 4. Shellshock
+When did the online streaming service &quot;Mixer&quot; launch?
+ 1. 2013
+ 2. 2016
+ 3. 2011
+ 4. 2009
 
 <details>
   <summary>Answer</summary>
-  Heartbleed
+  2016
 </details>
 
 
