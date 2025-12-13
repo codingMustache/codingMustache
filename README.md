@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Have you ever seen fruit preserves being made? It's jarring.
+Why are fish easy to weigh? Because they have their own scales.
 
 
 ## Daily Trivia
 
-How fast is USB 3.1 Gen 2 theoretically?
- 1. 8 Gb/s
- 2. 5 Gb/s
- 3. 10 Gb/s
- 4. 1 Gb/s
+In any programming language, what is the most common way to iterate through an array?
+ 1. &#039;While&#039; loops
+ 2. &#039;For&#039; loops
+ 3. &#039;If&#039; Statements
+ 4. &#039;Do-while&#039; loops
 
 <details>
   <summary>Answer</summary>
-  10 Gb/s
+  &#039;For&#039; loops
 </details>
 
 
