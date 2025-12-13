@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-As I get older, I think of all the people I lost along the way. Maybe a career as a tour guide wasn't such a good idea.
+I started a new business making yachts in my attic this year...the sails are going through the roof
 
 
 ## Daily Trivia
 
-All of the following programs are classified as raster graphics editors EXCEPT:
- 1. Inkscape
- 2. Adobe Photoshop
- 3. GIMP
- 4. Paint.NET
+What does the &quot;MP&quot; stand for in MP3?
+ 1. Multi Pass
+ 2. Micro Point
+ 3. Music Player
+ 4. Moving Picture
 
 <details>
   <summary>Answer</summary>
-  Inkscape
+  Moving Picture
 </details>
 
 
