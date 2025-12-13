@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Milk is also the fastest liquid on earth – its pasteurized before you even see it
+Chances are if you' ve seen one shopping center, you've seen a mall.
 
 
 ## Daily Trivia
 
-Unix Time is defined as the number of seconds that have elapsed since when?
- 1. Midnight, January 1, 1970
- 2. Midnight, July 4, 1976
- 3. Midnight on the creator of Unix&#039;s birthday
- 4. Midnight, July 4, 1980
+What was the first company to use the term &quot;Golden Master&quot;?
+ 1. IBM
+ 2. Microsoft
+ 3. Google
+ 4. Apple
 
 <details>
   <summary>Answer</summary>
-  Midnight, January 1, 1970
+  Apple
 </details>
 
 
