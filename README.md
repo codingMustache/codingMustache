@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the guy who invented Lifesavers? They say he made a mint.
+I just read a book about Stockholm syndrome. It was pretty bad at first, but by the end I liked it.
 
 
 ## Daily Trivia
 
-What is the code name for the mobile operating system Android 7.0?
- 1. Marshmallow
- 2. Jelly Bean
- 3. Ice Cream Sandwich
- 4. Nougat
+What is the number of keys on a standard Windows Keyboard?
+ 1. 64
+ 2. 94
+ 3. 104
+ 4. 76
 
 <details>
   <summary>Answer</summary>
-  Nougat
+  104
 </details>
 
 
