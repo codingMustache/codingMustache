@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I accidentally drank a bottle of invisible ink. Now I’m in hospital, waiting to be seen.
+What do you call a boomerang that won't come back? A stick.
 
 
 ## Daily Trivia
 
-The programming language &#039;Swift&#039; was created to replace what other programming language?
- 1. Ruby
- 2. C++
- 3. Objective-C
- 4. C#
+What is the name of the default theme that is installed with Windows XP?
+ 1. Neptune
+ 2. Whistler
+ 3. Bliss
+ 4. Luna
 
 <details>
   <summary>Answer</summary>
-  Objective-C
+  Luna
 </details>
 
 
