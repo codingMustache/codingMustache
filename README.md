@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I hate perforated lines, they're tearable.
+‘Put the cat out’ … ‘I didn’t realize it was on fire
 
 
 ## Daily Trivia
 
-How fast is USB 3.1 Gen 2 theoretically?
- 1. 5 Gb/s
- 2. 8 Gb/s
- 3. 10 Gb/s
- 4. 1 Gb/s
+Which of these people was NOT a founder of Apple Inc?
+ 1. Steve Wozniak
+ 2. Jonathan Ive
+ 3. Steve Jobs
+ 4. Ronald Wayne
 
 <details>
   <summary>Answer</summary>
-  10 Gb/s
+  Jonathan Ive
 </details>
 
 
