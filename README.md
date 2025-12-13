@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear the joke about the wandering nun? She was a roman catholic.
+I used to have a job at a calendar factory but I got the sack because I took a couple of days off.
 
 
 ## Daily Trivia
 
-Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
- 1. Corrupted Blood
- 2. Heartbleed
- 3. Shellshock
- 4. Shellscript
+What does the International System of Quantities refer 1024 bytes as?
+ 1. Kelobyte
+ 2. Kibibyte
+ 3. Kilobyte
+ 4. Kylobyte
 
 <details>
   <summary>Answer</summary>
-  Heartbleed
+  Kibibyte
 </details>
 
 
