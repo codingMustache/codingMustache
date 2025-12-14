@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the cow who jumped over the barbed wire fence? It was udder destruction.
+I thought about going on an all-almond diet. But that's just nuts.
 
 
 ## Daily Trivia
 
-What is the name of Layer 7 of the OSI model?
- 1. Application
- 2. Present
- 3. Network
- 4. Session
+How fast is USB 3.1 Gen 2 theoretically?
+ 1. 1 Gb/s
+ 2. 8 Gb/s
+ 3. 10 Gb/s
+ 4. 5 Gb/s
 
 <details>
   <summary>Answer</summary>
-  Application
+  10 Gb/s
 </details>
 
 
