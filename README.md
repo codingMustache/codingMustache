@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I just broke my guitar. It's okay, I won't fret
+Don't trust atoms. They make up everything.
 
 
 ## Daily Trivia
 
-Which of these is not a layer in the OSI model for data communications?
- 1. Connection Layer
- 2. Physical Layer
- 3. Transport Layer
- 4. Application Layer
+All of the following programs are classified as raster graphics editors EXCEPT:
+ 1. GIMP
+ 2. Paint.NET
+ 3. Inkscape
+ 4. Adobe Photoshop
 
 <details>
   <summary>Answer</summary>
-  Connection Layer
+  Inkscape
 </details>
 
 
