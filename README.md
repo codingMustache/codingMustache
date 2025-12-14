@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Waking up this morning was an eye-opening experience.
+How do you organize a space party? You planet.
 
 
 ## Daily Trivia
 
-What is the main CPU is the Sega Mega Drive / Sega Genesis?
- 1. Motorola 68000
- 2. Zilog Z80
- 3. Yamaha YM2612
- 4. Intel 8088
+Approximately how many Apple I personal computers were created?
+ 1. 200
+ 2. 1000
+ 3. 500
+ 4. 100
 
 <details>
   <summary>Answer</summary>
-  Motorola 68000
+  200
 </details>
 
 
