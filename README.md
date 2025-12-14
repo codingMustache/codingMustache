@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are basketball players messy eaters? Because they are always dribbling.
+What did the beaver say to the tree? It's been nice gnawing you.
 
 
 ## Daily Trivia
 
-Australia, Japan, and Southeast Asia are in which ITU Region?
- 1. Region 3
- 2. Region 4
- 3. Region 2
- 4. Region 1
+What was the first commerically available computer processor?
+ 1. Intel 486SX
+ 2. TMS 1000
+ 3. AMD AM386
+ 4. Intel 4004
 
 <details>
   <summary>Answer</summary>
-  Region 3
+  Intel 4004
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **21 days** since this server shutdown
+Its been **22 days** since this server shutdown
