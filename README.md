@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Dad died because he couldn't remember his blood type. I will never forget his last words. Be positive.
+A girl once asked me what my heart desired, apparently blood, oxygen and neural messages were all wrong answers
 
 
 ## Daily Trivia
 
-When did the online streaming service &quot;Mixer&quot; launch?
- 1. 2013
- 2. 2009
- 3. 2011
- 4. 2016
+The programming language &#039;Swift&#039; was created to replace what other programming language?
+ 1. C#
+ 2. Ruby
+ 3. C++
+ 4. Objective-C
 
 <details>
   <summary>Answer</summary>
-  2016
+  Objective-C
 </details>
 
 
