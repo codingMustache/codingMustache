@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I was shocked when I was diagnosed as colorblind... It came out of the purple.
+When my wife told me to stop impersonating a flamingo, I had to put my foot down.
 
 
 ## Daily Trivia
 
-Which of these names was an actual codename for a cancelled Microsoft project?
- 1. Enceladus
- 2. Neptune
- 3. Pollux
- 4. Saturn
+In computing terms, typically what does CLI stand for?
+ 1. Common Language Input
+ 2. Common Language Interface
+ 3. Command Line Interface
+ 4. Control Line Interface
 
 <details>
   <summary>Answer</summary>
-  Neptune
+  Command Line Interface
 </details>
 
 
