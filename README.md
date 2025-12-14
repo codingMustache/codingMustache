@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the late tomato say to the early tomato? I’ll ketch up
+Why do cows not have toes? They lactose!
 
 
 ## Daily Trivia
 
-Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
- 1. Shellscript
- 2. Corrupted Blood
- 3. Heartbleed
- 4. Shellshock
+What vulnerability ranked #1 on the OWASP Top 10 in 2013?
+ 1. Broken Authentication
+ 2. Injection 
+ 3. Cross-Site Scripting
+ 4. Insecure Direct Object References
 
 <details>
   <summary>Answer</summary>
-  Heartbleed
+  Injection 
 </details>
 
 
