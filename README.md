@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you know crocodiles could grow up to 15 feet? But most just have 4.
+What do you get if you put a duck in a cement mixer? Quacks in the pavement.
 
 
 ## Daily Trivia
 
-What is known as &quot;the brain&quot; of the Computer?
- 1. Motherboard
- 2. Graphics Processing Unit
- 3. Keyboard
- 4. Central Processing Unit
+In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
+ 1. Red
+ 2. Green
+ 3. Blue
+ 4. Yellow
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  Green
 </details>
 
 
