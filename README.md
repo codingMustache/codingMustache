@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-“Hold on, I have something in my shoe”  “I’m pretty sure it’s a foot”
+What animal is always at a game of cricket? A bat.
 
 
 ## Daily Trivia
 
-What does CPU stand for?
- 1. Central Processing Unit
- 2. Central Process Unit
- 3. Computer Personal Unit
- 4. Central Processor Unit
+In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
+ 1. &lt;marquee&gt;&lt;/marquee&gt;
+ 2. &lt;slide&gt;&lt;/slide&gt;
+ 3. &lt;move&gt;&lt;/move&gt;
+ 4. &lt;scroll&gt;&lt;/scroll&gt;
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  &lt;marquee&gt;&lt;/marquee&gt;
 </details>
 
 
