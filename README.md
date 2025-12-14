@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I went to the doctor today and he told me I had type A blood but it was a type O.
+What did the late tomato say to the early tomato? I’ll ketch up
 
 
 ## Daily Trivia
 
-Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
- 1. C#
- 2. Python
- 3. JavaScript
- 4. PHP
+Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
+ 1. Shellscript
+ 2. Corrupted Blood
+ 3. Heartbleed
+ 4. Shellshock
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  Heartbleed
 </details>
 
 
