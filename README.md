@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Don't trust atoms. They make up everything.
+“Hold on, I have something in my shoe”  “I’m pretty sure it’s a foot”
 
 
 ## Daily Trivia
 
-All of the following programs are classified as raster graphics editors EXCEPT:
- 1. GIMP
- 2. Paint.NET
- 3. Inkscape
- 4. Adobe Photoshop
+What does CPU stand for?
+ 1. Central Processing Unit
+ 2. Central Process Unit
+ 3. Computer Personal Unit
+ 4. Central Processor Unit
 
 <details>
   <summary>Answer</summary>
-  Inkscape
+  Central Processing Unit
 </details>
 
 
