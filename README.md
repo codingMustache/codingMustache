@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-When Dad drops a pea off of his plate ‘oh dear I’ve pee’d on the table!
+Did you hear about the cow who jumped over the barbed wire fence? It was udder destruction.
 
 
 ## Daily Trivia
 
-Which programming language shares its name with an island in Indonesia?
- 1. Python
- 2. C
- 3. Jakarta
- 4. Java
+What is the name of Layer 7 of the OSI model?
+ 1. Application
+ 2. Present
+ 3. Network
+ 4. Session
 
 <details>
   <summary>Answer</summary>
-  Java
+  Application
 </details>
 
 
