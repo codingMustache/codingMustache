@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The shovel was a ground-breaking invention.
+What is the tallest building in the world? The library – it’s got the most stories!
 
 
 ## Daily Trivia
 
-Which of these names was an actual codename for a cancelled Microsoft project?
- 1. Enceladus
- 2. Pollux
- 3. Saturn
- 4. Neptune
+Generally, which component of a computer draws the most power?
+ 1. Processor
+ 2. Hard Drive
+ 3. Power Supply
+ 4. Video Card
 
 <details>
   <summary>Answer</summary>
-  Neptune
+  Video Card
 </details>
 
 
