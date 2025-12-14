@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I tried to milk a cow today, but was unsuccessful. Udder failure.
+Waking up this morning was an eye-opening experience.
 
 
 ## Daily Trivia
 
-Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
- 1. JavaScript
- 2. PHP
- 3. Python
- 4. C#
+What does CPU stand for?
+ 1. Central Process Unit
+ 2. Central Processing Unit
+ 3. Computer Personal Unit
+ 4. Central Processor Unit
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  Central Processing Unit
 </details>
 
 
