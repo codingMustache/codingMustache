@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I just read a book about Stockholm syndrome. It was pretty bad at first, but by the end I liked it.
+I was shocked when I was diagnosed as colorblind... It came out of the purple.
 
 
 ## Daily Trivia
 
-What was the first commerically available computer processor?
- 1. Intel 4004
- 2. TMS 1000
- 3. Intel 486SX
- 4. AMD AM386
+Which of these names was an actual codename for a cancelled Microsoft project?
+ 1. Enceladus
+ 2. Neptune
+ 3. Pollux
+ 4. Saturn
 
 <details>
   <summary>Answer</summary>
-  Intel 4004
+  Neptune
 </details>
 
 
