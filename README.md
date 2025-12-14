@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the shy pebble wish for? That she was a little boulder.
+I accidentally drank a bottle of invisible ink. Now I’m in hospital, waiting to be seen.
 
 
 ## Daily Trivia
 
-In any programming language, what is the most common way to iterate through an array?
- 1. &#039;If&#039; Statements
- 2. &#039;Do-while&#039; loops
- 3. &#039;For&#039; loops
- 4. &#039;While&#039; loops
+The acronym &quot;RIP&quot; stands for which of these?
+ 1. Routing Information Protocol
+ 2. Runtime Instance Processes
+ 3. Regular Interval Processes
+ 4. Routine Inspection Protocol
 
 <details>
   <summary>Answer</summary>
-  &#039;For&#039; loops
+  Routing Information Protocol
 </details>
 
 
