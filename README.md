@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do cows not have toes? They lactose!
+I just read a book about Stockholm syndrome. It was pretty bad at first, but by the end I liked it.
 
 
 ## Daily Trivia
 
-What vulnerability ranked #1 on the OWASP Top 10 in 2013?
- 1. Broken Authentication
- 2. Injection 
- 3. Cross-Site Scripting
- 4. Insecure Direct Object References
+What was the first commerically available computer processor?
+ 1. Intel 4004
+ 2. TMS 1000
+ 3. Intel 486SX
+ 4. AMD AM386
 
 <details>
   <summary>Answer</summary>
-  Injection 
+  Intel 4004
 </details>
 
 
