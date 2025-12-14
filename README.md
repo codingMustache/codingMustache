@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do nurses carry around red crayons? Sometimes they need to draw blood.
+What do you call a droid that takes the long way around? R2 detour.
 
 
 ## Daily Trivia
 
-How fast is USB 3.1 Gen 2 theoretically?
- 1. 5 Gb/s
- 2. 8 Gb/s
- 3. 1 Gb/s
- 4. 10 Gb/s
+.at is the top-level domain for what country?
+ 1. Austria
+ 2. Australia
+ 3. Argentina
+ 4. Angola
 
 <details>
   <summary>Answer</summary>
-  10 Gb/s
+  Austria
 </details>
 
 
