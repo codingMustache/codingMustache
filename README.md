@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What has a bed that you can’t sleep in? A river.
+How much does a hipster weigh? An instagram.
 
 
 ## Daily Trivia
 
-What major programming language does Unreal Engine 4 use?
- 1. ECMAScript
- 2. C#
- 3. Assembly
- 4. C++
+In the server hosting industry IaaS stands for...
+ 1. Internet and a Server
+ 2. Internet as a Service
+ 3. Infrastructure as a Server
+ 4. Infrastructure as a Service
 
 <details>
   <summary>Answer</summary>
-  C++
+  Infrastructure as a Service
 </details>
 
 
