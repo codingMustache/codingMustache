@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you organize a space party? You planet.
+What kind of music do planets listen to? Nep-tunes.
 
 
 ## Daily Trivia
 
-Approximately how many Apple I personal computers were created?
- 1. 200
- 2. 1000
- 3. 500
- 4. 100
+In programming, what do you call functions with the same name but different implementations?
+ 1. Overriding
+ 2. Overloading
+ 3. Abstracting
+ 4. Inheriting
 
 <details>
   <summary>Answer</summary>
-  200
+  Overloading
 </details>
 
 
