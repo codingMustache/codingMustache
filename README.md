@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How much does a hipster weigh? An instagram.
+I went to the doctor today and he told me I had type A blood but it was a type O.
 
 
 ## Daily Trivia
 
-In the server hosting industry IaaS stands for...
- 1. Internet and a Server
- 2. Internet as a Service
- 3. Infrastructure as a Server
- 4. Infrastructure as a Service
+Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
+ 1. C#
+ 2. Python
+ 3. JavaScript
+ 4. PHP
 
 <details>
   <summary>Answer</summary>
-  Infrastructure as a Service
+  JavaScript
 </details>
 
 
