@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I finally bought the limited edition Thesaurus that I've always wanted. When I opened it, all the pages were blank.
-I have no words to describe how angry I am.
+The other day I was listening to a song about superglue, it’s been stuck in my head ever since.
 
 
 ## Daily Trivia
 
-In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
- 1. printf(&quot;Hello World&quot;)
- 2. console.log(&quot;Hello World&quot;)
- 3. print(&quot;Hello World&quot;)
- 4. echo &quot;Hello World&quot;
+Laserjet and inkjet printers are both examples of what type of printer?
+ 1. Impact printer
+ 2. Daisywheel printer
+ 3. Non-impact printer
+ 4. Dot matrix printer
 
 <details>
   <summary>Answer</summary>
-  print(&quot;Hello World&quot;)
+  Non-impact printer
 </details>
 
 
