@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the new restaurant on the moon? The food is great, but there’s just no atmosphere.
+Dad died because he couldn't remember his blood type. I will never forget his last words. Be positive.
 
 
 ## Daily Trivia
 
-Who is the original author of the realtime physics engine called PhysX?
- 1. Ageia
- 2. NovodeX
- 3. Nvidia
- 4. AMD
+When did the online streaming service &quot;Mixer&quot; launch?
+ 1. 2013
+ 2. 2009
+ 3. 2011
+ 4. 2016
 
 <details>
   <summary>Answer</summary>
-  NovodeX
+  2016
 </details>
 
 
