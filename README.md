@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I thought about going on an all-almond diet. But that's just nuts.
+What do you call a duck that gets all A's? A wise quacker.
 
 
 ## Daily Trivia
 
-Who is the founder of Palantir?
- 1. Peter Thiel
- 2. Marc Benioff
- 3. Jack Dorsey
- 4. Mark Zuckerberg
+What is the name of the process that sends one qubit of information using two bits of classical information?
+ 1. Quantum Entanglement
+ 2. Quantum Programming
+ 3. Super Dense Coding
+ 4. Quantum Teleportation
 
 <details>
   <summary>Answer</summary>
-  Peter Thiel
+  Quantum Teleportation
 </details>
 
 
