@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of music do planets listen to? Nep-tunes.
+Two guys walked into a bar, the third one ducked.
 
 
 ## Daily Trivia
 
-In programming, what do you call functions with the same name but different implementations?
- 1. Overriding
- 2. Overloading
- 3. Abstracting
- 4. Inheriting
+What does RAID stand for?
+ 1. Rapid Access for Indexed Devices
+ 2. Range of Applications with Identical Designs
+ 3. Redundant Array of Independent Disks
+ 4. Randomized Abstract Identification Description
 
 <details>
   <summary>Answer</summary>
-  Overloading
+  Redundant Array of Independent Disks
 </details>
 
 
