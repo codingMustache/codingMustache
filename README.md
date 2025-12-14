@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The other day I was listening to a song about superglue, it’s been stuck in my head ever since.
+I broke my finger at work today, on the other hand I'm completely fine.
 
 
 ## Daily Trivia
 
-Laserjet and inkjet printers are both examples of what type of printer?
- 1. Impact printer
- 2. Daisywheel printer
- 3. Non-impact printer
- 4. Dot matrix printer
+Nvidia&#039;s headquarters are based in which Silicon Valley city?
+ 1. Palo Alto
+ 2. Cupertino
+ 3. Mountain View
+ 4. Santa Clara
 
 <details>
   <summary>Answer</summary>
-  Non-impact printer
+  Santa Clara
 </details>
 
 
