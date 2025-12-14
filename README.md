@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why is Peter Pan always flying? Because he Neverlands.
+What has a bed that you can’t sleep in? A river.
 
 
 ## Daily Trivia
 
-What is the domain name for the country Tuvalu?
- 1. .tl
- 2. .tv
- 3. .tt
- 4. .tu
+What major programming language does Unreal Engine 4 use?
+ 1. ECMAScript
+ 2. C#
+ 3. Assembly
+ 4. C++
 
 <details>
   <summary>Answer</summary>
-  .tv
+  C++
 </details>
 
 
