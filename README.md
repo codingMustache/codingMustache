@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a droid that takes the long way around? R2 detour.
+The shovel was a ground-breaking invention.
 
 
 ## Daily Trivia
 
-.at is the top-level domain for what country?
- 1. Austria
- 2. Australia
- 3. Argentina
- 4. Angola
+Which of these names was an actual codename for a cancelled Microsoft project?
+ 1. Enceladus
+ 2. Pollux
+ 3. Saturn
+ 4. Neptune
 
 <details>
   <summary>Answer</summary>
-  Austria
+  Neptune
 </details>
 
 
