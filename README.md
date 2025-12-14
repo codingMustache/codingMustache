@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is the tallest building in the world? The library – it’s got the most stories!
+People are making apocalypse jokes like there’s no tomorrow.
 
 
 ## Daily Trivia
 
-Generally, which component of a computer draws the most power?
- 1. Processor
- 2. Hard Drive
- 3. Power Supply
- 4. Video Card
+What does the Prt Sc button do?
+ 1. Nothing
+ 2. Captures what&#039;s on the screen and copies it to your clipboard
+ 3. Closes all windows
+ 4. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
 
 <details>
   <summary>Answer</summary>
-  Video Card
+  Captures what&#039;s on the screen and copies it to your clipboard
 </details>
 
 
