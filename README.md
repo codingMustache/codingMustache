@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do you learn to make banana splits? At sundae school.
+I decided to sell my Hoover… well it was just collecting dust.
 
 
 ## Daily Trivia
 
-What language does Node.js use?
- 1. Java
- 2. Java Source
- 3. Joomla Source Code
- 4. JavaScript
+In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
+ 1. print(&quot;Hello World&quot;)
+ 2. echo &quot;Hello World&quot;
+ 3. printf(&quot;Hello World&quot;)
+ 4. console.log(&quot;Hello World&quot;)
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  print(&quot;Hello World&quot;)
 </details>
 
 
