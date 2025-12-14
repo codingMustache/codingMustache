@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is the hardest part about sky diving? The ground.
+Did you hear about the new restaurant on the moon? The food is great, but there’s just no atmosphere.
 
 
 ## Daily Trivia
 
-Lenovo acquired IBM&#039;s personal computer division, including the ThinkPad line of laptops and tablets, in what year?
- 1. 2008
- 2. 1999
- 3. 2002
- 4. 2005
+Who is the original author of the realtime physics engine called PhysX?
+ 1. Ageia
+ 2. NovodeX
+ 3. Nvidia
+ 4. AMD
 
 <details>
   <summary>Answer</summary>
-  2005
+  NovodeX
 </details>
 
 
