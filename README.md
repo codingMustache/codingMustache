@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Two guys walked into a bar, the third one ducked.
+Why are basketball players messy eaters? Because they are always dribbling.
 
 
 ## Daily Trivia
 
-What does RAID stand for?
- 1. Rapid Access for Indexed Devices
- 2. Range of Applications with Identical Designs
- 3. Redundant Array of Independent Disks
- 4. Randomized Abstract Identification Description
+Australia, Japan, and Southeast Asia are in which ITU Region?
+ 1. Region 3
+ 2. Region 4
+ 3. Region 2
+ 4. Region 1
 
 <details>
   <summary>Answer</summary>
-  Redundant Array of Independent Disks
+  Region 3
 </details>
 
 
