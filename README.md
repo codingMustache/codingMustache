@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you make holy water? You boil the hell out of it.
+I thought about going on an all-almond diet. But that's just nuts.
 
 
 ## Daily Trivia
 
-Which data structure does FILO apply to?
- 1. Queue
- 2. Heap
- 3. Stack
- 4. Tree
+Who is the founder of Palantir?
+ 1. Peter Thiel
+ 2. Marc Benioff
+ 3. Jack Dorsey
+ 4. Mark Zuckerberg
 
 <details>
   <summary>Answer</summary>
-  Stack
+  Peter Thiel
 </details>
 
 
