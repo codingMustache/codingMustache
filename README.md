@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a fly without wings? A walk.
+How do you make holy water? You boil the hell out of it.
 
 
 ## Daily Trivia
 
-Which operating system was released first?
- 1. Windows
- 2. Linux
- 3. Mac OS
- 4. OS/2
+Which data structure does FILO apply to?
+ 1. Queue
+ 2. Heap
+ 3. Stack
+ 4. Tree
 
 <details>
   <summary>Answer</summary>
-  Mac OS
+  Stack
 </details>
 
 
