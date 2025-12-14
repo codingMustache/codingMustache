@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I thought about going on an all-almond diet. But that's just nuts.
+Waking up this morning was an eye-opening experience.
 
 
 ## Daily Trivia
 
-How fast is USB 3.1 Gen 2 theoretically?
- 1. 1 Gb/s
- 2. 8 Gb/s
- 3. 10 Gb/s
- 4. 5 Gb/s
+What is the main CPU is the Sega Mega Drive / Sega Genesis?
+ 1. Motorola 68000
+ 2. Zilog Z80
+ 3. Yamaha YM2612
+ 4. Intel 8088
 
 <details>
   <summary>Answer</summary>
-  10 Gb/s
+  Motorola 68000
 </details>
 
 
