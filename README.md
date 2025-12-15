@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the digital clock say to the grandfather clock? Look, no hands!
+I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take.
 
 
 ## Daily Trivia
 
-In computing, what does LAN stand for?
- 1. Long Antenna Node
- 2. Light Access Node
- 3. Local Area Network
- 4. Land Address Navigation
+How many cores does the Intel i7-6950X have?
+ 1. 8
+ 2. 12
+ 3. 4
+ 4. 10
 
 <details>
   <summary>Answer</summary>
-  Local Area Network
+  10
 </details>
 
 
