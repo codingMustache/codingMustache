@@ -4,20 +4,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Shout out to my grandma, that's the only way she can hear.
+Me: If humans lose the ability to hear high frequency volumes as they get older, can my 4 week old son hear a dog whistle?
+
+Doctor: No, humans can never hear that high of a frequency no matter what age they are.
+
+Me: Trick question... dogs can't whistle.
 
 
 ## Daily Trivia
 
-In computing, what does LAN stand for?
- 1. Land Address Navigation
- 2. Local Area Network
- 3. Long Antenna Node
- 4. Light Access Node
+Whistler was the codename of this Microsoft Operating System.
+ 1. Windows 2000
+ 2. Windows 7
+ 3. Windows 95
+ 4. Windows XP
 
 <details>
   <summary>Answer</summary>
-  Local Area Network
+  Windows XP
 </details>
 
 
