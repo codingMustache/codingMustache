@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you get when you cross a pig and a pineapple? A porky pine
+Americans can't switch from pounds to kilograms overnight. That would cause mass confusion.
 
 
 ## Daily Trivia
 
-Which one of these is not an official development name for a Ubuntu release?
- 1. Utopic Unicorn
- 2. Trusty Tahr
- 3. Wily Werewolf
- 4. Mystic Mansion
+Which computer hardware device provides an interface for all other connected devices to communicate?
+ 1. Random Access Memory
+ 2. Hard Disk Drive
+ 3. Central Processing Unit
+ 4. Motherboard
 
 <details>
   <summary>Answer</summary>
-  Mystic Mansion
+  Motherboard
 </details>
 
 
