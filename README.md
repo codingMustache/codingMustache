@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take.
+Why do valley girls hang out in odd numbered groups? Because they can't even.
 
 
 ## Daily Trivia
 
-How many cores does the Intel i7-6950X have?
- 1. 8
- 2. 12
- 3. 4
- 4. 10
+Which data structure does FILO apply to?
+ 1. Stack
+ 2. Queue
+ 3. Heap
+ 4. Tree
 
 <details>
   <summary>Answer</summary>
-  10
+  Stack
 </details>
 
 
