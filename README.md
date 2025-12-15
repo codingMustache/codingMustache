@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did one wall say to the other wall? I'll meet you at the corner!
+What did the piece of bread say to the knife? Butter me up.
 
 
 ## Daily Trivia
 
-The teapot often seen in many 3D modeling applications is called what?
- 1. Utah Teapot
- 2. Pixar Teapot
- 3. 3D Teapot
- 4. Tennessee Teapot
+In programming, the ternary operator is mostly defined with what symbol(s)?
+ 1. ?
+ 2. ?:
+ 3. if then
+ 4. ??
 
 <details>
   <summary>Answer</summary>
-  Utah Teapot
+  ?:
 </details>
 
 
