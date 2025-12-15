@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I think circles are pointless.
+My boss told me to have a good day... so I went home.
 
 
 ## Daily Trivia
 
-Nvidia&#039;s headquarters are based in which Silicon Valley city?
- 1. Santa Clara
- 2. Mountain View
- 3. Cupertino
- 4. Palo Alto
+What internet protocol was documented in RFC 1459?
+ 1. FTP
+ 2. HTTP
+ 3. IRC
+ 4. HTTPS
 
 <details>
   <summary>Answer</summary>
-  Santa Clara
+  IRC
 </details>
 
 
