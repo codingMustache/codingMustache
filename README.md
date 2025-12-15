@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do bees do after they are married? They go on a honeymoon.
+To the person who stole my anti-depressant pills: I hope you're happy now.
 
 
 ## Daily Trivia
 
-Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
- 1. Four Years
- 2. Two Years
- 3. Eight Years
- 4. Year
+Which data structure does FILO apply to?
+ 1. Heap
+ 2. Stack
+ 3. Tree
+ 4. Queue
 
 <details>
   <summary>Answer</summary>
-  Year
+  Stack
 </details>
 
 
