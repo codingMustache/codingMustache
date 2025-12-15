@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to think I was indecisive, but now I'm not sure.
+Why did the barber win the race? He took a short cut.
 
 
 ## Daily Trivia
 
-What was Bitcoin&#039;s block size limit in 2010?
- 1. 1 MB
- 2. 1GB
- 3. 1 KB
- 4. 1 TB
+On which computer hardware device is the BIOS chip located?
+ 1. Motherboard
+ 2. Graphics Processing Unit
+ 3. Hard Disk Drive
+ 4. Central Processing Unit
 
 <details>
   <summary>Answer</summary>
-  1 MB
+  Motherboard
 </details>
 
 
