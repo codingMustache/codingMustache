@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do scuba divers fall backwards into the water? Because if they fell forwards they’d still be in the boat.
+How does a penguin build it’s house? Igloos it together.
 
 
 ## Daily Trivia
 
-Which computer language would you associate Django framework with?
- 1. C#
- 2. C++
- 3. Java
- 4. Python
+What does GHz stand for?
+ 1. Gigahertz
+ 2. Gigahetz
+ 3. Gigahotz
+ 4. Gigahatz
 
 <details>
   <summary>Answer</summary>
-  Python
+  Gigahertz
 </details>
 
 
