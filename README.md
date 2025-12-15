@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Coffee has a tough time at my house, every morning it gets mugged.
+What is a vampire's favorite fruit? A blood orange.
 
 
 ## Daily Trivia
 
-What is the most preferred image format used for logos in the Wikimedia database?
- 1. .gif
- 2. .jpeg
- 3. .svg
- 4. .png
+What port does HTTP run on?
+ 1. 53
+ 2. 443
+ 3. 23
+ 4. 80
 
 <details>
   <summary>Answer</summary>
-  .svg
+  80
 </details>
 
 
