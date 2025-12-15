@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My boss told me to have a good day... so I went home.
+What do bees do after they are married? They go on a honeymoon.
 
 
 ## Daily Trivia
 
-What internet protocol was documented in RFC 1459?
- 1. FTP
- 2. HTTP
- 3. IRC
- 4. HTTPS
+Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
+ 1. Four Years
+ 2. Two Years
+ 3. Eight Years
+ 4. Year
 
 <details>
   <summary>Answer</summary>
-  IRC
+  Year
 </details>
 
 
