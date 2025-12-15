@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the barber win the race? He took a short cut.
+Waking up this morning was an eye-opening experience.
 
 
 ## Daily Trivia
 
-On which computer hardware device is the BIOS chip located?
- 1. Motherboard
- 2. Graphics Processing Unit
- 3. Hard Disk Drive
- 4. Central Processing Unit
+What does the computer software acronym JVM stand for?
+ 1. Java Visual Machine
+ 2. Java Virtual Machine
+ 3. Just Virtual Machine
+ 4. Java Vendor Machine
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  Java Virtual Machine
 </details>
 
 
