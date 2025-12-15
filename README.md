@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why is it always hot in the corner of a room? Because a corner is 90 degrees.
+I used to think I was indecisive, but now I'm not sure.
 
 
 ## Daily Trivia
 
-What does the &quot;MP&quot; stand for in MP3?
- 1. Moving Picture
- 2. Multi Pass
- 3. Music Player
- 4. Micro Point
+What was Bitcoin&#039;s block size limit in 2010?
+ 1. 1 MB
+ 2. 1GB
+ 3. 1 KB
+ 4. 1 TB
 
 <details>
   <summary>Answer</summary>
-  Moving Picture
+  1 MB
 </details>
 
 
