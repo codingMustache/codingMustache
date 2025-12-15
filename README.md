@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Two parrots are sitting on a perch. One turns to the other and asks, "do you smell fish?"
+A woman is on trial for beating her husband to death with his guitar collection. Judge says, ‘First offender?’ She says, ‘No, first a Gibson! Then a Fender!’
 
 
 ## Daily Trivia
 
-What was the name of the first Bulgarian personal computer?
- 1. IMKO-1
- 2. IZOT 1030
- 3. Pravetz 8D
- 4. Pravetz 82
+Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
+ 1. JavaScript
+ 2. PHP
+ 3. Python
+ 4. C#
 
 <details>
   <summary>Answer</summary>
-  IMKO-1
+  JavaScript
 </details>
 
 
