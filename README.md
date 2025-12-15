@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Two silk worms had a race. They ended up in a tie.
+Why was the shirt happy to hang around the tank top? Because it was armless
 
 
 ## Daily Trivia
 
-The numbering system with a radix of 16 is more commonly referred to as 
- 1. Binary
- 2. Duodecimal
- 3. Octal
- 4. Hexidecimal
+In the server hosting industry IaaS stands for...
+ 1. Internet as a Service
+ 2. Infrastructure as a Service
+ 3. Internet and a Server
+ 4. Infrastructure as a Server
 
 <details>
   <summary>Answer</summary>
-  Hexidecimal
+  Infrastructure as a Service
 </details>
 
 
