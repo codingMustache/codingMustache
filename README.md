@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the cheese who saved the world? It was Legend-dairy!
+Every machine in the coin factory broke down all of a sudden without explanation. It just doesn’t make any cents.
 
 
 ## Daily Trivia
 
-In computing terms, typically what does CLI stand for?
- 1. Common Language Input
- 2. Command Line Interface
- 3. Control Line Interface
- 4. Common Language Interface
+What is the name of Layer 7 of the OSI model?
+ 1. Application
+ 2. Network
+ 3. Session
+ 4. Present
 
 <details>
   <summary>Answer</summary>
-  Command Line Interface
+  Application
 </details>
 
 
