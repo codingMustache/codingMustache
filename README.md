@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I ordered a chicken and an egg from Amazon. I'll let you know.
+Two silk worms had a race. They ended up in a tie.
 
 
 ## Daily Trivia
 
-What vulnerability ranked #1 on the OWASP Top 10 in 2013?
- 1. Injection 
- 2. Insecure Direct Object References
- 3. Cross-Site Scripting
- 4. Broken Authentication
+The numbering system with a radix of 16 is more commonly referred to as 
+ 1. Binary
+ 2. Duodecimal
+ 3. Octal
+ 4. Hexidecimal
 
 <details>
   <summary>Answer</summary>
-  Injection 
+  Hexidecimal
 </details>
 
 
