@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is a vampire's favorite fruit? A blood orange.
+Why did the clown have neck pain? - Because he slept funny
 
 
 ## Daily Trivia
 
-What port does HTTP run on?
- 1. 53
- 2. 443
- 3. 23
- 4. 80
+What is the code name for the mobile operating system Android 7.0?
+ 1. Ice Cream Sandwich
+ 2. Jelly Bean
+ 3. Marshmallow
+ 4. Nougat
 
 <details>
   <summary>Answer</summary>
-  80
+  Nougat
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **23 days** since this server shutdown
+Its been **** since this server shutdown
