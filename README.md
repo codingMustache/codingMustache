@@ -4,22 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the worst part about being a cross-eyed teacher?
-
-They can't control their pupils.
+The first time I got a universal remote control I thought to myself, "This changes everything"
 
 
 ## Daily Trivia
 
-The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
- 1. Marshall Islands
- 2. Tuvalu
- 3. Fiji
- 4. Micronesia
+While Apple was formed in California, in which western state was Microsoft founded?
+ 1. Colorado
+ 2. Washington
+ 3. New Mexico
+ 4. Arizona
 
 <details>
   <summary>Answer</summary>
-  Micronesia
+  New Mexico
 </details>
 
 
