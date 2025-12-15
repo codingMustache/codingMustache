@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I had a rough day, and then somebody went and ripped the front and back pages from my dictionary. It just goes from bad to worse.
+Did you hear about the cheese who saved the world? It was Legend-dairy!
 
 
 ## Daily Trivia
 
-Whistler was the codename of this Microsoft Operating System.
- 1. Windows 2000
- 2. Windows XP
- 3. Windows 7
- 4. Windows 95
+In computing terms, typically what does CLI stand for?
+ 1. Common Language Input
+ 2. Command Line Interface
+ 3. Control Line Interface
+ 4. Common Language Interface
 
 <details>
   <summary>Answer</summary>
-  Windows XP
+  Command Line Interface
 </details>
 
 
