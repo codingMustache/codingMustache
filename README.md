@@ -4,24 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Me: If humans lose the ability to hear high frequency volumes as they get older, can my 4 week old son hear a dog whistle?
-
-Doctor: No, humans can never hear that high of a frequency no matter what age they are.
-
-Me: Trick question... dogs can't whistle.
+Why don't sharks eat clowns?  Because they taste funny.
 
 
 ## Daily Trivia
 
-Whistler was the codename of this Microsoft Operating System.
- 1. Windows 2000
- 2. Windows 7
- 3. Windows 95
- 4. Windows XP
+What is the name of the default theme that is installed with Windows XP?
+ 1. Luna
+ 2. Bliss
+ 3. Neptune
+ 4. Whistler
 
 <details>
   <summary>Answer</summary>
-  Windows XP
+  Luna
 </details>
 
 
