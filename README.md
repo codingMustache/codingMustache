@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Americans can't switch from pounds to kilograms overnight. That would cause mass confusion.
+How did the hipster burn the roof of his mouth? He ate the pizza before it was cool.
 
 
 ## Daily Trivia
 
-Which computer hardware device provides an interface for all other connected devices to communicate?
- 1. Random Access Memory
- 2. Hard Disk Drive
- 3. Central Processing Unit
- 4. Motherboard
+When Gmail first launched, how much storage did it provide for your email?
+ 1. 512MB
+ 2. Unlimited
+ 3. 5GB
+ 4. 1GB
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  1GB
 </details>
 
 
