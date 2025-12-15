@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Every machine in the coin factory broke down all of a sudden without explanation. It just doesn’t make any cents.
+When Dad drops a pea off of his plate ‘oh dear I’ve pee’d on the table!
 
 
 ## Daily Trivia
 
-What is the name of Layer 7 of the OSI model?
- 1. Application
- 2. Network
- 3. Session
- 4. Present
+On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
+ 1. Dollar Sign
+ 2. Percent Sign
+ 3. Exclamation Mark
+ 4. Asterisk
 
 <details>
   <summary>Answer</summary>
-  Application
+  Exclamation Mark
 </details>
 
 
