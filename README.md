@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A woman is on trial for beating her husband to death with his guitar collection. Judge says, ‘First offender?’ She says, ‘No, first a Gibson! Then a Fender!’
+Why was ten scared of seven? Because seven ate nine.
 
 
 ## Daily Trivia
 
-Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
- 1. JavaScript
- 2. PHP
- 3. Python
- 4. C#
+In networking, what does OSPF stand for?
+ 1. Order Sense Ping Find
+ 2. Order State Part First
+ 3. Open Shortest Path First
+ 4. Open Signal Path Finder
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  Open Shortest Path First
 </details>
 
 
