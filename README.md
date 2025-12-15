@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The first time I got a universal remote control I thought to myself, "This changes everything"
+Why don't eggs tell jokes? They'd crack each other up
 
 
 ## Daily Trivia
 
-While Apple was formed in California, in which western state was Microsoft founded?
- 1. Colorado
- 2. Washington
- 3. New Mexico
- 4. Arizona
+Which of these programming languages is a low-level language?
+ 1. Python
+ 2. Assembly
+ 3. C#
+ 4. Pascal
 
 <details>
   <summary>Answer</summary>
-  New Mexico
+  Assembly
 </details>
 
 
