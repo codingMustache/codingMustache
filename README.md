@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How does a penguin build it’s house? Igloos it together.
+What do you call a guy lying on your doorstep? Matt.
 
 
 ## Daily Trivia
 
-What does GHz stand for?
- 1. Gigahertz
- 2. Gigahetz
- 3. Gigahotz
- 4. Gigahatz
+Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
+ 1. Year
+ 2. Eight Years
+ 3. Two Years
+ 4. Four Years
 
 <details>
   <summary>Answer</summary>
-  Gigahertz
+  Year
 </details>
 
 
