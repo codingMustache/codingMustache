@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I adopted my dog from a blacksmith. As soon as we got home he made a bolt for the door.
+I had a rough day, and then somebody went and ripped the front and back pages from my dictionary. It just goes from bad to worse.
 
 
 ## Daily Trivia
 
-Unix Time is defined as the number of seconds that have elapsed since when?
- 1. Midnight, July 4, 1976
- 2. Midnight on the creator of Unix&#039;s birthday
- 3. Midnight, January 1, 1970
- 4. Midnight, July 4, 1980
+Whistler was the codename of this Microsoft Operating System.
+ 1. Windows 2000
+ 2. Windows XP
+ 3. Windows 7
+ 4. Windows 95
 
 <details>
   <summary>Answer</summary>
-  Midnight, January 1, 1970
+  Windows XP
 </details>
 
 
