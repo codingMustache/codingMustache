@@ -4,20 +4,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did Yoda say when he saw himself in 4K? "HDMI"
+Me: If humans lose the ability to hear high frequency volumes as they get older, can my 4 week old son hear a dog whistle?
+
+Doctor: No, humans can never hear that high of a frequency no matter what age they are.
+
+Me: Trick question... dogs can't whistle.
 
 
 ## Daily Trivia
 
-In the server hosting industry IaaS stands for...
- 1. Internet as a Service
- 2. Internet and a Server
- 3. Infrastructure as a Server
- 4. Infrastructure as a Service
+What is the name of Layer 7 of the OSI model?
+ 1. Application
+ 2. Network
+ 3. Present
+ 4. Session
 
 <details>
   <summary>Answer</summary>
-  Infrastructure as a Service
+  Application
 </details>
 
 
