@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why don't sharks eat clowns?  Because they taste funny.
+I ordered a chicken and an egg from Amazon. I'll let you know.
 
 
 ## Daily Trivia
 
-What is the name of the default theme that is installed with Windows XP?
- 1. Luna
- 2. Bliss
- 3. Neptune
- 4. Whistler
+What vulnerability ranked #1 on the OWASP Top 10 in 2013?
+ 1. Injection 
+ 2. Insecure Direct Object References
+ 3. Cross-Site Scripting
+ 4. Broken Authentication
 
 <details>
   <summary>Answer</summary>
-  Luna
+  Injection 
 </details>
 
 
