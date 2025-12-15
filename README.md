@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the clown have neck pain? - Because he slept funny
+Shout out to my grandma, that's the only way she can hear.
 
 
 ## Daily Trivia
 
-What is the code name for the mobile operating system Android 7.0?
- 1. Ice Cream Sandwich
- 2. Jelly Bean
- 3. Marshmallow
- 4. Nougat
+In computing, what does LAN stand for?
+ 1. Land Address Navigation
+ 2. Local Area Network
+ 3. Long Antenna Node
+ 4. Light Access Node
 
 <details>
   <summary>Answer</summary>
-  Nougat
+  Local Area Network
 </details>
 
 
