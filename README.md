@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I got an A on my origami assignment when I turned my paper into my teacher
+What did the 0 say to the 8? Nice belt.
 
 
 ## Daily Trivia
 
-The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
- 1. United States
- 2. Taiwan
- 3. China (People&#039;s Republic of)
- 4. Germany
+How many cores does the Intel i7-6950X have?
+ 1. 12
+ 2. 8
+ 3. 4
+ 4. 10
 
 <details>
   <summary>Answer</summary>
-  Taiwan
+  10
 </details>
 
 
