@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do cows wear bells? Because their horns don't work.
+As I suspected, someone has been adding soil to my garden. The plot thickens.
 
 
 ## Daily Trivia
 
-When Gmail first launched, how much storage did it provide for your email?
- 1. 1GB
- 2. Unlimited
- 3. 512MB
- 4. 5GB
+What is the number of keys on a standard Windows Keyboard?
+ 1. 76
+ 2. 94
+ 3. 104
+ 4. 64
 
 <details>
   <summary>Answer</summary>
-  1GB
+  104
 </details>
 
 
