@@ -4,22 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Doctor: Do you want to hear the good news or the bad news?
-Patient: Good news please.
-Doctor: we're naming a disease after you.
+Why was the broom late for the meeting? He overswept.
 
 
 ## Daily Trivia
 
-Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
- 1. 20.5 kHz
- 2. 44.1 kHz
- 3. 1.5 MHz
- 4. 32.0 kHz
+What programming language was GitHub written in?
+ 1. Ruby
+ 2. Python
+ 3. Lua
+ 4. JavaScript
 
 <details>
   <summary>Answer</summary>
-  44.1 kHz
+  Ruby
 </details>
 
 
