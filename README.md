@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I gave my friend 10 puns hoping that one of them would make him laugh. Sadly, no pun in ten did.
+What do you give a sick lemon? Lemonaid.
 
 
 ## Daily Trivia
 
-In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
- 1. console.log(&quot;Hello World&quot;)
- 2. print(&quot;Hello World&quot;)
- 3. echo &quot;Hello World&quot;
- 4. printf(&quot;Hello World&quot;)
+What does AD stand for in relation to Windows Operating Systems? 
+ 1. Automated Database
+ 2. Alternative Drive
+ 3. Active Department
+ 4. Active Directory
 
 <details>
   <summary>Answer</summary>
-  print(&quot;Hello World&quot;)
+  Active Directory
 </details>
 
 
