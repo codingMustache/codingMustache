@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the chameleon who couldn't change color? They had a reptile dysfunction.
+I got an A on my origami assignment when I turned my paper into my teacher
 
 
 ## Daily Trivia
 
-In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
- 1. relative
- 2. absolute
- 3. static
- 4. center
+The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
+ 1. United States
+ 2. Taiwan
+ 3. China (People&#039;s Republic of)
+ 4. Germany
 
 <details>
   <summary>Answer</summary>
-  center
+  Taiwan
 </details>
 
 
