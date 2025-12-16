@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the ocean say to the shore? Nothing, it just waved.
+Did you hear about the chameleon who couldn't change color? They had a reptile dysfunction.
 
 
 ## Daily Trivia
 
-In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
- 1. printf(&quot;Hello World&quot;)
- 2. echo &quot;Hello World&quot;
- 3. console.log(&quot;Hello World&quot;)
- 4. print(&quot;Hello World&quot;)
+In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
+ 1. relative
+ 2. absolute
+ 3. static
+ 4. center
 
 <details>
   <summary>Answer</summary>
-  print(&quot;Hello World&quot;)
+  center
 </details>
 
 
