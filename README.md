@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a fashionable lawn statue with an excellent sense of rhythmn? A metro-gnome
+This is my step ladder. I never knew my real ladder.
 
 
 ## Daily Trivia
 
-Who invented the &quot;Spanning Tree Protocol&quot;?
- 1. Michael Roberts
- 2. Vint Cerf
- 3. Paul Vixie
- 4. Radia Perlman
+In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
+ 1. Red
+ 2. Green
+ 3. Yellow
+ 4. Blue
 
 <details>
   <summary>Answer</summary>
-  Radia Perlman
+  Green
 </details>
 
 
