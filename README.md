@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the burglar hang his mugshot on the wall? To prove that he was framed!
+What do you call a fashionable lawn statue with an excellent sense of rhythmn? A metro-gnome
 
 
 ## Daily Trivia
 
-What is the domain name for the country Tuvalu?
- 1. .tu
- 2. .tt
- 3. .tl
- 4. .tv
+Who invented the &quot;Spanning Tree Protocol&quot;?
+ 1. Michael Roberts
+ 2. Vint Cerf
+ 3. Paul Vixie
+ 4. Radia Perlman
 
 <details>
   <summary>Answer</summary>
-  .tv
+  Radia Perlman
 </details>
 
 
