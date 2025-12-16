@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I adopted my dog from a blacksmith. As soon as we got home he made a bolt for the door.
+I was wondering why the frisbee was getting bigger, then it hit me.
 
 
 ## Daily Trivia
 
-Australia, Japan, and Southeast Asia are in which ITU Region?
- 1. Region 3
- 2. Region 1
- 3. Region 4
- 4. Region 2
+Which one of these is not an official development name for a Ubuntu release?
+ 1. Trusty Tahr
+ 2. Utopic Unicorn
+ 3. Wily Werewolf
+ 4. Mystic Mansion
 
 <details>
   <summary>Answer</summary>
-  Region 3
+  Mystic Mansion
 </details>
 
 
