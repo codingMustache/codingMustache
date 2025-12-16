@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My dentist is the best, he even has a little plaque!
+Why do mathematicians hate the U.S.? Because it's indivisible.
 
 
 ## Daily Trivia
 
-What does the International System of Quantities refer 1024 bytes as?
- 1. Kelobyte
- 2. Kibibyte
- 3. Kilobyte
- 4. Kylobyte
+Lenovo acquired IBM&#039;s personal computer division, including the ThinkPad line of laptops and tablets, in what year?
+ 1. 2005
+ 2. 2008
+ 3. 2002
+ 4. 1999
 
 <details>
   <summary>Answer</summary>
-  Kibibyte
+  2005
 </details>
 
 
