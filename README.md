@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Frankenstein enters a bodybuilding competition and finds he has seriously misunderstood the objective.
+My dog used to chase people on a bike a lot. It got so bad I had to take his bike away.
 
 
 ## Daily Trivia
 
-What does the International System of Quantities refer 1024 bytes as?
- 1. Kylobyte
- 2. Kibibyte
- 3. Kilobyte
- 4. Kelobyte
+.at is the top-level domain for what country?
+ 1. Argentina
+ 2. Australia
+ 3. Angola
+ 4. Austria
 
 <details>
   <summary>Answer</summary>
-  Kibibyte
+  Austria
 </details>
 
 
