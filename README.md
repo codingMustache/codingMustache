@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I was wondering why the frisbee was getting bigger, then it hit me.
+Two satellites decided to get married. The wedding wasn't much, but the reception was incredible.
 
 
 ## Daily Trivia
 
-Which one of these is not an official development name for a Ubuntu release?
- 1. Trusty Tahr
- 2. Utopic Unicorn
- 3. Wily Werewolf
- 4. Mystic Mansion
+What was the first company to use the term &quot;Golden Master&quot;?
+ 1. Apple
+ 2. IBM
+ 3. Microsoft
+ 4. Google
 
 <details>
   <summary>Answer</summary>
-  Mystic Mansion
+  Apple
 </details>
 
 
