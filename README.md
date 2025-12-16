@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What creature is smarter than a talking parrot? A spelling bee.
+How do you tell the difference between a crocodile and an alligator? You will see one later and one in a while.
 
 
 ## Daily Trivia
 
-What does the term MIME stand for, in regards to computing?
- 1. Multipurpose Internet Mail Extensions
- 2. Multipurpose Interleave Mail Exchange
- 3. Mail Interleave Method Exchange
- 4. Mail Internet Mail Exchange
+Which of these is not a layer in the OSI model for data communications?
+ 1. Application Layer
+ 2. Transport Layer
+ 3. Physical Layer
+ 4. Connection Layer
 
 <details>
   <summary>Answer</summary>
-  Multipurpose Internet Mail Extensions
+  Connection Layer
 </details>
 
 
