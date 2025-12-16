@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How did the hipster burn the roof of his mouth? He ate the pizza before it was cool.
+I adopted my dog from a blacksmith. As soon as we got home he made a bolt for the door.
 
 
 ## Daily Trivia
 
-When Gmail first launched, how much storage did it provide for your email?
- 1. 512MB
- 2. Unlimited
- 3. 5GB
- 4. 1GB
+Australia, Japan, and Southeast Asia are in which ITU Region?
+ 1. Region 3
+ 2. Region 1
+ 3. Region 4
+ 4. Region 2
 
 <details>
   <summary>Answer</summary>
-  1GB
+  Region 3
 </details>
 
 
