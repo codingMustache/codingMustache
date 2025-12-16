@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the kid cross the playground? To get to the other slide.
+What did the Red light say to the Green light? Don't look at me I'm changing!
 
 
 ## Daily Trivia
 
-What was the name of the first Bulgarian personal computer?
- 1. Pravetz 82
- 2. IMKO-1
- 3. Pravetz 8D
- 4. IZOT 1030
+What does the acronym CDN stand for in terms of networking?
+ 1. Content Delivery Network
+ 2. Compressed Data Network
+ 3. Computational Data Network
+ 4. Content Distribution Network
 
 <details>
   <summary>Answer</summary>
-  IMKO-1
+  Content Delivery Network
 </details>
 
 
