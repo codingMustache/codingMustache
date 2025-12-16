@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you tell the difference between a crocodile and an alligator? You will see one later and one in a while.
+My dentist is the best, he even has a little plaque!
 
 
 ## Daily Trivia
 
-Which of these is not a layer in the OSI model for data communications?
- 1. Application Layer
- 2. Transport Layer
- 3. Physical Layer
- 4. Connection Layer
+What does the International System of Quantities refer 1024 bytes as?
+ 1. Kelobyte
+ 2. Kibibyte
+ 3. Kilobyte
+ 4. Kylobyte
 
 <details>
   <summary>Answer</summary>
-  Connection Layer
+  Kibibyte
 </details>
 
 
