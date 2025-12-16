@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later.
+Where do you learn to make banana splits? At sundae school.
 
 
 ## Daily Trivia
 
-Which programming language was developed by Sun Microsystems in 1995?
- 1. Java
- 2. C++
- 3. Solaris OS
- 4. Python
+On Twitter, what was the original character limit for a Tweet?
+ 1. 120
+ 2. 160
+ 3. 140
+ 4. 100
 
 <details>
   <summary>Answer</summary>
-  Java
+  140
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **** since this server shutdown
+Its been **1 days** since this server shutdown
