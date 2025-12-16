@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A man got hit in the head with a can of Coke, but he was alright because it was a soft drink.
+Have you heard the story about the magic tractor? It drove down the road and turned into a field.
 
 
 ## Daily Trivia
 
-Which programming language was developed by Sun Microsystems in 1995?
- 1. C++
- 2. Solaris OS
- 3. Java
- 4. Python
+HTML is what type of language?
+ 1. Markup Language
+ 2. Scripting Language
+ 3. Programming Language
+ 4. Macro Language
 
 <details>
   <summary>Answer</summary>
-  Java
+  Markup Language
 </details>
 
 
