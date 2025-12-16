@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Dermatologists are always in a hurry. They spend all day making rash decisions. 
+Why can't your nose be 12 inches long? Because then it'd be a foot!
 
 
 ## Daily Trivia
 
-Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
- 1. Cherry MX Black
- 2. Cherry MX Blue
- 3. Cherry MX Red
- 4. Cherry MX Brown
+What does the term MIME stand for, in regards to computing?
+ 1. Multipurpose Interleave Mail Exchange
+ 2. Mail Internet Mail Exchange
+ 3. Multipurpose Internet Mail Extensions
+ 4. Mail Interleave Method Exchange
 
 <details>
   <summary>Answer</summary>
-  Cherry MX Blue
+  Multipurpose Internet Mail Extensions
 </details>
 
 
