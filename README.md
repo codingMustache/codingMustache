@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do mathematicians hate the U.S.? Because it's indivisible.
+So, I heard this pun about cows, but it’s kinda offensive so I won’t say it. I don’t want there to be any beef between us. 
 
 
 ## Daily Trivia
 
-Lenovo acquired IBM&#039;s personal computer division, including the ThinkPad line of laptops and tablets, in what year?
- 1. 2005
- 2. 2008
- 3. 2002
- 4. 1999
+What does RAID stand for?
+ 1. Rapid Access for Indexed Devices
+ 2. Redundant Array of Independent Disks
+ 3. Range of Applications with Identical Designs
+ 4. Randomized Abstract Identification Description
 
 <details>
   <summary>Answer</summary>
-  2005
+  Redundant Array of Independent Disks
 </details>
 
 
