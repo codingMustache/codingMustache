@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Two satellites decided to get married. The wedding wasn't much, but the reception was incredible.
+Did you know Albert Einstein was a real person? All this time, I thought he was just a theoretical physicist!
 
 
 ## Daily Trivia
 
-What was the first company to use the term &quot;Golden Master&quot;?
- 1. Apple
- 2. IBM
- 3. Microsoft
- 4. Google
+When Gmail first launched, how much storage did it provide for your email?
+ 1. 512MB
+ 2. 5GB
+ 3. Unlimited
+ 4. 1GB
 
 <details>
   <summary>Answer</summary>
-  Apple
+  1GB
 </details>
 
 
