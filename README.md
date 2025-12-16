@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you get when you cross a rabbit with a water hose? Hare spray.
+Why do pirates not know the alphabet? They always get stuck at "C".
 
 
 ## Daily Trivia
 
-Which SQL keyword is used to fetch data from a database?
- 1. EXEC
- 2. SELECT
- 3. VALUES
- 4. INDEX
+Whistler was the codename of this Microsoft Operating System.
+ 1. Windows 2000
+ 2. Windows 7
+ 3. Windows XP
+ 4. Windows 95
 
 <details>
   <summary>Answer</summary>
-  SELECT
+  Windows XP
 </details>
 
 
