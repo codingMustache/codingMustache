@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you give a sick lemon? Lemonaid.
+Why do cows wear bells? Because their horns don't work.
 
 
 ## Daily Trivia
 
-What does AD stand for in relation to Windows Operating Systems? 
- 1. Automated Database
- 2. Alternative Drive
- 3. Active Department
- 4. Active Directory
+When Gmail first launched, how much storage did it provide for your email?
+ 1. 1GB
+ 2. Unlimited
+ 3. 512MB
+ 4. 5GB
 
 <details>
   <summary>Answer</summary>
-  Active Directory
+  1GB
 </details>
 
 
