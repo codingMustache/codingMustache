@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Have you heard the story about the magic tractor? It drove down the road and turned into a field.
+Mountains aren't just funny, they are hill areas
 
 
 ## Daily Trivia
 
-HTML is what type of language?
- 1. Markup Language
- 2. Scripting Language
- 3. Programming Language
- 4. Macro Language
+Who is the original author of the realtime physics engine called PhysX?
+ 1. NovodeX
+ 2. Ageia
+ 3. Nvidia
+ 4. AMD
 
 <details>
   <summary>Answer</summary>
-  Markup Language
+  NovodeX
 </details>
 
 
