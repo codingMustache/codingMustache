@@ -4,22 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do pumpkins sit on people’s porches?
-
-They have no hands to knock on the door.
+What's the best thing about elevator jokes? They work on so many levels.
 
 
 ## Daily Trivia
 
-In programming, what do you call functions with the same name but different implementations?
- 1. Overloading
- 2. Inheriting
- 3. Overriding
- 4. Abstracting
+Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
+ 1. Cherry MX Red
+ 2. Cherry MX Brown
+ 3. Cherry MX Black
+ 4. Cherry MX Blue
 
 <details>
   <summary>Answer</summary>
-  Overloading
+  Cherry MX Blue
 </details>
 
 
