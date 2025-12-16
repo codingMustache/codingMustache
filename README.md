@@ -4,16 +4,16 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was the broom late for the meeting? He overswept.
+Why do bears have hairy coats? Fur protection.
 
 
 ## Daily Trivia
 
 What programming language was GitHub written in?
- 1. Ruby
+ 1. JavaScript
  2. Python
- 3. Lua
- 4. JavaScript
+ 3. Ruby
+ 4. Lua
 
 <details>
   <summary>Answer</summary>
