@@ -4,16 +4,16 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why can't your nose be 12 inches long? Because then it'd be a foot!
+What creature is smarter than a talking parrot? A spelling bee.
 
 
 ## Daily Trivia
 
 What does the term MIME stand for, in regards to computing?
- 1. Multipurpose Interleave Mail Exchange
- 2. Mail Internet Mail Exchange
- 3. Multipurpose Internet Mail Extensions
- 4. Mail Interleave Method Exchange
+ 1. Multipurpose Internet Mail Extensions
+ 2. Multipurpose Interleave Mail Exchange
+ 3. Mail Interleave Method Exchange
+ 4. Mail Internet Mail Exchange
 
 <details>
   <summary>Answer</summary>
