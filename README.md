@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-As I suspected, someone has been adding soil to my garden. The plot thickens.
+Frankenstein enters a bodybuilding competition and finds he has seriously misunderstood the objective.
 
 
 ## Daily Trivia
 
-What is the number of keys on a standard Windows Keyboard?
- 1. 76
- 2. 94
- 3. 104
- 4. 64
+What does the International System of Quantities refer 1024 bytes as?
+ 1. Kylobyte
+ 2. Kibibyte
+ 3. Kilobyte
+ 4. Kelobyte
 
 <details>
   <summary>Answer</summary>
-  104
+  Kibibyte
 </details>
 
 
