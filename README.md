@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I broke my finger at work today, on the other hand I'm completely fine.
+Dermatologists are always in a hurry. They spend all day making rash decisions. 
 
 
 ## Daily Trivia
 
-Who is the founder of Palantir?
- 1. Mark Zuckerberg
- 2. Peter Thiel
- 3. Marc Benioff
- 4. Jack Dorsey
+Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
+ 1. Cherry MX Black
+ 2. Cherry MX Blue
+ 3. Cherry MX Red
+ 4. Cherry MX Brown
 
 <details>
   <summary>Answer</summary>
-  Peter Thiel
+  Cherry MX Blue
 </details>
 
 
