@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-This is my step ladder. I never knew my real ladder.
+Want to hear my pizza joke? Never mind, it's too cheesy.
 
 
 ## Daily Trivia
 
-In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
- 1. Red
- 2. Green
- 3. Yellow
- 4. Blue
+When did the online streaming service &quot;Mixer&quot; launch?
+ 1. 2016
+ 2. 2013
+ 3. 2009
+ 4. 2011
 
 <details>
   <summary>Answer</summary>
-  Green
+  2016
 </details>
 
 
