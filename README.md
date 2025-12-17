@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Slept like a log last night … woke up in the fireplace.
+I went to a book store and asked the saleswoman where the Self Help section was, she said if she told me it would defeat the purpose.
 
 
 ## Daily Trivia
 
-Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
- 1. Apple
- 2. Commodore
- 3. Atari
- 4. Microsoft
+Which of the following is a personal computer made by the Japanese company Fujitsu?
+ 1. FM-7
+ 2. PC-9801
+ 3. Xmillennium 
+ 4. MSX
 
 <details>
   <summary>Answer</summary>
-  Apple
+  FM-7
 </details>
 
 
