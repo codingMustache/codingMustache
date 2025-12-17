@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I have the heart of a lion... and a lifetime ban from the San Diego Zoo.
+Breaking news! Energizer Bunny arrested – charged with battery.
 
 
 ## Daily Trivia
 
-Which one of these is not an official development name for a Ubuntu release?
- 1. Trusty Tahr
- 2. Mystic Mansion
- 3. Utopic Unicorn
- 4. Wily Werewolf
+The numbering system with a radix of 16 is more commonly referred to as 
+ 1. Binary
+ 2. Hexidecimal
+ 3. Duodecimal
+ 4. Octal
 
 <details>
   <summary>Answer</summary>
-  Mystic Mansion
+  Hexidecimal
 </details>
 
 
