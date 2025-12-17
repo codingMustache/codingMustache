@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Egyptians claimed to invent the guitar, but they were such lyres.﻿
+How do the trees get on the internet? They log on.
 
 
 ## Daily Trivia
 
-While Apple was formed in California, in which western state was Microsoft founded?
- 1. New Mexico
- 2. Arizona
- 3. Colorado
- 4. Washington
+The Harvard architecture for micro-controllers added which additional bus?
+ 1. Address
+ 2. Instruction
+ 3. Control
+ 4. Data
 
 <details>
   <summary>Answer</summary>
-  New Mexico
+  Instruction
 </details>
 
 
