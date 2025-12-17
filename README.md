@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the submarine industry? It really took a dive...
+Writing with a broken pencil is pointless.
 
 
 ## Daily Trivia
 
-Unix Time is defined as the number of seconds that have elapsed since when?
- 1. Midnight, July 4, 1976
- 2. Midnight on the creator of Unix&#039;s birthday
- 3. Midnight, July 4, 1980
- 4. Midnight, January 1, 1970
+What does AD stand for in relation to Windows Operating Systems? 
+ 1. Active Directory
+ 2. Alternative Drive
+ 3. Active Department
+ 4. Automated Database
 
 <details>
   <summary>Answer</summary>
-  Midnight, January 1, 1970
+  Active Directory
 </details>
 
 
