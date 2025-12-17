@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a nervous javelin thrower? Shakespeare.
+Two guys walked into a bar, the third one ducked.
 
 
 ## Daily Trivia
 
-What internet protocol was documented in RFC 1459?
- 1. FTP
- 2. HTTPS
- 3. HTTP
- 4. IRC
+Australia, Japan, and Southeast Asia are in which ITU Region?
+ 1. Region 4
+ 2. Region 1
+ 3. Region 3
+ 4. Region 2
 
 <details>
   <summary>Answer</summary>
-  IRC
+  Region 3
 </details>
 
 
