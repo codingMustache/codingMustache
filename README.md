@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Two guys walked into a bar, the third one ducked.
+Egyptians claimed to invent the guitar, but they were such lyres.﻿
 
 
 ## Daily Trivia
 
-Australia, Japan, and Southeast Asia are in which ITU Region?
- 1. Region 4
- 2. Region 1
- 3. Region 3
- 4. Region 2
+While Apple was formed in California, in which western state was Microsoft founded?
+ 1. New Mexico
+ 2. Arizona
+ 3. Colorado
+ 4. Washington
 
 <details>
   <summary>Answer</summary>
-  Region 3
+  New Mexico
 </details>
 
 
