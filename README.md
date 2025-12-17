@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the burglar hang his mugshot on the wall? To prove that he was framed!
+Did you hear about the submarine industry? It really took a dive...
 
 
 ## Daily Trivia
 
-Which of these people was NOT a founder of Apple Inc?
- 1. Steve Jobs
- 2. Jonathan Ive
- 3. Ronald Wayne
- 4. Steve Wozniak
+Unix Time is defined as the number of seconds that have elapsed since when?
+ 1. Midnight, July 4, 1976
+ 2. Midnight on the creator of Unix&#039;s birthday
+ 3. Midnight, July 4, 1980
+ 4. Midnight, January 1, 1970
 
 <details>
   <summary>Answer</summary>
-  Jonathan Ive
+  Midnight, January 1, 1970
 </details>
 
 
