@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I been watching a channel on TV that is strictly just about origami — of course it is paper-view.
+A dad washes his car with his son. But after a while, the son says, "why can't you just use a sponge?"
 
 
 ## Daily Trivia
 
-What was the first company to use the term &quot;Golden Master&quot;?
- 1. Google
- 2. Apple
- 3. Microsoft
- 4. IBM
+When Gmail first launched, how much storage did it provide for your email?
+ 1. 512MB
+ 2. 1GB
+ 3. 5GB
+ 4. Unlimited
 
 <details>
   <summary>Answer</summary>
-  Apple
+  1GB
 </details>
 
 
