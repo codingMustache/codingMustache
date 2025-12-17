@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the kid throw the clock out the window? He wanted to see time fly!
+What has a bed that you can’t sleep in? A river.
 
 
 ## Daily Trivia
 
-What does the acronym CDN stand for in terms of networking?
- 1. Content Delivery Network
- 2. Computational Data Network
- 3. Content Distribution Network
- 4. Compressed Data Network
+Generally, which component of a computer draws the most power?
+ 1. Power Supply
+ 2. Processor
+ 3. Hard Drive
+ 4. Video Card
 
 <details>
   <summary>Answer</summary>
-  Content Delivery Network
+  Video Card
 </details>
 
 
