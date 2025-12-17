@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What musical instrument is found in the bathroom? A tuba toothpaste.
+What do you call a nervous javelin thrower? Shakespeare.
 
 
 ## Daily Trivia
 
-What was the name of the first Bulgarian personal computer?
- 1. IZOT 1030
- 2. Pravetz 8D
- 3. IMKO-1
- 4. Pravetz 82
+All of the following programs are classified as raster graphics editors EXCEPT:
+ 1. Inkscape
+ 2. Adobe Photoshop
+ 3. GIMP
+ 4. Paint.NET
 
 <details>
   <summary>Answer</summary>
-  IMKO-1
+  Inkscape
 </details>
 
 
