@@ -4,22 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Never Trust Someone With Graph Paper...
-
-They're always plotting something.
+Why did the kid throw the clock out the window? He wanted to see time fly!
 
 
 ## Daily Trivia
 
-.at is the top-level domain for what country?
- 1. Argentina
- 2. Australia
- 3. Austria
- 4. Angola
+What does the acronym CDN stand for in terms of networking?
+ 1. Content Delivery Network
+ 2. Computational Data Network
+ 3. Content Distribution Network
+ 4. Compressed Data Network
 
 <details>
   <summary>Answer</summary>
-  Austria
+  Content Delivery Network
 </details>
 
 
