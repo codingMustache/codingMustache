@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do birds give out on Halloween? Tweets.
+Man, I really love my furniture... me and my recliner go way back.
 
 
 ## Daily Trivia
 
-On which day did the World Wide Web go online?
- 1. December 17, 1996
- 2. November 12, 1990
- 3. November 24, 1995
- 4. December 20, 1990
+Which of the following physical typologies are used with Ethernet Networks?
+ 1. Ring
+ 2. Star
+ 3. Mesh
+ 4. Hex
 
 <details>
   <summary>Answer</summary>
-  December 20, 1990
+  Star
 </details>
 
 
