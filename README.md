@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Writing with a broken pencil is pointless.
+For Valentine's day, I decided to get my wife some beads for an abacus.  It's the little things that count.
 
 
 ## Daily Trivia
 
-What does AD stand for in relation to Windows Operating Systems? 
- 1. Active Directory
- 2. Alternative Drive
- 3. Active Department
- 4. Automated Database
+Which RAID array type is associated with data mirroring?
+ 1. RAID 0
+ 2. RAID 1
+ 3. RAID 10
+ 4. RAID 5
 
 <details>
   <summary>Answer</summary>
-  Active Directory
+  RAID 1
 </details>
 
 
