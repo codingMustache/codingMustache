@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Man, I really love my furniture... me and my recliner go way back.
+Why did the cowboy have a weiner dog? Somebody told him to get a long little doggy.
 
 
 ## Daily Trivia
 
-Which of the following physical typologies are used with Ethernet Networks?
- 1. Ring
- 2. Star
- 3. Mesh
- 4. Hex
+Which of the following is a personal computer made by the Japanese company Fujitsu?
+ 1. MSX
+ 2. Xmillennium 
+ 3. PC-9801
+ 4. FM-7
 
 <details>
   <summary>Answer</summary>
-  Star
+  FM-7
 </details>
 
 
