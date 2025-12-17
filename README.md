@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the cowboy have a weiner dog? Somebody told him to get a long little doggy.
+I ordered a chicken and an egg from Amazon. I'll let you know.
 
 
 ## Daily Trivia
 
-Which of the following is a personal computer made by the Japanese company Fujitsu?
- 1. MSX
- 2. Xmillennium 
- 3. PC-9801
- 4. FM-7
+According to the International System of Units, how many bytes are in a kilobyte of RAM?
+ 1. 500
+ 2. 1024
+ 3. 512
+ 4. 1000
 
 <details>
   <summary>Answer</summary>
-  FM-7
+  1000
 </details>
 
 
