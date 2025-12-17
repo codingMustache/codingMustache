@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What has three letters and starts with gas? A Car.
+Slept like a log last night … woke up in the fireplace.
 
 
 ## Daily Trivia
 
-What is the name of the process that sends one qubit of information using two bits of classical information?
- 1. Quantum Programming
- 2. Super Dense Coding
- 3. Quantum Teleportation
- 4. Quantum Entanglement
+Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
+ 1. Apple
+ 2. Commodore
+ 3. Atari
+ 4. Microsoft
 
 <details>
   <summary>Answer</summary>
-  Quantum Teleportation
+  Apple
 </details>
 
 
