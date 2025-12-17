@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A dad washes his car with his son. But after a while, the son says, "why can't you just use a sponge?"
+How many kids with ADD does it take to change a lightbulb? Let's go ride bikes!
 
 
 ## Daily Trivia
 
-When Gmail first launched, how much storage did it provide for your email?
- 1. 512MB
- 2. 1GB
- 3. 5GB
- 4. Unlimited
+What does the acronym CDN stand for in terms of networking?
+ 1. Content Distribution Network
+ 2. Computational Data Network
+ 3. Content Delivery Network
+ 4. Compressed Data Network
 
 <details>
   <summary>Answer</summary>
-  1GB
+  Content Delivery Network
 </details>
 
 
