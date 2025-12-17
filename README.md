@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call corn that joins the army? Kernel.
+Someone broke into my house last night and stole my limbo trophy. How low can you go?
 
 
 ## Daily Trivia
 
-In programming, what do you call functions with the same name but different implementations?
- 1. Overriding
- 2. Abstracting
- 3. Inheriting
- 4. Overloading
+Which of these people was NOT a founder of Apple Inc?
+ 1. Jonathan Ive
+ 2. Steve Jobs
+ 3. Steve Wozniak
+ 4. Ronald Wayne
 
 <details>
   <summary>Answer</summary>
-  Overloading
+  Jonathan Ive
 </details>
 
 
