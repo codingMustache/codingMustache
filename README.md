@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where does Fonzie like to go for lunch? Chick-Fil-Eyyyyyyyy.
+I been watching a channel on TV that is strictly just about origami — of course it is paper-view.
 
 
 ## Daily Trivia
 
-Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
- 1. Four Years
- 2. Two Years
- 3. Year
- 4. Eight Years
+What was the first company to use the term &quot;Golden Master&quot;?
+ 1. Google
+ 2. Apple
+ 3. Microsoft
+ 4. IBM
 
 <details>
   <summary>Answer</summary>
-  Year
+  Apple
 </details>
 
 
