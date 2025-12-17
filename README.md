@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I adopted my dog from a blacksmith. As soon as we got home he made a bolt for the door.
+What has three letters and starts with gas? A Car.
 
 
 ## Daily Trivia
 
-If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
- 1. Python
- 2. JavaScript
- 3. Binary
- 4. C++
+What is the name of the process that sends one qubit of information using two bits of classical information?
+ 1. Quantum Programming
+ 2. Super Dense Coding
+ 3. Quantum Teleportation
+ 4. Quantum Entanglement
 
 <details>
   <summary>Answer</summary>
-  Binary
+  Quantum Teleportation
 </details>
 
 
