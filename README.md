@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Someone broke into my house last night and stole my limbo trophy. How low can you go?
+Why do nurses carry around red crayons? Sometimes they need to draw blood.
 
 
 ## Daily Trivia
 
-Which of these people was NOT a founder of Apple Inc?
- 1. Jonathan Ive
- 2. Steve Jobs
- 3. Steve Wozniak
- 4. Ronald Wayne
+In programming, the ternary operator is mostly defined with what symbol(s)?
+ 1. if then
+ 2. ??
+ 3. ?
+ 4. ?:
 
 <details>
   <summary>Answer</summary>
-  Jonathan Ive
+  ?:
 </details>
 
 
