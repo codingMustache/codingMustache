@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do valley girls hang out in odd numbered groups? Because they can't even.
+"Dad, I'm cold."
+"Go stand in the corner, I hear it's 90 degrees."
 
 
 ## Daily Trivia
 
-Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
- 1. Python
- 2. PHP
- 3. JavaScript
- 4. C#
+How many cores does the Intel i7-6950X have?
+ 1. 8
+ 2. 4
+ 3. 10
+ 4. 12
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  10
 </details>
 
 
