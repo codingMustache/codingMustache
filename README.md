@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-When you have a bladder infection, urine trouble.
+Why did the tomato blush? Because it saw the salad dressing.
 
 
 ## Daily Trivia
 
-What was the name of the first Bulgarian personal computer?
- 1. Pravetz 82
- 2. IZOT 1030
- 3. Pravetz 8D
- 4. IMKO-1
+Who invented the &quot;Spanning Tree Protocol&quot;?
+ 1. Radia Perlman
+ 2. Michael Roberts
+ 3. Vint Cerf
+ 4. Paul Vixie
 
 <details>
   <summary>Answer</summary>
-  IMKO-1
+  Radia Perlman
 </details>
 
 
