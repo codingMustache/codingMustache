@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do nurses carry around red crayons? Sometimes they need to draw blood.
+I have the heart of a lion... and a lifetime ban from the San Diego Zoo.
 
 
 ## Daily Trivia
 
-In programming, the ternary operator is mostly defined with what symbol(s)?
- 1. if then
- 2. ??
- 3. ?
- 4. ?:
+Which one of these is not an official development name for a Ubuntu release?
+ 1. Trusty Tahr
+ 2. Mystic Mansion
+ 3. Utopic Unicorn
+ 4. Wily Werewolf
 
 <details>
   <summary>Answer</summary>
-  ?:
+  Mystic Mansion
 </details>
 
 
