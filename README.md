@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Which is the fastest growing city in the world? Dublin'
+You know what they say about cliffhangers...
 
 
 ## Daily Trivia
 
-Who invented the &quot;Spanning Tree Protocol&quot;?
- 1. Radia Perlman
- 2. Michael Roberts
- 3. Vint Cerf
- 4. Paul Vixie
+Whistler was the codename of this Microsoft Operating System.
+ 1. Windows 2000
+ 2. Windows 7
+ 3. Windows 95
+ 4. Windows XP
 
 <details>
   <summary>Answer</summary>
-  Radia Perlman
+  Windows XP
 </details>
 
 
