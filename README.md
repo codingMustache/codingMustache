@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Want to hear my pizza joke? Never mind, it's too cheesy.
+Why is no one friends with Dracula? Because he's a pain in the neck.
 
 
 ## Daily Trivia
 
-When did the online streaming service &quot;Mixer&quot; launch?
- 1. 2016
- 2. 2013
- 3. 2009
- 4. 2011
+How many Hz does the video standard PAL support?
+ 1. 50
+ 2. 25
+ 3. 60
+ 4. 59
 
 <details>
   <summary>Answer</summary>
-  2016
+  50
 </details>
 
 
