@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I went to a book store and asked the saleswoman where the Self Help section was, she said if she told me it would defeat the purpose.
+What do you call a careful wolf? Aware wolf.
 
 
 ## Daily Trivia
 
-Which of the following is a personal computer made by the Japanese company Fujitsu?
- 1. FM-7
- 2. PC-9801
- 3. Xmillennium 
- 4. MSX
+What does the &#039;S&#039; in the RSA encryption algorithm stand for?
+ 1. Shamir
+ 2. Stable
+ 3. Secure
+ 4. Schottky
 
 <details>
   <summary>Answer</summary>
-  FM-7
+  Shamir
 </details>
 
 
