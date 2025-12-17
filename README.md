@@ -4,20 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why is no one friends with Dracula? Because he's a pain in the neck.
+Never Trust Someone With Graph Paper...
+
+They're always plotting something.
 
 
 ## Daily Trivia
 
-How many Hz does the video standard PAL support?
- 1. 50
- 2. 25
- 3. 60
- 4. 59
+.at is the top-level domain for what country?
+ 1. Argentina
+ 2. Australia
+ 3. Austria
+ 4. Angola
 
 <details>
   <summary>Answer</summary>
-  50
+  Austria
 </details>
 
 
