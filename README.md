@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What has a bed that you can’t sleep in? A river.
+What do you call a nervous javelin thrower? Shakespeare.
 
 
 ## Daily Trivia
 
-Generally, which component of a computer draws the most power?
- 1. Power Supply
- 2. Processor
- 3. Hard Drive
- 4. Video Card
+What internet protocol was documented in RFC 1459?
+ 1. FTP
+ 2. HTTPS
+ 3. HTTP
+ 4. IRC
 
 <details>
   <summary>Answer</summary>
-  Video Card
+  IRC
 </details>
 
 
