@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a careful wolf? Aware wolf.
+What musical instrument is found in the bathroom? A tuba toothpaste.
 
 
 ## Daily Trivia
 
-What does the &#039;S&#039; in the RSA encryption algorithm stand for?
- 1. Shamir
- 2. Stable
- 3. Secure
- 4. Schottky
+What was the name of the first Bulgarian personal computer?
+ 1. IZOT 1030
+ 2. Pravetz 8D
+ 3. IMKO-1
+ 4. Pravetz 82
 
 <details>
   <summary>Answer</summary>
-  Shamir
+  IMKO-1
 </details>
 
 
