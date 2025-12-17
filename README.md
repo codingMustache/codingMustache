@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I accidentally took my cats meds last night. Don’t ask meow.
+What did the sea say to the sand? "We have to stop meeting like this."
 
 
 ## Daily Trivia
 
-The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
- 1. United States
- 2. Germany
- 3. China (People&#039;s Republic of)
- 4. Taiwan
+What does the &quot;MP&quot; stand for in MP3?
+ 1. Music Player
+ 2. Multi Pass
+ 3. Moving Picture
+ 4. Micro Point
 
 <details>
   <summary>Answer</summary>
-  Taiwan
+  Moving Picture
 </details>
 
 
