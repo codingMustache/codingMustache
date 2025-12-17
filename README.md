@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do the trees get on the internet? They log on.
+What did the pirate say on his 80th birthday? Aye Matey!
 
 
 ## Daily Trivia
 
-The Harvard architecture for micro-controllers added which additional bus?
- 1. Address
- 2. Instruction
- 3. Control
- 4. Data
+How many cores does the Intel i7-6950X have?
+ 1. 12
+ 2. 8
+ 3. 4
+ 4. 10
 
 <details>
   <summary>Answer</summary>
-  Instruction
+  10
 </details>
 
 
