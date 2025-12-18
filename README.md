@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Breaking news! Energizer Bunny arrested – charged with battery.
+Why don’t skeletons ever go trick or treating? Because they have nobody to go with.
 
 
 ## Daily Trivia
 
-What does the computer software acronym JVM stand for?
- 1. Java Vendor Machine
- 2. Java Virtual Machine
- 3. Java Visual Machine
- 4. Just Virtual Machine
+Which data structure does FILO apply to?
+ 1. Heap
+ 2. Stack
+ 3. Tree
+ 4. Queue
 
 <details>
   <summary>Answer</summary>
-  Java Virtual Machine
+  Stack
 </details>
 
 
