@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a droid that takes the long way around? R2 detour.
+I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts.
 
 
 ## Daily Trivia
 
-What port does HTTP run on?
- 1. 23
- 2. 443
- 3. 80
- 4. 53
+What does LTS stand for in the software market?
+ 1. Ludicrous Transfer Speed
+ 2. Long Taco Service
+ 3. Long Term Support
+ 4. Ludicrous Turbo Speed
 
 <details>
   <summary>Answer</summary>
-  80
+  Long Term Support
 </details>
 
 
