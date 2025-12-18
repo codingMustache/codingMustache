@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are skeletons so calm? Because nothing gets under their skin.
+What do you call a droid that takes the long way around? R2 detour.
 
 
 ## Daily Trivia
 
-What was the name given to Android 4.3?
- 1. Lollipop
- 2. Nutella
- 3. Froyo
- 4. Jelly Bean
+What port does HTTP run on?
+ 1. 23
+ 2. 443
+ 3. 80
+ 4. 53
 
 <details>
   <summary>Answer</summary>
-  Jelly Bean
+  80
 </details>
 
 
