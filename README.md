@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Dad I’m hungry’ … ‘Hi hungry I’m dad
+How does a dyslexic poet write? Inverse.
 
 
 ## Daily Trivia
 
-In computing, what does MIDI stand for?
- 1. Musical Instrument Digital Interface
- 2. Musical Interface of Digital Instruments
- 3. Modular Interface of Digital Instruments
- 4. Musical Instrument Data Interface
+While Apple was formed in California, in which western state was Microsoft founded?
+ 1. Colorado
+ 2. Arizona
+ 3. New Mexico
+ 4. Washington
 
 <details>
   <summary>Answer</summary>
-  Musical Instrument Digital Interface
+  New Mexico
 </details>
 
 
