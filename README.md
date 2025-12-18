@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Astronomers got tired watching the moon go around the earth for 24 hours. They decided to call it a day.
+What kind of music do mummy's like? Rap
 
 
 ## Daily Trivia
 
-The C programming language was created by this American computer scientist. 
- 1. Tim Berners Lee
- 2. Dennis Ritchie
- 3. al-Khwārizmī
- 4. Willis Ware
+What vulnerability ranked #1 on the OWASP Top 10 in 2013?
+ 1. Broken Authentication
+ 2. Cross-Site Scripting
+ 3. Injection 
+ 4. Insecure Direct Object References
 
 <details>
   <summary>Answer</summary>
-  Dennis Ritchie
+  Injection 
 </details>
 
 
