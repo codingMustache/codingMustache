@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I met this girl on a dating site and, I don't know, we just clicked.
+What's a ninja's favorite type of shoes? Sneakers!
 
 
 ## Daily Trivia
 
-What is the most preferred image format used for logos in the Wikimedia database?
- 1. .svg
- 2. .jpeg
- 3. .gif
- 4. .png
+Which programming language was developed by Sun Microsystems in 1995?
+ 1. Python
+ 2. Java
+ 3. Solaris OS
+ 4. C++
 
 <details>
   <summary>Answer</summary>
-  .svg
+  Java
 </details>
 
 
