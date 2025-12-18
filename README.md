@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where did you learn to make ice cream? Sunday school.
+I knew a guy who collected candy canes, they were all in mint condition
 
 
 ## Daily Trivia
 
-What did the name of the Tor Anonymity Network orignially stand for?
- 1. The Only Router
- 2. The Onion Router
- 3. The Orange Router
- 4. The Ominous Router
+What does &quot;LCD&quot; stand for?
+ 1. Last Common Difference
+ 2. Liquid Crystal Display
+ 3. Language Control Design
+ 4. Long Continuous Design
 
 <details>
   <summary>Answer</summary>
-  The Onion Router
+  Liquid Crystal Display
 </details>
 
 
