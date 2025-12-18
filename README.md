@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How does a dyslexic poet write? Inverse.
+It's been months since I bought the book "how to scam people online". It still hasn't turned up.
 
 
 ## Daily Trivia
 
-While Apple was formed in California, in which western state was Microsoft founded?
- 1. Colorado
- 2. Arizona
- 3. New Mexico
- 4. Washington
+What is the name of Layer 7 of the OSI model?
+ 1. Session
+ 2. Present
+ 3. Network
+ 4. Application
 
 <details>
   <summary>Answer</summary>
-  New Mexico
+  Application
 </details>
 
 
