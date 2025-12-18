@@ -4,20 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the best thing about elevator jokes? They work on so many levels.
+I used to work at a stationery store.  But, I didn't feel like I was going anywhere.
+
+So, I got a job at a travel agency.  Now, I know I'll be going places.
 
 
 ## Daily Trivia
 
-Which of the following is NOT a computer science algorithm?
- 1. Bubble Sort
- 2. Float Sort
- 3. Merge Sort
- 4. Quick Sort
+On which day did the World Wide Web go online?
+ 1. December 17, 1996
+ 2. November 12, 1990
+ 3. December 20, 1990
+ 4. November 24, 1995
 
 <details>
   <summary>Answer</summary>
-  Float Sort
+  December 20, 1990
 </details>
 
 
