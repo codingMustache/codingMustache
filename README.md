@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Two satellites decided to get married. The wedding wasn't much, but the reception was incredible.
+What did the father tomato say to the baby tomato whilst on a family walk? Ketchup.
 
 
 ## Daily Trivia
 
-In networking, what does OSPF stand for?
- 1. Open Shortest Path First
- 2. Order State Part First
- 3. Order Sense Ping Find
- 4. Open Signal Path Finder
+Nvidia&#039;s headquarters are based in which Silicon Valley city?
+ 1. Santa Clara
+ 2. Mountain View
+ 3. Cupertino
+ 4. Palo Alto
 
 <details>
   <summary>Answer</summary>
-  Open Shortest Path First
+  Santa Clara
 </details>
 
 
