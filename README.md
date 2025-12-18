@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a guy lying on your doorstep? Matt.
+Did you know you should always take an extra pair of pants golfing? Just in case you get a hole in one.
 
 
 ## Daily Trivia
 
-What amount of bits commonly equals one byte?
- 1. 8
- 2. 64
- 3. 2
- 4. 1
+Which of the following is NOT a computer science algorithm?
+ 1. Bubble Sort
+ 2. Merge Sort
+ 3. Quick Sort
+ 4. Float Sort
 
 <details>
   <summary>Answer</summary>
-  8
+  Float Sort
 </details>
 
 
