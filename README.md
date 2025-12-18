@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-If at first you don't succeed, sky diving is not for you!
+Why don't you find hippopotamuses hiding in trees?
+They're really good at it.
 
 
 ## Daily Trivia
 
-In web design, what does CSS stand for?
- 1. Cascading Style Sheet
- 2. Counter Strike: Source
- 3. Corrective Style Sheet
- 4. Computer Style Sheet
+In programming, the ternary operator is mostly defined with what symbol(s)?
+ 1. ?:
+ 2. ?
+ 3. if then
+ 4. ??
 
 <details>
   <summary>Answer</summary>
-  Cascading Style Sheet
+  ?:
 </details>
 
 
