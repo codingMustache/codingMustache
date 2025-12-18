@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the father tomato say to the baby tomato whilst on a family walk? Ketchup.
+Sgt.: Commissar! Commissar! The troops are revolting! Commissar: Well, you’re pretty repulsive yourself.
 
 
 ## Daily Trivia
 
-Nvidia&#039;s headquarters are based in which Silicon Valley city?
- 1. Santa Clara
- 2. Mountain View
- 3. Cupertino
- 4. Palo Alto
+What is the number of keys on a standard Windows Keyboard?
+ 1. 64
+ 2. 76
+ 3. 94
+ 4. 104
 
 <details>
   <summary>Answer</summary>
-  Santa Clara
+  104
 </details>
 
 
