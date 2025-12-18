@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why don't you find hippopotamuses hiding in trees?
-They're really good at it.
+I was at the library and asked if they have any books on "paranoia", the librarian replied, "yes, they are right behind you"
 
 
 ## Daily Trivia
 
-In programming, the ternary operator is mostly defined with what symbol(s)?
- 1. ?:
- 2. ?
- 3. if then
- 4. ??
+Who invented the &quot;Spanning Tree Protocol&quot;?
+ 1. Paul Vixie
+ 2. Radia Perlman
+ 3. Michael Roberts
+ 4. Vint Cerf
 
 <details>
   <summary>Answer</summary>
-  ?:
+  Radia Perlman
 </details>
 
 
