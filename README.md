@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was it called the dark ages? Because of all the knights. 
+When you have a bladder infection, urine trouble.
 
 
 ## Daily Trivia
 
-What port does HTTP run on?
- 1. 443
- 2. 53
- 3. 80
- 4. 23
+Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
+ 1. Puma
+ 2. Tiger
+ 3. Leopard
+ 4. Cheetah
 
 <details>
   <summary>Answer</summary>
-  80
+  Cheetah
 </details>
 
 
