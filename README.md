@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Sgt.: Commissar! Commissar! The troops are revolting! Commissar: Well, you’re pretty repulsive yourself.
+Where did you learn to make ice cream? Sunday school.
 
 
 ## Daily Trivia
 
-What is the number of keys on a standard Windows Keyboard?
- 1. 64
- 2. 76
- 3. 94
- 4. 104
+What did the name of the Tor Anonymity Network orignially stand for?
+ 1. The Only Router
+ 2. The Onion Router
+ 3. The Orange Router
+ 4. The Ominous Router
 
 <details>
   <summary>Answer</summary>
-  104
+  The Onion Router
 </details>
 
 
