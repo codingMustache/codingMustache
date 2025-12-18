@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why don’t skeletons ever go trick or treating? Because they have nobody to go with.
+I cut my finger chopping cheese, but I think that I may have grater problems.
 
 
 ## Daily Trivia
 
-Which data structure does FILO apply to?
- 1. Heap
- 2. Stack
- 3. Tree
- 4. Queue
+What does CPU stand for?
+ 1. Central Processor Unit
+ 2. Computer Personal Unit
+ 3. Central Process Unit
+ 4. Central Processing Unit
 
 <details>
   <summary>Answer</summary>
-  Stack
+  Central Processing Unit
 </details>
 
 
