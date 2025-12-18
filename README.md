@@ -4,22 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did Mozart kill all his chickens?
-Because when he asked them who the best composer was, they'd all say "Bach bach bach!"
-
+Dad I’m hungry’ … ‘Hi hungry I’m dad
 
 
 ## Daily Trivia
 
-What does the computer software acronym JVM stand for?
- 1. Java Vendor Machine
- 2. Just Virtual Machine
- 3. Java Virtual Machine
- 4. Java Visual Machine
+In computing, what does MIDI stand for?
+ 1. Musical Instrument Digital Interface
+ 2. Musical Interface of Digital Instruments
+ 3. Modular Interface of Digital Instruments
+ 4. Musical Instrument Data Interface
 
 <details>
   <summary>Answer</summary>
-  Java Virtual Machine
+  Musical Instrument Digital Interface
 </details>
 
 
