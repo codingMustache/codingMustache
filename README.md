@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the worker get fired from the orange juice factory? Lack of concentration.
+I can't take my dog to the pond anymore because the ducks keep attacking him. That's what I get for buying a pure bread dog.
 
 
 ## Daily Trivia
 
-On Twitter, what was the original character limit for a Tweet?
- 1. 100
- 2. 140
- 3. 160
- 4. 120
+Which of the following is NOT a computer science algorithm?
+ 1. Bubble Sort
+ 2. Float Sort
+ 3. Merge Sort
+ 4. Quick Sort
 
 <details>
   <summary>Answer</summary>
-  140
+  Float Sort
 </details>
 
 
