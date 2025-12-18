@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I cut my finger chopping cheese, but I think that I may have grater problems.
+Two satellites decided to get married. The wedding wasn't much, but the reception was incredible.
 
 
 ## Daily Trivia
 
-What does CPU stand for?
- 1. Central Processor Unit
- 2. Computer Personal Unit
- 3. Central Process Unit
- 4. Central Processing Unit
+In networking, what does OSPF stand for?
+ 1. Open Shortest Path First
+ 2. Order State Part First
+ 3. Order Sense Ping Find
+ 4. Open Signal Path Finder
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  Open Shortest Path First
 </details>
 
 
