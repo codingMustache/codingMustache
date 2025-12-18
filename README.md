@@ -4,21 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why don't you find hippopotamuses hiding in trees?
-They're really good at it.
+Why did Mozart kill all his chickens?
+Because when he asked them who the best composer was, they'd all say "Bach bach bach!"
+
 
 
 ## Daily Trivia
 
-In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
- 1. Static
- 2. Private
- 3. Public
- 4. Final
+What does the computer software acronym JVM stand for?
+ 1. Java Vendor Machine
+ 2. Just Virtual Machine
+ 3. Java Virtual Machine
+ 4. Java Visual Machine
 
 <details>
   <summary>Answer</summary>
-  Final
+  Java Virtual Machine
 </details>
 
 
