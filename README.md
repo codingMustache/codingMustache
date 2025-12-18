@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My cat was just sick on the carpet, I don’t think it’s feline well.
+If at first you don't succeed, sky diving is not for you!
 
 
 ## Daily Trivia
 
-What does the Prt Sc button do?
- 1. Nothing
- 2. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
- 3. Closes all windows
- 4. Captures what&#039;s on the screen and copies it to your clipboard
+In web design, what does CSS stand for?
+ 1. Cascading Style Sheet
+ 2. Counter Strike: Source
+ 3. Corrective Style Sheet
+ 4. Computer Style Sheet
 
 <details>
   <summary>Answer</summary>
-  Captures what&#039;s on the screen and copies it to your clipboard
+  Cascading Style Sheet
 </details>
 
 
