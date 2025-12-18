@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why does Superman get invited to dinners? Because he is a Supperhero.
+I met this girl on a dating site and, I don't know, we just clicked.
 
 
 ## Daily Trivia
 
-Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
- 1. Cherry MX Blue
- 2. Cherry MX Brown
- 3. Cherry MX Red
- 4. Cherry MX Black
+What is the most preferred image format used for logos in the Wikimedia database?
+ 1. .svg
+ 2. .jpeg
+ 3. .gif
+ 4. .png
 
 <details>
   <summary>Answer</summary>
-  Cherry MX Blue
+  .svg
 </details>
 
 
