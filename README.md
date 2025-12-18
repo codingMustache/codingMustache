@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a girl between two posts? Annette.
+What do you call a guy lying on your doorstep? Matt.
 
 
 ## Daily Trivia
 
-In the server hosting industry IaaS stands for...
- 1. Internet as a Service
- 2. Internet and a Server
- 3. Infrastructure as a Server
- 4. Infrastructure as a Service
+What amount of bits commonly equals one byte?
+ 1. 8
+ 2. 64
+ 3. 2
+ 4. 1
 
 <details>
   <summary>Answer</summary>
-  Infrastructure as a Service
+  8
 </details>
 
 
