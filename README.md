@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts.
+Why did the worker get fired from the orange juice factory? Lack of concentration.
 
 
 ## Daily Trivia
 
-What does LTS stand for in the software market?
- 1. Ludicrous Transfer Speed
- 2. Long Taco Service
- 3. Long Term Support
- 4. Ludicrous Turbo Speed
+On Twitter, what was the original character limit for a Tweet?
+ 1. 100
+ 2. 140
+ 3. 160
+ 4. 120
 
 <details>
   <summary>Answer</summary>
-  Long Term Support
+  140
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **3 days** since this server shutdown
+Its been **** since this server shutdown
