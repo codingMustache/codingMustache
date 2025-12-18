@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was ten scared of seven? Because seven ate nine.
+What’s the advantage of living in Switzerland? Well, the flag is a big plus.
 
 
 ## Daily Trivia
 
-Which programming language shares its name with an island in Indonesia?
- 1. C
- 2. Java
- 3. Jakarta
- 4. Python
+In web design, what does CSS stand for?
+ 1. Cascading Style Sheet
+ 2. Computer Style Sheet
+ 3. Corrective Style Sheet
+ 4. Counter Strike: Source
 
 <details>
   <summary>Answer</summary>
-  Java
+  Cascading Style Sheet
 </details>
 
 
