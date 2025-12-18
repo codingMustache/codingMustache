@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-When you have a bladder infection, urine trouble.
+What's the best thing about elevator jokes? They work on so many levels.
 
 
 ## Daily Trivia
 
-Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
- 1. Puma
- 2. Tiger
- 3. Leopard
- 4. Cheetah
+Which of the following is NOT a computer science algorithm?
+ 1. Bubble Sort
+ 2. Float Sort
+ 3. Merge Sort
+ 4. Quick Sort
 
 <details>
   <summary>Answer</summary>
-  Cheetah
+  Float Sort
 </details>
 
 
