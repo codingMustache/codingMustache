@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The biggest knight at King Arthur's round table was Sir Cumference. He acquired his size from eating too much pi.
+What do you call a girl between two posts? Annette.
 
 
 ## Daily Trivia
 
-What does the computer software acronym JVM stand for?
- 1. Java Virtual Machine
- 2. Java Vendor Machine
- 3. Java Visual Machine
- 4. Just Virtual Machine
+In the server hosting industry IaaS stands for...
+ 1. Internet as a Service
+ 2. Internet and a Server
+ 3. Infrastructure as a Server
+ 4. Infrastructure as a Service
 
 <details>
   <summary>Answer</summary>
-  Java Virtual Machine
+  Infrastructure as a Service
 </details>
 
 
