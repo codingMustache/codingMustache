@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I was at the library and asked if they have any books on "paranoia", the librarian replied, "yes, they are right behind you"
+Leather is great for sneaking around because it's made of hide.
 
 
 ## Daily Trivia
 
-Who invented the &quot;Spanning Tree Protocol&quot;?
- 1. Paul Vixie
- 2. Radia Perlman
- 3. Michael Roberts
- 4. Vint Cerf
+On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
+ 1. Exclamation Mark
+ 2. Percent Sign
+ 3. Asterisk
+ 4. Dollar Sign
 
 <details>
   <summary>Answer</summary>
-  Radia Perlman
+  Exclamation Mark
 </details>
 
 
