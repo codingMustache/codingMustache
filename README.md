@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Astronomers got tired watching the moon go around the earth for 24 hours. They decided to call it a day.
+The biggest knight at King Arthur's round table was Sir Cumference. He acquired his size from eating too much pi.
 
 
 ## Daily Trivia
 
-Whistler was the codename of this Microsoft Operating System.
- 1. Windows 7
- 2. Windows XP
- 3. Windows 2000
- 4. Windows 95
+What does the computer software acronym JVM stand for?
+ 1. Java Virtual Machine
+ 2. Java Vendor Machine
+ 3. Java Visual Machine
+ 4. Just Virtual Machine
 
 <details>
   <summary>Answer</summary>
-  Windows XP
+  Java Virtual Machine
 </details>
 
 
