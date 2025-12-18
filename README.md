@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call corn that joins the army? Kernel.
+Why didn’t the skeleton cross the road? Because he had no guts.
 
 
 ## Daily Trivia
 
-What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
- 1. FM Synthesizer
- 2. Programmable Sound Generator (PSG)
- 3. PCM Sampler
- 4. ADPCM Sampler
+What five letter word is the motto of the IBM Computer company?
+ 1. Pixel
+ 2. Think
+ 3. Logic
+ 4. Click
 
 <details>
   <summary>Answer</summary>
-  ADPCM Sampler
+  Think
 </details>
 
 
