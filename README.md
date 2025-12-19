@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to work in a shoe recycling shop. It was sole destroying.
+Why do valley girls hang out in odd numbered groups? Because they can't even.
 
 
 ## Daily Trivia
 
-Generally, which component of a computer draws the most power?
- 1. Video Card
- 2. Power Supply
- 3. Processor
- 4. Hard Drive
+The teapot often seen in many 3D modeling applications is called what?
+ 1. Tennessee Teapot
+ 2. 3D Teapot
+ 3. Pixar Teapot
+ 4. Utah Teapot
 
 <details>
   <summary>Answer</summary>
-  Video Card
+  Utah Teapot
 </details>
 
 
