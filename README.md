@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the kid cross the playground? To get to the other slide.
+I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts.
 
 
 ## Daily Trivia
 
-Which of the following computer components can be built using only NAND gates?
- 1. CPU
- 2. RAM
- 3. Register
- 4. ALU
+In programming, the ternary operator is mostly defined with what symbol(s)?
+ 1. ?:
+ 2. ??
+ 3. ?
+ 4. if then
 
 <details>
   <summary>Answer</summary>
-  ALU
+  ?:
 </details>
 
 
