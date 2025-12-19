@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where did you learn to make ice cream? Sunday school.
+I'll tell you what often gets over looked... garden fences.
 
 
 ## Daily Trivia
 
-The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
- 1. United States
- 2. Germany
- 3. China (People&#039;s Republic of)
- 4. Taiwan
+The Harvard architecture for micro-controllers added which additional bus?
+ 1. Instruction
+ 2. Address
+ 3. Data
+ 4. Control
 
 <details>
   <summary>Answer</summary>
-  Taiwan
+  Instruction
 </details>
 
 
