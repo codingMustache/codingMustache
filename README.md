@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did Dracula lie in the wrong coffin? He made a grave mistake.
+Do I enjoy making courthouse puns? Guilty
 
 
 ## Daily Trivia
 
-Which of these people was NOT a founder of Apple Inc?
- 1. Steve Jobs
- 2. Ronald Wayne
- 3. Steve Wozniak
- 4. Jonathan Ive
+All of the following programs are classified as raster graphics editors EXCEPT:
+ 1. Adobe Photoshop
+ 2. GIMP
+ 3. Paint.NET
+ 4. Inkscape
 
 <details>
   <summary>Answer</summary>
-  Jonathan Ive
+  Inkscape
 </details>
 
 
