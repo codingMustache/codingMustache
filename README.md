@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I made a belt out of watches once... It was a waist of time.
+Two guys walked into a bar, the third one ducked.
 
 
 ## Daily Trivia
 
-How many bytes are in a single Kibibyte?
- 1. 2400
- 2. 1000
- 3. 1240
- 4. 1024
+What does LTS stand for in the software market?
+ 1. Long Term Support
+ 2. Ludicrous Turbo Speed
+ 3. Long Taco Service
+ 4. Ludicrous Transfer Speed
 
 <details>
   <summary>Answer</summary>
-  1024
+  Long Term Support
 </details>
 
 
