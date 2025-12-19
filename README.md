@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you teach a kid to climb stairs? There is a step by step guide.
+What do you call an Argentinian with a rubber toe? Roberto
 
 
 ## Daily Trivia
 
-What is the name of Layer 7 of the OSI model?
- 1. Session
- 2. Application
- 3. Network
- 4. Present
+In programming, what do you call functions with the same name but different implementations?
+ 1. Overloading
+ 2. Overriding
+ 3. Abstracting
+ 4. Inheriting
 
 <details>
   <summary>Answer</summary>
-  Application
+  Overloading
 </details>
 
 
