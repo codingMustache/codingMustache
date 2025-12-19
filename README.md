@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My pet mouse 'Elvis' died last night. He was caught in a trap..
+Two peanuts were walking down the street. One was a salted.
 
 
 ## Daily Trivia
 
-The programming language &#039;Swift&#039; was created to replace what other programming language?
- 1. Ruby
- 2. Objective-C
- 3. C#
- 4. C++
+Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
+ 1. Two Years
+ 2. Eight Years
+ 3. Four Years
+ 4. Year
 
 <details>
   <summary>Answer</summary>
-  Objective-C
+  Year
 </details>
 
 
