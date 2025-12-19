@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call an Argentinian with a rubber toe? Roberto
+Astronomers got tired watching the moon go around the earth for 24 hours. They decided to call it a day.
 
 
 ## Daily Trivia
 
-In programming, what do you call functions with the same name but different implementations?
- 1. Overloading
- 2. Overriding
- 3. Abstracting
- 4. Inheriting
+In programming, the ternary operator is mostly defined with what symbol(s)?
+ 1. ??
+ 2. ?
+ 3. if then
+ 4. ?:
 
 <details>
   <summary>Answer</summary>
-  Overloading
+  ?:
 </details>
 
 
