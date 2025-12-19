@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the submarine industry? It really took a dive...
+I got fired from the transmission factor, turns out I didn't put on enough shifts...
 
 
 ## Daily Trivia
 
-Which kind of algorithm is Ron Rivest not famous for creating?
- 1. Asymmetric encryption
- 2. Stream cipher
- 3. Secret sharing scheme
- 4. Hashing algorithm
+The C programming language was created by this American computer scientist. 
+ 1. al-Khwārizmī
+ 2. Willis Ware
+ 3. Tim Berners Lee
+ 4. Dennis Ritchie
 
 <details>
   <summary>Answer</summary>
-  Secret sharing scheme
+  Dennis Ritchie
 </details>
 
 
