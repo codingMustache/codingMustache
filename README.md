@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Two peanuts were walking down the street. One was a salted.
+Me and my mates are in a band called Duvet. We're a cover band.
 
 
 ## Daily Trivia
 
-Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
- 1. Two Years
- 2. Eight Years
- 3. Four Years
- 4. Year
+How many bits make up the significand portion of a single precision floating point number?
+ 1. 53
+ 2. 15
+ 3. 23
+ 4. 8
 
 <details>
   <summary>Answer</summary>
-  Year
+  23
 </details>
 
 
