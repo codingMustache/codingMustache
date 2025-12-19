@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where did Captain Hook get his hook? From a second hand store.
+Why did the Clydesdale give the pony a glass of water?  Because he was a little horse!
 
 
 ## Daily Trivia
 
-What does AD stand for in relation to Windows Operating Systems? 
- 1. Alternative Drive
- 2. Active Directory
- 3. Active Department
- 4. Automated Database
+What is known as &quot;the brain&quot; of the Computer?
+ 1. Central Processing Unit
+ 2. Motherboard
+ 3. Graphics Processing Unit
+ 4. Keyboard
 
 <details>
   <summary>Answer</summary>
-  Active Directory
+  Central Processing Unit
 </details>
 
 
