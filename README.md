@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why is it always hot in the corner of a room? Because a corner is 90 degrees.
+What do you call your friend who stands in a hole? Phil.
 
 
 ## Daily Trivia
 
-What vulnerability ranked #1 on the OWASP Top 10 in 2013?
- 1. Injection 
- 2. Insecure Direct Object References
- 3. Cross-Site Scripting
- 4. Broken Authentication
+Laserjet and inkjet printers are both examples of what type of printer?
+ 1. Non-impact printer
+ 2. Dot matrix printer
+ 3. Daisywheel printer
+ 4. Impact printer
 
 <details>
   <summary>Answer</summary>
-  Injection 
+  Non-impact printer
 </details>
 
 
