@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the Clydesdale give the pony a glass of water?  Because he was a little horse!
+Why did the chicken get a penalty? For fowl play.
 
 
 ## Daily Trivia
 
-What is known as &quot;the brain&quot; of the Computer?
- 1. Central Processing Unit
- 2. Motherboard
- 3. Graphics Processing Unit
- 4. Keyboard
+On which computer hardware device is the BIOS chip located?
+ 1. Graphics Processing Unit
+ 2. Central Processing Unit
+ 3. Hard Disk Drive
+ 4. Motherboard
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  Motherboard
 </details>
 
 
