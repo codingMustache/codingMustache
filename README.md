@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the Buffalo say to his little boy when he dropped him off at school? Bison.
+Atheism is a non-prophet organisation.
 
 
 ## Daily Trivia
 
-What was the first commerically available computer processor?
- 1. Intel 486SX
- 2. TMS 1000
- 3. AMD AM386
- 4. Intel 4004
+The teapot often seen in many 3D modeling applications is called what?
+ 1. Pixar Teapot
+ 2. 3D Teapot
+ 3. Tennessee Teapot
+ 4. Utah Teapot
 
 <details>
   <summary>Answer</summary>
-  Intel 4004
+  Utah Teapot
 </details>
 
 
