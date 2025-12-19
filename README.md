@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Can I watch the TV? Dad: Yes, but don’t turn it on.
+What did the piece of bread say to the knife? Butter me up.
 
 
 ## Daily Trivia
 
-What major programming language does Unreal Engine 4 use?
- 1. ECMAScript
- 2. C#
- 3. C++
- 4. Assembly
+The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
+ 1. HD Graphics 500
+ 2. HD Graphics 7000
+ 3. HD Graphics 600
+ 4. HD Graphics 700 
 
 <details>
   <summary>Answer</summary>
-  C++
+  HD Graphics 500
 </details>
 
 
