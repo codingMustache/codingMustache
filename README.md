@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I don’t play soccer because I enjoy the sport. I’m just doing it for kicks.
+Today, my son asked "Can I have a book mark?" and I burst into tears. 11 years old and he still doesn't know my name is Brian.
 
 
 ## Daily Trivia
 
-What is the number of keys on a standard Windows Keyboard?
- 1. 104
- 2. 76
- 3. 94
- 4. 64
+On Twitter, what was the original character limit for a Tweet?
+ 1. 140
+ 2. 160
+ 3. 100
+ 4. 120
 
 <details>
   <summary>Answer</summary>
-  104
+  140
 </details>
 
 
