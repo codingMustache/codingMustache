@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you get when you cross a chicken with a skunk? A fowl smell!
+I made a belt out of watches once... It was a waist of time.
 
 
 ## Daily Trivia
 
-What does the computer software acronym JVM stand for?
- 1. Java Visual Machine
- 2. Java Vendor Machine
- 3. Just Virtual Machine
- 4. Java Virtual Machine
+In computing, what does LAN stand for?
+ 1. Light Access Node
+ 2. Long Antenna Node
+ 3. Land Address Navigation
+ 4. Local Area Network
 
 <details>
   <summary>Answer</summary>
-  Java Virtual Machine
+  Local Area Network
 </details>
 
 
