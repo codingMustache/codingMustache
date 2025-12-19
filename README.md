@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the late tomato say to the early tomato? I’ll ketch up
+Why did the man run around his bed? Because he was trying to catch up on his sleep!
 
 
 ## Daily Trivia
 
-The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
- 1. China (People&#039;s Republic of)
- 2. Germany
- 3. United States
- 4. Taiwan
+What programming language was GitHub written in?
+ 1. JavaScript
+ 2. Ruby
+ 3. Python
+ 4. Lua
 
 <details>
   <summary>Answer</summary>
-  Taiwan
+  Ruby
 </details>
 
 
