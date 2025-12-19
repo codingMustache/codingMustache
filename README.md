@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the green grape say to the purple grape?
-BREATH!!
+What did the late tomato say to the early tomato? I’ll ketch up
 
 
 ## Daily Trivia
 
-On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
- 1. Dollar Sign
- 2. Percent Sign
- 3. Exclamation Mark
- 4. Asterisk
+The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
+ 1. China (People&#039;s Republic of)
+ 2. Germany
+ 3. United States
+ 4. Taiwan
 
 <details>
   <summary>Answer</summary>
-  Exclamation Mark
+  Taiwan
 </details>
 
 
