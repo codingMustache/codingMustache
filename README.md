@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where does astronauts hangout after work? At the spacebar.
+Every night at 11:11, I make a wish that someone will come fix my broken clock.
 
 
 ## Daily Trivia
 
-When Gmail first launched, how much storage did it provide for your email?
- 1. 512MB
- 2. Unlimited
- 3. 5GB
- 4. 1GB
+Who invented the &quot;Spanning Tree Protocol&quot;?
+ 1. Michael Roberts
+ 2. Paul Vixie
+ 3. Radia Perlman
+ 4. Vint Cerf
 
 <details>
   <summary>Answer</summary>
-  1GB
+  Radia Perlman
 </details>
 
 
