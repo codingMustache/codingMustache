@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Every night at 11:11, I make a wish that someone will come fix my broken clock.
+What did the left eye say to the right eye? Between us, something smells!
 
 
 ## Daily Trivia
 
-Who invented the &quot;Spanning Tree Protocol&quot;?
- 1. Michael Roberts
- 2. Paul Vixie
- 3. Radia Perlman
- 4. Vint Cerf
+The teapot often seen in many 3D modeling applications is called what?
+ 1. Pixar Teapot
+ 2. 3D Teapot
+ 3. Tennessee Teapot
+ 4. Utah Teapot
 
 <details>
   <summary>Answer</summary>
-  Radia Perlman
+  Utah Teapot
 </details>
 
 
