@@ -4,21 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you do when you see a space man?
-Park your car, man.
+Mahatma Gandhi, as you know, walked barefoot most of the time, which produced an impressive set of calluses on his feet. 
+He also ate very little, which made him rather frail and with his odd diet, he suffered from bad breath. 
+This made him a super calloused fragile mystic hexed by halitosis.
 
 
 ## Daily Trivia
 
-America Online (AOL) started out as which of these online service providers?
- 1. CompuServe
- 2. Prodigy
- 3. GEnie
- 4. Quantum Link
+The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
+ 1. United States
+ 2. Germany
+ 3. China (People&#039;s Republic of)
+ 4. Taiwan
 
 <details>
   <summary>Answer</summary>
-  Quantum Link
+  Taiwan
 </details>
 
 
