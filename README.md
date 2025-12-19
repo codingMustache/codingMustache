@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I made a belt out of watches once... It was a waist of time.
+My pet mouse 'Elvis' died last night. He was caught in a trap..
 
 
 ## Daily Trivia
 
-In computing, what does LAN stand for?
- 1. Light Access Node
- 2. Long Antenna Node
- 3. Land Address Navigation
- 4. Local Area Network
+The programming language &#039;Swift&#039; was created to replace what other programming language?
+ 1. Ruby
+ 2. Objective-C
+ 3. C#
+ 4. C++
 
 <details>
   <summary>Answer</summary>
-  Local Area Network
+  Objective-C
 </details>
 
 
