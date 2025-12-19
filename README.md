@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the chicken get a penalty? For fowl play.
+What has a bed that you can’t sleep in? A river.
 
 
 ## Daily Trivia
 
-On which computer hardware device is the BIOS chip located?
- 1. Graphics Processing Unit
- 2. Central Processing Unit
- 3. Hard Disk Drive
- 4. Motherboard
+How many bytes are in a single Kibibyte?
+ 1. 1000
+ 2. 1240
+ 3. 1024
+ 4. 2400
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  1024
 </details>
 
 
