@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What has a bed that you can’t sleep in? A river.
+What do you get when you cross a pig and a pineapple? A porky pine
 
 
 ## Daily Trivia
 
-How many bytes are in a single Kibibyte?
- 1. 1000
- 2. 1240
- 3. 1024
- 4. 2400
+The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
+ 1. HD Graphics 500
+ 2. HD Graphics 700 
+ 3. HD Graphics 7000
+ 4. HD Graphics 600
 
 <details>
   <summary>Answer</summary>
-  1024
+  HD Graphics 500
 </details>
 
 
