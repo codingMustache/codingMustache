@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do valley girls hang out in odd numbered groups? Because they can't even.
+What do you do when you see a space man?
+Park your car, man.
 
 
 ## Daily Trivia
 
-The teapot often seen in many 3D modeling applications is called what?
- 1. Tennessee Teapot
- 2. 3D Teapot
- 3. Pixar Teapot
- 4. Utah Teapot
+America Online (AOL) started out as which of these online service providers?
+ 1. CompuServe
+ 2. Prodigy
+ 3. GEnie
+ 4. Quantum Link
 
 <details>
   <summary>Answer</summary>
-  Utah Teapot
+  Quantum Link
 </details>
 
 
