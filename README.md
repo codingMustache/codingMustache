@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Astronomers got tired watching the moon go around the earth for 24 hours. They decided to call it a day.
+I used to work in a shoe recycling shop. It was sole destroying.
 
 
 ## Daily Trivia
 
-In programming, the ternary operator is mostly defined with what symbol(s)?
- 1. ??
- 2. ?
- 3. if then
- 4. ?:
+Generally, which component of a computer draws the most power?
+ 1. Video Card
+ 2. Power Supply
+ 3. Processor
+ 4. Hard Drive
 
 <details>
   <summary>Answer</summary>
-  ?:
+  Video Card
 </details>
 
 
