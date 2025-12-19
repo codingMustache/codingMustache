@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Two guys walked into a bar, the third one ducked.
+Where did Captain Hook get his hook? From a second hand store.
 
 
 ## Daily Trivia
 
-What does LTS stand for in the software market?
- 1. Long Term Support
- 2. Ludicrous Turbo Speed
- 3. Long Taco Service
- 4. Ludicrous Transfer Speed
+What does AD stand for in relation to Windows Operating Systems? 
+ 1. Alternative Drive
+ 2. Active Directory
+ 3. Active Department
+ 4. Automated Database
 
 <details>
   <summary>Answer</summary>
-  Long Term Support
+  Active Directory
 </details>
 
 
