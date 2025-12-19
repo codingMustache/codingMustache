@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Atheism is a non-prophet organisation.
+Can I watch the TV? Dad: Yes, but don’t turn it on.
 
 
 ## Daily Trivia
 
-The teapot often seen in many 3D modeling applications is called what?
- 1. Pixar Teapot
- 2. 3D Teapot
- 3. Tennessee Teapot
- 4. Utah Teapot
+What major programming language does Unreal Engine 4 use?
+ 1. ECMAScript
+ 2. C#
+ 3. C++
+ 4. Assembly
 
 <details>
   <summary>Answer</summary>
-  Utah Teapot
+  C++
 </details>
 
 
