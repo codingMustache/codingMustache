@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Do I enjoy making courthouse puns? Guilty
+How do you teach a kid to climb stairs? There is a step by step guide.
 
 
 ## Daily Trivia
 
-All of the following programs are classified as raster graphics editors EXCEPT:
- 1. Adobe Photoshop
- 2. GIMP
- 3. Paint.NET
- 4. Inkscape
+What is the name of Layer 7 of the OSI model?
+ 1. Session
+ 2. Application
+ 3. Network
+ 4. Present
 
 <details>
   <summary>Answer</summary>
-  Inkscape
+  Application
 </details>
 
 
