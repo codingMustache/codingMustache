@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I'll tell you what often gets over looked... garden fences.
+Want to hear a joke about construction? Nah, I'm still working on it.
 
 
 ## Daily Trivia
 
-The Harvard architecture for micro-controllers added which additional bus?
- 1. Instruction
- 2. Address
- 3. Data
- 4. Control
+What port does HTTP run on?
+ 1. 80
+ 2. 443
+ 3. 23
+ 4. 53
 
 <details>
   <summary>Answer</summary>
-  Instruction
+  80
 </details>
 
 
