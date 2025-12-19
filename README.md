@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Me and my mates are in a band called Duvet. We're a cover band.
+What happens when you anger a brain surgeon? They will give you a piece of your mind.
 
 
 ## Daily Trivia
 
-How many bits make up the significand portion of a single precision floating point number?
- 1. 53
- 2. 15
- 3. 23
- 4. 8
+Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
+ 1. eBay
+ 2. Amazon
+ 3. Shopify
+ 4. Overstock
 
 <details>
   <summary>Answer</summary>
-  23
+  Amazon
 </details>
 
 
