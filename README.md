@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I won an argument with a weather forecaster once. His logic was cloudy...
+I’ve got this disease where I can’t stop making airport puns. The doctor says it terminal.
 
 
 ## Daily Trivia
 
-How many bytes are in a single Kibibyte?
- 1. 1024
- 2. 1240
- 3. 1000
- 4. 2400
+Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
+ 1. Apple
+ 2. Atari
+ 3. Commodore
+ 4. Microsoft
 
 <details>
   <summary>Answer</summary>
-  1024
+  Apple
 </details>
 
 
