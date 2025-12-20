@@ -4,20 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did Romans use to cut pizza before the rolling cutter was invented? Lil Caesars
+Why do pumpkins sit on people’s porches?
+
+They have no hands to knock on the door.
 
 
 ## Daily Trivia
 
-When did the online streaming service &quot;Mixer&quot; launch?
- 1. 2009
- 2. 2013
- 3. 2016
- 4. 2011
+The teapot often seen in many 3D modeling applications is called what?
+ 1. Utah Teapot
+ 2. Pixar Teapot
+ 3. 3D Teapot
+ 4. Tennessee Teapot
 
 <details>
   <summary>Answer</summary>
-  2016
+  Utah Teapot
 </details>
 
 
