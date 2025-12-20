@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My wife is on a tropical fruit diet, the house is full of stuff. It is enough to make a mango crazy.
+"What time is it?" I don't know... it keeps changing.
 
 
 ## Daily Trivia
 
-What is the name of Layer 7 of the OSI model?
- 1. Session
- 2. Application
- 3. Network
- 4. Present
+Which of these people was NOT a founder of Apple Inc?
+ 1. Jonathan Ive
+ 2. Ronald Wayne
+ 3. Steve Jobs
+ 4. Steve Wozniak
 
 <details>
   <summary>Answer</summary>
-  Application
+  Jonathan Ive
 </details>
 
 
