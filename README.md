@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call an Argentinian with a rubber toe? Roberto
+Did you hear about the Mexican train killer? He had loco motives
 
 
 ## Daily Trivia
 
-What did the name of the Tor Anonymity Network orignially stand for?
- 1. The Only Router
- 2. The Orange Router
- 3. The Onion Router
- 4. The Ominous Router
+This mobile OS held the largest market share in 2012.
+ 1. BlackBerry
+ 2. iOS
+ 3. Symbian
+ 4. Android
 
 <details>
   <summary>Answer</summary>
-  The Onion Router
+  iOS
 </details>
 
 
