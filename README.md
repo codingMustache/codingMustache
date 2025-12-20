@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a dad that has fallen through the ice? A Popsicle.
+Want to hear my pizza joke? Never mind, it's too cheesy.
 
 
 ## Daily Trivia
 
-Australia, Japan, and Southeast Asia are in which ITU Region?
- 1. Region 2
- 2. Region 4
- 3. Region 1
- 4. Region 3
+What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
+ 1. ADPCM Sampler
+ 2. PCM Sampler
+ 3. Programmable Sound Generator (PSG)
+ 4. FM Synthesizer
 
 <details>
   <summary>Answer</summary>
-  Region 3
+  ADPCM Sampler
 </details>
 
 
