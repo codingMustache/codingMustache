@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A farmer had 297 cows, when he rounded them up, he found he had 300
+This furniture store keeps emailing me, all I wanted was one night stand!
 
 
 ## Daily Trivia
 
-Which of these people was NOT a founder of Apple Inc?
- 1. Steve Wozniak
- 2. Jonathan Ive
- 3. Ronald Wayne
- 4. Steve Jobs
+What does the International System of Quantities refer 1024 bytes as?
+ 1. Kibibyte
+ 2. Kylobyte
+ 3. Kilobyte
+ 4. Kelobyte
 
 <details>
   <summary>Answer</summary>
-  Jonathan Ive
+  Kibibyte
 </details>
 
 
