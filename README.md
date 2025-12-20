@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's brown and sticky? A stick.
+It doesn't matter how much you push the envelope. It will still be stationary.
 
 
 ## Daily Trivia
 
-Which data structure does FILO apply to?
- 1. Queue
- 2. Heap
- 3. Tree
- 4. Stack
+Which SQL keyword is used to fetch data from a database?
+ 1. EXEC
+ 2. INDEX
+ 3. VALUES
+ 4. SELECT
 
 <details>
   <summary>Answer</summary>
-  Stack
+  SELECT
 </details>
 
 
