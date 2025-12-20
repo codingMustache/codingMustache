@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the Clydesdale give the pony a glass of water?  Because he was a little horse!
+I’m on a whiskey diet. I’ve lost three days already.
 
 
 ## Daily Trivia
 
-Which kind of algorithm is Ron Rivest not famous for creating?
- 1. Hashing algorithm
- 2. Asymmetric encryption
- 3. Stream cipher
- 4. Secret sharing scheme
+The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
+ 1. Germany
+ 2. Taiwan
+ 3. United States
+ 4. China (People&#039;s Republic of)
 
 <details>
   <summary>Answer</summary>
-  Secret sharing scheme
+  Taiwan
 </details>
 
 
