@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I got fired from a florist, apparently I took too many leaves.
+What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand...
 
 
 ## Daily Trivia
 
-Which data structure does FILO apply to?
- 1. Tree
- 2. Heap
- 3. Queue
- 4. Stack
+What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
+ 1. Broadwell
+ 2. Coffee Lake
+ 3. Skylake
+ 4. Sandy Bridge
 
 <details>
   <summary>Answer</summary>
-  Stack
+  Coffee Lake
 </details>
 
 
