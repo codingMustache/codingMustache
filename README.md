@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Have you heard about the film "Constipation", you probably haven't because it's not out yet.
+Milk is also the fastest liquid on earth – its pasteurized before you even see it
 
 
 ## Daily Trivia
 
-The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
- 1. HD Graphics 7000
- 2. HD Graphics 600
- 3. HD Graphics 700 
- 4. HD Graphics 500
+Which of these is not a key value of Agile software development?
+ 1. Individuals and interactions
+ 2. Comprehensive documentation
+ 3. Customer collaboration
+ 4. Responding to change
 
 <details>
   <summary>Answer</summary>
-  HD Graphics 500
+  Comprehensive documentation
 </details>
 
 
