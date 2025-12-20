@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are pirates called pirates? Because they arrr!
+I’ve just been reading a book about anti-gravity, it’s impossible to put down!
 
 
 ## Daily Trivia
 
-Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
- 1. Four Years
- 2. Two Years
- 3. Eight Years
- 4. Year
+In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
+ 1. Public
+ 2. Private
+ 3. Static
+ 4. Final
 
 <details>
   <summary>Answer</summary>
-  Year
+  Final
 </details>
 
 
