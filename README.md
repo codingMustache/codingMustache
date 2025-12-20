@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I’ve got this disease where I can’t stop making airport puns. The doctor says it terminal.
+What do you call an Argentinian with a rubber toe? Roberto
 
 
 ## Daily Trivia
 
-Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
- 1. Apple
- 2. Atari
- 3. Commodore
- 4. Microsoft
+What did the name of the Tor Anonymity Network orignially stand for?
+ 1. The Only Router
+ 2. The Orange Router
+ 3. The Onion Router
+ 4. The Ominous Router
 
 <details>
   <summary>Answer</summary>
-  Apple
+  The Onion Router
 </details>
 
 
