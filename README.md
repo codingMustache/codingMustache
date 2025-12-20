@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How come the stadium got hot after the game? Because all of the fans left.
+What did the traffic light say to the car as it passed? "Don't look I'm changing!"
 
 
 ## Daily Trivia
 
-What major programming language does Unreal Engine 4 use?
- 1. Assembly
- 2. C#
- 3. ECMAScript
- 4. C++
+America Online (AOL) started out as which of these online service providers?
+ 1. Prodigy
+ 2. Quantum Link
+ 3. GEnie
+ 4. CompuServe
 
 <details>
   <summary>Answer</summary>
-  C++
+  Quantum Link
 </details>
 
 
