@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-This furniture store keeps emailing me, all I wanted was one night stand!
+I fear for the calendar, its days are numbered.
+
 
 
 ## Daily Trivia
 
-What does the International System of Quantities refer 1024 bytes as?
- 1. Kibibyte
- 2. Kylobyte
- 3. Kilobyte
- 4. Kelobyte
+.at is the top-level domain for what country?
+ 1. Austria
+ 2. Australia
+ 3. Argentina
+ 4. Angola
 
 <details>
   <summary>Answer</summary>
-  Kibibyte
+  Austria
 </details>
 
 
