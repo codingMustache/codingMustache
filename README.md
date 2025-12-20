@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I fear for the calendar, its days are numbered.
-
+Why is it always hot in the corner of a room? Because a corner is 90 degrees.
 
 
 ## Daily Trivia
 
-.at is the top-level domain for what country?
- 1. Austria
- 2. Australia
- 3. Argentina
- 4. Angola
+What was the name of the first Bulgarian personal computer?
+ 1. IMKO-1
+ 2. IZOT 1030
+ 3. Pravetz 8D
+ 4. Pravetz 82
 
 <details>
   <summary>Answer</summary>
-  Austria
+  IMKO-1
 </details>
 
 
