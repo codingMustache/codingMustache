@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the man run around his bed? Because he was trying to catch up on his sleep!
+What's orange and sounds like a parrot? A Carrot.
 
 
 ## Daily Trivia
 
-Which operating system was released first?
- 1. Mac OS
- 2. OS/2
- 3. Linux
- 4. Windows
+Which of the following is NOT a computer science algorithm?
+ 1. Bubble Sort
+ 2. Merge Sort
+ 3. Float Sort
+ 4. Quick Sort
 
 <details>
   <summary>Answer</summary>
-  Mac OS
+  Float Sort
 </details>
 
 
