@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-As I suspected, someone has been adding soil to my garden. The plot thickens.
+Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor.
 
 
 ## Daily Trivia
 
-What does the Prt Sc button do?
- 1. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
- 2. Captures what&#039;s on the screen and copies it to your clipboard
- 3. Nothing
- 4. Closes all windows
+When was the programming language &quot;C#&quot; released?
+ 1. 1998
+ 2. 2001
+ 3. 1999
+ 4. 2000
 
 <details>
   <summary>Answer</summary>
-  Captures what&#039;s on the screen and copies it to your clipboard
+  2000
 </details>
 
 
