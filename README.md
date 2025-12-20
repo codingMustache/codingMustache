@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the Mexican train killer? He had loco motives
+My wife is on a tropical fruit diet, the house is full of stuff. It is enough to make a mango crazy.
 
 
 ## Daily Trivia
 
-This mobile OS held the largest market share in 2012.
- 1. BlackBerry
- 2. iOS
- 3. Symbian
- 4. Android
+What is the name of Layer 7 of the OSI model?
+ 1. Session
+ 2. Application
+ 3. Network
+ 4. Present
 
 <details>
   <summary>Answer</summary>
-  iOS
+  Application
 </details>
 
 
