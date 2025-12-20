@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I’ve just been reading a book about anti-gravity, it’s impossible to put down!
+which flower is most fierce? Dandelion
 
 
 ## Daily Trivia
 
-In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
- 1. Public
- 2. Private
- 3. Static
- 4. Final
+What is the domain name for the country Tuvalu?
+ 1. .tu
+ 2. .tt
+ 3. .tl
+ 4. .tv
 
 <details>
   <summary>Answer</summary>
-  Final
+  .tv
 </details>
 
 
