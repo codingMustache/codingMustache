@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was the strawberry sad? Its parents were in a jam.
+I got fired from a florist, apparently I took too many leaves.
 
 
 ## Daily Trivia
 
-If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
- 1. Python
- 2. C++
- 3. Binary
- 4. JavaScript
+Which data structure does FILO apply to?
+ 1. Tree
+ 2. Heap
+ 3. Queue
+ 4. Stack
 
 <details>
   <summary>Answer</summary>
-  Binary
+  Stack
 </details>
 
 
