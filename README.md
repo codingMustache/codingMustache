@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the campsite that got visited by Bigfoot? It got in tents.
+What do you call a bee that lives in America? A USB.
 
 
 ## Daily Trivia
 
-.at is the top-level domain for what country?
- 1. Argentina
- 2. Austria
- 3. Angola
- 4. Australia
+What is the most preferred image format used for logos in the Wikimedia database?
+ 1. .gif
+ 2. .jpeg
+ 3. .svg
+ 4. .png
 
 <details>
   <summary>Answer</summary>
-  Austria
+  .svg
 </details>
 
 
