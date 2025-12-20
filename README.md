@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the traffic light say to the car as it passed? "Don't look I'm changing!"
+As I suspected, someone has been adding soil to my garden. The plot thickens.
 
 
 ## Daily Trivia
 
-America Online (AOL) started out as which of these online service providers?
- 1. Prodigy
- 2. Quantum Link
- 3. GEnie
- 4. CompuServe
+What does the Prt Sc button do?
+ 1. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
+ 2. Captures what&#039;s on the screen and copies it to your clipboard
+ 3. Nothing
+ 4. Closes all windows
 
 <details>
   <summary>Answer</summary>
-  Quantum Link
+  Captures what&#039;s on the screen and copies it to your clipboard
 </details>
 
 
