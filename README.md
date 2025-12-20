@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor.
+What do you call a bear with no teeth? A gummy bear!
 
 
 ## Daily Trivia
 
-When was the programming language &quot;C#&quot; released?
- 1. 1998
- 2. 2001
- 3. 1999
- 4. 2000
+Which of the following is a personal computer made by the Japanese company Fujitsu?
+ 1. MSX
+ 2. Xmillennium 
+ 3. PC-9801
+ 4. FM-7
 
 <details>
   <summary>Answer</summary>
-  2000
+  FM-7
 </details>
 
 
