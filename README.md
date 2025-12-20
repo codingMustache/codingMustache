@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a droid that takes the long way around? R2 detour.
+I gave my friend 10 puns hoping that one of them would make him laugh. Sadly, no pun in ten did.
 
 
 ## Daily Trivia
 
-What five letter word is the motto of the IBM Computer company?
- 1. Think
- 2. Pixel
- 3. Logic
- 4. Click
+Which of the following physical typologies are used with Ethernet Networks?
+ 1. Mesh
+ 2. Ring
+ 3. Star
+ 4. Hex
 
 <details>
   <summary>Answer</summary>
-  Think
+  Star
 </details>
 
 
