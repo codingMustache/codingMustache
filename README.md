@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It doesn't matter how much you push the envelope. It will still be stationary.
+What did Romans use to cut pizza before the rolling cutter was invented? Lil Caesars
 
 
 ## Daily Trivia
 
-Which SQL keyword is used to fetch data from a database?
- 1. EXEC
- 2. INDEX
- 3. VALUES
- 4. SELECT
+When did the online streaming service &quot;Mixer&quot; launch?
+ 1. 2009
+ 2. 2013
+ 3. 2016
+ 4. 2011
 
 <details>
   <summary>Answer</summary>
-  SELECT
+  2016
 </details>
 
 
