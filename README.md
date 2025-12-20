@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a bee that lives in America? A USB.
+What did the traffic light say to the car as it passed? "Don't look I'm changing!"
 
 
 ## Daily Trivia
 
-What is the most preferred image format used for logos in the Wikimedia database?
- 1. .gif
- 2. .jpeg
- 3. .svg
- 4. .png
+Who invented the &quot;Spanning Tree Protocol&quot;?
+ 1. Vint Cerf
+ 2. Radia Perlman
+ 3. Paul Vixie
+ 4. Michael Roberts
 
 <details>
   <summary>Answer</summary>
-  .svg
+  Radia Perlman
 </details>
 
 
