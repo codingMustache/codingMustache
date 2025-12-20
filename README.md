@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I gave my friend 10 puns hoping that one of them would make him laugh. Sadly, no pun in ten did.
+Why did the Clydesdale give the pony a glass of water?  Because he was a little horse!
 
 
 ## Daily Trivia
 
-Which of the following physical typologies are used with Ethernet Networks?
- 1. Mesh
- 2. Ring
- 3. Star
- 4. Hex
+Which kind of algorithm is Ron Rivest not famous for creating?
+ 1. Hashing algorithm
+ 2. Asymmetric encryption
+ 3. Stream cipher
+ 4. Secret sharing scheme
 
 <details>
   <summary>Answer</summary>
-  Star
+  Secret sharing scheme
 </details>
 
 
