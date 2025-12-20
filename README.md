@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Pie is $2.50 in Jamaica and $3.00 in The Bahamas. These are the pie-rates of the Caribbean.
+What time did the man go to the dentist? Tooth hurt-y.
 
 
 ## Daily Trivia
 
-Which of these names was an actual codename for a cancelled Microsoft project?
- 1. Saturn
- 2. Pollux
- 3. Neptune
- 4. Enceladus
+Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
+ 1. Shellscript
+ 2. Shellshock
+ 3. Corrupted Blood
+ 4. Heartbleed
 
 <details>
   <summary>Answer</summary>
-  Neptune
+  Heartbleed
 </details>
 
 
