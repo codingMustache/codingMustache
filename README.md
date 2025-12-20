@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call cheese by itself? Provolone.
+To be Frank, I'd have to change my name.
 
 
 ## Daily Trivia
 
-The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
- 1. HD Graphics 600
- 2. HD Graphics 700 
- 3. HD Graphics 7000
- 4. HD Graphics 500
+HTML is what type of language?
+ 1. Markup Language
+ 2. Macro Language
+ 3. Scripting Language
+ 4. Programming Language
 
 <details>
   <summary>Answer</summary>
-  HD Graphics 500
+  Markup Language
 </details>
 
 
