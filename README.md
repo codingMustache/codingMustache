@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Got a new suit recently made entirely of living plants. I wasn’t sure at first, but it’s grown on me
+What do you call cheese by itself? Provolone.
 
 
 ## Daily Trivia
 
-What is known as &quot;the brain&quot; of the Computer?
- 1. Graphics Processing Unit
- 2. Motherboard
- 3. Keyboard
- 4. Central Processing Unit
+The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
+ 1. HD Graphics 600
+ 2. HD Graphics 700 
+ 3. HD Graphics 7000
+ 4. HD Graphics 500
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  HD Graphics 500
 </details>
 
 
