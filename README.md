@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What time did the man go to the dentist? Tooth hurt-y.
+How did the hipster burn the roof of his mouth? He ate the pizza before it was cool.
 
 
 ## Daily Trivia
 
-Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
- 1. Shellscript
- 2. Shellshock
- 3. Corrupted Blood
- 4. Heartbleed
+What five letter word is the motto of the IBM Computer company?
+ 1. Click
+ 2. Think
+ 3. Logic
+ 4. Pixel
 
 <details>
   <summary>Answer</summary>
-  Heartbleed
+  Think
 </details>
 
 
