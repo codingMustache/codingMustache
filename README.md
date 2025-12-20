@@ -4,22 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do pumpkins sit on people’s porches?
-
-They have no hands to knock on the door.
+Did you know crocodiles could grow up to 15 feet? But most just have 4.
 
 
 ## Daily Trivia
 
-The teapot often seen in many 3D modeling applications is called what?
- 1. Utah Teapot
- 2. Pixar Teapot
- 3. 3D Teapot
- 4. Tennessee Teapot
+.rs is the top-level domain for what country?
+ 1. Romania
+ 2. Serbia
+ 3. Russia
+ 4. Rwanda
 
 <details>
   <summary>Answer</summary>
-  Utah Teapot
+  Serbia
 </details>
 
 
