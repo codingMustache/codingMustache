@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A dad washes his car with his son. But after a while, the son says, "why can't you just use a sponge?"
+Why did the chicken get a penalty? For fowl play.
 
 
 ## Daily Trivia
 
-What is the code name for the mobile operating system Android 7.0?
- 1. Marshmallow
- 2. Jelly Bean
- 3. Nougat
- 4. Ice Cream Sandwich
+Which RAID array type is associated with data mirroring?
+ 1. RAID 1
+ 2. RAID 0
+ 3. RAID 10
+ 4. RAID 5
 
 <details>
   <summary>Answer</summary>
-  Nougat
+  RAID 1
 </details>
 
 
