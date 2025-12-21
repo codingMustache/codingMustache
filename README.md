@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was the picture sent to prison? It was framed.
+What did the Red light say to the Green light? Don't look at me I'm changing!
 
 
 ## Daily Trivia
 
-When did the online streaming service &quot;Mixer&quot; launch?
- 1. 2009
- 2. 2016
- 3. 2013
- 4. 2011
+Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
+ 1. Cherry MX Blue
+ 2. Cherry MX Brown
+ 3. Cherry MX Red
+ 4. Cherry MX Black
 
 <details>
   <summary>Answer</summary>
-  2016
+  Cherry MX Blue
 </details>
 
 
