@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What animal is always at a game of cricket? A bat.
+What did the left eye say to the right eye? Between us, something smells!
 
 
 ## Daily Trivia
 
-What does CPU stand for?
- 1. Central Process Unit
- 2. Computer Personal Unit
- 3. Central Processor Unit
- 4. Central Processing Unit
+Generally, which component of a computer draws the most power?
+ 1. Processor
+ 2. Power Supply
+ 3. Video Card
+ 4. Hard Drive
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  Video Card
 </details>
 
 
