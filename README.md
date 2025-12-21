@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the submarine industry? It really took a dive...
+Have you ever heard of a music group called Cellophane? They mostly wrap.
 
 
 ## Daily Trivia
 
-On Twitter, what was the original character limit for a Tweet?
- 1. 100
- 2. 160
- 3. 120
- 4. 140
+In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
+ 1. relative
+ 2. center
+ 3. absolute
+ 4. static
 
 <details>
   <summary>Answer</summary>
-  140
+  center
 </details>
 
 
