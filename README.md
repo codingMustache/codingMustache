@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the Red light say to the Green light? Don't look at me I'm changing!
+I just read a book about Stockholm syndrome. It was pretty bad at first, but by the end I liked it.
 
 
 ## Daily Trivia
 
-Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
- 1. Cherry MX Blue
- 2. Cherry MX Brown
- 3. Cherry MX Red
- 4. Cherry MX Black
+Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
+ 1. Nautilus
+ 2. Skipjack
+ 3. Clipper Chip
+ 4. Enigma Machine
 
 <details>
   <summary>Answer</summary>
-  Cherry MX Blue
+  Clipper Chip
 </details>
 
 
