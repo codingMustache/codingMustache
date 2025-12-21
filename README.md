@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the left eye say to the right eye? Between us, something smells!
+Do I enjoy making courthouse puns? Guilty
 
 
 ## Daily Trivia
 
-Generally, which component of a computer draws the most power?
- 1. Processor
- 2. Power Supply
- 3. Video Card
- 4. Hard Drive
+Which computer hardware device provides an interface for all other connected devices to communicate?
+ 1. Hard Disk Drive
+ 2. Random Access Memory
+ 3. Central Processing Unit
+ 4. Motherboard
 
 <details>
   <summary>Answer</summary>
-  Video Card
+  Motherboard
 </details>
 
 
