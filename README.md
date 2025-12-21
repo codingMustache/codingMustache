@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why couldn't the lifeguard save the hippie? He was too far out, man.
+Did you hear about the kidnapping at school? It's ok, he woke up.
 
 
 ## Daily Trivia
 
-What vulnerability ranked #1 on the OWASP Top 10 in 2013?
- 1. Insecure Direct Object References
- 2. Injection 
- 3. Broken Authentication
- 4. Cross-Site Scripting
+How many bytes are in a single Kibibyte?
+ 1. 1024
+ 2. 1240
+ 3. 2400
+ 4. 1000
 
 <details>
   <summary>Answer</summary>
-  Injection 
+  1024
 </details>
 
 
