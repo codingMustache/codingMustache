@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the difference between a hippo and a zippo? One is really heavy, the other is a little lighter.
+The other day, my wife asked me to pass her lipstick but I accidentally passed her a glue stick. She still isn't talking to me.
 
 
 ## Daily Trivia
 
-Which programming language shares its name with an island in Indonesia?
- 1. Java
- 2. Jakarta
- 3. C
- 4. Python
+In networking, what does OSPF stand for?
+ 1. Order Sense Ping Find
+ 2. Open Signal Path Finder
+ 3. Open Shortest Path First
+ 4. Order State Part First
 
 <details>
   <summary>Answer</summary>
-  Java
+  Open Shortest Path First
 </details>
 
 
