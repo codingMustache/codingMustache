@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I just read a book about Stockholm syndrome. It was pretty bad at first, but by the end I liked it.
+Why is Peter Pan always flying? Because he Neverlands.
 
 
 ## Daily Trivia
 
-Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
- 1. Nautilus
- 2. Skipjack
- 3. Clipper Chip
- 4. Enigma Machine
+Which computer language would you associate Django framework with?
+ 1. C#
+ 2. Java
+ 3. Python
+ 4. C++
 
 <details>
   <summary>Answer</summary>
-  Clipper Chip
+  Python
 </details>
 
 
