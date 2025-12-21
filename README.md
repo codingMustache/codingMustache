@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Have you ever heard of a music group called Cellophane? They mostly wrap.
+I saw an ad in a shop window, "Television for sale, $1, volume stuck on full", I thought, "I can't turn that down".
 
 
 ## Daily Trivia
 
-In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
- 1. relative
- 2. center
- 3. absolute
- 4. static
+When was the programming language &quot;C#&quot; released?
+ 1. 2000
+ 2. 1998
+ 3. 2001
+ 4. 1999
 
 <details>
   <summary>Answer</summary>
-  center
+  2000
 </details>
 
 
