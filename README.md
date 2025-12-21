@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why can't your nose be 12 inches long? Because then it'd be a foot!
+A dad washes his car with his son. But after a while, the son says, "why can't you just use a sponge?"
 
 
 ## Daily Trivia
 
-On Twitter, what was the original character limit for a Tweet?
- 1. 140
- 2. 100
- 3. 120
- 4. 160
+What is the code name for the mobile operating system Android 7.0?
+ 1. Marshmallow
+ 2. Jelly Bean
+ 3. Nougat
+ 4. Ice Cream Sandwich
 
 <details>
   <summary>Answer</summary>
-  140
+  Nougat
 </details>
 
 
