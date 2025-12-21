@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the Clydesdale give the pony a glass of water?  Because he was a little horse!
+Why can't your nose be 12 inches long? Because then it'd be a foot!
 
 
 ## Daily Trivia
 
-What language does Node.js use?
- 1. Joomla Source Code
- 2. Java Source
- 3. JavaScript
- 4. Java
+On Twitter, what was the original character limit for a Tweet?
+ 1. 140
+ 2. 100
+ 3. 120
+ 4. 160
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  140
 </details>
 
 
