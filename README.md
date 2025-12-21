@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A horse walks into a bar. The bar tender says "Hey." The horse says "Sure."
+What is a tornado's favorite game to play? Twister!
 
 
 ## Daily Trivia
 
-Which programming language was developed by Sun Microsystems in 1995?
- 1. Java
- 2. C++
- 3. Python
- 4. Solaris OS
+When was the programming language &quot;C#&quot; released?
+ 1. 2001
+ 2. 1999
+ 3. 2000
+ 4. 1998
 
 <details>
   <summary>Answer</summary>
-  Java
+  2000
 </details>
 
 
