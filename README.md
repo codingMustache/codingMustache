@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I have the heart of a lion... and a lifetime ban from the San Diego Zoo.
+A horse walks into a bar. The bar tender says "Hey." The horse says "Sure."
 
 
 ## Daily Trivia
 
-The C programming language was created by this American computer scientist. 
- 1. Dennis Ritchie
- 2. al-Khwārizmī
- 3. Tim Berners Lee
- 4. Willis Ware
+Which programming language was developed by Sun Microsystems in 1995?
+ 1. Java
+ 2. C++
+ 3. Python
+ 4. Solaris OS
 
 <details>
   <summary>Answer</summary>
-  Dennis Ritchie
+  Java
 </details>
 
 
