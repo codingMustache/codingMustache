@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do bees do after they are married? They go on a honeymoon.
+I have the heart of a lion... and a lifetime ban from the San Diego Zoo.
 
 
 ## Daily Trivia
 
-What programming language was GitHub written in?
- 1. Python
- 2. JavaScript
- 3. Ruby
- 4. Lua
+The C programming language was created by this American computer scientist. 
+ 1. Dennis Ritchie
+ 2. al-Khwārizmī
+ 3. Tim Berners Lee
+ 4. Willis Ware
 
 <details>
   <summary>Answer</summary>
-  Ruby
+  Dennis Ritchie
 </details>
 
 
