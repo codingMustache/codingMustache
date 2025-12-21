@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Want to hear my pizza joke? Never mind, it's too cheesy.
+What did Yoda say when he saw himself in 4K? "HDMI"
 
 
 ## Daily Trivia
 
-What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
- 1. ADPCM Sampler
- 2. PCM Sampler
- 3. Programmable Sound Generator (PSG)
- 4. FM Synthesizer
+Approximately how many Apple I personal computers were created?
+ 1. 1000
+ 2. 500
+ 3. 200
+ 4. 100
 
 <details>
   <summary>Answer</summary>
-  ADPCM Sampler
+  200
 </details>
 
 
