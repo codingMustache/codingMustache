@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later.
+Did you hear about the submarine industry? It really took a dive...
 
 
 ## Daily Trivia
 
-What does the computer software acronym JVM stand for?
- 1. Java Vendor Machine
- 2. Java Visual Machine
- 3. Just Virtual Machine
- 4. Java Virtual Machine
+On Twitter, what was the original character limit for a Tweet?
+ 1. 100
+ 2. 160
+ 3. 120
+ 4. 140
 
 <details>
   <summary>Answer</summary>
-  Java Virtual Machine
+  140
 </details>
 
 
