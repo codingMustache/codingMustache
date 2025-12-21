@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why is Peter Pan always flying? Because he Neverlands.
+There's not really any training for garbagemen. They just pick things up as they go.
 
 
 ## Daily Trivia
 
-Which computer language would you associate Django framework with?
- 1. C#
- 2. Java
- 3. Python
- 4. C++
+Generally, which component of a computer draws the most power?
+ 1. Hard Drive
+ 2. Processor
+ 3. Power Supply
+ 4. Video Card
 
 <details>
   <summary>Answer</summary>
-  Python
+  Video Card
 </details>
 
 
