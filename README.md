@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you get if you put a duck in a cement mixer? Quacks in the pavement.
+I used to work for a soft drink can crusher. It was soda pressing.
 
 
 ## Daily Trivia
 
-Which of the following computer components can be built using only NAND gates?
- 1. ALU
- 2. Register
- 3. RAM
- 4. CPU
+Who invented the &quot;Spanning Tree Protocol&quot;?
+ 1. Paul Vixie
+ 2. Vint Cerf
+ 3. Radia Perlman
+ 4. Michael Roberts
 
 <details>
   <summary>Answer</summary>
-  ALU
+  Radia Perlman
 </details>
 
 
