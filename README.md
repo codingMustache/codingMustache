@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-“Hold on, I have something in my shoe”  “I’m pretty sure it’s a foot”
+I fear for the calendar, its days are numbered.
+
 
 
 ## Daily Trivia
 
-Which of the following is a personal computer made by the Japanese company Fujitsu?
- 1. PC-9801
- 2. Xmillennium 
- 3. MSX
- 4. FM-7
+What port does HTTP run on?
+ 1. 23
+ 2. 443
+ 3. 80
+ 4. 53
 
 <details>
   <summary>Answer</summary>
-  FM-7
+  80
 </details>
 
 
