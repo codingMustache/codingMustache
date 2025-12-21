@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of dog lives in a particle accelerator? A Fermilabrador Retriever.
+Why was the picture sent to prison? It was framed.
 
 
 ## Daily Trivia
 
-On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
- 1. Exclamation Mark
- 2. Asterisk
- 3. Dollar Sign
- 4. Percent Sign
+When did the online streaming service &quot;Mixer&quot; launch?
+ 1. 2009
+ 2. 2016
+ 3. 2013
+ 4. 2011
 
 <details>
   <summary>Answer</summary>
-  Exclamation Mark
+  2016
 </details>
 
 
