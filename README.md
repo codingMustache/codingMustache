@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What does a clock do when it's hungry? It goes back four seconds!
+Where does batman go to the bathroom? The batroom.
 
 
 ## Daily Trivia
 
-What does AD stand for in relation to Windows Operating Systems? 
- 1. Active Directory
- 2. Active Department
- 3. Automated Database
- 4. Alternative Drive
+What does &quot;LCD&quot; stand for?
+ 1. Language Control Design
+ 2. Liquid Crystal Display
+ 3. Last Common Difference
+ 4. Long Continuous Design
 
 <details>
   <summary>Answer</summary>
-  Active Directory
+  Liquid Crystal Display
 </details>
 
 
