@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to work for a soft drink can crusher. It was soda pressing.
+Bought a new jacket suit the other day and it burst into flames. Well, it was a blazer
 
 
 ## Daily Trivia
 
-Who invented the &quot;Spanning Tree Protocol&quot;?
- 1. Paul Vixie
- 2. Vint Cerf
- 3. Radia Perlman
- 4. Michael Roberts
+.at is the top-level domain for what country?
+ 1. Angola
+ 2. Australia
+ 3. Argentina
+ 4. Austria
 
 <details>
   <summary>Answer</summary>
-  Radia Perlman
+  Austria
 </details>
 
 
