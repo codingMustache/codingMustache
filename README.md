@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the Buffalo say to his little boy when he dropped him off at school? Bison.
+Why couldn't the lifeguard save the hippie? He was too far out, man.
 
 
 ## Daily Trivia
 
-How many bits make up the significand portion of a single precision floating point number?
- 1. 23
- 2. 8
- 3. 53
- 4. 15
+What vulnerability ranked #1 on the OWASP Top 10 in 2013?
+ 1. Insecure Direct Object References
+ 2. Injection 
+ 3. Broken Authentication
+ 4. Cross-Site Scripting
 
 <details>
   <summary>Answer</summary>
-  23
+  Injection 
 </details>
 
 
