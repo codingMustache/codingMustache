@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Whoever invented the knock-knock joke should get a no bell prize.
+What does a clock do when it's hungry? It goes back four seconds!
 
 
 ## Daily Trivia
 
-How many values can a single byte represent?
- 1. 1024
- 2. 256
- 3. 1
- 4. 8
+What does AD stand for in relation to Windows Operating Systems? 
+ 1. Active Directory
+ 2. Active Department
+ 3. Automated Database
+ 4. Alternative Drive
 
 <details>
   <summary>Answer</summary>
-  256
+  Active Directory
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **2 days** since this server shutdown
+Its been **3 days** since this server shutdown
