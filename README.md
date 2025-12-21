@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The other day, my wife asked me to pass her lipstick but I accidentally passed her a glue stick. She still isn't talking to me.
+Why did the banana go to the doctor? He was not "peeling" well.
 
 
 ## Daily Trivia
 
-In networking, what does OSPF stand for?
- 1. Order Sense Ping Find
- 2. Open Signal Path Finder
- 3. Open Shortest Path First
- 4. Order State Part First
+The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
+ 1. Taiwan
+ 2. China (People&#039;s Republic of)
+ 3. Germany
+ 4. United States
 
 <details>
   <summary>Answer</summary>
-  Open Shortest Path First
+  Taiwan
 </details>
 
 
