@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you fix a broken pizza? With tomato paste.
+“Hold on, I have something in my shoe”  “I’m pretty sure it’s a foot”
 
 
 ## Daily Trivia
 
-The teapot often seen in many 3D modeling applications is called what?
- 1. Utah Teapot
- 2. Tennessee Teapot
- 3. 3D Teapot
- 4. Pixar Teapot
+Which of the following is a personal computer made by the Japanese company Fujitsu?
+ 1. PC-9801
+ 2. Xmillennium 
+ 3. MSX
+ 4. FM-7
 
 <details>
   <summary>Answer</summary>
-  Utah Teapot
+  FM-7
 </details>
 
 
