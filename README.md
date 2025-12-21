@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Bought a new jacket suit the other day and it burst into flames. Well, it was a blazer
+I used to work for a soft drink can crusher. It was soda pressing.
 
 
 ## Daily Trivia
 
-.at is the top-level domain for what country?
- 1. Angola
- 2. Australia
- 3. Argentina
- 4. Austria
+What is the name of the process that sends one qubit of information using two bits of classical information?
+ 1. Quantum Teleportation
+ 2. Super Dense Coding
+ 3. Quantum Entanglement
+ 4. Quantum Programming
 
 <details>
   <summary>Answer</summary>
-  Austria
+  Quantum Teleportation
 </details>
 
 
