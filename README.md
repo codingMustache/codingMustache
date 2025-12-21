@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the kidnapping at school? It's ok, he woke up.
+What do you call a guy lying on your doorstep? Matt.
 
 
 ## Daily Trivia
 
-How many bytes are in a single Kibibyte?
- 1. 1024
- 2. 1240
- 3. 2400
- 4. 1000
+Which of these is not a key value of Agile software development?
+ 1. Customer collaboration
+ 2. Individuals and interactions
+ 3. Comprehensive documentation
+ 4. Responding to change
 
 <details>
   <summary>Answer</summary>
-  1024
+  Comprehensive documentation
 </details>
 
 
