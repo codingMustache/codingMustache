@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why is it so windy inside an arena? All those fans.
+What's the difference between a hippo and a zippo? One is really heavy, the other is a little lighter.
 
 
 ## Daily Trivia
 
-Which SQL keyword is used to fetch data from a database?
- 1. SELECT
- 2. EXEC
- 3. VALUES
- 4. INDEX
+Which programming language shares its name with an island in Indonesia?
+ 1. Java
+ 2. Jakarta
+ 3. C
+ 4. Python
 
 <details>
   <summary>Answer</summary>
-  SELECT
+  Java
 </details>
 
 
