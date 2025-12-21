@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My sister bet me $15 that I couldn't build a car out of spaghetti. You should have seen the look on her face as I drove pasta.
+What do bees do after they are married? They go on a honeymoon.
 
 
 ## Daily Trivia
 
-What is the most preferred image format used for logos in the Wikimedia database?
- 1. .gif
- 2. .png
- 3. .jpeg
- 4. .svg
+What programming language was GitHub written in?
+ 1. Python
+ 2. JavaScript
+ 3. Ruby
+ 4. Lua
 
 <details>
   <summary>Answer</summary>
-  .svg
+  Ruby
 </details>
 
 
