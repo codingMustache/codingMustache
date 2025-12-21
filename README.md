@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I’m reading a book on the history of glue – can’t put it down.
+People who don't eat gluten are really going against the grain.
 
 
 ## Daily Trivia
 
-How many bytes are in a single Kibibyte?
- 1. 1000
- 2. 2400
- 3. 1024
- 4. 1240
+What is the name of Layer 7 of the OSI model?
+ 1. Present
+ 2. Session
+ 3. Network
+ 4. Application
 
 <details>
   <summary>Answer</summary>
-  1024
+  Application
 </details>
 
 
