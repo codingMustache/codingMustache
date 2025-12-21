@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to be addicted to soap, but I'm clean now.
+My sister bet me $15 that I couldn't build a car out of spaghetti. You should have seen the look on her face as I drove pasta.
 
 
 ## Daily Trivia
 
-What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
- 1. Broadwell
- 2. Coffee Lake
- 3. Sandy Bridge
- 4. Skylake
+What is the most preferred image format used for logos in the Wikimedia database?
+ 1. .gif
+ 2. .png
+ 3. .jpeg
+ 4. .svg
 
 <details>
   <summary>Answer</summary>
-  Coffee Lake
+  .svg
 </details>
 
 
