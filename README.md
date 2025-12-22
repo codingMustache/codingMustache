@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-“Hold on, I have something in my shoe”  “I’m pretty sure it’s a foot”
+I'll tell you what often gets over looked... garden fences.
 
 
 ## Daily Trivia
 
-Which of these is not a key value of Agile software development?
- 1. Individuals and interactions
- 2. Customer collaboration
- 3. Comprehensive documentation
- 4. Responding to change
+Which of these people was NOT a founder of Apple Inc?
+ 1. Jonathan Ive
+ 2. Ronald Wayne
+ 3. Steve Wozniak
+ 4. Steve Jobs
 
 <details>
   <summary>Answer</summary>
-  Comprehensive documentation
+  Jonathan Ive
 </details>
 
 
