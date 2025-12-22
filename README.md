@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I'll tell you what often gets over looked... garden fences.
+A boy dug three holes in the yard. When his mother saw, she exclaimed: "well, well, well"
 
 
 ## Daily Trivia
 
-Which of these people was NOT a founder of Apple Inc?
- 1. Jonathan Ive
- 2. Ronald Wayne
- 3. Steve Wozniak
- 4. Steve Jobs
+The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
+ 1. Acorn Computers
+ 2. Sinclair Research
+ 3. Commodore Business Machines
+ 4. Amstrad PLC
 
 <details>
   <summary>Answer</summary>
-  Jonathan Ive
+  Acorn Computers
 </details>
 
 
