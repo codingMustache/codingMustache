@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Can a kangaroo jump higher than the Empire State Building? Of course. The Empire State Building can't jump.
+My sister bet me $15 that I couldn't build a car out of spaghetti. You should have seen the look on her face as I drove pasta.
 
 
 ## Daily Trivia
 
-What was the first commerically available computer processor?
- 1. Intel 486SX
- 2. Intel 4004
- 3. TMS 1000
- 4. AMD AM386
+What amount of bits commonly equals one byte?
+ 1. 1
+ 2. 64
+ 3. 2
+ 4. 8
 
 <details>
   <summary>Answer</summary>
-  Intel 4004
+  8
 </details>
 
 
