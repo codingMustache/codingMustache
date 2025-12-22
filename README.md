@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The first time I got a universal remote control I thought to myself, "This changes everything"
+What do you call a sheep with no legs? A cloud.
 
 
 ## Daily Trivia
 
-Approximately how many Apple I personal computers were created?
- 1. 500
- 2. 100
- 3. 200
- 4. 1000
+What programming language was GitHub written in?
+ 1. Ruby
+ 2. JavaScript
+ 3. Python
+ 4. Lua
 
 <details>
   <summary>Answer</summary>
-  200
+  Ruby
 </details>
 
 
