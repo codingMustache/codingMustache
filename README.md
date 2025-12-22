@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Past, present, and future walked into a bar.... It was tense.
+I just broke my guitar. It's okay, I won't fret
 
 
 ## Daily Trivia
 
-In web design, what does CSS stand for?
- 1. Counter Strike: Source
- 2. Cascading Style Sheet
- 3. Computer Style Sheet
- 4. Corrective Style Sheet
+What was the first commerically available computer processor?
+ 1. Intel 4004
+ 2. Intel 486SX
+ 3. AMD AM386
+ 4. TMS 1000
 
 <details>
   <summary>Answer</summary>
-  Cascading Style Sheet
+  Intel 4004
 </details>
 
 
