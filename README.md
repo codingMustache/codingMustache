@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Hostess: Do you have a preference of where you sit?
-Dad: Down.
+Why do mathematicians hate the U.S.? Because it's indivisible.
 
 
 ## Daily Trivia
 
-What major programming language does Unreal Engine 4 use?
- 1. C++
- 2. Assembly
- 3. C#
- 4. ECMAScript
+What does the term MIME stand for, in regards to computing?
+ 1. Mail Interleave Method Exchange
+ 2. Multipurpose Interleave Mail Exchange
+ 3. Mail Internet Mail Exchange
+ 4. Multipurpose Internet Mail Extensions
 
 <details>
   <summary>Answer</summary>
-  C++
+  Multipurpose Internet Mail Extensions
 </details>
 
 
