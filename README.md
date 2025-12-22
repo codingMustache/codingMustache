@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the difference between a rooster and a crow? A rooster can crow but a crow cannot rooster.
+I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts.
 
 
 ## Daily Trivia
 
-What is the name of the default theme that is installed with Windows XP?
- 1. Neptune
- 2. Luna
- 3. Whistler
- 4. Bliss
+Australia, Japan, and Southeast Asia are in which ITU Region?
+ 1. Region 4
+ 2. Region 2
+ 3. Region 3
+ 4. Region 1
 
 <details>
   <summary>Answer</summary>
-  Luna
+  Region 3
 </details>
 
 
