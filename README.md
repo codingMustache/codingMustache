@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Do I enjoy making courthouse puns? Guilty
+What's the difference between a seal and a sea lion?
+An ion! 
 
 
 ## Daily Trivia
 
-Which computer hardware device provides an interface for all other connected devices to communicate?
- 1. Hard Disk Drive
- 2. Random Access Memory
- 3. Central Processing Unit
- 4. Motherboard
+In web design, what does CSS stand for?
+ 1. Corrective Style Sheet
+ 2. Counter Strike: Source
+ 3. Cascading Style Sheet
+ 4. Computer Style Sheet
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  Cascading Style Sheet
 </details>
 
 
