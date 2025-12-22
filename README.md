@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the grape do when he got stepped on? He let out a little wine.
+What do you call a beehive without the b's? An eehive.
 
 
 ## Daily Trivia
 
-In networking, what does OSPF stand for?
- 1. Order State Part First
- 2. Order Sense Ping Find
- 3. Open Signal Path Finder
- 4. Open Shortest Path First
+Nvidia&#039;s headquarters are based in which Silicon Valley city?
+ 1. Mountain View
+ 2. Palo Alto
+ 3. Cupertino
+ 4. Santa Clara
 
 <details>
   <summary>Answer</summary>
-  Open Shortest Path First
+  Santa Clara
 </details>
 
 
