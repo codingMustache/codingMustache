@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a duck that gets all A's? A wise quacker.
+What's the difference between a rooster and a crow? A rooster can crow but a crow cannot rooster.
 
 
 ## Daily Trivia
 
-The C programming language was created by this American computer scientist. 
- 1. Tim Berners Lee
- 2. al-Khwārizmī
- 3. Willis Ware
- 4. Dennis Ritchie
+What is the name of the default theme that is installed with Windows XP?
+ 1. Neptune
+ 2. Luna
+ 3. Whistler
+ 4. Bliss
 
 <details>
   <summary>Answer</summary>
-  Dennis Ritchie
+  Luna
 </details>
 
 
