@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I made a playlist for hiking. It has music from Peanuts, The Cranberries, and Eminem. I call it my Trail Mix.
+The first time I got a universal remote control I thought to myself, "This changes everything"
 
 
 ## Daily Trivia
 
-Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
- 1. Cheetah
- 2. Leopard
- 3. Tiger
- 4. Puma
+Approximately how many Apple I personal computers were created?
+ 1. 500
+ 2. 100
+ 3. 200
+ 4. 1000
 
 <details>
   <summary>Answer</summary>
-  Cheetah
+  200
 </details>
 
 
