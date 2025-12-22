@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call an old snowman? Water.
+I’ve got this disease where I can’t stop making airport puns. The doctor says it terminal.
 
 
 ## Daily Trivia
 
-What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
- 1. Sandy Bridge
- 2. Skylake
- 3. Broadwell
- 4. Coffee Lake
+Which of the following languages is used as a scripting language in the Unity 3D game engine?
+ 1. Java
+ 2. C#
+ 3. C++
+ 4. Objective-C
 
 <details>
   <summary>Answer</summary>
-  Coffee Lake
+  C#
 </details>
 
 
