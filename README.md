@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-When is a door not a door? When it's ajar.
+Have you heard about the film "Constipation", you probably haven't because it's not out yet.
 
 
 ## Daily Trivia
 
-The teapot often seen in many 3D modeling applications is called what?
- 1. Utah Teapot
- 2. Tennessee Teapot
- 3. 3D Teapot
- 4. Pixar Teapot
+Australia, Japan, and Southeast Asia are in which ITU Region?
+ 1. Region 2
+ 2. Region 3
+ 3. Region 4
+ 4. Region 1
 
 <details>
   <summary>Answer</summary>
-  Utah Teapot
+  Region 3
 </details>
 
 
