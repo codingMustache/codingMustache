@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-which flower is most fierce? Dandelion
+Can a kangaroo jump higher than the Empire State Building? Of course. The Empire State Building can't jump.
 
 
 ## Daily Trivia
 
-When was the programming language &quot;C#&quot; released?
- 1. 2001
- 2. 1999
- 3. 1998
- 4. 2000
+What was the first commerically available computer processor?
+ 1. Intel 486SX
+ 2. Intel 4004
+ 3. TMS 1000
+ 4. AMD AM386
 
 <details>
   <summary>Answer</summary>
-  2000
+  Intel 4004
 </details>
 
 
