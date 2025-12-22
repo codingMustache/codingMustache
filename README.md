@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Have you heard about the film "Constipation", you probably haven't because it's not out yet.
+Why is it always hot in the corner of a room? Because a corner is 90 degrees.
 
 
 ## Daily Trivia
 
-Australia, Japan, and Southeast Asia are in which ITU Region?
- 1. Region 2
- 2. Region 3
- 3. Region 4
- 4. Region 1
+What was the name of the security vulnerability found in Bash in 2014?
+ 1. Stagefright
+ 2. Heartbleed
+ 3. Shellshock
+ 4. Bashbug
 
 <details>
   <summary>Answer</summary>
-  Region 3
+  Shellshock
 </details>
 
 
