@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do mathematicians hate the U.S.? Because it's indivisible.
+What do you call an old snowman? Water.
 
 
 ## Daily Trivia
 
-What does the term MIME stand for, in regards to computing?
- 1. Mail Interleave Method Exchange
- 2. Multipurpose Interleave Mail Exchange
- 3. Mail Internet Mail Exchange
- 4. Multipurpose Internet Mail Extensions
+What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
+ 1. Sandy Bridge
+ 2. Skylake
+ 3. Broadwell
+ 4. Coffee Lake
 
 <details>
   <summary>Answer</summary>
-  Multipurpose Internet Mail Extensions
+  Coffee Lake
 </details>
 
 
