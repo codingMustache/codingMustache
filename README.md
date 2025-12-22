@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I just broke my guitar. It's okay, I won't fret
+It was so cold yesterday my computer froze. My own fault though, I left too many windows open.
 
 
 ## Daily Trivia
 
-What was the first commerically available computer processor?
- 1. Intel 4004
- 2. Intel 486SX
- 3. AMD AM386
- 4. TMS 1000
+What does the acronym CDN stand for in terms of networking?
+ 1. Content Delivery Network
+ 2. Content Distribution Network
+ 3. Computational Data Network
+ 4. Compressed Data Network
 
 <details>
   <summary>Answer</summary>
-  Intel 4004
+  Content Delivery Network
 </details>
 
 
