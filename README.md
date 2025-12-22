@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the difference between a poorly dressed man on a tricycle and a well dressed man on a bicycle? Attire.
+Why did the cowboy have a weiner dog? Somebody told him to get a long little doggy.
 
 
 ## Daily Trivia
 
-How long is an IPv6 address?
- 1. 64 bits
- 2. 128 bytes
- 3. 32 bits
- 4. 128 bits
+What does the term MIME stand for, in regards to computing?
+ 1. Multipurpose Interleave Mail Exchange
+ 2. Multipurpose Internet Mail Extensions
+ 3. Mail Interleave Method Exchange
+ 4. Mail Internet Mail Exchange
 
 <details>
   <summary>Answer</summary>
-  128 bits
+  Multipurpose Internet Mail Extensions
 </details>
 
 
