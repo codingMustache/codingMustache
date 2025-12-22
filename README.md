@@ -4,20 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My new thesaurus is terrible. In fact, it's so bad, I'd say it's terrible.
+What did the hat say to the scarf?
+You can hang around. I'll just go on ahead.
+
 
 
 ## Daily Trivia
 
-What does the term MIME stand for, in regards to computing?
- 1. Mail Internet Mail Exchange
- 2. Mail Interleave Method Exchange
- 3. Multipurpose Interleave Mail Exchange
- 4. Multipurpose Internet Mail Extensions
+Lenovo acquired IBM&#039;s personal computer division, including the ThinkPad line of laptops and tablets, in what year?
+ 1. 2005
+ 2. 2008
+ 3. 2002
+ 4. 1999
 
 <details>
   <summary>Answer</summary>
-  Multipurpose Internet Mail Extensions
+  2005
 </details>
 
 
