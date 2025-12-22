@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the late tomato say to the early tomato? I’ll ketch up
+Child: Dad, make me a sandwich. Dad: Poof! You're a sandwich.
 
 
 ## Daily Trivia
 
-Approximately how many Apple I personal computers were created?
- 1. 100
- 2. 500
- 3. 1000
- 4. 200
+What does LTS stand for in the software market?
+ 1. Long Taco Service
+ 2. Long Term Support
+ 3. Ludicrous Transfer Speed
+ 4. Ludicrous Turbo Speed
 
 <details>
   <summary>Answer</summary>
-  200
+  Long Term Support
 </details>
 
 
