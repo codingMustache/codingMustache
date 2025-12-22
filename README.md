@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why should you never trust a pig with a secret? Because it's bound to squeal.
+A horse walks into a bar. The bar tender says "Hey." The horse says "Sure."
 
 
 ## Daily Trivia
 
-Which one of these is not an official development name for a Ubuntu release?
- 1. Wily Werewolf
- 2. Utopic Unicorn
- 3. Trusty Tahr
- 4. Mystic Mansion
+In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
+ 1. Red
+ 2. Blue
+ 3. Yellow
+ 4. Green
 
 <details>
   <summary>Answer</summary>
-  Mystic Mansion
+  Green
 </details>
 
 
