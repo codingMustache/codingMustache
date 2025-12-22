@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I’ve got this disease where I can’t stop making airport puns. The doctor says it terminal.
+What do you call a cow on a trampoline? A milk shake!
 
 
 ## Daily Trivia
 
-Which one of these is not an official development name for a Ubuntu release?
- 1. Wily Werewolf
- 2. Utopic Unicorn
- 3. Trusty Tahr
- 4. Mystic Mansion
+What was the first commerically available computer processor?
+ 1. Intel 486SX
+ 2. TMS 1000
+ 3. AMD AM386
+ 4. Intel 4004
 
 <details>
   <summary>Answer</summary>
-  Mystic Mansion
+  Intel 4004
 </details>
 
 
