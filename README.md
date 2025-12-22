@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many tickles does it take to tickle an octopus? Ten-tickles!
+What do you call your friend who stands in a hole? Phil.
 
 
 ## Daily Trivia
 
-In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
- 1. &lt;scroll&gt;&lt;/scroll&gt;
- 2. &lt;slide&gt;&lt;/slide&gt;
- 3. &lt;move&gt;&lt;/move&gt;
- 4. &lt;marquee&gt;&lt;/marquee&gt;
+On Twitter, what was the original character limit for a Tweet?
+ 1. 100
+ 2. 120
+ 3. 160
+ 4. 140
 
 <details>
   <summary>Answer</summary>
-  &lt;marquee&gt;&lt;/marquee&gt;
+  140
 </details>
 
 
