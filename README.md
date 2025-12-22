@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do prisoners use to call each other? Cell phones.
+which flower is most fierce? Dandelion
 
 
 ## Daily Trivia
 
-Who invented the &quot;Spanning Tree Protocol&quot;?
- 1. Paul Vixie
- 2. Vint Cerf
- 3. Radia Perlman
- 4. Michael Roberts
+When was the programming language &quot;C#&quot; released?
+ 1. 2001
+ 2. 1999
+ 3. 1998
+ 4. 2000
 
 <details>
   <summary>Answer</summary>
-  Radia Perlman
+  2000
 </details>
 
 
