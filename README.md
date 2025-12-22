@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why is it always hot in the corner of a room? Because a corner is 90 degrees.
+Past, present, and future walked into a bar.... It was tense.
 
 
 ## Daily Trivia
 
-What was the name of the security vulnerability found in Bash in 2014?
- 1. Stagefright
- 2. Heartbleed
- 3. Shellshock
- 4. Bashbug
+In web design, what does CSS stand for?
+ 1. Counter Strike: Source
+ 2. Cascading Style Sheet
+ 3. Computer Style Sheet
+ 4. Corrective Style Sheet
 
 <details>
   <summary>Answer</summary>
-  Shellshock
+  Cascading Style Sheet
 </details>
 
 
