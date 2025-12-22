@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call your friend who stands in a hole? Phil.
+What does a pirate pay for his corn? A buccaneer!
 
 
 ## Daily Trivia
 
-On Twitter, what was the original character limit for a Tweet?
- 1. 100
- 2. 120
- 3. 160
- 4. 140
+The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
+ 1. United States
+ 2. Taiwan
+ 3. Germany
+ 4. China (People&#039;s Republic of)
 
 <details>
   <summary>Answer</summary>
-  140
+  Taiwan
 </details>
 
 
