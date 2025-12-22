@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The biggest knight at King Arthur's round table was Sir Cumference. He acquired his size from eating too much pi.
+How do you find Will Smith in the snow?  Look for fresh prints.
 
 
 ## Daily Trivia
 
-Who is the original author of the realtime physics engine called PhysX?
- 1. Nvidia
- 2. Ageia
- 3. NovodeX
- 4. AMD
+.rs is the top-level domain for what country?
+ 1. Rwanda
+ 2. Serbia
+ 3. Russia
+ 4. Romania
 
 <details>
   <summary>Answer</summary>
-  NovodeX
+  Serbia
 </details>
 
 
