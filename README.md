@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A boy dug three holes in the yard. When his mother saw, she exclaimed: "well, well, well"
+The biggest knight at King Arthur's round table was Sir Cumference. He acquired his size from eating too much pi.
 
 
 ## Daily Trivia
 
-The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
- 1. Acorn Computers
- 2. Sinclair Research
- 3. Commodore Business Machines
- 4. Amstrad PLC
+Who is the original author of the realtime physics engine called PhysX?
+ 1. Nvidia
+ 2. Ageia
+ 3. NovodeX
+ 4. AMD
 
 <details>
   <summary>Answer</summary>
-  Acorn Computers
+  NovodeX
 </details>
 
 
