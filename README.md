@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Child: Dad, make me a sandwich. Dad: Poof! You're a sandwich.
+I made a playlist for hiking. It has music from Peanuts, The Cranberries, and Eminem. I call it my Trail Mix.
 
 
 ## Daily Trivia
 
-What does LTS stand for in the software market?
- 1. Long Taco Service
- 2. Long Term Support
- 3. Ludicrous Transfer Speed
- 4. Ludicrous Turbo Speed
+Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
+ 1. Cheetah
+ 2. Leopard
+ 3. Tiger
+ 4. Puma
 
 <details>
   <summary>Answer</summary>
-  Long Term Support
+  Cheetah
 </details>
 
 
