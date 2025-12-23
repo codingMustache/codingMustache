@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to think I was indecisive, but now I'm not sure.
+Why did the fireman wear red, white, and blue suspenders? To hold his pants up.
 
 
 ## Daily Trivia
 
-What was Bitcoin&#039;s block size limit in 2010?
- 1. 1 TB
- 2. 1 MB
- 3. 1 KB
- 4. 1GB
+Which of these names was an actual codename for a cancelled Microsoft project?
+ 1. Neptune
+ 2. Saturn
+ 3. Pollux
+ 4. Enceladus
 
 <details>
   <summary>Answer</summary>
-  1 MB
+  Neptune
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **4 days** since this server shutdown
+Its been **5 days** since this server shutdown
