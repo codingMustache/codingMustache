@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I wear a stethoscope so that in a medical emergency I can teach people a valuable lesson about assumptions.
+What did Michael Jackson name his denim store?    Billy Jeans!
 
 
 ## Daily Trivia
 
-Who invented the &quot;Spanning Tree Protocol&quot;?
- 1. Paul Vixie
- 2. Michael Roberts
- 3. Vint Cerf
- 4. Radia Perlman
+What does the Prt Sc button do?
+ 1. Nothing
+ 2. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
+ 3. Captures what&#039;s on the screen and copies it to your clipboard
+ 4. Closes all windows
 
 <details>
   <summary>Answer</summary>
-  Radia Perlman
+  Captures what&#039;s on the screen and copies it to your clipboard
 </details>
 
 
