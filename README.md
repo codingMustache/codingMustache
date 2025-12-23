@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the cookie cry? It was feeling crumby.
+What do you call a female snake. misssssssss 
 
 
 ## Daily Trivia
 
-What is the most preferred image format used for logos in the Wikimedia database?
- 1. .svg
- 2. .png
- 3. .jpeg
- 4. .gif
+Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
+ 1. 32.0 kHz
+ 2. 44.1 kHz
+ 3. 1.5 MHz
+ 4. 20.5 kHz
 
 <details>
   <summary>Answer</summary>
-  .svg
+  44.1 kHz
 </details>
 
 
