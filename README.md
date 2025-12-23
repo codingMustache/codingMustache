@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did Michael Jackson name his denim store?    Billy Jeans!
+Why do birds fly south for the winter? Because it's too far to walk.
 
 
 ## Daily Trivia
 
-What does the Prt Sc button do?
- 1. Nothing
- 2. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
- 3. Captures what&#039;s on the screen and copies it to your clipboard
- 4. Closes all windows
+What is the name of the process that sends one qubit of information using two bits of classical information?
+ 1. Quantum Programming
+ 2. Quantum Teleportation
+ 3. Quantum Entanglement
+ 4. Super Dense Coding
 
 <details>
   <summary>Answer</summary>
-  Captures what&#039;s on the screen and copies it to your clipboard
+  Quantum Teleportation
 </details>
 
 
