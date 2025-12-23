@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I burned 2000 calories today, I left my food in the oven for too long.
+Why did the kid cross the playground? To get to the other slide.
 
 
 ## Daily Trivia
 
-Who is the original author of the realtime physics engine called PhysX?
- 1. Ageia
- 2. NovodeX
- 3. AMD
- 4. Nvidia
+What does the International System of Quantities refer 1024 bytes as?
+ 1. Kylobyte
+ 2. Kilobyte
+ 3. Kibibyte
+ 4. Kelobyte
 
 <details>
   <summary>Answer</summary>
-  NovodeX
+  Kibibyte
 </details>
 
 
