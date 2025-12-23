@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-You can't trust a ladder. It will always let you down
+Two silk worms had a race. They ended up in a tie.
 
 
 ## Daily Trivia
 
-Which of these is not a key value of Agile software development?
- 1. Customer collaboration
- 2. Responding to change
- 3. Individuals and interactions
- 4. Comprehensive documentation
+Which programming language shares its name with an island in Indonesia?
+ 1. Java
+ 2. C
+ 3. Jakarta
+ 4. Python
 
 <details>
   <summary>Answer</summary>
-  Comprehensive documentation
+  Java
 </details>
 
 
