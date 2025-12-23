@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It takes guts to be an organ donor.
+Child: Dad, make me a sandwich. Dad: Poof! You're a sandwich.
 
 
 ## Daily Trivia
 
-Who is the founder of Palantir?
- 1. Jack Dorsey
- 2. Marc Benioff
- 3. Peter Thiel
- 4. Mark Zuckerberg
+Unix Time is defined as the number of seconds that have elapsed since when?
+ 1. Midnight, January 1, 1970
+ 2. Midnight, July 4, 1976
+ 3. Midnight on the creator of Unix&#039;s birthday
+ 4. Midnight, July 4, 1980
 
 <details>
   <summary>Answer</summary>
-  Peter Thiel
+  Midnight, January 1, 1970
 </details>
 
 
