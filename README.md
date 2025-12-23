@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why is it always hot in the corner of a room? Because a corner is 90 degrees.
+I knew i shouldn’t have ate that seafood. Because now i’m feeling a little… Eel
 
 
 ## Daily Trivia
 
-What does CPU stand for?
- 1. Computer Personal Unit
- 2. Central Process Unit
- 3. Central Processor Unit
- 4. Central Processing Unit
+Which data structure does FILO apply to?
+ 1. Queue
+ 2. Heap
+ 3. Tree
+ 4. Stack
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  Stack
 </details>
 
 
