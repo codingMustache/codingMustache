@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Child: Dad, make me a sandwich. Dad: Poof! You're a sandwich.
+Why is the ocean always blue? Because the shore never waves back.
 
 
 ## Daily Trivia
 
-Unix Time is defined as the number of seconds that have elapsed since when?
- 1. Midnight, January 1, 1970
- 2. Midnight, July 4, 1976
- 3. Midnight on the creator of Unix&#039;s birthday
- 4. Midnight, July 4, 1980
+How many bits make up the significand portion of a single precision floating point number?
+ 1. 53
+ 2. 15
+ 3. 8
+ 4. 23
 
 <details>
   <summary>Answer</summary>
-  Midnight, January 1, 1970
+  23
 </details>
 
 
