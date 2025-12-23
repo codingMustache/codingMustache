@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to work for a soft drink can crusher. It was soda pressing.
+You will never guess what Elsa did to the balloon. She let it go.
 
 
 ## Daily Trivia
 
-In any programming language, what is the most common way to iterate through an array?
- 1. &#039;While&#039; loops
- 2. &#039;Do-while&#039; loops
- 3. &#039;If&#039; Statements
- 4. &#039;For&#039; loops
+What does GHz stand for?
+ 1. Gigahertz
+ 2. Gigahatz
+ 3. Gigahetz
+ 4. Gigahotz
 
 <details>
   <summary>Answer</summary>
-  &#039;For&#039; loops
+  Gigahertz
 </details>
 
 
