@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-"Dad, do you think it's going to snow this winter?" "I dont know, its all up in the air"
+I used to work for a soft drink can crusher. It was soda pressing.
 
 
 ## Daily Trivia
 
-In computing terms, typically what does CLI stand for?
- 1. Command Line Interface
- 2. Common Language Interface
- 3. Control Line Interface
- 4. Common Language Input
+In any programming language, what is the most common way to iterate through an array?
+ 1. &#039;While&#039; loops
+ 2. &#039;Do-while&#039; loops
+ 3. &#039;If&#039; Statements
+ 4. &#039;For&#039; loops
 
 <details>
   <summary>Answer</summary>
-  Command Line Interface
+  &#039;For&#039; loops
 </details>
 
 
