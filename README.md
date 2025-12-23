@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a female snake. misssssssss 
+I burned 2000 calories today, I left my food in the oven for too long.
 
 
 ## Daily Trivia
 
-Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
- 1. 32.0 kHz
- 2. 44.1 kHz
- 3. 1.5 MHz
- 4. 20.5 kHz
+Who is the original author of the realtime physics engine called PhysX?
+ 1. Ageia
+ 2. NovodeX
+ 3. AMD
+ 4. Nvidia
 
 <details>
   <summary>Answer</summary>
-  44.1 kHz
+  NovodeX
 </details>
 
 
