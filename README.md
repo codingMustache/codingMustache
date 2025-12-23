@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do birds fly south for the winter? Because it's too far to walk.
+You can't trust a ladder. It will always let you down
 
 
 ## Daily Trivia
 
-What is the name of the process that sends one qubit of information using two bits of classical information?
- 1. Quantum Programming
- 2. Quantum Teleportation
- 3. Quantum Entanglement
- 4. Super Dense Coding
+Which of these is not a key value of Agile software development?
+ 1. Customer collaboration
+ 2. Responding to change
+ 3. Individuals and interactions
+ 4. Comprehensive documentation
 
 <details>
   <summary>Answer</summary>
-  Quantum Teleportation
+  Comprehensive documentation
 </details>
 
 
