@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why does Han Solo like gum? It's chewy!
+I’ve just been reading a book about anti-gravity, it’s impossible to put down!
 
 
 ## Daily Trivia
 
-What port does HTTP run on?
- 1. 80
- 2. 23
- 3. 53
- 4. 443
+What vulnerability ranked #1 on the OWASP Top 10 in 2013?
+ 1. Injection 
+ 2. Cross-Site Scripting
+ 3. Insecure Direct Object References
+ 4. Broken Authentication
 
 <details>
   <summary>Answer</summary>
-  80
+  Injection 
 </details>
 
 
