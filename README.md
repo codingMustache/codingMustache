@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I’ve got this disease where I can’t stop making airport puns. The doctor says it terminal.
+A termite walks into a bar and asks “Is the bar tender here?”
 
 
 ## Daily Trivia
 
-Approximately how many Apple I personal computers were created?
- 1. 100
- 2. 500
- 3. 1000
- 4. 200
+What is the most preferred image format used for logos in the Wikimedia database?
+ 1. .gif
+ 2. .jpeg
+ 3. .png
+ 4. .svg
 
 <details>
   <summary>Answer</summary>
-  200
+  .svg
 </details>
 
 
