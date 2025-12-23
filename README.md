@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the worker get fired from the orange juice factory? Lack of concentration.
+It takes guts to be an organ donor.
 
 
 ## Daily Trivia
 
-According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:
- 1. A&#039;B + B&#039;A
- 2. A&#039;B&#039;
- 3. A&#039; + B&#039;
- 4. AB&#039; + AB
+Who is the founder of Palantir?
+ 1. Jack Dorsey
+ 2. Marc Benioff
+ 3. Peter Thiel
+ 4. Mark Zuckerberg
 
 <details>
   <summary>Answer</summary>
-  A&#039; + B&#039;
+  Peter Thiel
 </details>
 
 
