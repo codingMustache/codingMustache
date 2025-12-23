@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why is the ocean always blue? Because the shore never waves back.
+Just read a few facts about frogs. They were ribbiting.
 
 
 ## Daily Trivia
 
-How many bits make up the significand portion of a single precision floating point number?
- 1. 53
- 2. 15
- 3. 8
- 4. 23
+While Apple was formed in California, in which western state was Microsoft founded?
+ 1. New Mexico
+ 2. Arizona
+ 3. Colorado
+ 4. Washington
 
 <details>
   <summary>Answer</summary>
-  23
+  New Mexico
 </details>
 
 
