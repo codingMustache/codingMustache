@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I thought about going on an all-almond diet. But that's just nuts.
+What is the hardest part about sky diving? The ground.
 
 
 ## Daily Trivia
 
-In web design, what does CSS stand for?
- 1. Counter Strike: Source
- 2. Cascading Style Sheet
- 3. Corrective Style Sheet
- 4. Computer Style Sheet
+Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
+ 1. Leopard
+ 2. Tiger
+ 3. Cheetah
+ 4. Puma
 
 <details>
   <summary>Answer</summary>
-  Cascading Style Sheet
+  Cheetah
 </details>
 
 
