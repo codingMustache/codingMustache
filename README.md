@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Just read a few facts about frogs. They were ribbiting.
+You will never guess what Elsa did to the balloon. She let it go.
 
 
 ## Daily Trivia
 
-While Apple was formed in California, in which western state was Microsoft founded?
- 1. New Mexico
- 2. Arizona
- 3. Colorado
- 4. Washington
+According to the International System of Units, how many bytes are in a kilobyte of RAM?
+ 1. 512
+ 2. 1024
+ 3. 500
+ 4. 1000
 
 <details>
   <summary>Answer</summary>
-  New Mexico
+  1000
 </details>
 
 
