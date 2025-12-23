@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What’s the difference between an African elephant and an Indian elephant? About 5000 miles.
+Why does Han Solo like gum? It's chewy!
 
 
 ## Daily Trivia
 
-Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
- 1. Cherry MX Red
- 2. Cherry MX Black
- 3. Cherry MX Blue
- 4. Cherry MX Brown
+What port does HTTP run on?
+ 1. 80
+ 2. 23
+ 3. 53
+ 4. 443
 
 <details>
   <summary>Answer</summary>
-  Cherry MX Blue
+  80
 </details>
 
 
