@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a nervous javelin thrower? Shakespeare.
+Where do you take someone who has been injured in a Peek-a-boo accident? To the I.C.U.
 
 
 ## Daily Trivia
 
-The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
- 1. HD Graphics 500
- 2. HD Graphics 7000
- 3. HD Graphics 600
- 4. HD Graphics 700 
+What does RAID stand for?
+ 1. Redundant Array of Independent Disks
+ 2. Randomized Abstract Identification Description
+ 3. Rapid Access for Indexed Devices
+ 4. Range of Applications with Identical Designs
 
 <details>
   <summary>Answer</summary>
-  HD Graphics 500
+  Redundant Array of Independent Disks
 </details>
 
 
