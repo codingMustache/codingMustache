@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-You will never guess what Elsa did to the balloon. She let it go.
+Milk is also the fastest liquid on earth – its pasteurized before you even see it
 
 
 ## Daily Trivia
 
-According to the International System of Units, how many bytes are in a kilobyte of RAM?
- 1. 512
- 2. 1024
- 3. 500
- 4. 1000
+Nvidia&#039;s headquarters are based in which Silicon Valley city?
+ 1. Palo Alto
+ 2. Cupertino
+ 3. Santa Clara
+ 4. Mountain View
 
 <details>
   <summary>Answer</summary>
-  1000
+  Santa Clara
 </details>
 
 
