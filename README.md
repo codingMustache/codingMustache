@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A weasel walks into a bar. The bartender says, "Wow, I've never served a weasel before. What can I get for you?"
-"Pop," goes the weasel.
+I just wrote a book on reverse psychology. Do not read it!
 
 
 ## Daily Trivia
 
-Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
- 1. Two Years
- 2. Eight Years
- 3. Four Years
- 4. Year
+Whistler was the codename of this Microsoft Operating System.
+ 1. Windows 2000
+ 2. Windows XP
+ 3. Windows 95
+ 4. Windows 7
 
 <details>
   <summary>Answer</summary>
-  Year
+  Windows XP
 </details>
 
 
