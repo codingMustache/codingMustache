@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a cow on a trampoline? A milk shake!
+What do you call an old snowman? Water.
 
 
 ## Daily Trivia
 
-How many bits make up the significand portion of a single precision floating point number?
- 1. 8
- 2. 53
- 3. 23
- 4. 15
+When was the programming language &quot;C#&quot; released?
+ 1. 2001
+ 2. 2000
+ 3. 1999
+ 4. 1998
 
 <details>
   <summary>Answer</summary>
-  23
+  2000
 </details>
 
 
