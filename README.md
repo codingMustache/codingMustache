@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I just wrote a book on reverse psychology. Do not read it!
+Why do cows not have toes? They lactose!
 
 
 ## Daily Trivia
 
-Whistler was the codename of this Microsoft Operating System.
- 1. Windows 2000
- 2. Windows XP
- 3. Windows 95
- 4. Windows 7
+On which computer hardware device is the BIOS chip located?
+ 1. Motherboard
+ 2. Central Processing Unit
+ 3. Hard Disk Drive
+ 4. Graphics Processing Unit
 
 <details>
   <summary>Answer</summary>
-  Windows XP
+  Motherboard
 </details>
 
 
