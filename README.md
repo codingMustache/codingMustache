@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Two silk worms had a race. They ended up in a tie.
+Parallel lines have so much in common. It’s a shame they’ll never meet.
 
 
 ## Daily Trivia
 
-Which programming language shares its name with an island in Indonesia?
- 1. Java
- 2. C
- 3. Jakarta
- 4. Python
+Which operating system was released first?
+ 1. OS/2
+ 2. Windows
+ 3. Linux
+ 4. Mac OS
 
 <details>
   <summary>Answer</summary>
-  Java
+  Mac OS
 </details>
 
 
