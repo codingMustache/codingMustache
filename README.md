@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do you take someone who has been injured in a Peek-a-boo accident? To the I.C.U.
+What do you call a cow on a trampoline? A milk shake!
 
 
 ## Daily Trivia
 
-What does RAID stand for?
- 1. Redundant Array of Independent Disks
- 2. Randomized Abstract Identification Description
- 3. Rapid Access for Indexed Devices
- 4. Range of Applications with Identical Designs
+How many bits make up the significand portion of a single precision floating point number?
+ 1. 8
+ 2. 53
+ 3. 23
+ 4. 15
 
 <details>
   <summary>Answer</summary>
-  Redundant Array of Independent Disks
+  23
 </details>
 
 
