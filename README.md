@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the kid cross the playground? To get to the other slide.
+Why did the worker get fired from the orange juice factory? Lack of concentration.
 
 
 ## Daily Trivia
 
-What does the International System of Quantities refer 1024 bytes as?
- 1. Kylobyte
- 2. Kilobyte
- 3. Kibibyte
- 4. Kelobyte
+According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:
+ 1. A&#039;B + B&#039;A
+ 2. A&#039;B&#039;
+ 3. A&#039; + B&#039;
+ 4. AB&#039; + AB
 
 <details>
   <summary>Answer</summary>
-  Kibibyte
+  A&#039; + B&#039;
 </details>
 
 
