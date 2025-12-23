@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do you never see elephants hiding in trees? Because they're so good at it.
+Why did the cookie cry? It was feeling crumby.
 
 
 ## Daily Trivia
 
-What does the computer software acronym JVM stand for?
- 1. Java Vendor Machine
- 2. Java Visual Machine
- 3. Just Virtual Machine
- 4. Java Virtual Machine
+What is the most preferred image format used for logos in the Wikimedia database?
+ 1. .svg
+ 2. .png
+ 3. .jpeg
+ 4. .gif
 
 <details>
   <summary>Answer</summary>
-  Java Virtual Machine
+  .svg
 </details>
 
 
