@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did Sweden start painting barcodes on the sides of their battleships? So they could Scandinavian.
+Want to hear a chimney joke? Got stacks of em! First one's on the house
 
 
 ## Daily Trivia
 
-Lenovo acquired IBM&#039;s personal computer division, including the ThinkPad line of laptops and tablets, in what year?
- 1. 2008
- 2. 2005
- 3. 2002
- 4. 1999
+What is the code name for the mobile operating system Android 7.0?
+ 1. Nougat
+ 2. Marshmallow
+ 3. Jelly Bean
+ 4. Ice Cream Sandwich
 
 <details>
   <summary>Answer</summary>
-  2005
+  Nougat
 </details>
 
 
