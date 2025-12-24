@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Hostess: Do you have a preference of where you sit?
-Dad: Down.
+I had a dream that I was a muffler last night. I woke up exhausted!
 
 
 ## Daily Trivia
 
-In the server hosting industry IaaS stands for...
- 1. Infrastructure as a Service
- 2. Infrastructure as a Server
- 3. Internet and a Server
- 4. Internet as a Service
+How many bytes are in a single Kibibyte?
+ 1. 2400
+ 2. 1000
+ 3. 1240
+ 4. 1024
 
 <details>
   <summary>Answer</summary>
-  Infrastructure as a Service
+  1024
 </details>
 
 
