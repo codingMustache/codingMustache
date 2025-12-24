@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you make holy water? You boil the hell out of it.
+What do you call a criminal going down the stairs? Condescending
 
 
 ## Daily Trivia
 
-Who is the original author of the realtime physics engine called PhysX?
- 1. NovodeX
- 2. Ageia
- 3. Nvidia
- 4. AMD
+Generally, which component of a computer draws the most power?
+ 1. Hard Drive
+ 2. Processor
+ 3. Power Supply
+ 4. Video Card
 
 <details>
   <summary>Answer</summary>
-  NovodeX
+  Video Card
 </details>
 
 
