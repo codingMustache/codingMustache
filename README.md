@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the difference between a rooster and a crow? A rooster can crow but a crow cannot rooster.
+Did you hear about the new restaurant on the moon? The food is great, but there’s just no atmosphere.
 
 
 ## Daily Trivia
 
-In the server hosting industry IaaS stands for...
- 1. Infrastructure as a Server
- 2. Internet and a Server
- 3. Internet as a Service
- 4. Infrastructure as a Service
+What was Bitcoin&#039;s block size limit in 2010?
+ 1. 1GB
+ 2. 1 KB
+ 3. 1 TB
+ 4. 1 MB
 
 <details>
   <summary>Answer</summary>
-  Infrastructure as a Service
+  1 MB
 </details>
 
 
