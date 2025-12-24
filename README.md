@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-"I'll call you later." Don't call me later, call me Dad.
+Why is the new Kindle screen textured to look like paper? So you feel write at home.
 
 
 ## Daily Trivia
 
-.at is the top-level domain for what country?
- 1. Austria
- 2. Angola
- 3. Australia
- 4. Argentina
+How long is an IPv6 address?
+ 1. 128 bytes
+ 2. 64 bits
+ 3. 32 bits
+ 4. 128 bits
 
 <details>
   <summary>Answer</summary>
-  Austria
+  128 bits
 </details>
 
 
