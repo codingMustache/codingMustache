@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a criminal going down the stairs? Condescending
+"I'll call you later." Don't call me later, call me Dad.
 
 
 ## Daily Trivia
 
-Generally, which component of a computer draws the most power?
- 1. Hard Drive
- 2. Processor
- 3. Power Supply
- 4. Video Card
+The name of technology company HP stands for what?
+ 1. Husker-Pollosk
+ 2. Hewlett-Packard
+ 3. Hellman-Pohl
+ 4. Howard Packmann
 
 <details>
   <summary>Answer</summary>
-  Video Card
+  Hewlett-Packard
 </details>
 
 
