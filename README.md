@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the piece of bread say to the knife? Butter me up.
+Yesterday a clown held a door open for me. I thought it was a nice jester.
 
 
 ## Daily Trivia
 
-How many cores does the Intel i7-6950X have?
- 1. 10
- 2. 8
- 3. 4
- 4. 12
+What is known as &quot;the brain&quot; of the Computer?
+ 1. Graphics Processing Unit
+ 2. Motherboard
+ 3. Keyboard
+ 4. Central Processing Unit
 
 <details>
   <summary>Answer</summary>
-  10
+  Central Processing Unit
 </details>
 
 
