@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Whenever the cashier at the grocery store asks my dad if he would like the milk in a bag he replies, ‘No, just leave it in the carton!’
+How many kids with ADD does it take to change a lightbulb? Let's go ride bikes!
 
 
 ## Daily Trivia
 
-Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
- 1. Shellshock
- 2. Heartbleed
- 3. Shellscript
- 4. Corrupted Blood
+In web design, what does CSS stand for?
+ 1. Counter Strike: Source
+ 2. Cascading Style Sheet
+ 3. Computer Style Sheet
+ 4. Corrective Style Sheet
 
 <details>
   <summary>Answer</summary>
-  Heartbleed
+  Cascading Style Sheet
 </details>
 
 
