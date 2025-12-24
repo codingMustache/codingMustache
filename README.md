@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the house go to the doctor? It was having window panes.
+A ghost walks into a bar and asks for a glass of vodka but the bar tender says, “sorry we don’t serve spirits”
 
 
 ## Daily Trivia
 
-The teapot often seen in many 3D modeling applications is called what?
- 1. Utah Teapot
- 2. Tennessee Teapot
- 3. 3D Teapot
- 4. Pixar Teapot
+Unix Time is defined as the number of seconds that have elapsed since when?
+ 1. Midnight, January 1, 1970
+ 2. Midnight, July 4, 1976
+ 3. Midnight on the creator of Unix&#039;s birthday
+ 4. Midnight, July 4, 1980
 
 <details>
   <summary>Answer</summary>
-  Utah Teapot
+  Midnight, January 1, 1970
 </details>
 
 
