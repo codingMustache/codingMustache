@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A man was caught stealing in a supermarket today while balanced on the shoulders of a couple of vampires. He was charged with shoplifting on two counts. 
+"I'll call you later." Don't call me later, call me Dad.
 
 
 ## Daily Trivia
 
-How many values can a single byte represent?
- 1. 8
- 2. 1024
- 3. 256
- 4. 1
+.at is the top-level domain for what country?
+ 1. Austria
+ 2. Angola
+ 3. Australia
+ 4. Argentina
 
 <details>
   <summary>Answer</summary>
-  256
+  Austria
 </details>
 
 
