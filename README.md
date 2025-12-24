@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is this movie about? It is about 2 hours long.
+What's the difference between a seal and a sea lion?
+An ion! 
 
 
 ## Daily Trivia
 
-Which of these names was an actual codename for a cancelled Microsoft project?
- 1. Saturn
- 2. Neptune
- 3. Pollux
- 4. Enceladus
+When was the programming language &quot;C#&quot; released?
+ 1. 2000
+ 2. 1999
+ 3. 2001
+ 4. 1998
 
 <details>
   <summary>Answer</summary>
-  Neptune
+  2000
 </details>
 
 
