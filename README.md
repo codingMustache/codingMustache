@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why didn’t the orange win the race? It ran out of juice.
+I tried to milk a cow today, but was unsuccessful. Udder failure.
 
 
 ## Daily Trivia
 
-What five letter word is the motto of the IBM Computer company?
- 1. Logic
- 2. Think
- 3. Click
- 4. Pixel
+What is the number of keys on a standard Windows Keyboard?
+ 1. 104
+ 2. 76
+ 3. 94
+ 4. 64
 
 <details>
   <summary>Answer</summary>
-  Think
+  104
 </details>
 
 
