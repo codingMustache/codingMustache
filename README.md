@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-"I'll call you later." Don't call me later, call me Dad.
+Why did the worker get fired from the orange juice factory? Lack of concentration.
 
 
 ## Daily Trivia
 
-The name of technology company HP stands for what?
- 1. Husker-Pollosk
- 2. Hewlett-Packard
- 3. Hellman-Pohl
- 4. Howard Packmann
+In computing, what does MIDI stand for?
+ 1. Musical Instrument Data Interface
+ 2. Modular Interface of Digital Instruments
+ 3. Musical Interface of Digital Instruments
+ 4. Musical Instrument Digital Interface
 
 <details>
   <summary>Answer</summary>
-  Hewlett-Packard
+  Musical Instrument Digital Interface
 </details>
 
 
