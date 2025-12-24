@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the scarecrow win an award? Because he was outstanding in his field.
+“Doctor, I’ve broken my arm in several places” Doctor “Well don’t go to those places.”
 
 
 ## Daily Trivia
 
-Which SQL keyword is used to fetch data from a database?
- 1. EXEC
- 2. VALUES
- 3. SELECT
- 4. INDEX
+What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
+ 1. FM Synthesizer
+ 2. PCM Sampler
+ 3. Programmable Sound Generator (PSG)
+ 4. ADPCM Sampler
 
 <details>
   <summary>Answer</summary>
-  SELECT
+  ADPCM Sampler
 </details>
 
 
