@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many kids with ADD does it take to change a lightbulb? Let's go ride bikes!
+Why did the girl smear peanut butter on the road? To go with the traffic jam.
 
 
 ## Daily Trivia
 
-In web design, what does CSS stand for?
- 1. Counter Strike: Source
- 2. Cascading Style Sheet
- 3. Computer Style Sheet
- 4. Corrective Style Sheet
+In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
+ 1. Final
+ 2. Static
+ 3. Private
+ 4. Public
 
 <details>
   <summary>Answer</summary>
-  Cascading Style Sheet
+  Final
 </details>
 
 
