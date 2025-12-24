@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a pig that knows karate? A pork chop!
+What biscuit does a short person like? Shortbread. 
 
 
 ## Daily Trivia
 
-.at is the top-level domain for what country?
- 1. Australia
- 2. Angola
- 3. Austria
- 4. Argentina
+Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
+ 1. Cheetah
+ 2. Puma
+ 3. Tiger
+ 4. Leopard
 
 <details>
   <summary>Answer</summary>
-  Austria
+  Cheetah
 </details>
 
 
