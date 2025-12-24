@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the new restaurant on the moon? The food is great, but there’s just no atmosphere.
+Why didn’t the orange win the race? It ran out of juice.
 
 
 ## Daily Trivia
 
-What was Bitcoin&#039;s block size limit in 2010?
- 1. 1GB
- 2. 1 KB
- 3. 1 TB
- 4. 1 MB
+What five letter word is the motto of the IBM Computer company?
+ 1. Logic
+ 2. Think
+ 3. Click
+ 4. Pixel
 
 <details>
   <summary>Answer</summary>
-  1 MB
+  Think
 </details>
 
 
