@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A ghost walks into a bar and asks for a glass of vodka but the bar tender says, “sorry we don’t serve spirits”
+Leather is great for sneaking around because it's made of hide.
 
 
 ## Daily Trivia
 
-Unix Time is defined as the number of seconds that have elapsed since when?
- 1. Midnight, January 1, 1970
- 2. Midnight, July 4, 1976
- 3. Midnight on the creator of Unix&#039;s birthday
- 4. Midnight, July 4, 1980
+What five letter word is the motto of the IBM Computer company?
+ 1. Think
+ 2. Click
+ 3. Pixel
+ 4. Logic
 
 <details>
   <summary>Answer</summary>
-  Midnight, January 1, 1970
+  Think
 </details>
 
 
