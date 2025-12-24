@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What biscuit does a short person like? Shortbread. 
+A man was caught stealing in a supermarket today while balanced on the shoulders of a couple of vampires. He was charged with shoplifting on two counts. 
 
 
 ## Daily Trivia
 
-Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
- 1. Cheetah
- 2. Puma
- 3. Tiger
- 4. Leopard
+How many values can a single byte represent?
+ 1. 8
+ 2. 1024
+ 3. 256
+ 4. 1
 
 <details>
   <summary>Answer</summary>
-  Cheetah
+  256
 </details>
 
 
