@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-“Doctor, I’ve broken my arm in several places” Doctor “Well don’t go to those places.”
+Just read a few facts about frogs. They were ribbiting.
 
 
 ## Daily Trivia
 
-The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
- 1. Taiwan
- 2. China (People&#039;s Republic of)
- 3. Germany
- 4. United States
+In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
+ 1. Red
+ 2. Green
+ 3. Yellow
+ 4. Blue
 
 <details>
   <summary>Answer</summary>
-  Taiwan
+  Green
 </details>
 
 
