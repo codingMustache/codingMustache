@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's black and white and read all over? The newspaper.
+What do you call a pig that knows karate? A pork chop!
 
 
 ## Daily Trivia
 
-Which of these programming languages is a low-level language?
- 1. Python
- 2. C#
- 3. Pascal
- 4. Assembly
+.at is the top-level domain for what country?
+ 1. Australia
+ 2. Angola
+ 3. Austria
+ 4. Argentina
 
 <details>
   <summary>Answer</summary>
-  Assembly
+  Austria
 </details>
 
 
