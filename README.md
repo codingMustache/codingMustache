@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you find Will Smith in the snow?  Look for fresh prints.
+What's the difference between a rooster and a crow? A rooster can crow but a crow cannot rooster.
 
 
 ## Daily Trivia
 
-Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
- 1. Corrupted Blood
- 2. Shellshock
- 3. Shellscript
- 4. Heartbleed
+In the server hosting industry IaaS stands for...
+ 1. Infrastructure as a Server
+ 2. Internet and a Server
+ 3. Internet as a Service
+ 4. Infrastructure as a Service
 
 <details>
   <summary>Answer</summary>
-  Heartbleed
+  Infrastructure as a Service
 </details>
 
 
