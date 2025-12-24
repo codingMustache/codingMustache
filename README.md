@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Leather is great for sneaking around because it's made of hide.
+What's black and white and read all over? The newspaper.
 
 
 ## Daily Trivia
 
-What five letter word is the motto of the IBM Computer company?
- 1. Think
- 2. Click
- 3. Pixel
- 4. Logic
+Which of these programming languages is a low-level language?
+ 1. Python
+ 2. C#
+ 3. Pascal
+ 4. Assembly
 
 <details>
   <summary>Answer</summary>
-  Think
+  Assembly
 </details>
 
 
