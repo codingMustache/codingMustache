@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the girl smear peanut butter on the road? To go with the traffic jam.
+If you’re struggling to think of what to get someone for Christmas. Get them a fridge and watch their face light up when they open it.
 
 
 ## Daily Trivia
 
-In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
- 1. Final
- 2. Static
- 3. Private
- 4. Public
+How many Hz does the video standard PAL support?
+ 1. 50
+ 2. 25
+ 3. 60
+ 4. 59
 
 <details>
   <summary>Answer</summary>
-  Final
+  50
 </details>
 
 
