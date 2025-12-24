@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I had a dream that I was a muffler last night. I woke up exhausted!
+Why are mummys scared of vacation? They're afraid to unwind.
 
 
 ## Daily Trivia
 
-How many bytes are in a single Kibibyte?
- 1. 2400
- 2. 1000
- 3. 1240
- 4. 1024
+In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
+ 1. Static
+ 2. Private
+ 3. Public
+ 4. Final
 
 <details>
   <summary>Answer</summary>
-  1024
+  Final
 </details>
 
 
