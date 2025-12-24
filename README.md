@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Don't trust atoms. They make up everything.
+“Doctor, I’ve broken my arm in several places” Doctor “Well don’t go to those places.”
 
 
 ## Daily Trivia
 
-What does CPU stand for?
- 1. Central Process Unit
- 2. Computer Personal Unit
- 3. Central Processor Unit
- 4. Central Processing Unit
+The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
+ 1. Taiwan
+ 2. China (People&#039;s Republic of)
+ 3. Germany
+ 4. United States
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  Taiwan
 </details>
 
 
