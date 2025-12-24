@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the bread factory burning down? They say the business is toast.
+Have you heard about corduroy pillows?  They're making headlines!
 
 
 ## Daily Trivia
 
-Which operating system was released first?
- 1. Mac OS
- 2. OS/2
- 3. Linux
- 4. Windows
+The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
+ 1. Micronesia
+ 2. Tuvalu
+ 3. Marshall Islands
+ 4. Fiji
 
 <details>
   <summary>Answer</summary>
-  Mac OS
+  Micronesia
 </details>
 
 
