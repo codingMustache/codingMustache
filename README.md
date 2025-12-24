@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Without geometry life is pointless.
+What do you get when you cross a pig and a pineapple? A porky pine
 
 
 ## Daily Trivia
 
-What is the name of the process that sends one qubit of information using two bits of classical information?
- 1. Super Dense Coding
- 2. Quantum Entanglement
- 3. Quantum Programming
- 4. Quantum Teleportation
+Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
+ 1. Shopify
+ 2. Overstock
+ 3. eBay
+ 4. Amazon
 
 <details>
   <summary>Answer</summary>
-  Quantum Teleportation
+  Amazon
 </details>
 
 
