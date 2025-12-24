@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I was going to learn how to juggle, but I didn't have the balls.
+What do you call a beehive without the b's? An eehive.
 
 
 ## Daily Trivia
 
-Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
- 1. Four Years
- 2. Two Years
- 3. Year
- 4. Eight Years
+Approximately how many Apple I personal computers were created?
+ 1. 200
+ 2. 100
+ 3. 1000
+ 4. 500
 
 <details>
   <summary>Answer</summary>
-  Year
+  200
 </details>
 
 
