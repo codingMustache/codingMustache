@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do cows not have toes? They lactose!
+How do you make holy water? You boil the hell out of it.
 
 
 ## Daily Trivia
 
-On which computer hardware device is the BIOS chip located?
- 1. Motherboard
- 2. Graphics Processing Unit
- 3. Central Processing Unit
- 4. Hard Disk Drive
+Who is the original author of the realtime physics engine called PhysX?
+ 1. NovodeX
+ 2. Ageia
+ 3. Nvidia
+ 4. AMD
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  NovodeX
 </details>
 
 
