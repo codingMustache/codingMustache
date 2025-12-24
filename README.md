@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-“Doctor, I’ve broken my arm in several places” Doctor “Well don’t go to those places.”
+I was going to learn how to juggle, but I didn't have the balls.
 
 
 ## Daily Trivia
 
-What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
- 1. FM Synthesizer
- 2. PCM Sampler
- 3. Programmable Sound Generator (PSG)
- 4. ADPCM Sampler
+Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
+ 1. Four Years
+ 2. Two Years
+ 3. Year
+ 4. Eight Years
 
 <details>
   <summary>Answer</summary>
-  ADPCM Sampler
+  Year
 </details>
 
 
