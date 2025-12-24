@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-If you’re struggling to think of what to get someone for Christmas. Get them a fridge and watch their face light up when they open it.
+What did the piece of bread say to the knife? Butter me up.
 
 
 ## Daily Trivia
 
-How many Hz does the video standard PAL support?
- 1. 50
- 2. 25
- 3. 60
- 4. 59
+How many cores does the Intel i7-6950X have?
+ 1. 10
+ 2. 8
+ 3. 4
+ 4. 12
 
 <details>
   <summary>Answer</summary>
-  50
+  10
 </details>
 
 
