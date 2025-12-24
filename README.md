@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the ocean say to the shore? Nothing, it just waved.
+Why did the m&m go to school? Because it wanted to be a Smartie!
 
 
 ## Daily Trivia
 
-If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
- 1. Python
- 2. C++
- 3. JavaScript
- 4. Binary
+Dutch computer scientist Mark Overmars is known for creating which game development engine?
+ 1. Game Maker
+ 2. Torque 2D
+ 3. Construct
+ 4. Stencyl
 
 <details>
   <summary>Answer</summary>
-  Binary
+  Game Maker
 </details>
 
 
