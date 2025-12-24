@@ -4,24 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the difference between a seal and a sea lion?
-An ion! 
+How do you find Will Smith in the snow?  Look for fresh prints.
 
 
 ## Daily Trivia
 
-When was the programming language &quot;C#&quot; released?
- 1. 2000
- 2. 1999
- 3. 2001
- 4. 1998
+Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
+ 1. Corrupted Blood
+ 2. Shellshock
+ 3. Shellscript
+ 4. Heartbleed
 
 <details>
   <summary>Answer</summary>
-  2000
+  Heartbleed
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **5 days** since this server shutdown
+Its been **6 days** since this server shutdown
