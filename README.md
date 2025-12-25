@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A magician was driving down the street and then he turned into a driveway.
+Did you hear about the guy whose whole left side was cut off? He's all right now.
 
 
 ## Daily Trivia
 
-What is the domain name for the country Tuvalu?
- 1. .tu
- 2. .tl
- 3. .tv
- 4. .tt
+The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
+ 1. Taiwan
+ 2. United States
+ 3. Germany
+ 4. China (People&#039;s Republic of)
 
 <details>
   <summary>Answer</summary>
-  .tv
+  Taiwan
 </details>
 
 
