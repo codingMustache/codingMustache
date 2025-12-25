@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Whoever invented the knock-knock joke should get a no bell prize.
+"Dad, I'm cold."
+"Go stand in the corner, I hear it's 90 degrees."
 
 
 ## Daily Trivia
 
-Which of the following computer components can be built using only NAND gates?
- 1. CPU
- 2. RAM
- 3. Register
- 4. ALU
+Who is the founder of Palantir?
+ 1. Marc Benioff
+ 2. Mark Zuckerberg
+ 3. Peter Thiel
+ 4. Jack Dorsey
 
 <details>
   <summary>Answer</summary>
-  ALU
+  Peter Thiel
 </details>
 
 
