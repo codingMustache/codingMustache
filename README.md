@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why don't sharks eat clowns?  Because they taste funny.
+I ate a clock yesterday. It was so time consuming.
 
 
 ## Daily Trivia
 
-Which of these is not a key value of Agile software development?
- 1. Individuals and interactions
- 2. Customer collaboration
- 3. Comprehensive documentation
- 4. Responding to change
+Which one of these is not an official development name for a Ubuntu release?
+ 1. Utopic Unicorn
+ 2. Mystic Mansion
+ 3. Trusty Tahr
+ 4. Wily Werewolf
 
 <details>
   <summary>Answer</summary>
-  Comprehensive documentation
+  Mystic Mansion
 </details>
 
 
