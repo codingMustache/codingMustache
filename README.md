@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many hipsters does it take to change a lightbulb? Oh, it's a really obscure number. You've probably never heard of it.
+How does a scientist freshen their breath? With experi-mints!
 
 
 ## Daily Trivia
 
-In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
- 1. &lt;marquee&gt;&lt;/marquee&gt;
- 2. &lt;move&gt;&lt;/move&gt;
- 3. &lt;scroll&gt;&lt;/scroll&gt;
- 4. &lt;slide&gt;&lt;/slide&gt;
+What is the code name for the mobile operating system Android 7.0?
+ 1. Ice Cream Sandwich
+ 2. Jelly Bean
+ 3. Marshmallow
+ 4. Nougat
 
 <details>
   <summary>Answer</summary>
-  &lt;marquee&gt;&lt;/marquee&gt;
+  Nougat
 </details>
 
 
