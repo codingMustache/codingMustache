@@ -4,20 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you know if there’s an elephant under your bed? Your head hits the ceiling!
+Never Trust Someone With Graph Paper...
+
+They're always plotting something.
 
 
 ## Daily Trivia
 
-Which of the following is the oldest of these computers by release date?
- 1. Commodore 64
- 2. ZX Spectrum
- 3. Apple 3
- 4. TRS-80
+Which computer language would you associate Django framework with?
+ 1. Java
+ 2. C++
+ 3. Python
+ 4. C#
 
 <details>
   <summary>Answer</summary>
-  TRS-80
+  Python
 </details>
 
 
