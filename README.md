@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How does the moon cut his hair? Eclipse it.
+Camping is intense.
 
 
 ## Daily Trivia
 
-What does the computer software acronym JVM stand for?
- 1. Java Visual Machine
- 2. Java Vendor Machine
- 3. Java Virtual Machine
- 4. Just Virtual Machine
+Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
+ 1. eBay
+ 2. Overstock
+ 3. Shopify
+ 4. Amazon
 
 <details>
   <summary>Answer</summary>
-  Java Virtual Machine
+  Amazon
 </details>
 
 
