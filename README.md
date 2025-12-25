@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is the best way to carve?
-Whittle by whittle.
+A magician was driving down the street and then he turned into a driveway.
 
 
 ## Daily Trivia
 
-How many cores does the Intel i7-6950X have?
- 1. 10
- 2. 12
- 3. 8
- 4. 4
+What is the domain name for the country Tuvalu?
+ 1. .tu
+ 2. .tl
+ 3. .tv
+ 4. .tt
 
 <details>
   <summary>Answer</summary>
-  10
+  .tv
 </details>
 
 
