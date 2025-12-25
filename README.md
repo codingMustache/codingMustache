@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I am terrified of elevators. I’m going to start taking steps to avoid them.
+"Hey, dad, did you get a haircut?" "No, I got them all cut."
 
 
 ## Daily Trivia
 
-What language does Node.js use?
- 1. Java Source
- 2. Java
- 3. Joomla Source Code
- 4. JavaScript
+What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
+ 1. Skylake
+ 2. Coffee Lake
+ 3. Sandy Bridge
+ 4. Broadwell
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  Coffee Lake
 </details>
 
 
