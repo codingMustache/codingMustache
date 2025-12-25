@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why didn't the number 4 get into the nightclub? Because he is 2 square.
+My dentist is the best, he even has a little plaque!
 
 
 ## Daily Trivia
 
-Which of the following computer components can be built using only NAND gates?
- 1. CPU
- 2. ALU
- 3. RAM
- 4. Register
+What did the name of the Tor Anonymity Network orignially stand for?
+ 1. The Orange Router
+ 2. The Only Router
+ 3. The Ominous Router
+ 4. The Onion Router
 
 <details>
   <summary>Answer</summary>
-  ALU
+  The Onion Router
 </details>
 
 
