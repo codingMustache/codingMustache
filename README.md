@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Every night at 11:11, I make a wish that someone will come fix my broken clock.
+Why is the ocean always blue? Because the shore never waves back.
 
 
 ## Daily Trivia
 
-What is the name of Layer 7 of the OSI model?
- 1. Session
- 2. Network
- 3. Present
- 4. Application
+In any programming language, what is the most common way to iterate through an array?
+ 1. &#039;If&#039; Statements
+ 2. &#039;Do-while&#039; loops
+ 3. &#039;While&#039; loops
+ 4. &#039;For&#039; loops
 
 <details>
   <summary>Answer</summary>
-  Application
+  &#039;For&#039; loops
 </details>
 
 
