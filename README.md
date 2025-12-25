@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I went to a Foo Fighters Concert once... It was Everlong...
+Do you want a brief explanation of what an acorn is? In a nutshell, it's an oak tree.
 
 
 ## Daily Trivia
 
-What does the computer software acronym JVM stand for?
- 1. Java Visual Machine
- 2. Java Virtual Machine
- 3. Just Virtual Machine
- 4. Java Vendor Machine
+What does the term MIME stand for, in regards to computing?
+ 1. Multipurpose Interleave Mail Exchange
+ 2. Mail Internet Mail Exchange
+ 3. Multipurpose Internet Mail Extensions
+ 4. Mail Interleave Method Exchange
 
 <details>
   <summary>Answer</summary>
-  Java Virtual Machine
+  Multipurpose Internet Mail Extensions
 </details>
 
 
