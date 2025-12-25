@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-If you walk into a forest and cut down a tree, but the tree doesn't understand why you cut it down, do you think it's stumped?
+Is the pool safe for diving? It deep ends.
 
 
 ## Daily Trivia
 
-What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
- 1. Sandy Bridge
- 2. Skylake
- 3. Broadwell
- 4. Coffee Lake
+What does the &#039;S&#039; in the RSA encryption algorithm stand for?
+ 1. Stable
+ 2. Secure
+ 3. Shamir
+ 4. Schottky
 
 <details>
   <summary>Answer</summary>
-  Coffee Lake
+  Shamir
 </details>
 
 
