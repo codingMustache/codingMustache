@@ -4,23 +4,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I went on a date last night with a girl from the zoo. It was great. She’s a keeper.
+Q: What did the spaghetti say to the other spaghetti?
+A: Pasta la vista, baby!
 
 
 ## Daily Trivia
 
-Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
- 1. Shopify
- 2. Overstock
- 3. Amazon
- 4. eBay
+The name of technology company HP stands for what?
+ 1. Hewlett-Packard
+ 2. Hellman-Pohl
+ 3. Husker-Pollosk
+ 4. Howard Packmann
 
 <details>
   <summary>Answer</summary>
-  Amazon
+  Hewlett-Packard
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **6 days** since this server shutdown
+Its been **7 days** since this server shutdown
