@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What happens to a frog's car when it breaks down? It gets toad.
+Why didn't the number 4 get into the nightclub? Because he is 2 square.
 
 
 ## Daily Trivia
 
-All of the following programs are classified as raster graphics editors EXCEPT:
- 1. Paint.NET
- 2. GIMP
- 3. Inkscape
- 4. Adobe Photoshop
+Which of the following computer components can be built using only NAND gates?
+ 1. CPU
+ 2. ALU
+ 3. RAM
+ 4. Register
 
 <details>
   <summary>Answer</summary>
-  Inkscape
+  ALU
 </details>
 
 
