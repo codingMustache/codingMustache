@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you find Will Smith in the snow?  Look for fresh prints.
+Whoever invented the knock-knock joke should get a no bell prize.
 
 
 ## Daily Trivia
 
-On Twitter, what was the original character limit for a Tweet?
- 1. 120
- 2. 160
- 3. 100
- 4. 140
+Which of the following computer components can be built using only NAND gates?
+ 1. CPU
+ 2. RAM
+ 3. Register
+ 4. ALU
 
 <details>
   <summary>Answer</summary>
-  140
+  ALU
 </details>
 
 
