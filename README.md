@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It’s hard to explain puns to kleptomaniacs, because they take everything literally.
+How does the moon cut his hair? Eclipse it.
 
 
 ## Daily Trivia
 
-In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
- 1. Public
- 2. Static
- 3. Private
- 4. Final
+What does the computer software acronym JVM stand for?
+ 1. Java Visual Machine
+ 2. Java Vendor Machine
+ 3. Java Virtual Machine
+ 4. Just Virtual Machine
 
 <details>
   <summary>Answer</summary>
-  Final
+  Java Virtual Machine
 </details>
 
 
