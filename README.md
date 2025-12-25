@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the guy whose whole left side was cut off? He's all right now.
+What did the 0 say to the 8? Nice belt.
 
 
 ## Daily Trivia
 
-The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
- 1. Taiwan
- 2. United States
- 3. Germany
- 4. China (People&#039;s Republic of)
+In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
+ 1. center
+ 2. relative
+ 3. absolute
+ 4. static
 
 <details>
   <summary>Answer</summary>
-  Taiwan
+  center
 </details>
 
 
