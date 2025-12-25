@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-"Hey, dad, did you get a haircut?" "No, I got them all cut."
+Why do cows not have toes? They lactose!
 
 
 ## Daily Trivia
 
-What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
- 1. Skylake
- 2. Coffee Lake
- 3. Sandy Bridge
- 4. Broadwell
+What does the &#039;S&#039; in the RSA encryption algorithm stand for?
+ 1. Secure
+ 2. Schottky
+ 3. Stable
+ 4. Shamir
 
 <details>
   <summary>Answer</summary>
-  Coffee Lake
+  Shamir
 </details>
 
 
