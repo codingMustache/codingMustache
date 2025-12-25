@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are mummys scared of vacation? They're afraid to unwind.
+What did Yoda say when he saw himself in 4K? "HDMI"
 
 
 ## Daily Trivia
 
-In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
- 1. Static
- 2. Private
- 3. Public
- 4. Final
+What programming language was GitHub written in?
+ 1. JavaScript
+ 2. Ruby
+ 3. Python
+ 4. Lua
 
 <details>
   <summary>Answer</summary>
-  Final
+  Ruby
 </details>
 
 
