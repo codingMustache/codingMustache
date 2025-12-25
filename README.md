@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the guy whose whole left side was cut off? He's all right now.
+What is the best way to carve?
+Whittle by whittle.
 
 
 ## Daily Trivia
 
-How long is an IPv6 address?
- 1. 32 bits
- 2. 128 bytes
- 3. 128 bits
- 4. 64 bits
+What does the &#039;S&#039; in the RSA encryption algorithm stand for?
+ 1. Shamir
+ 2. Stable
+ 3. Schottky
+ 4. Secure
 
 <details>
   <summary>Answer</summary>
-  128 bits
+  Shamir
 </details>
 
 
