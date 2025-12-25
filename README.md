@@ -4,22 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Never Trust Someone With Graph Paper...
-
-They're always plotting something.
+Why don't sharks eat clowns?  Because they taste funny.
 
 
 ## Daily Trivia
 
-Which computer language would you associate Django framework with?
- 1. Java
- 2. C++
- 3. Python
- 4. C#
+Which of these is not a key value of Agile software development?
+ 1. Individuals and interactions
+ 2. Customer collaboration
+ 3. Comprehensive documentation
+ 4. Responding to change
 
 <details>
   <summary>Answer</summary>
-  Python
+  Comprehensive documentation
 </details>
 
 
