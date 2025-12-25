@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the octopus beat the shark in a fight? Because it was well armed.
+What do you call your friend who stands in a hole? Phil.
 
 
 ## Daily Trivia
 
-On which computer hardware device is the BIOS chip located?
- 1. Motherboard
- 2. Hard Disk Drive
- 3. Central Processing Unit
- 4. Graphics Processing Unit
+What five letter word is the motto of the IBM Computer company?
+ 1. Pixel
+ 2. Click
+ 3. Logic
+ 4. Think
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  Think
 </details>
 
 
