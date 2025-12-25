@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I wear a stethoscope so that in a medical emergency I can teach people a valuable lesson about assumptions.
+Yesterday, I accidentally swallowed some food coloring. The doctor says I’m okay, but I feel like I’ve dyed a little inside.
 
 
 ## Daily Trivia
 
-In the server hosting industry IaaS stands for...
- 1. Infrastructure as a Server
- 2. Infrastructure as a Service
- 3. Internet and a Server
- 4. Internet as a Service
+Which of the following is NOT a computer science algorithm?
+ 1. Float Sort
+ 2. Quick Sort
+ 3. Merge Sort
+ 4. Bubble Sort
 
 <details>
   <summary>Answer</summary>
-  Infrastructure as a Service
+  Float Sort
 </details>
 
 
