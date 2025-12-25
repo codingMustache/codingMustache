@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Do you want a brief explanation of what an acorn is? In a nutshell, it's an oak tree.
+If you walk into a forest and cut down a tree, but the tree doesn't understand why you cut it down, do you think it's stumped?
 
 
 ## Daily Trivia
 
-The C programming language was created by this American computer scientist. 
- 1. Dennis Ritchie
- 2. Willis Ware
- 3. al-Khwārizmī
- 4. Tim Berners Lee
+What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
+ 1. Sandy Bridge
+ 2. Skylake
+ 3. Broadwell
+ 4. Coffee Lake
 
 <details>
   <summary>Answer</summary>
-  Dennis Ritchie
+  Coffee Lake
 </details>
 
 
