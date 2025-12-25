@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Yesterday, I accidentally swallowed some food coloring. The doctor says I’m okay, but I feel like I’ve dyed a little inside.
+I am terrified of elevators. I’m going to start taking steps to avoid them.
 
 
 ## Daily Trivia
 
-Which of the following is NOT a computer science algorithm?
- 1. Float Sort
- 2. Quick Sort
- 3. Merge Sort
- 4. Bubble Sort
+What language does Node.js use?
+ 1. Java Source
+ 2. Java
+ 3. Joomla Source Code
+ 4. JavaScript
 
 <details>
   <summary>Answer</summary>
-  Float Sort
+  JavaScript
 </details>
 
 
