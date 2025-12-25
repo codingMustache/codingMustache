@@ -4,20 +4,26 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Camping is intense.
+Wife: Honey I’m pregnant.
+
+Me: Well…. what do we do now?
+
+Wife: Well, I guess we should go to a baby doctor.
+
+Me: Hm.. I think I’d be a lot more comfortable going to an adult doctor.
 
 
 ## Daily Trivia
 
-Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
- 1. eBay
- 2. Overstock
- 3. Shopify
- 4. Amazon
+What does the term MIME stand for, in regards to computing?
+ 1. Multipurpose Internet Mail Extensions
+ 2. Mail Interleave Method Exchange
+ 3. Multipurpose Interleave Mail Exchange
+ 4. Mail Internet Mail Exchange
 
 <details>
   <summary>Answer</summary>
-  Amazon
+  Multipurpose Internet Mail Extensions
 </details>
 
 
