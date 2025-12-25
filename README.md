@@ -4,22 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
- I never wanted to believe that my Dad was stealing from his job as a road worker. But when I got home, all the signs were there.
-
-
+Did you hear about the guy whose whole left side was cut off? He's all right now.
 
 
 ## Daily Trivia
 
-Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
- 1. Year
- 2. Four Years
- 3. Two Years
- 4. Eight Years
+How long is an IPv6 address?
+ 1. 32 bits
+ 2. 128 bytes
+ 3. 128 bits
+ 4. 64 bits
 
 <details>
   <summary>Answer</summary>
-  Year
+  128 bits
 </details>
 
 
