@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I don't trust sushi, there's something fishy about it.
+Why does it take longer to get from 1st to 2nd base, than it does to get from 2nd to 3rd base? Because there’s a Shortstop in between!
 
 
 ## Daily Trivia
 
-Unix Time is defined as the number of seconds that have elapsed since when?
- 1. Midnight, July 4, 1976
- 2. Midnight on the creator of Unix&#039;s birthday
- 3. Midnight, January 1, 1970
- 4. Midnight, July 4, 1980
+What does the &quot;MP&quot; stand for in MP3?
+ 1. Moving Picture
+ 2. Micro Point
+ 3. Multi Pass
+ 4. Music Player
 
 <details>
   <summary>Answer</summary>
-  Midnight, January 1, 1970
+  Moving Picture
 </details>
 
 
