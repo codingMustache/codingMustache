@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call two barracuda fish?  A Pairacuda!
+what happens when you cross a sheep with a kangaroo ? A woolly jumper!
 
 
 ## Daily Trivia
 
-What is the code name for the mobile operating system Android 7.0?
- 1. Ice Cream Sandwich
- 2. Jelly Bean
- 3. Marshmallow
- 4. Nougat
+Which computer language would you associate Django framework with?
+ 1. C#
+ 2. C++
+ 3. Java
+ 4. Python
 
 <details>
   <summary>Answer</summary>
-  Nougat
+  Python
 </details>
 
 
