@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the drummer name her twin daughters? Anna One, Anna Two...
+Why did the sentence fail the driving test? It never came to a full stop.
 
 
 ## Daily Trivia
 
-Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
- 1. Shopify
- 2. Overstock
- 3. eBay
- 4. Amazon
+In web design, what does CSS stand for?
+ 1. Corrective Style Sheet
+ 2. Computer Style Sheet
+ 3. Counter Strike: Source
+ 4. Cascading Style Sheet
 
 <details>
   <summary>Answer</summary>
-  Amazon
+  Cascading Style Sheet
 </details>
 
 
