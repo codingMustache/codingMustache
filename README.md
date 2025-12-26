@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the sentence fail the driving test? It never came to a full stop.
+What did the big flower say to the littler flower? Hi, bud!
 
 
 ## Daily Trivia
 
-In web design, what does CSS stand for?
- 1. Corrective Style Sheet
- 2. Computer Style Sheet
- 3. Counter Strike: Source
- 4. Cascading Style Sheet
+HTML is what type of language?
+ 1. Macro Language
+ 2. Scripting Language
+ 3. Programming Language
+ 4. Markup Language
 
 <details>
   <summary>Answer</summary>
-  Cascading Style Sheet
+  Markup Language
 </details>
 
 
