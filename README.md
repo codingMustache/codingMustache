@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call an alligator in a vest? An in-vest-igator!
+Why does a chicken coop only have two doors? Because if it had four doors it would be a chicken sedan.
 
 
 ## Daily Trivia
 
-What was the first Android version specifically optimized for tablets?
- 1. Eclair
- 2. Froyo
- 3. Honeycomb
- 4. Marshmellow
+What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
+ 1. Temperature Decipator
+ 2. Heat Vent
+ 3. CPU Vent
+ 4. Heat Sink
 
 <details>
   <summary>Answer</summary>
-  Honeycomb
+  Heat Sink
 </details>
 
 
