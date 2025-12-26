@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are skeletons so calm? Because nothing gets under their skin.
+How come the stadium got hot after the game? Because all of the fans left.
 
 
 ## Daily Trivia
 
-Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
- 1. C#
- 2. Python
- 3. PHP
- 4. JavaScript
+What amount of bits commonly equals one byte?
+ 1. 1
+ 2. 8
+ 3. 2
+ 4. 64
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  8
 </details>
 
 
