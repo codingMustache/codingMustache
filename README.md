@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-If you want a job in the moisturizer industry, the best advice I can give is to apply daily.
+I've got a joke about vegetables for you... but it's a bit corny.
 
 
 ## Daily Trivia
 
-According to the International System of Units, how many bytes are in a kilobyte of RAM?
- 1. 1000
- 2. 500
- 3. 1024
- 4. 512
+The C programming language was created by this American computer scientist. 
+ 1. al-Khwārizmī
+ 2. Tim Berners Lee
+ 3. Willis Ware
+ 4. Dennis Ritchie
 
 <details>
   <summary>Answer</summary>
-  1000
+  Dennis Ritchie
 </details>
 
 
