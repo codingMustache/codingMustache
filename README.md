@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why does it take longer to get from 1st to 2nd base, than it does to get from 2nd to 3rd base? Because there’s a Shortstop in between!
+What do you call a careful wolf? Aware wolf.
 
 
 ## Daily Trivia
 
-What does the &quot;MP&quot; stand for in MP3?
- 1. Moving Picture
- 2. Micro Point
- 3. Multi Pass
- 4. Music Player
+The name of technology company HP stands for what?
+ 1. Husker-Pollosk
+ 2. Howard Packmann
+ 3. Hellman-Pohl
+ 4. Hewlett-Packard
 
 <details>
   <summary>Answer</summary>
-  Moving Picture
+  Hewlett-Packard
 </details>
 
 
