@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why is no one friends with Dracula? Because he's a pain in the neck.
+Why was Pavlov's beard so soft?  Because he conditioned it.
 
 
 ## Daily Trivia
 
-Which kind of algorithm is Ron Rivest not famous for creating?
- 1. Secret sharing scheme
- 2. Stream cipher
- 3. Asymmetric encryption
- 4. Hashing algorithm
+What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
+ 1. Heat Sink
+ 2. Heat Vent
+ 3. CPU Vent
+ 4. Temperature Decipator
 
 <details>
   <summary>Answer</summary>
-  Secret sharing scheme
+  Heat Sink
 </details>
 
 
