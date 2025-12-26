@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why does a chicken coop only have two doors? Because if it had four doors it would be a chicken sedan.
+I don't trust sushi, there's something fishy about it.
 
 
 ## Daily Trivia
 
-What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
- 1. Temperature Decipator
- 2. Heat Vent
- 3. CPU Vent
- 4. Heat Sink
+Unix Time is defined as the number of seconds that have elapsed since when?
+ 1. Midnight, July 4, 1976
+ 2. Midnight on the creator of Unix&#039;s birthday
+ 3. Midnight, January 1, 1970
+ 4. Midnight, July 4, 1980
 
 <details>
   <summary>Answer</summary>
-  Heat Sink
+  Midnight, January 1, 1970
 </details>
 
 
