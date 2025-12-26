@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are graveyards so noisy? Because of all the coffin.
+What do you call a magician who has lost their magic? Ian.
 
 
 ## Daily Trivia
 
-Australia, Japan, and Southeast Asia are in which ITU Region?
- 1. Region 1
- 2. Region 3
- 3. Region 2
- 4. Region 4
+Which programming language was developed by Sun Microsystems in 1995?
+ 1. Python
+ 2. Solaris OS
+ 3. C++
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  Region 3
+  Java
 </details>
 
 
