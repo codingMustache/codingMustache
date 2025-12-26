@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I bought shoes from a drug dealer once. I don't know what he laced them with, but I was tripping all day.
+What do you get when you cross a snowman with a vampire? Frostbite.
 
 
 ## Daily Trivia
 
-What was the first Android version specifically optimized for tablets?
- 1. Eclair
- 2. Froyo
- 3. Marshmellow
- 4. Honeycomb
+What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
+ 1. CPU Vent
+ 2. Temperature Decipator
+ 3. Heat Vent
+ 4. Heat Sink
 
 <details>
   <summary>Answer</summary>
-  Honeycomb
+  Heat Sink
 </details>
 
 
