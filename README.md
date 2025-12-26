@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a sheep with no legs? A cloud.
+Two fish are in a tank, one turns to the other and says, "how do you drive this thing?"
 
 
 ## Daily Trivia
 
-Laserjet and inkjet printers are both examples of what type of printer?
- 1. Dot matrix printer
- 2. Impact printer
- 3. Daisywheel printer
- 4. Non-impact printer
+How many Hz does the video standard PAL support?
+ 1. 59
+ 2. 60
+ 3. 25
+ 4. 50
 
 <details>
   <summary>Answer</summary>
-  Non-impact printer
+  50
 </details>
 
 
