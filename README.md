@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you get when you cross a snowman with a vampire? Frostbite.
+What happens when you anger a brain surgeon? They will give you a piece of your mind.
 
 
 ## Daily Trivia
 
-What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
- 1. CPU Vent
- 2. Temperature Decipator
- 3. Heat Vent
- 4. Heat Sink
+Which operating system was released first?
+ 1. Windows
+ 2. Mac OS
+ 3. Linux
+ 4. OS/2
 
 <details>
   <summary>Answer</summary>
-  Heat Sink
+  Mac OS
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **7 days** since this server shutdown
+Its been **8 days** since this server shutdown
