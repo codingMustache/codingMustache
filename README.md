@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I've got a joke about vegetables for you... but it's a bit corny.
+What is the least spoken language in the world?
+Sign Language
 
 
 ## Daily Trivia
 
-The C programming language was created by this American computer scientist. 
- 1. al-Khwārizmī
- 2. Tim Berners Lee
- 3. Willis Ware
- 4. Dennis Ritchie
+What was the name given to Android 4.3?
+ 1. Froyo
+ 2. Nutella
+ 3. Lollipop
+ 4. Jelly Bean
 
 <details>
   <summary>Answer</summary>
-  Dennis Ritchie
+  Jelly Bean
 </details>
 
 
