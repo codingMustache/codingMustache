@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the guy who invented Lifesavers? They say he made a mint.
+What do you call a pile of cats?  A Meowtain.
 
 
 ## Daily Trivia
 
-What is the code name for the mobile operating system Android 7.0?
- 1. Ice Cream Sandwich
- 2. Jelly Bean
- 3. Marshmallow
- 4. Nougat
+How many cores does the Intel i7-6950X have?
+ 1. 12
+ 2. 10
+ 3. 8
+ 4. 4
 
 <details>
   <summary>Answer</summary>
-  Nougat
+  10
 </details>
 
 
