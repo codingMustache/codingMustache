@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was Pavlov's beard so soft?  Because he conditioned it.
+I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later.
 
 
 ## Daily Trivia
 
-What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
- 1. Heat Sink
- 2. Heat Vent
- 3. CPU Vent
- 4. Temperature Decipator
+Which of these is not a layer in the OSI model for data communications?
+ 1. Application Layer
+ 2. Transport Layer
+ 3. Physical Layer
+ 4. Connection Layer
 
 <details>
   <summary>Answer</summary>
-  Heat Sink
+  Connection Layer
 </details>
 
 
