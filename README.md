@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-"Dad, I'm cold."
-"Go stand in the corner, I hear it's 90 degrees."
+Why does Waldo only wear stripes? Because he doesn't want to be spotted.
 
 
 ## Daily Trivia
 
-Who is the founder of Palantir?
- 1. Marc Benioff
- 2. Mark Zuckerberg
- 3. Peter Thiel
- 4. Jack Dorsey
+Which operating system was released first?
+ 1. Mac OS
+ 2. OS/2
+ 3. Linux
+ 4. Windows
 
 <details>
   <summary>Answer</summary>
-  Peter Thiel
+  Mac OS
 </details>
 
 
