@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-what happens when you cross a sheep with a kangaroo ? A woolly jumper!
+I went to the zoo the other day, there was only one dog in it. It was a shitzu.
 
 
 ## Daily Trivia
 
-Which computer language would you associate Django framework with?
- 1. C#
- 2. C++
- 3. Java
- 4. Python
+On which computer hardware device is the BIOS chip located?
+ 1. Motherboard
+ 2. Central Processing Unit
+ 3. Hard Disk Drive
+ 4. Graphics Processing Unit
 
 <details>
   <summary>Answer</summary>
-  Python
+  Motherboard
 </details>
 
 
