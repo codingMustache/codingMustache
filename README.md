@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why does Waldo only wear stripes? Because he doesn't want to be spotted.
+What do you call a sheep with no legs? A cloud.
 
 
 ## Daily Trivia
 
-Which operating system was released first?
- 1. Mac OS
- 2. OS/2
- 3. Linux
- 4. Windows
+Laserjet and inkjet printers are both examples of what type of printer?
+ 1. Dot matrix printer
+ 2. Impact printer
+ 3. Daisywheel printer
+ 4. Non-impact printer
 
 <details>
   <summary>Answer</summary>
-  Mac OS
+  Non-impact printer
 </details>
 
 
