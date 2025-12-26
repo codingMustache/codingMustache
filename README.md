@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor.
+Two dyslexics walk into a bra.
 
 
 ## Daily Trivia
 
-Which one of these is not an official development name for a Ubuntu release?
- 1. Mystic Mansion
- 2. Wily Werewolf
- 3. Utopic Unicorn
- 4. Trusty Tahr
+Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
+ 1. JavaScript
+ 2. PHP
+ 3. Python
+ 4. C#
 
 <details>
   <summary>Answer</summary>
-  Mystic Mansion
+  JavaScript
 </details>
 
 
