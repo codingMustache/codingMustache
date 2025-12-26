@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is the least spoken language in the world?
-Sign Language
+Why are graveyards so noisy? Because of all the coffin.
 
 
 ## Daily Trivia
 
-What was the name given to Android 4.3?
- 1. Froyo
- 2. Nutella
- 3. Lollipop
- 4. Jelly Bean
+Australia, Japan, and Southeast Asia are in which ITU Region?
+ 1. Region 1
+ 2. Region 3
+ 3. Region 2
+ 4. Region 4
 
 <details>
   <summary>Answer</summary>
-  Jelly Bean
+  Region 3
 </details>
 
 
