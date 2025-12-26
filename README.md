@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you organize a space party? You planet.
+Why is no one friends with Dracula? Because he's a pain in the neck.
 
 
 ## Daily Trivia
 
-What does CPU stand for?
- 1. Central Processing Unit
- 2. Central Processor Unit
- 3. Computer Personal Unit
- 4. Central Process Unit
+Which kind of algorithm is Ron Rivest not famous for creating?
+ 1. Secret sharing scheme
+ 2. Stream cipher
+ 3. Asymmetric encryption
+ 4. Hashing algorithm
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  Secret sharing scheme
 </details>
 
 
