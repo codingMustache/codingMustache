@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the 0 say to the 8? Nice belt.
+R.I.P. boiled water. You will be mist.
 
 
 ## Daily Trivia
 
-What does LTS stand for in the software market?
- 1. Long Taco Service
- 2. Ludicrous Transfer Speed
- 3. Ludicrous Turbo Speed
- 4. Long Term Support
+What does GHz stand for?
+ 1. Gigahertz
+ 2. Gigahatz
+ 3. Gigahetz
+ 4. Gigahotz
 
 <details>
   <summary>Answer</summary>
-  Long Term Support
+  Gigahertz
 </details>
 
 
