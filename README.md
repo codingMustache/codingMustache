@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a magician who has lost their magic? Ian.
+Have you heard the rumor going around about butter? Never mind, I shouldn't spread it.
 
 
 ## Daily Trivia
 
-Which programming language was developed by Sun Microsystems in 1995?
- 1. Python
- 2. Solaris OS
- 3. C++
- 4. Java
+Approximately how many Apple I personal computers were created?
+ 1. 200
+ 2. 500
+ 3. 100
+ 4. 1000
 
 <details>
   <summary>Answer</summary>
-  Java
+  200
 </details>
 
 
