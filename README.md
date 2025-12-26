@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-R.I.P. boiled water. You will be mist.
+How do you organize a space party? You planet.
 
 
 ## Daily Trivia
 
-What does GHz stand for?
- 1. Gigahertz
- 2. Gigahatz
- 3. Gigahetz
- 4. Gigahotz
+What does CPU stand for?
+ 1. Central Processing Unit
+ 2. Central Processor Unit
+ 3. Computer Personal Unit
+ 4. Central Process Unit
 
 <details>
   <summary>Answer</summary>
-  Gigahertz
+  Central Processing Unit
 </details>
 
 
