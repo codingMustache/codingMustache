@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I've just written a song about a tortilla. Well, it is more of a rap really.
+What do you call an alligator in a vest? An in-vest-igator!
 
 
 ## Daily Trivia
 
-What is known as &quot;the brain&quot; of the Computer?
- 1. Central Processing Unit
- 2. Motherboard
- 3. Graphics Processing Unit
- 4. Keyboard
+What was the first Android version specifically optimized for tablets?
+ 1. Eclair
+ 2. Froyo
+ 3. Honeycomb
+ 4. Marshmellow
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  Honeycomb
 </details>
 
 
