@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the big flower say to the littler flower? Hi, bud!
+I've just written a song about a tortilla. Well, it is more of a rap really.
 
 
 ## Daily Trivia
 
-HTML is what type of language?
- 1. Macro Language
- 2. Scripting Language
- 3. Programming Language
- 4. Markup Language
+What is known as &quot;the brain&quot; of the Computer?
+ 1. Central Processing Unit
+ 2. Motherboard
+ 3. Graphics Processing Unit
+ 4. Keyboard
 
 <details>
   <summary>Answer</summary>
-  Markup Language
+  Central Processing Unit
 </details>
 
 
