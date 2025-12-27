@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Someone asked me, what's the ninth letter of the alphabet? It was a complete guess, but I was right.
+"What time is it?" I don't know... it keeps changing.
 
 
 ## Daily Trivia
 
-Who is the original author of the realtime physics engine called PhysX?
- 1. NovodeX
- 2. AMD
- 3. Nvidia
- 4. Ageia
+What does the International System of Quantities refer 1024 bytes as?
+ 1. Kylobyte
+ 2. Kilobyte
+ 3. Kelobyte
+ 4. Kibibyte
 
 <details>
   <summary>Answer</summary>
-  NovodeX
+  Kibibyte
 </details>
 
 
