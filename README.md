@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How did the hipster burn the roof of his mouth? He ate the pizza before it was cool.
+Someone asked me, what's the ninth letter of the alphabet? It was a complete guess, but I was right.
 
 
 ## Daily Trivia
 
-On which computer hardware device is the BIOS chip located?
- 1. Hard Disk Drive
- 2. Central Processing Unit
- 3. Graphics Processing Unit
- 4. Motherboard
+Who is the original author of the realtime physics engine called PhysX?
+ 1. NovodeX
+ 2. AMD
+ 3. Nvidia
+ 4. Ageia
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  NovodeX
 </details>
 
 
