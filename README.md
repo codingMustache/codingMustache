@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What musical instrument is found in the bathroom? A tuba toothpaste.
+A termite walks into a bar and asks “Is the bar tender here?”
 
 
 ## Daily Trivia
 
-America Online (AOL) started out as which of these online service providers?
- 1. Quantum Link
- 2. GEnie
- 3. Prodigy
- 4. CompuServe
+What is known as &quot;the brain&quot; of the Computer?
+ 1. Central Processing Unit
+ 2. Keyboard
+ 3. Graphics Processing Unit
+ 4. Motherboard
 
 <details>
   <summary>Answer</summary>
-  Quantum Link
+  Central Processing Unit
 </details>
 
 
