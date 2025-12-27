@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the kid cross the playground? To get to the other slide.
+I am terrified of elevators. I’m going to start taking steps to avoid them.
 
 
 ## Daily Trivia
 
-In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
- 1. Static
- 2. Private
- 3. Public
- 4. Final
+How many Hz does the video standard PAL support?
+ 1. 50
+ 2. 59
+ 3. 60
+ 4. 25
 
 <details>
   <summary>Answer</summary>
-  Final
+  50
 </details>
 
 
