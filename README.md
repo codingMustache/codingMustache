@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the girl smear peanut butter on the road? To go with the traffic jam.
+I used to think I was indecisive, but now I'm not sure.
 
 
 ## Daily Trivia
 
-In computing, what does LAN stand for?
- 1. Light Access Node
- 2. Local Area Network
- 3. Long Antenna Node
- 4. Land Address Navigation
+What does the International System of Quantities refer 1024 bytes as?
+ 1. Kilobyte
+ 2. Kibibyte
+ 3. Kylobyte
+ 4. Kelobyte
 
 <details>
   <summary>Answer</summary>
-  Local Area Network
+  Kibibyte
 </details>
 
 
