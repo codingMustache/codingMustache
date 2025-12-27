@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the belt go to prison? He held up a pair of pants!
+Why did the girl smear peanut butter on the road? To go with the traffic jam.
 
 
 ## Daily Trivia
 
-What does the computer software acronym JVM stand for?
- 1. Java Vendor Machine
- 2. Java Visual Machine
- 3. Just Virtual Machine
- 4. Java Virtual Machine
+In computing, what does LAN stand for?
+ 1. Light Access Node
+ 2. Local Area Network
+ 3. Long Antenna Node
+ 4. Land Address Navigation
 
 <details>
   <summary>Answer</summary>
-  Java Virtual Machine
+  Local Area Network
 </details>
 
 
