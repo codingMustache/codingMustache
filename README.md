@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a dictionary on drugs? High definition.
+A man tried to sell me a coffin today. I told him that's the last thing I need.
 
 
 ## Daily Trivia
 
-Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
- 1. Enigma Machine
- 2. Skipjack
- 3. Clipper Chip
- 4. Nautilus
+Which of the following is NOT a computer science algorithm?
+ 1. Bubble Sort
+ 2. Float Sort
+ 3. Merge Sort
+ 4. Quick Sort
 
 <details>
   <summary>Answer</summary>
-  Clipper Chip
+  Float Sort
 </details>
 
 
