@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take.
+Why can't a bicycle stand on its own? It's two-tired.
 
 
 ## Daily Trivia
 
-What was the name given to Android 4.3?
- 1. Nutella
- 2. Lollipop
- 3. Jelly Bean
- 4. Froyo
+What is the domain name for the country Tuvalu?
+ 1. .tv
+ 2. .tl
+ 3. .tt
+ 4. .tu
 
 <details>
   <summary>Answer</summary>
-  Jelly Bean
+  .tv
 </details>
 
 
