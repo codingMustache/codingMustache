@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A man tried to sell me a coffin today. I told him that's the last thing I need.
+Why do choirs keep buckets handy? So they can carry their tune
 
 
 ## Daily Trivia
 
-Which of the following is NOT a computer science algorithm?
- 1. Bubble Sort
- 2. Float Sort
- 3. Merge Sort
- 4. Quick Sort
+Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
+ 1. Eight Years
+ 2. Four Years
+ 3. Two Years
+ 4. Year
 
 <details>
   <summary>Answer</summary>
-  Float Sort
+  Year
 </details>
 
 
