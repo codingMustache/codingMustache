@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I was wondering why the frisbee was getting bigger, then it hit me.
+What do you call a duck that gets all A's? A wise quacker.
 
 
 ## Daily Trivia
 
-Which of these is not a key value of Agile software development?
- 1. Individuals and interactions
- 2. Customer collaboration
- 3. Responding to change
- 4. Comprehensive documentation
+.rs is the top-level domain for what country?
+ 1. Serbia
+ 2. Rwanda
+ 3. Russia
+ 4. Romania
 
 <details>
   <summary>Answer</summary>
-  Comprehensive documentation
+  Serbia
 </details>
 
 
