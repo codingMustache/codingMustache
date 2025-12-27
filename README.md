@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I gave all my dead batteries away today, free of charge.
+I really want to buy one of those supermarket checkout dividers, but the cashier keeps putting it back.
 
 
 ## Daily Trivia
 
-What was the first company to use the term &quot;Golden Master&quot;?
- 1. IBM
- 2. Apple
- 3. Microsoft
- 4. Google
+This mobile OS held the largest market share in 2012.
+ 1. Symbian
+ 2. Android
+ 3. iOS
+ 4. BlackBerry
 
 <details>
   <summary>Answer</summary>
-  Apple
+  iOS
 </details>
 
 
