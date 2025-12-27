@@ -4,22 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
- I never wanted to believe that my Dad was stealing from his job as a road worker. But when I got home, all the signs were there.
-
-
+Where do young cows eat lunch? In the calf-ateria.
 
 
 ## Daily Trivia
 
-What was the first Android version specifically optimized for tablets?
- 1. Eclair
- 2. Honeycomb
- 3. Froyo
- 4. Marshmellow
+Which programming language was developed by Sun Microsystems in 1995?
+ 1. C++
+ 2. Solaris OS
+ 3. Python
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  Honeycomb
+  Java
 </details>
 
 
