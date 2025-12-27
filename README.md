@@ -4,20 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-There’s a new type of broom out, it’s sweeping the nation.
+Mahatma Gandhi, as you know, walked barefoot most of the time, which produced an impressive set of calluses on his feet. 
+He also ate very little, which made him rather frail and with his odd diet, he suffered from bad breath. 
+This made him a super calloused fragile mystic hexed by halitosis.
 
 
 ## Daily Trivia
 
-Which of the following is a personal computer made by the Japanese company Fujitsu?
- 1. PC-9801
- 2. FM-7
- 3. Xmillennium 
- 4. MSX
+What was the name of the security vulnerability found in Bash in 2014?
+ 1. Stagefright
+ 2. Shellshock
+ 3. Bashbug
+ 4. Heartbleed
 
 <details>
   <summary>Answer</summary>
-  FM-7
+  Shellshock
 </details>
 
 
