@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why can't a bicycle stand on its own? It's two-tired.
+What did the pirate say on his 80th birthday? Aye Matey!
 
 
 ## Daily Trivia
 
-What is the domain name for the country Tuvalu?
- 1. .tv
- 2. .tl
- 3. .tt
- 4. .tu
+America Online (AOL) started out as which of these online service providers?
+ 1. Prodigy
+ 2. CompuServe
+ 3. Quantum Link
+ 4. GEnie
 
 <details>
   <summary>Answer</summary>
-  .tv
+  Quantum Link
 </details>
 
 
