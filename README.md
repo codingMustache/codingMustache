@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Yesterday I confused the words "jacuzzi" and "yakuza". Now I'm in hot water with the Japanese mafia.
+I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take.
 
 
 ## Daily Trivia
 
-On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
- 1. Exclamation Mark
- 2. Asterisk
- 3. Percent Sign
- 4. Dollar Sign
+What was the name given to Android 4.3?
+ 1. Nutella
+ 2. Lollipop
+ 3. Jelly Bean
+ 4. Froyo
 
 <details>
   <summary>Answer</summary>
-  Exclamation Mark
+  Jelly Bean
 </details>
 
 
