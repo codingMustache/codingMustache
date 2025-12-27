@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Whenever the cashier at the grocery store asks my dad if he would like the milk in a bag he replies, ‘No, just leave it in the carton!’
+What do you call a dictionary on drugs? High definition.
 
 
 ## Daily Trivia
 
-The numbering system with a radix of 16 is more commonly referred to as 
- 1. Octal
- 2. Binary
- 3. Duodecimal
- 4. Hexidecimal
+Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
+ 1. Enigma Machine
+ 2. Skipjack
+ 3. Clipper Chip
+ 4. Nautilus
 
 <details>
   <summary>Answer</summary>
-  Hexidecimal
+  Clipper Chip
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **8 days** since this server shutdown
+Its been **9 days** since this server shutdown
