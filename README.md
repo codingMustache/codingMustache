@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to think I was indecisive, but now I'm not sure.
+What do you call a boomerang that won't come back? A stick.
 
 
 ## Daily Trivia
 
-What does the International System of Quantities refer 1024 bytes as?
- 1. Kilobyte
- 2. Kibibyte
- 3. Kylobyte
- 4. Kelobyte
+Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
+ 1. C#
+ 2. Python
+ 3. PHP
+ 4. JavaScript
 
 <details>
   <summary>Answer</summary>
-  Kibibyte
+  JavaScript
 </details>
 
 
