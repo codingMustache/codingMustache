@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are mummys scared of vacation? They're afraid to unwind.
+What do you call a fat psychic? A four-chin teller.
 
 
 ## Daily Trivia
 
-Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
- 1. Apple
- 2. Microsoft
- 3. Atari
- 4. Commodore
+What programming language was GitHub written in?
+ 1. Lua
+ 2. Python
+ 3. Ruby
+ 4. JavaScript
 
 <details>
   <summary>Answer</summary>
-  Apple
+  Ruby
 </details>
 
 
