@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call your friend who stands in a hole? Phil.
+What did the doctor say to the gingerbread man who broke his leg? Try icing it.
 
 
 ## Daily Trivia
 
-Lenovo acquired IBM&#039;s personal computer division, including the ThinkPad line of laptops and tablets, in what year?
- 1. 2002
- 2. 1999
- 3. 2008
- 4. 2005
+Which SQL keyword is used to fetch data from a database?
+ 1. SELECT
+ 2. INDEX
+ 3. EXEC
+ 4. VALUES
 
 <details>
   <summary>Answer</summary>
-  2005
+  SELECT
 </details>
 
 
