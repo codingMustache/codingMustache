@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How does a French skeleton say hello? Bone-jour.
+I asked the surgeon if I could administer my own anesthetic, they said: go ahead, knock yourself out.
 
 
 ## Daily Trivia
 
-What does LTS stand for in the software market?
- 1. Long Term Support
- 2. Ludicrous Turbo Speed
- 3. Ludicrous Transfer Speed
- 4. Long Taco Service
+When did the online streaming service &quot;Mixer&quot; launch?
+ 1. 2016
+ 2. 2013
+ 3. 2009
+ 4. 2011
 
 <details>
   <summary>Answer</summary>
-  Long Term Support
+  2016
 </details>
 
 
