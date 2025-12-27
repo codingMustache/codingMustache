@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the doctor say to the gingerbread man who broke his leg? Try icing it.
+“Doctor, I’ve broken my arm in several places” Doctor “Well don’t go to those places.”
 
 
 ## Daily Trivia
 
-Which SQL keyword is used to fetch data from a database?
- 1. SELECT
- 2. INDEX
- 3. EXEC
- 4. VALUES
+What does CPU stand for?
+ 1. Central Processing Unit
+ 2. Central Processor Unit
+ 3. Computer Personal Unit
+ 4. Central Process Unit
 
 <details>
   <summary>Answer</summary>
-  SELECT
+  Central Processing Unit
 </details>
 
 
