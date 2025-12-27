@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the green grape say to the purple grape?
-BREATH!!
+What do you call a gorilla wearing headphones? Anything you'd like, it can't hear you.
 
 
 ## Daily Trivia
 
-What is the name of the process that sends one qubit of information using two bits of classical information?
- 1. Super Dense Coding
- 2. Quantum Entanglement
- 3. Quantum Programming
- 4. Quantum Teleportation
+In computing, what does LAN stand for?
+ 1. Light Access Node
+ 2. Local Area Network
+ 3. Long Antenna Node
+ 4. Land Address Navigation
 
 <details>
   <summary>Answer</summary>
-  Quantum Teleportation
+  Local Area Network
 </details>
 
 
