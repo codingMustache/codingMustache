@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the pirate say on his 80th birthday? Aye Matey!
+What did the green grape say to the purple grape?
+BREATH!!
 
 
 ## Daily Trivia
 
-America Online (AOL) started out as which of these online service providers?
- 1. Prodigy
- 2. CompuServe
- 3. Quantum Link
- 4. GEnie
+What is the name of the process that sends one qubit of information using two bits of classical information?
+ 1. Super Dense Coding
+ 2. Quantum Entanglement
+ 3. Quantum Programming
+ 4. Quantum Teleportation
 
 <details>
   <summary>Answer</summary>
-  Quantum Link
+  Quantum Teleportation
 </details>
 
 
