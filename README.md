@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a gorilla wearing headphones? Anything you'd like, it can't hear you.
+Remember, the best angle to approach a problem from is the "try" angle.
 
 
 ## Daily Trivia
 
-In computing, what does LAN stand for?
- 1. Light Access Node
- 2. Local Area Network
- 3. Long Antenna Node
- 4. Land Address Navigation
+What does AD stand for in relation to Windows Operating Systems? 
+ 1. Automated Database
+ 2. Active Department
+ 3. Active Directory
+ 4. Alternative Drive
 
 <details>
   <summary>Answer</summary>
-  Local Area Network
+  Active Directory
 </details>
 
 
