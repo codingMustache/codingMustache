@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do choirs keep buckets handy? So they can carry their tune
+My cat was just sick on the carpet, I don’t think it’s feline well.
 
 
 ## Daily Trivia
 
-Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
- 1. Eight Years
- 2. Four Years
- 3. Two Years
- 4. Year
+Which one of these is not an official development name for a Ubuntu release?
+ 1. Wily Werewolf
+ 2. Utopic Unicorn
+ 3. Trusty Tahr
+ 4. Mystic Mansion
 
 <details>
   <summary>Answer</summary>
-  Year
+  Mystic Mansion
 </details>
 
 
