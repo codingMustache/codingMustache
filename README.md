@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why can't you use "Beef stew" as a password? Because it's not stroganoff.
+What's brown and sticky? A stick.
 
 
 ## Daily Trivia
 
-In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
- 1. print(&quot;Hello World&quot;)
- 2. console.log(&quot;Hello World&quot;)
- 3. printf(&quot;Hello World&quot;)
- 4. echo &quot;Hello World&quot;
+What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
+ 1. FM Synthesizer
+ 2. Programmable Sound Generator (PSG)
+ 3. PCM Sampler
+ 4. ADPCM Sampler
 
 <details>
   <summary>Answer</summary>
-  print(&quot;Hello World&quot;)
+  ADPCM Sampler
 </details>
 
 
