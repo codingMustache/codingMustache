@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Remember, the best angle to approach a problem from is the "try" angle.
+Did you hear the one about the guy with the broken hearing aid? Neither did he.
 
 
 ## Daily Trivia
 
-Which of the following is a personal computer made by the Japanese company Fujitsu?
- 1. FM-7
- 2. MSX
- 3. Xmillennium 
- 4. PC-9801
+What five letter word is the motto of the IBM Computer company?
+ 1. Click
+ 2. Logic
+ 3. Pixel
+ 4. Think
 
 <details>
   <summary>Answer</summary>
-  FM-7
+  Think
 </details>
 
 
