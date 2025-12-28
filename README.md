@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I had a rough day, and then somebody went and ripped the front and back pages from my dictionary. It just goes from bad to worse.
+"Dad, I'm cold."
+"Go stand in the corner, I hear it's 90 degrees."
 
 
 ## Daily Trivia
 
-Lenovo acquired IBM&#039;s personal computer division, including the ThinkPad line of laptops and tablets, in what year?
- 1. 1999
- 2. 2002
- 3. 2008
- 4. 2005
+The teapot often seen in many 3D modeling applications is called what?
+ 1. Tennessee Teapot
+ 2. 3D Teapot
+ 3. Pixar Teapot
+ 4. Utah Teapot
 
 <details>
   <summary>Answer</summary>
-  2005
+  Utah Teapot
 </details>
 
 
