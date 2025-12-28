@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What has three letters and starts with gas? A Car.
+If two vegans are having an argument, is it still considered beef?
 
 
 ## Daily Trivia
 
-.at is the top-level domain for what country?
- 1. Argentina
- 2. Australia
- 3. Austria
- 4. Angola
+This mobile OS held the largest market share in 2012.
+ 1. iOS
+ 2. BlackBerry
+ 3. Android
+ 4. Symbian
 
 <details>
   <summary>Answer</summary>
-  Austria
+  iOS
 </details>
 
 
