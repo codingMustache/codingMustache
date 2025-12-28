@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are skeletons so calm? Because nothing gets under their skin.
+Why do ducks make great detectives? They always quack the case.
 
 
 ## Daily Trivia
 
-.at is the top-level domain for what country?
- 1. Australia
- 2. Argentina
- 3. Austria
- 4. Angola
+What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
+ 1. Coffee Lake
+ 2. Sandy Bridge
+ 3. Broadwell
+ 4. Skylake
 
 <details>
   <summary>Answer</summary>
-  Austria
+  Coffee Lake
 </details>
 
 
