@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A Skeleton walked into a bar he said I need a beer and a mop
+I had a rough day, and then somebody went and ripped the front and back pages from my dictionary. It just goes from bad to worse.
 
 
 ## Daily Trivia
 
-What was Bitcoin&#039;s block size limit in 2010?
- 1. 1 MB
- 2. 1 KB
- 3. 1 TB
- 4. 1GB
+Lenovo acquired IBM&#039;s personal computer division, including the ThinkPad line of laptops and tablets, in what year?
+ 1. 1999
+ 2. 2002
+ 3. 2008
+ 4. 2005
 
 <details>
   <summary>Answer</summary>
-  1 MB
+  2005
 </details>
 
 
