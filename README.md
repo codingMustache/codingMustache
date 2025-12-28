@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Atheism is a non-prophet organisation.
+I thought my wife was joking when she said she'd leave me if I didn't stop signing "I'm A Believer"... Then I saw her face.
 
 
 ## Daily Trivia
 
-What does the term MIME stand for, in regards to computing?
- 1. Mail Interleave Method Exchange
- 2. Multipurpose Interleave Mail Exchange
- 3. Multipurpose Internet Mail Extensions
- 4. Mail Internet Mail Exchange
+Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
+ 1. Four Years
+ 2. Eight Years
+ 3. Year
+ 4. Two Years
 
 <details>
   <summary>Answer</summary>
-  Multipurpose Internet Mail Extensions
+  Year
 </details>
 
 
