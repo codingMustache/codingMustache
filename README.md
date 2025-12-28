@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear the one about the guy with the broken hearing aid? Neither did he.
+Why can't you use "Beef stew" as a password? Because it's not stroganoff.
 
 
 ## Daily Trivia
 
-What five letter word is the motto of the IBM Computer company?
- 1. Click
- 2. Logic
- 3. Pixel
- 4. Think
+In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
+ 1. print(&quot;Hello World&quot;)
+ 2. console.log(&quot;Hello World&quot;)
+ 3. printf(&quot;Hello World&quot;)
+ 4. echo &quot;Hello World&quot;
 
 <details>
   <summary>Answer</summary>
-  Think
+  print(&quot;Hello World&quot;)
 </details>
 
 
