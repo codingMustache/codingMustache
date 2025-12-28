@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-When will the little snake arrive? I don't know but he won't be long...
+What do Alexander the Great and Winnie the Pooh have in common? Same middle name.
 
 
 ## Daily Trivia
 
-Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
- 1. Nautilus
- 2. Skipjack
- 3. Enigma Machine
- 4. Clipper Chip
+The numbering system with a radix of 16 is more commonly referred to as 
+ 1. Binary
+ 2. Duodecimal
+ 3. Octal
+ 4. Hexidecimal
 
 <details>
   <summary>Answer</summary>
-  Clipper Chip
+  Hexidecimal
 </details>
 
 
