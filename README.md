@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was ten scared of seven? Because seven ate nine.
+What has three letters and starts with gas? A Car.
 
 
 ## Daily Trivia
 
-The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
- 1. HD Graphics 500
- 2. HD Graphics 7000
- 3. HD Graphics 600
- 4. HD Graphics 700 
+.at is the top-level domain for what country?
+ 1. Argentina
+ 2. Australia
+ 3. Austria
+ 4. Angola
 
 <details>
   <summary>Answer</summary>
-  HD Graphics 500
+  Austria
 </details>
 
 
