@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Whats a penguins favorite relative? Aunt Arctica.
+Did you hear about the guy who invented Lifesavers? They say he made a mint.
 
 
 ## Daily Trivia
 
-The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
- 1. United States
- 2. Taiwan
- 3. Germany
- 4. China (People&#039;s Republic of)
+What does the International System of Quantities refer 1024 bytes as?
+ 1. Kilobyte
+ 2. Kelobyte
+ 3. Kylobyte
+ 4. Kibibyte
 
 <details>
   <summary>Answer</summary>
-  Taiwan
+  Kibibyte
 </details>
 
 
