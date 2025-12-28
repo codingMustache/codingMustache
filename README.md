@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you get when you cross a chicken with a skunk? A fowl smell!
+My cat was just sick on the carpet, I don’t think it’s feline well.
 
 
 ## Daily Trivia
 
-In computing terms, typically what does CLI stand for?
- 1. Command Line Interface
- 2. Common Language Interface
- 3. Control Line Interface
- 4. Common Language Input
+In programming, the ternary operator is mostly defined with what symbol(s)?
+ 1. ??
+ 2. ?:
+ 3. if then
+ 4. ?
 
 <details>
   <summary>Answer</summary>
-  Command Line Interface
+  ?:
 </details>
 
 
