@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I thought my wife was joking when she said she'd leave me if I didn't stop signing "I'm A Believer"... Then I saw her face.
+Some people say that I never got over my obsession with Phil Collins.
+But take a look at me now.
 
 
 ## Daily Trivia
 
-Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
- 1. Four Years
- 2. Eight Years
- 3. Year
- 4. Two Years
+Which programming language was developed by Sun Microsystems in 1995?
+ 1. Java
+ 2. C++
+ 3. Solaris OS
+ 4. Python
 
 <details>
   <summary>Answer</summary>
-  Year
+  Java
 </details>
 
 
