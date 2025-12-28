@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A man walked in to a bar with some asphalt on his arm. He said “Two beers please, one for me and one for the road.”
+I was going to get a brain transplant, but I changed my mind
 
 
 ## Daily Trivia
 
-What port does HTTP run on?
- 1. 80
- 2. 443
- 3. 53
- 4. 23
+What language does Node.js use?
+ 1. JavaScript
+ 2. Joomla Source Code
+ 3. Java Source
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  80
+  JavaScript
 </details>
 
 
