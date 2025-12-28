@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I’ve deleted the phone numbers of all the Germans I know from my mobile phone. Now it’s Hans free.
+I accidentally drank a bottle of invisible ink. Now I’m in hospital, waiting to be seen.
 
 
 ## Daily Trivia
 
-Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
- 1. Microsoft
- 2. Atari
- 3. Commodore
- 4. Apple
+Which RAID array type is associated with data mirroring?
+ 1. RAID 10
+ 2. RAID 1
+ 3. RAID 0
+ 4. RAID 5
 
 <details>
   <summary>Answer</summary>
-  Apple
+  RAID 1
 </details>
 
 
