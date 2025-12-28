@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-If two vegans are having an argument, is it still considered beef?
+Don't buy flowers at a monastery. Because only you can prevent florist friars.
 
 
 ## Daily Trivia
 
-This mobile OS held the largest market share in 2012.
- 1. iOS
- 2. BlackBerry
- 3. Android
- 4. Symbian
+The programming language &#039;Swift&#039; was created to replace what other programming language?
+ 1. Ruby
+ 2. Objective-C
+ 3. C++
+ 4. C#
 
 <details>
   <summary>Answer</summary>
-  iOS
+  Objective-C
 </details>
 
 
