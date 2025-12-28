@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I accidentally took my cats meds last night. Don’t ask meow.
+Why are ghosts bad liars? Because you can see right through them!
 
 
 ## Daily Trivia
 
-Which of these names was an actual codename for a cancelled Microsoft project?
- 1. Enceladus
- 2. Pollux
- 3. Neptune
- 4. Saturn
+What does RAID stand for?
+ 1. Range of Applications with Identical Designs
+ 2. Redundant Array of Independent Disks
+ 3. Rapid Access for Indexed Devices
+ 4. Randomized Abstract Identification Description
 
 <details>
   <summary>Answer</summary>
-  Neptune
+  Redundant Array of Independent Disks
 </details>
 
 
