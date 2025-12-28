@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do ducks make great detectives? They always quack the case.
+Who is the coolest Doctor in the hospital? The hip Doctor!
 
 
 ## Daily Trivia
 
-What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
- 1. Coffee Lake
- 2. Sandy Bridge
- 3. Broadwell
- 4. Skylake
+Which of these is not a layer in the OSI model for data communications?
+ 1. Physical Layer
+ 2. Transport Layer
+ 3. Connection Layer
+ 4. Application Layer
 
 <details>
   <summary>Answer</summary>
-  Coffee Lake
+  Connection Layer
 </details>
 
 
