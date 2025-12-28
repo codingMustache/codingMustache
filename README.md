@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I accidentally drank a bottle of invisible ink. Now I’m in hospital, waiting to be seen.
+How does a dyslexic poet write? Inverse.
 
 
 ## Daily Trivia
 
-Which RAID array type is associated with data mirroring?
- 1. RAID 10
- 2. RAID 1
- 3. RAID 0
- 4. RAID 5
+What does AD stand for in relation to Windows Operating Systems? 
+ 1. Alternative Drive
+ 2. Active Department
+ 3. Automated Database
+ 4. Active Directory
 
 <details>
   <summary>Answer</summary>
-  RAID 1
+  Active Directory
 </details>
 
 
