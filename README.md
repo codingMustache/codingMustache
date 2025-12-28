@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are ghosts bad liars? Because you can see right through them!
+I’m only familiar with 25 letters in the English language. I don’t know why.
 
 
 ## Daily Trivia
 
-What does RAID stand for?
- 1. Range of Applications with Identical Designs
- 2. Redundant Array of Independent Disks
- 3. Rapid Access for Indexed Devices
- 4. Randomized Abstract Identification Description
+Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
+ 1. Four Years
+ 2. Two Years
+ 3. Eight Years
+ 4. Year
 
 <details>
   <summary>Answer</summary>
-  Redundant Array of Independent Disks
+  Year
 </details>
 
 
