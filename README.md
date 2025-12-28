@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Don't buy flowers at a monastery. Because only you can prevent florist friars.
+Why do scuba divers fall backwards into the water? Because if they fell forwards they’d still be in the boat.
 
 
 ## Daily Trivia
 
-The programming language &#039;Swift&#039; was created to replace what other programming language?
- 1. Ruby
- 2. Objective-C
- 3. C++
- 4. C#
+Nvidia&#039;s headquarters are based in which Silicon Valley city?
+ 1. Mountain View
+ 2. Cupertino
+ 3. Palo Alto
+ 4. Santa Clara
 
 <details>
   <summary>Answer</summary>
-  Objective-C
+  Santa Clara
 </details>
 
 
