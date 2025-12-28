@@ -4,22 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Doctor: Do you want to hear the good news or the bad news?
-Patient: Good news please.
-Doctor: we're naming a disease after you.
+A woman is on trial for beating her husband to death with his guitar collection. Judge says, ‘First offender?’ She says, ‘No, first a Gibson! Then a Fender!’
 
 
 ## Daily Trivia
 
-Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
- 1. Heartbleed
- 2. Corrupted Blood
- 3. Shellshock
- 4. Shellscript
+While Apple was formed in California, in which western state was Microsoft founded?
+ 1. Washington
+ 2. Colorado
+ 3. Arizona
+ 4. New Mexico
 
 <details>
   <summary>Answer</summary>
-  Heartbleed
+  New Mexico
 </details>
 
 
