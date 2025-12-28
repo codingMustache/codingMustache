@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A woman is on trial for beating her husband to death with his guitar collection. Judge says, ‘First offender?’ She says, ‘No, first a Gibson! Then a Fender!’
+Have you heard about the owl sanctuary job opening? It’s all night shifts but they’re all a hoot over there.
 
 
 ## Daily Trivia
 
-While Apple was formed in California, in which western state was Microsoft founded?
- 1. Washington
- 2. Colorado
- 3. Arizona
- 4. New Mexico
+What is the name of Layer 7 of the OSI model?
+ 1. Network
+ 2. Application
+ 3. Session
+ 4. Present
 
 <details>
   <summary>Answer</summary>
-  New Mexico
+  Application
 </details>
 
 
