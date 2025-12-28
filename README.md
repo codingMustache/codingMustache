@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's orange and sounds like a parrot? A Carrot.
+Mountains aren't just funny, they are hill areas
 
 
 ## Daily Trivia
 
-Who invented the &quot;Spanning Tree Protocol&quot;?
- 1. Michael Roberts
- 2. Radia Perlman
- 3. Vint Cerf
- 4. Paul Vixie
+Generally, which component of a computer draws the most power?
+ 1. Processor
+ 2. Video Card
+ 3. Hard Drive
+ 4. Power Supply
 
 <details>
   <summary>Answer</summary>
-  Radia Perlman
+  Video Card
 </details>
 
 
