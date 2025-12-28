@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did Yoda say when he saw himself in 4K? "HDMI"
+A man walked in to a bar with some asphalt on his arm. He said “Two beers please, one for me and one for the road.”
 
 
 ## Daily Trivia
 
-What does the &quot;MP&quot; stand for in MP3?
- 1. Moving Picture
- 2. Micro Point
- 3. Multi Pass
- 4. Music Player
+What port does HTTP run on?
+ 1. 80
+ 2. 443
+ 3. 53
+ 4. 23
 
 <details>
   <summary>Answer</summary>
-  Moving Picture
+  80
 </details>
 
 
