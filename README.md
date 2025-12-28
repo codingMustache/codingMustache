@@ -4,20 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I’m on a whiskey diet. I’ve lost three days already.
+Doctor: Do you want to hear the good news or the bad news?
+Patient: Good news please.
+Doctor: we're naming a disease after you.
 
 
 ## Daily Trivia
 
-Which data structure does FILO apply to?
- 1. Queue
- 2. Heap
- 3. Tree
- 4. Stack
+Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
+ 1. Heartbleed
+ 2. Corrupted Blood
+ 3. Shellshock
+ 4. Shellscript
 
 <details>
   <summary>Answer</summary>
-  Stack
+  Heartbleed
 </details>
 
 
