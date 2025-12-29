@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do hamburgers go to dance? The meat-ball.
+How can you tell a vampire has a cold? They start coffin.
 
 
 ## Daily Trivia
