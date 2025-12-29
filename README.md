@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Bad at golf? Join the club.
+Why did the m&m go to school? Because it wanted to be a Smartie!
 
 
 ## Daily Trivia
 
-All of the following programs are classified as raster graphics editors EXCEPT:
- 1. Paint.NET
- 2. GIMP
- 3. Inkscape
- 4. Adobe Photoshop
+The C programming language was created by this American computer scientist. 
+ 1. Tim Berners Lee
+ 2. al-Khwārizmī
+ 3. Willis Ware
+ 4. Dennis Ritchie
 
 <details>
   <summary>Answer</summary>
-  Inkscape
+  Dennis Ritchie
 </details>
 
 
