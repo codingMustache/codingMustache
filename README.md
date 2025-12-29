@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you get two whales in a car? Start in England and drive West.
+Parallel lines have so much in common. It’s a shame they’ll never meet.
 
 
 ## Daily Trivia
 
-What does the term GPU stand for?
- 1. Graphical Proprietary Unit
- 2. Graphics Processing Unit
- 3. Graphite Producing Unit
- 4. Gaming Processor Unit
+Who invented the &quot;Spanning Tree Protocol&quot;?
+ 1. Radia Perlman
+ 2. Michael Roberts
+ 3. Paul Vixie
+ 4. Vint Cerf
 
 <details>
   <summary>Answer</summary>
-  Graphics Processing Unit
+  Radia Perlman
 </details>
 
 
