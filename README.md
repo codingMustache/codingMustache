@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did Yoda say when he saw himself in 4K? "HDMI"
+Did you know Albert Einstein was a real person? All this time, I thought he was just a theoretical physicist!
 
 
 ## Daily Trivia
 
-Generally, which component of a computer draws the most power?
- 1. Processor
- 2. Power Supply
- 3. Hard Drive
- 4. Video Card
+What was the first Android version specifically optimized for tablets?
+ 1. Eclair
+ 2. Froyo
+ 3. Marshmellow
+ 4. Honeycomb
 
 <details>
   <summary>Answer</summary>
-  Video Card
+  Honeycomb
 </details>
 
 
