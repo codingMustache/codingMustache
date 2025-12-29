@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you know Albert Einstein was a real person? All this time, I thought he was just a theoretical physicist!
+What do you call a gorilla wearing headphones? Anything you'd like, it can't hear you.
 
 
 ## Daily Trivia
 
-What was the first Android version specifically optimized for tablets?
- 1. Eclair
- 2. Froyo
- 3. Marshmellow
- 4. Honeycomb
+In programming, what do you call functions with the same name but different implementations?
+ 1. Inheriting
+ 2. Overriding
+ 3. Overloading
+ 4. Abstracting
 
 <details>
   <summary>Answer</summary>
-  Honeycomb
+  Overloading
 </details>
 
 
