@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-There's not really any training for garbagemen. They just pick things up as they go.
+The shovel was a ground-breaking invention.
 
 
 ## Daily Trivia
 
-What was the name of the first Bulgarian personal computer?
- 1. IZOT 1030
- 2. Pravetz 8D
- 3. Pravetz 82
- 4. IMKO-1
+What major programming language does Unreal Engine 4 use?
+ 1. C++
+ 2. C#
+ 3. Assembly
+ 4. ECMAScript
 
 <details>
   <summary>Answer</summary>
-  IMKO-1
+  C++
 </details>
 
 
