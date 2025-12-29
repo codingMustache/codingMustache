@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call cheese by itself? Provolone.
+I was wondering why the frisbee was getting bigger, then it hit me.
 
 
 ## Daily Trivia
 
-In computing, what does LAN stand for?
- 1. Local Area Network
- 2. Land Address Navigation
- 3. Light Access Node
- 4. Long Antenna Node
+What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
+ 1. Heat Sink
+ 2. Heat Vent
+ 3. CPU Vent
+ 4. Temperature Decipator
 
 <details>
   <summary>Answer</summary>
-  Local Area Network
+  Heat Sink
 </details>
 
 
