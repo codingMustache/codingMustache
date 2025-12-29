@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What biscuit does a short person like? Shortbread. 
+Someone asked me, what's the ninth letter of the alphabet? It was a complete guess, but I was right.
 
 
 ## Daily Trivia
 
-What is the domain name for the country Tuvalu?
- 1. .tv
- 2. .tt
- 3. .tu
- 4. .tl
+Which programming language was developed by Sun Microsystems in 1995?
+ 1. Java
+ 2. C++
+ 3. Solaris OS
+ 4. Python
 
 <details>
   <summary>Answer</summary>
-  .tv
+  Java
 </details>
 
 
