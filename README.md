@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Don't trust atoms. They make up everything.
+What did Yoda say when he saw himself in 4K? "HDMI"
 
 
 ## Daily Trivia
 
-Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
- 1. Cherry MX Black
- 2. Cherry MX Brown
- 3. Cherry MX Blue
- 4. Cherry MX Red
+Generally, which component of a computer draws the most power?
+ 1. Processor
+ 2. Power Supply
+ 3. Hard Drive
+ 4. Video Card
 
 <details>
   <summary>Answer</summary>
-  Cherry MX Blue
+  Video Card
 </details>
 
 
