@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I was at the library and asked if they have any books on "paranoia", the librarian replied, "yes, they are right behind you"
+What do I look like? A JOKE MACHINE!?
 
 
 ## Daily Trivia
 
-What programming language was GitHub written in?
- 1. Lua
- 2. Ruby
- 3. JavaScript
- 4. Python
+The name of technology company HP stands for what?
+ 1. Hewlett-Packard
+ 2. Howard Packmann
+ 3. Husker-Pollosk
+ 4. Hellman-Pohl
 
 <details>
   <summary>Answer</summary>
-  Ruby
+  Hewlett-Packard
 </details>
 
 
