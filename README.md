@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do I look like? A JOKE MACHINE!?
+Don't trust atoms. They make up everything.
 
 
 ## Daily Trivia
 
-The name of technology company HP stands for what?
- 1. Hewlett-Packard
- 2. Howard Packmann
- 3. Husker-Pollosk
- 4. Hellman-Pohl
+Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
+ 1. Cherry MX Black
+ 2. Cherry MX Brown
+ 3. Cherry MX Blue
+ 4. Cherry MX Red
 
 <details>
   <summary>Answer</summary>
-  Hewlett-Packard
+  Cherry MX Blue
 </details>
 
 
