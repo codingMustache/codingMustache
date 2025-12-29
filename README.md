@@ -4,22 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where was the Declaration of Independence signed?
-
-At the bottom! 
+How do you get two whales in a car? Start in England and drive West.
 
 
 ## Daily Trivia
 
-Which RAID array type is associated with data mirroring?
- 1. RAID 1
- 2. RAID 0
- 3. RAID 5
- 4. RAID 10
+What does the term GPU stand for?
+ 1. Graphical Proprietary Unit
+ 2. Graphics Processing Unit
+ 3. Graphite Producing Unit
+ 4. Gaming Processor Unit
 
 <details>
   <summary>Answer</summary>
-  RAID 1
+  Graphics Processing Unit
 </details>
 
 
