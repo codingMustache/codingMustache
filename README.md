@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I was wondering why the frisbee was getting bigger, then it hit me.
+I was at the library and asked if they have any books on "paranoia", the librarian replied, "yes, they are right behind you"
 
 
 ## Daily Trivia
 
-What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
- 1. Heat Sink
- 2. Heat Vent
- 3. CPU Vent
- 4. Temperature Decipator
+What programming language was GitHub written in?
+ 1. Lua
+ 2. Ruby
+ 3. JavaScript
+ 4. Python
 
 <details>
   <summary>Answer</summary>
-  Heat Sink
+  Ruby
 </details>
 
 
