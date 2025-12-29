@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the tomato blush? Because it saw the salad dressing.
+Why are fish so smart? Because they live in schools!
 
 
 ## Daily Trivia
 
-What does GHz stand for?
- 1. Gigahotz
- 2. Gigahetz
- 3. Gigahatz
- 4. Gigahertz
+When did the online streaming service &quot;Mixer&quot; launch?
+ 1. 2016
+ 2. 2013
+ 3. 2009
+ 4. 2011
 
 <details>
   <summary>Answer</summary>
-  Gigahertz
+  2016
 </details>
 
 
