@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to hate facial hair, but then it grew on me.
+My boss told me that he was going to fire the person with the worst posture. I have a hunch, it might be me.
 
 
 ## Daily Trivia
 
-What port does HTTP run on?
- 1. 80
- 2. 23
- 3. 53
- 4. 443
+On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
+ 1. Exclamation Mark
+ 2. Asterisk
+ 3. Percent Sign
+ 4. Dollar Sign
 
 <details>
   <summary>Answer</summary>
-  80
+  Exclamation Mark
 </details>
 
 
