@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I once lost a banana at court but then I appealed. 
+There's not really any training for garbagemen. They just pick things up as they go.
 
 
 ## Daily Trivia
 
-How many kilobytes in one gigabyte (in decimal)?
- 1. 1000
- 2. 1000000
- 3. 1024
- 4. 1048576
+What was the name of the first Bulgarian personal computer?
+ 1. IZOT 1030
+ 2. Pravetz 8D
+ 3. Pravetz 82
+ 4. IMKO-1
 
 <details>
   <summary>Answer</summary>
-  1000000
+  IMKO-1
 </details>
 
 
