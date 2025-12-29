@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The shovel was a ground-breaking invention.
+What did the ocean say to the beach? Thanks for all the sediment.
 
 
 ## Daily Trivia
 
-What major programming language does Unreal Engine 4 use?
- 1. C++
- 2. C#
- 3. Assembly
- 4. ECMAScript
+Which data structure does FILO apply to?
+ 1. Queue
+ 2. Heap
+ 3. Tree
+ 4. Stack
 
 <details>
   <summary>Answer</summary>
-  C++
+  Stack
 </details>
 
 
