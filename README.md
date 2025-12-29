@@ -4,22 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is the difference between ignorance and apathy?
-
-I don't know and I don't care.
+What do you call a careful wolf? Aware wolf.
 
 
 ## Daily Trivia
 
-What was the first company to use the term &quot;Golden Master&quot;?
- 1. IBM
- 2. Google
- 3. Apple
- 4. Microsoft
+Approximately how many Apple I personal computers were created?
+ 1. 100
+ 2. 500
+ 3. 1000
+ 4. 200
 
 <details>
   <summary>Answer</summary>
-  Apple
+  200
 </details>
 
 
