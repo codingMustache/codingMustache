@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the tomato blush? Because it saw the salad dressing.
+How do you fix a damaged jack-o-lantern? You use a pumpkin patch.
 
 
 ## Daily Trivia
 
-What is the name of Layer 7 of the OSI model?
- 1. Present
- 2. Application
- 3. Network
- 4. Session
+What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
+ 1. Heat Sink
+ 2. CPU Vent
+ 3. Temperature Decipator
+ 4. Heat Vent
 
 <details>
   <summary>Answer</summary>
-  Application
+  Heat Sink
 </details>
 
 
