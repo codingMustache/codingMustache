@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Don’t interrupt someone working intently on a puzzle. Chances are, you’ll hear some crosswords.
+It's been months since I bought the book "how to scam people online". It still hasn't turned up.
 
 
 ## Daily Trivia
 
-How many bits make up the significand portion of a single precision floating point number?
- 1. 23
- 2. 8
- 3. 53
- 4. 15
+What internet protocol was documented in RFC 1459?
+ 1. HTTP
+ 2. IRC
+ 3. HTTPS
+ 4. FTP
 
 <details>
   <summary>Answer</summary>
-  23
+  IRC
 </details>
 
 
