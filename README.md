@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a gorilla wearing headphones? Anything you'd like, it can't hear you.
+What is a vampire's favorite fruit? A blood orange.
 
 
 ## Daily Trivia
 
-In programming, what do you call functions with the same name but different implementations?
- 1. Inheriting
- 2. Overriding
- 3. Overloading
- 4. Abstracting
+What was the name of the first Bulgarian personal computer?
+ 1. Pravetz 82
+ 2. Pravetz 8D
+ 3. IZOT 1030
+ 4. IMKO-1
 
 <details>
   <summary>Answer</summary>
-  Overloading
+  IMKO-1
 </details>
 
 
