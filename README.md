@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It's been months since I bought the book "how to scam people online". It still hasn't turned up.
+Man, I really love my furniture... me and my recliner go way back.
 
 
 ## Daily Trivia
 
-What internet protocol was documented in RFC 1459?
- 1. HTTP
- 2. IRC
- 3. HTTPS
- 4. FTP
+The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
+ 1. United States
+ 2. Germany
+ 3. China (People&#039;s Republic of)
+ 4. Taiwan
 
 <details>
   <summary>Answer</summary>
-  IRC
+  Taiwan
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **** since this server shutdown
+Its been **1 days** since this server shutdown
