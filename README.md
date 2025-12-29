@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A man tried to sell me a coffin today. I told him that's the last thing I need.
+Why did the tomato blush? Because it saw the salad dressing.
 
 
 ## Daily Trivia
 
-The teapot often seen in many 3D modeling applications is called what?
- 1. 3D Teapot
- 2. Utah Teapot
- 3. Pixar Teapot
- 4. Tennessee Teapot
+What is the name of Layer 7 of the OSI model?
+ 1. Present
+ 2. Application
+ 3. Network
+ 4. Session
 
 <details>
   <summary>Answer</summary>
-  Utah Teapot
+  Application
 </details>
 
 
