@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why doesn't the Chimney-Sweep call out sick from work? Because he's used to working with a flue.
+What do you call an alligator in a vest? An in-vest-igator!
 
 
 ## Daily Trivia
 
-Which of these programming languages is a low-level language?
- 1. Pascal
- 2. C#
- 3. Python
- 4. Assembly
+What port does HTTP run on?
+ 1. 23
+ 2. 80
+ 3. 443
+ 4. 53
 
 <details>
   <summary>Answer</summary>
-  Assembly
+  80
 </details>
 
 
