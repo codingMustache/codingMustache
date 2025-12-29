@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Want to hear a joke about construction? Nah, I'm still working on it.
+Child: Dad, make me a sandwich. Dad: Poof! You're a sandwich.
 
 
 ## Daily Trivia
 
-On which computer hardware device is the BIOS chip located?
- 1. Motherboard
- 2. Graphics Processing Unit
- 3. Central Processing Unit
- 4. Hard Disk Drive
+What does GHz stand for?
+ 1. Gigahetz
+ 2. Gigahotz
+ 3. Gigahertz
+ 4. Gigahatz
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  Gigahertz
 </details>
 
 
