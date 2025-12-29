@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My boss told me that he was going to fire the person with the worst posture. I have a hunch, it might be me.
+Why did the chicken get a penalty? For fowl play.
 
 
 ## Daily Trivia
 
-On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
- 1. Exclamation Mark
- 2. Asterisk
- 3. Percent Sign
- 4. Dollar Sign
+Which of the following physical typologies are used with Ethernet Networks?
+ 1. Ring
+ 2. Mesh
+ 3. Hex
+ 4. Star
 
 <details>
   <summary>Answer</summary>
-  Exclamation Mark
+  Star
 </details>
 
 
