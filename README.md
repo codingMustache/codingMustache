@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the m&m go to school? Because it wanted to be a Smartie!
+Why did the chicken get a penalty? For fowl play.
 
 
 ## Daily Trivia
 
-The C programming language was created by this American computer scientist. 
- 1. Tim Berners Lee
- 2. al-Khwārizmī
- 3. Willis Ware
- 4. Dennis Ritchie
+On which computer hardware device is the BIOS chip located?
+ 1. Central Processing Unit
+ 2. Motherboard
+ 3. Hard Disk Drive
+ 4. Graphics Processing Unit
 
 <details>
   <summary>Answer</summary>
-  Dennis Ritchie
+  Motherboard
 </details>
 
 
