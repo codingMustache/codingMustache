@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I've started telling everyone about the benefits of eating dried grapes. It's all about raisin awareness.
+I once lost a banana at court but then I appealed. 
 
 
 ## Daily Trivia
 
-When Gmail first launched, how much storage did it provide for your email?
- 1. 1GB
- 2. Unlimited
- 3. 5GB
- 4. 512MB
+How many kilobytes in one gigabyte (in decimal)?
+ 1. 1000
+ 2. 1000000
+ 3. 1024
+ 4. 1048576
 
 <details>
   <summary>Answer</summary>
-  1GB
+  1000000
 </details>
 
 
