@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How can you tell a vampire has a cold? They start coffin.
+Why did the banana go to the doctor? He was not "peeling" well.
 
 
 ## Daily Trivia
 
-When did the online streaming service &quot;Mixer&quot; launch?
- 1. 2016
- 2. 2013
- 3. 2009
- 4. 2011
+Australia, Japan, and Southeast Asia are in which ITU Region?
+ 1. Region 3
+ 2. Region 4
+ 3. Region 2
+ 4. Region 1
 
 <details>
   <summary>Answer</summary>
-  2016
+  Region 3
 </details>
 
 
