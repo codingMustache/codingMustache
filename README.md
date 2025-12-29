@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are fish so smart? Because they live in schools!
+Where do hamburgers go to dance? The meat-ball.
 
 
 ## Daily Trivia
