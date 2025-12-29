@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are fish so smart? Because they live in schools!
+I used to hate facial hair, but then it grew on me.
 
 
 ## Daily Trivia
 
-On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
- 1. Dollar Sign
- 2. Exclamation Mark
- 3. Percent Sign
- 4. Asterisk
+What port does HTTP run on?
+ 1. 80
+ 2. 23
+ 3. 53
+ 4. 443
 
 <details>
   <summary>Answer</summary>
-  Exclamation Mark
+  80
 </details>
 
 
