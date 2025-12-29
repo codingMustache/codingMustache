@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I applied to be a doorman but didn't get the job due to lack of experience. That surprised me, I thought it was an entry level position.
+A man tried to sell me a coffin today. I told him that's the last thing I need.
 
 
 ## Daily Trivia
 
-In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
- 1. center
- 2. relative
- 3. absolute
- 4. static
+The teapot often seen in many 3D modeling applications is called what?
+ 1. 3D Teapot
+ 2. Utah Teapot
+ 3. Pixar Teapot
+ 4. Tennessee Teapot
 
 <details>
   <summary>Answer</summary>
-  center
+  Utah Teapot
 </details>
 
 
