@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the chicken get a penalty? For fowl play.
+What biscuit does a short person like? Shortbread. 
 
 
 ## Daily Trivia
 
-On which computer hardware device is the BIOS chip located?
- 1. Central Processing Unit
- 2. Motherboard
- 3. Hard Disk Drive
- 4. Graphics Processing Unit
+What is the domain name for the country Tuvalu?
+ 1. .tv
+ 2. .tt
+ 3. .tu
+ 4. .tl
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  .tv
 </details>
 
 
