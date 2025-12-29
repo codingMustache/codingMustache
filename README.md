@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do hens stay fit? They always egg-cercise!
+Why are fish so smart? Because they live in schools!
 
 
 ## Daily Trivia
 
-Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
- 1. Python
- 2. C#
- 3. PHP
- 4. JavaScript
+On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
+ 1. Dollar Sign
+ 2. Exclamation Mark
+ 3. Percent Sign
+ 4. Asterisk
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  Exclamation Mark
 </details>
 
 
