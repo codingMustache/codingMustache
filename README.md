@@ -4,20 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you fix a damaged jack-o-lantern? You use a pumpkin patch.
+Where was the Declaration of Independence signed?
+
+At the bottom! 
 
 
 ## Daily Trivia
 
-What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
- 1. Heat Sink
- 2. CPU Vent
- 3. Temperature Decipator
- 4. Heat Vent
+Which RAID array type is associated with data mirroring?
+ 1. RAID 1
+ 2. RAID 0
+ 3. RAID 5
+ 4. RAID 10
 
 <details>
   <summary>Answer</summary>
-  Heat Sink
+  RAID 1
 </details>
 
 
