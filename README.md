@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why don’t seagulls fly over the bay? Because then they’d be bay-gulls!
+How does a scientist freshen their breath? With experi-mints!
 
 
 ## Daily Trivia
 
-Which of these is not a layer in the OSI model for data communications?
- 1. Connection Layer
- 2. Physical Layer
- 3. Transport Layer
- 4. Application Layer
+This mobile OS held the largest market share in 2012.
+ 1. Android
+ 2. BlackBerry
+ 3. Symbian
+ 4. iOS
 
 <details>
   <summary>Answer</summary>
-  Connection Layer
+  iOS
 </details>
 
 
