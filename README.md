@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Our wedding was so beautiful, even the cake was in tiers.
+What did the late tomato say to the early tomato? I’ll ketch up
 
 
 ## Daily Trivia
 
-Which of these is not a key value of Agile software development?
- 1. Responding to change
- 2. Customer collaboration
- 3. Individuals and interactions
- 4. Comprehensive documentation
+Which kind of algorithm is Ron Rivest not famous for creating?
+ 1. Stream cipher
+ 2. Asymmetric encryption
+ 3. Hashing algorithm
+ 4. Secret sharing scheme
 
 <details>
   <summary>Answer</summary>
-  Comprehensive documentation
+  Secret sharing scheme
 </details>
 
 
