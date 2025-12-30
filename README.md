@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call someone with no nose? Nobody knows.
+What do you call a pile of cats?  A Meowtain.
 
 
 ## Daily Trivia
 
-.rs is the top-level domain for what country?
- 1. Rwanda
- 2. Russia
- 3. Romania
- 4. Serbia
+Generally, which component of a computer draws the most power?
+ 1. Hard Drive
+ 2. Processor
+ 3. Power Supply
+ 4. Video Card
 
 <details>
   <summary>Answer</summary>
-  Serbia
+  Video Card
 </details>
 
 
