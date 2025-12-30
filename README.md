@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How come the stadium got hot after the game? Because all of the fans left.
+Want to hear a joke about construction? Nah, I'm still working on it.
 
 
 ## Daily Trivia
 
-.at is the top-level domain for what country?
- 1. Argentina
- 2. Angola
- 3. Austria
- 4. Australia
+What was the first commerically available computer processor?
+ 1. TMS 1000
+ 2. Intel 4004
+ 3. AMD AM386
+ 4. Intel 486SX
 
 <details>
   <summary>Answer</summary>
-  Austria
+  Intel 4004
 </details>
 
 
