@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you make holy water? You boil the hell out of it.
+Why did the A go to the bathroom and come out as an E? Because he had a vowel movement.
 
 
 ## Daily Trivia
 
-Unix Time is defined as the number of seconds that have elapsed since when?
- 1. Midnight, July 4, 1980
- 2. Midnight on the creator of Unix&#039;s birthday
- 3. Midnight, July 4, 1976
- 4. Midnight, January 1, 1970
+What internet protocol was documented in RFC 1459?
+ 1. FTP
+ 2. HTTP
+ 3. IRC
+ 4. HTTPS
 
 <details>
   <summary>Answer</summary>
-  Midnight, January 1, 1970
+  IRC
 </details>
 
 
