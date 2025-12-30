@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you know the first French fries weren't actually cooked in France? They were cooked in Greece.
+Why don’t seagulls fly over the bay? Because then they’d be bay-gulls!
 
 
 ## Daily Trivia
 
-How many Hz does the video standard PAL support?
- 1. 60
- 2. 25
- 3. 59
- 4. 50
+Which of these is not a layer in the OSI model for data communications?
+ 1. Connection Layer
+ 2. Physical Layer
+ 3. Transport Layer
+ 4. Application Layer
 
 <details>
   <summary>Answer</summary>
-  50
+  Connection Layer
 </details>
 
 
