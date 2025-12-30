@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a pile of cats?  A Meowtain.
+Did you hear about the cheese who saved the world? It was Legend-dairy!
 
 
 ## Daily Trivia
 
-Generally, which component of a computer draws the most power?
- 1. Hard Drive
- 2. Processor
- 3. Power Supply
- 4. Video Card
+What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
+ 1. FM Synthesizer
+ 2. ADPCM Sampler
+ 3. Programmable Sound Generator (PSG)
+ 4. PCM Sampler
 
 <details>
   <summary>Answer</summary>
-  Video Card
+  ADPCM Sampler
 </details>
 
 
