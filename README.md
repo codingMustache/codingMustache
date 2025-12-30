@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is this movie about? It is about 2 hours long.
+A horse walks into a bar. The bar tender says "Hey." The horse says "Sure."
 
 
 ## Daily Trivia
 
-Which of the following computer components can be built using only NAND gates?
- 1. CPU
- 2. RAM
- 3. ALU
- 4. Register
+Which operating system was released first?
+ 1. Windows
+ 2. Linux
+ 3. OS/2
+ 4. Mac OS
 
 <details>
   <summary>Answer</summary>
-  ALU
+  Mac OS
 </details>
 
 
