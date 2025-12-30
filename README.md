@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I decided to sell my Hoover… well it was just collecting dust.
+I burned 2000 calories today, I left my food in the oven for too long.
 
 
 ## Daily Trivia
 
-Which of these programming languages is a low-level language?
- 1. Pascal
- 2. Python
- 3. Assembly
- 4. C#
+The numbering system with a radix of 16 is more commonly referred to as 
+ 1. Duodecimal
+ 2. Hexidecimal
+ 3. Octal
+ 4. Binary
 
 <details>
   <summary>Answer</summary>
-  Assembly
+  Hexidecimal
 </details>
 
 
