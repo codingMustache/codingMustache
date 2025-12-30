@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why does Superman get invited to dinners? Because he is a Supperhero.
+Two parrots are sitting on a perch. One turns to the other and asks, "do you smell fish?"
 
 
 ## Daily Trivia
 
-Which kind of algorithm is Ron Rivest not famous for creating?
- 1. Secret sharing scheme
- 2. Stream cipher
- 3. Asymmetric encryption
- 4. Hashing algorithm
+Unix Time is defined as the number of seconds that have elapsed since when?
+ 1. Midnight, July 4, 1976
+ 2. Midnight, January 1, 1970
+ 3. Midnight, July 4, 1980
+ 4. Midnight on the creator of Unix&#039;s birthday
 
 <details>
   <summary>Answer</summary>
-  Secret sharing scheme
+  Midnight, January 1, 1970
 </details>
 
 
