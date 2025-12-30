@@ -4,20 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Two peanuts were walking down the street. One was a salted
+ I never wanted to believe that my Dad was stealing from his job as a road worker. But when I got home, all the signs were there.
+
+
 
 
 ## Daily Trivia
 
-What is the name of the default theme that is installed with Windows XP?
- 1. Whistler
- 2. Luna
- 3. Neptune
- 4. Bliss
+According to the International System of Units, how many bytes are in a kilobyte of RAM?
+ 1. 500
+ 2. 512
+ 3. 1024
+ 4. 1000
 
 <details>
   <summary>Answer</summary>
-  Luna
+  1000
 </details>
 
 
