@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the sentence fail the driving test? It never came to a full stop.
+Did you know the first French fries weren't actually cooked in France? They were cooked in Greece.
 
 
 ## Daily Trivia
 
-Which programming language was developed by Sun Microsystems in 1995?
- 1. Python
- 2. Solaris OS
- 3. C++
- 4. Java
+How many Hz does the video standard PAL support?
+ 1. 60
+ 2. 25
+ 3. 59
+ 4. 50
 
 <details>
   <summary>Answer</summary>
-  Java
+  50
 </details>
 
 
