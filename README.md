@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Without geometry life is pointless.
+My wife told me to rub the herbs on the meat for better flavor. That's sage advice.
 
 
 ## Daily Trivia
 
-How many bits make up the significand portion of a single precision floating point number?
- 1. 23
- 2. 15
- 3. 53
- 4. 8
+What does AD stand for in relation to Windows Operating Systems? 
+ 1. Alternative Drive
+ 2. Automated Database
+ 3. Active Department
+ 4. Active Directory
 
 <details>
   <summary>Answer</summary>
-  23
+  Active Directory
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **1 days** since this server shutdown
+Its been **2 days** since this server shutdown
