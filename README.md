@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A man tried to sell me a coffin today. I told him that's the last thing I need.
+What is this movie about? It is about 2 hours long.
 
 
 ## Daily Trivia
 
-What does the computer software acronym JVM stand for?
- 1. Java Vendor Machine
- 2. Java Visual Machine
- 3. Just Virtual Machine
- 4. Java Virtual Machine
+Which of the following computer components can be built using only NAND gates?
+ 1. CPU
+ 2. RAM
+ 3. ALU
+ 4. Register
 
 <details>
   <summary>Answer</summary>
-  Java Virtual Machine
+  ALU
 </details>
 
 
