@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My wife told me to rub the herbs on the meat for better flavor. That's sage advice.
+What time did the man go to the dentist? Tooth hurt-y.
 
 
 ## Daily Trivia
 
-What does AD stand for in relation to Windows Operating Systems? 
- 1. Alternative Drive
- 2. Automated Database
- 3. Active Department
- 4. Active Directory
+The numbering system with a radix of 16 is more commonly referred to as 
+ 1. Duodecimal
+ 2. Hexidecimal
+ 3. Binary
+ 4. Octal
 
 <details>
   <summary>Answer</summary>
-  Active Directory
+  Hexidecimal
 </details>
 
 
