@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the late tomato say to the early tomato? I’ll ketch up
+Why did the sentence fail the driving test? It never came to a full stop.
 
 
 ## Daily Trivia
 
-Which kind of algorithm is Ron Rivest not famous for creating?
- 1. Stream cipher
- 2. Asymmetric encryption
- 3. Hashing algorithm
- 4. Secret sharing scheme
+Which programming language was developed by Sun Microsystems in 1995?
+ 1. Python
+ 2. Solaris OS
+ 3. C++
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  Secret sharing scheme
+  Java
 </details>
 
 
