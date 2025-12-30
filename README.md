@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the difference between a rooster and a crow? A rooster can crow but a crow cannot rooster.
+I decided to sell my Hoover… well it was just collecting dust.
 
 
 ## Daily Trivia
 
-Dutch computer scientist Mark Overmars is known for creating which game development engine?
- 1. Torque 2D
- 2. Stencyl
- 3. Construct
- 4. Game Maker
+Which of these programming languages is a low-level language?
+ 1. Pascal
+ 2. Python
+ 3. Assembly
+ 4. C#
 
 <details>
   <summary>Answer</summary>
-  Game Maker
+  Assembly
 </details>
 
 
