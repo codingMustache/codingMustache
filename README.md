@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why couldn't the kid see the pirate movie? Because it was rated arrr!
+I cut my finger cutting cheese. I know it may be a cheesy story but I feel grate now.
 
 
 ## Daily Trivia
 
-How long is an IPv6 address?
- 1. 128 bits
- 2. 128 bytes
- 3. 64 bits
- 4. 32 bits
+Which computer hardware device provides an interface for all other connected devices to communicate?
+ 1. Motherboard
+ 2. Random Access Memory
+ 3. Hard Disk Drive
+ 4. Central Processing Unit
 
 <details>
   <summary>Answer</summary>
-  128 bits
+  Motherboard
 </details>
 
 
