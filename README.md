@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do nurses carry around red crayons? Sometimes they need to draw blood.
+I tried to write a chemistry joke, but could never get a reaction.
 
 
 ## Daily Trivia
 
-Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
- 1. Shellshock
- 2. Corrupted Blood
- 3. Shellscript
- 4. Heartbleed
+Laserjet and inkjet printers are both examples of what type of printer?
+ 1. Dot matrix printer
+ 2. Daisywheel printer
+ 3. Impact printer
+ 4. Non-impact printer
 
 <details>
   <summary>Answer</summary>
-  Heartbleed
+  Non-impact printer
 </details>
 
 
