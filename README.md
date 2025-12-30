@@ -4,22 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
- I never wanted to believe that my Dad was stealing from his job as a road worker. But when I got home, all the signs were there.
-
-
+A steak pun is a rare medium well done.
 
 
 ## Daily Trivia
 
-According to the International System of Units, how many bytes are in a kilobyte of RAM?
- 1. 500
- 2. 512
- 3. 1024
- 4. 1000
+Laserjet and inkjet printers are both examples of what type of printer?
+ 1. Daisywheel printer
+ 2. Impact printer
+ 3. Dot matrix printer
+ 4. Non-impact printer
 
 <details>
   <summary>Answer</summary>
-  1000
+  Non-impact printer
 </details>
 
 
