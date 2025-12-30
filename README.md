@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the A go to the bathroom and come out as an E? Because he had a vowel movement.
+Why do nurses carry around red crayons? Sometimes they need to draw blood.
 
 
 ## Daily Trivia
 
-What internet protocol was documented in RFC 1459?
- 1. FTP
- 2. HTTP
- 3. IRC
- 4. HTTPS
+Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
+ 1. Shellshock
+ 2. Corrupted Blood
+ 3. Shellscript
+ 4. Heartbleed
 
 <details>
   <summary>Answer</summary>
-  IRC
+  Heartbleed
 </details>
 
 
