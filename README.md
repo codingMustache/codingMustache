@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I tried to write a chemistry joke, but could never get a reaction.
+Why couldn't the kid see the pirate movie? Because it was rated arrr!
 
 
 ## Daily Trivia
 
-Laserjet and inkjet printers are both examples of what type of printer?
- 1. Dot matrix printer
- 2. Daisywheel printer
- 3. Impact printer
- 4. Non-impact printer
+How long is an IPv6 address?
+ 1. 128 bits
+ 2. 128 bytes
+ 3. 64 bits
+ 4. 32 bits
 
 <details>
   <summary>Answer</summary>
-  Non-impact printer
+  128 bits
 </details>
 
 
