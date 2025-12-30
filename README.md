@@ -4,20 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did Dracula lie in the wrong coffin? He made a grave mistake.
+ I never wanted to believe that my Dad was stealing from his job as a road worker. But when I got home, all the signs were there.
+
+
 
 
 ## Daily Trivia
 
-In the server hosting industry IaaS stands for...
- 1. Internet as a Service
- 2. Infrastructure as a Server
- 3. Internet and a Server
- 4. Infrastructure as a Service
+What does the International System of Quantities refer 1024 bytes as?
+ 1. Kibibyte
+ 2. Kelobyte
+ 3. Kilobyte
+ 4. Kylobyte
 
 <details>
   <summary>Answer</summary>
-  Infrastructure as a Service
+  Kibibyte
 </details>
 
 
