@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I cut my finger cutting cheese. I know it may be a cheesy story but I feel grate now.
+Two peanuts were walking down the street. One was a salted
 
 
 ## Daily Trivia
 
-Which computer hardware device provides an interface for all other connected devices to communicate?
- 1. Motherboard
- 2. Random Access Memory
- 3. Hard Disk Drive
- 4. Central Processing Unit
+What is the name of the default theme that is installed with Windows XP?
+ 1. Whistler
+ 2. Luna
+ 3. Neptune
+ 4. Bliss
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  Luna
 </details>
 
 
