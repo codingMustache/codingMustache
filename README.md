@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-So, I heard this pun about cows, but it’s kinda offensive so I won’t say it. I don’t want there to be any beef between us. 
+A man tried to sell me a coffin today. I told him that's the last thing I need.
 
 
 ## Daily Trivia
 
-In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
- 1. relative
- 2. center
- 3. static
- 4. absolute
+What does the computer software acronym JVM stand for?
+ 1. Java Vendor Machine
+ 2. Java Visual Machine
+ 3. Just Virtual Machine
+ 4. Java Virtual Machine
 
 <details>
   <summary>Answer</summary>
-  center
+  Java Virtual Machine
 </details>
 
 
