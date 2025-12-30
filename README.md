@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A horse walks into a bar. The bar tender says "Hey." The horse says "Sure."
+What do you call someone with no nose? Nobody knows.
 
 
 ## Daily Trivia
 
-Which operating system was released first?
- 1. Windows
- 2. Linux
- 3. OS/2
- 4. Mac OS
+.rs is the top-level domain for what country?
+ 1. Rwanda
+ 2. Russia
+ 3. Romania
+ 4. Serbia
 
 <details>
   <summary>Answer</summary>
-  Mac OS
+  Serbia
 </details>
 
 
