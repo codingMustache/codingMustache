@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do locomotives know where they're going? Lots of training
+Our wedding was so beautiful, even the cake was in tiers.
 
 
 ## Daily Trivia
 
-What is the code name for the mobile operating system Android 7.0?
- 1. Ice Cream Sandwich
- 2. Jelly Bean
- 3. Marshmallow
- 4. Nougat
+Which of these is not a key value of Agile software development?
+ 1. Responding to change
+ 2. Customer collaboration
+ 3. Individuals and interactions
+ 4. Comprehensive documentation
 
 <details>
   <summary>Answer</summary>
-  Nougat
+  Comprehensive documentation
 </details>
 
 
