@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I dreamed about drowning in an ocean made out of orange soda last night. It took me a while to work out it was just a Fanta sea.
+Why can't you use "Beef stew" as a password? Because it's not stroganoff.
 
 
 ## Daily Trivia
 
-Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
- 1. Amazon
- 2. Overstock
- 3. eBay
- 4. Shopify
+In computing, what does LAN stand for?
+ 1. Land Address Navigation
+ 2. Light Access Node
+ 3. Local Area Network
+ 4. Long Antenna Node
 
 <details>
   <summary>Answer</summary>
-  Amazon
+  Local Area Network
 </details>
 
 
