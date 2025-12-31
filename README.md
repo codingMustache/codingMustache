@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Man, I really love my furniture... me and my recliner go way back.
+Why did the sentence fail the driving test? It never came to a full stop.
 
 
 ## Daily Trivia
 
-On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
- 1. Dollar Sign
- 2. Percent Sign
- 3. Asterisk
- 4. Exclamation Mark
+What does the &quot;MP&quot; stand for in MP3?
+ 1. Micro Point
+ 2. Multi Pass
+ 3. Moving Picture
+ 4. Music Player
 
 <details>
   <summary>Answer</summary>
-  Exclamation Mark
+  Moving Picture
 </details>
 
 
