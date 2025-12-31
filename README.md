@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a pig that knows karate? A pork chop!
+A man is washing the car with his son. The son asks...... "Dad, can’t you just use a sponge?"
 
 
 ## Daily Trivia
 
-According to the International System of Units, how many bytes are in a kilobyte of RAM?
- 1. 512
- 2. 1024
- 3. 500
- 4. 1000
+What was the name of the security vulnerability found in Bash in 2014?
+ 1. Shellshock
+ 2. Stagefright
+ 3. Bashbug
+ 4. Heartbleed
 
 <details>
   <summary>Answer</summary>
-  1000
+  Shellshock
 </details>
 
 
