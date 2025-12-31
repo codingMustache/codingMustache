@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A man tried to sell me a coffin today. I told him that's the last thing I need.
+What do you call a boy who stopped digging holes? Douglas.
 
 
 ## Daily Trivia
 
-All of the following programs are classified as raster graphics editors EXCEPT:
- 1. Paint.NET
- 2. GIMP
- 3. Adobe Photoshop
- 4. Inkscape
+What does AD stand for in relation to Windows Operating Systems? 
+ 1. Active Department
+ 2. Automated Database
+ 3. Active Directory
+ 4. Alternative Drive
 
 <details>
   <summary>Answer</summary>
-  Inkscape
+  Active Directory
 </details>
 
 
