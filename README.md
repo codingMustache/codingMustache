@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A farmer had 297 cows, when he rounded them up, he found he had 300
+What do you call a group of killer whales playing instruments? An Orca-stra.
 
 
 ## Daily Trivia
 
-Which of these is not a layer in the OSI model for data communications?
- 1. Application Layer
- 2. Transport Layer
- 3. Physical Layer
- 4. Connection Layer
+Which programming language shares its name with an island in Indonesia?
+ 1. Java
+ 2. Jakarta
+ 3. C
+ 4. Python
 
 <details>
   <summary>Answer</summary>
-  Connection Layer
+  Java
 </details>
 
 
