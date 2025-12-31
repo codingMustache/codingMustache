@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Recent survey revealed 6 out of 7 dwarf's aren't happy.
+Why can't you use "Beef stew" as a password? Because it's not stroganoff.
 
 
 ## Daily Trivia
 
-What vulnerability ranked #1 on the OWASP Top 10 in 2013?
- 1. Insecure Direct Object References
- 2. Cross-Site Scripting
- 3. Broken Authentication
- 4. Injection 
+Which computer hardware device provides an interface for all other connected devices to communicate?
+ 1. Central Processing Unit
+ 2. Motherboard
+ 3. Hard Disk Drive
+ 4. Random Access Memory
 
 <details>
   <summary>Answer</summary>
-  Injection 
+  Motherboard
 </details>
 
 
