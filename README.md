@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-There's not really any training for garbagemen. They just pick things up as they go.
+Recent survey revealed 6 out of 7 dwarf's aren't happy.
 
 
 ## Daily Trivia
 
-Which of the following computer components can be built using only NAND gates?
- 1. Register
- 2. RAM
- 3. CPU
- 4. ALU
+What vulnerability ranked #1 on the OWASP Top 10 in 2013?
+ 1. Insecure Direct Object References
+ 2. Cross-Site Scripting
+ 3. Broken Authentication
+ 4. Injection 
 
 <details>
   <summary>Answer</summary>
-  ALU
+  Injection 
 </details>
 
 
