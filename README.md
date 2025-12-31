@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-To be Frank, I'd have to change my name.
+Have you heard the story about the magic tractor? It drove down the road and turned into a field.
 
 
 ## Daily Trivia
 
-What was the first commerically available computer processor?
- 1. AMD AM386
- 2. TMS 1000
- 3. Intel 486SX
- 4. Intel 4004
+Which of the following physical typologies are used with Ethernet Networks?
+ 1. Hex
+ 2. Mesh
+ 3. Ring
+ 4. Star
 
 <details>
   <summary>Answer</summary>
-  Intel 4004
+  Star
 </details>
 
 
