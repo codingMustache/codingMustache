@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What’s brown and sounds like a bell? Dung!
+Why is it a bad idea to iron your four-leaf clover? Cause you shouldn't press your luck.
 
 
 ## Daily Trivia
 
-What does the term GPU stand for?
- 1. Graphics Processing Unit
- 2. Graphical Proprietary Unit
- 3. Graphite Producing Unit
- 4. Gaming Processor Unit
+In the server hosting industry IaaS stands for...
+ 1. Infrastructure as a Service
+ 2. Infrastructure as a Server
+ 3. Internet and a Server
+ 4. Internet as a Service
 
 <details>
   <summary>Answer</summary>
-  Graphics Processing Unit
+  Infrastructure as a Service
 </details>
 
 
