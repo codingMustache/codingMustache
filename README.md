@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why can't eggs have love? They will break up too soon.
+Why was Santa's little helper feeling depressed? Because he has low elf esteem.
+
 
 
 ## Daily Trivia
 
-Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
- 1. Shopify
- 2. Overstock
- 3. Amazon
- 4. eBay
+What is known as &quot;the brain&quot; of the Computer?
+ 1. Keyboard
+ 2. Central Processing Unit
+ 3. Graphics Processing Unit
+ 4. Motherboard
 
 <details>
   <summary>Answer</summary>
-  Amazon
+  Central Processing Unit
 </details>
 
 
