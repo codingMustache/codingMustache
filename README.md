@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a group of killer whales playing instruments? An Orca-stra.
+What do you call an alligator in a vest? An in-vest-igator!
 
 
 ## Daily Trivia
 
-Which programming language shares its name with an island in Indonesia?
- 1. Java
- 2. Jakarta
- 3. C
- 4. Python
+Which computer hardware device provides an interface for all other connected devices to communicate?
+ 1. Random Access Memory
+ 2. Hard Disk Drive
+ 3. Central Processing Unit
+ 4. Motherboard
 
 <details>
   <summary>Answer</summary>
-  Java
+  Motherboard
 </details>
 
 
