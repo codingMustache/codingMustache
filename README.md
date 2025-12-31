@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the cheese who saved the world? It was Legend-dairy!
+What do you call a troublesome Canadian high schooler? A poutine.
 
 
 ## Daily Trivia
 
-What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
- 1. CPU Vent
- 2. Temperature Decipator
- 3. Heat Vent
- 4. Heat Sink
+Which of the following computer components can be built using only NAND gates?
+ 1. ALU
+ 2. RAM
+ 3. CPU
+ 4. Register
 
 <details>
   <summary>Answer</summary>
-  Heat Sink
+  ALU
 </details>
 
 
