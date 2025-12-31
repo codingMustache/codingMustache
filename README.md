@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why can't you use "Beef stew" as a password? Because it's not stroganoff.
+What animal is always at a game of cricket? A bat.
 
 
 ## Daily Trivia
 
-Which computer hardware device provides an interface for all other connected devices to communicate?
- 1. Central Processing Unit
- 2. Motherboard
- 3. Hard Disk Drive
- 4. Random Access Memory
+On Twitter, what was the original character limit for a Tweet?
+ 1. 140
+ 2. 160
+ 3. 120
+ 4. 100
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  140
 </details>
 
 
