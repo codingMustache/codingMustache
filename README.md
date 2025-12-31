@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What animal is always at a game of cricket? A bat.
+The other day, my wife asked me to pass her lipstick but I accidentally passed her a glue stick. She still isn't talking to me.
 
 
 ## Daily Trivia
 
-On Twitter, what was the original character limit for a Tweet?
- 1. 140
- 2. 160
- 3. 120
- 4. 100
+What does RAID stand for?
+ 1. Redundant Array of Independent Disks
+ 2. Rapid Access for Indexed Devices
+ 3. Randomized Abstract Identification Description
+ 4. Range of Applications with Identical Designs
 
 <details>
   <summary>Answer</summary>
-  140
+  Redundant Array of Independent Disks
 </details>
 
 
