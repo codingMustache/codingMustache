@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of music do planets listen to? Nep-tunes.
+A farmer had 297 cows, when he rounded them up, he found he had 300
 
 
 ## Daily Trivia
 
-In computing terms, typically what does CLI stand for?
- 1. Command Line Interface
- 2. Common Language Input
- 3. Control Line Interface
- 4. Common Language Interface
+Which of these is not a layer in the OSI model for data communications?
+ 1. Application Layer
+ 2. Transport Layer
+ 3. Physical Layer
+ 4. Connection Layer
 
 <details>
   <summary>Answer</summary>
-  Command Line Interface
+  Connection Layer
 </details>
 
 
