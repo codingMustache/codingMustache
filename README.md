@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Two guys walked into a bar, the third one ducked.
+What did the dog say to the two trees? Bark bark.
 
 
 ## Daily Trivia
 
-What does GHz stand for?
- 1. Gigahertz
- 2. Gigahetz
- 3. Gigahatz
- 4. Gigahotz
+On which day did the World Wide Web go online?
+ 1. November 12, 1990
+ 2. December 17, 1996
+ 3. November 24, 1995
+ 4. December 20, 1990
 
 <details>
   <summary>Answer</summary>
-  Gigahertz
+  December 20, 1990
 </details>
 
 
