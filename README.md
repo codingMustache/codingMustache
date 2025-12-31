@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why is it a bad idea to iron your four-leaf clover? Cause you shouldn't press your luck.
+A magician was driving down the street and then he turned into a driveway.
 
 
 ## Daily Trivia
 
-In the server hosting industry IaaS stands for...
- 1. Infrastructure as a Service
- 2. Infrastructure as a Server
- 3. Internet and a Server
- 4. Internet as a Service
+How many bytes are in a single Kibibyte?
+ 1. 2400
+ 2. 1240
+ 3. 1000
+ 4. 1024
 
 <details>
   <summary>Answer</summary>
-  Infrastructure as a Service
+  1024
 </details>
 
 
