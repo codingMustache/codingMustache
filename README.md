@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a boy who stopped digging holes? Douglas.
+Why did the man put his money in the freezer? He wanted cold hard cash!
 
 
 ## Daily Trivia
 
-What does AD stand for in relation to Windows Operating Systems? 
- 1. Active Department
- 2. Automated Database
- 3. Active Directory
- 4. Alternative Drive
+What does RAID stand for?
+ 1. Redundant Array of Independent Disks
+ 2. Randomized Abstract Identification Description
+ 3. Range of Applications with Identical Designs
+ 4. Rapid Access for Indexed Devices
 
 <details>
   <summary>Answer</summary>
-  Active Directory
+  Redundant Array of Independent Disks
 </details>
 
 
