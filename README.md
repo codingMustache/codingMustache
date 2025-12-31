@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call an alligator in a vest? An in-vest-igator!
+Why did Dracula lie in the wrong coffin? He made a grave mistake.
 
 
 ## Daily Trivia
 
-Which computer hardware device provides an interface for all other connected devices to communicate?
- 1. Random Access Memory
- 2. Hard Disk Drive
- 3. Central Processing Unit
- 4. Motherboard
+What does the International System of Quantities refer 1024 bytes as?
+ 1. Kibibyte
+ 2. Kelobyte
+ 3. Kilobyte
+ 4. Kylobyte
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  Kibibyte
 </details>
 
 
