@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the drummer name her twin daughters? Anna One, Anna Two...
+Ever wondered why bees hum? It's because they don't know the words.
 
 
 ## Daily Trivia
 
-Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
- 1. Leopard
- 2. Tiger
- 3. Cheetah
- 4. Puma
+On which computer hardware device is the BIOS chip located?
+ 1. Hard Disk Drive
+ 2. Motherboard
+ 3. Central Processing Unit
+ 4. Graphics Processing Unit
 
 <details>
   <summary>Answer</summary>
-  Cheetah
+  Motherboard
 </details>
 
 
