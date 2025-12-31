@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the beaver say to the tree? It's been nice gnawing you.
+To be Frank, I'd have to change my name.
 
 
 ## Daily Trivia
 
-Who invented the &quot;Spanning Tree Protocol&quot;?
- 1. Radia Perlman
- 2. Michael Roberts
- 3. Vint Cerf
- 4. Paul Vixie
+What was the first commerically available computer processor?
+ 1. AMD AM386
+ 2. TMS 1000
+ 3. Intel 486SX
+ 4. Intel 4004
 
 <details>
   <summary>Answer</summary>
-  Radia Perlman
+  Intel 4004
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **2 days** since this server shutdown
+Its been **3 days** since this server shutdown
