@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A magician was driving down the street and then he turned into a driveway.
+What did the drummer name her twin daughters? Anna One, Anna Two...
 
 
 ## Daily Trivia
 
-How many bytes are in a single Kibibyte?
- 1. 2400
- 2. 1240
- 3. 1000
- 4. 1024
+Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
+ 1. Leopard
+ 2. Tiger
+ 3. Cheetah
+ 4. Puma
 
 <details>
   <summary>Answer</summary>
-  1024
+  Cheetah
 </details>
 
 
