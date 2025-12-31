@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the sentence fail the driving test? It never came to a full stop.
+What do you call a duck that gets all A's? A wise quacker.
 
 
 ## Daily Trivia
 
-What does the &quot;MP&quot; stand for in MP3?
- 1. Micro Point
- 2. Multi Pass
- 3. Moving Picture
- 4. Music Player
+What is the code name for the mobile operating system Android 7.0?
+ 1. Marshmallow
+ 2. Jelly Bean
+ 3. Ice Cream Sandwich
+ 4. Nougat
 
 <details>
   <summary>Answer</summary>
-  Moving Picture
+  Nougat
 </details>
 
 
