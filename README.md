@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do bees go to the bathroom?  The BP station.
+What do you call two guys hanging out by your window? Kurt & Rod.
 
 
 ## Daily Trivia
 
-According to the International System of Units, how many bytes are in a kilobyte of RAM?
- 1. 512
- 2. 1024
- 3. 1000
- 4. 500
+Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
+ 1. Year
+ 2. Eight Years
+ 3. Two Years
+ 4. Four Years
 
 <details>
   <summary>Answer</summary>
-  1000
+  Year
 </details>
 
 
