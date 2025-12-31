@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Have you heard the story about the magic tractor? It drove down the road and turned into a field.
+Why can't eggs have love? They will break up too soon.
 
 
 ## Daily Trivia
 
-Which of the following physical typologies are used with Ethernet Networks?
- 1. Hex
- 2. Mesh
- 3. Ring
- 4. Star
+Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
+ 1. Shopify
+ 2. Overstock
+ 3. Amazon
+ 4. eBay
 
 <details>
   <summary>Answer</summary>
-  Star
+  Amazon
 </details>
 
 
