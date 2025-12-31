@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Ever wondered why bees hum? It's because they don't know the words.
+Why don't eggs tell jokes? They'd crack each other up
 
 
 ## Daily Trivia
 
-On which computer hardware device is the BIOS chip located?
- 1. Hard Disk Drive
- 2. Motherboard
- 3. Central Processing Unit
- 4. Graphics Processing Unit
+According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:
+ 1. A&#039;B + B&#039;A
+ 2. A&#039;B&#039;
+ 3. AB&#039; + AB
+ 4. A&#039; + B&#039;
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  A&#039; + B&#039;
 </details>
 
 
