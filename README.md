@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why can't you use "Beef stew" as a password? Because it's not stroganoff.
+Two guys walked into a bar, the third one ducked.
 
 
 ## Daily Trivia
 
-In computing, what does LAN stand for?
- 1. Land Address Navigation
- 2. Light Access Node
- 3. Local Area Network
- 4. Long Antenna Node
+What does GHz stand for?
+ 1. Gigahertz
+ 2. Gigahetz
+ 3. Gigahatz
+ 4. Gigahotz
 
 <details>
   <summary>Answer</summary>
-  Local Area Network
+  Gigahertz
 </details>
 
 
