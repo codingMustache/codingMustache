@@ -4,22 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the hat say to the scarf?
-You can hang around. I'll just go on ahead.
-
+Man, I really love my furniture... me and my recliner go way back.
 
 
 ## Daily Trivia
 
-Who is the founder of Palantir?
- 1. Mark Zuckerberg
- 2. Marc Benioff
- 3. Jack Dorsey
- 4. Peter Thiel
+On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
+ 1. Dollar Sign
+ 2. Percent Sign
+ 3. Asterisk
+ 4. Exclamation Mark
 
 <details>
   <summary>Answer</summary>
-  Peter Thiel
+  Exclamation Mark
 </details>
 
 
