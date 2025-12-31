@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was Santa's little helper feeling depressed? Because he has low elf esteem.
-
+What kind of music do planets listen to? Nep-tunes.
 
 
 ## Daily Trivia
 
-What is known as &quot;the brain&quot; of the Computer?
- 1. Keyboard
- 2. Central Processing Unit
- 3. Graphics Processing Unit
- 4. Motherboard
+In computing terms, typically what does CLI stand for?
+ 1. Command Line Interface
+ 2. Common Language Input
+ 3. Control Line Interface
+ 4. Common Language Interface
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  Command Line Interface
 </details>
 
 
