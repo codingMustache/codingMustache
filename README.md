@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the man run around his bed? Because he was trying to catch up on his sleep!
+Breaking news! Energizer Bunny arrested – charged with battery.
 
 
 ## Daily Trivia
 
-On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
- 1. Dollar Sign
- 2. Asterisk
- 3. Exclamation Mark
- 4. Percent Sign
+What is the main CPU is the Sega Mega Drive / Sega Genesis?
+ 1. Yamaha YM2612
+ 2. Zilog Z80
+ 3. Motorola 68000
+ 4. Intel 8088
 
 <details>
   <summary>Answer</summary>
-  Exclamation Mark
+  Motorola 68000
 </details>
 
 
