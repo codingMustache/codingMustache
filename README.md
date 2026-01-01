@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The word queue is ironic. It's just q with a bunch of silent letters waiting in line.
+What do you call a bee that lives in America? A USB.
 
 
 ## Daily Trivia
 
-In programming, what do you call functions with the same name but different implementations?
- 1. Overloading
- 2. Inheriting
- 3. Abstracting
- 4. Overriding
+.rs is the top-level domain for what country?
+ 1. Serbia
+ 2. Rwanda
+ 3. Russia
+ 4. Romania
 
 <details>
   <summary>Answer</summary>
-  Overloading
+  Serbia
 </details>
 
 
