@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's red and bad for your teeth? A Brick.
+Some people say that comedians who tell one too many light bulb jokes soon burn out, but they don't know watt they are talking about. They're not that bright.
 
 
 ## Daily Trivia
 
-What does the term MIME stand for, in regards to computing?
- 1. Multipurpose Internet Mail Extensions
- 2. Mail Internet Mail Exchange
- 3. Mail Interleave Method Exchange
- 4. Multipurpose Interleave Mail Exchange
+Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
+ 1. Puma
+ 2. Tiger
+ 3. Leopard
+ 4. Cheetah
 
 <details>
   <summary>Answer</summary>
-  Multipurpose Internet Mail Extensions
+  Cheetah
 </details>
 
 
