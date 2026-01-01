@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Scientists finally did a study on forks. It's about tine!
+What did the mountain climber name his son? Cliff.
 
 
 ## Daily Trivia
 
-Laserjet and inkjet printers are both examples of what type of printer?
- 1. Daisywheel printer
- 2. Dot matrix printer
- 3. Impact printer
- 4. Non-impact printer
+The numbering system with a radix of 16 is more commonly referred to as 
+ 1. Binary
+ 2. Octal
+ 3. Duodecimal
+ 4. Hexidecimal
 
 <details>
   <summary>Answer</summary>
-  Non-impact printer
+  Hexidecimal
 </details>
 
 
