@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A magician was driving down the street and then he turned into a driveway.
+I don't trust sushi, there's something fishy about it.
 
 
 ## Daily Trivia
 
-America Online (AOL) started out as which of these online service providers?
- 1. CompuServe
- 2. Prodigy
- 3. GEnie
- 4. Quantum Link
+All of the following programs are classified as raster graphics editors EXCEPT:
+ 1. Paint.NET
+ 2. Inkscape
+ 3. Adobe Photoshop
+ 4. GIMP
 
 <details>
   <summary>Answer</summary>
-  Quantum Link
+  Inkscape
 </details>
 
 
