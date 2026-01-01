@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do crabs never give to charity? Because they’re shellfish.
+Why did the house go to the doctor? It was having window panes.
 
 
 ## Daily Trivia
 
-How many bits make up the significand portion of a single precision floating point number?
- 1. 53
- 2. 23
- 3. 15
- 4. 8
+What is the code name for the mobile operating system Android 7.0?
+ 1. Ice Cream Sandwich
+ 2. Jelly Bean
+ 3. Marshmallow
+ 4. Nougat
 
 <details>
   <summary>Answer</summary>
-  23
+  Nougat
 </details>
 
 
