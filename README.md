@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the fish say when it swam into a wall? Damn!
+Two peanuts were walking down the street. One was a salted
 
 
 ## Daily Trivia
 
-When Gmail first launched, how much storage did it provide for your email?
- 1. 512MB
- 2. 5GB
- 3. Unlimited
- 4. 1GB
+How many cores does the Intel i7-6950X have?
+ 1. 4
+ 2. 8
+ 3. 12
+ 4. 10
 
 <details>
   <summary>Answer</summary>
-  1GB
+  10
 </details>
 
 
