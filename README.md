@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Today a man knocked on my door and asked for a small donation towards the local swimming pool. I gave him a glass of water.
+What is worse then finding a worm in your Apple? Finding half a worm in your Apple.
 
 
 ## Daily Trivia
 
-How many kilobytes in one gigabyte (in decimal)?
- 1. 1000
- 2. 1024
- 3. 1000000
- 4. 1048576
+Which of the following physical typologies are used with Ethernet Networks?
+ 1. Ring
+ 2. Star
+ 3. Mesh
+ 4. Hex
 
 <details>
   <summary>Answer</summary>
-  1000000
+  Star
 </details>
 
 
