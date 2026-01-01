@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My cat was just sick on the carpet, I don’t think it’s feline well.
+Today a man knocked on my door and asked for a small donation towards the local swimming pool. I gave him a glass of water.
 
 
 ## Daily Trivia
 
-What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
- 1. Transport
- 2. Session
- 3. Data link
- 4. Network
+How many kilobytes in one gigabyte (in decimal)?
+ 1. 1000
+ 2. 1024
+ 3. 1000000
+ 4. 1048576
 
 <details>
   <summary>Answer</summary>
-  Transport
+  1000000
 </details>
 
 
