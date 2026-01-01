@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the worker get fired from the orange juice factory? Lack of concentration.
+R.I.P. boiled water. You will be mist.
 
 
 ## Daily Trivia
 
-What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
- 1. Temperature Decipator
- 2. Heat Sink
- 3. Heat Vent
- 4. CPU Vent
+Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
+ 1. 44.1 kHz
+ 2. 1.5 MHz
+ 3. 20.5 kHz
+ 4. 32.0 kHz
 
 <details>
   <summary>Answer</summary>
-  Heat Sink
+  44.1 kHz
 </details>
 
 
