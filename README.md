@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-No matter how kind you are, German children are kinder.
+I went to a Foo Fighters Concert once... It was Everlong...
 
 
 ## Daily Trivia
 
-What was the first company to use the term &quot;Golden Master&quot;?
- 1. IBM
- 2. Microsoft
- 3. Google
- 4. Apple
+How many Hz does the video standard PAL support?
+ 1. 59
+ 2. 25
+ 3. 60
+ 4. 50
 
 <details>
   <summary>Answer</summary>
-  Apple
+  50
 </details>
 
 
