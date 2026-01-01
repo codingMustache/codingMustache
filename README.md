@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the cheese factory that exploded in France? There was nothing left but de Brie.
+What did the digital clock say to the grandfather clock? Look, no hands!
 
 
 ## Daily Trivia
 
-What does the International System of Quantities refer 1024 bytes as?
- 1. Kibibyte
- 2. Kelobyte
- 3. Kilobyte
- 4. Kylobyte
+Which of these people was NOT a founder of Apple Inc?
+ 1. Jonathan Ive
+ 2. Steve Jobs
+ 3. Ronald Wayne
+ 4. Steve Wozniak
 
 <details>
   <summary>Answer</summary>
-  Kibibyte
+  Jonathan Ive
 </details>
 
 
