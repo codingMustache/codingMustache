@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the mountain climber name his son? Cliff.
+Did you hear about the cheese factory that exploded in France? There was nothing left but de Brie.
 
 
 ## Daily Trivia
 
-The numbering system with a radix of 16 is more commonly referred to as 
- 1. Binary
- 2. Octal
- 3. Duodecimal
- 4. Hexidecimal
+What does the International System of Quantities refer 1024 bytes as?
+ 1. Kibibyte
+ 2. Kelobyte
+ 3. Kilobyte
+ 4. Kylobyte
 
 <details>
   <summary>Answer</summary>
-  Hexidecimal
+  Kibibyte
 </details>
 
 
