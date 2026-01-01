@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the tomato blush? Because it saw the salad dressing.
+What did celery say when he broke up with his girlfriend? She wasn't right for me, so I really don't carrot all.
 
 
 ## Daily Trivia
 
-In the server hosting industry IaaS stands for...
- 1. Internet as a Service
- 2. Infrastructure as a Server
- 3. Infrastructure as a Service
- 4. Internet and a Server
+The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
+ 1. Micronesia
+ 2. Marshall Islands
+ 3. Tuvalu
+ 4. Fiji
 
 <details>
   <summary>Answer</summary>
-  Infrastructure as a Service
+  Micronesia
 </details>
 
 
