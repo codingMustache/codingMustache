@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Two peanuts were walking down the street. One was a salted
+What cheese can never be yours? Nacho cheese.
 
 
 ## Daily Trivia
 
-How many cores does the Intel i7-6950X have?
- 1. 4
- 2. 8
- 3. 12
- 4. 10
+The acronym &quot;RIP&quot; stands for which of these?
+ 1. Routing Information Protocol
+ 2. Runtime Instance Processes
+ 3. Routine Inspection Protocol
+ 4. Regular Interval Processes
 
 <details>
   <summary>Answer</summary>
-  10
+  Routing Information Protocol
 </details>
 
 
