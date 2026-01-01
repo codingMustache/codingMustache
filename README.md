@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did celery say when he broke up with his girlfriend? She wasn't right for me, so I really don't carrot all.
+Why do crabs never give to charity? Because they’re shellfish.
 
 
 ## Daily Trivia
 
-The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
- 1. Micronesia
- 2. Marshall Islands
- 3. Tuvalu
- 4. Fiji
+How many bits make up the significand portion of a single precision floating point number?
+ 1. 53
+ 2. 23
+ 3. 15
+ 4. 8
 
 <details>
   <summary>Answer</summary>
-  Micronesia
+  23
 </details>
 
 
