@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I was at the library and asked if they have any books on "paranoia", the librarian replied, "yes, they are right behind you"
+Scientists finally did a study on forks. It's about tine!
 
 
 ## Daily Trivia
 
-Which kind of algorithm is Ron Rivest not famous for creating?
- 1. Hashing algorithm
- 2. Asymmetric encryption
- 3. Stream cipher
- 4. Secret sharing scheme
+Laserjet and inkjet printers are both examples of what type of printer?
+ 1. Daisywheel printer
+ 2. Dot matrix printer
+ 3. Impact printer
+ 4. Non-impact printer
 
 <details>
   <summary>Answer</summary>
-  Secret sharing scheme
+  Non-impact printer
 </details>
 
 
