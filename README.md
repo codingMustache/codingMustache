@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-R.I.P. boiled water. You will be mist.
+I was at the library and asked if they have any books on "paranoia", the librarian replied, "yes, they are right behind you"
 
 
 ## Daily Trivia
 
-Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
- 1. 44.1 kHz
- 2. 1.5 MHz
- 3. 20.5 kHz
- 4. 32.0 kHz
+Which kind of algorithm is Ron Rivest not famous for creating?
+ 1. Hashing algorithm
+ 2. Asymmetric encryption
+ 3. Stream cipher
+ 4. Secret sharing scheme
 
 <details>
   <summary>Answer</summary>
-  44.1 kHz
+  Secret sharing scheme
 </details>
 
 
