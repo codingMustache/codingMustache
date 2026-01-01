@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call two guys hanging out by your window? Kurt & Rod.
+What biscuit does a short person like? Shortbread. 
 
 
 ## Daily Trivia
 
-Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
- 1. Year
- 2. Eight Years
- 3. Two Years
- 4. Four Years
+HTML is what type of language?
+ 1. Scripting Language
+ 2. Markup Language
+ 3. Programming Language
+ 4. Macro Language
 
 <details>
   <summary>Answer</summary>
-  Year
+  Markup Language
 </details>
 
 
