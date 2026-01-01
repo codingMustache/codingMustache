@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It was so cold yesterday my computer froze. My own fault though, I left too many windows open.
+My wife said I was immature. So I told her to get out of my fort.
 
 
 ## Daily Trivia
 
-The acronym &quot;RIP&quot; stands for which of these?
- 1. Routing Information Protocol
- 2. Routine Inspection Protocol
- 3. Regular Interval Processes
- 4. Runtime Instance Processes
+What was Bitcoin&#039;s block size limit in 2010?
+ 1. 1 KB
+ 2. 1 TB
+ 3. 1GB
+ 4. 1 MB
 
 <details>
   <summary>Answer</summary>
-  Routing Information Protocol
+  1 MB
 </details>
 
 
