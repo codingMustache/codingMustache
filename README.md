@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My wife said I was immature. So I told her to get out of my fort.
+Why did the tomato blush? Because it saw the salad dressing.
 
 
 ## Daily Trivia
 
-What was Bitcoin&#039;s block size limit in 2010?
- 1. 1 KB
- 2. 1 TB
- 3. 1GB
- 4. 1 MB
+In the server hosting industry IaaS stands for...
+ 1. Internet as a Service
+ 2. Infrastructure as a Server
+ 3. Infrastructure as a Service
+ 4. Internet and a Server
 
 <details>
   <summary>Answer</summary>
-  1 MB
+  Infrastructure as a Service
 </details>
 
 
