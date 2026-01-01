@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-You know that cemetery up the road? People are dying to get in there.
+Want to hear a chimney joke? Got stacks of em! First one's on the house
 
 
 ## Daily Trivia
 
-In computing, what does LAN stand for?
- 1. Local Area Network
- 2. Land Address Navigation
- 3. Light Access Node
- 4. Long Antenna Node
+The programming language &#039;Swift&#039; was created to replace what other programming language?
+ 1. Objective-C
+ 2. C++
+ 3. Ruby
+ 4. C#
 
 <details>
   <summary>Answer</summary>
-  Local Area Network
+  Objective-C
 </details>
 
 
