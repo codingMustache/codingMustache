@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I don't trust sushi, there's something fishy about it.
+This furniture store keeps emailing me, all I wanted was one night stand!
 
 
 ## Daily Trivia
 
-All of the following programs are classified as raster graphics editors EXCEPT:
- 1. Paint.NET
- 2. Inkscape
- 3. Adobe Photoshop
- 4. GIMP
+How many cores does the Intel i7-6950X have?
+ 1. 4
+ 2. 8
+ 3. 12
+ 4. 10
 
 <details>
   <summary>Answer</summary>
-  Inkscape
+  10
 </details>
 
 
