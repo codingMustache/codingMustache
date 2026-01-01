@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What cheese can never be yours? Nacho cheese.
+My cat was just sick on the carpet, I don’t think it’s feline well.
 
 
 ## Daily Trivia
 
-The acronym &quot;RIP&quot; stands for which of these?
- 1. Routing Information Protocol
- 2. Runtime Instance Processes
- 3. Routine Inspection Protocol
- 4. Regular Interval Processes
+What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
+ 1. Transport
+ 2. Session
+ 3. Data link
+ 4. Network
 
 <details>
   <summary>Answer</summary>
-  Routing Information Protocol
+  Transport
 </details>
 
 
