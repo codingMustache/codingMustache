@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the digital clock say to the grandfather clock? Look, no hands!
+No matter how kind you are, German children are kinder.
 
 
 ## Daily Trivia
 
-Which of these people was NOT a founder of Apple Inc?
- 1. Jonathan Ive
- 2. Steve Jobs
- 3. Ronald Wayne
- 4. Steve Wozniak
+What was the first company to use the term &quot;Golden Master&quot;?
+ 1. IBM
+ 2. Microsoft
+ 3. Google
+ 4. Apple
 
 <details>
   <summary>Answer</summary>
-  Jonathan Ive
+  Apple
 </details>
 
 
