@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-They tried to make a diamond shaped like a duck. It quacked under the pressure.
+How many South Americans does it take to change a lightbulb? A Brazilian
 
 
 ## Daily Trivia
 
-What does GHz stand for?
- 1. Gigahertz
- 2. Gigahatz
- 3. Gigahotz
- 4. Gigahetz
+What programming language was GitHub written in?
+ 1. Ruby
+ 2. Lua
+ 3. Python
+ 4. JavaScript
 
 <details>
   <summary>Answer</summary>
-  Gigahertz
+  Ruby
 </details>
 
 
