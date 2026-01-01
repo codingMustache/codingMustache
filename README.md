@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Want to hear a chimney joke? Got stacks of em! First one's on the house
+The first time I got a universal remote control I thought to myself, "This changes everything"
 
 
 ## Daily Trivia
 
-The programming language &#039;Swift&#039; was created to replace what other programming language?
- 1. Objective-C
- 2. C++
- 3. Ruby
- 4. C#
+Which data structure does FILO apply to?
+ 1. Queue
+ 2. Stack
+ 3. Tree
+ 4. Heap
 
 <details>
   <summary>Answer</summary>
-  Objective-C
+  Stack
 </details>
 
 
