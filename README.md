@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is worse then finding a worm in your Apple? Finding half a worm in your Apple.
+I tried to write a chemistry joke, but could never get a reaction.
 
 
 ## Daily Trivia
 
-Which of the following physical typologies are used with Ethernet Networks?
- 1. Ring
- 2. Star
- 3. Mesh
- 4. Hex
+While Apple was formed in California, in which western state was Microsoft founded?
+ 1. New Mexico
+ 2. Arizona
+ 3. Colorado
+ 4. Washington
 
 <details>
   <summary>Answer</summary>
-  Star
+  New Mexico
 </details>
 
 
