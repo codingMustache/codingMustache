@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many kids with ADD does it take to change a lightbulb? Let's go ride bikes!
+Can February march? No, but April may.
 
 
 ## Daily Trivia
 
-Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
- 1. eBay
- 2. Overstock
- 3. Amazon
- 4. Shopify
+What port does HTTP run on?
+ 1. 53
+ 2. 443
+ 3. 80
+ 4. 23
 
 <details>
   <summary>Answer</summary>
-  Amazon
+  80
 </details>
 
 
