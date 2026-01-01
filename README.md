@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The first time I got a universal remote control I thought to myself, "This changes everything"
+To the person who stole my anti-depressant pills: I hope you're happy now.
 
 
 ## Daily Trivia
 
-Which data structure does FILO apply to?
- 1. Queue
- 2. Stack
- 3. Tree
- 4. Heap
+The acronym &quot;RIP&quot; stands for which of these?
+ 1. Routine Inspection Protocol
+ 2. Routing Information Protocol
+ 3. Runtime Instance Processes
+ 4. Regular Interval Processes
 
 <details>
   <summary>Answer</summary>
-  Stack
+  Routing Information Protocol
 </details>
 
 
