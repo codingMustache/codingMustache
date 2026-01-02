@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What cheese can never be yours? Nacho cheese.
+I used to work for an origami company but they folded.
 
 
 ## Daily Trivia
 
-Which of the following computer components can be built using only NAND gates?
- 1. Register
- 2. ALU
- 3. RAM
- 4. CPU
+The acronym &quot;RIP&quot; stands for which of these?
+ 1. Runtime Instance Processes
+ 2. Routing Information Protocol
+ 3. Regular Interval Processes
+ 4. Routine Inspection Protocol
 
 <details>
   <summary>Answer</summary>
-  ALU
+  Routing Information Protocol
 </details>
 
 
