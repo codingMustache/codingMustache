@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Conjunctivitis.com – now that’s a site for sore eyes.
+What cheese can never be yours? Nacho cheese.
 
 
 ## Daily Trivia
 
-Which of these people was NOT a founder of Apple Inc?
- 1. Steve Jobs
- 2. Jonathan Ive
- 3. Ronald Wayne
- 4. Steve Wozniak
+Which of the following computer components can be built using only NAND gates?
+ 1. Register
+ 2. ALU
+ 3. RAM
+ 4. CPU
 
 <details>
   <summary>Answer</summary>
-  Jonathan Ive
+  ALU
 </details>
 
 
