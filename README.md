@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-This morning I was wondering where the sun was, but then it dawned on me.
+Where’s the bin? Dad: I haven’t been anywhere!
 
 
 ## Daily Trivia
 
-What was Bitcoin&#039;s block size limit in 2010?
- 1. 1 MB
- 2. 1 TB
- 3. 1 KB
- 4. 1GB
+What does the acronym CDN stand for in terms of networking?
+ 1. Compressed Data Network
+ 2. Computational Data Network
+ 3. Content Distribution Network
+ 4. Content Delivery Network
 
 <details>
   <summary>Answer</summary>
-  1 MB
+  Content Delivery Network
 </details>
 
 
