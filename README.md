@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did one plate say to the other plate? Dinner is on me!
+Did you hear about the chameleon who couldn't change color? They had a reptile dysfunction.
 
 
 ## Daily Trivia
 
-Which of these names was an actual codename for a cancelled Microsoft project?
- 1. Enceladus
- 2. Saturn
- 3. Pollux
- 4. Neptune
+How long is an IPv6 address?
+ 1. 32 bits
+ 2. 64 bits
+ 3. 128 bytes
+ 4. 128 bits
 
 <details>
   <summary>Answer</summary>
-  Neptune
+  128 bits
 </details>
 
 
