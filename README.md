@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the sentence fail the driving test? It never came to a full stop.
+A beekeeper was indicted after he confessed to years of stealing at work. They charged him with emBEEzlement
 
 
 ## Daily Trivia
 
-The name of technology company HP stands for what?
- 1. Hellman-Pohl
- 2. Hewlett-Packard
- 3. Husker-Pollosk
- 4. Howard Packmann
+What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
+ 1. Transport
+ 2. Network
+ 3. Data link
+ 4. Session
 
 <details>
   <summary>Answer</summary>
-  Hewlett-Packard
+  Transport
 </details>
 
 
