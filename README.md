@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you fix a damaged jack-o-lantern? You use a pumpkin patch.
+How did the hipster burn the roof of his mouth? He ate the pizza before it was cool.
 
 
 ## Daily Trivia
 
-All of the following programs are classified as raster graphics editors EXCEPT:
- 1. Adobe Photoshop
- 2. Inkscape
- 3. GIMP
- 4. Paint.NET
+In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
+ 1. Private
+ 2. Final
+ 3. Public
+ 4. Static
 
 <details>
   <summary>Answer</summary>
-  Inkscape
+  Final
 </details>
 
 
