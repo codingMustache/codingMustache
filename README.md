@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-If you’re struggling to think of what to get someone for Christmas. Get them a fridge and watch their face light up when they open it.
+Two silk worms had a race. They ended up in a tie.
 
 
 ## Daily Trivia
 
-Which of these is not a key value of Agile software development?
- 1. Responding to change
- 2. Customer collaboration
- 3. Individuals and interactions
- 4. Comprehensive documentation
+What is the name of the process that sends one qubit of information using two bits of classical information?
+ 1. Quantum Programming
+ 2. Quantum Entanglement
+ 3. Quantum Teleportation
+ 4. Super Dense Coding
 
 <details>
   <summary>Answer</summary>
-  Comprehensive documentation
+  Quantum Teleportation
 </details>
 
 
