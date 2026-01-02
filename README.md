@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do computers and air conditioners have in common? They both become useless when you open windows.
+Where did you learn to make ice cream? Sunday school.
 
 
 ## Daily Trivia
 
-What does the acronym CDN stand for in terms of networking?
- 1. Computational Data Network
- 2. Content Delivery Network
- 3. Content Distribution Network
- 4. Compressed Data Network
+The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
+ 1. Amstrad PLC
+ 2. Acorn Computers
+ 3. Sinclair Research
+ 4. Commodore Business Machines
 
 <details>
   <summary>Answer</summary>
-  Content Delivery Network
+  Acorn Computers
 </details>
 
 
