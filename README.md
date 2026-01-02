@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where did you learn to make ice cream? Sunday school.
+Did you know that ghosts call their true love their ghoul-friend?
 
 
 ## Daily Trivia
 
-The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
- 1. Amstrad PLC
- 2. Acorn Computers
- 3. Sinclair Research
- 4. Commodore Business Machines
+In programming, the ternary operator is mostly defined with what symbol(s)?
+ 1. ?
+ 2. if then
+ 3. ?:
+ 4. ??
 
 <details>
   <summary>Answer</summary>
-  Acorn Computers
+  ?:
 </details>
 
 
