@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is the hardest part about sky diving? The ground.
+What did the ocean say to the shore? Nothing, it just waved.
 
 
 ## Daily Trivia
 
-Which SQL keyword is used to fetch data from a database?
- 1. VALUES
- 2. SELECT
- 3. INDEX
- 4. EXEC
+What did the name of the Tor Anonymity Network orignially stand for?
+ 1. The Orange Router
+ 2. The Only Router
+ 3. The Ominous Router
+ 4. The Onion Router
 
 <details>
   <summary>Answer</summary>
-  SELECT
+  The Onion Router
 </details>
 
 
