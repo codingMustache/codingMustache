@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are ghosts bad liars? Because you can see right through them!
+I dreamed about drowning in an ocean made out of orange soda last night. It took me a while to work out it was just a Fanta sea.
 
 
 ## Daily Trivia
 
-When Gmail first launched, how much storage did it provide for your email?
- 1. 1GB
- 2. Unlimited
- 3. 5GB
- 4. 512MB
+Australia, Japan, and Southeast Asia are in which ITU Region?
+ 1. Region 1
+ 2. Region 2
+ 3. Region 4
+ 4. Region 3
 
 <details>
   <summary>Answer</summary>
-  1GB
+  Region 3
 </details>
 
 
