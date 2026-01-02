@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I cut my finger cutting cheese. I know it may be a cheesy story but I feel grate now.
+Geology rocks, but Geography is where it's at!
 
 
 ## Daily Trivia
 
-Which of these is not a layer in the OSI model for data communications?
- 1. Connection Layer
- 2. Transport Layer
- 3. Application Layer
- 4. Physical Layer
+What does the term GPU stand for?
+ 1. Graphical Proprietary Unit
+ 2. Graphite Producing Unit
+ 3. Gaming Processor Unit
+ 4. Graphics Processing Unit
 
 <details>
   <summary>Answer</summary>
-  Connection Layer
+  Graphics Processing Unit
 </details>
 
 
