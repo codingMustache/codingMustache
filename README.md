@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are basketball players messy eaters? Because they are always dribbling.
+What's the difference between a guitar and a fish? You can tune a guitar but you can't "tuna" fish!
 
 
 ## Daily Trivia
 
-What does LTS stand for in the software market?
- 1. Long Term Support
- 2. Ludicrous Turbo Speed
- 3. Ludicrous Transfer Speed
- 4. Long Taco Service
+What is the name of the default theme that is installed with Windows XP?
+ 1. Neptune
+ 2. Luna
+ 3. Whistler
+ 4. Bliss
 
 <details>
   <summary>Answer</summary>
-  Long Term Support
+  Luna
 </details>
 
 
