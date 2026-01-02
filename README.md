@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the banana go to the doctor? He was not "peeling" well.
+The great thing about stationery shops is they're always in the same place...
 
 
 ## Daily Trivia
 
-What does the &#039;S&#039; in the RSA encryption algorithm stand for?
- 1. Secure
- 2. Shamir
- 3. Schottky
- 4. Stable
+HTML is what type of language?
+ 1. Scripting Language
+ 2. Programming Language
+ 3. Macro Language
+ 4. Markup Language
 
 <details>
   <summary>Answer</summary>
-  Shamir
+  Markup Language
 </details>
 
 
