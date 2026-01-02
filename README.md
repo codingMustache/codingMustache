@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-To the person who stole my anti-depressant pills: I hope you're happy now.
+“My Dog has no nose.” “How does he smell?” “Awful”
 
 
 ## Daily Trivia
 
-The acronym &quot;RIP&quot; stands for which of these?
- 1. Routine Inspection Protocol
- 2. Routing Information Protocol
- 3. Runtime Instance Processes
- 4. Regular Interval Processes
+In computing, what does MIDI stand for?
+ 1. Musical Interface of Digital Instruments
+ 2. Musical Instrument Digital Interface
+ 3. Musical Instrument Data Interface
+ 4. Modular Interface of Digital Instruments
 
 <details>
   <summary>Answer</summary>
-  Routing Information Protocol
+  Musical Instrument Digital Interface
 </details>
 
 
