@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It was so cold yesterday my computer froze. My own fault though, I left too many windows open.
+Did you hear that the police have a warrant out on a midget psychic ripping people off? It reads “Small medium at large.”
 
 
 ## Daily Trivia
 
-Which computer hardware device provides an interface for all other connected devices to communicate?
- 1. Central Processing Unit
- 2. Hard Disk Drive
- 3. Random Access Memory
- 4. Motherboard
+Which of the following languages is used as a scripting language in the Unity 3D game engine?
+ 1. C#
+ 2. Java
+ 3. C++
+ 4. Objective-C
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  C#
 </details>
 
 
