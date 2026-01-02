@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The best time on a clock is 6:30--hands down.
+I got fired from the transmission factor, turns out I didn't put on enough shifts...
 
 
 ## Daily Trivia
 
-When was the programming language &quot;C#&quot; released?
- 1. 2000
- 2. 1998
- 3. 1999
- 4. 2001
+Which programming language shares its name with an island in Indonesia?
+ 1. C
+ 2. Python
+ 3. Jakarta
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  2000
+  Java
 </details>
 
 
