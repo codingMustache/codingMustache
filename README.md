@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the ocean say to the shore? Nothing, it just waved.
+I've just written a song about a tortilla. Well, it is more of a rap really.
 
 
 ## Daily Trivia
 
-What did the name of the Tor Anonymity Network orignially stand for?
- 1. The Orange Router
- 2. The Only Router
- 3. The Ominous Router
- 4. The Onion Router
+Dutch computer scientist Mark Overmars is known for creating which game development engine?
+ 1. Construct
+ 2. Game Maker
+ 3. Stencyl
+ 4. Torque 2D
 
 <details>
   <summary>Answer</summary>
-  The Onion Router
+  Game Maker
 </details>
 
 
