@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Bought a new jacket suit the other day and it burst into flames. Well, it was a blazer
+Why did the banana go to the doctor? He was not "peeling" well.
 
 
 ## Daily Trivia
 
-In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
- 1. console.log(&quot;Hello World&quot;)
- 2. echo &quot;Hello World&quot;
- 3. print(&quot;Hello World&quot;)
- 4. printf(&quot;Hello World&quot;)
+What does the &#039;S&#039; in the RSA encryption algorithm stand for?
+ 1. Secure
+ 2. Shamir
+ 3. Schottky
+ 4. Stable
 
 <details>
   <summary>Answer</summary>
-  print(&quot;Hello World&quot;)
+  Shamir
 </details>
 
 
