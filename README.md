@@ -4,15 +4,17 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I got fired from the transmission factor, turns out I didn't put on enough shifts...
+Mahatma Gandhi, as you know, walked barefoot most of the time, which produced an impressive set of calluses on his feet. 
+He also ate very little, which made him rather frail and with his odd diet, he suffered from bad breath. 
+This made him a super calloused fragile mystic hexed by halitosis.
 
 
 ## Daily Trivia
 
-Which programming language shares its name with an island in Indonesia?
- 1. C
+Which programming language was developed by Sun Microsystems in 1995?
+ 1. Solaris OS
  2. Python
- 3. Jakarta
+ 3. C++
  4. Java
 
 <details>
