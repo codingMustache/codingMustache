@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why does Superman get invited to dinners? Because he is a Supperhero.
+"Hey, dad, did you get a haircut?" "No, I got them all cut."
 
 
 ## Daily Trivia
 
-Who invented the &quot;Spanning Tree Protocol&quot;?
- 1. Paul Vixie
- 2. Vint Cerf
- 3. Michael Roberts
- 4. Radia Perlman
+The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
+ 1. Acorn Computers
+ 2. Commodore Business Machines
+ 3. Amstrad PLC
+ 4. Sinclair Research
 
 <details>
   <summary>Answer</summary>
-  Radia Perlman
+  Acorn Computers
 </details>
 
 
