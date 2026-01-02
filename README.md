@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you know that ghosts call their true love their ghoul-friend?
+Ever wondered why bees hum? It's because they don't know the words.
 
 
 ## Daily Trivia
 
-In programming, the ternary operator is mostly defined with what symbol(s)?
- 1. ?
- 2. if then
- 3. ?:
- 4. ??
+Which of these names was an actual codename for a cancelled Microsoft project?
+ 1. Enceladus
+ 2. Pollux
+ 3. Neptune
+ 4. Saturn
 
 <details>
   <summary>Answer</summary>
-  ?:
+  Neptune
 </details>
 
 
