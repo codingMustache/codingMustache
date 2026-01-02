@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-“My Dog has no nose.” “How does he smell?” “Awful”
+Why are basketball players messy eaters? Because they are always dribbling.
 
 
 ## Daily Trivia
 
-In computing, what does MIDI stand for?
- 1. Musical Interface of Digital Instruments
- 2. Musical Instrument Digital Interface
- 3. Musical Instrument Data Interface
- 4. Modular Interface of Digital Instruments
+What does LTS stand for in the software market?
+ 1. Long Term Support
+ 2. Ludicrous Turbo Speed
+ 3. Ludicrous Transfer Speed
+ 4. Long Taco Service
 
 <details>
   <summary>Answer</summary>
-  Musical Instrument Digital Interface
+  Long Term Support
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **4 days** since this server shutdown
+Its been **5 days** since this server shutdown
