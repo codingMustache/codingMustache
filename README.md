@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I've got a joke about vegetables for you... but it's a bit corny.
+I used to hate facial hair, but then it grew on me.
 
 
 ## Daily Trivia
 
-How many bytes are in a single Kibibyte?
- 1. 1240
- 2. 1024
- 3. 1000
- 4. 2400
+What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
+ 1. Heat Vent
+ 2. CPU Vent
+ 3. Heat Sink
+ 4. Temperature Decipator
 
 <details>
   <summary>Answer</summary>
-  1024
+  Heat Sink
 </details>
 
 
