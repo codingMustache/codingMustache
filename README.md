@@ -4,22 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Mahatma Gandhi, as you know, walked barefoot most of the time, which produced an impressive set of calluses on his feet. 
-He also ate very little, which made him rather frail and with his odd diet, he suffered from bad breath. 
-This made him a super calloused fragile mystic hexed by halitosis.
+I've got a joke about vegetables for you... but it's a bit corny.
 
 
 ## Daily Trivia
 
-Which programming language was developed by Sun Microsystems in 1995?
- 1. Solaris OS
- 2. Python
- 3. C++
- 4. Java
+How many bytes are in a single Kibibyte?
+ 1. 1240
+ 2. 1024
+ 3. 1000
+ 4. 2400
 
 <details>
   <summary>Answer</summary>
-  Java
+  1024
 </details>
 
 
