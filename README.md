@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How did the hipster burn the roof of his mouth? He ate the pizza before it was cool.
+If you’re struggling to think of what to get someone for Christmas. Get them a fridge and watch their face light up when they open it.
 
 
 ## Daily Trivia
 
-In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
- 1. Private
- 2. Final
- 3. Public
- 4. Static
+Which of these is not a key value of Agile software development?
+ 1. Responding to change
+ 2. Customer collaboration
+ 3. Individuals and interactions
+ 4. Comprehensive documentation
 
 <details>
   <summary>Answer</summary>
-  Final
+  Comprehensive documentation
 </details>
 
 
