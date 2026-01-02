@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where’s the bin? Dad: I haven’t been anywhere!
+The best time on a clock is 6:30--hands down.
 
 
 ## Daily Trivia
 
-What does the acronym CDN stand for in terms of networking?
- 1. Compressed Data Network
- 2. Computational Data Network
- 3. Content Distribution Network
- 4. Content Delivery Network
+When was the programming language &quot;C#&quot; released?
+ 1. 2000
+ 2. 1998
+ 3. 1999
+ 4. 2001
 
 <details>
   <summary>Answer</summary>
-  Content Delivery Network
+  2000
 </details>
 
 
