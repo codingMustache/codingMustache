@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a snake who builds houses? A boa constructor!
+What's the difference between roast beef and pea soup. Anyone can roast beef, but nobody can pee soup.
 
 
 ## Daily Trivia
 
-What is the code name for the mobile operating system Android 7.0?
- 1. Ice Cream Sandwich
- 2. Jelly Bean
- 3. Marshmallow
- 4. Nougat
+If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
+ 1. Binary
+ 2. JavaScript
+ 3. C++
+ 4. Python
 
 <details>
   <summary>Answer</summary>
-  Nougat
+  Binary
 </details>
 
 
