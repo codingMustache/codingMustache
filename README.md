@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I got fired from a florist, apparently I took too many leaves.
+My wife told me to rub the herbs on the meat for better flavor. That's sage advice.
 
 
 ## Daily Trivia
 
-In web design, what does CSS stand for?
- 1. Computer Style Sheet
- 2. Cascading Style Sheet
- 3. Corrective Style Sheet
- 4. Counter Strike: Source
+How fast is USB 3.1 Gen 2 theoretically?
+ 1. 5 Gb/s
+ 2. 10 Gb/s
+ 3. 8 Gb/s
+ 4. 1 Gb/s
 
 <details>
   <summary>Answer</summary>
-  Cascading Style Sheet
+  10 Gb/s
 </details>
 
 
