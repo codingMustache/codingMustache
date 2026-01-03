@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of award did the dentist receive? A little plaque.
+What did the drummer name her twin daughters? Anna One, Anna Two...
 
 
 ## Daily Trivia
 
-Which programming language was developed by Sun Microsystems in 1995?
- 1. Java
- 2. C++
- 3. Solaris OS
- 4. Python
+Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
+ 1. 1.5 MHz
+ 2. 32.0 kHz
+ 3. 44.1 kHz
+ 4. 20.5 kHz
 
 <details>
   <summary>Answer</summary>
-  Java
+  44.1 kHz
 </details>
 
 
