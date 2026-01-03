@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Some people eat light bulbs. They say it's a nice light snack.
+I don't trust stairs. They're always up to something.
 
 
 ## Daily Trivia
 
-Australia, Japan, and Southeast Asia are in which ITU Region?
- 1. Region 4
- 2. Region 2
- 3. Region 1
- 4. Region 3
+On which computer hardware device is the BIOS chip located?
+ 1. Central Processing Unit
+ 2. Hard Disk Drive
+ 3. Motherboard
+ 4. Graphics Processing Unit
 
 <details>
   <summary>Answer</summary>
-  Region 3
+  Motherboard
 </details>
 
 
