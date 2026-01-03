@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is a tornado's favorite game to play? Twister!
+What did the Dorito farmer say to the other Dorito farmer? Cool Ranch!
 
 
 ## Daily Trivia
 
-What does RAID stand for?
- 1. Randomized Abstract Identification Description
- 2. Redundant Array of Independent Disks
- 3. Range of Applications with Identical Designs
- 4. Rapid Access for Indexed Devices
+Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
+ 1. Nautilus
+ 2. Skipjack
+ 3. Clipper Chip
+ 4. Enigma Machine
 
 <details>
   <summary>Answer</summary>
-  Redundant Array of Independent Disks
+  Clipper Chip
 </details>
 
 
