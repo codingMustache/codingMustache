@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I always wanted to look into why I procrastinate, but I keep putting it off. 
+I used to hate facial hair, but then it grew on me.
 
 
 ## Daily Trivia
 
-In networking, what does OSPF stand for?
- 1. Order State Part First
- 2. Order Sense Ping Find
- 3. Open Signal Path Finder
- 4. Open Shortest Path First
+In computing, what does LAN stand for?
+ 1. Long Antenna Node
+ 2. Light Access Node
+ 3. Land Address Navigation
+ 4. Local Area Network
 
 <details>
   <summary>Answer</summary>
-  Open Shortest Path First
+  Local Area Network
 </details>
 
 
