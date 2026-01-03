@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was the big cat disqualified from the race? Because it was a cheetah.
+Did you hear about the scientist who was lab partners with a pot of boiling water? He had a very esteemed colleague.
 
 
 ## Daily Trivia
 
-Which of the following is a personal computer made by the Japanese company Fujitsu?
- 1. FM-7
- 2. MSX
- 3. Xmillennium 
- 4. PC-9801
+How many Hz does the video standard PAL support?
+ 1. 59
+ 2. 60
+ 3. 50
+ 4. 25
 
 <details>
   <summary>Answer</summary>
-  FM-7
+  50
 </details>
 
 
