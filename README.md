@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I don't trust stairs. They're always up to something.
+What did the 0 say to the 8? Nice belt.
 
 
 ## Daily Trivia
 
-On which computer hardware device is the BIOS chip located?
- 1. Central Processing Unit
- 2. Hard Disk Drive
- 3. Motherboard
- 4. Graphics Processing Unit
+Which of these people was NOT a founder of Apple Inc?
+ 1. Ronald Wayne
+ 2. Jonathan Ive
+ 3. Steve Jobs
+ 4. Steve Wozniak
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  Jonathan Ive
 </details>
 
 
