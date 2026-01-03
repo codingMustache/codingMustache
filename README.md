@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why does Norway have barcodes on their battleships? So when they get back to port, they can Scandinavian.
+I finally bought the limited edition Thesaurus that I've always wanted. When I opened it, all the pages were blank.
+I have no words to describe how angry I am.
 
 
 ## Daily Trivia
 
-In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
- 1. Red
- 2. Blue
- 3. Green
- 4. Yellow
+What five letter word is the motto of the IBM Computer company?
+ 1. Click
+ 2. Logic
+ 3. Pixel
+ 4. Think
 
 <details>
   <summary>Answer</summary>
-  Green
+  Think
 </details>
 
 
