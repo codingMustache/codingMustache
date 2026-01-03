@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you know that protons have mass? I didn't even know they were catholic.
+I started a new business making yachts in my attic this year...the sails are going through the roof
 
 
 ## Daily Trivia
 
-Which kind of algorithm is Ron Rivest not famous for creating?
- 1. Hashing algorithm
- 2. Asymmetric encryption
- 3. Secret sharing scheme
- 4. Stream cipher
+What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
+ 1. CPU Vent
+ 2. Temperature Decipator
+ 3. Heat Sink
+ 4. Heat Vent
 
 <details>
   <summary>Answer</summary>
-  Secret sharing scheme
+  Heat Sink
 </details>
 
 
