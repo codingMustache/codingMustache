@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I ordered a chicken and an egg from Amazon. I'll let you know.
+Have you heard about corduroy pillows?  They're making headlines!
 
 
 ## Daily Trivia
 
-What does the term MIME stand for, in regards to computing?
- 1. Multipurpose Internet Mail Extensions
- 2. Mail Interleave Method Exchange
- 3. Multipurpose Interleave Mail Exchange
- 4. Mail Internet Mail Exchange
+The C programming language was created by this American computer scientist. 
+ 1. Tim Berners Lee
+ 2. al-Khwārizmī
+ 3. Willis Ware
+ 4. Dennis Ritchie
 
 <details>
   <summary>Answer</summary>
-  Multipurpose Internet Mail Extensions
+  Dennis Ritchie
 </details>
 
 
