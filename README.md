@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the difference between roast beef and pea soup. Anyone can roast beef, but nobody can pee soup.
+What's the difference between a seal and a sea lion?
+An ion! 
 
 
 ## Daily Trivia
 
-If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
- 1. Binary
- 2. JavaScript
- 3. C++
- 4. Python
+In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
+ 1. static
+ 2. absolute
+ 3. center
+ 4. relative
 
 <details>
   <summary>Answer</summary>
-  Binary
+  center
 </details>
 
 
