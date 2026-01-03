@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was the shirt happy to hang around the tank top? Because it was armless
+Why do crabs never give to charity? Because they’re shellfish.
 
 
 ## Daily Trivia
 
-In networking, what does OSPF stand for?
- 1. Order State Part First
- 2. Order Sense Ping Find
- 3. Open Shortest Path First
- 4. Open Signal Path Finder
+Which of these names was an actual codename for a cancelled Microsoft project?
+ 1. Enceladus
+ 2. Pollux
+ 3. Neptune
+ 4. Saturn
 
 <details>
   <summary>Answer</summary>
-  Open Shortest Path First
+  Neptune
 </details>
 
 
