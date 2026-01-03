@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Whats a penguins favorite relative? Aunt Arctica.
+Someone asked me to name two structures that hold water. I said "Well dam"
 
 
 ## Daily Trivia
 
-What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
- 1. Sandy Bridge
- 2. Broadwell
- 3. Skylake
- 4. Coffee Lake
+What was the name given to Android 4.3?
+ 1. Froyo
+ 2. Lollipop
+ 3. Nutella
+ 4. Jelly Bean
 
 <details>
   <summary>Answer</summary>
-  Coffee Lake
+  Jelly Bean
 </details>
 
 
