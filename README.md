@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I applied to be a doorman but didn't get the job due to lack of experience. That surprised me, I thought it was an entry level position.
+What do you get when you cross a snowman with a vampire? Frostbite.
 
 
 ## Daily Trivia
 
-Which of these programming languages is a low-level language?
- 1. Python
- 2. Assembly
- 3. C#
- 4. Pascal
+What was the name of the first Bulgarian personal computer?
+ 1. Pravetz 8D
+ 2. Pravetz 82
+ 3. IMKO-1
+ 4. IZOT 1030
 
 <details>
   <summary>Answer</summary>
-  Assembly
+  IMKO-1
 </details>
 
 
