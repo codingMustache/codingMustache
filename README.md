@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you get when you cross a snowman with a vampire? Frostbite.
+What do you call an elephant that doesn’t matter? An irrelephant.
 
 
 ## Daily Trivia
 
-What was the name of the first Bulgarian personal computer?
- 1. Pravetz 8D
- 2. Pravetz 82
- 3. IMKO-1
- 4. IZOT 1030
+What does the International System of Quantities refer 1024 bytes as?
+ 1. Kilobyte
+ 2. Kibibyte
+ 3. Kylobyte
+ 4. Kelobyte
 
 <details>
   <summary>Answer</summary>
-  IMKO-1
+  Kibibyte
 </details>
 
 
