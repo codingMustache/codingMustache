@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's brown and sticky? A stick.
+Why couldn't the kid see the pirate movie? Because it was rated arrr!
 
 
 ## Daily Trivia
 
-Which operating system was released first?
- 1. OS/2
- 2. Mac OS
- 3. Linux
- 4. Windows
+Which of the following computer components can be built using only NAND gates?
+ 1. CPU
+ 2. RAM
+ 3. Register
+ 4. ALU
 
 <details>
   <summary>Answer</summary>
-  Mac OS
+  ALU
 </details>
 
 
