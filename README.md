@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-You can't run through a camp site. You can only ran, because it's past tents.
+The great thing about stationery shops is they're always in the same place...
 
 
 ## Daily Trivia
 
-What was the first commerically available computer processor?
- 1. Intel 4004
- 2. AMD AM386
- 3. TMS 1000
- 4. Intel 486SX
+Which SQL keyword is used to fetch data from a database?
+ 1. INDEX
+ 2. VALUES
+ 3. SELECT
+ 4. EXEC
 
 <details>
   <summary>Answer</summary>
-  Intel 4004
+  SELECT
 </details>
 
 
