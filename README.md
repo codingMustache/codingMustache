@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Every morning when I go out, I get hit by bicycle. Every morning!  It's a vicious cycle.
+Why was the big cat disqualified from the race? Because it was a cheetah.
 
 
 ## Daily Trivia
 
-Nvidia&#039;s headquarters are based in which Silicon Valley city?
- 1. Palo Alto
- 2. Santa Clara
- 3. Cupertino
- 4. Mountain View
+Which of the following is a personal computer made by the Japanese company Fujitsu?
+ 1. FM-7
+ 2. MSX
+ 3. Xmillennium 
+ 4. PC-9801
 
 <details>
   <summary>Answer</summary>
-  Santa Clara
+  FM-7
 </details>
 
 
