@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-If two vegans are having an argument, is it still considered beef?
+Velcro… What a rip-off.
 
 
 ## Daily Trivia
 
-The Harvard architecture for micro-controllers added which additional bus?
- 1. Address
- 2. Instruction
- 3. Data
- 4. Control
+The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
+ 1. HD Graphics 700 
+ 2. HD Graphics 7000
+ 3. HD Graphics 500
+ 4. HD Graphics 600
 
 <details>
   <summary>Answer</summary>
-  Instruction
+  HD Graphics 500
 </details>
 
 
