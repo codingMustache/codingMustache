@@ -4,15 +4,15 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Have you heard about corduroy pillows?  They're making headlines!
+As I suspected, someone has been adding soil to my garden. The plot thickens.
 
 
 ## Daily Trivia
 
 The C programming language was created by this American computer scientist. 
- 1. Tim Berners Lee
- 2. al-Khwārizmī
- 3. Willis Ware
+ 1. Willis Ware
+ 2. Tim Berners Lee
+ 3. al-Khwārizmī
  4. Dennis Ritchie
 
 <details>
