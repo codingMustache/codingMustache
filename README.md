@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I started a new business making yachts in my attic this year...the sails are going through the roof
+What kind of award did the dentist receive? A little plaque.
 
 
 ## Daily Trivia
 
-What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
- 1. CPU Vent
- 2. Temperature Decipator
- 3. Heat Sink
- 4. Heat Vent
+Which programming language was developed by Sun Microsystems in 1995?
+ 1. Java
+ 2. C++
+ 3. Solaris OS
+ 4. Python
 
 <details>
   <summary>Answer</summary>
-  Heat Sink
+  Java
 </details>
 
 
