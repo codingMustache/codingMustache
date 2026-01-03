@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the difference between a seal and a sea lion?
-An ion! 
+Whats a penguins favorite relative? Aunt Arctica.
 
 
 ## Daily Trivia
 
-In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
- 1. static
- 2. absolute
- 3. center
- 4. relative
+What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
+ 1. Sandy Bridge
+ 2. Broadwell
+ 3. Skylake
+ 4. Coffee Lake
 
 <details>
   <summary>Answer</summary>
-  center
+  Coffee Lake
 </details>
 
 
