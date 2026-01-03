@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call an elephant that doesn’t matter? An irrelephant.
+In my career as a lumberjack I cut down exactly 52,487 trees. I know because I kept a log.
 
 
 ## Daily Trivia
 
-What does the International System of Quantities refer 1024 bytes as?
- 1. Kilobyte
- 2. Kibibyte
- 3. Kylobyte
- 4. Kelobyte
+What does GHz stand for?
+ 1. Gigahertz
+ 2. Gigahotz
+ 3. Gigahetz
+ 4. Gigahatz
 
 <details>
   <summary>Answer</summary>
-  Kibibyte
+  Gigahertz
 </details>
 
 
