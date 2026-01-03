@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-As I suspected, someone has been adding soil to my garden. The plot thickens.
+Did you know that protons have mass? I didn't even know they were catholic.
 
 
 ## Daily Trivia
 
-The C programming language was created by this American computer scientist. 
- 1. Willis Ware
- 2. Tim Berners Lee
- 3. al-Khwārizmī
- 4. Dennis Ritchie
+Which kind of algorithm is Ron Rivest not famous for creating?
+ 1. Hashing algorithm
+ 2. Asymmetric encryption
+ 3. Secret sharing scheme
+ 4. Stream cipher
 
 <details>
   <summary>Answer</summary>
-  Dennis Ritchie
+  Secret sharing scheme
 </details>
 
 
