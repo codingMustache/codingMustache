@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-In my career as a lumberjack I cut down exactly 52,487 trees. I know because I kept a log.
+Why does Norway have barcodes on their battleships? So when they get back to port, they can Scandinavian.
 
 
 ## Daily Trivia
 
-What does GHz stand for?
- 1. Gigahertz
- 2. Gigahotz
- 3. Gigahetz
- 4. Gigahatz
+In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
+ 1. Red
+ 2. Blue
+ 3. Green
+ 4. Yellow
 
 <details>
   <summary>Answer</summary>
-  Gigahertz
+  Green
 </details>
 
 
