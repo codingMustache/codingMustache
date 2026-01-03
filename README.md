@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My wife told me to rub the herbs on the meat for better flavor. That's sage advice.
+Why was the shirt happy to hang around the tank top? Because it was armless
 
 
 ## Daily Trivia
 
-How fast is USB 3.1 Gen 2 theoretically?
- 1. 5 Gb/s
- 2. 10 Gb/s
- 3. 8 Gb/s
- 4. 1 Gb/s
+In networking, what does OSPF stand for?
+ 1. Order State Part First
+ 2. Order Sense Ping Find
+ 3. Open Shortest Path First
+ 4. Open Signal Path Finder
 
 <details>
   <summary>Answer</summary>
-  10 Gb/s
+  Open Shortest Path First
 </details>
 
 
