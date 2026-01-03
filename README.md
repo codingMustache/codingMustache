@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How did the hipster burn the roof of his mouth? He ate the pizza before it was cool.
+Don’t interrupt someone working intently on a puzzle. Chances are, you’ll hear some crosswords.
 
 
 ## Daily Trivia
 
-What does &quot;LCD&quot; stand for?
- 1. Liquid Crystal Display
- 2. Long Continuous Design
- 3. Last Common Difference
- 4. Language Control Design
+Which of the following is the oldest of these computers by release date?
+ 1. TRS-80
+ 2. Commodore 64
+ 3. ZX Spectrum
+ 4. Apple 3
 
 <details>
   <summary>Answer</summary>
-  Liquid Crystal Display
+  TRS-80
 </details>
 
 
