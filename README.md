@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I went on a date last night with a girl from the zoo. It was great. She’s a keeper.
+Why do bears have hairy coats? Fur protection.
 
 
 ## Daily Trivia
 
-What was the first company to use the term &quot;Golden Master&quot;?
- 1. Google
- 2. Microsoft
- 3. IBM
- 4. Apple
+What port does HTTP run on?
+ 1. 53
+ 2. 80
+ 3. 443
+ 4. 23
 
 <details>
   <summary>Answer</summary>
-  Apple
+  80
 </details>
 
 
