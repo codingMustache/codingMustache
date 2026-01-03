@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The rotation of earth really makes my day.
+Some people eat light bulbs. They say it's a nice light snack.
 
 
 ## Daily Trivia
 
-What does the Prt Sc button do?
- 1. Closes all windows
- 2. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
- 3. Nothing
- 4. Captures what&#039;s on the screen and copies it to your clipboard
+Australia, Japan, and Southeast Asia are in which ITU Region?
+ 1. Region 4
+ 2. Region 2
+ 3. Region 1
+ 4. Region 3
 
 <details>
   <summary>Answer</summary>
-  Captures what&#039;s on the screen and copies it to your clipboard
+  Region 3
 </details>
 
 
