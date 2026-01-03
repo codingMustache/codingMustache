@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Whoever invented the knock-knock joke should get a no bell prize.
+I went on a date last night with a girl from the zoo. It was great. She’s a keeper.
 
 
 ## Daily Trivia
 
-What is the name of the process that sends one qubit of information using two bits of classical information?
- 1. Quantum Programming
- 2. Quantum Teleportation
- 3. Quantum Entanglement
- 4. Super Dense Coding
+What was the first company to use the term &quot;Golden Master&quot;?
+ 1. Google
+ 2. Microsoft
+ 3. IBM
+ 4. Apple
 
 <details>
   <summary>Answer</summary>
-  Quantum Teleportation
+  Apple
 </details>
 
 
