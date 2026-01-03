@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the drummer name her twin daughters? Anna One, Anna Two...
+Why is Peter Pan always flying? Because he Neverlands.
 
 
 ## Daily Trivia
 
-Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
- 1. 1.5 MHz
- 2. 32.0 kHz
- 3. 44.1 kHz
- 4. 20.5 kHz
+What was the first Android version specifically optimized for tablets?
+ 1. Honeycomb
+ 2. Marshmellow
+ 3. Froyo
+ 4. Eclair
 
 <details>
   <summary>Answer</summary>
-  44.1 kHz
+  Honeycomb
 </details>
 
 
