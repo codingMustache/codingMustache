@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do bears have hairy coats? Fur protection.
+If two vegans are having an argument, is it still considered beef?
 
 
 ## Daily Trivia
 
-What port does HTTP run on?
- 1. 53
- 2. 80
- 3. 443
- 4. 23
+The Harvard architecture for micro-controllers added which additional bus?
+ 1. Address
+ 2. Instruction
+ 3. Data
+ 4. Control
 
 <details>
   <summary>Answer</summary>
-  80
+  Instruction
 </details>
 
 
