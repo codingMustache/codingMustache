@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A Sandwich walks into a bar, the bartender says “Sorry, we don’t serve food here”
+This morning I was wondering where the sun was, but then it dawned on me.
 
 
 ## Daily Trivia
 
-What did the name of the Tor Anonymity Network orignially stand for?
- 1. The Onion Router
- 2. The Ominous Router
- 3. The Orange Router
- 4. The Only Router
+What is the name of Layer 7 of the OSI model?
+ 1. Session
+ 2. Network
+ 3. Application
+ 4. Present
 
 <details>
   <summary>Answer</summary>
-  The Onion Router
+  Application
 </details>
 
 
