@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Don’t interrupt someone working intently on a puzzle. Chances are, you’ll hear some crosswords.
+Whoever invented the knock-knock joke should get a no bell prize.
 
 
 ## Daily Trivia
 
-Which of the following is the oldest of these computers by release date?
- 1. TRS-80
- 2. Commodore 64
- 3. ZX Spectrum
- 4. Apple 3
+What is the name of the process that sends one qubit of information using two bits of classical information?
+ 1. Quantum Programming
+ 2. Quantum Teleportation
+ 3. Quantum Entanglement
+ 4. Super Dense Coding
 
 <details>
   <summary>Answer</summary>
-  TRS-80
+  Quantum Teleportation
 </details>
 
 
