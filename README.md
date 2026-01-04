@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take.
+Don’t interrupt someone working intently on a puzzle. Chances are, you’ll hear some crosswords.
 
 
 ## Daily Trivia
 
-Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
- 1. Nautilus
- 2. Enigma Machine
- 3. Clipper Chip
- 4. Skipjack
+What does the Prt Sc button do?
+ 1. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
+ 2. Captures what&#039;s on the screen and copies it to your clipboard
+ 3. Nothing
+ 4. Closes all windows
 
 <details>
   <summary>Answer</summary>
-  Clipper Chip
+  Captures what&#039;s on the screen and copies it to your clipboard
 </details>
 
 
