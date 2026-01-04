@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-‘Put the cat out’ … ‘I didn’t realize it was on fire
+What kind of magic do cows believe in? MOODOO.
 
 
 ## Daily Trivia
 
-What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
- 1. ADPCM Sampler
- 2. PCM Sampler
- 3. Programmable Sound Generator (PSG)
- 4. FM Synthesizer
+Who invented the &quot;Spanning Tree Protocol&quot;?
+ 1. Paul Vixie
+ 2. Michael Roberts
+ 3. Vint Cerf
+ 4. Radia Perlman
 
 <details>
   <summary>Answer</summary>
-  ADPCM Sampler
+  Radia Perlman
 </details>
 
 
