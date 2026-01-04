@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the calculator say to the student? You can count on me.
+What happens when you anger a brain surgeon? They will give you a piece of your mind.
 
 
 ## Daily Trivia
 
-What is the name of the default theme that is installed with Windows XP?
- 1. Luna
- 2. Bliss
- 3. Whistler
- 4. Neptune
+Which operating system was released first?
+ 1. Windows
+ 2. Linux
+ 3. OS/2
+ 4. Mac OS
 
 <details>
   <summary>Answer</summary>
-  Luna
+  Mac OS
 </details>
 
 
