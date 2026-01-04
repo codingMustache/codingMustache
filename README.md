@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I needed a password eight characters long so I picked Snow White and the Seven Dwarfs.
+I'm practicing for a bug-eating contest and I've got butterflies in my stomach.
 
 
 ## Daily Trivia
 
-Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
- 1. 44.1 kHz
- 2. 1.5 MHz
- 3. 32.0 kHz
- 4. 20.5 kHz
+While Apple was formed in California, in which western state was Microsoft founded?
+ 1. New Mexico
+ 2. Washington
+ 3. Colorado
+ 4. Arizona
 
 <details>
   <summary>Answer</summary>
-  44.1 kHz
+  New Mexico
 </details>
 
 
