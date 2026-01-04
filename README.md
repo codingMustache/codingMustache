@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where did Captain Hook get his hook? From a second hand store.
+What's the difference between a guitar and a fish? You can tune a guitar but you can't "tuna" fish!
 
 
 ## Daily Trivia
 
-Which kind of algorithm is Ron Rivest not famous for creating?
- 1. Hashing algorithm
- 2. Asymmetric encryption
- 3. Secret sharing scheme
- 4. Stream cipher
+What does the &quot;MP&quot; stand for in MP3?
+ 1. Micro Point
+ 2. Multi Pass
+ 3. Music Player
+ 4. Moving Picture
 
 <details>
   <summary>Answer</summary>
-  Secret sharing scheme
+  Moving Picture
 </details>
 
 
