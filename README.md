@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's a ninja's favorite type of shoes? Sneakers!
+I just wrote a book on reverse psychology. Do not read it!
 
 
 ## Daily Trivia
 
-What was the first commerically available computer processor?
- 1. Intel 4004
- 2. TMS 1000
- 3. Intel 486SX
- 4. AMD AM386
+If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
+ 1. Python
+ 2. Binary
+ 3. C++
+ 4. JavaScript
 
 <details>
   <summary>Answer</summary>
-  Intel 4004
+  Binary
 </details>
 
 
