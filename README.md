@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the burglar hang his mugshot on the wall? To prove that he was framed!
+Where do you take someone who has been injured in a Peek-a-boo accident? To the I.C.U.
 
 
 ## Daily Trivia
 
-Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
- 1. Corrupted Blood
- 2. Shellscript
- 3. Heartbleed
- 4. Shellshock
+The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
+ 1. Fiji
+ 2. Micronesia
+ 3. Tuvalu
+ 4. Marshall Islands
 
 <details>
   <summary>Answer</summary>
-  Heartbleed
+  Micronesia
 </details>
 
 
