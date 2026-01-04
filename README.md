@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-When people are sad, I sometimes let them colour in my tattoos. Sometimes all they need is a shoulder to crayon.
+What do you get if you put a duck in a cement mixer? Quacks in the pavement.
 
 
 ## Daily Trivia
 
-What does GHz stand for?
- 1. Gigahertz
- 2. Gigahetz
- 3. Gigahotz
- 4. Gigahatz
+How fast is USB 3.1 Gen 2 theoretically?
+ 1. 1 Gb/s
+ 2. 8 Gb/s
+ 3. 5 Gb/s
+ 4. 10 Gb/s
 
 <details>
   <summary>Answer</summary>
-  Gigahertz
+  10 Gb/s
 </details>
 
 
