@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why doesn't the Chimney-Sweep call out sick from work? Because he's used to working with a flue.
+What do you call a cow with no legs? Ground beef.
 
 
 ## Daily Trivia
 
-What was the name of the security vulnerability found in Bash in 2014?
- 1. Shellshock
- 2. Stagefright
- 3. Bashbug
- 4. Heartbleed
+While Apple was formed in California, in which western state was Microsoft founded?
+ 1. New Mexico
+ 2. Arizona
+ 3. Colorado
+ 4. Washington
 
 <details>
   <summary>Answer</summary>
-  Shellshock
+  New Mexico
 </details>
 
 
