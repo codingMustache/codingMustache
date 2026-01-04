@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A boy dug three holes in the yard. When his mother saw, she exclaimed: "well, well, well"
+What kind of award did the dentist receive? A little plaque.
 
 
 ## Daily Trivia
 
-America Online (AOL) started out as which of these online service providers?
- 1. Quantum Link
- 2. Prodigy
- 3. CompuServe
- 4. GEnie
+What programming language was GitHub written in?
+ 1. JavaScript
+ 2. Python
+ 3. Lua
+ 4. Ruby
 
 <details>
   <summary>Answer</summary>
-  Quantum Link
+  Ruby
 </details>
 
 
