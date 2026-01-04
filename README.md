@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I couldn't figure out how the seat belt worked. Then it just clicked.
+Where did Captain Hook get his hook? From a second hand store.
 
 
 ## Daily Trivia
 
-Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
- 1. Shellshock
- 2. Corrupted Blood
- 3. Shellscript
- 4. Heartbleed
+Which kind of algorithm is Ron Rivest not famous for creating?
+ 1. Hashing algorithm
+ 2. Asymmetric encryption
+ 3. Secret sharing scheme
+ 4. Stream cipher
 
 <details>
   <summary>Answer</summary>
-  Heartbleed
+  Secret sharing scheme
 </details>
 
 
