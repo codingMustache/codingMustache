@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did Michael Jackson name his denim store?    Billy Jeans!
+I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later.
 
 
 ## Daily Trivia
 
-When was the programming language &quot;C#&quot; released?
- 1. 2001
- 2. 1999
- 3. 1998
- 4. 2000
+The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
+ 1. Commodore Business Machines
+ 2. Sinclair Research
+ 3. Acorn Computers
+ 4. Amstrad PLC
 
 <details>
   <summary>Answer</summary>
-  2000
+  Acorn Computers
 </details>
 
 
