@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I saw my husband trip and fall while carrying a laundry basket full of ironed clothes. I watched it all unfold.
+Why doesn't the Chimney-Sweep call out sick from work? Because he's used to working with a flue.
 
 
 ## Daily Trivia
 
-In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
- 1. &lt;slide&gt;&lt;/slide&gt;
- 2. &lt;move&gt;&lt;/move&gt;
- 3. &lt;scroll&gt;&lt;/scroll&gt;
- 4. &lt;marquee&gt;&lt;/marquee&gt;
+What was the name of the security vulnerability found in Bash in 2014?
+ 1. Shellshock
+ 2. Stagefright
+ 3. Bashbug
+ 4. Heartbleed
 
 <details>
   <summary>Answer</summary>
-  &lt;marquee&gt;&lt;/marquee&gt;
+  Shellshock
 </details>
 
 
