@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many bones are in the human hand? A handful of them.
+I don’t play soccer because I enjoy the sport. I’m just doing it for kicks.
 
 
 ## Daily Trivia
 
-What does the &#039;S&#039; in the RSA encryption algorithm stand for?
- 1. Shamir
- 2. Stable
- 3. Schottky
- 4. Secure
+How many values can a single byte represent?
+ 1. 1
+ 2. 8
+ 3. 1024
+ 4. 256
 
 <details>
   <summary>Answer</summary>
-  Shamir
+  256
 </details>
 
 
