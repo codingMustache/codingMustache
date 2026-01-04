@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What happens when you anger a brain surgeon? They will give you a piece of your mind.
+What do you call a group of disorganized cats? A cat-tastrophe.
 
 
 ## Daily Trivia
 
-Which operating system was released first?
- 1. Windows
- 2. Linux
- 3. OS/2
- 4. Mac OS
+The acronym &quot;RIP&quot; stands for which of these?
+ 1. Routine Inspection Protocol
+ 2. Regular Interval Processes
+ 3. Routing Information Protocol
+ 4. Runtime Instance Processes
 
 <details>
   <summary>Answer</summary>
-  Mac OS
+  Routing Information Protocol
 </details>
 
 
