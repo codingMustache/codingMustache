@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I went to the store to pick up eight cans of sprite... when I got home I realized I'd only picked seven up
+My first time using an elevator was an uplifting experience. The second time let me down.
 
 
 ## Daily Trivia
 
-In programming, what do you call functions with the same name but different implementations?
- 1. Overloading
- 2. Inheriting
- 3. Abstracting
- 4. Overriding
+What language does Node.js use?
+ 1. JavaScript
+ 2. Joomla Source Code
+ 3. Java Source
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  Overloading
+  JavaScript
 </details>
 
 
