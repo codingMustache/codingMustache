@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the barber win the race? He took a short cut.
+My New Years resolution is to stop leaving things so late.
 
 
 ## Daily Trivia
 
-What is the code name for the mobile operating system Android 7.0?
- 1. Marshmallow
- 2. Nougat
- 3. Ice Cream Sandwich
- 4. Jelly Bean
+On which day did the World Wide Web go online?
+ 1. December 17, 1996
+ 2. December 20, 1990
+ 3. November 12, 1990
+ 4. November 24, 1995
 
 <details>
   <summary>Answer</summary>
-  Nougat
+  December 20, 1990
 </details>
 
 
