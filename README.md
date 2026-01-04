@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My sister bet me $15 that I couldn't build a car out of spaghetti. You should have seen the look on her face as I drove pasta.
+Why did the barber win the race? He took a short cut.
 
 
 ## Daily Trivia
 
-Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
- 1. Amazon
- 2. Shopify
- 3. Overstock
- 4. eBay
+What is the code name for the mobile operating system Android 7.0?
+ 1. Marshmallow
+ 2. Nougat
+ 3. Ice Cream Sandwich
+ 4. Jelly Bean
 
 <details>
   <summary>Answer</summary>
-  Amazon
+  Nougat
 </details>
 
 
