@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I just wrote a book on reverse psychology. Do not read it!
+I got fired from the transmission factor, turns out I didn't put on enough shifts...
 
 
 ## Daily Trivia
 
-If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
- 1. Python
- 2. Binary
- 3. C++
- 4. JavaScript
+Which of these is not a layer in the OSI model for data communications?
+ 1. Connection Layer
+ 2. Transport Layer
+ 3. Physical Layer
+ 4. Application Layer
 
 <details>
   <summary>Answer</summary>
-  Binary
+  Connection Layer
 </details>
 
 
