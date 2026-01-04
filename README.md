@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I don’t play soccer because I enjoy the sport. I’m just doing it for kicks.
+What did Michael Jackson name his denim store?    Billy Jeans!
 
 
 ## Daily Trivia
 
-How many values can a single byte represent?
- 1. 1
- 2. 8
- 3. 1024
- 4. 256
+When was the programming language &quot;C#&quot; released?
+ 1. 2001
+ 2. 1999
+ 3. 1998
+ 4. 2000
 
 <details>
   <summary>Answer</summary>
-  256
+  2000
 </details>
 
 
