@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Archaeology really is a career in ruins.
+A termite walks into a bar and asks “Is the bar tender here?”
 
 
 ## Daily Trivia
 
-The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
- 1. United States
- 2. Germany
- 3. China (People&#039;s Republic of)
- 4. Taiwan
+What did the name of the Tor Anonymity Network orignially stand for?
+ 1. The Only Router
+ 2. The Orange Router
+ 3. The Onion Router
+ 4. The Ominous Router
 
 <details>
   <summary>Answer</summary>
-  Taiwan
+  The Onion Router
 </details>
 
 
