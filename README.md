@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you get if you put a duck in a cement mixer? Quacks in the pavement.
+I couldn't figure out how the seat belt worked. Then it just clicked.
 
 
 ## Daily Trivia
 
-How fast is USB 3.1 Gen 2 theoretically?
- 1. 1 Gb/s
- 2. 8 Gb/s
- 3. 5 Gb/s
- 4. 10 Gb/s
+Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
+ 1. Shellshock
+ 2. Corrupted Blood
+ 3. Shellscript
+ 4. Heartbleed
 
 <details>
   <summary>Answer</summary>
-  10 Gb/s
+  Heartbleed
 </details>
 
 
