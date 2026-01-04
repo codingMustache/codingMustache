@@ -4,23 +4,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-When does a joke become a dad joke? When it becomes apparent.
+Why don't you find hippopotamuses hiding in trees?
+They're really good at it.
 
 
 ## Daily Trivia
 
-What does &quot;LCD&quot; stand for?
- 1. Liquid Crystal Display
- 2. Long Continuous Design
- 3. Last Common Difference
- 4. Language Control Design
+The C programming language was created by this American computer scientist. 
+ 1. Willis Ware
+ 2. Tim Berners Lee
+ 3. al-Khwārizmī
+ 4. Dennis Ritchie
 
 <details>
   <summary>Answer</summary>
-  Liquid Crystal Display
+  Dennis Ritchie
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **6 days** since this server shutdown
+Its been **7 days** since this server shutdown
