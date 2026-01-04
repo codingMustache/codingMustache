@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My New Years resolution is to stop leaving things so late.
+A man walks into a bar and orders helicopter flavor chips. The barman replies “sorry mate we only do plain”
 
 
 ## Daily Trivia
 
-On which day did the World Wide Web go online?
- 1. December 17, 1996
- 2. December 20, 1990
- 3. November 12, 1990
- 4. November 24, 1995
+Which of the following physical typologies are used with Ethernet Networks?
+ 1. Star
+ 2. Ring
+ 3. Mesh
+ 4. Hex
 
 <details>
   <summary>Answer</summary>
-  December 20, 1990
+  Star
 </details>
 
 
