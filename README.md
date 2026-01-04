@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do you take someone who has been injured in a Peek-a-boo accident? To the I.C.U.
+What do you call a boomerang that won't come back? A stick.
 
 
 ## Daily Trivia
 
-The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
- 1. Fiji
- 2. Micronesia
- 3. Tuvalu
- 4. Marshall Islands
+What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
+ 1. PCM Sampler
+ 2. Programmable Sound Generator (PSG)
+ 3. ADPCM Sampler
+ 4. FM Synthesizer
 
 <details>
   <summary>Answer</summary>
-  Micronesia
+  ADPCM Sampler
 </details>
 
 
