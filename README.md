@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a boomerang that won't come back? A stick.
+A Sandwich walks into a bar, the bartender says “Sorry, we don’t serve food here”
 
 
 ## Daily Trivia
 
-What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
- 1. PCM Sampler
- 2. Programmable Sound Generator (PSG)
- 3. ADPCM Sampler
- 4. FM Synthesizer
+What was the name of the first Bulgarian personal computer?
+ 1. Pravetz 8D
+ 2. IZOT 1030
+ 3. Pravetz 82
+ 4. IMKO-1
 
 <details>
   <summary>Answer</summary>
-  ADPCM Sampler
+  IMKO-1
 </details>
 
 
