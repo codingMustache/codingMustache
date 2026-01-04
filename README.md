@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the difference between a guitar and a fish? You can tune a guitar but you can't "tuna" fish!
+My sister bet me $15 that I couldn't build a car out of spaghetti. You should have seen the look on her face as I drove pasta.
 
 
 ## Daily Trivia
 
-What does the &quot;MP&quot; stand for in MP3?
- 1. Micro Point
- 2. Multi Pass
- 3. Music Player
- 4. Moving Picture
+Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
+ 1. Amazon
+ 2. Shopify
+ 3. Overstock
+ 4. eBay
 
 <details>
   <summary>Answer</summary>
-  Moving Picture
+  Amazon
 </details>
 
 
