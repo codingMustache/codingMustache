@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a cow with no legs? Ground beef.
+Some people say that I never got over my obsession with Phil Collins.
+But take a look at me now.
 
 
 ## Daily Trivia
 
-While Apple was formed in California, in which western state was Microsoft founded?
- 1. New Mexico
- 2. Arizona
- 3. Colorado
- 4. Washington
+Which programming language shares its name with an island in Indonesia?
+ 1. C
+ 2. Python
+ 3. Jakarta
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  New Mexico
+  Java
 </details>
 
 
