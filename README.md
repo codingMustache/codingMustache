@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Slept like a log last night … woke up in the fireplace.
+What's a ninja's favorite type of shoes? Sneakers!
 
 
 ## Daily Trivia
 
-How many values can a single byte represent?
- 1. 1024
- 2. 256
- 3. 8
- 4. 1
+What was the first commerically available computer processor?
+ 1. Intel 4004
+ 2. TMS 1000
+ 3. Intel 486SX
+ 4. AMD AM386
 
 <details>
   <summary>Answer</summary>
-  256
+  Intel 4004
 </details>
 
 
