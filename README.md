@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to work in a shoe recycling shop. It was sole destroying.
+Why don't skeletons ride roller coasters? They don't have the stomach for it.
 
 
 ## Daily Trivia
 
-Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
- 1. Tiger
- 2. Cheetah
- 3. Puma
- 4. Leopard
+Who invented the &quot;Spanning Tree Protocol&quot;?
+ 1. Paul Vixie
+ 2. Michael Roberts
+ 3. Vint Cerf
+ 4. Radia Perlman
 
 <details>
   <summary>Answer</summary>
-  Cheetah
+  Radia Perlman
 </details>
 
 
