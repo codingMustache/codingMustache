@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What has three letters and starts with gas? A Car.
+What do you get when you cross a chicken with a skunk? A fowl smell!
 
 
 ## Daily Trivia
 
-Which kind of algorithm is Ron Rivest not famous for creating?
- 1. Hashing algorithm
- 2. Secret sharing scheme
- 3. Stream cipher
- 4. Asymmetric encryption
+Which of the following is NOT a computer science algorithm?
+ 1. Merge Sort
+ 2. Bubble Sort
+ 3. Float Sort
+ 4. Quick Sort
 
 <details>
   <summary>Answer</summary>
-  Secret sharing scheme
+  Float Sort
 </details>
 
 
