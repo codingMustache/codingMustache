@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you get when you cross a chicken with a skunk? A fowl smell!
+How many bones are in the human hand? A handful of them.
 
 
 ## Daily Trivia
 
-Which of the following is NOT a computer science algorithm?
- 1. Merge Sort
- 2. Bubble Sort
- 3. Float Sort
- 4. Quick Sort
+What does RAID stand for?
+ 1. Randomized Abstract Identification Description
+ 2. Range of Applications with Identical Designs
+ 3. Redundant Array of Independent Disks
+ 4. Rapid Access for Indexed Devices
 
 <details>
   <summary>Answer</summary>
-  Float Sort
+  Redundant Array of Independent Disks
 </details>
 
 
