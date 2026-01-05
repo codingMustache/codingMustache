@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Don’t interrupt someone working intently on a puzzle. Chances are, you’ll hear some crosswords.
+You know what they say about cliffhangers...
 
 
 ## Daily Trivia
 
-What does the Prt Sc button do?
- 1. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
- 2. Captures what&#039;s on the screen and copies it to your clipboard
- 3. Nothing
- 4. Closes all windows
+In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
+ 1. &lt;move&gt;&lt;/move&gt;
+ 2. &lt;marquee&gt;&lt;/marquee&gt;
+ 3. &lt;slide&gt;&lt;/slide&gt;
+ 4. &lt;scroll&gt;&lt;/scroll&gt;
 
 <details>
   <summary>Answer</summary>
-  Captures what&#039;s on the screen and copies it to your clipboard
+  &lt;marquee&gt;&lt;/marquee&gt;
 </details>
 
 
