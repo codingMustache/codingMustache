@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What’s the difference between an African elephant and an Indian elephant? About 5000 miles.
+I was going to get a brain transplant, but I changed my mind
 
 
 ## Daily Trivia
 
-The numbering system with a radix of 16 is more commonly referred to as 
- 1. Binary
- 2. Hexidecimal
- 3. Octal
- 4. Duodecimal
+What vulnerability ranked #1 on the OWASP Top 10 in 2013?
+ 1. Cross-Site Scripting
+ 2. Injection 
+ 3. Insecure Direct Object References
+ 4. Broken Authentication
 
 <details>
   <summary>Answer</summary>
-  Hexidecimal
+  Injection 
 </details>
 
 
