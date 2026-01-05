@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My pet mouse 'Elvis' died last night. He was caught in a trap..
+Did you hear about the cow who jumped over the barbed wire fence? It was udder destruction.
 
 
 ## Daily Trivia
 
-Australia, Japan, and Southeast Asia are in which ITU Region?
- 1. Region 2
- 2. Region 1
- 3. Region 3
- 4. Region 4
+In networking, what does OSPF stand for?
+ 1. Order Sense Ping Find
+ 2. Order State Part First
+ 3. Open Signal Path Finder
+ 4. Open Shortest Path First
 
 <details>
   <summary>Answer</summary>
-  Region 3
+  Open Shortest Path First
 </details>
 
 
