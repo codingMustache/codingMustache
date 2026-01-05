@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How can you tell a vampire has a cold? They start coffin.
+Hear about the new restaurant called Karma? There’s no menu: You get what you deserve.
 
 
 ## Daily Trivia
 
-What is the code name for the mobile operating system Android 7.0?
- 1. Nougat
- 2. Marshmallow
- 3. Jelly Bean
- 4. Ice Cream Sandwich
+What amount of bits commonly equals one byte?
+ 1. 1
+ 2. 2
+ 3. 8
+ 4. 64
 
 <details>
   <summary>Answer</summary>
-  Nougat
+  8
 </details>
 
 
