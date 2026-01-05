@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-As I get older, I think of all the people I lost along the way. Maybe a career as a tour guide wasn't such a good idea.
+I asked my date to go to the gym the other day. They never showed up. That's when I knew we wouldn't work out.
 
 
 ## Daily Trivia
 
-In computing, what does LAN stand for?
- 1. Long Antenna Node
- 2. Light Access Node
- 3. Local Area Network
- 4. Land Address Navigation
+The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
+ 1. Taiwan
+ 2. United States
+ 3. China (People&#039;s Republic of)
+ 4. Germany
 
 <details>
   <summary>Answer</summary>
-  Local Area Network
+  Taiwan
 </details>
 
 
