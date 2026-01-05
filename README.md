@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I just broke my guitar. It's okay, I won't fret
+which flower is most fierce? Dandelion
 
 
 ## Daily Trivia
 
-How long is an IPv6 address?
- 1. 64 bits
- 2. 32 bits
- 3. 128 bits
- 4. 128 bytes
+What language does Node.js use?
+ 1. Java Source
+ 2. JavaScript
+ 3. Joomla Source Code
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  128 bits
+  JavaScript
 </details>
 
 
