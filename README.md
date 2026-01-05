@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Past, present, and future walked into a bar.... It was tense.
+What don't watermelons get married? Because they cantaloupe.
 
 
 ## Daily Trivia
 
-Which computer hardware device provides an interface for all other connected devices to communicate?
+What is known as &quot;the brain&quot; of the Computer?
  1. Central Processing Unit
- 2. Motherboard
- 3. Hard Disk Drive
- 4. Random Access Memory
+ 2. Keyboard
+ 3. Graphics Processing Unit
+ 4. Motherboard
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  Central Processing Unit
 </details>
 
 
