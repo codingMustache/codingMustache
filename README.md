@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What time did the man go to the dentist? Tooth hurt-y.
+A horse walks into a bar. The bar tender says "Hey." The horse says "Sure."
 
 
 ## Daily Trivia
 
-What is the number of keys on a standard Windows Keyboard?
- 1. 104
- 2. 76
- 3. 94
- 4. 64
+Which programming language was developed by Sun Microsystems in 1995?
+ 1. C++
+ 2. Solaris OS
+ 3. Java
+ 4. Python
 
 <details>
   <summary>Answer</summary>
-  104
+  Java
 </details>
 
 
