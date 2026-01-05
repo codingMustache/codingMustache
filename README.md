@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the ocean say to the beach? Thanks for all the sediment.
+Never take advice from electrons. They are always negative.
 
 
 ## Daily Trivia
 
-What does the computer software acronym JVM stand for?
- 1. Java Visual Machine
- 2. Java Vendor Machine
- 3. Java Virtual Machine
- 4. Just Virtual Machine
+What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
+ 1. Heat Sink
+ 2. Temperature Decipator
+ 3. Heat Vent
+ 4. CPU Vent
 
 <details>
   <summary>Answer</summary>
-  Java Virtual Machine
+  Heat Sink
 </details>
 
 
