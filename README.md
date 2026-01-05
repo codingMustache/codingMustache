@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-To the person who stole my anti-depressant pills: I hope you're happy now.
+I hate perforated lines, they're tearable.
 
 
 ## Daily Trivia
 
-How many bits make up the significand portion of a single precision floating point number?
- 1. 8
- 2. 53
- 3. 23
- 4. 15
+What does the computer software acronym JVM stand for?
+ 1. Java Vendor Machine
+ 2. Just Virtual Machine
+ 3. Java Visual Machine
+ 4. Java Virtual Machine
 
 <details>
   <summary>Answer</summary>
-  23
+  Java Virtual Machine
 </details>
 
 
