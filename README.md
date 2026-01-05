@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the cow who jumped over the barbed wire fence? It was udder destruction.
+Why do cows not have toes? They lactose!
 
 
 ## Daily Trivia
 
-In networking, what does OSPF stand for?
- 1. Order Sense Ping Find
- 2. Order State Part First
- 3. Open Signal Path Finder
- 4. Open Shortest Path First
+What is the name of the default theme that is installed with Windows XP?
+ 1. Neptune
+ 2. Whistler
+ 3. Luna
+ 4. Bliss
 
 <details>
   <summary>Answer</summary>
-  Open Shortest Path First
+  Luna
 </details>
 
 
