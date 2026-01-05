@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I can't take my dog to the pond anymore because the ducks keep attacking him. That's what I get for buying a pure bread dog.
+My pet mouse 'Elvis' died last night. He was caught in a trap..
 
 
 ## Daily Trivia
 
-Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
- 1. Four Years
- 2. Two Years
- 3. Eight Years
- 4. Year
+Australia, Japan, and Southeast Asia are in which ITU Region?
+ 1. Region 2
+ 2. Region 1
+ 3. Region 3
+ 4. Region 4
 
 <details>
   <summary>Answer</summary>
-  Year
+  Region 3
 </details>
 
 
