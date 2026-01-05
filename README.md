@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you give a sick lemon? Lemonaid.
+What’s the difference between an African elephant and an Indian elephant? About 5000 miles.
 
 
 ## Daily Trivia
 
-How many cores does the Intel i7-6950X have?
- 1. 10
- 2. 4
- 3. 8
- 4. 12
+The numbering system with a radix of 16 is more commonly referred to as 
+ 1. Binary
+ 2. Hexidecimal
+ 3. Octal
+ 4. Duodecimal
 
 <details>
   <summary>Answer</summary>
-  10
+  Hexidecimal
 </details>
 
 
