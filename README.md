@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Milk is also the fastest liquid on earth – its pasteurized before you even see it
+Why do nurses carry around red crayons? Sometimes they need to draw blood.
 
 
 ## Daily Trivia
 
-In networking, what does OSPF stand for?
- 1. Order State Part First
- 2. Order Sense Ping Find
- 3. Open Shortest Path First
- 4. Open Signal Path Finder
+Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
+ 1. Nautilus
+ 2. Skipjack
+ 3. Enigma Machine
+ 4. Clipper Chip
 
 <details>
   <summary>Answer</summary>
-  Open Shortest Path First
+  Clipper Chip
 </details>
 
 
