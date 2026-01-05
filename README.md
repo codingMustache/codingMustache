@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A horse walks into a bar. The bar tender says "Hey." The horse says "Sure."
+I've got a joke about vegetables for you... but it's a bit corny.
 
 
 ## Daily Trivia
 
-Which programming language was developed by Sun Microsystems in 1995?
- 1. C++
- 2. Solaris OS
- 3. Java
- 4. Python
+How many values can a single byte represent?
+ 1. 1
+ 2. 8
+ 3. 256
+ 4. 1024
 
 <details>
   <summary>Answer</summary>
-  Java
+  256
 </details>
 
 
