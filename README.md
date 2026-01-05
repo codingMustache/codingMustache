@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I hate perforated lines, they're tearable.
+What did the green grape say to the purple grape?
+BREATH!!
 
 
 ## Daily Trivia
 
-What does the computer software acronym JVM stand for?
- 1. Java Vendor Machine
- 2. Just Virtual Machine
- 3. Java Visual Machine
- 4. Java Virtual Machine
+What programming language was GitHub written in?
+ 1. Ruby
+ 2. Lua
+ 3. Python
+ 4. JavaScript
 
 <details>
   <summary>Answer</summary>
-  Java Virtual Machine
+  Ruby
 </details>
 
 
