@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many bones are in the human hand? A handful of them.
+Did you hear about the Mexican train killer? He had loco motives
 
 
 ## Daily Trivia
 
-What does RAID stand for?
- 1. Randomized Abstract Identification Description
- 2. Range of Applications with Identical Designs
- 3. Redundant Array of Independent Disks
- 4. Rapid Access for Indexed Devices
+On which computer hardware device is the BIOS chip located?
+ 1. Central Processing Unit
+ 2. Graphics Processing Unit
+ 3. Motherboard
+ 4. Hard Disk Drive
 
 <details>
   <summary>Answer</summary>
-  Redundant Array of Independent Disks
+  Motherboard
 </details>
 
 
