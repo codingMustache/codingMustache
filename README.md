@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I asked my date to go to the gym the other day. They never showed up. That's when I knew we wouldn't work out.
+I saw my husband trip and fall while carrying a laundry basket full of ironed clothes. I watched it all unfold.
 
 
 ## Daily Trivia
 
-The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
- 1. Taiwan
- 2. United States
- 3. China (People&#039;s Republic of)
- 4. Germany
+Which of the following is NOT a computer science algorithm?
+ 1. Quick Sort
+ 2. Merge Sort
+ 3. Bubble Sort
+ 4. Float Sort
 
 <details>
   <summary>Answer</summary>
-  Taiwan
+  Float Sort
 </details>
 
 
