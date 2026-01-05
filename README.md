@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Never take advice from electrons. They are always negative.
+How can you tell a vampire has a cold? They start coffin.
 
 
 ## Daily Trivia
 
-What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
- 1. Heat Sink
- 2. Temperature Decipator
- 3. Heat Vent
- 4. CPU Vent
+What is the code name for the mobile operating system Android 7.0?
+ 1. Nougat
+ 2. Marshmallow
+ 3. Jelly Bean
+ 4. Ice Cream Sandwich
 
 <details>
   <summary>Answer</summary>
-  Heat Sink
+  Nougat
 </details>
 
 
