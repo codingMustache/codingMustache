@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a magician who has lost their magic? Ian.
+What did the ocean say to the beach? Thanks for all the sediment.
 
 
 ## Daily Trivia
 
-Nvidia&#039;s headquarters are based in which Silicon Valley city?
- 1. Palo Alto
- 2. Cupertino
- 3. Mountain View
- 4. Santa Clara
+What does the computer software acronym JVM stand for?
+ 1. Java Visual Machine
+ 2. Java Vendor Machine
+ 3. Java Virtual Machine
+ 4. Just Virtual Machine
 
 <details>
   <summary>Answer</summary>
-  Santa Clara
+  Java Virtual Machine
 </details>
 
 
