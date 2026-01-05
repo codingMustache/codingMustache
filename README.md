@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-which flower is most fierce? Dandelion
+Want to hear a joke about construction? Nah, I'm still working on it.
 
 
 ## Daily Trivia
 
-What language does Node.js use?
- 1. Java Source
- 2. JavaScript
- 3. Joomla Source Code
- 4. Java
+According to the International System of Units, how many bytes are in a kilobyte of RAM?
+ 1. 512
+ 2. 1000
+ 3. 1024
+ 4. 500
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  1000
 </details>
 
 
