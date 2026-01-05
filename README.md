@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I tried taking some high resolution photos of local farmland, but they all turned out a bit grainy.
+What is red and smells like blue paint?
+Red paint!
 
 
 ## Daily Trivia
 
-America Online (AOL) started out as which of these online service providers?
- 1. Prodigy
- 2. CompuServe
- 3. Quantum Link
- 4. GEnie
+Which of the following languages is used as a scripting language in the Unity 3D game engine?
+ 1. C#
+ 2. Objective-C
+ 3. C++
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  Quantum Link
+  C#
 </details>
 
 
