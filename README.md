@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the green grape say to the purple grape?
-BREATH!!
+What does a pirate pay for his corn? A buccaneer!
 
 
 ## Daily Trivia
 
-What programming language was GitHub written in?
- 1. Ruby
- 2. Lua
- 3. Python
- 4. JavaScript
+Which computer language would you associate Django framework with?
+ 1. C#
+ 2. Python
+ 3. C++
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  Ruby
+  Python
 </details>
 
 
