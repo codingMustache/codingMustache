@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why don't skeletons ride roller coasters? They don't have the stomach for it.
+What did the ocean say to the beach? Thanks for all the sediment.
 
 
 ## Daily Trivia
 
-Who invented the &quot;Spanning Tree Protocol&quot;?
- 1. Paul Vixie
- 2. Michael Roberts
- 3. Vint Cerf
- 4. Radia Perlman
+What is the main CPU is the Sega Mega Drive / Sega Genesis?
+ 1. Motorola 68000
+ 2. Zilog Z80
+ 3. Intel 8088
+ 4. Yamaha YM2612
 
 <details>
   <summary>Answer</summary>
-  Radia Perlman
+  Motorola 68000
 </details>
 
 
