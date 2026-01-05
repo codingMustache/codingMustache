@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I've got a joke about vegetables for you... but it's a bit corny.
+What do you give a sick lemon? Lemonaid.
 
 
 ## Daily Trivia
 
-How many values can a single byte represent?
- 1. 1
- 2. 8
- 3. 256
- 4. 1024
+How many cores does the Intel i7-6950X have?
+ 1. 10
+ 2. 4
+ 3. 8
+ 4. 12
 
 <details>
   <summary>Answer</summary>
-  256
+  10
 </details>
 
 
