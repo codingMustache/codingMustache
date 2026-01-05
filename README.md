@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What don't watermelons get married? Because they cantaloupe.
+People saying 'boo! to their friends has risen by 85% in the last year.... That's a frightening statistic.
 
 
 ## Daily Trivia
 
-What is known as &quot;the brain&quot; of the Computer?
- 1. Central Processing Unit
- 2. Keyboard
- 3. Graphics Processing Unit
- 4. Motherboard
+Which of these is not a key value of Agile software development?
+ 1. Individuals and interactions
+ 2. Responding to change
+ 3. Comprehensive documentation
+ 4. Customer collaboration
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  Comprehensive documentation
 </details>
 
 
