@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a pile of cats?  A Meowtain.
+Milk is also the fastest liquid on earth – its pasteurized before you even see it
 
 
 ## Daily Trivia
 
-In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
- 1. Final
- 2. Public
- 3. Private
- 4. Static
+In networking, what does OSPF stand for?
+ 1. Order State Part First
+ 2. Order Sense Ping Find
+ 3. Open Shortest Path First
+ 4. Open Signal Path Finder
 
 <details>
   <summary>Answer</summary>
-  Final
+  Open Shortest Path First
 </details>
 
 
