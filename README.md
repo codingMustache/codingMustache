@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I'm practicing for a bug-eating contest and I've got butterflies in my stomach.
+Why did the clown have neck pain? - Because he slept funny
 
 
 ## Daily Trivia
 
-When Gmail first launched, how much storage did it provide for your email?
- 1. 5GB
- 2. 512MB
- 3. Unlimited
- 4. 1GB
+In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
+ 1. &lt;slide&gt;&lt;/slide&gt;
+ 2. &lt;move&gt;&lt;/move&gt;
+ 3. &lt;marquee&gt;&lt;/marquee&gt;
+ 4. &lt;scroll&gt;&lt;/scroll&gt;
 
 <details>
   <summary>Answer</summary>
-  1GB
+  &lt;marquee&gt;&lt;/marquee&gt;
 </details>
 
 
