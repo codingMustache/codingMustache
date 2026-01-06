@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is the best way to carve?
-Whittle by whittle.
+“Hold on, I have something in my shoe”  “I’m pretty sure it’s a foot”
 
 
 ## Daily Trivia
 
-What did the name of the Tor Anonymity Network orignially stand for?
- 1. The Orange Router
- 2. The Ominous Router
- 3. The Only Router
- 4. The Onion Router
+What internet protocol was documented in RFC 1459?
+ 1. FTP
+ 2. IRC
+ 3. HTTPS
+ 4. HTTP
 
 <details>
   <summary>Answer</summary>
-  The Onion Router
+  IRC
 </details>
 
 
