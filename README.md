@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the best thing about elevator jokes? They work on so many levels.
+Egyptians claimed to invent the guitar, but they were such lyres.﻿
 
 
 ## Daily Trivia
 
-According to the International System of Units, how many bytes are in a kilobyte of RAM?
- 1. 500
- 2. 1024
- 3. 512
- 4. 1000
+What does the term MIME stand for, in regards to computing?
+ 1. Multipurpose Internet Mail Extensions
+ 2. Multipurpose Interleave Mail Exchange
+ 3. Mail Internet Mail Exchange
+ 4. Mail Interleave Method Exchange
 
 <details>
   <summary>Answer</summary>
-  1000
+  Multipurpose Internet Mail Extensions
 </details>
 
 
