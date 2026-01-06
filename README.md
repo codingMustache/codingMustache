@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Egyptians claimed to invent the guitar, but they were such lyres.﻿
+What’s the difference between an African elephant and an Indian elephant? About 5000 miles.
 
 
 ## Daily Trivia
 
-What does the term MIME stand for, in regards to computing?
- 1. Multipurpose Internet Mail Extensions
- 2. Multipurpose Interleave Mail Exchange
- 3. Mail Internet Mail Exchange
- 4. Mail Interleave Method Exchange
+On Twitter, what was the original character limit for a Tweet?
+ 1. 100
+ 2. 160
+ 3. 120
+ 4. 140
 
 <details>
   <summary>Answer</summary>
-  Multipurpose Internet Mail Extensions
+  140
 </details>
 
 
