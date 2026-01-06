@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the pirate say on his 80th birthday? Aye Matey!
+Have you heard about the owl sanctuary job opening? It’s all night shifts but they’re all a hoot over there.
 
 
 ## Daily Trivia
 
-In the server hosting industry IaaS stands for...
- 1. Internet and a Server
- 2. Infrastructure as a Service
- 3. Internet as a Service
- 4. Infrastructure as a Server
+What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
+ 1. CPU Vent
+ 2. Heat Vent
+ 3. Heat Sink
+ 4. Temperature Decipator
 
 <details>
   <summary>Answer</summary>
-  Infrastructure as a Service
+  Heat Sink
 </details>
 
 
