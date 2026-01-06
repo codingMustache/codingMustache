@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I ordered a chicken and an egg from Amazon. I'll let you know.
+I got fired from a florist, apparently I took too many leaves.
 
 
 ## Daily Trivia
 
-The numbering system with a radix of 16 is more commonly referred to as 
- 1. Octal
- 2. Hexidecimal
- 3. Duodecimal
- 4. Binary
+Which of the following physical typologies are used with Ethernet Networks?
+ 1. Mesh
+ 2. Ring
+ 3. Star
+ 4. Hex
 
 <details>
   <summary>Answer</summary>
-  Hexidecimal
+  Star
 </details>
 
 
