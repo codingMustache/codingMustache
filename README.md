@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Toasters were the first form of pop-up notifications.
+Today a man knocked on my door and asked for a small donation towards the local swimming pool. I gave him a glass of water.
 
 
 ## Daily Trivia
 
-Which operating system was released first?
- 1. Windows
- 2. Linux
- 3. OS/2
- 4. Mac OS
+While Apple was formed in California, in which western state was Microsoft founded?
+ 1. Washington
+ 2. Colorado
+ 3. Arizona
+ 4. New Mexico
 
 <details>
   <summary>Answer</summary>
-  Mac OS
+  New Mexico
 </details>
 
 
