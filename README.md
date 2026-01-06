@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-There are two types of people in this world, those who can extrapolate from incomplete data...
+What kind of magic do cows believe in? MOODOO.
 
 
 ## Daily Trivia
 
-Laserjet and inkjet printers are both examples of what type of printer?
- 1. Daisywheel printer
- 2. Non-impact printer
- 3. Dot matrix printer
- 4. Impact printer
+In any programming language, what is the most common way to iterate through an array?
+ 1. &#039;If&#039; Statements
+ 2. &#039;Do-while&#039; loops
+ 3. &#039;While&#039; loops
+ 4. &#039;For&#039; loops
 
 <details>
   <summary>Answer</summary>
-  Non-impact printer
+  &#039;For&#039; loops
 </details>
 
 
