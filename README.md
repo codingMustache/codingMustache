@@ -4,20 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to hate facial hair, but then it grew on me.
+What did the hat say to the scarf?
+You can hang around. I'll just go on ahead.
+
 
 
 ## Daily Trivia
 
-Which programming language was developed by Sun Microsystems in 1995?
- 1. C++
- 2. Java
- 3. Solaris OS
- 4. Python
+Which of the following is the oldest of these computers by release date?
+ 1. Commodore 64
+ 2. ZX Spectrum
+ 3. Apple 3
+ 4. TRS-80
 
 <details>
   <summary>Answer</summary>
-  Java
+  TRS-80
 </details>
 
 
