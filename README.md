@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where did Captain Hook get his hook? From a second hand store.
+Two silk worms had a race. They ended up in a tie.
 
 
 ## Daily Trivia
 
-What does GHz stand for?
- 1. Gigahotz
- 2. Gigahetz
- 3. Gigahertz
- 4. Gigahatz
+Nvidia&#039;s headquarters are based in which Silicon Valley city?
+ 1. Palo Alto
+ 2. Cupertino
+ 3. Mountain View
+ 4. Santa Clara
 
 <details>
   <summary>Answer</summary>
-  Gigahertz
+  Santa Clara
 </details>
 
 
