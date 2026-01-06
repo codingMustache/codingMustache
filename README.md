@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you make a hankie dance? Put a little boogie in it.
+I used to work for a soft drink can crusher. It was soda pressing.
 
 
 ## Daily Trivia
 
-In computing, what does LAN stand for?
- 1. Long Antenna Node
- 2. Local Area Network
- 3. Light Access Node
- 4. Land Address Navigation
+What does CPU stand for?
+ 1. Central Processor Unit
+ 2. Computer Personal Unit
+ 3. Central Processing Unit
+ 4. Central Process Unit
 
 <details>
   <summary>Answer</summary>
-  Local Area Network
+  Central Processing Unit
 </details>
 
 
