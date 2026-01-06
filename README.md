@@ -4,22 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's large, grey, and doesn't matter?
-An irrelephant.
-
+A woman is on trial for beating her husband to death with his guitar collection. Judge says, ‘First offender?’ She says, ‘No, first a Gibson! Then a Fender!’
 
 
 ## Daily Trivia
 
-In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
- 1. print(&quot;Hello World&quot;)
- 2. printf(&quot;Hello World&quot;)
- 3. console.log(&quot;Hello World&quot;)
- 4. echo &quot;Hello World&quot;
+Which computer language would you associate Django framework with?
+ 1. Python
+ 2. Java
+ 3. C++
+ 4. C#
 
 <details>
   <summary>Answer</summary>
-  print(&quot;Hello World&quot;)
+  Python
 </details>
 
 
