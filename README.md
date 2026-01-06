@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of magic do cows believe in? MOODOO.
+I thought my wife was joking when she said she'd leave me if I didn't stop signing "I'm A Believer"... Then I saw her face.
 
 
 ## Daily Trivia
 
-In any programming language, what is the most common way to iterate through an array?
- 1. &#039;If&#039; Statements
- 2. &#039;Do-while&#039; loops
- 3. &#039;While&#039; loops
- 4. &#039;For&#039; loops
+All of the following programs are classified as raster graphics editors EXCEPT:
+ 1. Paint.NET
+ 2. GIMP
+ 3. Inkscape
+ 4. Adobe Photoshop
 
 <details>
   <summary>Answer</summary>
-  &#039;For&#039; loops
+  Inkscape
 </details>
 
 
