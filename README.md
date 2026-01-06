@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Atheism is a non-prophet organisation.
+If I could name myself after any Egyptian god, I'd be Set.
 
 
 ## Daily Trivia
 
-Which of these people was NOT a founder of Apple Inc?
- 1. Steve Jobs
- 2. Ronald Wayne
- 3. Steve Wozniak
- 4. Jonathan Ive
+Which kind of algorithm is Ron Rivest not famous for creating?
+ 1. Hashing algorithm
+ 2. Secret sharing scheme
+ 3. Asymmetric encryption
+ 4. Stream cipher
 
 <details>
   <summary>Answer</summary>
-  Jonathan Ive
+  Secret sharing scheme
 </details>
 
 
