@@ -4,22 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the hat say to the scarf?
-You can hang around. I'll just go on ahead.
-
+What is the least spoken language in the world?
+Sign Language
 
 
 ## Daily Trivia
 
-Which of the following is the oldest of these computers by release date?
- 1. Commodore 64
- 2. ZX Spectrum
- 3. Apple 3
- 4. TRS-80
+Nvidia&#039;s headquarters are based in which Silicon Valley city?
+ 1. Palo Alto
+ 2. Mountain View
+ 3. Santa Clara
+ 4. Cupertino
 
 <details>
   <summary>Answer</summary>
-  TRS-80
+  Santa Clara
 </details>
 
 
