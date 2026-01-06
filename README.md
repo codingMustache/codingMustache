@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I got fired from a florist, apparently I took too many leaves.
+What's the best thing about elevator jokes? They work on so many levels.
 
 
 ## Daily Trivia
 
-Which of the following physical typologies are used with Ethernet Networks?
- 1. Mesh
- 2. Ring
- 3. Star
- 4. Hex
+According to the International System of Units, how many bytes are in a kilobyte of RAM?
+ 1. 500
+ 2. 1024
+ 3. 512
+ 4. 1000
 
 <details>
   <summary>Answer</summary>
-  Star
+  1000
 </details>
 
 
