@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-“Hold on, I have something in my shoe”  “I’m pretty sure it’s a foot”
+Past, present, and future walked into a bar.... It was tense.
 
 
 ## Daily Trivia
 
-What internet protocol was documented in RFC 1459?
- 1. FTP
- 2. IRC
- 3. HTTPS
- 4. HTTP
+What major programming language does Unreal Engine 4 use?
+ 1. Assembly
+ 2. C#
+ 3. ECMAScript
+ 4. C++
 
 <details>
   <summary>Answer</summary>
-  IRC
+  C++
 </details>
 
 
