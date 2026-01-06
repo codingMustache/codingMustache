@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to work for a soft drink can crusher. It was soda pressing.
+Which is the fastest growing city in the world? Dublin'
 
 
 ## Daily Trivia
 
-What does CPU stand for?
- 1. Central Processor Unit
- 2. Computer Personal Unit
- 3. Central Processing Unit
- 4. Central Process Unit
+How many values can a single byte represent?
+ 1. 256
+ 2. 1024
+ 3. 1
+ 4. 8
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  256
 </details>
 
 
