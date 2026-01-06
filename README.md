@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why didn't the number 4 get into the nightclub? Because he is 2 square.
+Toasters were the first form of pop-up notifications.
 
 
 ## Daily Trivia
 
-What is the name of the process that sends one qubit of information using two bits of classical information?
- 1. Super Dense Coding
- 2. Quantum Entanglement
- 3. Quantum Programming
- 4. Quantum Teleportation
+Which operating system was released first?
+ 1. Windows
+ 2. Linux
+ 3. OS/2
+ 4. Mac OS
 
 <details>
   <summary>Answer</summary>
-  Quantum Teleportation
+  Mac OS
 </details>
 
 
