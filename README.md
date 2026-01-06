@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I was just looking at my ceiling. Not sure if it’s the best ceiling in the world, but it’s definitely up there.
+What did the pirate say on his 80th birthday? Aye Matey!
 
 
 ## Daily Trivia
 
-Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
- 1. Enigma Machine
- 2. Skipjack
- 3. Nautilus
- 4. Clipper Chip
+In the server hosting industry IaaS stands for...
+ 1. Internet and a Server
+ 2. Infrastructure as a Service
+ 3. Internet as a Service
+ 4. Infrastructure as a Server
 
 <details>
   <summary>Answer</summary>
-  Clipper Chip
+  Infrastructure as a Service
 </details>
 
 
