@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do crabs never give to charity? Because they’re shellfish.
+Where did Captain Hook get his hook? From a second hand store.
 
 
 ## Daily Trivia
 
-What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
- 1. Temperature Decipator
- 2. CPU Vent
- 3. Heat Vent
- 4. Heat Sink
+What does GHz stand for?
+ 1. Gigahotz
+ 2. Gigahetz
+ 3. Gigahertz
+ 4. Gigahatz
 
 <details>
   <summary>Answer</summary>
-  Heat Sink
+  Gigahertz
 </details>
 
 
