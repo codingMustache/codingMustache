@@ -4,20 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-No matter how kind you are, German children are kinder.
+What's large, grey, and doesn't matter?
+An irrelephant.
+
 
 
 ## Daily Trivia
 
-In programming, what do you call functions with the same name but different implementations?
- 1. Overloading
- 2. Overriding
- 3. Inheriting
- 4. Abstracting
+In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
+ 1. print(&quot;Hello World&quot;)
+ 2. printf(&quot;Hello World&quot;)
+ 3. console.log(&quot;Hello World&quot;)
+ 4. echo &quot;Hello World&quot;
 
 <details>
   <summary>Answer</summary>
-  Overloading
+  print(&quot;Hello World&quot;)
 </details>
 
 
