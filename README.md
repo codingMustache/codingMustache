@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What’s the difference between an African elephant and an Indian elephant? About 5000 miles.
+I'm practicing for a bug-eating contest and I've got butterflies in my stomach.
 
 
 ## Daily Trivia
 
-On Twitter, what was the original character limit for a Tweet?
- 1. 100
- 2. 160
- 3. 120
- 4. 140
+When Gmail first launched, how much storage did it provide for your email?
+ 1. 5GB
+ 2. 512MB
+ 3. Unlimited
+ 4. 1GB
 
 <details>
   <summary>Answer</summary>
-  140
+  1GB
 </details>
 
 
