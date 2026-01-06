@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What creature is smarter than a talking parrot? A spelling bee.
+At the boxing match, the dad got into the popcorn line and the line for hot dogs, but he wanted to stay out of the punchline.
 
 
 ## Daily Trivia
 
-Unix Time is defined as the number of seconds that have elapsed since when?
- 1. Midnight, January 1, 1970
- 2. Midnight, July 4, 1980
- 3. Midnight on the creator of Unix&#039;s birthday
- 4. Midnight, July 4, 1976
+In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
+ 1. Static
+ 2. Private
+ 3. Final
+ 4. Public
 
 <details>
   <summary>Answer</summary>
-  Midnight, January 1, 1970
+  Final
 </details>
 
 
