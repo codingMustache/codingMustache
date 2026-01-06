@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do bananas have to put on sunscreen before they go to the beach? Because they might peel!
+I used to hate facial hair, but then it grew on me.
 
 
 ## Daily Trivia
 
-How many values can a single byte represent?
- 1. 8
- 2. 1
- 3. 1024
- 4. 256
+Which programming language was developed by Sun Microsystems in 1995?
+ 1. C++
+ 2. Java
+ 3. Solaris OS
+ 4. Python
 
 <details>
   <summary>Answer</summary>
-  256
+  Java
 </details>
 
 
