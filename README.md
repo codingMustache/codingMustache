@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the two thieves who stole a calendar? They each got six months.
+There are two types of people in this world, those who can extrapolate from incomplete data...
 
 
 ## Daily Trivia
 
-The numbering system with a radix of 16 is more commonly referred to as 
- 1. Binary
- 2. Duodecimal
- 3. Octal
- 4. Hexidecimal
+Laserjet and inkjet printers are both examples of what type of printer?
+ 1. Daisywheel printer
+ 2. Non-impact printer
+ 3. Dot matrix printer
+ 4. Impact printer
 
 <details>
   <summary>Answer</summary>
-  Hexidecimal
+  Non-impact printer
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **8 days** since this server shutdown
+Its been **9 days** since this server shutdown
