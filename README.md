@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Have you heard about the owl sanctuary job opening? It’s all night shifts but they’re all a hoot over there.
+What is the tallest building in the world? The library – it’s got the most stories!
 
 
 ## Daily Trivia
 
-What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
- 1. CPU Vent
- 2. Heat Vent
- 3. Heat Sink
- 4. Temperature Decipator
+What does GHz stand for?
+ 1. Gigahertz
+ 2. Gigahotz
+ 3. Gigahetz
+ 4. Gigahatz
 
 <details>
   <summary>Answer</summary>
-  Heat Sink
+  Gigahertz
 </details>
 
 
