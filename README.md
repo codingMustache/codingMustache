@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I cut my finger chopping cheese, but I think that I may have grater problems.
+What kind of award did the dentist receive? A little plaque.
 
 
 ## Daily Trivia
 
-What amount of bits commonly equals one byte?
- 1. 1
- 2. 2
- 3. 64
- 4. 8
+Which data structure does FILO apply to?
+ 1. Tree
+ 2. Heap
+ 3. Queue
+ 4. Stack
 
 <details>
   <summary>Answer</summary>
-  8
+  Stack
 </details>
 
 
