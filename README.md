@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Shout out to my grandma, that's the only way she can hear.
+Atheism is a non-prophet organisation.
 
 
 ## Daily Trivia
 
-Which programming language shares its name with an island in Indonesia?
- 1. Java
- 2. Jakarta
- 3. C
- 4. Python
+Which of these people was NOT a founder of Apple Inc?
+ 1. Steve Jobs
+ 2. Ronald Wayne
+ 3. Steve Wozniak
+ 4. Jonathan Ive
 
 <details>
   <summary>Answer</summary>
-  Java
+  Jonathan Ive
 </details>
 
 
