@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-At the boxing match, the dad got into the popcorn line and the line for hot dogs, but he wanted to stay out of the punchline.
+What do computers and air conditioners have in common? They both become useless when you open windows.
 
 
 ## Daily Trivia
 
-In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
- 1. Static
- 2. Private
- 3. Final
- 4. Public
+Which computer language would you associate Django framework with?
+ 1. C#
+ 2. Python
+ 3. C++
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  Final
+  Python
 </details>
 
 
