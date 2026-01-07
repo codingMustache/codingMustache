@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I went to the zoo yesterday and saw a baguette in a cage. It was bread in captivity.
+Doctor you've got to help me, I'm addicted to Twitter. Doctor: I don't follow you.
 
 
 ## Daily Trivia
 
-What major programming language does Unreal Engine 4 use?
- 1. C++
- 2. Assembly
- 3. C#
- 4. ECMAScript
+What language does Node.js use?
+ 1. JavaScript
+ 2. Joomla Source Code
+ 3. Java Source
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  C++
+  JavaScript
 </details>
 
 
