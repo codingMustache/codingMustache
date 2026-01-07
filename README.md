@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Just watched a documentary about beavers… It was the best damn program I’ve ever seen.
+Animal Fact #25: Most bobcats are not named bob.
 
 
 ## Daily Trivia
 
-What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
- 1. CPU Vent
- 2. Temperature Decipator
- 3. Heat Vent
- 4. Heat Sink
+What was the first company to use the term &quot;Golden Master&quot;?
+ 1. Apple
+ 2. Microsoft
+ 3. Google
+ 4. IBM
 
 <details>
   <summary>Answer</summary>
-  Heat Sink
+  Apple
 </details>
 
 
