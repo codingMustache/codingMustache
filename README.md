@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I've just written a song about a tortilla. Well, it is more of a rap really.
+What's blue and not very heavy?  Light blue.
 
 
 ## Daily Trivia
 
-The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
- 1. United States
- 2. China (People&#039;s Republic of)
- 3. Germany
- 4. Taiwan
+If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
+ 1. JavaScript
+ 2. C++
+ 3. Python
+ 4. Binary
 
 <details>
   <summary>Answer</summary>
-  Taiwan
+  Binary
 </details>
 
 
