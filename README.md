@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a snake who builds houses? A boa constructor!
+What is the leading cause of dry skin? Towels
 
 
 ## Daily Trivia
 
-In networking, what does OSPF stand for?
- 1. Order State Part First
- 2. Order Sense Ping Find
- 3. Open Signal Path Finder
- 4. Open Shortest Path First
+The C programming language was created by this American computer scientist. 
+ 1. Tim Berners Lee
+ 2. Dennis Ritchie
+ 3. al-Khwārizmī
+ 4. Willis Ware
 
 <details>
   <summary>Answer</summary>
-  Open Shortest Path First
+  Dennis Ritchie
 </details>
 
 
