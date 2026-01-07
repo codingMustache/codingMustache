@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the sentence fail the driving test? It never came to a full stop.
+You can't run through a camp site. You can only ran, because it's past tents.
 
 
 ## Daily Trivia
 
-Which programming language shares its name with an island in Indonesia?
- 1. Java
- 2. Jakarta
- 3. C
- 4. Python
+The programming language &#039;Swift&#039; was created to replace what other programming language?
+ 1. C#
+ 2. C++
+ 3. Objective-C
+ 4. Ruby
 
 <details>
   <summary>Answer</summary>
-  Java
+  Objective-C
 </details>
 
 
