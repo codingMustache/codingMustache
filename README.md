@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do you take someone who has been injured in a Peek-a-boo accident? To the I.C.U.
+What do birds give out on Halloween? Tweets.
 
 
 ## Daily Trivia
 
-Who invented the &quot;Spanning Tree Protocol&quot;?
- 1. Vint Cerf
- 2. Radia Perlman
- 3. Paul Vixie
- 4. Michael Roberts
+In any programming language, what is the most common way to iterate through an array?
+ 1. &#039;For&#039; loops
+ 2. &#039;If&#039; Statements
+ 3. &#039;While&#039; loops
+ 4. &#039;Do-while&#039; loops
 
 <details>
   <summary>Answer</summary>
-  Radia Perlman
+  &#039;For&#039; loops
 </details>
 
 
