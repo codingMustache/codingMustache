@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I couldn't figure out how the seat belt worked. Then it just clicked.
+Without geometry life is pointless.
 
 
 ## Daily Trivia
 
-Which kind of algorithm is Ron Rivest not famous for creating?
- 1. Secret sharing scheme
- 2. Hashing algorithm
- 3. Asymmetric encryption
- 4. Stream cipher
+What is known as &quot;the brain&quot; of the Computer?
+ 1. Graphics Processing Unit
+ 2. Motherboard
+ 3. Keyboard
+ 4. Central Processing Unit
 
 <details>
   <summary>Answer</summary>
-  Secret sharing scheme
+  Central Processing Unit
 </details>
 
 
