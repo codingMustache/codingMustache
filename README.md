@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why can't you use "Beef stew" as a password? Because it's not stroganoff.
+Where do you take someone who has been injured in a Peek-a-boo accident? To the I.C.U.
 
 
 ## Daily Trivia
 
-America Online (AOL) started out as which of these online service providers?
- 1. Quantum Link
- 2. CompuServe
- 3. Prodigy
- 4. GEnie
+Who invented the &quot;Spanning Tree Protocol&quot;?
+ 1. Vint Cerf
+ 2. Radia Perlman
+ 3. Paul Vixie
+ 4. Michael Roberts
 
 <details>
   <summary>Answer</summary>
-  Quantum Link
+  Radia Perlman
 </details>
 
 
