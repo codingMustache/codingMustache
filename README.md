@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do birds give out on Halloween? Tweets.
+I saw an ad in a shop window, "Television for sale, $1, volume stuck on full", I thought, "I can't turn that down".
 
 
 ## Daily Trivia
 
-In any programming language, what is the most common way to iterate through an array?
- 1. &#039;For&#039; loops
- 2. &#039;If&#039; Statements
- 3. &#039;While&#039; loops
- 4. &#039;Do-while&#039; loops
+What is the name of Layer 7 of the OSI model?
+ 1. Present
+ 2. Network
+ 3. Application
+ 4. Session
 
 <details>
   <summary>Answer</summary>
-  &#039;For&#039; loops
+  Application
 </details>
 
 
