@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A red and a blue ship have just collided in the Caribbean. Apparently the survivors are marooned.
+What type of music do balloons hate? Pop music!
 
 
 ## Daily Trivia
 
-This mobile OS held the largest market share in 2012.
- 1. Symbian
- 2. iOS
- 3. BlackBerry
- 4. Android
+What does the &quot;MP&quot; stand for in MP3?
+ 1. Micro Point
+ 2. Music Player
+ 3. Moving Picture
+ 4. Multi Pass
 
 <details>
   <summary>Answer</summary>
-  iOS
+  Moving Picture
 </details>
 
 
