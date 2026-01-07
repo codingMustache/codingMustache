@@ -4,22 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
- I never wanted to believe that my Dad was stealing from his job as a road worker. But when I got home, all the signs were there.
-
-
+Two dyslexics walk into a bra.
 
 
 ## Daily Trivia
 
-What does the &#039;S&#039; in the RSA encryption algorithm stand for?
- 1. Stable
- 2. Secure
- 3. Shamir
- 4. Schottky
+The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
+ 1. Sinclair Research
+ 2. Commodore Business Machines
+ 3. Amstrad PLC
+ 4. Acorn Computers
 
 <details>
   <summary>Answer</summary>
-  Shamir
+  Acorn Computers
 </details>
 
 
