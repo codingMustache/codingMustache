@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why is it so windy inside an arena? All those fans.
+I went to the zoo yesterday and saw a baguette in a cage. It was bread in captivity.
 
 
 ## Daily Trivia
 
-Who is the original author of the realtime physics engine called PhysX?
- 1. AMD
- 2. NovodeX
- 3. Nvidia
- 4. Ageia
+What major programming language does Unreal Engine 4 use?
+ 1. C++
+ 2. Assembly
+ 3. C#
+ 4. ECMAScript
 
 <details>
   <summary>Answer</summary>
-  NovodeX
+  C++
 </details>
 
 
