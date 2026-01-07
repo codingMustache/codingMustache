@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My friend told me that pepper is the best seasoning for a roast, but I took it with a grain of salt.
+I couldn't figure out how the seat belt worked. Then it just clicked.
 
 
 ## Daily Trivia
 
-In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
- 1. &lt;marquee&gt;&lt;/marquee&gt;
- 2. &lt;slide&gt;&lt;/slide&gt;
- 3. &lt;scroll&gt;&lt;/scroll&gt;
- 4. &lt;move&gt;&lt;/move&gt;
+Which kind of algorithm is Ron Rivest not famous for creating?
+ 1. Secret sharing scheme
+ 2. Hashing algorithm
+ 3. Asymmetric encryption
+ 4. Stream cipher
 
 <details>
   <summary>Answer</summary>
-  &lt;marquee&gt;&lt;/marquee&gt;
+  Secret sharing scheme
 </details>
 
 
