@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Want to hear a chimney joke? Got stacks of em! First one's on the house
+What do you get when you cross a pig and a pineapple? A porky pine
 
 
 ## Daily Trivia
 
-The teapot often seen in many 3D modeling applications is called what?
- 1. Pixar Teapot
- 2. 3D Teapot
- 3. Tennessee Teapot
- 4. Utah Teapot
+How many cores does the Intel i7-6950X have?
+ 1. 12
+ 2. 10
+ 3. 8
+ 4. 4
 
 <details>
   <summary>Answer</summary>
-  Utah Teapot
+  10
 </details>
 
 
