@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a droid that takes the long way around? R2 detour.
+Why can't you use "Beef stew" as a password? Because it's not stroganoff.
 
 
 ## Daily Trivia
 
-Which programming language was developed by Sun Microsystems in 1995?
- 1. Python
- 2. Solaris OS
- 3. C++
- 4. Java
+America Online (AOL) started out as which of these online service providers?
+ 1. Quantum Link
+ 2. CompuServe
+ 3. Prodigy
+ 4. GEnie
 
 <details>
   <summary>Answer</summary>
-  Java
+  Quantum Link
 </details>
 
 
