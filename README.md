@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I've just written a song about a tortilla. Well, it is more of a rap really.
+What do you call a snake who builds houses? A boa constructor!
 
 
 ## Daily Trivia
 
-Which programming language was developed by Sun Microsystems in 1995?
- 1. Python
- 2. Solaris OS
- 3. C++
- 4. Java
+In networking, what does OSPF stand for?
+ 1. Order State Part First
+ 2. Order Sense Ping Find
+ 3. Open Signal Path Finder
+ 4. Open Shortest Path First
 
 <details>
   <summary>Answer</summary>
-  Java
+  Open Shortest Path First
 </details>
 
 
