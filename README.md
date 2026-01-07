@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's blue and not very heavy?  Light blue.
+When do doctors get angry? When they run out of patients.
 
 
 ## Daily Trivia
 
-If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
- 1. JavaScript
- 2. C++
- 3. Python
- 4. Binary
+Which of the following is the oldest of these computers by release date?
+ 1. Commodore 64
+ 2. ZX Spectrum
+ 3. Apple 3
+ 4. TRS-80
 
 <details>
   <summary>Answer</summary>
-  Binary
+  TRS-80
 </details>
 
 
