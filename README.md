@@ -4,20 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Whenever the cashier at the grocery store asks my dad if he would like the milk in a bag he replies, ‘No, just leave it in the carton!’
+ I never wanted to believe that my Dad was stealing from his job as a road worker. But when I got home, all the signs were there.
+
+
 
 
 ## Daily Trivia
 
-What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
- 1. Transport
- 2. Network
- 3. Session
- 4. Data link
+What does the &#039;S&#039; in the RSA encryption algorithm stand for?
+ 1. Stable
+ 2. Secure
+ 3. Shamir
+ 4. Schottky
 
 <details>
   <summary>Answer</summary>
-  Transport
+  Shamir
 </details>
 
 
