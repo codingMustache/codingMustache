@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-You can't run through a camp site. You can only ran, because it's past tents.
+A red and a blue ship have just collided in the Caribbean. Apparently the survivors are marooned.
 
 
 ## Daily Trivia
 
-The programming language &#039;Swift&#039; was created to replace what other programming language?
- 1. C#
- 2. C++
- 3. Objective-C
- 4. Ruby
+This mobile OS held the largest market share in 2012.
+ 1. Symbian
+ 2. iOS
+ 3. BlackBerry
+ 4. Android
 
 <details>
   <summary>Answer</summary>
-  Objective-C
+  iOS
 </details>
 
 
