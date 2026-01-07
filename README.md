@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the Zen Buddist say to the hotdog vendor? Make me one with everything.
+Why is the new Kindle screen textured to look like paper? So you feel write at home.
 
 
 ## Daily Trivia
 
-The programming language &#039;Swift&#039; was created to replace what other programming language?
- 1. C#
- 2. Ruby
- 3. Objective-C
- 4. C++
+What does &quot;LCD&quot; stand for?
+ 1. Last Common Difference
+ 2. Language Control Design
+ 3. Long Continuous Design
+ 4. Liquid Crystal Display
 
 <details>
   <summary>Answer</summary>
-  Objective-C
+  Liquid Crystal Display
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **1 days** since this server shutdown
+Its been **** since this server shutdown
