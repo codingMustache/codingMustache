@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a group of killer whales playing instruments? An Orca-stra.
+Did you hear about the chameleon who couldn't change color? They had a reptile dysfunction.
 
 
 ## Daily Trivia
 
-Which of the following is NOT a computer science algorithm?
- 1. Bubble Sort
- 2. Merge Sort
- 3. Quick Sort
- 4. Float Sort
+In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
+ 1. &lt;marquee&gt;&lt;/marquee&gt;
+ 2. &lt;slide&gt;&lt;/slide&gt;
+ 3. &lt;move&gt;&lt;/move&gt;
+ 4. &lt;scroll&gt;&lt;/scroll&gt;
 
 <details>
   <summary>Answer</summary>
-  Float Sort
+  &lt;marquee&gt;&lt;/marquee&gt;
 </details>
 
 
