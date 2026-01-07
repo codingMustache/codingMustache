@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Want to hear my pizza joke? Never mind, it's too cheesy.
+Why did the sentence fail the driving test? It never came to a full stop.
 
 
 ## Daily Trivia
 
-How many cores does the Intel i7-6950X have?
- 1. 12
- 2. 8
- 3. 4
- 4. 10
+Which programming language shares its name with an island in Indonesia?
+ 1. Java
+ 2. Jakarta
+ 3. C
+ 4. Python
 
 <details>
   <summary>Answer</summary>
-  10
+  Java
 </details>
 
 
