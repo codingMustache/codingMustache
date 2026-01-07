@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I saw an ad in a shop window, "Television for sale, $1, volume stuck on full", I thought, "I can't turn that down".
+Whenever the cashier at the grocery store asks my dad if he would like the milk in a bag he replies, ‘No, just leave it in the carton!’
 
 
 ## Daily Trivia
 
-What is the name of Layer 7 of the OSI model?
- 1. Present
+What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
+ 1. Transport
  2. Network
- 3. Application
- 4. Session
+ 3. Session
+ 4. Data link
 
 <details>
   <summary>Answer</summary>
-  Application
+  Transport
 </details>
 
 
