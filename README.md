@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Two dyslexics walk into a bra.
+Why is there always a gate around cemeteries? Because people are always dying to get in.
 
 
 ## Daily Trivia
 
-The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
- 1. Sinclair Research
- 2. Commodore Business Machines
- 3. Amstrad PLC
- 4. Acorn Computers
+What does AD stand for in relation to Windows Operating Systems? 
+ 1. Alternative Drive
+ 2. Automated Database
+ 3. Active Department
+ 4. Active Directory
 
 <details>
   <summary>Answer</summary>
-  Acorn Computers
+  Active Directory
 </details>
 
 
