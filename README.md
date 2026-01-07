@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do birds give out on Halloween? Tweets.
+What did one snowman say to the other snow man? Do you smell carrot?
 
 
 ## Daily Trivia
 
-America Online (AOL) started out as which of these online service providers?
- 1. CompuServe
- 2. Prodigy
- 3. GEnie
- 4. Quantum Link
+In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
+ 1. Yellow
+ 2. Green
+ 3. Blue
+ 4. Red
 
 <details>
   <summary>Answer</summary>
-  Quantum Link
+  Green
 </details>
 
 
