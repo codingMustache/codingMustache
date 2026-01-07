@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My first time using an elevator was an uplifting experience. The second time let me down.
+How does a French skeleton say hello? Bone-jour.
 
 
 ## Daily Trivia
 
-Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
- 1. Cherry MX Black
- 2. Cherry MX Red
- 3. Cherry MX Brown
- 4. Cherry MX Blue
+On which computer hardware device is the BIOS chip located?
+ 1. Graphics Processing Unit
+ 2. Central Processing Unit
+ 3. Hard Disk Drive
+ 4. Motherboard
 
 <details>
   <summary>Answer</summary>
-  Cherry MX Blue
+  Motherboard
 </details>
 
 
