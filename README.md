@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the grape do when he got stepped on? He let out a little wine.
+Why did the knife dress up in a suit? Because it wanted to look sharp
 
 
 ## Daily Trivia
 
-In networking, what does OSPF stand for?
- 1. Order State Part First
- 2. Open Shortest Path First
- 3. Order Sense Ping Find
- 4. Open Signal Path Finder
+The programming language &#039;Swift&#039; was created to replace what other programming language?
+ 1. C#
+ 2. Objective-C
+ 3. Ruby
+ 4. C++
 
 <details>
   <summary>Answer</summary>
-  Open Shortest Path First
+  Objective-C
 </details>
 
 
