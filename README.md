@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I was going to get a brain transplant, but I changed my mind
+You know what they say about cliffhangers...
 
 
 ## Daily Trivia
 
-Which programming language shares its name with an island in Indonesia?
- 1. Java
- 2. Jakarta
- 3. C
- 4. Python
+Which of these is not a layer in the OSI model for data communications?
+ 1. Physical Layer
+ 2. Application Layer
+ 3. Connection Layer
+ 4. Transport Layer
 
 <details>
   <summary>Answer</summary>
-  Java
+  Connection Layer
 </details>
 
 
