@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of magic do cows believe in? MOODOO.
+How do you organize a space party? You planet.
 
 
 ## Daily Trivia
 
-If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
- 1. Binary
- 2. Python
- 3. C++
- 4. JavaScript
+Who is the founder of Palantir?
+ 1. Marc Benioff
+ 2. Peter Thiel
+ 3. Mark Zuckerberg
+ 4. Jack Dorsey
 
 <details>
   <summary>Answer</summary>
-  Binary
+  Peter Thiel
 </details>
 
 
