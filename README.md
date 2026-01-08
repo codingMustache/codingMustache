@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-To be Frank, I'd have to change my name.
+I used to work for an origami company but they folded.
 
 
 ## Daily Trivia
 
-The C programming language was created by this American computer scientist. 
- 1. Tim Berners Lee
- 2. al-Khwārizmī
- 3. Dennis Ritchie
- 4. Willis Ware
+Which of these names was an actual codename for a cancelled Microsoft project?
+ 1. Enceladus
+ 2. Neptune
+ 3. Pollux
+ 4. Saturn
 
 <details>
   <summary>Answer</summary>
-  Dennis Ritchie
+  Neptune
 </details>
 
 
