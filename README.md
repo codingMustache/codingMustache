@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the doctor say to the gingerbread man who broke his leg? Try icing it.
+If you’re struggling to think of what to get someone for Christmas. Get them a fridge and watch their face light up when they open it.
 
 
 ## Daily Trivia
 
-All of the following programs are classified as raster graphics editors EXCEPT:
- 1. Paint.NET
- 2. GIMP
- 3. Inkscape
- 4. Adobe Photoshop
+Which of these is not a key value of Agile software development?
+ 1. Individuals and interactions
+ 2. Comprehensive documentation
+ 3. Customer collaboration
+ 4. Responding to change
 
 <details>
   <summary>Answer</summary>
-  Inkscape
+  Comprehensive documentation
 </details>
 
 
