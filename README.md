@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are oranges the smartest fruit? Because they are made to concentrate. 
+Why was Santa's little helper feeling depressed? Because he has low elf esteem.
+
 
 
 ## Daily Trivia
 
-What is the number of keys on a standard Windows Keyboard?
- 1. 94
- 2. 104
- 3. 76
- 4. 64
+Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
+ 1. Cherry MX Blue
+ 2. Cherry MX Black
+ 3. Cherry MX Brown
+ 4. Cherry MX Red
 
 <details>
   <summary>Answer</summary>
-  104
+  Cherry MX Blue
 </details>
 
 
