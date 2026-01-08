@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the guy whose whole left side was cut off? He's all right now.
+The best time on a clock is 6:30--hands down.
 
 
 ## Daily Trivia
 
-What did the name of the Tor Anonymity Network orignially stand for?
- 1. The Onion Router
- 2. The Only Router
- 3. The Orange Router
- 4. The Ominous Router
+How long is an IPv6 address?
+ 1. 64 bits
+ 2. 32 bits
+ 3. 128 bytes
+ 4. 128 bits
 
 <details>
   <summary>Answer</summary>
-  The Onion Router
+  128 bits
 </details>
 
 
