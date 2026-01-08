@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you get if you cross a turkey with a ghost? A poultry-geist!
+Why did the melons plan a big wedding? Because they cantaloupe!
 
 
 ## Daily Trivia
 
-What internet protocol was documented in RFC 1459?
- 1. HTTP
- 2. HTTPS
- 3. IRC
- 4. FTP
+Which computer language would you associate Django framework with?
+ 1. C++
+ 2. Java
+ 3. Python
+ 4. C#
 
 <details>
   <summary>Answer</summary>
-  IRC
+  Python
 </details>
 
 
