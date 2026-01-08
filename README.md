@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The Swiss must've been pretty confident in their chances of victory if they included a corkscrew in their army knife.
+They say Dodger Stadium can hold up to fifty-six thousand people, but that is just a ballpark figure.
 
 
 ## Daily Trivia
 
-What was the first commerically available computer processor?
- 1. Intel 4004
- 2. AMD AM386
- 3. TMS 1000
- 4. Intel 486SX
+Which kind of algorithm is Ron Rivest not famous for creating?
+ 1. Hashing algorithm
+ 2. Secret sharing scheme
+ 3. Stream cipher
+ 4. Asymmetric encryption
 
 <details>
   <summary>Answer</summary>
-  Intel 4004
+  Secret sharing scheme
 </details>
 
 
