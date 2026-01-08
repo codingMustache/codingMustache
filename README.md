@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why is the new Kindle screen textured to look like paper? So you feel write at home.
+I’ve deleted the phone numbers of all the Germans I know from my mobile phone. Now it’s Hans free.
 
 
 ## Daily Trivia
 
-What does &quot;LCD&quot; stand for?
- 1. Last Common Difference
- 2. Language Control Design
- 3. Long Continuous Design
- 4. Liquid Crystal Display
+Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
+ 1. Four Years
+ 2. Two Years
+ 3. Eight Years
+ 4. Year
 
 <details>
   <summary>Answer</summary>
-  Liquid Crystal Display
+  Year
 </details>
 
 
