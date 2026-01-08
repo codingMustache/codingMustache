@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's a ninja's favorite type of shoes? Sneakers!
+Why do bees have sticky hair? Because they use honey combs!
 
 
 ## Daily Trivia
 
-What does AD stand for in relation to Windows Operating Systems? 
- 1. Active Directory
- 2. Alternative Drive
- 3. Automated Database
- 4. Active Department
+Australia, Japan, and Southeast Asia are in which ITU Region?
+ 1. Region 4
+ 2. Region 3
+ 3. Region 2
+ 4. Region 1
 
 <details>
   <summary>Answer</summary>
-  Active Directory
+  Region 3
 </details>
 
 
