@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-As I get older, I think of all the people I lost along the way. Maybe a career as a tour guide wasn't such a good idea.
+What do you call a bee that lives in America? A USB.
 
 
 ## Daily Trivia
 
-.rs is the top-level domain for what country?
- 1. Rwanda
- 2. Russia
- 3. Serbia
- 4. Romania
+According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:
+ 1. A&#039; + B&#039;
+ 2. AB&#039; + AB
+ 3. A&#039;B&#039;
+ 4. A&#039;B + B&#039;A
 
 <details>
   <summary>Answer</summary>
-  Serbia
+  A&#039; + B&#039;
 </details>
 
 
