@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to work for an origami company but they folded.
+What do you call an eagle who can play the piano? Talonted!
 
 
 ## Daily Trivia
 
-Which of these names was an actual codename for a cancelled Microsoft project?
- 1. Enceladus
- 2. Neptune
- 3. Pollux
- 4. Saturn
+Which operating system was released first?
+ 1. Windows
+ 2. Linux
+ 3. Mac OS
+ 4. OS/2
 
 <details>
   <summary>Answer</summary>
-  Neptune
+  Mac OS
 </details>
 
 
