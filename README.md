@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you organize a space party? You planet.
+Why are oranges the smartest fruit? Because they are made to concentrate. 
 
 
 ## Daily Trivia
 
-Who is the founder of Palantir?
- 1. Marc Benioff
- 2. Peter Thiel
- 3. Mark Zuckerberg
- 4. Jack Dorsey
+What is the number of keys on a standard Windows Keyboard?
+ 1. 94
+ 2. 104
+ 3. 76
+ 4. 64
 
 <details>
   <summary>Answer</summary>
-  Peter Thiel
+  104
 </details>
 
 
