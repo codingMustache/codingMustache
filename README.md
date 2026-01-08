@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The best time on a clock is 6:30--hands down.
+I finally bought the limited edition Thesaurus that I've always wanted. When I opened it, all the pages were blank.
+I have no words to describe how angry I am.
 
 
 ## Daily Trivia
 
-How long is an IPv6 address?
- 1. 64 bits
- 2. 32 bits
- 3. 128 bytes
- 4. 128 bits
+What was the name of the first Bulgarian personal computer?
+ 1. Pravetz 82
+ 2. Pravetz 8D
+ 3. IMKO-1
+ 4. IZOT 1030
 
 <details>
   <summary>Answer</summary>
-  128 bits
+  IMKO-1
 </details>
 
 
