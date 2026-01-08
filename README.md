@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Pie is $2.50 in Jamaica and $3.00 in The Bahamas. These are the pie-rates of the Caribbean.
+Why did the sentence fail the driving test? It never came to a full stop.
 
 
 ## Daily Trivia
 
-Which data structure does FILO apply to?
- 1. Heap
- 2. Stack
- 3. Queue
- 4. Tree
+Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
+ 1. Python
+ 2. PHP
+ 3. C#
+ 4. JavaScript
 
 <details>
   <summary>Answer</summary>
-  Stack
+  JavaScript
 </details>
 
 
