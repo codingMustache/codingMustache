@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you do when your bunny gets wet? You get your hare dryer.
+Why don’t seagulls fly over the bay? Because then they’d be bay-gulls!
 
 
 ## Daily Trivia
 
-How many bits make up the significand portion of a single precision floating point number?
- 1. 8
- 2. 15
- 3. 53
- 4. 23
+Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
+ 1. Overstock
+ 2. eBay
+ 3. Amazon
+ 4. Shopify
 
 <details>
   <summary>Answer</summary>
-  23
+  Amazon
 </details>
 
 
