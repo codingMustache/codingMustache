@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I’ve deleted the phone numbers of all the Germans I know from my mobile phone. Now it’s Hans free.
+Why don't sharks eat clowns?  Because they taste funny.
 
 
 ## Daily Trivia
 
-Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
- 1. Four Years
- 2. Two Years
- 3. Eight Years
- 4. Year
+What was Bitcoin&#039;s block size limit in 2010?
+ 1. 1GB
+ 2. 1 MB
+ 3. 1 KB
+ 4. 1 TB
 
 <details>
   <summary>Answer</summary>
-  Year
+  1 MB
 </details>
 
 
