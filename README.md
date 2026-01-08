@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why don’t seagulls fly over the bay? Because then they’d be bay-gulls!
+Did you hear that David lost his ID in prague? Now we just have to call him Dav.
 
 
 ## Daily Trivia
 
-Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
- 1. Overstock
- 2. eBay
- 3. Amazon
- 4. Shopify
+The Harvard architecture for micro-controllers added which additional bus?
+ 1. Data
+ 2. Address
+ 3. Control
+ 4. Instruction
 
 <details>
   <summary>Answer</summary>
-  Amazon
+  Instruction
 </details>
 
 
