@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I finally bought the limited edition Thesaurus that I've always wanted. When I opened it, all the pages were blank.
-I have no words to describe how angry I am.
+What do you call corn that joins the army? Kernel.
 
 
 ## Daily Trivia
 
-What was the name of the first Bulgarian personal computer?
- 1. Pravetz 82
- 2. Pravetz 8D
- 3. IMKO-1
- 4. IZOT 1030
+How many kilobytes in one gigabyte (in decimal)?
+ 1. 1048576
+ 2. 1000000
+ 3. 1000
+ 4. 1024
 
 <details>
   <summary>Answer</summary>
-  IMKO-1
+  1000000
 </details>
 
 
