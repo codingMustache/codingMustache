@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Yesterday, I accidentally swallowed some food coloring. The doctor says I’m okay, but I feel like I’ve dyed a little inside.
+If two vegans are having an argument, is it still considered beef?
 
 
 ## Daily Trivia
 
-What does CPU stand for?
- 1. Central Process Unit
- 2. Computer Personal Unit
- 3. Central Processor Unit
- 4. Central Processing Unit
+How many bits make up the significand portion of a single precision floating point number?
+ 1. 15
+ 2. 8
+ 3. 53
+ 4. 23
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  23
 </details>
 
 
