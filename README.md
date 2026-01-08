@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the Red light say to the Green light? Don't look at me I'm changing!
+Yesterday, I accidentally swallowed some food coloring. The doctor says I’m okay, but I feel like I’ve dyed a little inside.
 
 
 ## Daily Trivia
 
-What port does HTTP run on?
- 1. 443
- 2. 53
- 3. 80
- 4. 23
+What does CPU stand for?
+ 1. Central Process Unit
+ 2. Computer Personal Unit
+ 3. Central Processor Unit
+ 4. Central Processing Unit
 
 <details>
   <summary>Answer</summary>
-  80
+  Central Processing Unit
 </details>
 
 
