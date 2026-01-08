@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-They say Dodger Stadium can hold up to fifty-six thousand people, but that is just a ballpark figure.
+What kind of magic do cows believe in? MOODOO.
 
 
 ## Daily Trivia
 
-Which kind of algorithm is Ron Rivest not famous for creating?
- 1. Hashing algorithm
- 2. Secret sharing scheme
- 3. Stream cipher
- 4. Asymmetric encryption
+If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
+ 1. Binary
+ 2. Python
+ 3. C++
+ 4. JavaScript
 
 <details>
   <summary>Answer</summary>
-  Secret sharing scheme
+  Binary
 </details>
 
 
