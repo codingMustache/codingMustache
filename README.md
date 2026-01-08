@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-People are shocked to discover I have a police record but I love their greatest hits!
+The Swiss must've been pretty confident in their chances of victory if they included a corkscrew in their army knife.
 
 
 ## Daily Trivia
 
-What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
- 1. Network
- 2. Transport
- 3. Data link
- 4. Session
+What was the first commerically available computer processor?
+ 1. Intel 4004
+ 2. AMD AM386
+ 3. TMS 1000
+ 4. Intel 486SX
 
 <details>
   <summary>Answer</summary>
-  Transport
+  Intel 4004
 </details>
 
 
