@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the melons plan a big wedding? Because they cantaloupe!
+When my wife told me to stop impersonating a flamingo, I had to put my foot down.
 
 
 ## Daily Trivia
 
-Which computer language would you associate Django framework with?
- 1. C++
- 2. Java
- 3. Python
- 4. C#
+The acronym &quot;RIP&quot; stands for which of these?
+ 1. Runtime Instance Processes
+ 2. Routing Information Protocol
+ 3. Regular Interval Processes
+ 4. Routine Inspection Protocol
 
 <details>
   <summary>Answer</summary>
-  Python
+  Routing Information Protocol
 </details>
 
 
