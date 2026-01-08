@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the cookie cry?
-Because his mother was a wafer so long
+As I get older, I think of all the people I lost along the way. Maybe a career as a tour guide wasn't such a good idea.
 
 
 ## Daily Trivia
 
-What is known as &quot;the brain&quot; of the Computer?
- 1. Graphics Processing Unit
- 2. Keyboard
- 3. Central Processing Unit
- 4. Motherboard
+.rs is the top-level domain for what country?
+ 1. Rwanda
+ 2. Russia
+ 3. Serbia
+ 4. Romania
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  Serbia
 </details>
 
 
