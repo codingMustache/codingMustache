@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the sentence fail the driving test? It never came to a full stop.
+What's a ninja's favorite type of shoes? Sneakers!
 
 
 ## Daily Trivia
 
-Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
- 1. Python
- 2. PHP
- 3. C#
- 4. JavaScript
+What does AD stand for in relation to Windows Operating Systems? 
+ 1. Active Directory
+ 2. Alternative Drive
+ 3. Automated Database
+ 4. Active Department
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  Active Directory
 </details>
 
 
