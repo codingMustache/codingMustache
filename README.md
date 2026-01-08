@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear that David lost his ID in prague? Now we just have to call him Dav.
+“My Dog has no nose.” “How does he smell?” “Awful”
 
 
 ## Daily Trivia
 
-The Harvard architecture for micro-controllers added which additional bus?
- 1. Data
- 2. Address
- 3. Control
- 4. Instruction
+In networking, what does OSPF stand for?
+ 1. Order Sense Ping Find
+ 2. Open Shortest Path First
+ 3. Order State Part First
+ 4. Open Signal Path Finder
 
 <details>
   <summary>Answer</summary>
-  Instruction
+  Open Shortest Path First
 </details>
 
 
