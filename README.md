@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why don't sharks eat clowns?  Because they taste funny.
+To be Frank, I'd have to change my name.
 
 
 ## Daily Trivia
 
-What was Bitcoin&#039;s block size limit in 2010?
- 1. 1GB
- 2. 1 MB
- 3. 1 KB
- 4. 1 TB
+The C programming language was created by this American computer scientist. 
+ 1. Tim Berners Lee
+ 2. al-Khwārizmī
+ 3. Dennis Ritchie
+ 4. Willis Ware
 
 <details>
   <summary>Answer</summary>
-  1 MB
+  Dennis Ritchie
 </details>
 
 
