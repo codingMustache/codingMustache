@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of pants do ghosts wear? Boo jeans.
+What do you call a snake who builds houses? A boa constructor!
 
 
 ## Daily Trivia
 
-What was the first Android version specifically optimized for tablets?
- 1. Froyo
- 2. Honeycomb
- 3. Eclair
- 4. Marshmellow
+What is the domain name for the country Tuvalu?
+ 1. .tv
+ 2. .tl
+ 3. .tt
+ 4. .tu
 
 <details>
   <summary>Answer</summary>
-  Honeycomb
+  .tv
 </details>
 
 
