@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-You know what they say about cliffhangers...
+Why did the cookie cry?
+Because his mother was a wafer so long
 
 
 ## Daily Trivia
 
-Which of these is not a layer in the OSI model for data communications?
- 1. Physical Layer
- 2. Application Layer
- 3. Connection Layer
- 4. Transport Layer
+What is known as &quot;the brain&quot; of the Computer?
+ 1. Graphics Processing Unit
+ 2. Keyboard
+ 3. Central Processing Unit
+ 4. Motherboard
 
 <details>
   <summary>Answer</summary>
-  Connection Layer
+  Central Processing Unit
 </details>
 
 
