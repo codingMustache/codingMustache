@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call an Argentinian with a rubber toe? Roberto
+I've just written a song about a tortilla. Well, it is more of a rap really.
 
 
 ## Daily Trivia
 
-What is the name of the default theme that is installed with Windows XP?
- 1. Luna
- 2. Bliss
- 3. Neptune
- 4. Whistler
+According to the International System of Units, how many bytes are in a kilobyte of RAM?
+ 1. 512
+ 2. 1024
+ 3. 500
+ 4. 1000
 
 <details>
   <summary>Answer</summary>
-  Luna
+  1000
 </details>
 
 
