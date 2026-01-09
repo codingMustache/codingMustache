@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Me and my mates are in a band called Duvet. We're a cover band.
+I'm glad I know sign language, it's pretty handy.
 
 
 ## Daily Trivia
 
-What was the name of the security vulnerability found in Bash in 2014?
- 1. Heartbleed
- 2. Shellshock
- 3. Bashbug
- 4. Stagefright
+What is the main CPU is the Sega Mega Drive / Sega Genesis?
+ 1. Motorola 68000
+ 2. Yamaha YM2612
+ 3. Zilog Z80
+ 4. Intel 8088
 
 <details>
   <summary>Answer</summary>
-  Shellshock
+  Motorola 68000
 </details>
 
 
