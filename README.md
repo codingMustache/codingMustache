@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-As I get older, I think of all the people I lost along the way. Maybe a career as a tour guide wasn't such a good idea.
+I'm practicing for a bug-eating contest and I've got butterflies in my stomach.
 
 
 ## Daily Trivia
 
-The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
- 1. China (People&#039;s Republic of)
- 2. Taiwan
- 3. Germany
- 4. United States
+What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
+ 1. FM Synthesizer
+ 2. ADPCM Sampler
+ 3. PCM Sampler
+ 4. Programmable Sound Generator (PSG)
 
 <details>
   <summary>Answer</summary>
-  Taiwan
+  ADPCM Sampler
 </details>
 
 
