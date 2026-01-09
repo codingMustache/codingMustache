@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I asked a frenchman if he played video games. He said "Wii"
+I've got a joke about vegetables for you... but it's a bit corny.
 
 
 ## Daily Trivia
 
-Which of these is not a key value of Agile software development?
- 1. Individuals and interactions
- 2. Responding to change
- 3. Customer collaboration
- 4. Comprehensive documentation
+Approximately how many Apple I personal computers were created?
+ 1. 100
+ 2. 500
+ 3. 1000
+ 4. 200
 
 <details>
   <summary>Answer</summary>
-  Comprehensive documentation
+  200
 </details>
 
 
