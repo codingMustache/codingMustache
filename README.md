@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I won an argument with a weather forecaster once. His logic was cloudy...
+What do you call a nervous javelin thrower? Shakespeare.
 
 
 ## Daily Trivia
 
-In programming, what do you call functions with the same name but different implementations?
- 1. Overriding
- 2. Overloading
- 3. Abstracting
- 4. Inheriting
+What was the name of the security vulnerability found in Bash in 2014?
+ 1. Heartbleed
+ 2. Bashbug
+ 3. Stagefright
+ 4. Shellshock
 
 <details>
   <summary>Answer</summary>
-  Overloading
+  Shellshock
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **1 days** since this server shutdown
+Its been **2 days** since this server shutdown
