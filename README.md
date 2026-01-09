@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a fish with no eyes? A fsh.
+What do you call a snake who builds houses? A boa constructor!
 
 
 ## Daily Trivia
 
-What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
- 1. Sandy Bridge
- 2. Skylake
- 3. Coffee Lake
- 4. Broadwell
+The acronym &quot;RIP&quot; stands for which of these?
+ 1. Routine Inspection Protocol
+ 2. Regular Interval Processes
+ 3. Runtime Instance Processes
+ 4. Routing Information Protocol
 
 <details>
   <summary>Answer</summary>
-  Coffee Lake
+  Routing Information Protocol
 </details>
 
 
