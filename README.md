@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you make Lady Gaga cry? Poker face. 
+No matter how kind you are, German children are kinder.
 
 
 ## Daily Trivia
 
-What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
- 1. FM Synthesizer
- 2. Programmable Sound Generator (PSG)
- 3. PCM Sampler
- 4. ADPCM Sampler
+Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
+ 1. C#
+ 2. Python
+ 3. JavaScript
+ 4. PHP
 
 <details>
   <summary>Answer</summary>
-  ADPCM Sampler
+  JavaScript
 </details>
 
 
