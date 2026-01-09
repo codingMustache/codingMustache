@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-what happens when you cross a sheep with a kangaroo ? A woolly jumper!
+Where do you take someone who has been injured in a Peek-a-boo accident? To the I.C.U.
 
 
 ## Daily Trivia
 
-What was the name given to Android 4.3?
- 1. Lollipop
- 2. Nutella
- 3. Froyo
- 4. Jelly Bean
+This mobile OS held the largest market share in 2012.
+ 1. iOS
+ 2. Symbian
+ 3. BlackBerry
+ 4. Android
 
 <details>
   <summary>Answer</summary>
-  Jelly Bean
+  iOS
 </details>
 
 
