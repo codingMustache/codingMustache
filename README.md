@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-When my wife told me to stop impersonating a flamingo, I had to put my foot down.
+Why can’t you hear a pterodactyl go to the bathroom? The p is silent.
 
 
 ## Daily Trivia
 
-Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
- 1. 32.0 kHz
- 2. 20.5 kHz
- 3. 44.1 kHz
- 4. 1.5 MHz
+Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
+ 1. Clipper Chip
+ 2. Nautilus
+ 3. Skipjack
+ 4. Enigma Machine
 
 <details>
   <summary>Answer</summary>
-  44.1 kHz
+  Clipper Chip
 </details>
 
 
