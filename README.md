@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-If two vegans are having an argument, is it still considered beef?
+I went to the zoo the other day, there was only one dog in it. It was a shitzu.
 
 
 ## Daily Trivia
 
-Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
- 1. Python
- 2. JavaScript
- 3. C#
- 4. PHP
+In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
+ 1. printf(&quot;Hello World&quot;)
+ 2. echo &quot;Hello World&quot;
+ 3. print(&quot;Hello World&quot;)
+ 4. console.log(&quot;Hello World&quot;)
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  print(&quot;Hello World&quot;)
 </details>
 
 
