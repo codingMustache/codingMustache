@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you make a 'one' disappear? You add a 'g' and it's 'gone'
+"What time is it?" I don't know... it keeps changing.
 
 
 ## Daily Trivia
 
-In computing, what does MIDI stand for?
- 1. Musical Interface of Digital Instruments
- 2. Modular Interface of Digital Instruments
- 3. Musical Instrument Digital Interface
- 4. Musical Instrument Data Interface
+Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
+ 1. Year
+ 2. Four Years
+ 3. Two Years
+ 4. Eight Years
 
 <details>
   <summary>Answer</summary>
-  Musical Instrument Digital Interface
+  Year
 </details>
 
 
