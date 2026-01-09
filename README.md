@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I've just written a song about a tortilla. Well, it is more of a rap really.
+The best time on a clock is 6:30--hands down.
 
 
 ## Daily Trivia
 
-According to the International System of Units, how many bytes are in a kilobyte of RAM?
- 1. 512
- 2. 1024
- 3. 500
- 4. 1000
+What does &quot;LCD&quot; stand for?
+ 1. Language Control Design
+ 2. Liquid Crystal Display
+ 3. Last Common Difference
+ 4. Long Continuous Design
 
 <details>
   <summary>Answer</summary>
-  1000
+  Liquid Crystal Display
 </details>
 
 
