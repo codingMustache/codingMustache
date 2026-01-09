@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why can’t you hear a pterodactyl go to the bathroom? The p is silent.
+What do you call an Argentinian with a rubber toe? Roberto
 
 
 ## Daily Trivia
 
-Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
- 1. Clipper Chip
- 2. Nautilus
- 3. Skipjack
- 4. Enigma Machine
+What is the name of the default theme that is installed with Windows XP?
+ 1. Luna
+ 2. Bliss
+ 3. Neptune
+ 4. Whistler
 
 <details>
   <summary>Answer</summary>
-  Clipper Chip
+  Luna
 </details>
 
 
