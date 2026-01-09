@@ -4,22 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where was the Declaration of Independence signed?
-
-At the bottom! 
+As I get older, I think of all the people I lost along the way. Maybe a career as a tour guide wasn't such a good idea.
 
 
 ## Daily Trivia
 
-Which of these is not a key value of Agile software development?
- 1. Customer collaboration
- 2. Comprehensive documentation
- 3. Responding to change
- 4. Individuals and interactions
+The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
+ 1. China (People&#039;s Republic of)
+ 2. Taiwan
+ 3. Germany
+ 4. United States
 
 <details>
   <summary>Answer</summary>
-  Comprehensive documentation
+  Taiwan
 </details>
 
 
