@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a criminal going down the stairs? Condescending
+I asked a frenchman if he played video games. He said "Wii"
 
 
 ## Daily Trivia
 
-When was the programming language &quot;C#&quot; released?
- 1. 1998
- 2. 1999
- 3. 2001
- 4. 2000
+Which of these is not a key value of Agile software development?
+ 1. Individuals and interactions
+ 2. Responding to change
+ 3. Customer collaboration
+ 4. Comprehensive documentation
 
 <details>
   <summary>Answer</summary>
-  2000
+  Comprehensive documentation
 </details>
 
 
