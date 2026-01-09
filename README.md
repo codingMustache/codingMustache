@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I gave my friend 10 puns hoping that one of them would make him laugh. Sadly, no pun in ten did.
+I invented a new word! Plagiarism!
 
 
 ## Daily Trivia
 
-Which of the following is the oldest of these computers by release date?
- 1. ZX Spectrum
- 2. TRS-80
- 3. Commodore 64
- 4. Apple 3
+What was the name of the security vulnerability found in Bash in 2014?
+ 1. Stagefright
+ 2. Shellshock
+ 3. Heartbleed
+ 4. Bashbug
 
 <details>
   <summary>Answer</summary>
-  TRS-80
+  Shellshock
 </details>
 
 
