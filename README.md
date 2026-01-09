@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What musical instrument is found in the bathroom? A tuba toothpaste.
+What do you call a guy lying on your doorstep? Matt.
 
 
 ## Daily Trivia
 
-The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
- 1. Acorn Computers
- 2. Sinclair Research
- 3. Amstrad PLC
- 4. Commodore Business Machines
+Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
+ 1. Cheetah
+ 2. Puma
+ 3. Leopard
+ 4. Tiger
 
 <details>
   <summary>Answer</summary>
-  Acorn Computers
+  Cheetah
 </details>
 
 
