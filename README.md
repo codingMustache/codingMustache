@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I'm practicing for a bug-eating contest and I've got butterflies in my stomach.
+When my wife told me to stop impersonating a flamingo, I had to put my foot down.
 
 
 ## Daily Trivia
 
-What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
- 1. FM Synthesizer
- 2. ADPCM Sampler
- 3. PCM Sampler
- 4. Programmable Sound Generator (PSG)
+Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
+ 1. 32.0 kHz
+ 2. 20.5 kHz
+ 3. 44.1 kHz
+ 4. 1.5 MHz
 
 <details>
   <summary>Answer</summary>
-  ADPCM Sampler
+  44.1 kHz
 </details>
 
 
