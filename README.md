@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The best time on a clock is 6:30--hands down.
+If two vegans are having an argument, is it still considered beef?
 
 
 ## Daily Trivia
 
-What does &quot;LCD&quot; stand for?
- 1. Language Control Design
- 2. Liquid Crystal Display
- 3. Last Common Difference
- 4. Long Continuous Design
+Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
+ 1. Python
+ 2. JavaScript
+ 3. C#
+ 4. PHP
 
 <details>
   <summary>Answer</summary>
-  Liquid Crystal Display
+  JavaScript
 </details>
 
 
