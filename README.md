@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How does a penguin build it’s house? Igloos it together.
+What kind of music do mummy's like? Rap
 
 
 ## Daily Trivia
 
-Which of these names was an actual codename for a cancelled Microsoft project?
- 1. Enceladus
- 2. Pollux
- 3. Saturn
- 4. Neptune
+In computing terms, typically what does CLI stand for?
+ 1. Common Language Input
+ 2. Common Language Interface
+ 3. Control Line Interface
+ 4. Command Line Interface
 
 <details>
   <summary>Answer</summary>
-  Neptune
+  Command Line Interface
 </details>
 
 
