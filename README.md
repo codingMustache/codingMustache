@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where does astronauts hangout after work? At the spacebar.
+I gave my friend 10 puns hoping that one of them would make him laugh. Sadly, no pun in ten did.
 
 
 ## Daily Trivia
 
-What is the number of keys on a standard Windows Keyboard?
- 1. 104
- 2. 64
- 3. 94
- 4. 76
+Which of the following is the oldest of these computers by release date?
+ 1. ZX Spectrum
+ 2. TRS-80
+ 3. Commodore 64
+ 4. Apple 3
 
 <details>
   <summary>Answer</summary>
-  104
+  TRS-80
 </details>
 
 
