@@ -4,20 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's brown and sticky? A stick.
+Where was the Declaration of Independence signed?
+
+At the bottom! 
 
 
 ## Daily Trivia
 
-What amount of bits commonly equals one byte?
- 1. 2
- 2. 1
- 3. 8
- 4. 64
+Which of these is not a key value of Agile software development?
+ 1. Customer collaboration
+ 2. Comprehensive documentation
+ 3. Responding to change
+ 4. Individuals and interactions
 
 <details>
   <summary>Answer</summary>
-  8
+  Comprehensive documentation
 </details>
 
 
