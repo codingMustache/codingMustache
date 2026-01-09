@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why does Norway have barcodes on their battleships? So when they get back to port, they can Scandinavian.
+Americans can't switch from pounds to kilograms overnight. That would cause mass confusion.
 
 
 ## Daily Trivia
 
-Which of the following physical typologies are used with Ethernet Networks?
- 1. Ring
- 2. Star
- 3. Mesh
- 4. Hex
+What was the first company to use the term &quot;Golden Master&quot;?
+ 1. IBM
+ 2. Google
+ 3. Microsoft
+ 4. Apple
 
 <details>
   <summary>Answer</summary>
-  Star
+  Apple
 </details>
 
 
