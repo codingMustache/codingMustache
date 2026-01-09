@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I don’t play soccer because I enjoy the sport. I’m just doing it for kicks.
+This furniture store keeps emailing me, all I wanted was one night stand!
 
 
 ## Daily Trivia
 
-The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
- 1. China (People&#039;s Republic of)
- 2. United States
- 3. Taiwan
- 4. Germany
+What internet protocol was documented in RFC 1459?
+ 1. HTTP
+ 2. HTTPS
+ 3. IRC
+ 4. FTP
 
 <details>
   <summary>Answer</summary>
-  Taiwan
+  IRC
 </details>
 
 
