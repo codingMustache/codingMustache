@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-"What time is it?" I don't know... it keeps changing.
+How does a penguin build it’s house? Igloos it together.
 
 
 ## Daily Trivia
 
-Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
- 1. Year
- 2. Four Years
- 3. Two Years
- 4. Eight Years
+Which of these names was an actual codename for a cancelled Microsoft project?
+ 1. Enceladus
+ 2. Pollux
+ 3. Saturn
+ 4. Neptune
 
 <details>
   <summary>Answer</summary>
-  Year
+  Neptune
 </details>
 
 
