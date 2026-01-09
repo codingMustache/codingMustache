@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I've got a joke about vegetables for you... but it's a bit corny.
+Archaeology really is a career in ruins.
 
 
 ## Daily Trivia
 
-Approximately how many Apple I personal computers were created?
- 1. 100
- 2. 500
- 3. 1000
- 4. 200
+In any programming language, what is the most common way to iterate through an array?
+ 1. &#039;While&#039; loops
+ 2. &#039;For&#039; loops
+ 3. &#039;Do-while&#039; loops
+ 4. &#039;If&#039; Statements
 
 <details>
   <summary>Answer</summary>
-  200
+  &#039;For&#039; loops
 </details>
 
 
