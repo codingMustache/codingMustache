@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It was so cold yesterday my computer froze. My own fault though, I left too many windows open.
+I don’t play soccer because I enjoy the sport. I’m just doing it for kicks.
 
 
 ## Daily Trivia
 
-The acronym &quot;RIP&quot; stands for which of these?
- 1. Runtime Instance Processes
- 2. Routing Information Protocol
- 3. Regular Interval Processes
- 4. Routine Inspection Protocol
+The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
+ 1. China (People&#039;s Republic of)
+ 2. United States
+ 3. Taiwan
+ 4. Germany
 
 <details>
   <summary>Answer</summary>
-  Routing Information Protocol
+  Taiwan
 </details>
 
 
