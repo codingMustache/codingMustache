@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A beekeeper was indicted after he confessed to years of stealing at work. They charged him with emBEEzlement
+A horse walks into a bar. The bar tender says "Hey." The horse says "Sure."
 
 
 ## Daily Trivia
 
-What internet protocol was documented in RFC 1459?
- 1. IRC
- 2. FTP
- 3. HTTPS
- 4. HTTP
+What is the most preferred image format used for logos in the Wikimedia database?
+ 1. .jpeg
+ 2. .gif
+ 3. .png
+ 4. .svg
 
 <details>
   <summary>Answer</summary>
-  IRC
+  .svg
 </details>
 
 
