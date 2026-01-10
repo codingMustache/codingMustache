@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I invented a new word! Plagiarism!
+I’ve deleted the phone numbers of all the Germans I know from my mobile phone. Now it’s Hans free.
 
 
 ## Daily Trivia
 
-In computing, what does MIDI stand for?
- 1. Musical Instrument Data Interface
- 2. Musical Interface of Digital Instruments
- 3. Musical Instrument Digital Interface
- 4. Modular Interface of Digital Instruments
+Which kind of algorithm is Ron Rivest not famous for creating?
+ 1. Hashing algorithm
+ 2. Asymmetric encryption
+ 3. Stream cipher
+ 4. Secret sharing scheme
 
 <details>
   <summary>Answer</summary>
-  Musical Instrument Digital Interface
+  Secret sharing scheme
 </details>
 
 
