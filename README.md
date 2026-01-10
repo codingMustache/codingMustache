@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor.
+Why don’t skeletons ever go trick or treating? Because they have nobody to go with.
 
 
 ## Daily Trivia
 
-How many Hz does the video standard PAL support?
- 1. 50
- 2. 25
- 3. 60
- 4. 59
+On which computer hardware device is the BIOS chip located?
+ 1. Graphics Processing Unit
+ 2. Central Processing Unit
+ 3. Motherboard
+ 4. Hard Disk Drive
 
 <details>
   <summary>Answer</summary>
-  50
+  Motherboard
 </details>
 
 
