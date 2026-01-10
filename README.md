@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did Dracula lie in the wrong coffin? He made a grave mistake.
+Where do bees go to the bathroom?  The BP station.
 
 
 ## Daily Trivia
 
-The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
- 1. HD Graphics 7000
- 2. HD Graphics 700 
- 3. HD Graphics 600
- 4. HD Graphics 500
+The teapot often seen in many 3D modeling applications is called what?
+ 1. Utah Teapot
+ 2. Pixar Teapot
+ 3. 3D Teapot
+ 4. Tennessee Teapot
 
 <details>
   <summary>Answer</summary>
-  HD Graphics 500
+  Utah Teapot
 </details>
 
 
