@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What does a clock do when it's hungry? It goes back four seconds!
+How many apples grow on a tree? All of them!
 
 
 ## Daily Trivia
 
-In the server hosting industry IaaS stands for...
- 1. Infrastructure as a Service
- 2. Infrastructure as a Server
- 3. Internet and a Server
- 4. Internet as a Service
+Laserjet and inkjet printers are both examples of what type of printer?
+ 1. Non-impact printer
+ 2. Impact printer
+ 3. Daisywheel printer
+ 4. Dot matrix printer
 
 <details>
   <summary>Answer</summary>
-  Infrastructure as a Service
+  Non-impact printer
 </details>
 
 
