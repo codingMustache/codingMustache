@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are pirates called pirates? Because they arrr!
+What’s brown and sounds like a bell? Dung!
 
 
 ## Daily Trivia
 
-Which of these is not a key value of Agile software development?
- 1. Customer collaboration
- 2. Individuals and interactions
- 3. Responding to change
- 4. Comprehensive documentation
+Dutch computer scientist Mark Overmars is known for creating which game development engine?
+ 1. Game Maker
+ 2. Construct
+ 3. Torque 2D
+ 4. Stencyl
 
 <details>
   <summary>Answer</summary>
-  Comprehensive documentation
+  Game Maker
 </details>
 
 
