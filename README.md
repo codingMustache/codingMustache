@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Every machine in the coin factory broke down all of a sudden without explanation. It just doesn’t make any cents.
+It’s hard to explain puns to kleptomaniacs, because they take everything literally.
 
 
 ## Daily Trivia
 
-The C programming language was created by this American computer scientist. 
- 1. Tim Berners Lee
- 2. Dennis Ritchie
- 3. al-Khwārizmī
- 4. Willis Ware
+The Harvard architecture for micro-controllers added which additional bus?
+ 1. Instruction
+ 2. Control
+ 3. Data
+ 4. Address
 
 <details>
   <summary>Answer</summary>
-  Dennis Ritchie
+  Instruction
 </details>
 
 
