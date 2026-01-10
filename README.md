@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why doesn't the Chimney-Sweep call out sick from work? Because he's used to working with a flue.
+What do you call a pig that knows karate? A pork chop!
 
 
 ## Daily Trivia
 
-Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
- 1. Heartbleed
- 2. Shellscript
- 3. Corrupted Blood
- 4. Shellshock
+The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
+ 1. Marshall Islands
+ 2. Micronesia
+ 3. Fiji
+ 4. Tuvalu
 
 <details>
   <summary>Answer</summary>
-  Heartbleed
+  Micronesia
 </details>
 
 
