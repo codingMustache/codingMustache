@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the two thieves who stole a calendar? They each got six months.
+Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor.
 
 
 ## Daily Trivia
 
-What vulnerability ranked #1 on the OWASP Top 10 in 2013?
- 1. Cross-Site Scripting
- 2. Broken Authentication
- 3. Injection 
- 4. Insecure Direct Object References
+How many Hz does the video standard PAL support?
+ 1. 50
+ 2. 25
+ 3. 60
+ 4. 59
 
 <details>
   <summary>Answer</summary>
-  Injection 
+  50
 </details>
 
 
