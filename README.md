@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A horse walks into a bar. The bar tender says "Hey." The horse says "Sure."
+Why are pirates called pirates? Because they arrr!
 
 
 ## Daily Trivia
 
-What is the most preferred image format used for logos in the Wikimedia database?
- 1. .jpeg
- 2. .gif
- 3. .png
- 4. .svg
+Which of these is not a key value of Agile software development?
+ 1. Customer collaboration
+ 2. Individuals and interactions
+ 3. Responding to change
+ 4. Comprehensive documentation
 
 <details>
   <summary>Answer</summary>
-  .svg
+  Comprehensive documentation
 </details>
 
 
