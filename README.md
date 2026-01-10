@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I accidentally drank a bottle of invisible ink. Now I’m in hospital, waiting to be seen.
+People saying 'boo! to their friends has risen by 85% in the last year.... That's a frightening statistic.
 
 
 ## Daily Trivia
 
-Which of the following is NOT a computer science algorithm?
- 1. Bubble Sort
- 2. Merge Sort
- 3. Float Sort
- 4. Quick Sort
+What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
+ 1. Temperature Decipator
+ 2. CPU Vent
+ 3. Heat Sink
+ 4. Heat Vent
 
 <details>
   <summary>Answer</summary>
-  Float Sort
+  Heat Sink
 </details>
 
 
