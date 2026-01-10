@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Man, I really love my furniture... me and my recliner go way back.
+Why do wizards clean their teeth three times a day? To prevent bat breath!
 
 
 ## Daily Trivia
 
-Which kind of algorithm is Ron Rivest not famous for creating?
- 1. Secret sharing scheme
- 2. Stream cipher
- 3. Asymmetric encryption
- 4. Hashing algorithm
+What does the Prt Sc button do?
+ 1. Nothing
+ 2. Captures what&#039;s on the screen and copies it to your clipboard
+ 3. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
+ 4. Closes all windows
 
 <details>
   <summary>Answer</summary>
-  Secret sharing scheme
+  Captures what&#039;s on the screen and copies it to your clipboard
 </details>
 
 
