@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do bees go to the bathroom?  The BP station.
+I accidentally drank a bottle of invisible ink. Now I’m in hospital, waiting to be seen.
 
 
 ## Daily Trivia
 
-The teapot often seen in many 3D modeling applications is called what?
- 1. Utah Teapot
- 2. Pixar Teapot
- 3. 3D Teapot
- 4. Tennessee Teapot
+Which of the following is NOT a computer science algorithm?
+ 1. Bubble Sort
+ 2. Merge Sort
+ 3. Float Sort
+ 4. Quick Sort
 
 <details>
   <summary>Answer</summary>
-  Utah Teapot
+  Float Sort
 </details>
 
 
