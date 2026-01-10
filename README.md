@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What’s brown and sounds like a bell? Dung!
+Why can't a bicycle stand on its own? It's two-tired.
 
 
 ## Daily Trivia
 
-Dutch computer scientist Mark Overmars is known for creating which game development engine?
- 1. Game Maker
- 2. Construct
- 3. Torque 2D
- 4. Stencyl
+The acronym &quot;RIP&quot; stands for which of these?
+ 1. Routine Inspection Protocol
+ 2. Runtime Instance Processes
+ 3. Regular Interval Processes
+ 4. Routing Information Protocol
 
 <details>
   <summary>Answer</summary>
-  Game Maker
+  Routing Information Protocol
 </details>
 
 
