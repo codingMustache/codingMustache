@@ -4,14 +4,14 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A book just fell on my head. I only have my shelf to blame.
+What did the calculator say to the student? You can count on me.
 
 
 ## Daily Trivia
 
 Which of these people was NOT a founder of Apple Inc?
- 1. Ronald Wayne
- 2. Steve Wozniak
+ 1. Steve Wozniak
+ 2. Ronald Wayne
  3. Jonathan Ive
  4. Steve Jobs
 
