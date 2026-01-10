@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I saw an ad in a shop window, "Television for sale, $1, volume stuck on full", I thought, "I can't turn that down".
+I always wanted to look into why I procrastinate, but I keep putting it off. 
 
 
 ## Daily Trivia
 
-The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
- 1. China (People&#039;s Republic of)
- 2. United States
- 3. Taiwan
- 4. Germany
+What did the name of the Tor Anonymity Network orignially stand for?
+ 1. The Only Router
+ 2. The Orange Router
+ 3. The Ominous Router
+ 4. The Onion Router
 
 <details>
   <summary>Answer</summary>
-  Taiwan
+  The Onion Router
 </details>
 
 
