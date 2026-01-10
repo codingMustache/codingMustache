@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why don’t skeletons ever go trick or treating? Because they have nobody to go with.
+A woman is on trial for beating her husband to death with his guitar collection. Judge says, ‘First offender?’ She says, ‘No, first a Gibson! Then a Fender!’
 
 
 ## Daily Trivia
 
-On which computer hardware device is the BIOS chip located?
- 1. Graphics Processing Unit
- 2. Central Processing Unit
- 3. Motherboard
- 4. Hard Disk Drive
+The teapot often seen in many 3D modeling applications is called what?
+ 1. 3D Teapot
+ 2. Utah Teapot
+ 3. Pixar Teapot
+ 4. Tennessee Teapot
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  Utah Teapot
 </details>
 
 
