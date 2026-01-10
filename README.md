@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I always wanted to look into why I procrastinate, but I keep putting it off. 
+Why is no one friends with Dracula? Because he's a pain in the neck.
 
 
 ## Daily Trivia
 
-What did the name of the Tor Anonymity Network orignially stand for?
- 1. The Only Router
- 2. The Orange Router
- 3. The Ominous Router
- 4. The Onion Router
+Approximately how many Apple I personal computers were created?
+ 1. 200
+ 2. 500
+ 3. 1000
+ 4. 100
 
 <details>
   <summary>Answer</summary>
-  The Onion Router
+  200
 </details>
 
 
