@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many apples grow on a tree? All of them!
+Every machine in the coin factory broke down all of a sudden without explanation. It just doesn’t make any cents.
 
 
 ## Daily Trivia
 
-Laserjet and inkjet printers are both examples of what type of printer?
- 1. Non-impact printer
- 2. Impact printer
- 3. Daisywheel printer
- 4. Dot matrix printer
+The C programming language was created by this American computer scientist. 
+ 1. Tim Berners Lee
+ 2. Dennis Ritchie
+ 3. al-Khwārizmī
+ 4. Willis Ware
 
 <details>
   <summary>Answer</summary>
-  Non-impact printer
+  Dennis Ritchie
 </details>
 
 
