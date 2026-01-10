@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I got fired from the transmission factor, turns out I didn't put on enough shifts...
+The great thing about stationery shops is they're always in the same place...
 
 
 ## Daily Trivia
 
-Which of the following is a personal computer made by the Japanese company Fujitsu?
- 1. MSX
- 2. PC-9801
- 3. FM-7
- 4. Xmillennium 
+All of the following programs are classified as raster graphics editors EXCEPT:
+ 1. Paint.NET
+ 2. Inkscape
+ 3. GIMP
+ 4. Adobe Photoshop
 
 <details>
   <summary>Answer</summary>
-  FM-7
+  Inkscape
 </details>
 
 
