@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It's difficult to say what my wife does, she sells sea shells by the sea shore.
+Why was it called the dark ages? Because of all the knights. 
 
 
 ## Daily Trivia
 
-America Online (AOL) started out as which of these online service providers?
- 1. Quantum Link
- 2. GEnie
- 3. Prodigy
- 4. CompuServe
+On which day did the World Wide Web go online?
+ 1. December 17, 1996
+ 2. November 12, 1990
+ 3. December 20, 1990
+ 4. November 24, 1995
 
 <details>
   <summary>Answer</summary>
-  Quantum Link
+  December 20, 1990
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **2 days** since this server shutdown
+Its been **3 days** since this server shutdown
