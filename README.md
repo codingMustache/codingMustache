@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The great thing about stationery shops is they're always in the same place...
+A butcher accidentally backed into his meat grinder and got a little behind in his work that day.
 
 
 ## Daily Trivia
 
-All of the following programs are classified as raster graphics editors EXCEPT:
- 1. Paint.NET
- 2. Inkscape
- 3. GIMP
- 4. Adobe Photoshop
+What is the number of keys on a standard Windows Keyboard?
+ 1. 76
+ 2. 94
+ 3. 64
+ 4. 104
 
 <details>
   <summary>Answer</summary>
-  Inkscape
+  104
 </details>
 
 
