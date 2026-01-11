@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My new thesaurus is terrible. In fact, it's so bad, I'd say it's terrible.
+Why did the Clydesdale give the pony a glass of water?  Because he was a little horse!
 
 
 ## Daily Trivia
 
-The teapot often seen in many 3D modeling applications is called what?
- 1. Pixar Teapot
- 2. Utah Teapot
- 3. Tennessee Teapot
- 4. 3D Teapot
+According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:
+ 1. AB&#039; + AB
+ 2. A&#039; + B&#039;
+ 3. A&#039;B + B&#039;A
+ 4. A&#039;B&#039;
 
 <details>
   <summary>Answer</summary>
-  Utah Teapot
+  A&#039; + B&#039;
 </details>
 
 
