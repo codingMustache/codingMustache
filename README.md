@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Geology rocks, but Geography is where it's at!
+Why did the burglar hang his mugshot on the wall? To prove that he was framed!
 
 
 ## Daily Trivia
 
-On which day did the World Wide Web go online?
- 1. December 20, 1990
- 2. November 12, 1990
- 3. November 24, 1995
- 4. December 17, 1996
+What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
+ 1. Network
+ 2. Data link
+ 3. Session
+ 4. Transport
 
 <details>
   <summary>Answer</summary>
-  December 20, 1990
+  Transport
 </details>
 
 
