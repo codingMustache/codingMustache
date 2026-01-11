@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I had a pair of racing snails. I removed their shells to make them more aerodynamic, but they became sluggish.
+Did you know that protons have mass? I didn't even know they were catholic.
 
 
 ## Daily Trivia
 
-What is the number of keys on a standard Windows Keyboard?
- 1. 64
- 2. 76
- 3. 104
- 4. 94
+While Apple was formed in California, in which western state was Microsoft founded?
+ 1. Colorado
+ 2. Washington
+ 3. New Mexico
+ 4. Arizona
 
 <details>
   <summary>Answer</summary>
-  104
+  New Mexico
 </details>
 
 
