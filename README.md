@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A police officer caught two kids playing with a firework and a car battery. He charged one and let the other one off.
+Dermatologists are always in a hurry. They spend all day making rash decisions. 
 
 
 ## Daily Trivia
 
-What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
- 1. Broadwell
- 2. Coffee Lake
- 3. Skylake
- 4. Sandy Bridge
+When was the programming language &quot;C#&quot; released?
+ 1. 1998
+ 2. 2001
+ 3. 1999
+ 4. 2000
 
 <details>
   <summary>Answer</summary>
-  Coffee Lake
+  2000
 </details>
 
 
