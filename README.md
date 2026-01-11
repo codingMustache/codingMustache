@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do nurses carry around red crayons? Sometimes they need to draw blood.
+What did the beaver say to the tree? It's been nice gnawing you.
 
 
 ## Daily Trivia
 
-This mobile OS held the largest market share in 2012.
- 1. iOS
- 2. Symbian
- 3. Android
- 4. BlackBerry
+Whistler was the codename of this Microsoft Operating System.
+ 1. Windows 95
+ 2. Windows XP
+ 3. Windows 7
+ 4. Windows 2000
 
 <details>
   <summary>Answer</summary>
-  iOS
+  Windows XP
 </details>
 
 
