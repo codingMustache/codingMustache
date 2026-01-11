@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A police officer caught two kids playing with a firework and a car battery. He charged one and let the other one off.
+I asked a frenchman if he played video games. He said "Wii"
 
 
 ## Daily Trivia
 
-What does the &#039;S&#039; in the RSA encryption algorithm stand for?
- 1. Stable
- 2. Schottky
- 3. Secure
- 4. Shamir
+The C programming language was created by this American computer scientist. 
+ 1. Dennis Ritchie
+ 2. Willis Ware
+ 3. al-Khwārizmī
+ 4. Tim Berners Lee
 
 <details>
   <summary>Answer</summary>
-  Shamir
+  Dennis Ritchie
 </details>
 
 
