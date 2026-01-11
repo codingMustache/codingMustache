@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What’s brown and sounds like a bell? Dung!
+I got fired from a florist, apparently I took too many leaves.
 
 
 ## Daily Trivia
 
-How many values can a single byte represent?
- 1. 8
- 2. 256
- 3. 1
- 4. 1024
+According to the International System of Units, how many bytes are in a kilobyte of RAM?
+ 1. 1024
+ 2. 512
+ 3. 500
+ 4. 1000
 
 <details>
   <summary>Answer</summary>
-  256
+  1000
 </details>
 
 
