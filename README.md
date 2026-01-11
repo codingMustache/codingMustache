@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where does Napoleon keep his armies? In his sleevies.
+I tried to milk a cow today, but was unsuccessful. Udder failure.
 
 
 ## Daily Trivia
 
-What does the &#039;S&#039; in the RSA encryption algorithm stand for?
- 1. Secure
- 2. Schottky
- 3. Stable
- 4. Shamir
+According to the International System of Units, how many bytes are in a kilobyte of RAM?
+ 1. 512
+ 2. 500
+ 3. 1000
+ 4. 1024
 
 <details>
   <summary>Answer</summary>
-  Shamir
+  1000
 </details>
 
 
