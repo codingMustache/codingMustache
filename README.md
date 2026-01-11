@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the beaver say to the tree? It's been nice gnawing you.
+I've been trying to come up with a dad joke about momentum . . . but I just can't seem to get it going.
 
 
 ## Daily Trivia
 
-Whistler was the codename of this Microsoft Operating System.
- 1. Windows 95
- 2. Windows XP
- 3. Windows 7
- 4. Windows 2000
+What was the name given to Android 4.3?
+ 1. Jelly Bean
+ 2. Lollipop
+ 3. Froyo
+ 4. Nutella
 
 <details>
   <summary>Answer</summary>
-  Windows XP
+  Jelly Bean
 </details>
 
 
