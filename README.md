@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I tried to milk a cow today, but was unsuccessful. Udder failure.
+I wear a stethoscope so that in a medical emergency I can teach people a valuable lesson about assumptions.
 
 
 ## Daily Trivia
 
-According to the International System of Units, how many bytes are in a kilobyte of RAM?
- 1. 512
- 2. 500
- 3. 1000
- 4. 1024
+In web design, what does CSS stand for?
+ 1. Cascading Style Sheet
+ 2. Computer Style Sheet
+ 3. Corrective Style Sheet
+ 4. Counter Strike: Source
 
 <details>
   <summary>Answer</summary>
-  1000
+  Cascading Style Sheet
 </details>
 
 
