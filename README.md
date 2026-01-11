@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was it called the dark ages? Because of all the knights. 
+Why do bees have sticky hair? Because they use honey combs!
 
 
 ## Daily Trivia
 
-On which day did the World Wide Web go online?
- 1. December 17, 1996
- 2. November 12, 1990
- 3. December 20, 1990
- 4. November 24, 1995
+Who is the original author of the realtime physics engine called PhysX?
+ 1. NovodeX
+ 2. Ageia
+ 3. Nvidia
+ 4. AMD
 
 <details>
   <summary>Answer</summary>
-  December 20, 1990
+  NovodeX
 </details>
 
 
