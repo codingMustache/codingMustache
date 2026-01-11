@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A quick shoutout to all of the sidewalks out there... Thanks for keeping me off the streets.
+Did you hear the one about the giant pickle?  He was kind of a big dill.
 
 
 ## Daily Trivia
 
-Which data structure does FILO apply to?
- 1. Queue
- 2. Heap
- 3. Tree
- 4. Stack
+Which kind of algorithm is Ron Rivest not famous for creating?
+ 1. Secret sharing scheme
+ 2. Stream cipher
+ 3. Asymmetric encryption
+ 4. Hashing algorithm
 
 <details>
   <summary>Answer</summary>
-  Stack
+  Secret sharing scheme
 </details>
 
 
