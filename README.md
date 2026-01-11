@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Dermatologists are always in a hurry. They spend all day making rash decisions. 
+Can I watch the TV? Dad: Yes, but don’t turn it on.
 
 
 ## Daily Trivia
 
-When was the programming language &quot;C#&quot; released?
- 1. 1998
- 2. 2001
- 3. 1999
- 4. 2000
+What does &quot;LCD&quot; stand for?
+ 1. Last Common Difference
+ 2. Liquid Crystal Display
+ 3. Language Control Design
+ 4. Long Continuous Design
 
 <details>
   <summary>Answer</summary>
-  2000
+  Liquid Crystal Display
 </details>
 
 
