@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Astronomers got tired watching the moon go around the earth for 24 hours. They decided to call it a day.
+What’s brown and sounds like a bell? Dung!
 
 
 ## Daily Trivia
 
-Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
- 1. Atari
- 2. Apple
- 3. Microsoft
- 4. Commodore
+How many values can a single byte represent?
+ 1. 8
+ 2. 256
+ 3. 1
+ 4. 1024
 
 <details>
   <summary>Answer</summary>
-  Apple
+  256
 </details>
 
 
