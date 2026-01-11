@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's red and bad for your teeth? A Brick.
+I was going to learn how to juggle, but I didn't have the balls.
 
 
 ## Daily Trivia
 
-What was the first Android version specifically optimized for tablets?
- 1. Froyo
- 2. Eclair
- 3. Marshmellow
- 4. Honeycomb
+Which of these people was NOT a founder of Apple Inc?
+ 1. Steve Jobs
+ 2. Jonathan Ive
+ 3. Ronald Wayne
+ 4. Steve Wozniak
 
 <details>
   <summary>Answer</summary>
-  Honeycomb
+  Jonathan Ive
 </details>
 
 
