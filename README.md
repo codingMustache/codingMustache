@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear the one about the giant pickle?  He was kind of a big dill.
+Somebody stole my Microsoft Office and they're going to pay - you have my Word.
 
 
 ## Daily Trivia
 
-Which kind of algorithm is Ron Rivest not famous for creating?
- 1. Secret sharing scheme
- 2. Stream cipher
- 3. Asymmetric encryption
- 4. Hashing algorithm
+Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
+ 1. Cherry MX Black
+ 2. Cherry MX Red
+ 3. Cherry MX Brown
+ 4. Cherry MX Blue
 
 <details>
   <summary>Answer</summary>
-  Secret sharing scheme
+  Cherry MX Blue
 </details>
 
 
