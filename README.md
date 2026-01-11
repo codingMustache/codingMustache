@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My friend keeps telling me "Cheer up. You aren't stuck in a deep hole in the ground, filled with water."
-I know he means well.
+Geology rocks, but Geography is where it's at!
 
 
 ## Daily Trivia
 
-What does the &#039;S&#039; in the RSA encryption algorithm stand for?
- 1. Stable
- 2. Schottky
- 3. Shamir
- 4. Secure
+On which day did the World Wide Web go online?
+ 1. December 20, 1990
+ 2. November 12, 1990
+ 3. November 24, 1995
+ 4. December 17, 1996
 
 <details>
   <summary>Answer</summary>
-  Shamir
+  December 20, 1990
 </details>
 
 
