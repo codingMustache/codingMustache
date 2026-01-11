@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I got fired from a florist, apparently I took too many leaves.
+My new thesaurus is terrible. In fact, it's so bad, I'd say it's terrible.
 
 
 ## Daily Trivia
 
-According to the International System of Units, how many bytes are in a kilobyte of RAM?
- 1. 1024
- 2. 512
- 3. 500
- 4. 1000
+The teapot often seen in many 3D modeling applications is called what?
+ 1. Pixar Teapot
+ 2. Utah Teapot
+ 3. Tennessee Teapot
+ 4. 3D Teapot
 
 <details>
   <summary>Answer</summary>
-  1000
+  Utah Teapot
 </details>
 
 
