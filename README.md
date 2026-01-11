@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the house go to the doctor? It was having window panes.
+Where do fish keep their money? In the riverbank
 
 
 ## Daily Trivia
 
-Nvidia&#039;s headquarters are based in which Silicon Valley city?
- 1. Palo Alto
- 2. Santa Clara
- 3. Mountain View
- 4. Cupertino
+What is the most preferred image format used for logos in the Wikimedia database?
+ 1. .gif
+ 2. .jpeg
+ 3. .svg
+ 4. .png
 
 <details>
   <summary>Answer</summary>
-  Santa Clara
+  .svg
 </details>
 
 
