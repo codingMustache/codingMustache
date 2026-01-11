@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do bees have sticky hair? Because they use honey combs!
+A police officer caught two kids playing with a firework and a car battery. He charged one and let the other one off.
 
 
 ## Daily Trivia
 
-Who is the original author of the realtime physics engine called PhysX?
- 1. NovodeX
- 2. Ageia
- 3. Nvidia
- 4. AMD
+What does the &#039;S&#039; in the RSA encryption algorithm stand for?
+ 1. Stable
+ 2. Schottky
+ 3. Secure
+ 4. Shamir
 
 <details>
   <summary>Answer</summary>
-  NovodeX
+  Shamir
 </details>
 
 
