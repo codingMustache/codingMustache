@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Somebody stole my Microsoft Office and they're going to pay - you have my Word.
+Two parrots are sitting on a perch. One turns to the other and asks, "do you smell fish?"
 
 
 ## Daily Trivia
 
-Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
- 1. Cherry MX Black
- 2. Cherry MX Red
- 3. Cherry MX Brown
- 4. Cherry MX Blue
+What is the domain name for the country Tuvalu?
+ 1. .tu
+ 2. .tv
+ 3. .tt
+ 4. .tl
 
 <details>
   <summary>Answer</summary>
-  Cherry MX Blue
+  .tv
 </details>
 
 
