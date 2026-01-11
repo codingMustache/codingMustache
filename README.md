@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-what do you call a dog that can do magic tricks? a labracadabrador
+Why do nurses carry around red crayons? Sometimes they need to draw blood.
 
 
 ## Daily Trivia
 
-What was the first Android version specifically optimized for tablets?
- 1. Marshmellow
- 2. Honeycomb
- 3. Froyo
- 4. Eclair
+This mobile OS held the largest market share in 2012.
+ 1. iOS
+ 2. Symbian
+ 3. Android
+ 4. BlackBerry
 
 <details>
   <summary>Answer</summary>
-  Honeycomb
+  iOS
 </details>
 
 
