@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why does Waldo only wear stripes? Because he doesn't want to be spotted.
+Why did the house go to the doctor? It was having window panes.
 
 
 ## Daily Trivia
 
-What does the acronym CDN stand for in terms of networking?
- 1. Content Distribution Network
- 2. Content Delivery Network
- 3. Computational Data Network
- 4. Compressed Data Network
+Nvidia&#039;s headquarters are based in which Silicon Valley city?
+ 1. Palo Alto
+ 2. Santa Clara
+ 3. Mountain View
+ 4. Cupertino
 
 <details>
   <summary>Answer</summary>
-  Content Delivery Network
+  Santa Clara
 </details>
 
 
