@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do nurses carry around red crayons? Sometimes they need to draw blood.
+What kind of music do mummy's like? Rap
 
 
 ## Daily Trivia
 
-The teapot often seen in many 3D modeling applications is called what?
- 1. Pixar Teapot
- 2. 3D Teapot
- 3. Tennessee Teapot
- 4. Utah Teapot
+What is the domain name for the country Tuvalu?
+ 1. .tl
+ 2. .tv
+ 3. .tt
+ 4. .tu
 
 <details>
   <summary>Answer</summary>
-  Utah Teapot
+  .tv
 </details>
 
 
