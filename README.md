@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of music do mummy's like? Rap
+What do you call a boy who stopped digging holes? Douglas.
 
 
 ## Daily Trivia
 
-What is the domain name for the country Tuvalu?
- 1. .tl
- 2. .tv
- 3. .tt
- 4. .tu
+What is the name of the process that sends one qubit of information using two bits of classical information?
+ 1. Quantum Programming
+ 2. Quantum Teleportation
+ 3. Quantum Entanglement
+ 4. Super Dense Coding
 
 <details>
   <summary>Answer</summary>
-  .tv
+  Quantum Teleportation
 </details>
 
 
