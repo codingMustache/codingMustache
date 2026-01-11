@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I tried taking some high resolution photos of local farmland, but they all turned out a bit grainy.
+Why did Dracula lie in the wrong coffin? He made a grave mistake.
 
 
 ## Daily Trivia
 
-Which operating system was released first?
- 1. Linux
- 2. Mac OS
- 3. OS/2
- 4. Windows
+Who invented the &quot;Spanning Tree Protocol&quot;?
+ 1. Radia Perlman
+ 2. Paul Vixie
+ 3. Vint Cerf
+ 4. Michael Roberts
 
 <details>
   <summary>Answer</summary>
-  Mac OS
+  Radia Perlman
 </details>
 
 
