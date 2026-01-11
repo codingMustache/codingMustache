@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I asked a frenchman if he played video games. He said "Wii"
+Doctor you've got you help me, I'm addicted to twitter. Doctor: I don't follow you.
 
 
 ## Daily Trivia
 
-The C programming language was created by this American computer scientist. 
- 1. Dennis Ritchie
- 2. Willis Ware
- 3. al-Khwārizmī
- 4. Tim Berners Lee
+On Twitter, what was the original character limit for a Tweet?
+ 1. 140
+ 2. 100
+ 3. 160
+ 4. 120
 
 <details>
   <summary>Answer</summary>
-  Dennis Ritchie
+  140
 </details>
 
 
