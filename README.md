@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a boy who stopped digging holes? Douglas.
+I had a pair of racing snails. I removed their shells to make them more aerodynamic, but they became sluggish.
 
 
 ## Daily Trivia
 
-When did the online streaming service &quot;Mixer&quot; launch?
- 1. 2016
- 2. 2013
- 3. 2009
- 4. 2011
+What is the number of keys on a standard Windows Keyboard?
+ 1. 64
+ 2. 76
+ 3. 104
+ 4. 94
 
 <details>
   <summary>Answer</summary>
-  2016
+  104
 </details>
 
 
