@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a boy who stopped digging holes? Douglas.
+A police officer caught two kids playing with a firework and a car battery. He charged one and let the other one off.
 
 
 ## Daily Trivia
 
-What is the name of the process that sends one qubit of information using two bits of classical information?
- 1. Quantum Programming
- 2. Quantum Teleportation
- 3. Quantum Entanglement
- 4. Super Dense Coding
+What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
+ 1. Broadwell
+ 2. Coffee Lake
+ 3. Skylake
+ 4. Sandy Bridge
 
 <details>
   <summary>Answer</summary>
-  Quantum Teleportation
+  Coffee Lake
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **3 days** since this server shutdown
+Its been **** since this server shutdown
