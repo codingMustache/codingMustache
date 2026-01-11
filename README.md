@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Americans can't switch from pounds to kilograms overnight. That would cause mass confusion.
+Don't trust atoms. They make up everything.
 
 
 ## Daily Trivia
 
-What does GHz stand for?
- 1. Gigahatz
- 2. Gigahertz
- 3. Gigahetz
- 4. Gigahotz
+On Twitter, what was the original character limit for a Tweet?
+ 1. 160
+ 2. 100
+ 3. 120
+ 4. 140
 
 <details>
   <summary>Answer</summary>
-  Gigahertz
+  140
 </details>
 
 
