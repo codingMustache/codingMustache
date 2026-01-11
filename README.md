@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do nurses carry around red crayons? Sometimes they need to draw blood.
+What's red and bad for your teeth? A Brick.
 
 
 ## Daily Trivia
 
-Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
- 1. Four Years
- 2. Two Years
- 3. Eight Years
- 4. Year
+How long is an IPv6 address?
+ 1. 128 bits
+ 2. 128 bytes
+ 3. 64 bits
+ 4. 32 bits
 
 <details>
   <summary>Answer</summary>
-  Year
+  128 bits
 </details>
 
 
