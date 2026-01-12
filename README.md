@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is a witch's favorite subject in school? Spelling!
+Did you hear about the submarine industry? It really took a dive...
 
 
 ## Daily Trivia
 
-In programming, what do you call functions with the same name but different implementations?
- 1. Inheriting
- 2. Overriding
- 3. Abstracting
- 4. Overloading
+What was the name given to Android 4.3?
+ 1. Jelly Bean
+ 2. Lollipop
+ 3. Nutella
+ 4. Froyo
 
 <details>
   <summary>Answer</summary>
-  Overloading
+  Jelly Bean
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **** since this server shutdown
+Its been **1 days** since this server shutdown
