@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the two thieves who stole a calendar? They each got six months.
+Did you hear about the scientist who was lab partners with a pot of boiling water? He had a very esteemed colleague.
 
 
 ## Daily Trivia
 
-What does GHz stand for?
- 1. Gigahatz
- 2. Gigahotz
- 3. Gigahertz
- 4. Gigahetz
+All of the following programs are classified as raster graphics editors EXCEPT:
+ 1. Paint.NET
+ 2. Inkscape
+ 3. GIMP
+ 4. Adobe Photoshop
 
 <details>
   <summary>Answer</summary>
-  Gigahertz
+  Inkscape
 </details>
 
 
