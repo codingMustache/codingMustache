@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Two peanuts were walking down the street. One was a salted.
+What kind of award did the dentist receive? A little plaque.
 
 
 ## Daily Trivia
 
-.rs is the top-level domain for what country?
- 1. Serbia
- 2. Rwanda
- 3. Russia
- 4. Romania
+According to the International System of Units, how many bytes are in a kilobyte of RAM?
+ 1. 1000
+ 2. 500
+ 3. 1024
+ 4. 512
 
 <details>
   <summary>Answer</summary>
-  Serbia
+  1000
 </details>
 
 
