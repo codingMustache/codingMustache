@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Can I watch the TV? Dad: Yes, but don’t turn it on.
+What did the shy pebble wish for? That she was a little boulder.
 
 
 ## Daily Trivia
 
-What does &quot;LCD&quot; stand for?
- 1. Last Common Difference
- 2. Liquid Crystal Display
- 3. Language Control Design
- 4. Long Continuous Design
+Which kind of algorithm is Ron Rivest not famous for creating?
+ 1. Asymmetric encryption
+ 2. Stream cipher
+ 3. Hashing algorithm
+ 4. Secret sharing scheme
 
 <details>
   <summary>Answer</summary>
-  Liquid Crystal Display
+  Secret sharing scheme
 </details>
 
 
