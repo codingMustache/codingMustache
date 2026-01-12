@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a boomerang that won't come back? A stick.
+What happens to a frog's car when it breaks down? It gets toad.
 
 
 ## Daily Trivia
 
-Which computer hardware device provides an interface for all other connected devices to communicate?
- 1. Motherboard
- 2. Random Access Memory
- 3. Hard Disk Drive
- 4. Central Processing Unit
+What major programming language does Unreal Engine 4 use?
+ 1. C++
+ 2. Assembly
+ 3. C#
+ 4. ECMAScript
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  C++
 </details>
 
 
