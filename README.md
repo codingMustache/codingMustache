@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was the big cat disqualified from the race? Because it was a cheetah.
+It doesn't matter how much you push the envelope. It will still be stationary.
 
 
 ## Daily Trivia
 
-How many cores does the Intel i7-6950X have?
- 1. 10
- 2. 4
- 3. 8
- 4. 12
+Which computer language would you associate Django framework with?
+ 1. Java
+ 2. C++
+ 3. C#
+ 4. Python
 
 <details>
   <summary>Answer</summary>
-  10
+  Python
 </details>
 
 
