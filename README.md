@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the shy pebble wish for? That she was a little boulder.
+I finally bought the limited edition Thesaurus that I've always wanted. When I opened it, all the pages were blank.
+I have no words to describe how angry I am.
 
 
 ## Daily Trivia
 
-Which kind of algorithm is Ron Rivest not famous for creating?
- 1. Asymmetric encryption
- 2. Stream cipher
- 3. Hashing algorithm
- 4. Secret sharing scheme
+In programming, the ternary operator is mostly defined with what symbol(s)?
+ 1. ??
+ 2. if then
+ 3. ?
+ 4. ?:
 
 <details>
   <summary>Answer</summary>
-  Secret sharing scheme
+  ?:
 </details>
 
 
