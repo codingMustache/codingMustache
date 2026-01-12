@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I had a pair of racing snails. I removed their shells to make them more aerodynamic, but they became sluggish.
+I'm practicing for a bug-eating contest and I've got butterflies in my stomach.
 
 
 ## Daily Trivia
 
-What is the domain name for the country Tuvalu?
- 1. .tv
- 2. .tl
- 3. .tt
- 4. .tu
+While Apple was formed in California, in which western state was Microsoft founded?
+ 1. New Mexico
+ 2. Arizona
+ 3. Colorado
+ 4. Washington
 
 <details>
   <summary>Answer</summary>
-  .tv
+  New Mexico
 </details>
 
 
