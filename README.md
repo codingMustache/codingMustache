@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the worst thing about ancient history class? The teachers tend to Babylon.
+What kind of music do planets listen to? Nep-tunes.
 
 
 ## Daily Trivia
 
-What does the computer software acronym JVM stand for?
- 1. Java Vendor Machine
- 2. Java Virtual Machine
- 3. Java Visual Machine
- 4. Just Virtual Machine
+In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
+ 1. absolute
+ 2. relative
+ 3. center
+ 4. static
 
 <details>
   <summary>Answer</summary>
-  Java Virtual Machine
+  center
 </details>
 
 
