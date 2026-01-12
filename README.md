@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Atheism is a non-prophet organisation.
+I had a dream that I was a muffler last night. I woke up exhausted!
 
 
 ## Daily Trivia
 
-What programming language was GitHub written in?
- 1. JavaScript
- 2. Python
- 3. Lua
- 4. Ruby
+Dutch computer scientist Mark Overmars is known for creating which game development engine?
+ 1. Construct
+ 2. Game Maker
+ 3. Torque 2D
+ 4. Stencyl
 
 <details>
   <summary>Answer</summary>
-  Ruby
+  Game Maker
 </details>
 
 
