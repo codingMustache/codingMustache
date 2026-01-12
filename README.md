@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where does batman go to the bathroom? The batroom.
+What do you call a crowd of chess players bragging about their wins in a hotel lobby? Chess nuts boasting in an open foyer.
 
 
 ## Daily Trivia
 
-Which computer hardware device provides an interface for all other connected devices to communicate?
- 1. Motherboard
- 2. Central Processing Unit
- 3. Random Access Memory
- 4. Hard Disk Drive
+Which computer language would you associate Django framework with?
+ 1. C++
+ 2. Python
+ 3. Java
+ 4. C#
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  Python
 </details>
 
 
