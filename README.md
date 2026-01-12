@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's brown and sticky? A stick.
+what do you call a dog that can do magic tricks? a labracadabrador
 
 
 ## Daily Trivia
 
-What does the computer software acronym JVM stand for?
- 1. Java Vendor Machine
- 2. Java Visual Machine
- 3. Just Virtual Machine
- 4. Java Virtual Machine
+Nvidia&#039;s headquarters are based in which Silicon Valley city?
+ 1. Mountain View
+ 2. Cupertino
+ 3. Santa Clara
+ 4. Palo Alto
 
 <details>
   <summary>Answer</summary>
-  Java Virtual Machine
+  Santa Clara
 </details>
 
 
