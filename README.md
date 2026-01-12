@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Astronomers got tired watching the moon go around the earth for 24 hours. They decided to call it a day.
+Two peanuts were walking down the street. One was a salted.
 
 
 ## Daily Trivia
 
-In any programming language, what is the most common way to iterate through an array?
- 1. &#039;For&#039; loops
- 2. &#039;If&#039; Statements
- 3. &#039;Do-while&#039; loops
- 4. &#039;While&#039; loops
+.rs is the top-level domain for what country?
+ 1. Serbia
+ 2. Rwanda
+ 3. Russia
+ 4. Romania
 
 <details>
   <summary>Answer</summary>
-  &#039;For&#039; loops
+  Serbia
 </details>
 
 
