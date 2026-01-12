@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a careful wolf? Aware wolf.
+Why was the big cat disqualified from the race? Because it was a cheetah.
 
 
 ## Daily Trivia
 
-What was the first Android version specifically optimized for tablets?
- 1. Honeycomb
- 2. Eclair
- 3. Froyo
- 4. Marshmellow
+How many cores does the Intel i7-6950X have?
+ 1. 10
+ 2. 4
+ 3. 8
+ 4. 12
 
 <details>
   <summary>Answer</summary>
-  Honeycomb
+  10
 </details>
 
 
