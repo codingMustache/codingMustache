@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It's been months since I bought the book "how to scam people online". It still hasn't turned up.
+The rotation of earth really makes my day.
 
 
 ## Daily Trivia
 
-The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
- 1. United States
- 2. Taiwan
- 3. China (People&#039;s Republic of)
- 4. Germany
+What does AD stand for in relation to Windows Operating Systems? 
+ 1. Alternative Drive
+ 2. Automated Database
+ 3. Active Department
+ 4. Active Directory
 
 <details>
   <summary>Answer</summary>
-  Taiwan
+  Active Directory
 </details>
 
 
