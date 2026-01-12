@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-what do you call a dog that can do magic tricks? a labracadabrador
+What do you call cheese by itself? Provolone.
 
 
 ## Daily Trivia
 
-Nvidia&#039;s headquarters are based in which Silicon Valley city?
- 1. Mountain View
- 2. Cupertino
- 3. Santa Clara
- 4. Palo Alto
+What was Bitcoin&#039;s block size limit in 2010?
+ 1. 1 MB
+ 2. 1GB
+ 3. 1 KB
+ 4. 1 TB
 
 <details>
   <summary>Answer</summary>
-  Santa Clara
+  1 MB
 </details>
 
 
