@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What happens to a frog's car when it breaks down? It gets toad.
+Have you heard about the owl sanctuary job opening? It’s all night shifts but they’re all a hoot over there.
 
 
 ## Daily Trivia
 
-What major programming language does Unreal Engine 4 use?
- 1. C++
- 2. Assembly
- 3. C#
- 4. ECMAScript
+Which SQL keyword is used to fetch data from a database?
+ 1. SELECT
+ 2. VALUES
+ 3. INDEX
+ 4. EXEC
 
 <details>
   <summary>Answer</summary>
-  C++
+  SELECT
 </details>
 
 
