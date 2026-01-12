@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the scientist who was lab partners with a pot of boiling water? He had a very esteemed colleague.
+I thought my wife was joking when she said she'd leave me if I didn't stop signing "I'm A Believer"... Then I saw her face.
 
 
 ## Daily Trivia
 
-All of the following programs are classified as raster graphics editors EXCEPT:
- 1. Paint.NET
- 2. Inkscape
- 3. GIMP
- 4. Adobe Photoshop
+What does CPU stand for?
+ 1. Central Process Unit
+ 2. Central Processing Unit
+ 3. Computer Personal Unit
+ 4. Central Processor Unit
 
 <details>
   <summary>Answer</summary>
-  Inkscape
+  Central Processing Unit
 </details>
 
 
