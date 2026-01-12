@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do hens stay fit? They always egg-cercise!
+Atheism is a non-prophet organisation.
 
 
 ## Daily Trivia
 
-What amount of bits commonly equals one byte?
- 1. 8
- 2. 64
- 3. 2
- 4. 1
+What programming language was GitHub written in?
+ 1. JavaScript
+ 2. Python
+ 3. Lua
+ 4. Ruby
 
 <details>
   <summary>Answer</summary>
-  8
+  Ruby
 </details>
 
 
