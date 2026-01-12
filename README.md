@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a crowd of chess players bragging about their wins in a hotel lobby? Chess nuts boasting in an open foyer.
+Where does batman go to the bathroom? The batroom.
 
 
 ## Daily Trivia
 
-What is the name of the process that sends one qubit of information using two bits of classical information?
- 1. Super Dense Coding
- 2. Quantum Entanglement
- 3. Quantum Programming
- 4. Quantum Teleportation
+Which computer hardware device provides an interface for all other connected devices to communicate?
+ 1. Motherboard
+ 2. Central Processing Unit
+ 3. Random Access Memory
+ 4. Hard Disk Drive
 
 <details>
   <summary>Answer</summary>
-  Quantum Teleportation
+  Motherboard
 </details>
 
 
