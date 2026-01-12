@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It doesn't matter how much you push the envelope. It will still be stationary.
+What's black and white and read all over? The newspaper.
 
 
 ## Daily Trivia
 
-Which computer language would you associate Django framework with?
- 1. Java
- 2. C++
- 3. C#
- 4. Python
+How fast is USB 3.1 Gen 2 theoretically?
+ 1. 1 Gb/s
+ 2. 10 Gb/s
+ 3. 8 Gb/s
+ 4. 5 Gb/s
 
 <details>
   <summary>Answer</summary>
-  Python
+  10 Gb/s
 </details>
 
 
