@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I am so good at sleeping I can do it with my eyes closed!
+I remember when I was a kid, I opened my fridge and noticed one of my vegetables were crying. I guess I have some emotional cabbage.
 
 
 ## Daily Trivia
 
-Which of these programming languages is a low-level language?
- 1. Pascal
- 2. C#
- 3. Assembly
- 4. Python
+What does the term MIME stand for, in regards to computing?
+ 1. Multipurpose Interleave Mail Exchange
+ 2. Mail Interleave Method Exchange
+ 3. Mail Internet Mail Exchange
+ 4. Multipurpose Internet Mail Extensions
 
 <details>
   <summary>Answer</summary>
-  Assembly
+  Multipurpose Internet Mail Extensions
 </details>
 
 
