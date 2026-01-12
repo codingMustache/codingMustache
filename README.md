@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do vegetarian zombies eat? Grrrrrainnnnnssss.
+How does a scientist freshen their breath? With experi-mints!
 
 
 ## Daily Trivia
 
-What was the first Android version specifically optimized for tablets?
- 1. Honeycomb
- 2. Marshmellow
- 3. Froyo
- 4. Eclair
+What was the name given to Android 4.3?
+ 1. Jelly Bean
+ 2. Nutella
+ 3. Lollipop
+ 4. Froyo
 
 <details>
   <summary>Answer</summary>
-  Honeycomb
+  Jelly Bean
 </details>
 
 
