@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was ten scared of seven? Because seven ate nine.
+Did you hear about the two thieves who stole a calendar? They each got six months.
 
 
 ## Daily Trivia
 
-How long is an IPv6 address?
- 1. 64 bits
- 2. 32 bits
- 3. 128 bits
- 4. 128 bytes
+What does GHz stand for?
+ 1. Gigahatz
+ 2. Gigahotz
+ 3. Gigahertz
+ 4. Gigahetz
 
 <details>
   <summary>Answer</summary>
-  128 bits
+  Gigahertz
 </details>
 
 
