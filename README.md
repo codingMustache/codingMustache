@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I remember when I was a kid, I opened my fridge and noticed one of my vegetables were crying. I guess I have some emotional cabbage.
+"Dad, I'm cold."
+"Go stand in the corner, I hear it's 90 degrees."
 
 
 ## Daily Trivia
 
-What does the term MIME stand for, in regards to computing?
- 1. Multipurpose Interleave Mail Exchange
- 2. Mail Interleave Method Exchange
- 3. Mail Internet Mail Exchange
- 4. Multipurpose Internet Mail Extensions
+This mobile OS held the largest market share in 2012.
+ 1. Android
+ 2. BlackBerry
+ 3. iOS
+ 4. Symbian
 
 <details>
   <summary>Answer</summary>
-  Multipurpose Internet Mail Extensions
+  iOS
 </details>
 
 
