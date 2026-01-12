@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the submarine industry? It really took a dive...
+How does a penguin build it’s house? Igloos it together.
 
 
 ## Daily Trivia
 
-What was the name given to Android 4.3?
- 1. Jelly Bean
- 2. Lollipop
- 3. Nutella
- 4. Froyo
+What does the &#039;S&#039; in the RSA encryption algorithm stand for?
+ 1. Secure
+ 2. Schottky
+ 3. Stable
+ 4. Shamir
 
 <details>
   <summary>Answer</summary>
-  Jelly Bean
+  Shamir
 </details>
 
 
