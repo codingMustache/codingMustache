@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call cheese by itself? Provolone.
+I am so good at sleeping I can do it with my eyes closed!
 
 
 ## Daily Trivia
 
-What was Bitcoin&#039;s block size limit in 2010?
- 1. 1 MB
- 2. 1GB
- 3. 1 KB
- 4. 1 TB
+Which of these programming languages is a low-level language?
+ 1. Pascal
+ 2. C#
+ 3. Assembly
+ 4. Python
 
 <details>
   <summary>Answer</summary>
-  1 MB
+  Assembly
 </details>
 
 
