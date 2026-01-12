@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-"I'm sorry." "Hi sorry, I'm dad"
+What is a witch's favorite subject in school? Spelling!
 
 
 ## Daily Trivia
 
-In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
- 1. printf(&quot;Hello World&quot;)
- 2. echo &quot;Hello World&quot;
- 3. print(&quot;Hello World&quot;)
- 4. console.log(&quot;Hello World&quot;)
+In programming, what do you call functions with the same name but different implementations?
+ 1. Inheriting
+ 2. Overriding
+ 3. Abstracting
+ 4. Overloading
 
 <details>
   <summary>Answer</summary>
-  print(&quot;Hello World&quot;)
+  Overloading
 </details>
 
 
