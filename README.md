@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The rotation of earth really makes my day.
+What do you get when you cross a chicken with a skunk? A fowl smell!
 
 
 ## Daily Trivia
 
-What does AD stand for in relation to Windows Operating Systems? 
- 1. Alternative Drive
- 2. Automated Database
- 3. Active Department
- 4. Active Directory
+What does &quot;LCD&quot; stand for?
+ 1. Liquid Crystal Display
+ 2. Last Common Difference
+ 3. Language Control Design
+ 4. Long Continuous Design
 
 <details>
   <summary>Answer</summary>
-  Active Directory
+  Liquid Crystal Display
 </details>
 
 
