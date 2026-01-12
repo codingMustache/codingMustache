@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How does a scientist freshen their breath? With experi-mints!
+Why was ten scared of seven? Because seven ate nine.
 
 
 ## Daily Trivia
 
-What was the name given to Android 4.3?
- 1. Jelly Bean
- 2. Nutella
- 3. Lollipop
- 4. Froyo
+How long is an IPv6 address?
+ 1. 64 bits
+ 2. 32 bits
+ 3. 128 bits
+ 4. 128 bytes
 
 <details>
   <summary>Answer</summary>
-  Jelly Bean
+  128 bits
 </details>
 
 
