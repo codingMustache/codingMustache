@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I had a dream that I was a muffler last night. I woke up exhausted!
+What's the worst thing about ancient history class? The teachers tend to Babylon.
 
 
 ## Daily Trivia
 
-Dutch computer scientist Mark Overmars is known for creating which game development engine?
- 1. Construct
- 2. Game Maker
- 3. Torque 2D
- 4. Stencyl
+What does the computer software acronym JVM stand for?
+ 1. Java Vendor Machine
+ 2. Java Virtual Machine
+ 3. Java Visual Machine
+ 4. Just Virtual Machine
 
 <details>
   <summary>Answer</summary>
-  Game Maker
+  Java Virtual Machine
 </details>
 
 
