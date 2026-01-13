@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear the one about the giant pickle?  He was kind of a big dill.
+How does a penguin build it’s house? Igloos it together.
 
 
 ## Daily Trivia
 
-Whistler was the codename of this Microsoft Operating System.
- 1. Windows 2000
- 2. Windows XP
- 3. Windows 7
- 4. Windows 95
+Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
+ 1. Shellshock
+ 2. Heartbleed
+ 3. Corrupted Blood
+ 4. Shellscript
 
 <details>
   <summary>Answer</summary>
-  Windows XP
+  Heartbleed
 </details>
 
 
