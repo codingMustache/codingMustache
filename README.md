@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the ocean say to the beach? Thanks for all the sediment.
+I've got a joke about vegetables for you... but it's a bit corny.
 
 
 ## Daily Trivia
 
-The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
- 1. Sinclair Research
- 2. Amstrad PLC
- 3. Acorn Computers
- 4. Commodore Business Machines
+The name of technology company HP stands for what?
+ 1. Husker-Pollosk
+ 2. Howard Packmann
+ 3. Hewlett-Packard
+ 4. Hellman-Pohl
 
 <details>
   <summary>Answer</summary>
-  Acorn Computers
+  Hewlett-Packard
 </details>
 
 
