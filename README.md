@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are fish so smart? Because they live in schools!
+My boss told me that he was going to fire the person with the worst posture. I have a hunch, it might be me.
 
 
 ## Daily Trivia
 
-What does CPU stand for?
- 1. Central Processing Unit
- 2. Central Processor Unit
- 3. Computer Personal Unit
- 4. Central Process Unit
+HTML is what type of language?
+ 1. Macro Language
+ 2. Programming Language
+ 3. Scripting Language
+ 4. Markup Language
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  Markup Language
 </details>
 
 
