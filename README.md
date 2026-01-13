@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to work in a shoe recycling shop. It was sole destroying.
+What do prisoners use to call each other? Cell phones.
 
 
 ## Daily Trivia
 
-What does &quot;LCD&quot; stand for?
- 1. Liquid Crystal Display
- 2. Long Continuous Design
- 3. Last Common Difference
- 4. Language Control Design
+The acronym &quot;RIP&quot; stands for which of these?
+ 1. Routing Information Protocol
+ 2. Routine Inspection Protocol
+ 3. Regular Interval Processes
+ 4. Runtime Instance Processes
 
 <details>
   <summary>Answer</summary>
-  Liquid Crystal Display
+  Routing Information Protocol
 </details>
 
 
