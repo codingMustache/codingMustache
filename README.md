@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are giraffes so slow to apologize? Because it takes them a long time to swallow their pride.
+What's a ninja's favorite type of shoes? Sneakers!
 
 
 ## Daily Trivia
 
-What does the computer software acronym JVM stand for?
- 1. Java Virtual Machine
- 2. Java Visual Machine
- 3. Java Vendor Machine
- 4. Just Virtual Machine
+What does the &#039;S&#039; in the RSA encryption algorithm stand for?
+ 1. Schottky
+ 2. Secure
+ 3. Shamir
+ 4. Stable
 
 <details>
   <summary>Answer</summary>
-  Java Virtual Machine
+  Shamir
 </details>
 
 
