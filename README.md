@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the Dorito farmer say to the other Dorito farmer? Cool Ranch!
+Why don't eggs tell jokes? They'd crack each other up
 
 
 ## Daily Trivia
 
-How long is an IPv6 address?
- 1. 32 bits
- 2. 64 bits
- 3. 128 bytes
- 4. 128 bits
+In computing, what does LAN stand for?
+ 1. Long Antenna Node
+ 2. Light Access Node
+ 3. Local Area Network
+ 4. Land Address Navigation
 
 <details>
   <summary>Answer</summary>
-  128 bits
+  Local Area Network
 </details>
 
 
