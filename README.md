@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the sea say to the sand? "We have to stop meeting like this."
+I used to work in a shoe recycling shop. It was sole destroying.
 
 
 ## Daily Trivia
 
-Nvidia&#039;s headquarters are based in which Silicon Valley city?
- 1. Mountain View
- 2. Cupertino
- 3. Palo Alto
- 4. Santa Clara
+What does &quot;LCD&quot; stand for?
+ 1. Liquid Crystal Display
+ 2. Long Continuous Design
+ 3. Last Common Difference
+ 4. Language Control Design
 
 <details>
   <summary>Answer</summary>
-  Santa Clara
+  Liquid Crystal Display
 </details>
 
 
