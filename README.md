@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It's only a murder of crows if there's probable caws.
+Why are giraffes so slow to apologize? Because it takes them a long time to swallow their pride.
 
 
 ## Daily Trivia
 
-Which operating system was released first?
- 1. Windows
- 2. Linux
- 3. OS/2
- 4. Mac OS
+What does the computer software acronym JVM stand for?
+ 1. Java Virtual Machine
+ 2. Java Visual Machine
+ 3. Java Vendor Machine
+ 4. Just Virtual Machine
 
 <details>
   <summary>Answer</summary>
-  Mac OS
+  Java Virtual Machine
 </details>
 
 
