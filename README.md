@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I've started telling everyone about the benefits of eating dried grapes. It's all about raisin awareness.
+I used to be a banker, but I lost interest.
 
 
 ## Daily Trivia
 
-How many kilobytes in one gigabyte (in decimal)?
- 1. 1000000
- 2. 1000
- 3. 1048576
- 4. 1024
+How fast is USB 3.1 Gen 2 theoretically?
+ 1. 10 Gb/s
+ 2. 1 Gb/s
+ 3. 8 Gb/s
+ 4. 5 Gb/s
 
 <details>
   <summary>Answer</summary>
-  1000000
+  10 Gb/s
 </details>
 
 
