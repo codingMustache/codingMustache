@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I made a belt out of watches once... It was a waist of time.
+What do Alexander the Great and Winnie the Pooh have in common? Same middle name.
 
 
 ## Daily Trivia
 
-Which RAID array type is associated with data mirroring?
- 1. RAID 1
- 2. RAID 5
- 3. RAID 10
- 4. RAID 0
+Which of the following physical typologies are used with Ethernet Networks?
+ 1. Star
+ 2. Hex
+ 3. Mesh
+ 4. Ring
 
 <details>
   <summary>Answer</summary>
-  RAID 1
+  Star
 </details>
 
 
