@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I'm practicing for a bug-eating contest and I've got butterflies in my stomach.
+What did the doctor say to the gingerbread man who broke his leg? Try icing it.
 
 
 ## Daily Trivia
 
-Which of these programming languages is a low-level language?
- 1. Assembly
- 2. Pascal
- 3. C#
- 4. Python
+.rs is the top-level domain for what country?
+ 1. Russia
+ 2. Romania
+ 3. Serbia
+ 4. Rwanda
 
 <details>
   <summary>Answer</summary>
-  Assembly
+  Serbia
 </details>
 
 
