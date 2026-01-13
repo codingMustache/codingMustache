@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a droid that takes the long way around? R2 detour.
+Where does Napoleon keep his armies? In his sleevies.
 
 
 ## Daily Trivia
 
-How many Hz does the video standard PAL support?
- 1. 59
- 2. 60
- 3. 50
- 4. 25
+What language does Node.js use?
+ 1. Java
+ 2. Java Source
+ 3. JavaScript
+ 4. Joomla Source Code
 
 <details>
   <summary>Answer</summary>
-  50
+  JavaScript
 </details>
 
 
