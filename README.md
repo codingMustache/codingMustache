@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the late tomato say to the early tomato? I’ll ketch up
+What do you call a troublesome Canadian high schooler? A poutine.
 
 
 ## Daily Trivia
 
-What does &quot;LCD&quot; stand for?
- 1. Language Control Design
- 2. Last Common Difference
- 3. Long Continuous Design
- 4. Liquid Crystal Display
+In programming, what do you call functions with the same name but different implementations?
+ 1. Overriding
+ 2. Abstracting
+ 3. Inheriting
+ 4. Overloading
 
 <details>
   <summary>Answer</summary>
-  Liquid Crystal Display
+  Overloading
 </details>
 
 
