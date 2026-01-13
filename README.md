@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I dreamed about drowning in an ocean made out of orange soda last night. It took me a while to work out it was just a Fanta sea.
+I was wondering why the frisbee was getting bigger, then it hit me.
 
 
 ## Daily Trivia
 
-The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
- 1. Taiwan
- 2. China (People&#039;s Republic of)
- 3. Germany
- 4. United States
+This mobile OS held the largest market share in 2012.
+ 1. iOS
+ 2. Symbian
+ 3. BlackBerry
+ 4. Android
 
 <details>
   <summary>Answer</summary>
-  Taiwan
+  iOS
 </details>
 
 
