@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How does a scientist freshen their breath? With experi-mints!
+What is a vampire's favorite fruit? A blood orange.
 
 
 ## Daily Trivia
 
-The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
- 1. HD Graphics 7000
- 2. HD Graphics 600
- 3. HD Graphics 500
- 4. HD Graphics 700 
+What five letter word is the motto of the IBM Computer company?
+ 1. Click
+ 2. Logic
+ 3. Think
+ 4. Pixel
 
 <details>
   <summary>Answer</summary>
-  HD Graphics 500
+  Think
 </details>
 
 
