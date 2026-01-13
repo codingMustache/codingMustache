@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Americans can't switch from pounds to kilograms overnight. That would cause mass confusion.
+Why did the tree go to the dentist? It needed a root canal.
 
 
 ## Daily Trivia
 
-How many values can a single byte represent?
- 1. 8
- 2. 256
- 3. 1
- 4. 1024
+Lenovo acquired IBM&#039;s personal computer division, including the ThinkPad line of laptops and tablets, in what year?
+ 1. 2008
+ 2. 2002
+ 3. 1999
+ 4. 2005
 
 <details>
   <summary>Answer</summary>
-  256
+  2005
 </details>
 
 
