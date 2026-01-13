@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do Alexander the Great and Winnie the Pooh have in common? Same middle name.
+A boy dug three holes in the yard. When his mother saw, she exclaimed: "well, well, well"
 
 
 ## Daily Trivia
 
-Which of the following physical typologies are used with Ethernet Networks?
- 1. Star
- 2. Hex
- 3. Mesh
- 4. Ring
+Which of these programming languages is a low-level language?
+ 1. Python
+ 2. C#
+ 3. Pascal
+ 4. Assembly
 
 <details>
   <summary>Answer</summary>
-  Star
+  Assembly
 </details>
 
 
