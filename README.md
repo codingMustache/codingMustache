@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A boy dug three holes in the yard. When his mother saw, she exclaimed: "well, well, well"
+Parallel lines have so much in common. It’s a shame they’ll never meet.
 
 
 ## Daily Trivia
 
-Which of these programming languages is a low-level language?
- 1. Python
- 2. C#
- 3. Pascal
- 4. Assembly
+In networking, what does OSPF stand for?
+ 1. Open Shortest Path First
+ 2. Open Signal Path Finder
+ 3. Order Sense Ping Find
+ 4. Order State Part First
 
 <details>
   <summary>Answer</summary>
-  Assembly
+  Open Shortest Path First
 </details>
 
 
