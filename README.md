@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I've got a joke about vegetables for you... but it's a bit corny.
+What did the sea say to the sand? "We have to stop meeting like this."
 
 
 ## Daily Trivia
 
-The name of technology company HP stands for what?
- 1. Husker-Pollosk
- 2. Howard Packmann
- 3. Hewlett-Packard
- 4. Hellman-Pohl
+Nvidia&#039;s headquarters are based in which Silicon Valley city?
+ 1. Mountain View
+ 2. Cupertino
+ 3. Palo Alto
+ 4. Santa Clara
 
 <details>
   <summary>Answer</summary>
-  Hewlett-Packard
+  Santa Clara
 </details>
 
 
