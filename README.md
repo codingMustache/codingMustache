@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Slept like a log last night … woke up in the fireplace.
+Why are fish so smart? Because they live in schools!
 
 
 ## Daily Trivia
 
-In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
- 1. echo &quot;Hello World&quot;
- 2. console.log(&quot;Hello World&quot;)
- 3. print(&quot;Hello World&quot;)
- 4. printf(&quot;Hello World&quot;)
+What does CPU stand for?
+ 1. Central Processing Unit
+ 2. Central Processor Unit
+ 3. Computer Personal Unit
+ 4. Central Process Unit
 
 <details>
   <summary>Answer</summary>
-  print(&quot;Hello World&quot;)
+  Central Processing Unit
 </details>
 
 
