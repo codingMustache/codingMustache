@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is a vampire's favorite fruit? A blood orange.
+Americans can't switch from pounds to kilograms overnight. That would cause mass confusion.
 
 
 ## Daily Trivia
 
-What five letter word is the motto of the IBM Computer company?
- 1. Click
- 2. Logic
- 3. Think
- 4. Pixel
+How many values can a single byte represent?
+ 1. 8
+ 2. 256
+ 3. 1
+ 4. 1024
 
 <details>
   <summary>Answer</summary>
-  Think
+  256
 </details>
 
 
