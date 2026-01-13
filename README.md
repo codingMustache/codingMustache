@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where does Napoleon keep his armies? In his sleevies.
+I tried to milk a cow today, but was unsuccessful. Udder failure.
 
 
 ## Daily Trivia
 
-What language does Node.js use?
- 1. Java
- 2. Java Source
- 3. JavaScript
- 4. Joomla Source Code
+On which computer hardware device is the BIOS chip located?
+ 1. Motherboard
+ 2. Hard Disk Drive
+ 3. Graphics Processing Unit
+ 4. Central Processing Unit
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  Motherboard
 </details>
 
 
