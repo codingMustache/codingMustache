@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do you learn to make banana splits? At sundae school.
+How do the trees get on the internet? They log on.
 
 
 ## Daily Trivia
 
-What does the acronym CDN stand for in terms of networking?
- 1. Content Delivery Network
- 2. Compressed Data Network
- 3. Computational Data Network
- 4. Content Distribution Network
+What is the most preferred image format used for logos in the Wikimedia database?
+ 1. .svg
+ 2. .gif
+ 3. .jpeg
+ 4. .png
 
 <details>
   <summary>Answer</summary>
-  Content Delivery Network
+  .svg
 </details>
 
 
