@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Parallel lines have so much in common. It’s a shame they’ll never meet.
+Why does Waldo only wear stripes? Because he doesn't want to be spotted.
 
 
 ## Daily Trivia
 
-In networking, what does OSPF stand for?
- 1. Open Shortest Path First
- 2. Open Signal Path Finder
- 3. Order Sense Ping Find
- 4. Order State Part First
+What does the term GPU stand for?
+ 1. Graphite Producing Unit
+ 2. Graphics Processing Unit
+ 3. Gaming Processor Unit
+ 4. Graphical Proprietary Unit
 
 <details>
   <summary>Answer</summary>
-  Open Shortest Path First
+  Graphics Processing Unit
 </details>
 
 
