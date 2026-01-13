@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why does Waldo only wear stripes? Because he doesn't want to be spotted.
+What do you call a group of killer whales playing instruments? An Orca-stra.
 
 
 ## Daily Trivia
 
-What does the term GPU stand for?
- 1. Graphite Producing Unit
- 2. Graphics Processing Unit
- 3. Gaming Processor Unit
- 4. Graphical Proprietary Unit
+What five letter word is the motto of the IBM Computer company?
+ 1. Think
+ 2. Pixel
+ 3. Logic
+ 4. Click
 
 <details>
   <summary>Answer</summary>
-  Graphics Processing Unit
+  Think
 </details>
 
 
