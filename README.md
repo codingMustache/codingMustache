@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I made a playlist for hiking. It has music from Peanuts, The Cranberries, and Eminem. I call it my Trail Mix.
+When does a joke become a dad joke? When it becomes apparent.
 
 
 ## Daily Trivia
 
-America Online (AOL) started out as which of these online service providers?
- 1. GEnie
- 2. Quantum Link
- 3. Prodigy
- 4. CompuServe
+Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
+ 1. Clipper Chip
+ 2. Nautilus
+ 3. Skipjack
+ 4. Enigma Machine
 
 <details>
   <summary>Answer</summary>
-  Quantum Link
+  Clipper Chip
 </details>
 
 
