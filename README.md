@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I once lost a banana at court but then I appealed. 
+Why are ghosts bad liars? Because you can see right through them!
 
 
 ## Daily Trivia
 
-What was the name given to Android 4.3?
- 1. Froyo
- 2. Lollipop
- 3. Jelly Bean
- 4. Nutella
+What is the name of the default theme that is installed with Windows XP?
+ 1. Bliss
+ 2. Whistler
+ 3. Luna
+ 4. Neptune
 
 <details>
   <summary>Answer</summary>
-  Jelly Bean
+  Luna
 </details>
 
 
