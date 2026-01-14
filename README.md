@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of magic do cows believe in? MOODOO.
+A quick shoutout to all of the sidewalks out there... Thanks for keeping me off the streets.
 
 
 ## Daily Trivia
 
-What internet protocol was documented in RFC 1459?
- 1. IRC
- 2. FTP
- 3. HTTPS
- 4. HTTP
+How many bits make up the significand portion of a single precision floating point number?
+ 1. 15
+ 2. 53
+ 3. 23
+ 4. 8
 
 <details>
   <summary>Answer</summary>
-  IRC
+  23
 </details>
 
 
