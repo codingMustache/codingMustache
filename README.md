@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the barber win the race? He took a short cut.
+I've started telling everyone about the benefits of eating dried grapes. It's all about raisin awareness.
 
 
 ## Daily Trivia
 
-What is the domain name for the country Tuvalu?
- 1. .tu
- 2. .tt
- 3. .tl
- 4. .tv
+According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:
+ 1. AB&#039; + AB
+ 2. A&#039;B + B&#039;A
+ 3. A&#039;B&#039;
+ 4. A&#039; + B&#039;
 
 <details>
   <summary>Answer</summary>
-  .tv
+  A&#039; + B&#039;
 </details>
 
 
