@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-"Dad, I'm cold."
-"Go stand in the corner, I hear it's 90 degrees."
+To be Frank, I'd have to change my name.
 
 
 ## Daily Trivia
 
-The name of technology company HP stands for what?
- 1. Hellman-Pohl
- 2. Hewlett-Packard
- 3. Husker-Pollosk
- 4. Howard Packmann
+.at is the top-level domain for what country?
+ 1. Argentina
+ 2. Angola
+ 3. Australia
+ 4. Austria
 
 <details>
   <summary>Answer</summary>
-  Hewlett-Packard
+  Austria
 </details>
 
 
