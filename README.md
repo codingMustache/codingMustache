@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why does Han Solo like gum? It's chewy!
+What does a female snake use for support? A co-Bra!
 
 
 ## Daily Trivia
 
-How many cores does the Intel i7-6950X have?
- 1. 12
- 2. 8
- 3. 10
- 4. 4
+How many Hz does the video standard PAL support?
+ 1. 60
+ 2. 50
+ 3. 59
+ 4. 25
 
 <details>
   <summary>Answer</summary>
-  10
+  50
 </details>
 
 
