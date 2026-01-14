@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do fish live in salt water? Because pepper makes them sneeze!
+What kind of magic do cows believe in? MOODOO.
 
 
 ## Daily Trivia
 
-The Harvard architecture for micro-controllers added which additional bus?
- 1. Instruction
- 2. Control
- 3. Data
- 4. Address
+What internet protocol was documented in RFC 1459?
+ 1. IRC
+ 2. FTP
+ 3. HTTPS
+ 4. HTTP
 
 <details>
   <summary>Answer</summary>
-  Instruction
+  IRC
 </details>
 
 
