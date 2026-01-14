@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I tried to milk a cow today, but was unsuccessful. Udder failure.
+As I suspected, someone has been adding soil to my garden. The plot thickens.
 
 
 ## Daily Trivia
 
-On which computer hardware device is the BIOS chip located?
- 1. Motherboard
- 2. Hard Disk Drive
- 3. Graphics Processing Unit
- 4. Central Processing Unit
+How many cores does the Intel i7-6950X have?
+ 1. 8
+ 2. 12
+ 3. 10
+ 4. 4
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  10
 </details>
 
 
