@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do bananas have to put on sunscreen before they go to the beach? Because they might peel!
+How do you get two whales in a car? Start in England and drive West.
 
 
 ## Daily Trivia
 
-In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
- 1. echo &quot;Hello World&quot;
- 2. console.log(&quot;Hello World&quot;)
- 3. print(&quot;Hello World&quot;)
- 4. printf(&quot;Hello World&quot;)
+.rs is the top-level domain for what country?
+ 1. Serbia
+ 2. Romania
+ 3. Russia
+ 4. Rwanda
 
 <details>
   <summary>Answer</summary>
-  print(&quot;Hello World&quot;)
+  Serbia
 </details>
 
 
