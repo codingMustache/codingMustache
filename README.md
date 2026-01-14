@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you make holy water? You boil the hell out of it.
+I wanted to be a tailor but I didn't suit the job
 
 
 ## Daily Trivia
 
-On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
- 1. Asterisk
- 2. Dollar Sign
- 3. Exclamation Mark
- 4. Percent Sign
+What does the computer software acronym JVM stand for?
+ 1. Just Virtual Machine
+ 2. Java Visual Machine
+ 3. Java Virtual Machine
+ 4. Java Vendor Machine
 
 <details>
   <summary>Answer</summary>
-  Exclamation Mark
+  Java Virtual Machine
 </details>
 
 
