@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Have you heard about the owl sanctuary job opening? It’s all night shifts but they’re all a hoot over there.
+Why did the feline fail the lie detector test? Because he be lion.
 
 
 ## Daily Trivia
 
-What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
- 1. ADPCM Sampler
- 2. PCM Sampler
- 3. Programmable Sound Generator (PSG)
- 4. FM Synthesizer
+How fast is USB 3.1 Gen 2 theoretically?
+ 1. 8 Gb/s
+ 2. 5 Gb/s
+ 3. 10 Gb/s
+ 4. 1 Gb/s
 
 <details>
   <summary>Answer</summary>
-  ADPCM Sampler
+  10 Gb/s
 </details>
 
 
