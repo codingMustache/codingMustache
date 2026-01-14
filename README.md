@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Hear about the new restaurant called Karma? There’s no menu: You get what you deserve.
+Why does Han Solo like gum? It's chewy!
 
 
 ## Daily Trivia
 
-Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
- 1. Clipper Chip
- 2. Nautilus
- 3. Skipjack
- 4. Enigma Machine
+How many cores does the Intel i7-6950X have?
+ 1. 12
+ 2. 8
+ 3. 10
+ 4. 4
 
 <details>
   <summary>Answer</summary>
-  Clipper Chip
+  10
 </details>
 
 
