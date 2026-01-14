@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I've started telling everyone about the benefits of eating dried grapes. It's all about raisin awareness.
+Did you hear about the runner who was criticized? He just took it in stride
 
 
 ## Daily Trivia
 
-According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:
- 1. AB&#039; + AB
- 2. A&#039;B + B&#039;A
- 3. A&#039;B&#039;
- 4. A&#039; + B&#039;
+America Online (AOL) started out as which of these online service providers?
+ 1. CompuServe
+ 2. Prodigy
+ 3. GEnie
+ 4. Quantum Link
 
 <details>
   <summary>Answer</summary>
-  A&#039; + B&#039;
+  Quantum Link
 </details>
 
 
