@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why couldn't the kid see the pirate movie? Because it was rated arrr!
+Why was the broom late for the meeting? He overswept.
 
 
 ## Daily Trivia
 
-What does LTS stand for in the software market?
- 1. Long Term Support
- 2. Ludicrous Turbo Speed
- 3. Ludicrous Transfer Speed
- 4. Long Taco Service
+What is the most preferred image format used for logos in the Wikimedia database?
+ 1. .gif
+ 2. .svg
+ 3. .jpeg
+ 4. .png
 
 <details>
   <summary>Answer</summary>
-  Long Term Support
+  .svg
 </details>
 
 
