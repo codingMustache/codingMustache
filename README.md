@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are ghosts bad liars? Because you can see right through them!
+How do you make a water bed more bouncy. You use Spring Water
 
 
 ## Daily Trivia
 
-What is the name of the default theme that is installed with Windows XP?
- 1. Bliss
- 2. Whistler
- 3. Luna
- 4. Neptune
+What is the main CPU is the Sega Mega Drive / Sega Genesis?
+ 1. Zilog Z80
+ 2. Motorola 68000
+ 3. Yamaha YM2612
+ 4. Intel 8088
 
 <details>
   <summary>Answer</summary>
-  Luna
+  Motorola 68000
 </details>
 
 
