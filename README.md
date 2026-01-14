@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It was so cold yesterday my computer froze. My own fault though, I left too many windows open.
+"Dad, I'm cold."
+"Go stand in the corner, I hear it's 90 degrees."
 
 
 ## Daily Trivia
 
-Which of the following is NOT a computer science algorithm?
- 1. Float Sort
- 2. Quick Sort
- 3. Bubble Sort
- 4. Merge Sort
+The name of technology company HP stands for what?
+ 1. Hellman-Pohl
+ 2. Hewlett-Packard
+ 3. Husker-Pollosk
+ 4. Howard Packmann
 
 <details>
   <summary>Answer</summary>
-  Float Sort
+  Hewlett-Packard
 </details>
 
 
