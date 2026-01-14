@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I wanted to be a tailor but I didn't suit the job
+I’m on a whiskey diet. I’ve lost three days already.
 
 
 ## Daily Trivia
 
-What does the computer software acronym JVM stand for?
- 1. Just Virtual Machine
- 2. Java Visual Machine
- 3. Java Virtual Machine
- 4. Java Vendor Machine
+Which of these names was an actual codename for a cancelled Microsoft project?
+ 1. Neptune
+ 2. Saturn
+ 3. Pollux
+ 4. Enceladus
 
 <details>
   <summary>Answer</summary>
-  Java Virtual Machine
+  Neptune
 </details>
 
 
