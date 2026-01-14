@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A quick shoutout to all of the sidewalks out there... Thanks for keeping me off the streets.
+I once lost a banana at court but then I appealed. 
 
 
 ## Daily Trivia
 
-How many bits make up the significand portion of a single precision floating point number?
- 1. 15
- 2. 53
- 3. 23
- 4. 8
+What was the name given to Android 4.3?
+ 1. Froyo
+ 2. Lollipop
+ 3. Jelly Bean
+ 4. Nutella
 
 <details>
   <summary>Answer</summary>
-  23
+  Jelly Bean
 </details>
 
 
