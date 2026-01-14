@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why can't your nose be 12 inches long? Because then it'd be a foot!
+What do you call a pig with three eyes? Piiig
 
 
 ## Daily Trivia
 
-What does the computer software acronym JVM stand for?
- 1. Just Virtual Machine
- 2. Java Vendor Machine
- 3. Java Visual Machine
- 4. Java Virtual Machine
+In programming, the ternary operator is mostly defined with what symbol(s)?
+ 1. if then
+ 2. ?:
+ 3. ??
+ 4. ?
 
 <details>
   <summary>Answer</summary>
-  Java Virtual Machine
+  ?:
 </details>
 
 
