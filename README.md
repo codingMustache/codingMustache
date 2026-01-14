@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What does a female snake use for support? A co-Bra!
+It was so cold yesterday my computer froze. My own fault though, I left too many windows open.
 
 
 ## Daily Trivia
 
-How many Hz does the video standard PAL support?
- 1. 60
- 2. 50
- 3. 59
- 4. 25
+Which of the following is NOT a computer science algorithm?
+ 1. Float Sort
+ 2. Quick Sort
+ 3. Bubble Sort
+ 4. Merge Sort
 
 <details>
   <summary>Answer</summary>
-  50
+  Float Sort
 </details>
 
 
