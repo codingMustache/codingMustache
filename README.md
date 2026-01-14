@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I knew a guy who collected candy canes, they were all in mint condition
+What do you call a pile of cats?  A Meowtain.
 
 
 ## Daily Trivia
 
-This mobile OS held the largest market share in 2012.
- 1. iOS
- 2. Android
- 3. BlackBerry
- 4. Symbian
+Which of the following is NOT a computer science algorithm?
+ 1. Bubble Sort
+ 2. Merge Sort
+ 3. Quick Sort
+ 4. Float Sort
 
 <details>
   <summary>Answer</summary>
-  iOS
+  Float Sort
 </details>
 
 
