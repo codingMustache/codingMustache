@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Can I watch the TV? Dad: Yes, but don’t turn it on.
+Why did the teddy bear say “no” to dessert? Because she was stuffed.
 
 
 ## Daily Trivia
 
-Who invented the &quot;Spanning Tree Protocol&quot;?
- 1. Michael Roberts
- 2. Vint Cerf
- 3. Radia Perlman
- 4. Paul Vixie
+HTML is what type of language?
+ 1. Macro Language
+ 2. Programming Language
+ 3. Scripting Language
+ 4. Markup Language
 
 <details>
   <summary>Answer</summary>
-  Radia Perlman
+  Markup Language
 </details>
 
 
