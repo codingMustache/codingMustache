@@ -4,20 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's red and bad for your teeth? A Brick.
+I used to work at a stationery store.  But, I didn't feel like I was going anywhere.
+
+So, I got a job at a travel agency.  Now, I know I'll be going places.
 
 
 ## Daily Trivia
 
-What programming language was GitHub written in?
- 1. Python
- 2. JavaScript
- 3. Lua
- 4. Ruby
+What port does HTTP run on?
+ 1. 53
+ 2. 443
+ 3. 23
+ 4. 80
 
 <details>
   <summary>Answer</summary>
-  Ruby
+  80
 </details>
 
 
