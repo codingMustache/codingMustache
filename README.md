@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you make a water bed more bouncy. You use Spring Water
+What's red and bad for your teeth? A Brick.
 
 
 ## Daily Trivia
 
-What is the main CPU is the Sega Mega Drive / Sega Genesis?
- 1. Zilog Z80
- 2. Motorola 68000
- 3. Yamaha YM2612
- 4. Intel 8088
+What programming language was GitHub written in?
+ 1. Python
+ 2. JavaScript
+ 3. Lua
+ 4. Ruby
 
 <details>
   <summary>Answer</summary>
-  Motorola 68000
+  Ruby
 </details>
 
 
