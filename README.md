@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-There's not really any training for garbagemen. They just pick things up as they go.
+Why couldn't the kid see the pirate movie? Because it was rated arrr!
 
 
 ## Daily Trivia
 
-What was the first commerically available computer processor?
- 1. TMS 1000
- 2. Intel 486SX
- 3. AMD AM386
- 4. Intel 4004
+What does LTS stand for in the software market?
+ 1. Long Term Support
+ 2. Ludicrous Turbo Speed
+ 3. Ludicrous Transfer Speed
+ 4. Long Taco Service
 
 <details>
   <summary>Answer</summary>
-  Intel 4004
+  Long Term Support
 </details>
 
 
