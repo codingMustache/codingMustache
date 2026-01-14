@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the feline fail the lie detector test? Because he be lion.
+Why do fish live in salt water? Because pepper makes them sneeze!
 
 
 ## Daily Trivia
 
-How fast is USB 3.1 Gen 2 theoretically?
- 1. 8 Gb/s
- 2. 5 Gb/s
- 3. 10 Gb/s
- 4. 1 Gb/s
+The Harvard architecture for micro-controllers added which additional bus?
+ 1. Instruction
+ 2. Control
+ 3. Data
+ 4. Address
 
 <details>
   <summary>Answer</summary>
-  10 Gb/s
+  Instruction
 </details>
 
 
