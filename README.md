@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A book just fell on my head. I only have my shelf to blame.
+What did the big flower say to the littler flower? Hi, bud!
 
 
 ## Daily Trivia
 
-What was Bitcoin&#039;s block size limit in 2010?
- 1. 1GB
- 2. 1 KB
- 3. 1 TB
- 4. 1 MB
+Which SQL keyword is used to fetch data from a database?
+ 1. EXEC
+ 2. VALUES
+ 3. SELECT
+ 4. INDEX
 
 <details>
   <summary>Answer</summary>
-  1 MB
+  SELECT
 </details>
 
 
