@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The great thing about stationery shops is they're always in the same place...
+Can I watch the TV? Dad: Yes, but don’t turn it on.
 
 
 ## Daily Trivia
 
-Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
- 1. 1.5 MHz
- 2. 20.5 kHz
- 3. 32.0 kHz
- 4. 44.1 kHz
+Who invented the &quot;Spanning Tree Protocol&quot;?
+ 1. Michael Roberts
+ 2. Vint Cerf
+ 3. Radia Perlman
+ 4. Paul Vixie
 
 <details>
   <summary>Answer</summary>
-  44.1 kHz
+  Radia Perlman
 </details>
 
 
