@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-You will never guess what Elsa did to the balloon. She let it go.
+Have you heard about the owl sanctuary job opening? It’s all night shifts but they’re all a hoot over there.
 
 
 ## Daily Trivia
 
-If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
- 1. Python
- 2. C++
- 3. JavaScript
- 4. Binary
+What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
+ 1. ADPCM Sampler
+ 2. PCM Sampler
+ 3. Programmable Sound Generator (PSG)
+ 4. FM Synthesizer
 
 <details>
   <summary>Answer</summary>
-  Binary
+  ADPCM Sampler
 </details>
 
 
