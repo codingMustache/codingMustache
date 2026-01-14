@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear the joke about the wandering nun? She was a roman catholic.
+Why can't your nose be 12 inches long? Because then it'd be a foot!
 
 
 ## Daily Trivia
 
-What is the most preferred image format used for logos in the Wikimedia database?
- 1. .gif
- 2. .png
- 3. .jpeg
- 4. .svg
+What does the computer software acronym JVM stand for?
+ 1. Just Virtual Machine
+ 2. Java Vendor Machine
+ 3. Java Visual Machine
+ 4. Java Virtual Machine
 
 <details>
   <summary>Answer</summary>
-  .svg
+  Java Virtual Machine
 </details>
 
 
