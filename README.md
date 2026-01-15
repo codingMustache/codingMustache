@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The first time I got a universal remote control I thought to myself, "This changes everything"
+Animal Fact #25: Most bobcats are not named bob.
 
 
 ## Daily Trivia
 
-Nvidia&#039;s headquarters are based in which Silicon Valley city?
- 1. Palo Alto
- 2. Cupertino
- 3. Santa Clara
- 4. Mountain View
+Generally, which component of a computer draws the most power?
+ 1. Video Card
+ 2. Power Supply
+ 3. Processor
+ 4. Hard Drive
 
 <details>
   <summary>Answer</summary>
-  Santa Clara
+  Video Card
 </details>
 
 
