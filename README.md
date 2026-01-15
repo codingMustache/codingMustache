@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-New atoms frequently lose electrons when they fail to keep an ion them.
+The first time I got a universal remote control I thought to myself, "This changes everything"
 
 
 ## Daily Trivia
 
-On which day did the World Wide Web go online?
- 1. December 17, 1996
- 2. November 24, 1995
- 3. December 20, 1990
- 4. November 12, 1990
+Nvidia&#039;s headquarters are based in which Silicon Valley city?
+ 1. Palo Alto
+ 2. Cupertino
+ 3. Santa Clara
+ 4. Mountain View
 
 <details>
   <summary>Answer</summary>
-  December 20, 1990
+  Santa Clara
 </details>
 
 
