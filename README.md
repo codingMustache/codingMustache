@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are skeletons so calm? Because nothing gets under their skin.
+Where do sheep go to get their hair cut? The baa-baa shop.
 
 
 ## Daily Trivia
 
-What does the &#039;S&#039; in the RSA encryption algorithm stand for?
- 1. Secure
- 2. Shamir
- 3. Schottky
- 4. Stable
+The Harvard architecture for micro-controllers added which additional bus?
+ 1. Address
+ 2. Data
+ 3. Instruction
+ 4. Control
 
 <details>
   <summary>Answer</summary>
-  Shamir
+  Instruction
 </details>
 
 
