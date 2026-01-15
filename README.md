@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was the shirt happy to hang around the tank top? Because it was armless
+I just wrote a book on reverse psychology. Do not read it!
 
 
 ## Daily Trivia
 
-In any programming language, what is the most common way to iterate through an array?
- 1. &#039;If&#039; Statements
- 2. &#039;For&#039; loops
- 3. &#039;Do-while&#039; loops
- 4. &#039;While&#039; loops
+The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
+ 1. Micronesia
+ 2. Tuvalu
+ 3. Fiji
+ 4. Marshall Islands
 
 <details>
   <summary>Answer</summary>
-  &#039;For&#039; loops
+  Micronesia
 </details>
 
 
