@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the late tomato say to the early tomato? I’ll ketch up
+What did the pirate say on his 80th birthday? Aye Matey!
 
 
 ## Daily Trivia
 
-In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
- 1. Static
- 2. Final
- 3. Public
- 4. Private
+The teapot often seen in many 3D modeling applications is called what?
+ 1. 3D Teapot
+ 2. Utah Teapot
+ 3. Tennessee Teapot
+ 4. Pixar Teapot
 
 <details>
   <summary>Answer</summary>
-  Final
+  Utah Teapot
 </details>
 
 
