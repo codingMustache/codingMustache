@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Cosmetic surgery used to be such a taboo subject.
-Now you can talk about Botox and nobody raises an eyebrow.
+Why didn't the number 4 get into the nightclub? Because he is 2 square.
 
 
 ## Daily Trivia
 
-In web design, what does CSS stand for?
- 1. Computer Style Sheet
- 2. Cascading Style Sheet
- 3. Corrective Style Sheet
- 4. Counter Strike: Source
+How many values can a single byte represent?
+ 1. 1
+ 2. 8
+ 3. 256
+ 4. 1024
 
 <details>
   <summary>Answer</summary>
-  Cascading Style Sheet
+  256
 </details>
 
 
