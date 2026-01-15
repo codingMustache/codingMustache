@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How does the moon cut his hair? Eclipse it.
+What do you call a bear with no teeth? A gummy bear!
 
 
 ## Daily Trivia
 
-What did the name of the Tor Anonymity Network orignially stand for?
- 1. The Only Router
- 2. The Orange Router
- 3. The Ominous Router
- 4. The Onion Router
+Which of these people was NOT a founder of Apple Inc?
+ 1. Steve Jobs
+ 2. Ronald Wayne
+ 3. Steve Wozniak
+ 4. Jonathan Ive
 
 <details>
   <summary>Answer</summary>
-  The Onion Router
+  Jonathan Ive
 </details>
 
 
