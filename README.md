@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Whiteboards ... are remarkable.
+The best time on a clock is 6:30--hands down.
 
 
 ## Daily Trivia
 
-While Apple was formed in California, in which western state was Microsoft founded?
- 1. Washington
- 2. Arizona
- 3. New Mexico
- 4. Colorado
+What was Bitcoin&#039;s block size limit in 2010?
+ 1. 1 TB
+ 2. 1GB
+ 3. 1 MB
+ 4. 1 KB
 
 <details>
   <summary>Answer</summary>
-  New Mexico
+  1 MB
 </details>
 
 
