@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Remember, the best angle to approach a problem from is the "try" angle.
+What do you call a cow on a trampoline? A milk shake!
 
 
 ## Daily Trivia
 
-HTML is what type of language?
- 1. Macro Language
- 2. Scripting Language
- 3. Markup Language
- 4. Programming Language
+What does the acronym CDN stand for in terms of networking?
+ 1. Compressed Data Network
+ 2. Content Distribution Network
+ 3. Content Delivery Network
+ 4. Computational Data Network
 
 <details>
   <summary>Answer</summary>
-  Markup Language
+  Content Delivery Network
 </details>
 
 
