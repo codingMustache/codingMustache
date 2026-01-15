@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What’s the longest word in the dictionary? Smiles. Because there’s a mile between the two S’s.
+Remember, the best angle to approach a problem from is the "try" angle.
 
 
 ## Daily Trivia
 
-Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
- 1. PHP
- 2. Python
- 3. JavaScript
- 4. C#
+HTML is what type of language?
+ 1. Macro Language
+ 2. Scripting Language
+ 3. Markup Language
+ 4. Programming Language
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  Markup Language
 </details>
 
 
