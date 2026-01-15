@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the feline fail the lie detector test? Because he be lion.
+What do you call a fish wearing a bowtie? Sofishticated.
 
 
 ## Daily Trivia
 
-What does the computer software acronym JVM stand for?
- 1. Java Vendor Machine
- 2. Just Virtual Machine
- 3. Java Virtual Machine
- 4. Java Visual Machine
+What is the most preferred image format used for logos in the Wikimedia database?
+ 1. .gif
+ 2. .png
+ 3. .svg
+ 4. .jpeg
 
 <details>
   <summary>Answer</summary>
-  Java Virtual Machine
+  .svg
 </details>
 
 
