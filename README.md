@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do sheep go to get their hair cut? The baa-baa shop.
+How does the moon cut his hair? Eclipse it.
 
 
 ## Daily Trivia
 
-The Harvard architecture for micro-controllers added which additional bus?
- 1. Address
- 2. Data
- 3. Instruction
- 4. Control
+What did the name of the Tor Anonymity Network orignially stand for?
+ 1. The Only Router
+ 2. The Orange Router
+ 3. The Ominous Router
+ 4. The Onion Router
 
 <details>
   <summary>Answer</summary>
-  Instruction
+  The Onion Router
 </details>
 
 
