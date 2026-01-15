@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I just wrote a book on reverse psychology. Do not read it!
+What animal is always at a game of cricket? A bat.
 
 
 ## Daily Trivia
 
-The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
- 1. Micronesia
- 2. Tuvalu
- 3. Fiji
- 4. Marshall Islands
+What is the most preferred image format used for logos in the Wikimedia database?
+ 1. .gif
+ 2. .jpeg
+ 3. .svg
+ 4. .png
 
 <details>
   <summary>Answer</summary>
-  Micronesia
+  .svg
 </details>
 
 
