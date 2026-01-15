@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why didn't the number 4 get into the nightclub? Because he is 2 square.
+I thought my wife was joking when she said she'd leave me if I didn't stop signing "I'm A Believer"... Then I saw her face.
 
 
 ## Daily Trivia
 
-How many values can a single byte represent?
- 1. 1
- 2. 8
- 3. 256
- 4. 1024
+Which of these programming languages is a low-level language?
+ 1. Assembly
+ 2. Pascal
+ 3. C#
+ 4. Python
 
 <details>
   <summary>Answer</summary>
-  256
+  Assembly
 </details>
 
 
