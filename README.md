@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What’s the difference between an African elephant and an Indian elephant? About 5000 miles.
+Why is it so windy inside an arena? All those fans.
 
 
 ## Daily Trivia
 
-What does RAID stand for?
- 1. Randomized Abstract Identification Description
- 2. Rapid Access for Indexed Devices
- 3. Redundant Array of Independent Disks
- 4. Range of Applications with Identical Designs
+Which of the following is NOT a computer science algorithm?
+ 1. Float Sort
+ 2. Bubble Sort
+ 3. Quick Sort
+ 4. Merge Sort
 
 <details>
   <summary>Answer</summary>
-  Redundant Array of Independent Disks
+  Float Sort
 </details>
 
 
