@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you get a baby alien to sleep?  You rocket.
+My boss told me that he was going to fire the person with the worst posture. I have a hunch, it might be me.
 
 
 ## Daily Trivia
 
-What internet protocol was documented in RFC 1459?
- 1. HTTP
- 2. HTTPS
- 3. IRC
- 4. FTP
+What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
+ 1. Session
+ 2. Transport
+ 3. Data link
+ 4. Network
 
 <details>
   <summary>Answer</summary>
-  IRC
+  Transport
 </details>
 
 
