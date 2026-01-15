@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-An apple a day keeps the bullies away. If you throw it hard enough.
+Why do ducks make great detectives? They always quack the case.
 
 
 ## Daily Trivia
 
-On Twitter, what was the original character limit for a Tweet?
- 1. 140
- 2. 100
- 3. 160
- 4. 120
+Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
+ 1. Cheetah
+ 2. Tiger
+ 3. Leopard
+ 4. Puma
 
 <details>
   <summary>Answer</summary>
-  140
+  Cheetah
 </details>
 
 
