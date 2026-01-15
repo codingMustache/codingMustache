@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Animal Fact #25: Most bobcats are not named bob.
+Whiteboards ... are remarkable.
 
 
 ## Daily Trivia
 
-Generally, which component of a computer draws the most power?
- 1. Video Card
- 2. Power Supply
- 3. Processor
- 4. Hard Drive
+While Apple was formed in California, in which western state was Microsoft founded?
+ 1. Washington
+ 2. Arizona
+ 3. New Mexico
+ 4. Colorado
 
 <details>
   <summary>Answer</summary>
-  Video Card
+  New Mexico
 </details>
 
 
