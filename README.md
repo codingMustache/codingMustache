@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What animal is always at a game of cricket? A bat.
+What’s the difference between an African elephant and an Indian elephant? About 5000 miles.
 
 
 ## Daily Trivia
 
-What is the most preferred image format used for logos in the Wikimedia database?
- 1. .gif
- 2. .jpeg
- 3. .svg
- 4. .png
+What does RAID stand for?
+ 1. Randomized Abstract Identification Description
+ 2. Rapid Access for Indexed Devices
+ 3. Redundant Array of Independent Disks
+ 4. Range of Applications with Identical Designs
 
 <details>
   <summary>Answer</summary>
-  .svg
+  Redundant Array of Independent Disks
 </details>
 
 
