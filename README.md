@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the girl smear peanut butter on the road? To go with the traffic jam.
+How come the stadium got hot after the game? Because all of the fans left.
 
 
 ## Daily Trivia
 
-Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
- 1. Clipper Chip
- 2. Nautilus
- 3. Skipjack
- 4. Enigma Machine
+What does LTS stand for in the software market?
+ 1. Long Term Support
+ 2. Ludicrous Turbo Speed
+ 3. Ludicrous Transfer Speed
+ 4. Long Taco Service
 
 <details>
   <summary>Answer</summary>
-  Clipper Chip
+  Long Term Support
 </details>
 
 
