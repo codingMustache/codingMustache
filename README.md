@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was the robot angry? Because someone kept pressing his buttons!
+Did you hear that the police have a warrant out on a midget psychic ripping people off? It reads “Small medium at large.”
 
 
 ## Daily Trivia
 
-How many values can a single byte represent?
- 1. 256
- 2. 1024
- 3. 1
- 4. 8
+HTML is what type of language?
+ 1. Markup Language
+ 2. Macro Language
+ 3. Programming Language
+ 4. Scripting Language
 
 <details>
   <summary>Answer</summary>
-  256
+  Markup Language
 </details>
 
 
