@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a fish wearing a bowtie? Sofishticated.
+What's the best thing about elevator jokes? They work on so many levels.
 
 
 ## Daily Trivia
 
-What is the most preferred image format used for logos in the Wikimedia database?
- 1. .gif
- 2. .png
- 3. .svg
- 4. .jpeg
+Which SQL keyword is used to fetch data from a database?
+ 1. SELECT
+ 2. EXEC
+ 3. INDEX
+ 4. VALUES
 
 <details>
   <summary>Answer</summary>
-  .svg
+  SELECT
 </details>
 
 
