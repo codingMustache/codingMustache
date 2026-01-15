@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the pirate say on his 80th birthday? Aye Matey!
+New atoms frequently lose electrons when they fail to keep an ion them.
 
 
 ## Daily Trivia
 
-The teapot often seen in many 3D modeling applications is called what?
- 1. 3D Teapot
- 2. Utah Teapot
- 3. Tennessee Teapot
- 4. Pixar Teapot
+On which day did the World Wide Web go online?
+ 1. December 17, 1996
+ 2. November 24, 1995
+ 3. December 20, 1990
+ 4. November 12, 1990
 
 <details>
   <summary>Answer</summary>
-  Utah Teapot
+  December 20, 1990
 </details>
 
 
