@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the best thing about elevator jokes? They work on so many levels.
+What did the late tomato say to the early tomato? I’ll ketch up
 
 
 ## Daily Trivia
 
-Which SQL keyword is used to fetch data from a database?
- 1. SELECT
- 2. EXEC
- 3. INDEX
- 4. VALUES
+In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
+ 1. Static
+ 2. Final
+ 3. Public
+ 4. Private
 
 <details>
   <summary>Answer</summary>
-  SELECT
+  Final
 </details>
 
 
