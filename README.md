@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to think I was indecisive, but now I'm not sure.
+Someone asked me, what's the ninth letter of the alphabet? It was a complete guess, but I was right.
 
 
 ## Daily Trivia
 
-What does RAID stand for?
- 1. Rapid Access for Indexed Devices
- 2. Range of Applications with Identical Designs
- 3. Randomized Abstract Identification Description
- 4. Redundant Array of Independent Disks
+How many Hz does the video standard PAL support?
+ 1. 25
+ 2. 50
+ 3. 60
+ 4. 59
 
 <details>
   <summary>Answer</summary>
-  Redundant Array of Independent Disks
+  50
 </details>
 
 
