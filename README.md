@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I thought my wife was joking when she said she'd leave me if I didn't stop signing "I'm A Believer"... Then I saw her face.
+Why are skeletons so calm? Because nothing gets under their skin.
 
 
 ## Daily Trivia
 
-Which of these programming languages is a low-level language?
- 1. Assembly
- 2. Pascal
- 3. C#
- 4. Python
+What does the &#039;S&#039; in the RSA encryption algorithm stand for?
+ 1. Secure
+ 2. Shamir
+ 3. Schottky
+ 4. Stable
 
 <details>
   <summary>Answer</summary>
-  Assembly
+  Shamir
 </details>
 
 
