@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is worse then finding a worm in your Apple? Finding half a worm in your Apple.
+Why do pirates not know the alphabet? They always get stuck at "C".
 
 
 ## Daily Trivia
 
-The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
- 1. Marshall Islands
- 2. Tuvalu
- 3. Fiji
- 4. Micronesia
+What is the name of Layer 7 of the OSI model?
+ 1. Present
+ 2. Network
+ 3. Session
+ 4. Application
 
 <details>
   <summary>Answer</summary>
-  Micronesia
+  Application
 </details>
 
 
