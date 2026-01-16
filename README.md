@@ -4,20 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do cows wear bells? Because their horns don't work.
+Mahatma Gandhi, as you know, walked barefoot most of the time, which produced an impressive set of calluses on his feet. 
+He also ate very little, which made him rather frail and with his odd diet, he suffered from bad breath. 
+This made him a super calloused fragile mystic hexed by halitosis.
 
 
 ## Daily Trivia
 
-The Harvard architecture for micro-controllers added which additional bus?
- 1. Address
- 2. Data
- 3. Control
- 4. Instruction
+How many cores does the Intel i7-6950X have?
+ 1. 12
+ 2. 8
+ 3. 10
+ 4. 4
 
 <details>
   <summary>Answer</summary>
-  Instruction
+  10
 </details>
 
 
