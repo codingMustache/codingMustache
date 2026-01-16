@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The urge to sing the Lion King song is just a whim away.
+I don't trust stairs. They're always up to something.
 
 
 ## Daily Trivia
 
-What does the acronym CDN stand for in terms of networking?
- 1. Content Distribution Network
- 2. Computational Data Network
- 3. Compressed Data Network
- 4. Content Delivery Network
+Which SQL keyword is used to fetch data from a database?
+ 1. EXEC
+ 2. SELECT
+ 3. INDEX
+ 4. VALUES
 
 <details>
   <summary>Answer</summary>
-  Content Delivery Network
+  SELECT
 </details>
 
 
