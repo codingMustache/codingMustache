@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the Mexican train killer? He had loco motives
+What did the fish say when it swam into a wall? Damn!
 
 
 ## Daily Trivia
 
-How fast is USB 3.1 Gen 2 theoretically?
- 1. 10 Gb/s
- 2. 1 Gb/s
- 3. 8 Gb/s
- 4. 5 Gb/s
+Which of the following is NOT a computer science algorithm?
+ 1. Bubble Sort
+ 2. Merge Sort
+ 3. Float Sort
+ 4. Quick Sort
 
 <details>
   <summary>Answer</summary>
-  10 Gb/s
+  Float Sort
 </details>
 
 
