@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are basketball players messy eaters? Because they are always dribbling.
+Don't trust atoms. They make up everything.
 
 
 ## Daily Trivia
 
-How many cores does the Intel i7-6950X have?
- 1. 8
- 2. 12
- 3. 4
- 4. 10
+What programming language was GitHub written in?
+ 1. Lua
+ 2. JavaScript
+ 3. Ruby
+ 4. Python
 
 <details>
   <summary>Answer</summary>
-  10
+  Ruby
 </details>
 
 
