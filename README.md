@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Don't trust atoms. They make up everything.
+Where does batman go to the bathroom? The batroom.
 
 
 ## Daily Trivia
 
-What programming language was GitHub written in?
- 1. Lua
- 2. JavaScript
- 3. Ruby
- 4. Python
+Which SQL keyword is used to fetch data from a database?
+ 1. SELECT
+ 2. EXEC
+ 3. VALUES
+ 4. INDEX
 
 <details>
   <summary>Answer</summary>
-  Ruby
+  SELECT
 </details>
 
 
