@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where does batman go to the bathroom? The batroom.
+Did you hear about the two thieves who stole a calendar? They each got six months.
 
 
 ## Daily Trivia
 
-Which SQL keyword is used to fetch data from a database?
- 1. SELECT
- 2. EXEC
- 3. VALUES
- 4. INDEX
+Lenovo acquired IBM&#039;s personal computer division, including the ThinkPad line of laptops and tablets, in what year?
+ 1. 1999
+ 2. 2008
+ 3. 2005
+ 4. 2002
 
 <details>
   <summary>Answer</summary>
-  SELECT
+  2005
 </details>
 
 
