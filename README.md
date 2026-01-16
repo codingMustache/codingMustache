@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I was so proud when I finished the puzzle in six months, when on the side it said three to four years.
+Why do cows wear bells? Because their horns don't work.
 
 
 ## Daily Trivia
 
-Laserjet and inkjet printers are both examples of what type of printer?
- 1. Non-impact printer
- 2. Impact printer
- 3. Daisywheel printer
- 4. Dot matrix printer
+The Harvard architecture for micro-controllers added which additional bus?
+ 1. Address
+ 2. Data
+ 3. Control
+ 4. Instruction
 
 <details>
   <summary>Answer</summary>
-  Non-impact printer
+  Instruction
 </details>
 
 
