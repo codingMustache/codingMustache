@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Do I enjoy making courthouse puns? Guilty
+Why did the burglar hang his mugshot on the wall? To prove that he was framed!
 
 
 ## Daily Trivia
 
-What vulnerability ranked #1 on the OWASP Top 10 in 2013?
- 1. Insecure Direct Object References
- 2. Cross-Site Scripting
- 3. Injection 
- 4. Broken Authentication
+Which of the following computer components can be built using only NAND gates?
+ 1. ALU
+ 2. Register
+ 3. RAM
+ 4. CPU
 
 <details>
   <summary>Answer</summary>
-  Injection 
+  ALU
 </details>
 
 
