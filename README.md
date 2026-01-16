@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do sheep go to get their hair cut? The baa-baa shop.
+Do I enjoy making courthouse puns? Guilty
 
 
 ## Daily Trivia
 
-What is known as &quot;the brain&quot; of the Computer?
- 1. Graphics Processing Unit
- 2. Motherboard
- 3. Keyboard
- 4. Central Processing Unit
+What vulnerability ranked #1 on the OWASP Top 10 in 2013?
+ 1. Insecure Direct Object References
+ 2. Cross-Site Scripting
+ 3. Injection 
+ 4. Broken Authentication
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  Injection 
 </details>
 
 
