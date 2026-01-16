@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I wanted to be a tailor but I didn't suit the job
+How do you make a water bed more bouncy. You use Spring Water
 
 
 ## Daily Trivia
 
-In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
- 1. relative
- 2. center
- 3. absolute
- 4. static
+Which data structure does FILO apply to?
+ 1. Heap
+ 2. Tree
+ 3. Stack
+ 4. Queue
 
 <details>
   <summary>Answer</summary>
-  center
+  Stack
 </details>
 
 
