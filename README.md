@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do mathematicians hate the U.S.? Because it's indivisible.
+The great thing about stationery shops is they're always in the same place...
 
 
 ## Daily Trivia
 
-Laserjet and inkjet printers are both examples of what type of printer?
- 1. Impact printer
- 2. Dot matrix printer
- 3. Non-impact printer
- 4. Daisywheel printer
+This mobile OS held the largest market share in 2012.
+ 1. iOS
+ 2. Symbian
+ 3. BlackBerry
+ 4. Android
 
 <details>
   <summary>Answer</summary>
-  Non-impact printer
+  iOS
 </details>
 
 
