@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the guy whose whole left side was cut off? He's all right now.
+I went to the doctor today and he told me I had type A blood but it was a type O.
 
 
 ## Daily Trivia
 
-Which kind of algorithm is Ron Rivest not famous for creating?
- 1. Secret sharing scheme
- 2. Stream cipher
- 3. Asymmetric encryption
- 4. Hashing algorithm
+On Twitter, what was the original character limit for a Tweet?
+ 1. 160
+ 2. 140
+ 3. 120
+ 4. 100
 
 <details>
   <summary>Answer</summary>
-  Secret sharing scheme
+  140
 </details>
 
 
