@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I went to the doctor today and he told me I had type A blood but it was a type O.
+Why do mathematicians hate the U.S.? Because it's indivisible.
 
 
 ## Daily Trivia
 
-On Twitter, what was the original character limit for a Tweet?
- 1. 160
- 2. 140
- 3. 120
- 4. 100
+Laserjet and inkjet printers are both examples of what type of printer?
+ 1. Impact printer
+ 2. Dot matrix printer
+ 3. Non-impact printer
+ 4. Daisywheel printer
 
 <details>
   <summary>Answer</summary>
-  140
+  Non-impact printer
 </details>
 
 
