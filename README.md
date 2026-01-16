@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the burglar hang his mugshot on the wall? To prove that he was framed!
+"Dad, I'm cold."
+"Go stand in the corner, I hear it's 90 degrees."
 
 
 ## Daily Trivia
 
-Which of the following computer components can be built using only NAND gates?
- 1. ALU
- 2. Register
- 3. RAM
- 4. CPU
+Which of these is not a key value of Agile software development?
+ 1. Individuals and interactions
+ 2. Comprehensive documentation
+ 3. Customer collaboration
+ 4. Responding to change
 
 <details>
   <summary>Answer</summary>
-  ALU
+  Comprehensive documentation
 </details>
 
 
