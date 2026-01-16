@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-which flower is most fierce? Dandelion
+How do robots eat guacamole? With computer chips.
 
 
 ## Daily Trivia
 
-What does LTS stand for in the software market?
- 1. Long Taco Service
- 2. Long Term Support
- 3. Ludicrous Turbo Speed
- 4. Ludicrous Transfer Speed
+In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
+ 1. &lt;scroll&gt;&lt;/scroll&gt;
+ 2. &lt;move&gt;&lt;/move&gt;
+ 3. &lt;slide&gt;&lt;/slide&gt;
+ 4. &lt;marquee&gt;&lt;/marquee&gt;
 
 <details>
   <summary>Answer</summary>
-  Long Term Support
+  &lt;marquee&gt;&lt;/marquee&gt;
 </details>
 
 
