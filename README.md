@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-You can't trust a ladder. It will always let you down
+Can a kangaroo jump higher than the Empire State Building? Of course. The Empire State Building can't jump.
 
 
 ## Daily Trivia
 
-Which of the following languages is used as a scripting language in the Unity 3D game engine?
- 1. C#
- 2. Java
- 3. C++
- 4. Objective-C
+In programming, the ternary operator is mostly defined with what symbol(s)?
+ 1. ?:
+ 2. if then
+ 3. ??
+ 4. ?
 
 <details>
   <summary>Answer</summary>
-  C#
+  ?:
 </details>
 
 
