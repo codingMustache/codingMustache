@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Just read a few facts about frogs. They were ribbiting.
+I knew a guy who collected candy canes, they were all in mint condition
 
 
 ## Daily Trivia
 
-Which data structure does FILO apply to?
- 1. Queue
- 2. Heap
- 3. Tree
- 4. Stack
+What language does Node.js use?
+ 1. JavaScript
+ 2. Joomla Source Code
+ 3. Java Source
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  Stack
+  JavaScript
 </details>
 
 
