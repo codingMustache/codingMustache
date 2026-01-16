@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear the one about the guy with the broken hearing aid? Neither did he.
+Bad at golf? Join the club.
 
 
 ## Daily Trivia
 
-On which computer hardware device is the BIOS chip located?
- 1. Motherboard
- 2. Central Processing Unit
- 3. Graphics Processing Unit
- 4. Hard Disk Drive
+The numbering system with a radix of 16 is more commonly referred to as 
+ 1. Duodecimal
+ 2. Octal
+ 3. Hexidecimal
+ 4. Binary
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  Hexidecimal
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **4 days** since this server shutdown
+Its been **5 days** since this server shutdown
