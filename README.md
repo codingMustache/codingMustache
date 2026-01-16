@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How does a scientist freshen their breath? With experi-mints!
+which flower is most fierce? Dandelion
 
 
 ## Daily Trivia
 
-Which of these people was NOT a founder of Apple Inc?
- 1. Jonathan Ive
- 2. Steve Wozniak
- 3. Ronald Wayne
- 4. Steve Jobs
+What does LTS stand for in the software market?
+ 1. Long Taco Service
+ 2. Long Term Support
+ 3. Ludicrous Turbo Speed
+ 4. Ludicrous Transfer Speed
 
 <details>
   <summary>Answer</summary>
-  Jonathan Ive
+  Long Term Support
 </details>
 
 
