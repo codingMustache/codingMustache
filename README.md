@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-They tried to make a diamond shaped like a duck. It quacked under the pressure.
+Why are basketball players messy eaters? Because they are always dribbling.
 
 
 ## Daily Trivia
 
-What does GHz stand for?
- 1. Gigahotz
- 2. Gigahetz
- 3. Gigahatz
- 4. Gigahertz
+How many cores does the Intel i7-6950X have?
+ 1. 8
+ 2. 12
+ 3. 4
+ 4. 10
 
 <details>
   <summary>Answer</summary>
-  Gigahertz
+  10
 </details>
 
 
