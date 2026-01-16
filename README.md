@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a cow on a trampoline? A milk shake!
+Man, I really love my furniture... me and my recliner go way back.
 
 
 ## Daily Trivia
 
-What does &quot;LCD&quot; stand for?
- 1. Last Common Difference
- 2. Liquid Crystal Display
- 3. Long Continuous Design
- 4. Language Control Design
+What is the most preferred image format used for logos in the Wikimedia database?
+ 1. .png
+ 2. .svg
+ 3. .jpeg
+ 4. .gif
 
 <details>
   <summary>Answer</summary>
-  Liquid Crystal Display
+  .svg
 </details>
 
 
