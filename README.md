@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What’s the difference between an African elephant and an Indian elephant? About 5000 miles.
+Parallel lines have so much in common. It’s a shame they’ll never meet.
 
 
 ## Daily Trivia
 
-On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
- 1. Asterisk
- 2. Exclamation Mark
- 3. Percent Sign
- 4. Dollar Sign
+In computing terms, typically what does CLI stand for?
+ 1. Common Language Input
+ 2. Control Line Interface
+ 3. Common Language Interface
+ 4. Command Line Interface
 
 <details>
   <summary>Answer</summary>
-  Exclamation Mark
+  Command Line Interface
 </details>
 
 
