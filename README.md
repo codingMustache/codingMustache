@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is the hardest part about sky diving? The ground.
+Two satellites decided to get married. The wedding wasn't much, but the reception was incredible.
 
 
 ## Daily Trivia
 
-America Online (AOL) started out as which of these online service providers?
- 1. CompuServe
- 2. Prodigy
- 3. GEnie
- 4. Quantum Link
+In computing, what does LAN stand for?
+ 1. Long Antenna Node
+ 2. Light Access Node
+ 3. Land Address Navigation
+ 4. Local Area Network
 
 <details>
   <summary>Answer</summary>
-  Quantum Link
+  Local Area Network
 </details>
 
 
