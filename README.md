@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a cow with two legs? Lean beef.
+What is the best way to carve?
+Whittle by whittle.
 
 
 ## Daily Trivia
 
-Which of these people was NOT a founder of Apple Inc?
- 1. Steve Wozniak
- 2. Ronald Wayne
- 3. Steve Jobs
- 4. Jonathan Ive
+What was the name of the first Bulgarian personal computer?
+ 1. IMKO-1
+ 2. Pravetz 82
+ 3. Pravetz 8D
+ 4. IZOT 1030
 
 <details>
   <summary>Answer</summary>
-  Jonathan Ive
+  IMKO-1
 </details>
 
 
