@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Feeling pretty proud of myself. The Sesame Street puzzle I bought said 3-5 years, but I finished it in 18 months.
+I’ve deleted the phone numbers of all the Germans I know from my mobile phone. Now it’s Hans free.
 
 
 ## Daily Trivia
 
-Which of the following is NOT a computer science algorithm?
- 1. Bubble Sort
- 2. Merge Sort
- 3. Quick Sort
- 4. Float Sort
+Which SQL keyword is used to fetch data from a database?
+ 1. INDEX
+ 2. SELECT
+ 3. VALUES
+ 4. EXEC
 
 <details>
   <summary>Answer</summary>
-  Float Sort
+  SELECT
 </details>
 
 
