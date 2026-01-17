@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear the one about the giant pickle?  He was kind of a big dill.
+I ordered a chicken and an egg from Amazon. I'll let you know.
 
 
 ## Daily Trivia
 
-What does RAID stand for?
- 1. Randomized Abstract Identification Description
- 2. Range of Applications with Identical Designs
- 3. Rapid Access for Indexed Devices
- 4. Redundant Array of Independent Disks
+The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
+ 1. Acorn Computers
+ 2. Amstrad PLC
+ 3. Sinclair Research
+ 4. Commodore Business Machines
 
 <details>
   <summary>Answer</summary>
-  Redundant Array of Independent Disks
+  Acorn Computers
 </details>
 
 
