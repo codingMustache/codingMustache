@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you know you should always take an extra pair of pants golfing? Just in case you get a hole in one.
+"Why do seagulls fly over the ocean?" "Because if they flew over the bay, we'd call them bagels."
 
 
 ## Daily Trivia
 
-Who invented the &quot;Spanning Tree Protocol&quot;?
- 1. Vint Cerf
- 2. Paul Vixie
- 3. Radia Perlman
- 4. Michael Roberts
+What is the domain name for the country Tuvalu?
+ 1. .tl
+ 2. .tv
+ 3. .tt
+ 4. .tu
 
 <details>
   <summary>Answer</summary>
-  Radia Perlman
+  .tv
 </details>
 
 
