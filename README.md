@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is a vampire's favorite fruit? A blood orange.
+Did you hear the one about the giant pickle?  He was kind of a big dill.
 
 
 ## Daily Trivia
 
-What major programming language does Unreal Engine 4 use?
- 1. Assembly
- 2. C#
- 3. ECMAScript
- 4. C++
+What does RAID stand for?
+ 1. Randomized Abstract Identification Description
+ 2. Range of Applications with Identical Designs
+ 3. Rapid Access for Indexed Devices
+ 4. Redundant Array of Independent Disks
 
 <details>
   <summary>Answer</summary>
-  C++
+  Redundant Array of Independent Disks
 </details>
 
 
