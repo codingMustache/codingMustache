@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I’ve deleted the phone numbers of all the Germans I know from my mobile phone. Now it’s Hans free.
+What did the pirate say on his 80th birthday? Aye Matey!
 
 
 ## Daily Trivia
 
-Which SQL keyword is used to fetch data from a database?
- 1. INDEX
- 2. SELECT
- 3. VALUES
- 4. EXEC
+In computing, what does MIDI stand for?
+ 1. Musical Instrument Data Interface
+ 2. Modular Interface of Digital Instruments
+ 3. Musical Interface of Digital Instruments
+ 4. Musical Instrument Digital Interface
 
 <details>
   <summary>Answer</summary>
-  SELECT
+  Musical Instrument Digital Interface
 </details>
 
 
