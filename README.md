@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I won an argument with a weather forecaster once. His logic was cloudy...
+A dad washes his car with his son. But after a while, the son says, "why can't you just use a sponge?"
 
 
 ## Daily Trivia
 
-The name of technology company HP stands for what?
- 1. Hewlett-Packard
- 2. Husker-Pollosk
- 3. Howard Packmann
- 4. Hellman-Pohl
+Who is the founder of Palantir?
+ 1. Mark Zuckerberg
+ 2. Marc Benioff
+ 3. Jack Dorsey
+ 4. Peter Thiel
 
 <details>
   <summary>Answer</summary>
-  Hewlett-Packard
+  Peter Thiel
 </details>
 
 
