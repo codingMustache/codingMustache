@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Have you heard the rumor going around about butter? Never mind, I shouldn't spread it.
+“Hold on, I have something in my shoe”  “I’m pretty sure it’s a foot”
 
 
 ## Daily Trivia
 
-What major programming language does Unreal Engine 4 use?
- 1. Assembly
- 2. C++
- 3. C#
- 4. ECMAScript
+According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:
+ 1. A&#039;B&#039;
+ 2. A&#039;B + B&#039;A
+ 3. AB&#039; + AB
+ 4. A&#039; + B&#039;
 
 <details>
   <summary>Answer</summary>
-  C++
+  A&#039; + B&#039;
 </details>
 
 
