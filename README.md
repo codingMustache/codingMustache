@@ -4,15 +4,15 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-People who don't eat gluten are really going against the grain.
+Coffee has a tough time at my house, every morning it gets mugged.
 
 
 ## Daily Trivia
 
 In the server hosting industry IaaS stands for...
- 1. Internet as a Service
- 2. Internet and a Server
- 3. Infrastructure as a Service
+ 1. Internet and a Server
+ 2. Infrastructure as a Service
+ 3. Internet as a Service
  4. Infrastructure as a Server
 
 <details>
