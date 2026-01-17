@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a fashionable lawn statue with an excellent sense of rhythmn? A metro-gnome
+What does an angry pepper do? It gets jalapeño face.
 
 
 ## Daily Trivia
 
-Who is the founder of Palantir?
- 1. Mark Zuckerberg
- 2. Marc Benioff
- 3. Jack Dorsey
- 4. Peter Thiel
+In any programming language, what is the most common way to iterate through an array?
+ 1. &#039;Do-while&#039; loops
+ 2. &#039;If&#039; Statements
+ 3. &#039;While&#039; loops
+ 4. &#039;For&#039; loops
 
 <details>
   <summary>Answer</summary>
-  Peter Thiel
+  &#039;For&#039; loops
 </details>
 
 
