@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to be addicted to the hokey pokey, but I turned myself around.
+People who don't eat gluten are really going against the grain.
 
 
 ## Daily Trivia
 
-Approximately how many Apple I personal computers were created?
- 1. 200
- 2. 1000
- 3. 500
- 4. 100
+In the server hosting industry IaaS stands for...
+ 1. Internet as a Service
+ 2. Internet and a Server
+ 3. Infrastructure as a Service
+ 4. Infrastructure as a Server
 
 <details>
   <summary>Answer</summary>
-  200
+  Infrastructure as a Service
 </details>
 
 
