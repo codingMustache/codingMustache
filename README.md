@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the fish say when it swam into a wall? Damn!
+I won an argument with a weather forecaster once. His logic was cloudy...
 
 
 ## Daily Trivia
 
-.at is the top-level domain for what country?
- 1. Austria
- 2. Angola
- 3. Australia
- 4. Argentina
+The name of technology company HP stands for what?
+ 1. Hewlett-Packard
+ 2. Husker-Pollosk
+ 3. Howard Packmann
+ 4. Hellman-Pohl
 
 <details>
   <summary>Answer</summary>
-  Austria
+  Hewlett-Packard
 </details>
 
 
