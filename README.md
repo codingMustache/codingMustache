@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the fish say when it swam into a wall? Damn!
+Have you heard the rumor going around about butter? Never mind, I shouldn't spread it.
 
 
 ## Daily Trivia
 
-What is the main CPU is the Sega Mega Drive / Sega Genesis?
- 1. Motorola 68000
- 2. Zilog Z80
- 3. Yamaha YM2612
- 4. Intel 8088
+What major programming language does Unreal Engine 4 use?
+ 1. Assembly
+ 2. C++
+ 3. C#
+ 4. ECMAScript
 
 <details>
   <summary>Answer</summary>
-  Motorola 68000
+  C++
 </details>
 
 
