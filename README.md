@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A steak pun is a rare medium well done.
+What did the ocean say to the shore? Nothing, it just waved.
 
 
 ## Daily Trivia
 
-Lenovo acquired IBM&#039;s personal computer division, including the ThinkPad line of laptops and tablets, in what year?
- 1. 1999
- 2. 2005
- 3. 2002
- 4. 2008
+While Apple was formed in California, in which western state was Microsoft founded?
+ 1. Washington
+ 2. Colorado
+ 3. Arizona
+ 4. New Mexico
 
 <details>
   <summary>Answer</summary>
-  2005
+  New Mexico
 </details>
 
 
