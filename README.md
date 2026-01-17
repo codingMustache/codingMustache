@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-"Why do seagulls fly over the ocean?" "Because if they flew over the bay, we'd call them bagels."
+Egyptians claimed to invent the guitar, but they were such lyres.﻿
 
 
 ## Daily Trivia
 
-What is the domain name for the country Tuvalu?
- 1. .tl
- 2. .tv
- 3. .tt
- 4. .tu
+According to the International System of Units, how many bytes are in a kilobyte of RAM?
+ 1. 1000
+ 2. 512
+ 3. 1024
+ 4. 500
 
 <details>
   <summary>Answer</summary>
-  .tv
+  1000
 </details>
 
 
