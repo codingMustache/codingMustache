@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why couldn't the kid see the pirate movie? Because it was rated arrr!
+What is the hardest part about sky diving? The ground.
 
 
 ## Daily Trivia
 
-While Apple was formed in California, in which western state was Microsoft founded?
- 1. Arizona
- 2. Colorado
- 3. Washington
- 4. New Mexico
+America Online (AOL) started out as which of these online service providers?
+ 1. CompuServe
+ 2. Prodigy
+ 3. GEnie
+ 4. Quantum Link
 
 <details>
   <summary>Answer</summary>
-  New Mexico
+  Quantum Link
 </details>
 
 
