@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I just read a book about Stockholm syndrome. It was pretty bad at first, but by the end I liked it.
+R.I.P. boiled water. You will be mist.
 
 
 ## Daily Trivia
 
-Which of the following languages is used as a scripting language in the Unity 3D game engine?
- 1. C#
- 2. Objective-C
- 3. Java
- 4. C++
+Unix Time is defined as the number of seconds that have elapsed since when?
+ 1. Midnight on the creator of Unix&#039;s birthday
+ 2. Midnight, July 4, 1976
+ 3. Midnight, July 4, 1980
+ 4. Midnight, January 1, 1970
 
 <details>
   <summary>Answer</summary>
-  C#
+  Midnight, January 1, 1970
 </details>
 
 
