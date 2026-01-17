@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The urge to sing the Lion King song is just a whim away.
+Why do bananas have to put on sunscreen before they go to the beach? Because they might peel!
 
 
 ## Daily Trivia
 
-Who is the original author of the realtime physics engine called PhysX?
- 1. NovodeX
- 2. Nvidia
- 3. Ageia
- 4. AMD
+What was the name given to Android 4.3?
+ 1. Nutella
+ 2. Lollipop
+ 3. Froyo
+ 4. Jelly Bean
 
 <details>
   <summary>Answer</summary>
-  NovodeX
+  Jelly Bean
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **5 days** since this server shutdown
+Its been **6 days** since this server shutdown
