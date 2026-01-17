@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you make a 'one' disappear? You add a 'g' and it's 'gone'
+I wanted to be a tailor but I didn't suit the job
 
 
 ## Daily Trivia
 
-How many cores does the Intel i7-6950X have?
- 1. 12
- 2. 4
+How many values can a single byte represent?
+ 1. 1
+ 2. 1024
  3. 8
- 4. 10
+ 4. 256
 
 <details>
   <summary>Answer</summary>
-  10
+  256
 </details>
 
 
