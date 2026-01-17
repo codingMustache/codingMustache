@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the submarine industry? It really took a dive...
+What do you call a boy who stopped digging holes? Douglas.
 
 
 ## Daily Trivia
 
-Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
- 1. 32.0 kHz
- 2. 1.5 MHz
- 3. 20.5 kHz
- 4. 44.1 kHz
+Who is the founder of Palantir?
+ 1. Peter Thiel
+ 2. Mark Zuckerberg
+ 3. Marc Benioff
+ 4. Jack Dorsey
 
 <details>
   <summary>Answer</summary>
-  44.1 kHz
+  Peter Thiel
 </details>
 
 
