@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A dad washes his car with his son. But after a while, the son says, "why can't you just use a sponge?"
+What is bread's favorite number?  Leaven.
 
 
 ## Daily Trivia
 
-Who is the founder of Palantir?
- 1. Mark Zuckerberg
- 2. Marc Benioff
- 3. Jack Dorsey
- 4. Peter Thiel
+What major programming language does Unreal Engine 4 use?
+ 1. Assembly
+ 2. C++
+ 3. C#
+ 4. ECMAScript
 
 <details>
   <summary>Answer</summary>
-  Peter Thiel
+  C++
 </details>
 
 
