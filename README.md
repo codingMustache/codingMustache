@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What are the strongest days of the week? Saturday and Sunday...the rest are weekdays.
+Why don't you find hippopotamuses hiding in trees?
+They're really good at it.
 
 
 ## Daily Trivia
 
-What is the number of keys on a standard Windows Keyboard?
- 1. 104
- 2. 94
- 3. 64
- 4. 76
+The numbering system with a radix of 16 is more commonly referred to as 
+ 1. Hexidecimal
+ 2. Binary
+ 3. Duodecimal
+ 4. Octal
 
 <details>
   <summary>Answer</summary>
-  104
+  Hexidecimal
 </details>
 
 
