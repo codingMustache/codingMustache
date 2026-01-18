@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do vegetarian zombies eat? Grrrrrainnnnnssss.
+I was so proud when I finished the puzzle in six months, when on the side it said three to four years.
 
 
 ## Daily Trivia
 
-Which of these is not a key value of Agile software development?
- 1. Customer collaboration
- 2. Individuals and interactions
- 3. Comprehensive documentation
- 4. Responding to change
+The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
+ 1. Taiwan
+ 2. China (People&#039;s Republic of)
+ 3. Germany
+ 4. United States
 
 <details>
   <summary>Answer</summary>
-  Comprehensive documentation
+  Taiwan
 </details>
 
 
