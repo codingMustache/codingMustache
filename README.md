@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a pig that knows karate? A pork chop!
+What is the leading cause of dry skin? Towels
 
 
 ## Daily Trivia
 
-What language does Node.js use?
- 1. Java
- 2. JavaScript
- 3. Java Source
- 4. Joomla Source Code
+In networking, what does OSPF stand for?
+ 1. Open Shortest Path First
+ 2. Order Sense Ping Find
+ 3. Order State Part First
+ 4. Open Signal Path Finder
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  Open Shortest Path First
 </details>
 
 
