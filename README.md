@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Milk is also the fastest liquid on earth – its pasteurized before you even see it
+What did the grape do when he got stepped on? He let out a little wine.
 
 
 ## Daily Trivia
 
-What was the first commerically available computer processor?
- 1. Intel 4004
- 2. Intel 486SX
- 3. TMS 1000
- 4. AMD AM386
+In computing terms, typically what does CLI stand for?
+ 1. Common Language Input
+ 2. Command Line Interface
+ 3. Control Line Interface
+ 4. Common Language Interface
 
 <details>
   <summary>Answer</summary>
-  Intel 4004
+  Command Line Interface
 </details>
 
 
