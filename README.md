@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-If you’re struggling to think of what to get someone for Christmas. Get them a fridge and watch their face light up when they open it.
+Want to hear a chimney joke? Got stacks of em! First one's on the house
 
 
 ## Daily Trivia
 
-What does the &#039;S&#039; in the RSA encryption algorithm stand for?
- 1. Stable
- 2. Schottky
- 3. Shamir
- 4. Secure
+.at is the top-level domain for what country?
+ 1. Austria
+ 2. Argentina
+ 3. Australia
+ 4. Angola
 
 <details>
   <summary>Answer</summary>
-  Shamir
+  Austria
 </details>
 
 
