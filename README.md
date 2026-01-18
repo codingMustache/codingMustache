@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Want to hear a chimney joke? Got stacks of em! First one's on the house
+How do you fix a damaged jack-o-lantern? You use a pumpkin patch.
 
 
 ## Daily Trivia
 
-.at is the top-level domain for what country?
- 1. Austria
- 2. Argentina
- 3. Australia
- 4. Angola
+While Apple was formed in California, in which western state was Microsoft founded?
+ 1. Washington
+ 2. Colorado
+ 3. Arizona
+ 4. New Mexico
 
 <details>
   <summary>Answer</summary>
-  Austria
+  New Mexico
 </details>
 
 
