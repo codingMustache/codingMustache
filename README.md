@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-This is my step ladder. I never knew my real ladder.
+Did you know that protons have mass? I didn't even know they were catholic.
 
 
 ## Daily Trivia
 
-How many values can a single byte represent?
- 1. 256
- 2. 1
- 3. 8
- 4. 1024
+Approximately how many Apple I personal computers were created?
+ 1. 100
+ 2. 500
+ 3. 200
+ 4. 1000
 
 <details>
   <summary>Answer</summary>
-  256
+  200
 </details>
 
 
