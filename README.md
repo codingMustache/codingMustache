@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-When people are sad, I sometimes let them colour in my tattoos. Sometimes all they need is a shoulder to crayon.
+How do you organize a space party? You planet.
 
 
 ## Daily Trivia
 
-The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
- 1. Acorn Computers
- 2. Commodore Business Machines
- 3. Amstrad PLC
- 4. Sinclair Research
+Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
+ 1. Apple
+ 2. Microsoft
+ 3. Atari
+ 4. Commodore
 
 <details>
   <summary>Answer</summary>
-  Acorn Computers
+  Apple
 </details>
 
 
