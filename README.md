@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why is it so windy inside an arena? All those fans.
+I don’t play soccer because I enjoy the sport. I’m just doing it for kicks.
 
 
 ## Daily Trivia
 
-In programming, the ternary operator is mostly defined with what symbol(s)?
- 1. ??
- 2. if then
- 3. ?
- 4. ?:
+In programming, what do you call functions with the same name but different implementations?
+ 1. Abstracting
+ 2. Inheriting
+ 3. Overloading
+ 4. Overriding
 
 <details>
   <summary>Answer</summary>
-  ?:
+  Overloading
 </details>
 
 
