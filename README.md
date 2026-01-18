@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Do you want a brief explanation of what an acorn is? In a nutshell, it's an oak tree.
+As I suspected, someone has been adding soil to my garden. The plot thickens.
 
 
 ## Daily Trivia
 
-What does the International System of Quantities refer 1024 bytes as?
- 1. Kelobyte
- 2. Kilobyte
- 3. Kylobyte
- 4. Kibibyte
+Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
+ 1. Cherry MX Black
+ 2. Cherry MX Brown
+ 3. Cherry MX Red
+ 4. Cherry MX Blue
 
 <details>
   <summary>Answer</summary>
-  Kibibyte
+  Cherry MX Blue
 </details>
 
 
