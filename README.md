@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I went to a Foo Fighters Concert once... It was Everlong...
+What are the strongest days of the week? Saturday and Sunday...the rest are weekdays.
 
 
 ## Daily Trivia
 
-Whistler was the codename of this Microsoft Operating System.
- 1. Windows 2000
- 2. Windows 7
- 3. Windows XP
- 4. Windows 95
+What is the number of keys on a standard Windows Keyboard?
+ 1. 104
+ 2. 94
+ 3. 64
+ 4. 76
 
 <details>
   <summary>Answer</summary>
-  Windows XP
+  104
 </details>
 
 
