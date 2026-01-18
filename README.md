@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a gorilla wearing headphones? Anything you'd like, it can't hear you.
+Don't tell secrets in corn fields. Too many ears around.
 
 
 ## Daily Trivia
 
-Which of the following languages is used as a scripting language in the Unity 3D game engine?
- 1. Java
- 2. C++
- 3. Objective-C
- 4. C#
+In programming, what do you call functions with the same name but different implementations?
+ 1. Overloading
+ 2. Inheriting
+ 3. Abstracting
+ 4. Overriding
 
 <details>
   <summary>Answer</summary>
-  C#
+  Overloading
 </details>
 
 
