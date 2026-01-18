@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why don’t seagulls fly over the bay? Because then they’d be bay-gulls!
+Where does astronauts hangout after work? At the spacebar.
 
 
 ## Daily Trivia
 
-Which data structure does FILO apply to?
- 1. Stack
- 2. Tree
- 3. Heap
- 4. Queue
+Which of these programming languages is a low-level language?
+ 1. Pascal
+ 2. Python
+ 3. C#
+ 4. Assembly
 
 <details>
   <summary>Answer</summary>
-  Stack
+  Assembly
 </details>
 
 
