@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A man walked in to a bar with some asphalt on his arm. He said “Two beers please, one for me and one for the road.”
+What do you call a sheep with no legs? A cloud.
 
 
 ## Daily Trivia
 
-How many values can a single byte represent?
- 1. 8
- 2. 1
- 3. 1024
- 4. 256
+What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
+ 1. Heat Sink
+ 2. CPU Vent
+ 3. Temperature Decipator
+ 4. Heat Vent
 
 <details>
   <summary>Answer</summary>
-  256
+  Heat Sink
 </details>
 
 
