@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a sheep with no legs? A cloud.
+I went to the zoo the other day, there was only one dog in it. It was a shitzu.
 
 
 ## Daily Trivia
 
-What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
- 1. Heat Sink
- 2. CPU Vent
- 3. Temperature Decipator
- 4. Heat Vent
+What does &quot;LCD&quot; stand for?
+ 1. Last Common Difference
+ 2. Long Continuous Design
+ 3. Language Control Design
+ 4. Liquid Crystal Display
 
 <details>
   <summary>Answer</summary>
-  Heat Sink
+  Liquid Crystal Display
 </details>
 
 
