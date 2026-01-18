@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call someone with no nose? Nobody knows.
+What do vegetarian zombies eat? Grrrrrainnnnnssss.
 
 
 ## Daily Trivia
 
-Which programming language shares its name with an island in Indonesia?
- 1. Python
- 2. Jakarta
- 3. C
- 4. Java
+Which of these is not a key value of Agile software development?
+ 1. Customer collaboration
+ 2. Individuals and interactions
+ 3. Comprehensive documentation
+ 4. Responding to change
 
 <details>
   <summary>Answer</summary>
-  Java
+  Comprehensive documentation
 </details>
 
 
