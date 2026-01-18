@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the feline fail the lie detector test? Because he be lion.
+My first time using an elevator was an uplifting experience. The second time let me down.
 
 
 ## Daily Trivia
 
-The acronym &quot;RIP&quot; stands for which of these?
- 1. Routine Inspection Protocol
- 2. Regular Interval Processes
- 3. Routing Information Protocol
- 4. Runtime Instance Processes
+Which one of these is not an official development name for a Ubuntu release?
+ 1. Mystic Mansion
+ 2. Wily Werewolf
+ 3. Utopic Unicorn
+ 4. Trusty Tahr
 
 <details>
   <summary>Answer</summary>
-  Routing Information Protocol
+  Mystic Mansion
 </details>
 
 
