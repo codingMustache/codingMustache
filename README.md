@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My first time using an elevator was an uplifting experience. The second time let me down.
+How do you make holy water? You boil the hell out of it.
 
 
 ## Daily Trivia
 
-Which one of these is not an official development name for a Ubuntu release?
- 1. Mystic Mansion
- 2. Wily Werewolf
- 3. Utopic Unicorn
- 4. Trusty Tahr
+When was the programming language &quot;C#&quot; released?
+ 1. 1998
+ 2. 1999
+ 3. 2001
+ 4. 2000
 
 <details>
   <summary>Answer</summary>
-  Mystic Mansion
+  2000
 </details>
 
 
