@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-People saying 'boo! to their friends has risen by 85% in the last year.... That's a frightening statistic.
+Milk is also the fastest liquid on earth – its pasteurized before you even see it
 
 
 ## Daily Trivia
 
-When was the programming language &quot;C#&quot; released?
- 1. 2001
- 2. 1999
- 3. 2000
- 4. 1998
+What was the first commerically available computer processor?
+ 1. Intel 4004
+ 2. Intel 486SX
+ 3. TMS 1000
+ 4. AMD AM386
 
 <details>
   <summary>Answer</summary>
-  2000
+  Intel 4004
 </details>
 
 
