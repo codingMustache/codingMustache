@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Frankenstein enters a bodybuilding competition and finds he has seriously misunderstood the objective.
+A man walked in to a bar with some asphalt on his arm. He said “Two beers please, one for me and one for the road.”
 
 
 ## Daily Trivia
 
-How long is an IPv6 address?
- 1. 32 bits
- 2. 64 bits
- 3. 128 bits
- 4. 128 bytes
+On Twitter, what was the original character limit for a Tweet?
+ 1. 140
+ 2. 120
+ 3. 100
+ 4. 160
 
 <details>
   <summary>Answer</summary>
-  128 bits
+  140
 </details>
 
 
