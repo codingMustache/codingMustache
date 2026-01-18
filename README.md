@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-In my career as a lumberjack I cut down exactly 52,487 trees. I know because I kept a log.
+The rotation of earth really makes my day.
 
 
 ## Daily Trivia
 
-All of the following programs are classified as raster graphics editors EXCEPT:
- 1. Inkscape
- 2. Adobe Photoshop
- 3. GIMP
- 4. Paint.NET
+Which one of these is not an official development name for a Ubuntu release?
+ 1. Mystic Mansion
+ 2. Utopic Unicorn
+ 3. Trusty Tahr
+ 4. Wily Werewolf
 
 <details>
   <summary>Answer</summary>
-  Inkscape
+  Mystic Mansion
 </details>
 
 
