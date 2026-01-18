@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you organize a space party? You planet.
+What do you call someone with no nose? Nobody knows.
 
 
 ## Daily Trivia
 
-Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
- 1. Apple
- 2. Microsoft
- 3. Atari
- 4. Commodore
+Which programming language shares its name with an island in Indonesia?
+ 1. Python
+ 2. Jakarta
+ 3. C
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  Apple
+  Java
 </details>
 
 
