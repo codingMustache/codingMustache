@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do prisoners use to call each other? Cell phones.
+I went to a Foo Fighters Concert once... It was Everlong...
 
 
 ## Daily Trivia
 
-Nvidia&#039;s headquarters are based in which Silicon Valley city?
- 1. Mountain View
- 2. Palo Alto
- 3. Cupertino
- 4. Santa Clara
+Whistler was the codename of this Microsoft Operating System.
+ 1. Windows 2000
+ 2. Windows 7
+ 3. Windows XP
+ 4. Windows 95
 
 <details>
   <summary>Answer</summary>
-  Santa Clara
+  Windows XP
 </details>
 
 
