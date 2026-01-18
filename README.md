@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the cowboy have a weiner dog? Somebody told him to get a long little doggy.
+What do you call someone with no nose? Nobody knows.
 
 
 ## Daily Trivia
 
-Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
- 1. Cheetah
- 2. Leopard
- 3. Tiger
- 4. Puma
+Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
+ 1. 44.1 kHz
+ 2. 32.0 kHz
+ 3. 1.5 MHz
+ 4. 20.5 kHz
 
 <details>
   <summary>Answer</summary>
-  Cheetah
+  44.1 kHz
 </details>
 
 
