@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where does astronauts hangout after work? At the spacebar.
+You will never guess what Elsa did to the balloon. She let it go.
 
 
 ## Daily Trivia
 
-Which of these programming languages is a low-level language?
- 1. Pascal
- 2. Python
- 3. C#
- 4. Assembly
+Which programming language shares its name with an island in Indonesia?
+ 1. Java
+ 2. C
+ 3. Jakarta
+ 4. Python
 
 <details>
   <summary>Answer</summary>
-  Assembly
+  Java
 </details>
 
 
