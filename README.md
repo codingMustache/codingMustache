@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I got fired from the transmission factor, turns out I didn't put on enough shifts...
+What do prisoners use to call each other? Cell phones.
 
 
 ## Daily Trivia
 
-What does the term MIME stand for, in regards to computing?
- 1. Multipurpose Internet Mail Extensions
- 2. Mail Interleave Method Exchange
- 3. Multipurpose Interleave Mail Exchange
- 4. Mail Internet Mail Exchange
+Nvidia&#039;s headquarters are based in which Silicon Valley city?
+ 1. Mountain View
+ 2. Palo Alto
+ 3. Cupertino
+ 4. Santa Clara
 
 <details>
   <summary>Answer</summary>
-  Multipurpose Internet Mail Extensions
+  Santa Clara
 </details>
 
 
