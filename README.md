@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why don't you find hippopotamuses hiding in trees?
-They're really good at it.
+Why did the feline fail the lie detector test? Because he be lion.
 
 
 ## Daily Trivia
 
-The numbering system with a radix of 16 is more commonly referred to as 
- 1. Hexidecimal
- 2. Binary
- 3. Duodecimal
- 4. Octal
+The acronym &quot;RIP&quot; stands for which of these?
+ 1. Routine Inspection Protocol
+ 2. Regular Interval Processes
+ 3. Routing Information Protocol
+ 4. Runtime Instance Processes
 
 <details>
   <summary>Answer</summary>
-  Hexidecimal
+  Routing Information Protocol
 </details>
 
 
