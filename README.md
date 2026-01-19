@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why can't your nose be 12 inches long? Because then it'd be a foot!
+At the boxing match, the dad got into the popcorn line and the line for hot dogs, but he wanted to stay out of the punchline.
 
 
 ## Daily Trivia
 
-In web design, what does CSS stand for?
- 1. Counter Strike: Source
- 2. Corrective Style Sheet
- 3. Computer Style Sheet
- 4. Cascading Style Sheet
+How many values can a single byte represent?
+ 1. 8
+ 2. 256
+ 3. 1
+ 4. 1024
 
 <details>
   <summary>Answer</summary>
-  Cascading Style Sheet
+  256
 </details>
 
 
