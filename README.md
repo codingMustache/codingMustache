@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What has a bed that you can’t sleep in? A river.
+Why do we tell actors to “break a leg?” Because every play has a cast.
 
 
 ## Daily Trivia
 
-While Apple was formed in California, in which western state was Microsoft founded?
- 1. Arizona
- 2. New Mexico
- 3. Colorado
- 4. Washington
+What is the most preferred image format used for logos in the Wikimedia database?
+ 1. .jpeg
+ 2. .svg
+ 3. .png
+ 4. .gif
 
 <details>
   <summary>Answer</summary>
-  New Mexico
+  .svg
 </details>
 
 
