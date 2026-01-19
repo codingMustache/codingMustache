@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Don't tell secrets in corn fields. Too many ears around.
+What has a bed that you can’t sleep in? A river.
 
 
 ## Daily Trivia
 
-What major programming language does Unreal Engine 4 use?
- 1. Assembly
- 2. C#
- 3. ECMAScript
- 4. C++
+While Apple was formed in California, in which western state was Microsoft founded?
+ 1. Arizona
+ 2. New Mexico
+ 3. Colorado
+ 4. Washington
 
 <details>
   <summary>Answer</summary>
-  C++
+  New Mexico
 </details>
 
 
