@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why can't you use "Beef stew" as a password? Because it's not stroganoff.
+Two parrots are sitting on a perch. One turns to the other and asks, "do you smell fish?"
 
 
 ## Daily Trivia
 
-Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
- 1. 32.0 kHz
- 2. 1.5 MHz
- 3. 20.5 kHz
- 4. 44.1 kHz
+What does the Prt Sc button do?
+ 1. Nothing
+ 2. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
+ 3. Closes all windows
+ 4. Captures what&#039;s on the screen and copies it to your clipboard
 
 <details>
   <summary>Answer</summary>
-  44.1 kHz
+  Captures what&#039;s on the screen and copies it to your clipboard
 </details>
 
 
