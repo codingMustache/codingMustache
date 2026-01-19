@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to have a job at a calendar factory but I got the sack because I took a couple of days off.
+The other day I was listening to a song about superglue, it’s been stuck in my head ever since.
 
 
 ## Daily Trivia
 
-Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
- 1. Tiger
- 2. Cheetah
- 3. Puma
- 4. Leopard
+What does the acronym CDN stand for in terms of networking?
+ 1. Computational Data Network
+ 2. Content Delivery Network
+ 3. Compressed Data Network
+ 4. Content Distribution Network
 
 <details>
   <summary>Answer</summary>
-  Cheetah
+  Content Delivery Network
 </details>
 
 
