@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The first time I got a universal remote control I thought to myself, "This changes everything"
+I used to have a job at a calendar factory but I got the sack because I took a couple of days off.
 
 
 ## Daily Trivia
 
-In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
- 1. Static
- 2. Final
- 3. Private
- 4. Public
+Which computer hardware device provides an interface for all other connected devices to communicate?
+ 1. Central Processing Unit
+ 2. Hard Disk Drive
+ 3. Motherboard
+ 4. Random Access Memory
 
 <details>
   <summary>Answer</summary>
-  Final
+  Motherboard
 </details>
 
 
