@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Breaking news! Energizer Bunny arrested – charged with battery.
+How does a French skeleton say hello? Bone-jour.
 
 
 ## Daily Trivia
 
-Approximately how many Apple I personal computers were created?
- 1. 200
- 2. 1000
- 3. 500
- 4. 100
+Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
+ 1. JavaScript
+ 2. C#
+ 3. Python
+ 4. PHP
 
 <details>
   <summary>Answer</summary>
-  200
+  JavaScript
 </details>
 
 
