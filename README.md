@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a guy lying on your doorstep? Matt.
+How does a scientist freshen their breath? With experi-mints!
 
 
 ## Daily Trivia
 
-The C programming language was created by this American computer scientist. 
- 1. Dennis Ritchie
- 2. Willis Ware
- 3. al-Khwārizmī
- 4. Tim Berners Lee
+In web design, what does CSS stand for?
+ 1. Computer Style Sheet
+ 2. Cascading Style Sheet
+ 3. Counter Strike: Source
+ 4. Corrective Style Sheet
 
 <details>
   <summary>Answer</summary>
-  Dennis Ritchie
+  Cascading Style Sheet
 </details>
 
 
