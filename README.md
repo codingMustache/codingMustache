@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Don't buy flowers at a monastery. Because only you can prevent florist friars.
+What do I look like? A JOKE MACHINE!?
 
 
 ## Daily Trivia
 
-In computing, what does LAN stand for?
- 1. Long Antenna Node
- 2. Land Address Navigation
- 3. Light Access Node
- 4. Local Area Network
+How many Hz does the video standard PAL support?
+ 1. 50
+ 2. 25
+ 3. 60
+ 4. 59
 
 <details>
   <summary>Answer</summary>
-  Local Area Network
+  50
 </details>
 
 
