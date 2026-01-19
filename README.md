@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How does a scientist freshen their breath? With experi-mints!
+How do you make a water bed more bouncy. You use Spring Water
 
 
 ## Daily Trivia
 
-In web design, what does CSS stand for?
- 1. Computer Style Sheet
- 2. Cascading Style Sheet
- 3. Counter Strike: Source
- 4. Corrective Style Sheet
+In the server hosting industry IaaS stands for...
+ 1. Internet as a Service
+ 2. Internet and a Server
+ 3. Infrastructure as a Server
+ 4. Infrastructure as a Service
 
 <details>
   <summary>Answer</summary>
-  Cascading Style Sheet
+  Infrastructure as a Service
 </details>
 
 
