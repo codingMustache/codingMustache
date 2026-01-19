@@ -4,20 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is this movie about? It is about 2 hours long.
+What is the difference between ignorance and apathy?
+
+I don't know and I don't care.
 
 
 ## Daily Trivia
 
-The numbering system with a radix of 16 is more commonly referred to as 
- 1. Hexidecimal
- 2. Octal
- 3. Duodecimal
- 4. Binary
+What language does Node.js use?
+ 1. Java Source
+ 2. Joomla Source Code
+ 3. Java
+ 4. JavaScript
 
 <details>
   <summary>Answer</summary>
-  Hexidecimal
+  JavaScript
 </details>
 
 
