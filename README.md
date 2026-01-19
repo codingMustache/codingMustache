@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the tree go to the dentist? It needed a root canal.
+Did you hear that David lost his ID in prague? Now we just have to call him Dav.
 
 
 ## Daily Trivia
 
-What was the first company to use the term &quot;Golden Master&quot;?
- 1. Microsoft
- 2. IBM
- 3. Google
- 4. Apple
+What does the term GPU stand for?
+ 1. Gaming Processor Unit
+ 2. Graphics Processing Unit
+ 3. Graphite Producing Unit
+ 4. Graphical Proprietary Unit
 
 <details>
   <summary>Answer</summary>
-  Apple
+  Graphics Processing Unit
 </details>
 
 
