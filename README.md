@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It’s hard to explain puns to kleptomaniacs, because they take everything literally.
+What do you call a snake who builds houses? A boa constructor!
 
 
 ## Daily Trivia
 
-What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
- 1. FM Synthesizer
- 2. ADPCM Sampler
- 3. Programmable Sound Generator (PSG)
- 4. PCM Sampler
+What language does Node.js use?
+ 1. Java Source
+ 2. Java
+ 3. JavaScript
+ 4. Joomla Source Code
 
 <details>
   <summary>Answer</summary>
-  ADPCM Sampler
+  JavaScript
 </details>
 
 
