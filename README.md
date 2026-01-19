@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a sheep with no legs? A cloud.
+Sometimes I tuck my knees into my chest and lean forward.  That’s just how I roll.
 
 
 ## Daily Trivia
 
-What is the most preferred image format used for logos in the Wikimedia database?
- 1. .gif
- 2. .jpeg
- 3. .png
- 4. .svg
+In computing, what does LAN stand for?
+ 1. Long Antenna Node
+ 2. Local Area Network
+ 3. Land Address Navigation
+ 4. Light Access Node
 
 <details>
   <summary>Answer</summary>
-  .svg
+  Local Area Network
 </details>
 
 
