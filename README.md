@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I was shocked when I was diagnosed as colorblind... It came out of the purple.
+Nurse: Doctor, there's a patient that says he's invisible. Doctor: Well, tell him I can't see him right now!
 
 
 ## Daily Trivia
 
-What language does Node.js use?
- 1. Java
- 2. Java Source
- 3. JavaScript
- 4. Joomla Source Code
+Nvidia&#039;s headquarters are based in which Silicon Valley city?
+ 1. Santa Clara
+ 2. Palo Alto
+ 3. Mountain View
+ 4. Cupertino
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  Santa Clara
 </details>
 
 
