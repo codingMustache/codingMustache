@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why is the new Kindle screen textured to look like paper? So you feel write at home.
+I wouldn't buy anything with velcro. It's a total rip-off.
 
 
 ## Daily Trivia
 
-What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
- 1. Heat Vent
- 2. Heat Sink
- 3. CPU Vent
- 4. Temperature Decipator
+Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
+ 1. 32.0 kHz
+ 2. 1.5 MHz
+ 3. 20.5 kHz
+ 4. 44.1 kHz
 
 <details>
   <summary>Answer</summary>
-  Heat Sink
+  44.1 kHz
 </details>
 
 
