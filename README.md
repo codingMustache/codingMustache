@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-At the boxing match, the dad got into the popcorn line and the line for hot dogs, but he wanted to stay out of the punchline.
+Don't tell secrets in corn fields. Too many ears around.
 
 
 ## Daily Trivia
 
-How many values can a single byte represent?
- 1. 8
- 2. 256
- 3. 1
- 4. 1024
+What major programming language does Unreal Engine 4 use?
+ 1. Assembly
+ 2. C#
+ 3. ECMAScript
+ 4. C++
 
 <details>
   <summary>Answer</summary>
-  256
+  C++
 </details>
 
 
