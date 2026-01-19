@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the difference between a rooster and a crow? A rooster can crow but a crow cannot rooster.
+The first time I got a universal remote control I thought to myself, "This changes everything"
 
 
 ## Daily Trivia
 
-How many bits make up the significand portion of a single precision floating point number?
- 1. 8
- 2. 23
- 3. 53
- 4. 15
+In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
+ 1. Static
+ 2. Final
+ 3. Private
+ 4. Public
 
 <details>
   <summary>Answer</summary>
-  23
+  Final
 </details>
 
 
