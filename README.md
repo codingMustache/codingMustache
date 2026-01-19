@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a snake who builds houses? A boa constructor!
+They're making a movie about clocks. It's about time
 
 
 ## Daily Trivia
 
-What language does Node.js use?
- 1. Java Source
- 2. Java
- 3. JavaScript
- 4. Joomla Source Code
+What does &quot;LCD&quot; stand for?
+ 1. Last Common Difference
+ 2. Liquid Crystal Display
+ 3. Language Control Design
+ 4. Long Continuous Design
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  Liquid Crystal Display
 </details>
 
 
