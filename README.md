@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-This morning I was wondering where the sun was, but then it dawned on me.
+What do you call a sheep with no legs? A cloud.
 
 
 ## Daily Trivia
 
-Which computer hardware device provides an interface for all other connected devices to communicate?
- 1. Random Access Memory
- 2. Central Processing Unit
- 3. Hard Disk Drive
- 4. Motherboard
+What is the most preferred image format used for logos in the Wikimedia database?
+ 1. .gif
+ 2. .jpeg
+ 3. .png
+ 4. .svg
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  .svg
 </details>
 
 
