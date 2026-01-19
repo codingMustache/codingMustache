@@ -4,22 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is the difference between ignorance and apathy?
-
-I don't know and I don't care.
+What do you call a cow with two legs? Lean beef.
 
 
 ## Daily Trivia
 
-What language does Node.js use?
- 1. Java Source
- 2. Joomla Source Code
- 3. Java
- 4. JavaScript
+How many cores does the Intel i7-6950X have?
+ 1. 8
+ 2. 12
+ 3. 4
+ 4. 10
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  10
 </details>
 
 
