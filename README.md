@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the cookie cry?
-Because his mother was a wafer so long
+I went to the zoo the other day, there was only one dog in it. It was a shitzu.
 
 
 ## Daily Trivia
 
-Which of these names was an actual codename for a cancelled Microsoft project?
- 1. Neptune
- 2. Saturn
- 3. Pollux
- 4. Enceladus
+Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
+ 1. Shellshock
+ 2. Heartbleed
+ 3. Corrupted Blood
+ 4. Shellscript
 
 <details>
   <summary>Answer</summary>
-  Neptune
+  Heartbleed
 </details>
 
 
