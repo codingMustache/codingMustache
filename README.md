@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How does a French skeleton say hello? Bone-jour.
+You will never guess what Elsa did to the balloon. She let it go.
 
 
 ## Daily Trivia
 
-Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
- 1. JavaScript
- 2. C#
- 3. Python
- 4. PHP
+What was the name of the security vulnerability found in Bash in 2014?
+ 1. Heartbleed
+ 2. Bashbug
+ 3. Shellshock
+ 4. Stagefright
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  Shellshock
 </details>
 
 
