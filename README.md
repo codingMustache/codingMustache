@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I wouldn't buy anything with velcro. It's a total rip-off.
+Why is it always hot in the corner of a room? Because a corner is 90 degrees.
 
 
 ## Daily Trivia
 
-Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
- 1. 32.0 kHz
- 2. 1.5 MHz
- 3. 20.5 kHz
- 4. 44.1 kHz
+How many values can a single byte represent?
+ 1. 256
+ 2. 1
+ 3. 8
+ 4. 1024
 
 <details>
   <summary>Answer</summary>
-  44.1 kHz
+  256
 </details>
 
 
