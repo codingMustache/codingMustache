@@ -4,25 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do pumpkins sit on people’s porches?
-
-They have no hands to knock on the door.
+I was shocked when I was diagnosed as colorblind... It came out of the purple.
 
 
 ## Daily Trivia
 
-In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
- 1. console.log(&quot;Hello World&quot;)
- 2. print(&quot;Hello World&quot;)
- 3. printf(&quot;Hello World&quot;)
- 4. echo &quot;Hello World&quot;
+What language does Node.js use?
+ 1. Java
+ 2. Java Source
+ 3. JavaScript
+ 4. Joomla Source Code
 
 <details>
   <summary>Answer</summary>
-  print(&quot;Hello World&quot;)
+  JavaScript
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **7 days** since this server shutdown
+Its been **8 days** since this server shutdown
