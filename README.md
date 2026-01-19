@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A man was caught stealing in a supermarket today while balanced on the shoulders of a couple of vampires. He was charged with shoplifting on two counts. 
+I’ve got this disease where I can’t stop making airport puns. The doctor says it terminal.
 
 
 ## Daily Trivia
 
-In computing terms, typically what does CLI stand for?
- 1. Command Line Interface
- 2. Common Language Input
- 3. Control Line Interface
- 4. Common Language Interface
+Which of the following computer components can be built using only NAND gates?
+ 1. Register
+ 2. RAM
+ 3. CPU
+ 4. ALU
 
 <details>
   <summary>Answer</summary>
-  Command Line Interface
+  ALU
 </details>
 
 
