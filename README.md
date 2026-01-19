@@ -4,16 +4,16 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Sometimes I tuck my knees into my chest and lean forward.  That’s just how I roll.
+Don't buy flowers at a monastery. Because only you can prevent florist friars.
 
 
 ## Daily Trivia
 
 In computing, what does LAN stand for?
  1. Long Antenna Node
- 2. Local Area Network
- 3. Land Address Navigation
- 4. Light Access Node
+ 2. Land Address Navigation
+ 3. Light Access Node
+ 4. Local Area Network
 
 <details>
   <summary>Answer</summary>
