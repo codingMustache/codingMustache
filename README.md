@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of tree fits in your hand? A palm tree!
+Two parrots are sitting on a perch. One turns to the other and asks, "do you smell fish?"
 
 
 ## Daily Trivia
 
-How many Hz does the video standard PAL support?
- 1. 50
- 2. 25
- 3. 60
- 4. 59
+What does CPU stand for?
+ 1. Central Processing Unit
+ 2. Central Processor Unit
+ 3. Computer Personal Unit
+ 4. Central Process Unit
 
 <details>
   <summary>Answer</summary>
-  50
+  Central Processing Unit
 </details>
 
 
