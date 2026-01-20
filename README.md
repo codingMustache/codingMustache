@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why does Superman get invited to dinners? Because he is a Supperhero.
+What did the ocean say to the shore? Nothing, it just waved.
 
 
 ## Daily Trivia
 
-.rs is the top-level domain for what country?
- 1. Serbia
- 2. Romania
- 3. Rwanda
- 4. Russia
+The numbering system with a radix of 16 is more commonly referred to as 
+ 1. Hexidecimal
+ 2. Octal
+ 3. Duodecimal
+ 4. Binary
 
 <details>
   <summary>Answer</summary>
-  Serbia
+  Hexidecimal
 </details>
 
 
