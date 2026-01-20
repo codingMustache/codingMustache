@@ -4,16 +4,17 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the beaver say to the tree? It's been nice gnawing you.
+What did the green grape say to the purple grape?
+BREATH!!
 
 
 ## Daily Trivia
 
 What does the acronym CDN stand for in terms of networking?
- 1. Compressed Data Network
- 2. Computational Data Network
- 3. Content Distribution Network
- 4. Content Delivery Network
+ 1. Content Delivery Network
+ 2. Content Distribution Network
+ 3. Compressed Data Network
+ 4. Computational Data Network
 
 <details>
   <summary>Answer</summary>
