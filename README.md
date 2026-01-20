@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-They laughed when I said I wanted to be a comedian – they’re not laughing now.
+What do you call a crowd of chess players bragging about their wins in a hotel lobby? Chess nuts boasting in an open foyer.
 
 
 ## Daily Trivia
 
-How fast is USB 3.1 Gen 2 theoretically?
- 1. 5 Gb/s
- 2. 8 Gb/s
- 3. 1 Gb/s
- 4. 10 Gb/s
+Which one of these is not an official development name for a Ubuntu release?
+ 1. Trusty Tahr
+ 2. Utopic Unicorn
+ 3. Wily Werewolf
+ 4. Mystic Mansion
 
 <details>
   <summary>Answer</summary>
-  10 Gb/s
+  Mystic Mansion
 </details>
 
 
