@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-"Dad, I'm hungry." Hello, Hungry. I'm Dad.
+It's difficult to say what my wife does, she sells sea shells by the sea shore.
 
 
 ## Daily Trivia
 
-What language does Node.js use?
- 1. Java
- 2. Java Source
- 3. Joomla Source Code
- 4. JavaScript
+What was the first company to use the term &quot;Golden Master&quot;?
+ 1. Microsoft
+ 2. IBM
+ 3. Apple
+ 4. Google
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  Apple
 </details>
 
 
