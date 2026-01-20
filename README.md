@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Two guys walked into a bar, the third one ducked.
+Why are skeletons so calm? Because nothing gets under their skin.
 
 
 ## Daily Trivia
 
-Which of the following languages is used as a scripting language in the Unity 3D game engine?
- 1. Objective-C
- 2. C#
- 3. Java
- 4. C++
+What is the main CPU is the Sega Mega Drive / Sega Genesis?
+ 1. Yamaha YM2612
+ 2. Motorola 68000
+ 3. Zilog Z80
+ 4. Intel 8088
 
 <details>
   <summary>Answer</summary>
-  C#
+  Motorola 68000
 </details>
 
 
