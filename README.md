@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where’s the bin? Dad: I haven’t been anywhere!
+Why is no one friends with Dracula? Because he's a pain in the neck.
 
 
 ## Daily Trivia
 
-What does the &#039;S&#039; in the RSA encryption algorithm stand for?
- 1. Secure
- 2. Schottky
- 3. Stable
- 4. Shamir
+Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
+ 1. 1.5 MHz
+ 2. 44.1 kHz
+ 3. 32.0 kHz
+ 4. 20.5 kHz
 
 <details>
   <summary>Answer</summary>
-  Shamir
+  44.1 kHz
 </details>
 
 
