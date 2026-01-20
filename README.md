@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do pirates not know the alphabet? They always get stuck at "C".
+If you walk into a forest and cut down a tree, but the tree doesn't understand why you cut it down, do you think it's stumped?
 
 
 ## Daily Trivia
 
-If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
- 1. JavaScript
- 2. C++
- 3. Python
- 4. Binary
+Nvidia&#039;s headquarters are based in which Silicon Valley city?
+ 1. Santa Clara
+ 2. Mountain View
+ 3. Cupertino
+ 4. Palo Alto
 
 <details>
   <summary>Answer</summary>
-  Binary
+  Santa Clara
 </details>
 
 
