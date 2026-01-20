@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I’ve deleted the phone numbers of all the Germans I know from my mobile phone. Now it’s Hans free.
+A red and a blue ship have just collided in the Caribbean. Apparently the survivors are marooned.
 
 
 ## Daily Trivia
 
-In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
- 1. printf(&quot;Hello World&quot;)
- 2. print(&quot;Hello World&quot;)
- 3. echo &quot;Hello World&quot;
- 4. console.log(&quot;Hello World&quot;)
+Which one of these is not an official development name for a Ubuntu release?
+ 1. Trusty Tahr
+ 2. Utopic Unicorn
+ 3. Wily Werewolf
+ 4. Mystic Mansion
 
 <details>
   <summary>Answer</summary>
-  print(&quot;Hello World&quot;)
+  Mystic Mansion
 </details>
 
 
