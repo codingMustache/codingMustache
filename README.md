@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I accidentally drank a bottle of invisible ink. Now I’m in hospital, waiting to be seen.
+What do you call a troublesome Canadian high schooler? A poutine.
 
 
 ## Daily Trivia
 
-What five letter word is the motto of the IBM Computer company?
- 1. Think
- 2. Pixel
- 3. Logic
- 4. Click
+What does RAID stand for?
+ 1. Redundant Array of Independent Disks
+ 2. Randomized Abstract Identification Description
+ 3. Range of Applications with Identical Designs
+ 4. Rapid Access for Indexed Devices
 
 <details>
   <summary>Answer</summary>
-  Think
+  Redundant Array of Independent Disks
 </details>
 
 
