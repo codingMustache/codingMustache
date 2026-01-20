@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a troublesome Canadian high schooler? A poutine.
+Conjunctivitis.com – now that’s a site for sore eyes.
 
 
 ## Daily Trivia
 
-What does RAID stand for?
- 1. Redundant Array of Independent Disks
- 2. Randomized Abstract Identification Description
- 3. Range of Applications with Identical Designs
- 4. Rapid Access for Indexed Devices
+.at is the top-level domain for what country?
+ 1. Argentina
+ 2. Austria
+ 3. Australia
+ 4. Angola
 
 <details>
   <summary>Answer</summary>
-  Redundant Array of Independent Disks
+  Austria
 </details>
 
 
