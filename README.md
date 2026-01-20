@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It's difficult to say what my wife does, she sells sea shells by the sea shore.
+Where do hamburgers go to dance? The meat-ball.
 
 
 ## Daily Trivia
 
-What was the first company to use the term &quot;Golden Master&quot;?
- 1. Microsoft
- 2. IBM
- 3. Apple
- 4. Google
+What is the domain name for the country Tuvalu?
+ 1. .tv
+ 2. .tt
+ 3. .tu
+ 4. .tl
 
 <details>
   <summary>Answer</summary>
-  Apple
+  .tv
 </details>
 
 
