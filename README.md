@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are skeletons so calm? Because nothing gets under their skin.
+Have you heard of the band 1023MB? They haven't got a gig yet.
 
 
 ## Daily Trivia
 
-What is the main CPU is the Sega Mega Drive / Sega Genesis?
- 1. Yamaha YM2612
- 2. Motorola 68000
- 3. Zilog Z80
- 4. Intel 8088
+In computing, what does LAN stand for?
+ 1. Long Antenna Node
+ 2. Light Access Node
+ 3. Land Address Navigation
+ 4. Local Area Network
 
 <details>
   <summary>Answer</summary>
-  Motorola 68000
+  Local Area Network
 </details>
 
 
