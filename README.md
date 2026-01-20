@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do hamburgers go to dance? The meat-ball.
+Just watched a documentary about beavers… It was the best damn program I’ve ever seen.
 
 
 ## Daily Trivia
 
-What is the domain name for the country Tuvalu?
- 1. .tv
- 2. .tt
- 3. .tu
- 4. .tl
+How many values can a single byte represent?
+ 1. 1024
+ 2. 8
+ 3. 256
+ 4. 1
 
 <details>
   <summary>Answer</summary>
-  .tv
+  256
 </details>
 
 
