@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the ocean say to the shore? Nothing, it just waved.
+Why are ghosts bad liars? Because you can see right through them!
 
 
 ## Daily Trivia
 
-The numbering system with a radix of 16 is more commonly referred to as 
- 1. Hexidecimal
- 2. Octal
- 3. Duodecimal
- 4. Binary
+What was the first commerically available computer processor?
+ 1. TMS 1000
+ 2. Intel 4004
+ 3. Intel 486SX
+ 4. AMD AM386
 
 <details>
   <summary>Answer</summary>
-  Hexidecimal
+  Intel 4004
 </details>
 
 
