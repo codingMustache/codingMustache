@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A red and a blue ship have just collided in the Caribbean. Apparently the survivors are marooned.
+Why does Superman get invited to dinners? Because he is a Supperhero.
 
 
 ## Daily Trivia
 
-Which one of these is not an official development name for a Ubuntu release?
- 1. Trusty Tahr
- 2. Utopic Unicorn
- 3. Wily Werewolf
- 4. Mystic Mansion
+.rs is the top-level domain for what country?
+ 1. Serbia
+ 2. Romania
+ 3. Rwanda
+ 4. Russia
 
 <details>
   <summary>Answer</summary>
-  Mystic Mansion
+  Serbia
 </details>
 
 
