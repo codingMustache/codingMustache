@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the green grape say to the purple grape?
-BREATH!!
+I have the heart of a lion... and a lifetime ban from the San Diego Zoo.
 
 
 ## Daily Trivia
 
-What does the acronym CDN stand for in terms of networking?
- 1. Content Delivery Network
- 2. Content Distribution Network
- 3. Compressed Data Network
- 4. Computational Data Network
+HTML is what type of language?
+ 1. Markup Language
+ 2. Scripting Language
+ 3. Programming Language
+ 4. Macro Language
 
 <details>
   <summary>Answer</summary>
-  Content Delivery Network
+  Markup Language
 </details>
 
 
