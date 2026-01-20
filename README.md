@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call cheese by itself? Provolone.
+Why do valley girls hang out in odd numbered groups? Because they can't even.
 
 
 ## Daily Trivia
 
-Which computer hardware device provides an interface for all other connected devices to communicate?
- 1. Central Processing Unit
- 2. Motherboard
- 3. Hard Disk Drive
- 4. Random Access Memory
+What is the code name for the mobile operating system Android 7.0?
+ 1. Nougat
+ 2. Ice Cream Sandwich
+ 3. Marshmallow
+ 4. Jelly Bean
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  Nougat
 </details>
 
 
