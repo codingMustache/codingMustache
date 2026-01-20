@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I cut my finger chopping cheese, but I think that I may have grater problems.
+Why did the scarecrow win an award? Because he was outstanding in his field.
 
 
 ## Daily Trivia
 
-The Harvard architecture for micro-controllers added which additional bus?
- 1. Control
- 2. Data
- 3. Address
- 4. Instruction
+All of the following programs are classified as raster graphics editors EXCEPT:
+ 1. Adobe Photoshop
+ 2. GIMP
+ 3. Paint.NET
+ 4. Inkscape
 
 <details>
   <summary>Answer</summary>
-  Instruction
+  Inkscape
 </details>
 
 
