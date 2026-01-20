@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-To the person who stole my anti-depressant pills: I hope you're happy now.
+Why do valley girls hang out in odd numbered groups? Because they can't even.
 
 
 ## Daily Trivia
 
-On which day did the World Wide Web go online?
- 1. December 20, 1990
- 2. November 12, 1990
- 3. December 17, 1996
- 4. November 24, 1995
+Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
+ 1. Four Years
+ 2. Two Years
+ 3. Year
+ 4. Eight Years
 
 <details>
   <summary>Answer</summary>
-  December 20, 1990
+  Year
 </details>
 
 
