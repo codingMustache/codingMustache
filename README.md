@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the teddy bear say “no” to dessert? Because she was stuffed.
+A ghost walks into a bar and asks for a glass of vodka but the bar tender says, “sorry we don’t serve spirits”
 
 
 ## Daily Trivia
 
-On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
- 1. Asterisk
- 2. Dollar Sign
- 3. Percent Sign
- 4. Exclamation Mark
+Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
+ 1. JavaScript
+ 2. Python
+ 3. C#
+ 4. PHP
 
 <details>
   <summary>Answer</summary>
-  Exclamation Mark
+  JavaScript
 </details>
 
 
