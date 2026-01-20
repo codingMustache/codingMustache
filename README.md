@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are ghosts bad liars? Because you can see right through them!
+I cut my finger chopping cheese, but I think that I may have grater problems.
 
 
 ## Daily Trivia
 
-What was the first commerically available computer processor?
- 1. TMS 1000
- 2. Intel 4004
- 3. Intel 486SX
- 4. AMD AM386
+The Harvard architecture for micro-controllers added which additional bus?
+ 1. Control
+ 2. Data
+ 3. Address
+ 4. Instruction
 
 <details>
   <summary>Answer</summary>
-  Intel 4004
+  Instruction
 </details>
 
 
