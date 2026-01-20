@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I have the heart of a lion... and a lifetime ban from the San Diego Zoo.
+Why did the Clydesdale give the pony a glass of water?  Because he was a little horse!
 
 
 ## Daily Trivia
 
-HTML is what type of language?
- 1. Markup Language
- 2. Scripting Language
- 3. Programming Language
- 4. Macro Language
+What does the Prt Sc button do?
+ 1. Closes all windows
+ 2. Captures what&#039;s on the screen and copies it to your clipboard
+ 3. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
+ 4. Nothing
 
 <details>
   <summary>Answer</summary>
-  Markup Language
+  Captures what&#039;s on the screen and copies it to your clipboard
 </details>
 
 
