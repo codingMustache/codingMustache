@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do valley girls hang out in odd numbered groups? Because they can't even.
+Why do you never see elephants hiding in trees? Because they're so good at it.
 
 
 ## Daily Trivia
 
-What is the code name for the mobile operating system Android 7.0?
- 1. Nougat
- 2. Ice Cream Sandwich
- 3. Marshmallow
- 4. Jelly Bean
+What does AD stand for in relation to Windows Operating Systems? 
+ 1. Automated Database
+ 2. Alternative Drive
+ 3. Active Directory
+ 4. Active Department
 
 <details>
   <summary>Answer</summary>
-  Nougat
+  Active Directory
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **8 days** since this server shutdown
+Its been **9 days** since this server shutdown
