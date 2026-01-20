@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A ghost walks into a bar and asks for a glass of vodka but the bar tender says, “sorry we don’t serve spirits”
+I decided to sell my Hoover… well it was just collecting dust.
 
 
 ## Daily Trivia
 
-Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
- 1. JavaScript
- 2. Python
- 3. C#
- 4. PHP
+What is the name of the process that sends one qubit of information using two bits of classical information?
+ 1. Quantum Teleportation
+ 2. Super Dense Coding
+ 3. Quantum Entanglement
+ 4. Quantum Programming
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  Quantum Teleportation
 </details>
 
 
