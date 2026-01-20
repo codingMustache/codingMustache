@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why is no one friends with Dracula? Because he's a pain in the neck.
+To the person who stole my anti-depressant pills: I hope you're happy now.
 
 
 ## Daily Trivia
 
-Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
- 1. 1.5 MHz
- 2. 44.1 kHz
- 3. 32.0 kHz
- 4. 20.5 kHz
+On which day did the World Wide Web go online?
+ 1. December 20, 1990
+ 2. November 12, 1990
+ 3. December 17, 1996
+ 4. November 24, 1995
 
 <details>
   <summary>Answer</summary>
-  44.1 kHz
+  December 20, 1990
 </details>
 
 
