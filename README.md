@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a crowd of chess players bragging about their wins in a hotel lobby? Chess nuts boasting in an open foyer.
+Two guys walked into a bar, the third one ducked.
 
 
 ## Daily Trivia
 
-Which one of these is not an official development name for a Ubuntu release?
- 1. Trusty Tahr
- 2. Utopic Unicorn
- 3. Wily Werewolf
- 4. Mystic Mansion
+Which of the following languages is used as a scripting language in the Unity 3D game engine?
+ 1. Objective-C
+ 2. C#
+ 3. Java
+ 4. C++
 
 <details>
   <summary>Answer</summary>
-  Mystic Mansion
+  C#
 </details>
 
 
