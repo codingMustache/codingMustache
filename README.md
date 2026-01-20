@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I wish I could clean mirrors for a living. It's just something I can see myself doing.
+How do you make a hankie dance? Put a little boogie in it.
 
 
 ## Daily Trivia
 
-What does &quot;LCD&quot; stand for?
- 1. Long Continuous Design
- 2. Liquid Crystal Display
- 3. Last Common Difference
- 4. Language Control Design
+Which of the following is a personal computer made by the Japanese company Fujitsu?
+ 1. FM-7
+ 2. PC-9801
+ 3. Xmillennium 
+ 4. MSX
 
 <details>
   <summary>Answer</summary>
-  Liquid Crystal Display
+  FM-7
 </details>
 
 
