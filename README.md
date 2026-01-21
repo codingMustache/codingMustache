@@ -4,22 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
- I never wanted to believe that my Dad was stealing from his job as a road worker. But when I got home, all the signs were there.
-
-
+Yesterday a clown held a door open for me. I thought it was a nice jester.
 
 
 ## Daily Trivia
 
-What does RAID stand for?
- 1. Range of Applications with Identical Designs
- 2. Rapid Access for Indexed Devices
- 3. Redundant Array of Independent Disks
- 4. Randomized Abstract Identification Description
+The teapot often seen in many 3D modeling applications is called what?
+ 1. Utah Teapot
+ 2. Tennessee Teapot
+ 3. 3D Teapot
+ 4. Pixar Teapot
 
 <details>
   <summary>Answer</summary>
-  Redundant Array of Independent Disks
+  Utah Teapot
 </details>
 
 
