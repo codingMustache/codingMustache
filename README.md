@@ -4,15 +4,15 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My pet mouse 'Elvis' died last night. He was caught in a trap..
+What did the ocean say to the beach? Thanks for all the sediment.
 
 
 ## Daily Trivia
 
 What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
- 1. Sandy Bridge
- 2. Broadwell
- 3. Skylake
+ 1. Broadwell
+ 2. Skylake
+ 3. Sandy Bridge
  4. Coffee Lake
 
 <details>
