@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I thought about going on an all-almond diet. But that's just nuts.
+Today, my son asked "Can I have a book mark?" and I burst into tears. 11 years old and he still doesn't know my name is Brian.
 
 
 ## Daily Trivia
 
-What is the number of keys on a standard Windows Keyboard?
- 1. 76
- 2. 104
- 3. 64
- 4. 94
+In the server hosting industry IaaS stands for...
+ 1. Infrastructure as a Service
+ 2. Infrastructure as a Server
+ 3. Internet and a Server
+ 4. Internet as a Service
 
 <details>
   <summary>Answer</summary>
-  104
+  Infrastructure as a Service
 </details>
 
 
