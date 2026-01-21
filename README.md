@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do I look like? A JOKE MACHINE!?
+What did the fish say when it swam into a wall? Damn!
 
 
 ## Daily Trivia
 
-Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
- 1. Clipper Chip
- 2. Enigma Machine
- 3. Skipjack
- 4. Nautilus
+Dutch computer scientist Mark Overmars is known for creating which game development engine?
+ 1. Torque 2D
+ 2. Construct
+ 3. Game Maker
+ 4. Stencyl
 
 <details>
   <summary>Answer</summary>
-  Clipper Chip
+  Game Maker
 </details>
 
 
