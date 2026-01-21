@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My friend keeps telling me "Cheer up. You aren't stuck in a deep hole in the ground, filled with water."
-I know he means well.
+When my wife told me to stop impersonating a flamingo, I had to put my foot down.
 
 
 ## Daily Trivia
 
-How many bytes are in a single Kibibyte?
- 1. 2400
- 2. 1240
- 3. 1000
- 4. 1024
+Which RAID array type is associated with data mirroring?
+ 1. RAID 0
+ 2. RAID 1
+ 3. RAID 10
+ 4. RAID 5
 
 <details>
   <summary>Answer</summary>
-  1024
+  RAID 1
 </details>
 
 
