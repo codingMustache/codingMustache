@@ -4,22 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Never Trust Someone With Graph Paper...
-
-They're always plotting something.
+What is bread's favorite number?  Leaven.
 
 
 ## Daily Trivia
 
-While Apple was formed in California, in which western state was Microsoft founded?
- 1. Arizona
- 2. Colorado
- 3. New Mexico
- 4. Washington
+The acronym &quot;RIP&quot; stands for which of these?
+ 1. Routing Information Protocol
+ 2. Regular Interval Processes
+ 3. Runtime Instance Processes
+ 4. Routine Inspection Protocol
 
 <details>
   <summary>Answer</summary>
-  New Mexico
+  Routing Information Protocol
 </details>
 
 
