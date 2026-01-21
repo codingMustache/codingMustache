@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Who did the wizard marry? His ghoul-friend
+I thought about going on an all-almond diet. But that's just nuts.
 
 
 ## Daily Trivia
 
-Dutch computer scientist Mark Overmars is known for creating which game development engine?
- 1. Stencyl
- 2. Torque 2D
- 3. Construct
- 4. Game Maker
+What is the number of keys on a standard Windows Keyboard?
+ 1. 76
+ 2. 104
+ 3. 64
+ 4. 94
 
 <details>
   <summary>Answer</summary>
-  Game Maker
+  104
 </details>
 
 
