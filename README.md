@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A woman is on trial for beating her husband to death with his guitar collection. Judge says, ‘First offender?’ She says, ‘No, first a Gibson! Then a Fender!’
+I gave all my dead batteries away today, free of charge.
 
 
 ## Daily Trivia
 
-Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
- 1. 44.1 kHz
- 2. 20.5 kHz
- 3. 1.5 MHz
- 4. 32.0 kHz
+In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
+ 1. print(&quot;Hello World&quot;)
+ 2. console.log(&quot;Hello World&quot;)
+ 3. echo &quot;Hello World&quot;
+ 4. printf(&quot;Hello World&quot;)
 
 <details>
   <summary>Answer</summary>
-  44.1 kHz
+  print(&quot;Hello World&quot;)
 </details>
 
 
