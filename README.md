@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to be addicted to soap, but I'm clean now.
+What do I look like? A JOKE MACHINE!?
 
 
 ## Daily Trivia
 
-What was the first company to use the term &quot;Golden Master&quot;?
- 1. Apple
- 2. Google
- 3. Microsoft
- 4. IBM
+Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
+ 1. Clipper Chip
+ 2. Enigma Machine
+ 3. Skipjack
+ 4. Nautilus
 
 <details>
   <summary>Answer</summary>
-  Apple
+  Clipper Chip
 </details>
 
 
