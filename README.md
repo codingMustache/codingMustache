@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is bread's favorite number?  Leaven.
+Why doesn't the Chimney-Sweep call out sick from work? Because he's used to working with a flue.
 
 
 ## Daily Trivia
 
-The acronym &quot;RIP&quot; stands for which of these?
- 1. Routing Information Protocol
- 2. Regular Interval Processes
- 3. Runtime Instance Processes
- 4. Routine Inspection Protocol
+What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
+ 1. Broadwell
+ 2. Skylake
+ 3. Coffee Lake
+ 4. Sandy Bridge
 
 <details>
   <summary>Answer</summary>
-  Routing Information Protocol
+  Coffee Lake
 </details>
 
 
