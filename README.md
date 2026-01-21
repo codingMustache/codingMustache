@@ -4,20 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I gave all my dead batteries away today, free of charge.
+Mahatma Gandhi, as you know, walked barefoot most of the time, which produced an impressive set of calluses on his feet. 
+He also ate very little, which made him rather frail and with his odd diet, he suffered from bad breath. 
+This made him a super calloused fragile mystic hexed by halitosis.
 
 
 ## Daily Trivia
 
-In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
- 1. print(&quot;Hello World&quot;)
- 2. console.log(&quot;Hello World&quot;)
- 3. echo &quot;Hello World&quot;
- 4. printf(&quot;Hello World&quot;)
+In computing terms, typically what does CLI stand for?
+ 1. Common Language Input
+ 2. Control Line Interface
+ 3. Common Language Interface
+ 4. Command Line Interface
 
 <details>
   <summary>Answer</summary>
-  print(&quot;Hello World&quot;)
+  Command Line Interface
 </details>
 
 
