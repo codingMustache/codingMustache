@@ -4,20 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is the leading cause of dry skin? Towels
+ I never wanted to believe that my Dad was stealing from his job as a road worker. But when I got home, all the signs were there.
+
+
 
 
 ## Daily Trivia
 
-Lenovo acquired IBM&#039;s personal computer division, including the ThinkPad line of laptops and tablets, in what year?
- 1. 2002
- 2. 2005
- 3. 2008
- 4. 1999
+What does RAID stand for?
+ 1. Range of Applications with Identical Designs
+ 2. Rapid Access for Indexed Devices
+ 3. Redundant Array of Independent Disks
+ 4. Randomized Abstract Identification Description
 
 <details>
   <summary>Answer</summary>
-  2005
+  Redundant Array of Independent Disks
 </details>
 
 
