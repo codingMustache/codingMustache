@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why doesn't the Chimney-Sweep call out sick from work? Because he's used to working with a flue.
+Why are ghosts bad liars? Because you can see right through them!
 
 
 ## Daily Trivia
 
-What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
- 1. Broadwell
- 2. Skylake
- 3. Coffee Lake
- 4. Sandy Bridge
+Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
+ 1. C#
+ 2. JavaScript
+ 3. Python
+ 4. PHP
 
 <details>
   <summary>Answer</summary>
-  Coffee Lake
+  JavaScript
 </details>
 
 
