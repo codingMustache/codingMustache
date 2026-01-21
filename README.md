@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do young cows eat lunch? In the calf-ateria.
+Coffee has a tough time at my house, every morning it gets mugged.
 
 
 ## Daily Trivia
 
-What internet protocol was documented in RFC 1459?
- 1. HTTPS
- 2. FTP
- 3. IRC
- 4. HTTP
+Which programming language shares its name with an island in Indonesia?
+ 1. Java
+ 2. Jakarta
+ 3. C
+ 4. Python
 
 <details>
   <summary>Answer</summary>
-  IRC
+  Java
 </details>
 
 
