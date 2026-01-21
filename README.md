@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is a tornado's favorite game to play? Twister!
+People are shocked to discover I have a police record but I love their greatest hits!
 
 
 ## Daily Trivia
 
-In networking, what does OSPF stand for?
- 1. Open Signal Path Finder
- 2. Open Shortest Path First
- 3. Order Sense Ping Find
- 4. Order State Part First
+Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
+ 1. JavaScript
+ 2. PHP
+ 3. Python
+ 4. C#
 
 <details>
   <summary>Answer</summary>
-  Open Shortest Path First
+  JavaScript
 </details>
 
 
