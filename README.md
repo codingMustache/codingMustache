@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the cheese factory that exploded in France? There was nothing left but de Brie.
+How does a dyslexic poet write? Inverse.
 
 
 ## Daily Trivia
 
-In programming, what do you call functions with the same name but different implementations?
- 1. Inheriting
- 2. Abstracting
- 3. Overriding
- 4. Overloading
+Which kind of algorithm is Ron Rivest not famous for creating?
+ 1. Secret sharing scheme
+ 2. Hashing algorithm
+ 3. Asymmetric encryption
+ 4. Stream cipher
 
 <details>
   <summary>Answer</summary>
-  Overloading
+  Secret sharing scheme
 </details>
 
 
