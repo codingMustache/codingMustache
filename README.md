@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-People are shocked to discover I have a police record but I love their greatest hits!
+My friend keeps telling me "Cheer up. You aren't stuck in a deep hole in the ground, filled with water."
+I know he means well.
 
 
 ## Daily Trivia
 
-Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
- 1. JavaScript
- 2. PHP
- 3. Python
- 4. C#
+How many bytes are in a single Kibibyte?
+ 1. 2400
+ 2. 1240
+ 3. 1000
+ 4. 1024
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  1024
 </details>
 
 
