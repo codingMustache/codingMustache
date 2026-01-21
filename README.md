@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a bee that lives in America? A USB.
+Why did the kid throw the clock out the window? He wanted to see time fly!
 
 
 ## Daily Trivia
 
-According to the International System of Units, how many bytes are in a kilobyte of RAM?
+Approximately how many Apple I personal computers were created?
  1. 1000
- 2. 500
- 3. 1024
- 4. 512
+ 2. 200
+ 3. 500
+ 4. 100
 
 <details>
   <summary>Answer</summary>
-  1000
+  200
 </details>
 
 
