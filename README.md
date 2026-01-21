@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is the leading cause of dry skin? Towels
+What do you call your friend who stands in a hole? Phil.
 
 
 ## Daily Trivia
 
-Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
- 1. Four Years
- 2. Year
- 3. Two Years
- 4. Eight Years
+In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
+ 1. Yellow
+ 2. Green
+ 3. Blue
+ 4. Red
 
 <details>
   <summary>Answer</summary>
-  Year
+  Green
 </details>
 
 
