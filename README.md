@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How does a dyslexic poet write? Inverse.
+Why do cows not have toes? They lactose!
 
 
 ## Daily Trivia
 
-Which kind of algorithm is Ron Rivest not famous for creating?
- 1. Secret sharing scheme
- 2. Hashing algorithm
- 3. Asymmetric encryption
- 4. Stream cipher
+In computing terms, typically what does CLI stand for?
+ 1. Common Language Input
+ 2. Control Line Interface
+ 3. Command Line Interface
+ 4. Common Language Interface
 
 <details>
   <summary>Answer</summary>
-  Secret sharing scheme
+  Command Line Interface
 </details>
 
 
