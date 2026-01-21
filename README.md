@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the fish say when it swam into a wall? Damn!
+What is the leading cause of dry skin? Towels
 
 
 ## Daily Trivia
 
-Dutch computer scientist Mark Overmars is known for creating which game development engine?
- 1. Torque 2D
- 2. Construct
- 3. Game Maker
- 4. Stencyl
+Lenovo acquired IBM&#039;s personal computer division, including the ThinkPad line of laptops and tablets, in what year?
+ 1. 2002
+ 2. 2005
+ 3. 2008
+ 4. 1999
 
 <details>
   <summary>Answer</summary>
-  Game Maker
+  2005
 </details>
 
 
