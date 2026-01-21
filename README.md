@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do cows not have toes? They lactose!
+What did the father tomato say to the baby tomato whilst on a family walk? Ketchup.
 
 
 ## Daily Trivia
 
-In computing terms, typically what does CLI stand for?
- 1. Common Language Input
- 2. Control Line Interface
- 3. Command Line Interface
- 4. Common Language Interface
+Which of these is not a key value of Agile software development?
+ 1. Comprehensive documentation
+ 2. Individuals and interactions
+ 3. Responding to change
+ 4. Customer collaboration
 
 <details>
   <summary>Answer</summary>
-  Command Line Interface
+  Comprehensive documentation
 </details>
 
 
