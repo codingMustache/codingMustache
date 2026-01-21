@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-"Dad, do you think it's going to snow this winter?" "I dont know, its all up in the air"
+If two vegans are having an argument, is it still considered beef?
 
 
 ## Daily Trivia
 
-Which of these people was NOT a founder of Apple Inc?
- 1. Jonathan Ive
- 2. Steve Wozniak
- 3. Ronald Wayne
- 4. Steve Jobs
+What does the acronym CDN stand for in terms of networking?
+ 1. Content Delivery Network
+ 2. Compressed Data Network
+ 3. Computational Data Network
+ 4. Content Distribution Network
 
 <details>
   <summary>Answer</summary>
-  Jonathan Ive
+  Content Delivery Network
 </details>
 
 
