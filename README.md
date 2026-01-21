@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Today, my son asked "Can I have a book mark?" and I burst into tears. 11 years old and he still doesn't know my name is Brian.
+A woman is on trial for beating her husband to death with his guitar collection. Judge says, ‘First offender?’ She says, ‘No, first a Gibson! Then a Fender!’
 
 
 ## Daily Trivia
 
-In the server hosting industry IaaS stands for...
- 1. Infrastructure as a Service
- 2. Infrastructure as a Server
- 3. Internet and a Server
- 4. Internet as a Service
+Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
+ 1. 44.1 kHz
+ 2. 20.5 kHz
+ 3. 1.5 MHz
+ 4. 32.0 kHz
 
 <details>
   <summary>Answer</summary>
-  Infrastructure as a Service
+  44.1 kHz
 </details>
 
 
