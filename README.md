@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call your friend who stands in a hole? Phil.
+What is a tornado's favorite game to play? Twister!
 
 
 ## Daily Trivia
 
-In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
- 1. Yellow
- 2. Green
- 3. Blue
- 4. Red
+In networking, what does OSPF stand for?
+ 1. Open Signal Path Finder
+ 2. Open Shortest Path First
+ 3. Order Sense Ping Find
+ 4. Order State Part First
 
 <details>
   <summary>Answer</summary>
-  Green
+  Open Shortest Path First
 </details>
 
 
