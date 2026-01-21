@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-"I'm sorry." "Hi sorry, I'm dad"
+I've been trying to come up with a dad joke about momentum . . . but I just can't seem to get it going.
 
 
 ## Daily Trivia
 
-Dutch computer scientist Mark Overmars is known for creating which game development engine?
- 1. Stencyl
- 2. Construct
- 3. Torque 2D
- 4. Game Maker
+What does the computer software acronym JVM stand for?
+ 1. Just Virtual Machine
+ 2. Java Virtual Machine
+ 3. Java Vendor Machine
+ 4. Java Visual Machine
 
 <details>
   <summary>Answer</summary>
-  Game Maker
+  Java Virtual Machine
 </details>
 
 
