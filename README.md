@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's blue and not very heavy?  Light blue.
+I'm practicing for a bug-eating contest and I've got butterflies in my stomach.
 
 
 ## Daily Trivia
 
-The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
- 1. United States
- 2. Germany
- 3. China (People&#039;s Republic of)
- 4. Taiwan
+Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
+ 1. Cherry MX Brown
+ 2. Cherry MX Blue
+ 3. Cherry MX Red
+ 4. Cherry MX Black
 
 <details>
   <summary>Answer</summary>
-  Taiwan
+  Cherry MX Blue
 </details>
 
 
