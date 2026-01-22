@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the opera singer go sailing? They wanted to hit the high Cs.
+Did you know that protons have mass? I didn't even know they were catholic.
 
 
 ## Daily Trivia
 
-What language does Node.js use?
- 1. JavaScript
- 2. Java
- 3. Joomla Source Code
- 4. Java Source
+What is the name of the process that sends one qubit of information using two bits of classical information?
+ 1. Quantum Teleportation
+ 2. Quantum Programming
+ 3. Super Dense Coding
+ 4. Quantum Entanglement
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  Quantum Teleportation
 </details>
 
 
