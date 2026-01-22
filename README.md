@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the cow who jumped over the barbed wire fence? It was udder destruction.
+My wife said I was immature. So I told her to get out of my fort.
 
 
 ## Daily Trivia
 
-What does the term MIME stand for, in regards to computing?
- 1. Multipurpose Internet Mail Extensions
- 2. Mail Internet Mail Exchange
- 3. Multipurpose Interleave Mail Exchange
- 4. Mail Interleave Method Exchange
+The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
+ 1. HD Graphics 700 
+ 2. HD Graphics 7000
+ 3. HD Graphics 500
+ 4. HD Graphics 600
 
 <details>
   <summary>Answer</summary>
-  Multipurpose Internet Mail Extensions
+  HD Graphics 500
 </details>
 
 
