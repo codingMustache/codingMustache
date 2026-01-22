@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I am so good at sleeping I can do it with my eyes closed!
+Yesterday a clown held a door open for me. I thought it was a nice jester.
 
 
 ## Daily Trivia
 
-What was the first commerically available computer processor?
- 1. TMS 1000
- 2. AMD AM386
- 3. Intel 4004
- 4. Intel 486SX
+Which of the following is NOT a computer science algorithm?
+ 1. Bubble Sort
+ 2. Merge Sort
+ 3. Quick Sort
+ 4. Float Sort
 
 <details>
   <summary>Answer</summary>
-  Intel 4004
+  Float Sort
 </details>
 
 
