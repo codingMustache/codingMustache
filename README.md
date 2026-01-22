@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the new restaurant on the moon? The food is great, but there’s just no atmosphere.
+How does a French skeleton say hello? Bone-jour.
 
 
 ## Daily Trivia
 
-In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
- 1. echo &quot;Hello World&quot;
- 2. console.log(&quot;Hello World&quot;)
- 3. printf(&quot;Hello World&quot;)
- 4. print(&quot;Hello World&quot;)
+In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
+ 1. Final
+ 2. Static
+ 3. Public
+ 4. Private
 
 <details>
   <summary>Answer</summary>
-  print(&quot;Hello World&quot;)
+  Final
 </details>
 
 
