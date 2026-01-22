@@ -4,21 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the cookie cry?
-Because his mother was a wafer so long
+What did the green grape say to the purple grape?
+BREATH!!
 
 
 ## Daily Trivia
 
-Which of these is not a layer in the OSI model for data communications?
- 1. Connection Layer
- 2. Physical Layer
- 3. Transport Layer
- 4. Application Layer
+Laserjet and inkjet printers are both examples of what type of printer?
+ 1. Impact printer
+ 2. Daisywheel printer
+ 3. Dot matrix printer
+ 4. Non-impact printer
 
 <details>
   <summary>Answer</summary>
-  Connection Layer
+  Non-impact printer
 </details>
 
 
