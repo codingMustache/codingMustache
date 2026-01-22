@@ -4,20 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a cow with no legs? Ground beef.
+What's large, grey, and doesn't matter?
+An irrelephant.
+
 
 
 ## Daily Trivia
 
-What was the first commerically available computer processor?
- 1. AMD AM386
- 2. TMS 1000
- 3. Intel 486SX
- 4. Intel 4004
+Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
+ 1. JavaScript
+ 2. PHP
+ 3. Python
+ 4. C#
 
 <details>
   <summary>Answer</summary>
-  Intel 4004
+  JavaScript
 </details>
 
 
