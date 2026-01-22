@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-As I suspected, someone has been adding soil to my garden. The plot thickens.
+Why do trees seem suspicious on sunny days? Dunno, they're just a bit shady.
 
 
 ## Daily Trivia
 
-What is the code name for the mobile operating system Android 7.0?
- 1. Jelly Bean
- 2. Ice Cream Sandwich
- 3. Marshmallow
- 4. Nougat
+In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
+ 1. center
+ 2. relative
+ 3. absolute
+ 4. static
 
 <details>
   <summary>Answer</summary>
-  Nougat
+  center
 </details>
 
 
