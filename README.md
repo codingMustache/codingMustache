@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A woman is on trial for beating her husband to death with his guitar collection. Judge says, ‘First offender?’ She says, ‘No, first a Gibson! Then a Fender!’
+What's red and bad for your teeth? A Brick.
 
 
 ## Daily Trivia
 
-What is the name of Layer 7 of the OSI model?
- 1. Application
- 2. Present
- 3. Network
- 4. Session
+What does LTS stand for in the software market?
+ 1. Ludicrous Turbo Speed
+ 2. Ludicrous Transfer Speed
+ 3. Long Term Support
+ 4. Long Taco Service
 
 <details>
   <summary>Answer</summary>
-  Application
+  Long Term Support
 </details>
 
 
