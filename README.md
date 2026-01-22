@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Archaeology really is a career in ruins.
+My sister bet me $15 that I couldn't build a car out of spaghetti. You should have seen the look on her face as I drove pasta.
 
 
 ## Daily Trivia
 
-What programming language was GitHub written in?
- 1. JavaScript
- 2. Python
- 3. Lua
- 4. Ruby
+America Online (AOL) started out as which of these online service providers?
+ 1. Prodigy
+ 2. CompuServe
+ 3. GEnie
+ 4. Quantum Link
 
 <details>
   <summary>Answer</summary>
-  Ruby
+  Quantum Link
 </details>
 
 
