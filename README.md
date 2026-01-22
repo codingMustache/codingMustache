@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do trees seem suspicious on sunny days? Dunno, they're just a bit shady.
+If you think swimming with dolphins is expensive, you should try swimming with sharks--it cost me an arm and a leg!
 
 
 ## Daily Trivia
 
-In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
- 1. center
- 2. relative
- 3. absolute
- 4. static
+How many bytes are in a single Kibibyte?
+ 1. 1240
+ 2. 2400
+ 3. 1000
+ 4. 1024
 
 <details>
   <summary>Answer</summary>
-  center
+  1024
 </details>
 
 
