@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A beekeeper was indicted after he confessed to years of stealing at work. They charged him with emBEEzlement
+It's only a murder of crows if there's probable caws.
 
 
 ## Daily Trivia
 
-How many bytes are in a single Kibibyte?
- 1. 1240
- 2. 1024
- 3. 1000
- 4. 2400
+What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
+ 1. Sandy Bridge
+ 2. Skylake
+ 3. Broadwell
+ 4. Coffee Lake
 
 <details>
   <summary>Answer</summary>
-  1024
+  Coffee Lake
 </details>
 
 
