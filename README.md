@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why don't skeletons ride roller coasters? They don't have the stomach for it.
+What do you call a cow with no legs? Ground beef.
 
 
 ## Daily Trivia
 
-Which of these programming languages is a low-level language?
- 1. Assembly
- 2. Pascal
- 3. C#
- 4. Python
+What was the first commerically available computer processor?
+ 1. AMD AM386
+ 2. TMS 1000
+ 3. Intel 486SX
+ 4. Intel 4004
 
 <details>
   <summary>Answer</summary>
-  Assembly
+  Intel 4004
 </details>
 
 
