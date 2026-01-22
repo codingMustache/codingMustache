@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How does a French skeleton say hello? Bone-jour.
+When will the little snake arrive? I don't know but he won't be long...
 
 
 ## Daily Trivia
 
-In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
- 1. Final
- 2. Static
- 3. Public
- 4. Private
+In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
+ 1. &lt;scroll&gt;&lt;/scroll&gt;
+ 2. &lt;move&gt;&lt;/move&gt;
+ 3. &lt;slide&gt;&lt;/slide&gt;
+ 4. &lt;marquee&gt;&lt;/marquee&gt;
 
 <details>
   <summary>Answer</summary>
-  Final
+  &lt;marquee&gt;&lt;/marquee&gt;
 </details>
 
 
