@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you know that protons have mass? I didn't even know they were catholic.
+I am so good at sleeping I can do it with my eyes closed!
 
 
 ## Daily Trivia
 
-What is the name of the process that sends one qubit of information using two bits of classical information?
- 1. Quantum Teleportation
- 2. Quantum Programming
- 3. Super Dense Coding
- 4. Quantum Entanglement
+What was the first commerically available computer processor?
+ 1. TMS 1000
+ 2. AMD AM386
+ 3. Intel 4004
+ 4. Intel 486SX
 
 <details>
   <summary>Answer</summary>
-  Quantum Teleportation
+  Intel 4004
 </details>
 
 
