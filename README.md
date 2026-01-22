@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the kid throw the clock out the window? He wanted to see time fly!
+What do you call a sheep with no legs? A cloud.
 
 
 ## Daily Trivia
 
-Approximately how many Apple I personal computers were created?
- 1. 1000
- 2. 200
- 3. 500
- 4. 100
+Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
+ 1. 32.0 kHz
+ 2. 44.1 kHz
+ 3. 1.5 MHz
+ 4. 20.5 kHz
 
 <details>
   <summary>Answer</summary>
-  200
+  44.1 kHz
 </details>
 
 
