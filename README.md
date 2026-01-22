@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I asked a frenchman if he played video games. He said "Wii"
+Why couldn't the lifeguard save the hippie? He was too far out, man.
 
 
 ## Daily Trivia
 
-Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
- 1. Atari
- 2. Apple
- 3. Microsoft
- 4. Commodore
+What was the first Android version specifically optimized for tablets?
+ 1. Honeycomb
+ 2. Eclair
+ 3. Marshmellow
+ 4. Froyo
 
 <details>
   <summary>Answer</summary>
-  Apple
+  Honeycomb
 </details>
 
 
