@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you know that ghosts call their true love their ghoul-friend?
+It's only a murder of crows if there's probable caws.
 
 
 ## Daily Trivia
 
-What is the name of Layer 7 of the OSI model?
- 1. Network
- 2. Session
- 3. Present
- 4. Application
+All of the following programs are classified as raster graphics editors EXCEPT:
+ 1. Paint.NET
+ 2. GIMP
+ 3. Adobe Photoshop
+ 4. Inkscape
 
 <details>
   <summary>Answer</summary>
-  Application
+  Inkscape
 </details>
 
 
