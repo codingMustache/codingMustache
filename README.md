@@ -9,15 +9,15 @@ What's red and bad for your teeth? A Brick.
 
 ## Daily Trivia
 
-What does LTS stand for in the software market?
- 1. Ludicrous Turbo Speed
- 2. Ludicrous Transfer Speed
- 3. Long Term Support
- 4. Long Taco Service
+Whistler was the codename of this Microsoft Operating System.
+ 1. Windows 2000
+ 2. Windows 7
+ 3. Windows 95
+ 4. Windows XP
 
 <details>
   <summary>Answer</summary>
-  Long Term Support
+  Windows XP
 </details>
 
 
