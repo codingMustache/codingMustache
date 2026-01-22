@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's red and bad for your teeth? A Brick.
+I asked a frenchman if he played video games. He said "Wii"
 
 
 ## Daily Trivia
 
-Whistler was the codename of this Microsoft Operating System.
- 1. Windows 2000
- 2. Windows 7
- 3. Windows 95
- 4. Windows XP
+Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
+ 1. Atari
+ 2. Apple
+ 3. Microsoft
+ 4. Commodore
 
 <details>
   <summary>Answer</summary>
-  Windows XP
+  Apple
 </details>
 
 
