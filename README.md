@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What happens when you anger a brain surgeon? They will give you a piece of your mind.
+What did the green grape say to the purple grape?
+BREATH!!
 
 
 ## Daily Trivia
 
-Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
- 1. C#
- 2. Python
- 3. PHP
- 4. JavaScript
+What port does HTTP run on?
+ 1. 23
+ 2. 53
+ 3. 443
+ 4. 80
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  80
 </details>
 
 
