@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a sheep with no legs? A cloud.
+Did you know that ghosts call their true love their ghoul-friend?
 
 
 ## Daily Trivia
 
-Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
- 1. 32.0 kHz
- 2. 44.1 kHz
- 3. 1.5 MHz
- 4. 20.5 kHz
+What is the name of Layer 7 of the OSI model?
+ 1. Network
+ 2. Session
+ 3. Present
+ 4. Application
 
 <details>
   <summary>Answer</summary>
-  44.1 kHz
+  Application
 </details>
 
 
