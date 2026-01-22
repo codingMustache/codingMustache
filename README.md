@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-"What time is it?" I don't know... it keeps changing.
+What's blue and not very heavy?  Light blue.
 
 
 ## Daily Trivia
 
-What is known as &quot;the brain&quot; of the Computer?
- 1. Graphics Processing Unit
- 2. Central Processing Unit
- 3. Motherboard
- 4. Keyboard
+The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
+ 1. United States
+ 2. Germany
+ 3. China (People&#039;s Republic of)
+ 4. Taiwan
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  Taiwan
 </details>
 
 
