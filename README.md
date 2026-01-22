@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My sister bet me $15 that I couldn't build a car out of spaghetti. You should have seen the look on her face as I drove pasta.
+Two peanuts were walking down the street. One was a salted.
 
 
 ## Daily Trivia
 
-America Online (AOL) started out as which of these online service providers?
- 1. Prodigy
- 2. CompuServe
- 3. GEnie
- 4. Quantum Link
+How many Hz does the video standard PAL support?
+ 1. 50
+ 2. 59
+ 3. 60
+ 4. 25
 
 <details>
   <summary>Answer</summary>
-  Quantum Link
+  50
 </details>
 
 
