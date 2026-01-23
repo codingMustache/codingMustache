@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a bee that lives in America? A USB.
+"Why do seagulls fly over the ocean?" "Because if they flew over the bay, we'd call them bagels."
 
 
 ## Daily Trivia
 
-Which of these names was an actual codename for a cancelled Microsoft project?
- 1. Saturn
- 2. Neptune
- 3. Pollux
- 4. Enceladus
+What programming language was GitHub written in?
+ 1. JavaScript
+ 2. Python
+ 3. Lua
+ 4. Ruby
 
 <details>
   <summary>Answer</summary>
-  Neptune
+  Ruby
 </details>
 
 
