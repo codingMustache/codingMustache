@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A man walks into a bar and orders helicopter flavor chips. The barman replies “sorry mate we only do plain”
+R.I.P. boiled water. You will be mist.
 
 
 ## Daily Trivia
 
-HTML is what type of language?
- 1. Macro Language
- 2. Programming Language
- 3. Scripting Language
- 4. Markup Language
+In programming, what do you call functions with the same name but different implementations?
+ 1. Overloading
+ 2. Overriding
+ 3. Inheriting
+ 4. Abstracting
 
 <details>
   <summary>Answer</summary>
-  Markup Language
+  Overloading
 </details>
 
 
