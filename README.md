@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you get when you cross a bee and a sheep? A bah-humbug.
-
+How do you get a baby alien to sleep?  You rocket.
 
 
 ## Daily Trivia
 
-Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
- 1. Puma
- 2. Tiger
- 3. Leopard
- 4. Cheetah
+According to the International System of Units, how many bytes are in a kilobyte of RAM?
+ 1. 500
+ 2. 1000
+ 3. 1024
+ 4. 512
 
 <details>
   <summary>Answer</summary>
-  Cheetah
+  1000
 </details>
 
 
