@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later.
+Why doesn't the Chimney-Sweep call out sick from work? Because he's used to working with a flue.
 
 
 ## Daily Trivia
 
-How many bits make up the significand portion of a single precision floating point number?
- 1. 8
- 2. 53
- 3. 15
- 4. 23
+What is the name of Layer 7 of the OSI model?
+ 1. Present
+ 2. Network
+ 3. Application
+ 4. Session
 
 <details>
   <summary>Answer</summary>
-  23
+  Application
 </details>
 
 
