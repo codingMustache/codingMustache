@@ -4,20 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the A go to the bathroom and come out as an E? Because he had a vowel movement.
+What's the worst part about being a cross-eyed teacher?
+
+They can't control their pupils.
 
 
 ## Daily Trivia
 
-Which of these names was an actual codename for a cancelled Microsoft project?
- 1. Neptune
- 2. Pollux
- 3. Enceladus
- 4. Saturn
+According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:
+ 1. A&#039;B + B&#039;A
+ 2. A&#039; + B&#039;
+ 3. AB&#039; + AB
+ 4. A&#039;B&#039;
 
 <details>
   <summary>Answer</summary>
-  Neptune
+  A&#039; + B&#039;
 </details>
 
 
