@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a criminal going down the stairs? Condescending
+Sore throats are a pain in the neck!
 
 
 ## Daily Trivia
 
-The acronym &quot;RIP&quot; stands for which of these?
- 1. Runtime Instance Processes
- 2. Regular Interval Processes
- 3. Routine Inspection Protocol
- 4. Routing Information Protocol
+What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
+ 1. Heat Vent
+ 2. Temperature Decipator
+ 3. Heat Sink
+ 4. CPU Vent
 
 <details>
   <summary>Answer</summary>
-  Routing Information Protocol
+  Heat Sink
 </details>
 
 
