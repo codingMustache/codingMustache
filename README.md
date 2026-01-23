@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I tried to write a chemistry joke, but could never get a reaction.
+Where does batman go to the bathroom? The batroom.
 
 
 ## Daily Trivia
 
-What major programming language does Unreal Engine 4 use?
- 1. C++
- 2. Assembly
- 3. C#
- 4. ECMAScript
+Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
+ 1. Amazon
+ 2. Shopify
+ 3. Overstock
+ 4. eBay
 
 <details>
   <summary>Answer</summary>
-  C++
+  Amazon
 </details>
 
 
