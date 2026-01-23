@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Chances are if you' ve seen one shopping center, you've seen a mall.
+Why was the picture sent to prison? It was framed.
 
 
 ## Daily Trivia
 
-Which data structure does FILO apply to?
- 1. Stack
- 2. Tree
- 3. Heap
- 4. Queue
+When did the online streaming service &quot;Mixer&quot; launch?
+ 1. 2009
+ 2. 2016
+ 3. 2011
+ 4. 2013
 
 <details>
   <summary>Answer</summary>
-  Stack
+  2016
 </details>
 
 
