@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where does batman go to the bathroom? The batroom.
+Don’t interrupt someone working intently on a puzzle. Chances are, you’ll hear some crosswords.
 
 
 ## Daily Trivia
 
-Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
- 1. Amazon
- 2. Shopify
- 3. Overstock
- 4. eBay
+On Twitter, what was the original character limit for a Tweet?
+ 1. 140
+ 2. 120
+ 3. 100
+ 4. 160
 
 <details>
   <summary>Answer</summary>
-  Amazon
+  140
 </details>
 
 
