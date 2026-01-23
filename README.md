@@ -4,20 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-R.I.P. boiled water. You will be mist.
+What's the worst part about being a cross-eyed teacher?
+
+They can't control their pupils.
 
 
 ## Daily Trivia
 
-In programming, what do you call functions with the same name but different implementations?
- 1. Overloading
- 2. Overriding
- 3. Inheriting
- 4. Abstracting
+Which data structure does FILO apply to?
+ 1. Heap
+ 2. Tree
+ 3. Stack
+ 4. Queue
 
 <details>
   <summary>Answer</summary>
-  Overloading
+  Stack
 </details>
 
 
