@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What animal is always at a game of cricket? A bat.
+A ghost walks into a bar and asks for a glass of vodka but the bar tender says, “sorry we don’t serve spirits”
 
 
 ## Daily Trivia
 
-In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
- 1. Final
- 2. Static
- 3. Private
- 4. Public
+Lenovo acquired IBM&#039;s personal computer division, including the ThinkPad line of laptops and tablets, in what year?
+ 1. 2002
+ 2. 1999
+ 3. 2005
+ 4. 2008
 
 <details>
   <summary>Answer</summary>
-  Final
+  2005
 </details>
 
 
