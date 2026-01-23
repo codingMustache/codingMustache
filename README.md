@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I wear a stethoscope so that in a medical emergency I can teach people a valuable lesson about assumptions.
+The best time on a clock is 6:30--hands down.
 
 
 ## Daily Trivia
 
-Nvidia&#039;s headquarters are based in which Silicon Valley city?
- 1. Mountain View
- 2. Cupertino
- 3. Palo Alto
- 4. Santa Clara
+What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
+ 1. Sandy Bridge
+ 2. Skylake
+ 3. Broadwell
+ 4. Coffee Lake
 
 <details>
   <summary>Answer</summary>
-  Santa Clara
+  Coffee Lake
 </details>
 
 
