@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Whoever invented the knock-knock joke should get a no bell prize.
+Did you hear about the guy who invented Lifesavers? They say he made a mint.
 
 
 ## Daily Trivia
 
-Which SQL keyword is used to fetch data from a database?
- 1. SELECT
- 2. EXEC
- 3. VALUES
- 4. INDEX
+How many bits make up the significand portion of a single precision floating point number?
+ 1. 8
+ 2. 23
+ 3. 15
+ 4. 53
 
 <details>
   <summary>Answer</summary>
-  SELECT
+  23
 </details>
 
 
