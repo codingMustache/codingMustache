@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What’s brown and sounds like a bell? Dung!
+I’m on a whiskey diet. I’ve lost three days already.
 
 
 ## Daily Trivia
 
-On which computer hardware device is the BIOS chip located?
- 1. Hard Disk Drive
- 2. Central Processing Unit
- 3. Graphics Processing Unit
- 4. Motherboard
+Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
+ 1. Microsoft
+ 2. Atari
+ 3. Commodore
+ 4. Apple
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  Apple
 </details>
 
 
