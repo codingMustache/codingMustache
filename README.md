@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-So, I heard this pun about cows, but it’s kinda offensive so I won’t say it. I don’t want there to be any beef between us. 
+Two peanuts were walking down the street. One was a salted
 
 
 ## Daily Trivia
 
-Which RAID array type is associated with data mirroring?
- 1. RAID 0
- 2. RAID 5
- 3. RAID 10
- 4. RAID 1
+What does the &quot;MP&quot; stand for in MP3?
+ 1. Music Player
+ 2. Moving Picture
+ 3. Multi Pass
+ 4. Micro Point
 
 <details>
   <summary>Answer</summary>
-  RAID 1
+  Moving Picture
 </details>
 
 
