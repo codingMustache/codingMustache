@@ -4,16 +4,16 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the scarecrow win an award? Because he was outstanding in his field.
+What kind of dinosaur loves to sleep? A stega-snore-us.
 
 
 ## Daily Trivia
 
 The C programming language was created by this American computer scientist. 
- 1. Willis Ware
- 2. al-Khwārizmī
- 3. Dennis Ritchie
- 4. Tim Berners Lee
+ 1. Tim Berners Lee
+ 2. Dennis Ritchie
+ 3. al-Khwārizmī
+ 4. Willis Ware
 
 <details>
   <summary>Answer</summary>
