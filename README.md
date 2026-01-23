@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Don’t interrupt someone working intently on a puzzle. Chances are, you’ll hear some crosswords.
+I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later.
 
 
 ## Daily Trivia
 
-On Twitter, what was the original character limit for a Tweet?
- 1. 140
- 2. 120
- 3. 100
- 4. 160
+How many bits make up the significand portion of a single precision floating point number?
+ 1. 8
+ 2. 53
+ 3. 15
+ 4. 23
 
 <details>
   <summary>Answer</summary>
-  140
+  23
 </details>
 
 
