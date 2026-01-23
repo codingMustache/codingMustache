@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why is it always hot in the corner of a room? Because a corner is 90 degrees.
+How do you fix a broken pizza? With tomato paste.
 
 
 ## Daily Trivia
 
-In computing, what does MIDI stand for?
- 1. Musical Instrument Digital Interface
- 2. Musical Instrument Data Interface
- 3. Modular Interface of Digital Instruments
- 4. Musical Interface of Digital Instruments
+How many cores does the Intel i7-6950X have?
+ 1. 4
+ 2. 8
+ 3. 10
+ 4. 12
 
 <details>
   <summary>Answer</summary>
-  Musical Instrument Digital Interface
+  10
 </details>
 
 
