@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you get a baby alien to sleep?  You rocket.
+I used to work in a shoe recycling shop. It was sole destroying.
 
 
 ## Daily Trivia
 
-According to the International System of Units, how many bytes are in a kilobyte of RAM?
- 1. 500
- 2. 1000
- 3. 1024
- 4. 512
+When Gmail first launched, how much storage did it provide for your email?
+ 1. 1GB
+ 2. Unlimited
+ 3. 5GB
+ 4. 512MB
 
 <details>
   <summary>Answer</summary>
-  1000
+  1GB
 </details>
 
 
