@@ -4,22 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the worst part about being a cross-eyed teacher?
-
-They can't control their pupils.
+Why did the A go to the bathroom and come out as an E? Because he had a vowel movement.
 
 
 ## Daily Trivia
 
-Which data structure does FILO apply to?
- 1. Heap
- 2. Tree
- 3. Stack
- 4. Queue
+Which of these names was an actual codename for a cancelled Microsoft project?
+ 1. Neptune
+ 2. Pollux
+ 3. Enceladus
+ 4. Saturn
 
 <details>
   <summary>Answer</summary>
-  Stack
+  Neptune
 </details>
 
 
