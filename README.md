@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I’m on a whiskey diet. I’ve lost three days already.
+I been watching a channel on TV that is strictly just about origami — of course it is paper-view.
 
 
 ## Daily Trivia
 
-Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
- 1. Microsoft
- 2. Atari
- 3. Commodore
- 4. Apple
+.rs is the top-level domain for what country?
+ 1. Romania
+ 2. Russia
+ 3. Serbia
+ 4. Rwanda
 
 <details>
   <summary>Answer</summary>
-  Apple
+  Serbia
 </details>
 
 
