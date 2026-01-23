@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the dog say to the two trees? Bark bark.
+Thanks for explaining the word "many" to me. It means a lot.
 
 
 ## Daily Trivia
 
-Lenovo acquired IBM&#039;s personal computer division, including the ThinkPad line of laptops and tablets, in what year?
- 1. 2005
- 2. 2008
- 3. 2002
- 4. 1999
+What was the name of the security vulnerability found in Bash in 2014?
+ 1. Shellshock
+ 2. Heartbleed
+ 3. Bashbug
+ 4. Stagefright
 
 <details>
   <summary>Answer</summary>
-  2005
+  Shellshock
 </details>
 
 
