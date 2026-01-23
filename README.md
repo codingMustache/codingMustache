@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Two peanuts were walking down the street. One was a salted
+What animal is always at a game of cricket? A bat.
 
 
 ## Daily Trivia
 
-What does the &quot;MP&quot; stand for in MP3?
- 1. Music Player
- 2. Moving Picture
- 3. Multi Pass
- 4. Micro Point
+In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
+ 1. Final
+ 2. Static
+ 3. Private
+ 4. Public
 
 <details>
   <summary>Answer</summary>
-  Moving Picture
+  Final
 </details>
 
 
