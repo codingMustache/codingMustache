@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the guy who invented Lifesavers? They say he made a mint.
+Who did the wizard marry? His ghoul-friend
 
 
 ## Daily Trivia
 
-How many bits make up the significand portion of a single precision floating point number?
- 1. 8
- 2. 23
- 3. 15
- 4. 53
+Which of the following is the oldest of these computers by release date?
+ 1. Commodore 64
+ 2. TRS-80
+ 3. ZX Spectrum
+ 4. Apple 3
 
 <details>
   <summary>Answer</summary>
-  23
+  TRS-80
 </details>
 
 
