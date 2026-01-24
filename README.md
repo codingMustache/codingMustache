@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear that David lost his ID in prague? Now we just have to call him Dav.
+I was thinking about moving to Moscow but there is no point Russian into things.
 
 
 ## Daily Trivia
 
-What does the &quot;MP&quot; stand for in MP3?
- 1. Music Player
- 2. Multi Pass
- 3. Micro Point
- 4. Moving Picture
+Approximately how many Apple I personal computers were created?
+ 1. 100
+ 2. 500
+ 3. 1000
+ 4. 200
 
 <details>
   <summary>Answer</summary>
-  Moving Picture
+  200
 </details>
 
 
