@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the late tomato say to the early tomato? I’ll ketch up
+Chances are if you' ve seen one shopping center, you've seen a mall.
 
 
 ## Daily Trivia
 
-What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
- 1. Data link
- 2. Session
- 3. Transport
- 4. Network
+What does the Prt Sc button do?
+ 1. Nothing
+ 2. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
+ 3. Closes all windows
+ 4. Captures what&#039;s on the screen and copies it to your clipboard
 
 <details>
   <summary>Answer</summary>
-  Transport
+  Captures what&#039;s on the screen and copies it to your clipboard
 </details>
 
 
