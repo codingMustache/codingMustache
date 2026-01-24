@@ -4,22 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many seconds are in a year?
-12.
-January 2nd, February 2nd, March 2nd, April 2nd.... etc
+Have you heard about the film "Constipation", you probably haven't because it's not out yet.
 
 
 ## Daily Trivia
 
-What does the acronym CDN stand for in terms of networking?
- 1. Computational Data Network
- 2. Compressed Data Network
- 3. Content Delivery Network
- 4. Content Distribution Network
+Who is the original author of the realtime physics engine called PhysX?
+ 1. Nvidia
+ 2. AMD
+ 3. NovodeX
+ 4. Ageia
 
 <details>
   <summary>Answer</summary>
-  Content Delivery Network
+  NovodeX
 </details>
 
 
