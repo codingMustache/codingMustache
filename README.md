@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you know you should always take an extra pair of pants golfing? Just in case you get a hole in one.
+In the news a courtroom artist was arrested today, I'm not surprised, he always seemed sketchy.
 
 
 ## Daily Trivia
 
-.rs is the top-level domain for what country?
- 1. Romania
- 2. Russia
- 3. Rwanda
- 4. Serbia
+According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:
+ 1. A&#039; + B&#039;
+ 2. AB&#039; + AB
+ 3. A&#039;B&#039;
+ 4. A&#039;B + B&#039;A
 
 <details>
   <summary>Answer</summary>
-  Serbia
+  A&#039; + B&#039;
 </details>
 
 
