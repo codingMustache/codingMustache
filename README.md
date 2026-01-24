@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A Skeleton walked into a bar he said I need a beer and a mop
+Did you know you should always take an extra pair of pants golfing? Just in case you get a hole in one.
 
 
 ## Daily Trivia
 
-Which of these is not a key value of Agile software development?
- 1. Responding to change
- 2. Comprehensive documentation
- 3. Customer collaboration
- 4. Individuals and interactions
+.rs is the top-level domain for what country?
+ 1. Romania
+ 2. Russia
+ 3. Rwanda
+ 4. Serbia
 
 <details>
   <summary>Answer</summary>
-  Comprehensive documentation
+  Serbia
 </details>
 
 
