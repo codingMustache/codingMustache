@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a monkey in a mine field? A babooooom!
-
+"I'm sorry." "Hi sorry, I'm dad"
 
 
 ## Daily Trivia
 
-America Online (AOL) started out as which of these online service providers?
- 1. CompuServe
- 2. Quantum Link
- 3. Prodigy
- 4. GEnie
+Generally, which component of a computer draws the most power?
+ 1. Video Card
+ 2. Hard Drive
+ 3. Processor
+ 4. Power Supply
 
 <details>
   <summary>Answer</summary>
-  Quantum Link
+  Video Card
 </details>
 
 
