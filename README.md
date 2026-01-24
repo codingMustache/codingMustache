@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the mountain climber name his son? Cliff.
+My friend keeps telling me "Cheer up. You aren't stuck in a deep hole in the ground, filled with water."
+I know he means well.
 
 
 ## Daily Trivia
 
-According to the International System of Units, how many bytes are in a kilobyte of RAM?
- 1. 1024
- 2. 500
- 3. 1000
- 4. 512
+In networking, what does OSPF stand for?
+ 1. Open Signal Path Finder
+ 2. Order State Part First
+ 3. Order Sense Ping Find
+ 4. Open Shortest Path First
 
 <details>
   <summary>Answer</summary>
-  1000
+  Open Shortest Path First
 </details>
 
 
