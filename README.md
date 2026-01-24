@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-In the news a courtroom artist was arrested today, I'm not surprised, he always seemed sketchy.
+I considered building the patio by myself. But I didn't have the stones.
 
 
 ## Daily Trivia
 
-According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:
- 1. A&#039; + B&#039;
- 2. AB&#039; + AB
- 3. A&#039;B&#039;
- 4. A&#039;B + B&#039;A
+What programming language was GitHub written in?
+ 1. JavaScript
+ 2. Ruby
+ 3. Python
+ 4. Lua
 
 <details>
   <summary>Answer</summary>
-  A&#039; + B&#039;
+  Ruby
 </details>
 
 
