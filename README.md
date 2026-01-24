@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why does Han Solo like gum? It's chewy!
+Why do trees seem suspicious on sunny days? Dunno, they're just a bit shady.
 
 
 ## Daily Trivia
 
-Which of these names was an actual codename for a cancelled Microsoft project?
- 1. Saturn
- 2. Neptune
- 3. Enceladus
- 4. Pollux
+Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
+ 1. Heartbleed
+ 2. Corrupted Blood
+ 3. Shellshock
+ 4. Shellscript
 
 <details>
   <summary>Answer</summary>
-  Neptune
+  Heartbleed
 </details>
 
 
