@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to work in a shoe recycling shop. It was sole destroying.
+There are two types of people in this world, those who can extrapolate from incomplete data...
 
 
 ## Daily Trivia
 
-When Gmail first launched, how much storage did it provide for your email?
- 1. 1GB
- 2. Unlimited
- 3. 5GB
- 4. 512MB
+What major programming language does Unreal Engine 4 use?
+ 1. Assembly
+ 2. C#
+ 3. ECMAScript
+ 4. C++
 
 <details>
   <summary>Answer</summary>
-  1GB
+  C++
 </details>
 
 
