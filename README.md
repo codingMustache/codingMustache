@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Chances are if you' ve seen one shopping center, you've seen a mall.
+What kind of music do planets listen to? Nep-tunes.
 
 
 ## Daily Trivia
 
-What does the Prt Sc button do?
- 1. Nothing
- 2. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
- 3. Closes all windows
- 4. Captures what&#039;s on the screen and copies it to your clipboard
+On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
+ 1. Dollar Sign
+ 2. Percent Sign
+ 3. Exclamation Mark
+ 4. Asterisk
 
 <details>
   <summary>Answer</summary>
-  Captures what&#039;s on the screen and copies it to your clipboard
+  Exclamation Mark
 </details>
 
 
