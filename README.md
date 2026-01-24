@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you get two whales in a car? Start in England and drive West.
+A quick shoutout to all of the sidewalks out there... Thanks for keeping me off the streets.
 
 
 ## Daily Trivia
 
-In computing terms, typically what does CLI stand for?
- 1. Command Line Interface
- 2. Common Language Input
- 3. Control Line Interface
- 4. Common Language Interface
+On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
+ 1. Dollar Sign
+ 2. Percent Sign
+ 3. Asterisk
+ 4. Exclamation Mark
 
 <details>
   <summary>Answer</summary>
-  Command Line Interface
+  Exclamation Mark
 </details>
 
 
