@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you do when you see a space man?
-Park your car, man.
+A Skeleton walked into a bar he said I need a beer and a mop
 
 
 ## Daily Trivia
 
-What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
- 1. ADPCM Sampler
- 2. PCM Sampler
- 3. Programmable Sound Generator (PSG)
- 4. FM Synthesizer
+Which of these is not a key value of Agile software development?
+ 1. Responding to change
+ 2. Comprehensive documentation
+ 3. Customer collaboration
+ 4. Individuals and interactions
 
 <details>
   <summary>Answer</summary>
-  ADPCM Sampler
+  Comprehensive documentation
 </details>
 
 
