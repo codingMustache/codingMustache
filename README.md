@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I saw an ad in a shop window, "Television for sale, $1, volume stuck on full", I thought, "I can't turn that down".
+Why was the big cat disqualified from the race? Because it was a cheetah.
 
 
 ## Daily Trivia
 
-How many kilobytes in one gigabyte (in decimal)?
- 1. 1048576
- 2. 1000
- 3. 1000000
- 4. 1024
+Who invented the &quot;Spanning Tree Protocol&quot;?
+ 1. Michael Roberts
+ 2. Paul Vixie
+ 3. Vint Cerf
+ 4. Radia Perlman
 
 <details>
   <summary>Answer</summary>
-  1000000
+  Radia Perlman
 </details>
 
 
