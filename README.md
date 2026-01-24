@@ -4,20 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why don't sharks eat clowns?  Because they taste funny.
+How many seconds are in a year?
+12.
+January 2nd, February 2nd, March 2nd, April 2nd.... etc
 
 
 ## Daily Trivia
 
-Which computer hardware device provides an interface for all other connected devices to communicate?
- 1. Central Processing Unit
- 2. Hard Disk Drive
- 3. Random Access Memory
- 4. Motherboard
+What does the acronym CDN stand for in terms of networking?
+ 1. Computational Data Network
+ 2. Compressed Data Network
+ 3. Content Delivery Network
+ 4. Content Distribution Network
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  Content Delivery Network
 </details>
 
 
