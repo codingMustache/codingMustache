@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My friend keeps telling me "Cheer up. You aren't stuck in a deep hole in the ground, filled with water."
-I know he means well.
+What did the late tomato say to the early tomato? I’ll ketch up
 
 
 ## Daily Trivia
 
-In networking, what does OSPF stand for?
- 1. Open Signal Path Finder
- 2. Order State Part First
- 3. Order Sense Ping Find
- 4. Open Shortest Path First
+What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
+ 1. Data link
+ 2. Session
+ 3. Transport
+ 4. Network
 
 <details>
   <summary>Answer</summary>
-  Open Shortest Path First
+  Transport
 </details>
 
 
