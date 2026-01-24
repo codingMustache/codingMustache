@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do trees seem suspicious on sunny days? Dunno, they're just a bit shady.
+Why don't sharks eat clowns?  Because they taste funny.
 
 
 ## Daily Trivia
 
-Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
- 1. Heartbleed
- 2. Corrupted Blood
- 3. Shellshock
- 4. Shellscript
+Which computer hardware device provides an interface for all other connected devices to communicate?
+ 1. Central Processing Unit
+ 2. Hard Disk Drive
+ 3. Random Access Memory
+ 4. Motherboard
 
 <details>
   <summary>Answer</summary>
-  Heartbleed
+  Motherboard
 </details>
 
 
