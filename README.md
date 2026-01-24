@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the knife dress up in a suit? Because it wanted to look sharp
+How do you get two whales in a car? Start in England and drive West.
 
 
 ## Daily Trivia
 
-In web design, what does CSS stand for?
- 1. Cascading Style Sheet
- 2. Computer Style Sheet
- 3. Corrective Style Sheet
- 4. Counter Strike: Source
+In computing terms, typically what does CLI stand for?
+ 1. Command Line Interface
+ 2. Common Language Input
+ 3. Control Line Interface
+ 4. Common Language Interface
 
 <details>
   <summary>Answer</summary>
-  Cascading Style Sheet
+  Command Line Interface
 </details>
 
 
