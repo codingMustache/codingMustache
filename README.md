@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of music do planets listen to? Nep-tunes.
+Why does Han Solo like gum? It's chewy!
 
 
 ## Daily Trivia
 
-On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
- 1. Dollar Sign
- 2. Percent Sign
- 3. Exclamation Mark
- 4. Asterisk
+Which of these names was an actual codename for a cancelled Microsoft project?
+ 1. Saturn
+ 2. Neptune
+ 3. Enceladus
+ 4. Pollux
 
 <details>
   <summary>Answer</summary>
-  Exclamation Mark
+  Neptune
 </details>
 
 
