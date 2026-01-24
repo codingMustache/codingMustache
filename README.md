@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the man put his money in the freezer? He wanted cold hard cash!
+Dad, can you put my shoes on? I don't think they'll fit me.
 
 
 ## Daily Trivia
 
-In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
- 1. relative
- 2. static
- 3. center
- 4. absolute
+What was the first Android version specifically optimized for tablets?
+ 1. Marshmellow
+ 2. Honeycomb
+ 3. Froyo
+ 4. Eclair
 
 <details>
   <summary>Answer</summary>
-  center
+  Honeycomb
 </details>
 
 
