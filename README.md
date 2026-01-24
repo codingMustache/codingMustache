@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are fish so smart? Because they live in schools!
+I wish I could clean mirrors for a living. It's just something I can see myself doing.
 
 
 ## Daily Trivia
 
-Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
- 1. 32.0 kHz
- 2. 44.1 kHz
- 3. 1.5 MHz
- 4. 20.5 kHz
+How long is an IPv6 address?
+ 1. 128 bytes
+ 2. 128 bits
+ 3. 64 bits
+ 4. 32 bits
 
 <details>
   <summary>Answer</summary>
-  44.1 kHz
+  128 bits
 </details>
 
 
