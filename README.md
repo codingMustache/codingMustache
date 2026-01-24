@@ -4,24 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A panda walks into a bar and says to the bartender “I’ll have a Scotch and . . . . . . . . . . . . . . Coke thank you”. 
-
-“Sure thing” the bartender replies and asks “but what’s with the big pause?” 
-
-The panda holds up his hands and says “I was born with them”
+What did the mountain climber name his son? Cliff.
 
 
 ## Daily Trivia
 
-What language does Node.js use?
- 1. JavaScript
- 2. Java
- 3. Java Source
- 4. Joomla Source Code
+According to the International System of Units, how many bytes are in a kilobyte of RAM?
+ 1. 1024
+ 2. 500
+ 3. 1000
+ 4. 512
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  1000
 </details>
 
 
