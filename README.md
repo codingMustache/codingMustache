@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I wish I could clean mirrors for a living. It's just something I can see myself doing.
+What do I look like? A JOKE MACHINE!?
 
 
 ## Daily Trivia
 
-How long is an IPv6 address?
- 1. 128 bytes
- 2. 128 bits
- 3. 64 bits
- 4. 32 bits
+What amount of bits commonly equals one byte?
+ 1. 8
+ 2. 64
+ 3. 1
+ 4. 2
 
 <details>
   <summary>Answer</summary>
-  128 bits
+  8
 </details>
 
 
