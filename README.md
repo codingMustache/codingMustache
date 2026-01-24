@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-"I'm sorry." "Hi sorry, I'm dad"
+A magician was driving down the street and then he turned into a driveway.
 
 
 ## Daily Trivia
 
-Generally, which component of a computer draws the most power?
- 1. Video Card
- 2. Hard Drive
- 3. Processor
- 4. Power Supply
+What does GHz stand for?
+ 1. Gigahotz
+ 2. Gigahertz
+ 3. Gigahetz
+ 4. Gigahatz
 
 <details>
   <summary>Answer</summary>
-  Video Card
+  Gigahertz
 </details>
 
 
