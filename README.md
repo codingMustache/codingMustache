@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the submarine industry? It really took a dive...
+The invention of the wheel was what got things rolling
 
 
 ## Daily Trivia
 
-What does &quot;LCD&quot; stand for?
- 1. Liquid Crystal Display
- 2. Long Continuous Design
- 3. Last Common Difference
- 4. Language Control Design
+What is the number of keys on a standard Windows Keyboard?
+ 1. 104
+ 2. 76
+ 3. 94
+ 4. 64
 
 <details>
   <summary>Answer</summary>
-  Liquid Crystal Display
+  104
 </details>
 
 
