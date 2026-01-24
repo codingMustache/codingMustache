@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was the big cat disqualified from the race? Because it was a cheetah.
+Sgt.: Commissar! Commissar! The troops are revolting! Commissar: Well, you’re pretty repulsive yourself.
 
 
 ## Daily Trivia
 
-Who invented the &quot;Spanning Tree Protocol&quot;?
- 1. Michael Roberts
- 2. Paul Vixie
- 3. Vint Cerf
- 4. Radia Perlman
+All of the following programs are classified as raster graphics editors EXCEPT:
+ 1. Paint.NET
+ 2. GIMP
+ 3. Adobe Photoshop
+ 4. Inkscape
 
 <details>
   <summary>Answer</summary>
-  Radia Perlman
+  Inkscape
 </details>
 
 
