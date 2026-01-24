@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I considered building the patio by myself. But I didn't have the stones.
+Where do hamburgers go to dance? The meat-ball.
 
 
 ## Daily Trivia
 
-What programming language was GitHub written in?
- 1. JavaScript
- 2. Ruby
- 3. Python
- 4. Lua
+In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
+ 1. center
+ 2. absolute
+ 3. static
+ 4. relative
 
 <details>
   <summary>Answer</summary>
-  Ruby
+  center
 </details>
 
 
