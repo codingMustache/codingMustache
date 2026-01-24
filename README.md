@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Frankenstein enters a bodybuilding competition and finds he has seriously misunderstood the objective.
+What do you do when you see a space man?
+Park your car, man.
 
 
 ## Daily Trivia
 
-What does the term MIME stand for, in regards to computing?
- 1. Multipurpose Internet Mail Extensions
- 2. Mail Interleave Method Exchange
- 3. Multipurpose Interleave Mail Exchange
- 4. Mail Internet Mail Exchange
+What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
+ 1. ADPCM Sampler
+ 2. PCM Sampler
+ 3. Programmable Sound Generator (PSG)
+ 4. FM Synthesizer
 
 <details>
   <summary>Answer</summary>
-  Multipurpose Internet Mail Extensions
+  ADPCM Sampler
 </details>
 
 
