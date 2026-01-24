@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a beehive without the b's? An eehive.
+Why do nurses carry around red crayons? Sometimes they need to draw blood.
 
 
 ## Daily Trivia
 
-In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
- 1. Red
- 2. Blue
- 3. Yellow
- 4. Green
+How many cores does the Intel i7-6950X have?
+ 1. 10
+ 2. 4
+ 3. 12
+ 4. 8
 
 <details>
   <summary>Answer</summary>
-  Green
+  10
 </details>
 
 
