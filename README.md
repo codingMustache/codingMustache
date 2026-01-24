@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I got a reversible jacket for Christmas, I can't wait to see how it turns out.
+Why are giraffes so slow to apologize? Because it takes them a long time to swallow their pride.
 
 
 ## Daily Trivia
 
-What does GHz stand for?
- 1. Gigahotz
- 2. Gigahetz
- 3. Gigahatz
- 4. Gigahertz
+In any programming language, what is the most common way to iterate through an array?
+ 1. &#039;While&#039; loops
+ 2. &#039;For&#039; loops
+ 3. &#039;If&#039; Statements
+ 4. &#039;Do-while&#039; loops
 
 <details>
   <summary>Answer</summary>
-  Gigahertz
+  &#039;For&#039; loops
 </details>
 
 
