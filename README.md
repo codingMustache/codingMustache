@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-There are two types of people in this world, those who can extrapolate from incomplete data...
+I saw an ad in a shop window, "Television for sale, $1, volume stuck on full", I thought, "I can't turn that down".
 
 
 ## Daily Trivia
 
-What major programming language does Unreal Engine 4 use?
- 1. Assembly
- 2. C#
- 3. ECMAScript
- 4. C++
+How many kilobytes in one gigabyte (in decimal)?
+ 1. 1048576
+ 2. 1000
+ 3. 1000000
+ 4. 1024
 
 <details>
   <summary>Answer</summary>
-  C++
+  1000000
 </details>
 
 
