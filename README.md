@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I was thinking about moving to Moscow but there is no point Russian into things.
+"Dad, I'm hungry." Hello, Hungry. I'm Dad.
 
 
 ## Daily Trivia
 
-Approximately how many Apple I personal computers were created?
- 1. 100
- 2. 500
- 3. 1000
- 4. 200
+Australia, Japan, and Southeast Asia are in which ITU Region?
+ 1. Region 3
+ 2. Region 1
+ 3. Region 4
+ 4. Region 2
 
 <details>
   <summary>Answer</summary>
-  200
+  Region 3
 </details>
 
 
