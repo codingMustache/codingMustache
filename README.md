@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A quick shoutout to all of the sidewalks out there... Thanks for keeping me off the streets.
+Why did the man put his money in the freezer? He wanted cold hard cash!
 
 
 ## Daily Trivia
 
-On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
- 1. Dollar Sign
- 2. Percent Sign
- 3. Asterisk
- 4. Exclamation Mark
+In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
+ 1. relative
+ 2. static
+ 3. center
+ 4. absolute
 
 <details>
   <summary>Answer</summary>
-  Exclamation Mark
+  center
 </details>
 
 
