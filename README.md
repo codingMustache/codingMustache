@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It’s hard to explain puns to kleptomaniacs, because they take everything literally.
+Whiteboards ... are remarkable.
 
 
 ## Daily Trivia
 
-Which kind of algorithm is Ron Rivest not famous for creating?
- 1. Hashing algorithm
- 2. Secret sharing scheme
- 3. Stream cipher
- 4. Asymmetric encryption
+Australia, Japan, and Southeast Asia are in which ITU Region?
+ 1. Region 2
+ 2. Region 3
+ 3. Region 4
+ 4. Region 1
 
 <details>
   <summary>Answer</summary>
-  Secret sharing scheme
+  Region 3
 </details>
 
 
