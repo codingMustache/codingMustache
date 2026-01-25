@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the shy pebble wish for? That she was a little boulder.
+I always wanted to look into why I procrastinate, but I keep putting it off. 
 
 
 ## Daily Trivia
 
-According to the International System of Units, how many bytes are in a kilobyte of RAM?
- 1. 500
- 2. 1024
- 3. 512
- 4. 1000
+Which of the following languages is used as a scripting language in the Unity 3D game engine?
+ 1. C++
+ 2. C#
+ 3. Java
+ 4. Objective-C
 
 <details>
   <summary>Answer</summary>
-  1000
+  C#
 </details>
 
 
