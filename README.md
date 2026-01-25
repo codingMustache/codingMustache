@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-If you want a job in the moisturizer industry, the best advice I can give is to apply daily.
+What kind of music do mummy's like? Rap
 
 
 ## Daily Trivia
 
-Which of the following computer components can be built using only NAND gates?
- 1. ALU
- 2. Register
- 3. RAM
- 4. CPU
+Which of the following is a personal computer made by the Japanese company Fujitsu?
+ 1. FM-7
+ 2. MSX
+ 3. Xmillennium 
+ 4. PC-9801
 
 <details>
   <summary>Answer</summary>
-  ALU
+  FM-7
 </details>
 
 
