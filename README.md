@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call two guys hanging out by your window? Kurt & Rod.
+What do you call a pile of cats?  A Meowtain.
 
 
 ## Daily Trivia
 
-In web design, what does CSS stand for?
- 1. Corrective Style Sheet
- 2. Counter Strike: Source
- 3. Computer Style Sheet
- 4. Cascading Style Sheet
+What amount of bits commonly equals one byte?
+ 1. 8
+ 2. 64
+ 3. 2
+ 4. 1
 
 <details>
   <summary>Answer</summary>
-  Cascading Style Sheet
+  8
 </details>
 
 
