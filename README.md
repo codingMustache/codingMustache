@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My boss told me to have a good day. So I went home...
+I couldn't get a reservation at the library. They were completely booked.
 
 
 ## Daily Trivia
 
-Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
- 1. Microsoft
- 2. Commodore
- 3. Atari
- 4. Apple
+What major programming language does Unreal Engine 4 use?
+ 1. C#
+ 2. Assembly
+ 3. C++
+ 4. ECMAScript
 
 <details>
   <summary>Answer</summary>
-  Apple
+  C++
 </details>
 
 
