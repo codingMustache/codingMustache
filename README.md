@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I considered building the patio by myself. But I didn't have the stones.
+I’m reading a book on the history of glue – can’t put it down.
 
 
 ## Daily Trivia
 
-Which one of these is not an official development name for a Ubuntu release?
- 1. Wily Werewolf
- 2. Utopic Unicorn
- 3. Trusty Tahr
- 4. Mystic Mansion
+Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
+ 1. C#
+ 2. Python
+ 3. PHP
+ 4. JavaScript
 
 <details>
   <summary>Answer</summary>
-  Mystic Mansion
+  JavaScript
 </details>
 
 
