@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to hate facial hair, but then it grew on me.
+What biscuit does a short person like? Shortbread. 
 
 
 ## Daily Trivia
 
-On which computer hardware device is the BIOS chip located?
- 1. Motherboard
- 2. Hard Disk Drive
- 3. Central Processing Unit
- 4. Graphics Processing Unit
+What does the term GPU stand for?
+ 1. Graphical Proprietary Unit
+ 2. Gaming Processor Unit
+ 3. Graphics Processing Unit
+ 4. Graphite Producing Unit
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  Graphics Processing Unit
 </details>
 
 
