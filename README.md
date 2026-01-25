@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of music do mummy's like? Rap
+A man walks into a bar and orders helicopter flavor chips. The barman replies “sorry mate we only do plain”
 
 
 ## Daily Trivia
 
-Which of the following is a personal computer made by the Japanese company Fujitsu?
- 1. FM-7
- 2. MSX
- 3. Xmillennium 
- 4. PC-9801
+Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
+ 1. Nautilus
+ 2. Skipjack
+ 3. Enigma Machine
+ 4. Clipper Chip
 
 <details>
   <summary>Answer</summary>
-  FM-7
+  Clipper Chip
 </details>
 
 
