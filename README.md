@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why didn’t the skeleton cross the road? Because he had no guts.
+Have you heard the story about the magic tractor? It drove down the road and turned into a field.
 
 
 ## Daily Trivia
 
-The numbering system with a radix of 16 is more commonly referred to as 
- 1. Binary
- 2. Duodecimal
- 3. Octal
- 4. Hexidecimal
+In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
+ 1. &lt;slide&gt;&lt;/slide&gt;
+ 2. &lt;scroll&gt;&lt;/scroll&gt;
+ 3. &lt;marquee&gt;&lt;/marquee&gt;
+ 4. &lt;move&gt;&lt;/move&gt;
 
 <details>
   <summary>Answer</summary>
-  Hexidecimal
+  &lt;marquee&gt;&lt;/marquee&gt;
 </details>
 
 
