@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of dog lives in a particle accelerator? A Fermilabrador Retriever.
+What do you call a snake who builds houses? A boa constructor!
 
 
 ## Daily Trivia
 
-Whistler was the codename of this Microsoft Operating System.
- 1. Windows 2000
- 2. Windows 7
- 3. Windows 95
- 4. Windows XP
+The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
+ 1. Acorn Computers
+ 2. Commodore Business Machines
+ 3. Amstrad PLC
+ 4. Sinclair Research
 
 <details>
   <summary>Answer</summary>
-  Windows XP
+  Acorn Computers
 </details>
 
 
