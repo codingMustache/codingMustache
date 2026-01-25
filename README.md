@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What happens when you anger a brain surgeon? They will give you a piece of your mind.
+What’s the longest word in the dictionary? Smiles. Because there’s a mile between the two S’s.
 
 
 ## Daily Trivia
 
-What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
- 1. Heat Sink
- 2. Heat Vent
- 3. Temperature Decipator
- 4. CPU Vent
+What amount of bits commonly equals one byte?
+ 1. 8
+ 2. 1
+ 3. 2
+ 4. 64
 
 <details>
   <summary>Answer</summary>
-  Heat Sink
+  8
 </details>
 
 
