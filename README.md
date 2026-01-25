@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A man walks into a bar and orders helicopter flavor chips. The barman replies “sorry mate we only do plain”
+Did you hear about the cheese factory that exploded in France? There was nothing left but de Brie.
 
 
 ## Daily Trivia
 
-Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
- 1. Nautilus
- 2. Skipjack
- 3. Enigma Machine
- 4. Clipper Chip
+What major programming language does Unreal Engine 4 use?
+ 1. Assembly
+ 2. C++
+ 3. C#
+ 4. ECMAScript
 
 <details>
   <summary>Answer</summary>
-  Clipper Chip
+  C++
 </details>
 
 
