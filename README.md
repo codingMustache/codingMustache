@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Sometimes I tuck my knees into my chest and lean forward.  That’s just how I roll.
+What do prisoners use to call each other? Cell phones.
 
 
 ## Daily Trivia
 
-In programming, what do you call functions with the same name but different implementations?
- 1. Overloading
- 2. Inheriting
- 3. Abstracting
- 4. Overriding
+How many bytes are in a single Kibibyte?
+ 1. 1240
+ 2. 2400
+ 3. 1000
+ 4. 1024
 
 <details>
   <summary>Answer</summary>
-  Overloading
+  1024
 </details>
 
 
