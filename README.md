@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Have you heard the story about the magic tractor? It drove down the road and turned into a field.
+Why do pirates not know the alphabet? They always get stuck at "C".
 
 
 ## Daily Trivia
 
-In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
- 1. &lt;slide&gt;&lt;/slide&gt;
- 2. &lt;scroll&gt;&lt;/scroll&gt;
- 3. &lt;marquee&gt;&lt;/marquee&gt;
- 4. &lt;move&gt;&lt;/move&gt;
+Whistler was the codename of this Microsoft Operating System.
+ 1. Windows XP
+ 2. Windows 95
+ 3. Windows 7
+ 4. Windows 2000
 
 <details>
   <summary>Answer</summary>
-  &lt;marquee&gt;&lt;/marquee&gt;
+  Windows XP
 </details>
 
 
