@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What musical instrument is found in the bathroom? A tuba toothpaste.
+The urge to sing the Lion King song is just a whim away.
 
 
 ## Daily Trivia
 
-Generally, which component of a computer draws the most power?
- 1. Video Card
- 2. Hard Drive
- 3. Power Supply
- 4. Processor
+Which computer language would you associate Django framework with?
+ 1. C++
+ 2. Python
+ 3. C#
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  Video Card
+  Python
 </details>
 
 
