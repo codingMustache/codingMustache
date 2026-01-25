@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many South Americans does it take to change a lightbulb? A Brazilian
+I’m only familiar with 25 letters in the English language. I don’t know why.
 
 
 ## Daily Trivia
 
-America Online (AOL) started out as which of these online service providers?
- 1. Prodigy
- 2. CompuServe
- 3. GEnie
- 4. Quantum Link
+On which computer hardware device is the BIOS chip located?
+ 1. Hard Disk Drive
+ 2. Central Processing Unit
+ 3. Motherboard
+ 4. Graphics Processing Unit
 
 <details>
   <summary>Answer</summary>
-  Quantum Link
+  Motherboard
 </details>
 
 
