@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why should you never trust a pig with a secret? Because it's bound to squeal.
+If you want a job in the moisturizer industry, the best advice I can give is to apply daily.
 
 
 ## Daily Trivia
 
-.rs is the top-level domain for what country?
- 1. Serbia
- 2. Rwanda
- 3. Russia
- 4. Romania
+Which of the following computer components can be built using only NAND gates?
+ 1. ALU
+ 2. Register
+ 3. RAM
+ 4. CPU
 
 <details>
   <summary>Answer</summary>
-  Serbia
+  ALU
 </details>
 
 
