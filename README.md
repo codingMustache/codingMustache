@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the cowboy have a weiner dog? Somebody told him to get a long little doggy.
+Sometimes I tuck my knees into my chest and lean forward.  That’s just how I roll.
 
 
 ## Daily Trivia
 
-Which RAID array type is associated with data mirroring?
- 1. RAID 0
- 2. RAID 10
- 3. RAID 5
- 4. RAID 1
+In programming, what do you call functions with the same name but different implementations?
+ 1. Overloading
+ 2. Inheriting
+ 3. Abstracting
+ 4. Overriding
 
 <details>
   <summary>Answer</summary>
-  RAID 1
+  Overloading
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **13 days** since this server shutdown
+Its been **14 days** since this server shutdown
