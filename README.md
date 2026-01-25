@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What’s the longest word in the dictionary? Smiles. Because there’s a mile between the two S’s.
+What did the shy pebble wish for? That she was a little boulder.
 
 
 ## Daily Trivia
 
-What amount of bits commonly equals one byte?
- 1. 8
- 2. 1
- 3. 2
- 4. 64
+According to the International System of Units, how many bytes are in a kilobyte of RAM?
+ 1. 500
+ 2. 1024
+ 3. 512
+ 4. 1000
 
 <details>
   <summary>Answer</summary>
-  8
+  1000
 </details>
 
 
