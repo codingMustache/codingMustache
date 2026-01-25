@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My pet mouse 'Elvis' died last night. He was caught in a trap..
+Whiteboards ... are remarkable.
 
 
 ## Daily Trivia
 
-In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
- 1. Red
- 2. Blue
- 3. Green
- 4. Yellow
+Which of the following languages is used as a scripting language in the Unity 3D game engine?
+ 1. Java
+ 2. C++
+ 3. C#
+ 4. Objective-C
 
 <details>
   <summary>Answer</summary>
-  Green
+  C#
 </details>
 
 
