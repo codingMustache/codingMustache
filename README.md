@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How does Darth Vader like his toast? On the dark side.
+You can't trust a ladder. It will always let you down
 
 
 ## Daily Trivia
 
-What does the &#039;S&#039; in the RSA encryption algorithm stand for?
- 1. Stable
- 2. Schottky
- 3. Shamir
- 4. Secure
+What was the name of the security vulnerability found in Bash in 2014?
+ 1. Heartbleed
+ 2. Bashbug
+ 3. Stagefright
+ 4. Shellshock
 
 <details>
   <summary>Answer</summary>
-  Shamir
+  Shellshock
 </details>
 
 
