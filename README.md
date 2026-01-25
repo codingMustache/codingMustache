@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear that David lost his ID in prague? Now we just have to call him Dav.
+What musical instrument is found in the bathroom? A tuba toothpaste.
 
 
 ## Daily Trivia
 
-All of the following programs are classified as raster graphics editors EXCEPT:
- 1. Paint.NET
- 2. GIMP
- 3. Adobe Photoshop
- 4. Inkscape
+Generally, which component of a computer draws the most power?
+ 1. Video Card
+ 2. Hard Drive
+ 3. Power Supply
+ 4. Processor
 
 <details>
   <summary>Answer</summary>
-  Inkscape
+  Video Card
 </details>
 
 
