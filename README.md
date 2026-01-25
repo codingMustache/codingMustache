@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I couldn't get a reservation at the library. They were completely booked.
+How does Darth Vader like his toast? On the dark side.
 
 
 ## Daily Trivia
 
-What major programming language does Unreal Engine 4 use?
- 1. C#
- 2. Assembly
- 3. C++
- 4. ECMAScript
+What does the &#039;S&#039; in the RSA encryption algorithm stand for?
+ 1. Stable
+ 2. Schottky
+ 3. Shamir
+ 4. Secure
 
 <details>
   <summary>Answer</summary>
-  C++
+  Shamir
 </details>
 
 
