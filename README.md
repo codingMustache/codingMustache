@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do pirates not know the alphabet? They always get stuck at "C".
+What did the piece of bread say to the knife? Butter me up.
 
 
 ## Daily Trivia
 
-Whistler was the codename of this Microsoft Operating System.
- 1. Windows XP
- 2. Windows 95
- 3. Windows 7
- 4. Windows 2000
+What does the International System of Quantities refer 1024 bytes as?
+ 1. Kibibyte
+ 2. Kelobyte
+ 3. Kylobyte
+ 4. Kilobyte
 
 <details>
   <summary>Answer</summary>
-  Windows XP
+  Kibibyte
 </details>
 
 
