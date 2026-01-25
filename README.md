@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The urge to sing the Lion King song is just a whim away.
+Why did the sentence fail the driving test? It never came to a full stop.
 
 
 ## Daily Trivia
 
-Which computer language would you associate Django framework with?
- 1. C++
- 2. Python
- 3. C#
- 4. Java
+What is the name of the process that sends one qubit of information using two bits of classical information?
+ 1. Super Dense Coding
+ 2. Quantum Programming
+ 3. Quantum Teleportation
+ 4. Quantum Entanglement
 
 <details>
   <summary>Answer</summary>
-  Python
+  Quantum Teleportation
 </details>
 
 
