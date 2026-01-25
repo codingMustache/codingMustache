@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Whiteboards ... are remarkable.
+I considered building the patio by myself. But I didn't have the stones.
 
 
 ## Daily Trivia
 
-Which of the following languages is used as a scripting language in the Unity 3D game engine?
- 1. Java
- 2. C++
- 3. C#
- 4. Objective-C
+What does &quot;LCD&quot; stand for?
+ 1. Language Control Design
+ 2. Last Common Difference
+ 3. Long Continuous Design
+ 4. Liquid Crystal Display
 
 <details>
   <summary>Answer</summary>
-  C#
+  Liquid Crystal Display
 </details>
 
 
