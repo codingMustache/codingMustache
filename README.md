@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's black and white and read all over? The newspaper.
+A man walked in to a bar with some asphalt on his arm. He said “Two beers please, one for me and one for the road.”
 
 
 ## Daily Trivia
 
-The Harvard architecture for micro-controllers added which additional bus?
- 1. Instruction
- 2. Data
- 3. Address
- 4. Control
+Which operating system was released first?
+ 1. OS/2
+ 2. Windows
+ 3. Mac OS
+ 4. Linux
 
 <details>
   <summary>Answer</summary>
-  Instruction
+  Mac OS
 </details>
 
 
