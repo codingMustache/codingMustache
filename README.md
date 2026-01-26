@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I considered building the patio by myself. But I didn't have the stones.
+A beekeeper was indicted after he confessed to years of stealing at work. They charged him with emBEEzlement
 
 
 ## Daily Trivia
 
-Which computer language would you associate Django framework with?
- 1. C#
- 2. C++
- 3. Java
- 4. Python
+When did the online streaming service &quot;Mixer&quot; launch?
+ 1. 2013
+ 2. 2009
+ 3. 2011
+ 4. 2016
 
 <details>
   <summary>Answer</summary>
-  Python
+  2016
 </details>
 
 
