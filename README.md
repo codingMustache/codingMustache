@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I can't take my dog to the pond anymore because the ducks keep attacking him. That's what I get for buying a pure bread dog.
+A cannibal is someone who is fed up with people.
 
 
 ## Daily Trivia
 
-Australia, Japan, and Southeast Asia are in which ITU Region?
- 1. Region 2
- 2. Region 1
- 3. Region 4
- 4. Region 3
+In networking, what does OSPF stand for?
+ 1. Open Shortest Path First
+ 2. Open Signal Path Finder
+ 3. Order State Part First
+ 4. Order Sense Ping Find
 
 <details>
   <summary>Answer</summary>
-  Region 3
+  Open Shortest Path First
 </details>
 
 
