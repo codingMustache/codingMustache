@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do cows wear bells? Because their horns don't work.
+I ordered a chicken and an egg from Amazon. I'll let you know.
 
 
 ## Daily Trivia
 
-Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
- 1. Python
- 2. C#
- 3. PHP
- 4. JavaScript
+The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
+ 1. Taiwan
+ 2. United States
+ 3. China (People&#039;s Republic of)
+ 4. Germany
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  Taiwan
 </details>
 
 
