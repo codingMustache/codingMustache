@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the scientist who was lab partners with a pot of boiling water? He had a very esteemed colleague.
+Where do sheep go to get their hair cut? The baa-baa shop.
 
 
 ## Daily Trivia
 
-Which data structure does FILO apply to?
- 1. Stack
- 2. Queue
- 3. Heap
- 4. Tree
+Who invented the &quot;Spanning Tree Protocol&quot;?
+ 1. Radia Perlman
+ 2. Michael Roberts
+ 3. Vint Cerf
+ 4. Paul Vixie
 
 <details>
   <summary>Answer</summary>
-  Stack
+  Radia Perlman
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **14 days** since this server shutdown
+Its been **15 days** since this server shutdown
