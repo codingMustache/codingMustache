@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you know the first French fries weren't actually cooked in France? They were cooked in Greece.
+My dog used to chase people on a bike a lot. It got so bad I had to take his bike away.
 
 
 ## Daily Trivia
 
-Which of the following languages is used as a scripting language in the Unity 3D game engine?
- 1. C#
- 2. Objective-C
- 3. C++
- 4. Java
+What does the &#039;S&#039; in the RSA encryption algorithm stand for?
+ 1. Secure
+ 2. Schottky
+ 3. Shamir
+ 4. Stable
 
 <details>
   <summary>Answer</summary>
-  C#
+  Shamir
 </details>
 
 
