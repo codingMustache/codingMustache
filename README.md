@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Writing with a broken pencil is pointless.
+There are two types of people in this world, those who can extrapolate from incomplete data...
 
 
 ## Daily Trivia
 
-According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:
- 1. A&#039; + B&#039;
- 2. A&#039;B + B&#039;A
- 3. A&#039;B&#039;
- 4. AB&#039; + AB
+On which day did the World Wide Web go online?
+ 1. November 12, 1990
+ 2. November 24, 1995
+ 3. December 20, 1990
+ 4. December 17, 1996
 
 <details>
   <summary>Answer</summary>
-  A&#039; + B&#039;
+  December 20, 1990
 </details>
 
 
