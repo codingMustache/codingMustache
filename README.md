@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A man walked in to a bar with some asphalt on his arm. He said “Two beers please, one for me and one for the road.”
+Writing with a broken pencil is pointless.
 
 
 ## Daily Trivia
 
-Which operating system was released first?
- 1. OS/2
- 2. Windows
- 3. Mac OS
- 4. Linux
+According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:
+ 1. A&#039; + B&#039;
+ 2. A&#039;B + B&#039;A
+ 3. A&#039;B&#039;
+ 4. AB&#039; + AB
 
 <details>
   <summary>Answer</summary>
-  Mac OS
+  A&#039; + B&#039;
 </details>
 
 
