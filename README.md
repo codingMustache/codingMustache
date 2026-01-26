@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The shovel was a ground-breaking invention.
+I considered building the patio by myself. But I didn't have the stones.
 
 
 ## Daily Trivia
 
-What is the name of Layer 7 of the OSI model?
- 1. Application
- 2. Network
- 3. Session
- 4. Present
+Which computer language would you associate Django framework with?
+ 1. C#
+ 2. C++
+ 3. Java
+ 4. Python
 
 <details>
   <summary>Answer</summary>
-  Application
+  Python
 </details>
 
 
