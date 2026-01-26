@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the man run around his bed? Because he was trying to catch up on his sleep!
+Atheism is a non-prophet organisation.
 
 
 ## Daily Trivia
 
-In computing, what does MIDI stand for?
- 1. Musical Instrument Data Interface
- 2. Modular Interface of Digital Instruments
- 3. Musical Instrument Digital Interface
- 4. Musical Interface of Digital Instruments
+Which SQL keyword is used to fetch data from a database?
+ 1. INDEX
+ 2. VALUES
+ 3. EXEC
+ 4. SELECT
 
 <details>
   <summary>Answer</summary>
-  Musical Instrument Digital Interface
+  SELECT
 </details>
 
 
