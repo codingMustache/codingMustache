@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The rotation of earth really makes my day.
+The other day, my wife asked me to pass her lipstick but I accidentally passed her a glue stick. She still isn't talking to me.
 
 
 ## Daily Trivia
 
-Nvidia&#039;s headquarters are based in which Silicon Valley city?
- 1. Palo Alto
- 2. Cupertino
- 3. Mountain View
- 4. Santa Clara
+The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
+ 1. Micronesia
+ 2. Fiji
+ 3. Tuvalu
+ 4. Marshall Islands
 
 <details>
   <summary>Answer</summary>
-  Santa Clara
+  Micronesia
 </details>
 
 
