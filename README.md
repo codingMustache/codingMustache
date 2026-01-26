@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A Sandwich walks into a bar, the bartender says “Sorry, we don’t serve food here”
+What's black and white and read all over? The newspaper.
 
 
 ## Daily Trivia
 
-How many kilobytes in one gigabyte (in decimal)?
- 1. 1000000
- 2. 1024
- 3. 1000
- 4. 1048576
+The Harvard architecture for micro-controllers added which additional bus?
+ 1. Instruction
+ 2. Data
+ 3. Address
+ 4. Control
 
 <details>
   <summary>Answer</summary>
-  1000000
+  Instruction
 </details>
 
 
