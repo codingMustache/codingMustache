@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the difference between a seal and a sea lion?
-An ion! 
+I needed a password eight characters long so I picked Snow White and the Seven Dwarfs.
 
 
 ## Daily Trivia
 
-Unix Time is defined as the number of seconds that have elapsed since when?
- 1. Midnight on the creator of Unix&#039;s birthday
- 2. Midnight, January 1, 1970
- 3. Midnight, July 4, 1980
- 4. Midnight, July 4, 1976
+Which of these names was an actual codename for a cancelled Microsoft project?
+ 1. Neptune
+ 2. Saturn
+ 3. Pollux
+ 4. Enceladus
 
 <details>
   <summary>Answer</summary>
-  Midnight, January 1, 1970
+  Neptune
 </details>
 
 
