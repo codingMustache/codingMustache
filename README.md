@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-As I get older, I think of all the people I lost along the way. Maybe a career as a tour guide wasn't such a good idea.
+Writing with a broken pencil is pointless.
 
 
 ## Daily Trivia
 
-What does AD stand for in relation to Windows Operating Systems? 
- 1. Alternative Drive
- 2. Active Department
- 3. Active Directory
- 4. Automated Database
+In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
+ 1. Private
+ 2. Static
+ 3. Final
+ 4. Public
 
 <details>
   <summary>Answer</summary>
-  Active Directory
+  Final
 </details>
 
 
