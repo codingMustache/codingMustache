@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a bear with no teeth? A gummy bear!
+What do you call a monkey in a mine field? A babooooom!
+
 
 
 ## Daily Trivia
 
-Which operating system was released first?
- 1. Windows
- 2. OS/2
- 3. Linux
- 4. Mac OS
+What internet protocol was documented in RFC 1459?
+ 1. HTTP
+ 2. IRC
+ 3. HTTPS
+ 4. FTP
 
 <details>
   <summary>Answer</summary>
-  Mac OS
+  IRC
 </details>
 
 
