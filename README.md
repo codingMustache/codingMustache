@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-“My Dog has no nose.” “How does he smell?” “Awful”
+Why was the picture sent to prison? It was framed.
 
 
 ## Daily Trivia
 
-What amount of bits commonly equals one byte?
- 1. 1
- 2. 2
- 3. 64
- 4. 8
+What major programming language does Unreal Engine 4 use?
+ 1. C#
+ 2. ECMAScript
+ 3. Assembly
+ 4. C++
 
 <details>
   <summary>Answer</summary>
-  8
+  C++
 </details>
 
 
