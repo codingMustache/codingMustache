@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I ordered a chicken and an egg from Amazon. I'll let you know.
+I don't trust sushi, there's something fishy about it.
 
 
 ## Daily Trivia
 
-The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
- 1. Taiwan
- 2. United States
- 3. China (People&#039;s Republic of)
- 4. Germany
+In web design, what does CSS stand for?
+ 1. Computer Style Sheet
+ 2. Cascading Style Sheet
+ 3. Corrective Style Sheet
+ 4. Counter Strike: Source
 
 <details>
   <summary>Answer</summary>
-  Taiwan
+  Cascading Style Sheet
 </details>
 
 
