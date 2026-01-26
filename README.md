@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Don't tell secrets in corn fields. Too many ears around.
+A Sandwich walks into a bar, the bartender says “Sorry, we don’t serve food here”
 
 
 ## Daily Trivia
 
-All of the following programs are classified as raster graphics editors EXCEPT:
- 1. Paint.NET
- 2. GIMP
- 3. Adobe Photoshop
- 4. Inkscape
+How many kilobytes in one gigabyte (in decimal)?
+ 1. 1000000
+ 2. 1024
+ 3. 1000
+ 4. 1048576
 
 <details>
   <summary>Answer</summary>
-  Inkscape
+  1000000
 </details>
 
 
