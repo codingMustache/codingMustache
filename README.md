@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-"Why do seagulls fly over the ocean?" "Because if they flew over the bay, we'd call them bagels."
+Is there a hole in your shoe? No… Then how’d you get your foot in it?
 
 
 ## Daily Trivia
 
-What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
- 1. Coffee Lake
- 2. Broadwell
- 3. Skylake
- 4. Sandy Bridge
+When was the programming language &quot;C#&quot; released?
+ 1. 2000
+ 2. 1998
+ 3. 1999
+ 4. 2001
 
 <details>
   <summary>Answer</summary>
-  Coffee Lake
+  2000
 </details>
 
 
