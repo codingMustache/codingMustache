@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was the picture sent to prison? It was framed.
+Why did the cookie cry?
+Because his mother was a wafer so long
 
 
 ## Daily Trivia
 
-What major programming language does Unreal Engine 4 use?
- 1. C#
- 2. ECMAScript
- 3. Assembly
- 4. C++
+What does the term GPU stand for?
+ 1. Gaming Processor Unit
+ 2. Graphical Proprietary Unit
+ 3. Graphite Producing Unit
+ 4. Graphics Processing Unit
 
 <details>
   <summary>Answer</summary>
-  C++
+  Graphics Processing Unit
 </details>
 
 
