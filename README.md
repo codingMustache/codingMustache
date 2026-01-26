@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the worker get fired from the orange juice factory? Lack of concentration.
+Toasters were the first form of pop-up notifications.
 
 
 ## Daily Trivia
 
-What language does Node.js use?
- 1. JavaScript
- 2. Java
- 3. Java Source
- 4. Joomla Source Code
+Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
+ 1. Cherry MX Black
+ 2. Cherry MX Red
+ 3. Cherry MX Blue
+ 4. Cherry MX Brown
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  Cherry MX Blue
 </details>
 
 
