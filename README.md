@@ -4,22 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
- I never wanted to believe that my Dad was stealing from his job as a road worker. But when I got home, all the signs were there.
-
-
+Why did the man run around his bed? Because he was trying to catch up on his sleep!
 
 
 ## Daily Trivia
 
-Which computer hardware device provides an interface for all other connected devices to communicate?
- 1. Central Processing Unit
- 2. Hard Disk Drive
- 3. Random Access Memory
- 4. Motherboard
+In computing, what does MIDI stand for?
+ 1. Musical Instrument Data Interface
+ 2. Modular Interface of Digital Instruments
+ 3. Musical Instrument Digital Interface
+ 4. Musical Interface of Digital Instruments
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  Musical Instrument Digital Interface
 </details>
 
 
