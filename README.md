@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-There are two types of people in this world, those who can extrapolate from incomplete data...
+Why did the worker get fired from the orange juice factory? Lack of concentration.
 
 
 ## Daily Trivia
 
-On which day did the World Wide Web go online?
- 1. November 12, 1990
- 2. November 24, 1995
- 3. December 20, 1990
- 4. December 17, 1996
+What language does Node.js use?
+ 1. JavaScript
+ 2. Java
+ 3. Java Source
+ 4. Joomla Source Code
 
 <details>
   <summary>Answer</summary>
-  December 20, 1990
+  JavaScript
 </details>
 
 
