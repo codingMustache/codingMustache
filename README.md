@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I needed a password eight characters long so I picked Snow White and the Seven Dwarfs.
+I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts.
 
 
 ## Daily Trivia
 
-Which of these names was an actual codename for a cancelled Microsoft project?
- 1. Neptune
- 2. Saturn
- 3. Pollux
- 4. Enceladus
+What does the &quot;MP&quot; stand for in MP3?
+ 1. Moving Picture
+ 2. Micro Point
+ 3. Multi Pass
+ 4. Music Player
 
 <details>
   <summary>Answer</summary>
-  Neptune
+  Moving Picture
 </details>
 
 
