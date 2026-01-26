@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The other day, my wife asked me to pass her lipstick but I accidentally passed her a glue stick. She still isn't talking to me.
+How was the snow globe feeling after the storm? A little shaken.
 
 
 ## Daily Trivia
 
-The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
- 1. Micronesia
- 2. Fiji
- 3. Tuvalu
- 4. Marshall Islands
+What is the domain name for the country Tuvalu?
+ 1. .tu
+ 2. .tv
+ 3. .tt
+ 4. .tl
 
 <details>
   <summary>Answer</summary>
-  Micronesia
+  .tv
 </details>
 
 
