@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A Skeleton walked into a bar he said I need a beer and a mop
+What's the difference between a seal and a sea lion?
+An ion! 
 
 
 ## Daily Trivia
 
-On which computer hardware device is the BIOS chip located?
- 1. Hard Disk Drive
- 2. Central Processing Unit
- 3. Graphics Processing Unit
- 4. Motherboard
+Unix Time is defined as the number of seconds that have elapsed since when?
+ 1. Midnight on the creator of Unix&#039;s birthday
+ 2. Midnight, January 1, 1970
+ 3. Midnight, July 4, 1980
+ 4. Midnight, July 4, 1976
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  Midnight, January 1, 1970
 </details>
 
 
