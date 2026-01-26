@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the cookie cry?
-Because his mother was a wafer so long
+Sgt.: Commissar! Commissar! The troops are revolting! Commissar: Well, you’re pretty repulsive yourself.
 
 
 ## Daily Trivia
 
-What does the term GPU stand for?
- 1. Gaming Processor Unit
- 2. Graphical Proprietary Unit
- 3. Graphite Producing Unit
- 4. Graphics Processing Unit
+In any programming language, what is the most common way to iterate through an array?
+ 1. &#039;Do-while&#039; loops
+ 2. &#039;For&#039; loops
+ 3. &#039;If&#039; Statements
+ 4. &#039;While&#039; loops
 
 <details>
   <summary>Answer</summary>
-  Graphics Processing Unit
+  &#039;For&#039; loops
 </details>
 
 
