@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What happens when you anger a brain surgeon? They will give you a piece of your mind.
+"Why do seagulls fly over the ocean?" "Because if they flew over the bay, we'd call them bagels."
 
 
 ## Daily Trivia
 
-The numbering system with a radix of 16 is more commonly referred to as 
- 1. Binary
- 2. Duodecimal
- 3. Octal
- 4. Hexidecimal
+What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
+ 1. Coffee Lake
+ 2. Broadwell
+ 3. Skylake
+ 4. Sandy Bridge
 
 <details>
   <summary>Answer</summary>
-  Hexidecimal
+  Coffee Lake
 </details>
 
 
