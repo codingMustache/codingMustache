@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Writing with a broken pencil is pointless.
+Did you hear about the kidnapping at school? It's ok, he woke up.
 
 
 ## Daily Trivia
 
-In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
- 1. Private
- 2. Static
- 3. Final
- 4. Public
+Lenovo acquired IBM&#039;s personal computer division, including the ThinkPad line of laptops and tablets, in what year?
+ 1. 1999
+ 2. 2002
+ 3. 2005
+ 4. 2008
 
 <details>
   <summary>Answer</summary>
-  Final
+  2005
 </details>
 
 
