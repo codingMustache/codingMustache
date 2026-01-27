@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-You know that cemetery up the road? People are dying to get in there.
+How do locomotives know where they're going? Lots of training
 
 
 ## Daily Trivia
 
-On Twitter, what was the original character limit for a Tweet?
- 1. 140
- 2. 100
- 3. 160
- 4. 120
+When did the online streaming service &quot;Mixer&quot; launch?
+ 1. 2016
+ 2. 2009
+ 3. 2013
+ 4. 2011
 
 <details>
   <summary>Answer</summary>
-  140
+  2016
 </details>
 
 
