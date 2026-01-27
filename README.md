@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a fish wearing a bowtie? Sofishticated.
+How do you make a water bed more bouncy. You use Spring Water
 
 
 ## Daily Trivia
 
-What internet protocol was documented in RFC 1459?
- 1. HTTP
- 2. HTTPS
- 3. FTP
- 4. IRC
+What is the number of keys on a standard Windows Keyboard?
+ 1. 104
+ 2. 76
+ 3. 94
+ 4. 64
 
 <details>
   <summary>Answer</summary>
-  IRC
+  104
 </details>
 
 
