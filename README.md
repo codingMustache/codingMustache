@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you make a water bed more bouncy. You use Spring Water
+To be Frank, I'd have to change my name.
 
 
 ## Daily Trivia
 
-What is the number of keys on a standard Windows Keyboard?
- 1. 104
- 2. 76
- 3. 94
- 4. 64
+How long is an IPv6 address?
+ 1. 128 bits
+ 2. 32 bits
+ 3. 128 bytes
+ 4. 64 bits
 
 <details>
   <summary>Answer</summary>
-  104
+  128 bits
 </details>
 
 
