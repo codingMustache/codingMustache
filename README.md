@@ -4,22 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do pumpkins sit on people’s porches?
-
-They have no hands to knock on the door.
+I used to work for an origami company but they folded.
 
 
 ## Daily Trivia
 
-How many cores does the Intel i7-6950X have?
- 1. 10
- 2. 8
- 3. 12
- 4. 4
+.at is the top-level domain for what country?
+ 1. Angola
+ 2. Austria
+ 3. Argentina
+ 4. Australia
 
 <details>
   <summary>Answer</summary>
-  10
+  Austria
 </details>
 
 
