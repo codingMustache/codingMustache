@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the fish say when it swam into a wall? Damn!
+What's the worst thing about ancient history class? The teachers tend to Babylon.
 
 
 ## Daily Trivia
 
-Which one of these is not an official development name for a Ubuntu release?
- 1. Utopic Unicorn
- 2. Trusty Tahr
- 3. Wily Werewolf
- 4. Mystic Mansion
+What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
+ 1. Skylake
+ 2. Sandy Bridge
+ 3. Coffee Lake
+ 4. Broadwell
 
 <details>
   <summary>Answer</summary>
-  Mystic Mansion
+  Coffee Lake
 </details>
 
 
