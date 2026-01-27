@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many tickles does it take to tickle an octopus? Ten-tickles!
+Every night at 11:11, I make a wish that someone will come fix my broken clock.
 
 
 ## Daily Trivia
 
-In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
- 1. Static
- 2. Private
- 3. Public
- 4. Final
+Which of the following computer components can be built using only NAND gates?
+ 1. Register
+ 2. RAM
+ 3. CPU
+ 4. ALU
 
 <details>
   <summary>Answer</summary>
-  Final
+  ALU
 </details>
 
 
