@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the ocean say to the shore? Nothing, it just waved.
+Why was the shirt happy to hang around the tank top? Because it was armless
 
 
 ## Daily Trivia
 
-What is the domain name for the country Tuvalu?
- 1. .tt
- 2. .tv
- 3. .tl
- 4. .tu
+What was the name given to Android 4.3?
+ 1. Froyo
+ 2. Nutella
+ 3. Lollipop
+ 4. Jelly Bean
 
 <details>
   <summary>Answer</summary>
-  .tv
+  Jelly Bean
 </details>
 
 
