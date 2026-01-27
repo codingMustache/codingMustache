@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What’s brown and sounds like a bell? Dung!
+Why do birds fly south for the winter? Because it's too far to walk.
 
 
 ## Daily Trivia
 
-Which data structure does FILO apply to?
- 1. Queue
- 2. Heap
- 3. Stack
- 4. Tree
+What language does Node.js use?
+ 1. Java
+ 2. Java Source
+ 3. Joomla Source Code
+ 4. JavaScript
 
 <details>
   <summary>Answer</summary>
-  Stack
+  JavaScript
 </details>
 
 
