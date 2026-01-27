@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Which is the fastest growing city in the world? Dublin'
+So a duck walks into a pharmacy and says “Give me some chap-stick… and put it on my bill”
 
 
 ## Daily Trivia
 
-In any programming language, what is the most common way to iterate through an array?
- 1. &#039;If&#039; Statements
- 2. &#039;Do-while&#039; loops
- 3. &#039;While&#039; loops
- 4. &#039;For&#039; loops
+What does the International System of Quantities refer 1024 bytes as?
+ 1. Kylobyte
+ 2. Kelobyte
+ 3. Kilobyte
+ 4. Kibibyte
 
 <details>
   <summary>Answer</summary>
-  &#039;For&#039; loops
+  Kibibyte
 </details>
 
 
