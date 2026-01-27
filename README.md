@@ -4,20 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was the picture sent to prison? It was framed.
+Why do pumpkins sit on people’s porches?
+
+They have no hands to knock on the door.
 
 
 ## Daily Trivia
 
-What does &quot;LCD&quot; stand for?
- 1. Last Common Difference
- 2. Liquid Crystal Display
- 3. Language Control Design
- 4. Long Continuous Design
+How many cores does the Intel i7-6950X have?
+ 1. 10
+ 2. 8
+ 3. 12
+ 4. 4
 
 <details>
   <summary>Answer</summary>
-  Liquid Crystal Display
+  10
 </details>
 
 
