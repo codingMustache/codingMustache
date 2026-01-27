@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is the least spoken language in the world?
-Sign Language
+What did the ocean say to the shore? Nothing, it just waved.
 
 
 ## Daily Trivia
 
-How many bytes are in a single Kibibyte?
- 1. 1024
- 2. 1240
- 3. 2400
- 4. 1000
+What is the domain name for the country Tuvalu?
+ 1. .tt
+ 2. .tv
+ 3. .tl
+ 4. .tu
 
 <details>
   <summary>Answer</summary>
-  1024
+  .tv
 </details>
 
 
