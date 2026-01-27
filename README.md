@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I got fired from the transmission factor, turns out I didn't put on enough shifts...
+"Dad, I'm cold."
+"Go stand in the corner, I hear it's 90 degrees."
 
 
 ## Daily Trivia
 
-According to the International System of Units, how many bytes are in a kilobyte of RAM?
- 1. 1000
- 2. 512
- 3. 1024
- 4. 500
+Generally, which component of a computer draws the most power?
+ 1. Video Card
+ 2. Power Supply
+ 3. Processor
+ 4. Hard Drive
 
 <details>
   <summary>Answer</summary>
-  1000
+  Video Card
 </details>
 
 
