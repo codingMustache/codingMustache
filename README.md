@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-‘Put the cat out’ … ‘I didn’t realize it was on fire
+Why did the tomato blush? Because it saw the salad dressing.
 
 
 ## Daily Trivia
 
-In computing terms, typically what does CLI stand for?
- 1. Common Language Interface
- 2. Command Line Interface
- 3. Control Line Interface
- 4. Common Language Input
+What does the term GPU stand for?
+ 1. Gaming Processor Unit
+ 2. Graphite Producing Unit
+ 3. Graphical Proprietary Unit
+ 4. Graphics Processing Unit
 
 <details>
   <summary>Answer</summary>
-  Command Line Interface
+  Graphics Processing Unit
 </details>
 
 
