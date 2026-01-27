@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-"Dad, I'm cold."
-"Go stand in the corner, I hear it's 90 degrees."
+What do you get if you put a duck in a cement mixer? Quacks in the pavement.
 
 
 ## Daily Trivia
 
-Generally, which component of a computer draws the most power?
- 1. Video Card
- 2. Power Supply
- 3. Processor
- 4. Hard Drive
+The teapot often seen in many 3D modeling applications is called what?
+ 1. Pixar Teapot
+ 2. 3D Teapot
+ 3. Tennessee Teapot
+ 4. Utah Teapot
 
 <details>
   <summary>Answer</summary>
-  Video Card
+  Utah Teapot
 </details>
 
 
