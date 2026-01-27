@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I went to the zoo yesterday and saw a baguette in a cage. It was bread in captivity.
+which flower is most fierce? Dandelion
 
 
 ## Daily Trivia
 
-What does AD stand for in relation to Windows Operating Systems? 
- 1. Automated Database
- 2. Active Directory
- 3. Active Department
- 4. Alternative Drive
+Lenovo acquired IBM&#039;s personal computer division, including the ThinkPad line of laptops and tablets, in what year?
+ 1. 1999
+ 2. 2005
+ 3. 2002
+ 4. 2008
 
 <details>
   <summary>Answer</summary>
-  Active Directory
+  2005
 </details>
 
 
