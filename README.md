@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-So a duck walks into a pharmacy and says “Give me some chap-stick… and put it on my bill”
+A farmer had 297 cows, when he rounded them up, he found he had 300
 
 
 ## Daily Trivia
 
-What does the International System of Quantities refer 1024 bytes as?
- 1. Kylobyte
- 2. Kelobyte
- 3. Kilobyte
- 4. Kibibyte
+Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
+ 1. Microsoft
+ 2. Atari
+ 3. Commodore
+ 4. Apple
 
 <details>
   <summary>Answer</summary>
-  Kibibyte
+  Apple
 </details>
 
 
