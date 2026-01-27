@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-If a child refuses to sleep during nap time, are they guilty of resisting a rest?
+What did the ocean say to the shore? Nothing, it just waved.
 
 
 ## Daily Trivia
 
-Unix Time is defined as the number of seconds that have elapsed since when?
- 1. Midnight on the creator of Unix&#039;s birthday
- 2. Midnight, January 1, 1970
- 3. Midnight, July 4, 1976
- 4. Midnight, July 4, 1980
+Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
+ 1. Python
+ 2. C#
+ 3. JavaScript
+ 4. PHP
 
 <details>
   <summary>Answer</summary>
-  Midnight, January 1, 1970
+  JavaScript
 </details>
 
 
