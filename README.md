@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a cow with two legs? Lean beef.
+The other day, my wife asked me to pass her lipstick but I accidentally passed her a glue stick. She still isn't talking to me.
 
 
 ## Daily Trivia
 
-In computing, what does MIDI stand for?
- 1. Modular Interface of Digital Instruments
- 2. Musical Interface of Digital Instruments
- 3. Musical Instrument Digital Interface
- 4. Musical Instrument Data Interface
+The teapot often seen in many 3D modeling applications is called what?
+ 1. Pixar Teapot
+ 2. 3D Teapot
+ 3. Tennessee Teapot
+ 4. Utah Teapot
 
 <details>
   <summary>Answer</summary>
-  Musical Instrument Digital Interface
+  Utah Teapot
 </details>
 
 
