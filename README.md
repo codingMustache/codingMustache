@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What does a pirate pay for his corn? A buccaneer!
+Did you hear about the runner who was criticized? He just took it in stride
 
 
 ## Daily Trivia
 
-Australia, Japan, and Southeast Asia are in which ITU Region?
- 1. Region 1
- 2. Region 3
- 3. Region 4
- 4. Region 2
+What does the computer software acronym JVM stand for?
+ 1. Java Virtual Machine
+ 2. Just Virtual Machine
+ 3. Java Visual Machine
+ 4. Java Vendor Machine
 
 <details>
   <summary>Answer</summary>
-  Region 3
+  Java Virtual Machine
 </details>
 
 
