@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is a witch's favorite subject in school? Spelling!
+What did the fish say when it swam into a wall? Damn!
 
 
 ## Daily Trivia
 
-Which of these is not a layer in the OSI model for data communications?
- 1. Application Layer
- 2. Transport Layer
- 3. Connection Layer
- 4. Physical Layer
+Which one of these is not an official development name for a Ubuntu release?
+ 1. Utopic Unicorn
+ 2. Trusty Tahr
+ 3. Wily Werewolf
+ 4. Mystic Mansion
 
 <details>
   <summary>Answer</summary>
-  Connection Layer
+  Mystic Mansion
 </details>
 
 
