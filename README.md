@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why is the new Kindle screen textured to look like paper? So you feel write at home.
+Which is the fastest growing city in the world? Dublin'
 
 
 ## Daily Trivia
 
-Which operating system was released first?
- 1. OS/2
- 2. Linux
- 3. Windows
- 4. Mac OS
+In any programming language, what is the most common way to iterate through an array?
+ 1. &#039;If&#039; Statements
+ 2. &#039;Do-while&#039; loops
+ 3. &#039;While&#039; loops
+ 4. &#039;For&#039; loops
 
 <details>
   <summary>Answer</summary>
-  Mac OS
+  &#039;For&#039; loops
 </details>
 
 
