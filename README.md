@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to work for an origami company but they folded.
+I considered building the patio by myself. But I didn't have the stones.
 
 
 ## Daily Trivia
 
-.at is the top-level domain for what country?
- 1. Angola
- 2. Austria
- 3. Argentina
- 4. Australia
+What programming language was GitHub written in?
+ 1. JavaScript
+ 2. Lua
+ 3. Ruby
+ 4. Python
 
 <details>
   <summary>Answer</summary>
-  Austria
+  Ruby
 </details>
 
 
