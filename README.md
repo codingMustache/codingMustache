@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the worst thing about ancient history class? The teachers tend to Babylon.
+I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take.
 
 
 ## Daily Trivia
 
-What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
- 1. Skylake
- 2. Sandy Bridge
- 3. Coffee Lake
- 4. Broadwell
+Which of these is not a key value of Agile software development?
+ 1. Individuals and interactions
+ 2. Responding to change
+ 3. Comprehensive documentation
+ 4. Customer collaboration
 
 <details>
   <summary>Answer</summary>
-  Coffee Lake
+  Comprehensive documentation
 </details>
 
 
