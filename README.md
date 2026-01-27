@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My boss told me to attach two pieces of wood together... I totally nailed it!
+Why is the new Kindle screen textured to look like paper? So you feel write at home.
 
 
 ## Daily Trivia
 
-America Online (AOL) started out as which of these online service providers?
- 1. CompuServe
- 2. Prodigy
- 3. GEnie
- 4. Quantum Link
+Which operating system was released first?
+ 1. OS/2
+ 2. Linux
+ 3. Windows
+ 4. Mac OS
 
 <details>
   <summary>Answer</summary>
-  Quantum Link
+  Mac OS
 </details>
 
 
