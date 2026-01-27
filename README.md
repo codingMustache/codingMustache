@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the runner who was criticized? He just took it in stride
+I went to the zoo yesterday and saw a baguette in a cage. It was bread in captivity.
 
 
 ## Daily Trivia
 
-What does the computer software acronym JVM stand for?
- 1. Java Virtual Machine
- 2. Just Virtual Machine
- 3. Java Visual Machine
- 4. Java Vendor Machine
+What does AD stand for in relation to Windows Operating Systems? 
+ 1. Automated Database
+ 2. Active Directory
+ 3. Active Department
+ 4. Alternative Drive
 
 <details>
   <summary>Answer</summary>
-  Java Virtual Machine
+  Active Directory
 </details>
 
 
