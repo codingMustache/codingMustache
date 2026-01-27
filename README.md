@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call cheese by itself? Provolone.
+What is the least spoken language in the world?
+Sign Language
 
 
 ## Daily Trivia
 
-What does CPU stand for?
- 1. Central Process Unit
- 2. Computer Personal Unit
- 3. Central Processor Unit
- 4. Central Processing Unit
+How many bytes are in a single Kibibyte?
+ 1. 1024
+ 2. 1240
+ 3. 2400
+ 4. 1000
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  1024
 </details>
 
 
