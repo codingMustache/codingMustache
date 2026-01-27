@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A cannibal is someone who is fed up with people.
+If a child refuses to sleep during nap time, are they guilty of resisting a rest?
 
 
 ## Daily Trivia
 
-In networking, what does OSPF stand for?
- 1. Open Shortest Path First
- 2. Open Signal Path Finder
- 3. Order State Part First
- 4. Order Sense Ping Find
+Unix Time is defined as the number of seconds that have elapsed since when?
+ 1. Midnight on the creator of Unix&#039;s birthday
+ 2. Midnight, January 1, 1970
+ 3. Midnight, July 4, 1976
+ 4. Midnight, July 4, 1980
 
 <details>
   <summary>Answer</summary>
-  Open Shortest Path First
+  Midnight, January 1, 1970
 </details>
 
 
