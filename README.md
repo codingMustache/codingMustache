@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Yesterday a clown held a door open for me. I thought it was a nice jester.
+Why was the picture sent to prison? It was framed.
 
 
 ## Daily Trivia
 
-Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
- 1. 20.5 kHz
- 2. 44.1 kHz
- 3. 1.5 MHz
- 4. 32.0 kHz
+What does &quot;LCD&quot; stand for?
+ 1. Last Common Difference
+ 2. Liquid Crystal Display
+ 3. Language Control Design
+ 4. Long Continuous Design
 
 <details>
   <summary>Answer</summary>
-  44.1 kHz
+  Liquid Crystal Display
 </details>
 
 
