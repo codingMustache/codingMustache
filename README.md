@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the ocean say to the shore? Nothing, it just waved.
+What do you call an alligator in a vest? An in-vest-igator!
 
 
 ## Daily Trivia
 
-Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
- 1. Python
- 2. C#
- 3. JavaScript
- 4. PHP
+Who is the founder of Palantir?
+ 1. Jack Dorsey
+ 2. Marc Benioff
+ 3. Peter Thiel
+ 4. Mark Zuckerberg
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  Peter Thiel
 </details>
 
 
