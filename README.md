@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Archaeology really is a career in ruins.
+What's a ninja's favorite type of shoes? Sneakers!
 
 
 ## Daily Trivia
 
-In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
- 1. &lt;slide&gt;&lt;/slide&gt;
- 2. &lt;move&gt;&lt;/move&gt;
- 3. &lt;marquee&gt;&lt;/marquee&gt;
- 4. &lt;scroll&gt;&lt;/scroll&gt;
+What is the most preferred image format used for logos in the Wikimedia database?
+ 1. .jpeg
+ 2. .svg
+ 3. .png
+ 4. .gif
 
 <details>
   <summary>Answer</summary>
-  &lt;marquee&gt;&lt;/marquee&gt;
+  .svg
 </details>
 
 
