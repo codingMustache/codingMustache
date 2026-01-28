@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you get a baby alien to sleep?  You rocket.
+How come the stadium got hot after the game? Because all of the fans left.
 
 
 ## Daily Trivia
 
-When was the programming language &quot;C#&quot; released?
- 1. 2000
- 2. 2001
- 3. 1998
- 4. 1999
+What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
+ 1. CPU Vent
+ 2. Temperature Decipator
+ 3. Heat Vent
+ 4. Heat Sink
 
 <details>
   <summary>Answer</summary>
-  2000
+  Heat Sink
 </details>
 
 
