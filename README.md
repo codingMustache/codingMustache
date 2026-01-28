@@ -4,20 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was the robot angry? Because someone kept pressing his buttons!
+Doctor: Do you want to hear the good news or the bad news?
+Patient: Good news please.
+Doctor: we're naming a disease after you.
 
 
 ## Daily Trivia
 
-What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
- 1. Sandy Bridge
- 2. Skylake
- 3. Broadwell
- 4. Coffee Lake
+What major programming language does Unreal Engine 4 use?
+ 1. C++
+ 2. Assembly
+ 3. C#
+ 4. ECMAScript
 
 <details>
   <summary>Answer</summary>
-  Coffee Lake
+  C++
 </details>
 
 
