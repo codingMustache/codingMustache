@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you get when you cross a snowman with a vampire? Frostbite.
+What happens to a frog's car when it breaks down? It gets toad.
 
 
 ## Daily Trivia
 
-In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
- 1. &lt;scroll&gt;&lt;/scroll&gt;
- 2. &lt;move&gt;&lt;/move&gt;
- 3. &lt;slide&gt;&lt;/slide&gt;
- 4. &lt;marquee&gt;&lt;/marquee&gt;
+Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
+ 1. Tiger
+ 2. Cheetah
+ 3. Puma
+ 4. Leopard
 
 <details>
   <summary>Answer</summary>
-  &lt;marquee&gt;&lt;/marquee&gt;
+  Cheetah
 </details>
 
 
