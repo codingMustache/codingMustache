@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call an Argentinian with a rubber toe? Roberto
+Why do cows wear bells? Because their horns don't work.
 
 
 ## Daily Trivia
 
-America Online (AOL) started out as which of these online service providers?
- 1. Quantum Link
- 2. GEnie
- 3. Prodigy
- 4. CompuServe
+In networking, what does OSPF stand for?
+ 1. Open Shortest Path First
+ 2. Open Signal Path Finder
+ 3. Order Sense Ping Find
+ 4. Order State Part First
 
 <details>
   <summary>Answer</summary>
-  Quantum Link
+  Open Shortest Path First
 </details>
 
 
