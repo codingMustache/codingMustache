@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-"I'll call you later." Don't call me later, call me Dad.
+Past, present, and future walked into a bar.... It was tense.
 
 
 ## Daily Trivia
 
-In computing, what does MIDI stand for?
- 1. Musical Instrument Digital Interface
- 2. Modular Interface of Digital Instruments
- 3. Musical Interface of Digital Instruments
- 4. Musical Instrument Data Interface
+What vulnerability ranked #1 on the OWASP Top 10 in 2013?
+ 1. Broken Authentication
+ 2. Cross-Site Scripting
+ 3. Insecure Direct Object References
+ 4. Injection 
 
 <details>
   <summary>Answer</summary>
-  Musical Instrument Digital Interface
+  Injection 
 </details>
 
 
