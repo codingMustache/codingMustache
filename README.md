@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the difference between a poorly dressed man on a tricycle and a well dressed man on a bicycle? Attire.
+I accidentally drank a bottle of invisible ink. Now I’m in hospital, waiting to be seen.
 
 
 ## Daily Trivia
 
-While Apple was formed in California, in which western state was Microsoft founded?
- 1. New Mexico
- 2. Arizona
- 3. Colorado
- 4. Washington
+When did the online streaming service &quot;Mixer&quot; launch?
+ 1. 2013
+ 2. 2009
+ 3. 2016
+ 4. 2011
 
 <details>
   <summary>Answer</summary>
-  New Mexico
+  2016
 </details>
 
 
