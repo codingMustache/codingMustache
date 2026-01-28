@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What’s Forest Gump’s Facebook password? 1forest1
+What did the 0 say to the 8? Nice belt.
 
 
 ## Daily Trivia
 
-What does the term MIME stand for, in regards to computing?
- 1. Multipurpose Internet Mail Extensions
- 2. Mail Internet Mail Exchange
- 3. Multipurpose Interleave Mail Exchange
- 4. Mail Interleave Method Exchange
+Which programming language shares its name with an island in Indonesia?
+ 1. Python
+ 2. C
+ 3. Jakarta
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  Multipurpose Internet Mail Extensions
+  Java
 </details>
 
 
