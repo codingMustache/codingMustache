@@ -4,16 +4,16 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are ghosts bad liars? Because you can see right through them!
+"I'm sorry." "Hi sorry, I'm dad"
 
 
 ## Daily Trivia
 
 What internet protocol was documented in RFC 1459?
- 1. IRC
- 2. FTP
- 3. HTTPS
- 4. HTTP
+ 1. HTTPS
+ 2. HTTP
+ 3. FTP
+ 4. IRC
 
 <details>
   <summary>Answer</summary>
