@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How come the stadium got hot after the game? Because all of the fans left.
+The other day, my wife asked me to pass her lipstick but I accidentally passed her a glue stick. She still isn't talking to me.
 
 
 ## Daily Trivia
 
-What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
- 1. CPU Vent
- 2. Temperature Decipator
- 3. Heat Vent
- 4. Heat Sink
+What does the term MIME stand for, in regards to computing?
+ 1. Multipurpose Internet Mail Extensions
+ 2. Mail Interleave Method Exchange
+ 3. Multipurpose Interleave Mail Exchange
+ 4. Mail Internet Mail Exchange
 
 <details>
   <summary>Answer</summary>
-  Heat Sink
+  Multipurpose Internet Mail Extensions
 </details>
 
 
