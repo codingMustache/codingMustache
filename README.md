@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Without geometry life is pointless.
+What do you call an Argentinian with a rubber toe? Roberto
 
 
 ## Daily Trivia
 
-What amount of bits commonly equals one byte?
- 1. 64
- 2. 2
- 3. 1
- 4. 8
+America Online (AOL) started out as which of these online service providers?
+ 1. Quantum Link
+ 2. GEnie
+ 3. Prodigy
+ 4. CompuServe
 
 <details>
   <summary>Answer</summary>
-  8
+  Quantum Link
 </details>
 
 
