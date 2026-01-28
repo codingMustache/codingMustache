@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Have you ever heard of a music group called Cellophane? They mostly wrap.
+I asked a frenchman if he played video games. He said "Wii"
 
 
 ## Daily Trivia
 
-Which of the following languages is used as a scripting language in the Unity 3D game engine?
- 1. Java
- 2. C++
- 3. Objective-C
- 4. C#
+Which one of these is not an official development name for a Ubuntu release?
+ 1. Wily Werewolf
+ 2. Utopic Unicorn
+ 3. Mystic Mansion
+ 4. Trusty Tahr
 
 <details>
   <summary>Answer</summary>
-  C#
+  Mystic Mansion
 </details>
 
 
