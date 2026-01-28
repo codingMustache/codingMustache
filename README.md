@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What’s the longest word in the dictionary? Smiles. Because there’s a mile between the two S’s.
+Where do bees go to the bathroom?  The BP station.
 
 
 ## Daily Trivia
 
-What does AD stand for in relation to Windows Operating Systems? 
- 1. Automated Database
- 2. Alternative Drive
- 3. Active Directory
- 4. Active Department
+What amount of bits commonly equals one byte?
+ 1. 1
+ 2. 8
+ 3. 64
+ 4. 2
 
 <details>
   <summary>Answer</summary>
-  Active Directory
+  8
 </details>
 
 
