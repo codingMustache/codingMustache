@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It doesn't matter how much you push the envelope. It will still be stationary.
+How do you get a baby alien to sleep?  You rocket.
 
 
 ## Daily Trivia
 
-The teapot often seen in many 3D modeling applications is called what?
- 1. Utah Teapot
- 2. Tennessee Teapot
- 3. 3D Teapot
- 4. Pixar Teapot
+When was the programming language &quot;C#&quot; released?
+ 1. 2000
+ 2. 2001
+ 3. 1998
+ 4. 1999
 
 <details>
   <summary>Answer</summary>
-  Utah Teapot
+  2000
 </details>
 
 
