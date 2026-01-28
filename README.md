@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How does a dyslexic poet write? Inverse.
+“My Dog has no nose.” “How does he smell?” “Awful”
 
 
 ## Daily Trivia
 
-What does the &quot;MP&quot; stand for in MP3?
- 1. Music Player
- 2. Moving Picture
- 3. Multi Pass
- 4. Micro Point
+The C programming language was created by this American computer scientist. 
+ 1. al-Khwārizmī
+ 2. Tim Berners Lee
+ 3. Dennis Ritchie
+ 4. Willis Ware
 
 <details>
   <summary>Answer</summary>
-  Moving Picture
+  Dennis Ritchie
 </details>
 
 
