@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you fix a damaged jack-o-lantern? You use a pumpkin patch.
+What do you call a boy who stopped digging holes? Douglas.
 
 
 ## Daily Trivia
 
-All of the following programs are classified as raster graphics editors EXCEPT:
- 1. Paint.NET
- 2. GIMP
- 3. Inkscape
- 4. Adobe Photoshop
+Which of the following is NOT a computer science algorithm?
+ 1. Float Sort
+ 2. Bubble Sort
+ 3. Quick Sort
+ 4. Merge Sort
 
 <details>
   <summary>Answer</summary>
-  Inkscape
+  Float Sort
 </details>
 
 
