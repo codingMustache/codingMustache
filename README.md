@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do cows wear bells? Because their horns don't work.
+Have you ever heard of a music group called Cellophane? They mostly wrap.
 
 
 ## Daily Trivia
 
-In networking, what does OSPF stand for?
- 1. Open Shortest Path First
- 2. Open Signal Path Finder
- 3. Order Sense Ping Find
- 4. Order State Part First
+Which of the following languages is used as a scripting language in the Unity 3D game engine?
+ 1. Java
+ 2. C++
+ 3. Objective-C
+ 4. C#
 
 <details>
   <summary>Answer</summary>
-  Open Shortest Path First
+  C#
 </details>
 
 
