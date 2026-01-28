@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a boy who stopped digging holes? Douglas.
+Why was the robot angry? Because someone kept pressing his buttons!
 
 
 ## Daily Trivia
 
-Which of the following is NOT a computer science algorithm?
- 1. Float Sort
- 2. Bubble Sort
- 3. Quick Sort
- 4. Merge Sort
+What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
+ 1. Sandy Bridge
+ 2. Skylake
+ 3. Broadwell
+ 4. Coffee Lake
 
 <details>
   <summary>Answer</summary>
-  Float Sort
+  Coffee Lake
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **16 days** since this server shutdown
+Its been **17 days** since this server shutdown
