@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did celery say when he broke up with his girlfriend? She wasn't right for me, so I really don't carrot all.
+‘Put the cat out’ … ‘I didn’t realize it was on fire
 
 
 ## Daily Trivia
 
-Generally, which component of a computer draws the most power?
- 1. Hard Drive
- 2. Video Card
- 3. Processor
- 4. Power Supply
+On which computer hardware device is the BIOS chip located?
+ 1. Hard Disk Drive
+ 2. Motherboard
+ 3. Central Processing Unit
+ 4. Graphics Processing Unit
 
 <details>
   <summary>Answer</summary>
-  Video Card
+  Motherboard
 </details>
 
 
