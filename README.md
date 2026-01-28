@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I asked a frenchman if he played video games. He said "Wii"
+I got a reversible jacket for Christmas, I can't wait to see how it turns out.
 
 
 ## Daily Trivia
 
-Which one of these is not an official development name for a Ubuntu release?
- 1. Wily Werewolf
- 2. Utopic Unicorn
- 3. Mystic Mansion
- 4. Trusty Tahr
+How many values can a single byte represent?
+ 1. 8
+ 2. 1
+ 3. 1024
+ 4. 256
 
 <details>
   <summary>Answer</summary>
-  Mystic Mansion
+  256
 </details>
 
 
