@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the worker get fired from the orange juice factory? Lack of concentration.
+What’s Forest Gump’s Facebook password? 1forest1
 
 
 ## Daily Trivia
 
-What does the International System of Quantities refer 1024 bytes as?
- 1. Kylobyte
- 2. Kilobyte
- 3. Kelobyte
- 4. Kibibyte
+What does the term MIME stand for, in regards to computing?
+ 1. Multipurpose Internet Mail Extensions
+ 2. Mail Internet Mail Exchange
+ 3. Multipurpose Interleave Mail Exchange
+ 4. Mail Interleave Method Exchange
 
 <details>
   <summary>Answer</summary>
-  Kibibyte
+  Multipurpose Internet Mail Extensions
 </details>
 
 
