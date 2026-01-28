@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to be a banker, but I lost interest.
+I was so proud when I finished the puzzle in six months, when on the side it said three to four years.
 
 
 ## Daily Trivia
 
-HTML is what type of language?
- 1. Macro Language
- 2. Programming Language
- 3. Markup Language
- 4. Scripting Language
+Which of these people was NOT a founder of Apple Inc?
+ 1. Jonathan Ive
+ 2. Steve Wozniak
+ 3. Ronald Wayne
+ 4. Steve Jobs
 
 <details>
   <summary>Answer</summary>
-  Markup Language
+  Jonathan Ive
 </details>
 
 
