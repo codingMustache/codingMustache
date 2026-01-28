@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's a ninja's favorite type of shoes? Sneakers!
+What did celery say when he broke up with his girlfriend? She wasn't right for me, so I really don't carrot all.
 
 
 ## Daily Trivia
 
-What is the most preferred image format used for logos in the Wikimedia database?
- 1. .jpeg
- 2. .svg
- 3. .png
- 4. .gif
+Generally, which component of a computer draws the most power?
+ 1. Hard Drive
+ 2. Video Card
+ 3. Processor
+ 4. Power Supply
 
 <details>
   <summary>Answer</summary>
-  .svg
+  Video Card
 </details>
 
 
