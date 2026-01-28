@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-"I'm sorry." "Hi sorry, I'm dad"
+How do you steal a coat? You jacket.
 
 
 ## Daily Trivia
 
-What internet protocol was documented in RFC 1459?
- 1. HTTPS
- 2. HTTP
- 3. FTP
- 4. IRC
+Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
+ 1. Shopify
+ 2. Overstock
+ 3. Amazon
+ 4. eBay
 
 <details>
   <summary>Answer</summary>
-  IRC
+  Amazon
 </details>
 
 
