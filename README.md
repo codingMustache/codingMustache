@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I accidentally took my cats meds last night. Don’t ask meow.
+My boss told me to have a good day... so I went home.
 
 
 ## Daily Trivia
 
-What major programming language does Unreal Engine 4 use?
- 1. C#
- 2. C++
- 3. Assembly
- 4. ECMAScript
+What does the International System of Quantities refer 1024 bytes as?
+ 1. Kibibyte
+ 2. Kelobyte
+ 3. Kilobyte
+ 4. Kylobyte
 
 <details>
   <summary>Answer</summary>
-  C++
+  Kibibyte
 </details>
 
 
