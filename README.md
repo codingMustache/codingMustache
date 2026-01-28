@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-To be Frank, I'd have to change my name.
+I went to the store to pick up eight cans of sprite... when I got home I realized I'd only picked seven up
 
 
 ## Daily Trivia
 
-How long is an IPv6 address?
- 1. 128 bits
- 2. 32 bits
- 3. 128 bytes
- 4. 64 bits
+.at is the top-level domain for what country?
+ 1. Australia
+ 2. Austria
+ 3. Argentina
+ 4. Angola
 
 <details>
   <summary>Answer</summary>
-  128 bits
+  Austria
 </details>
 
 
