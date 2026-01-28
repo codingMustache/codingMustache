@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My wife is on a tropical fruit diet, the house is full of stuff. It is enough to make a mango crazy.
+Without geometry life is pointless.
 
 
 ## Daily Trivia
 
-What was the name given to Android 4.3?
- 1. Nutella
- 2. Lollipop
- 3. Froyo
- 4. Jelly Bean
+What amount of bits commonly equals one byte?
+ 1. 64
+ 2. 2
+ 3. 1
+ 4. 8
 
 <details>
   <summary>Answer</summary>
-  Jelly Bean
+  8
 </details>
 
 
