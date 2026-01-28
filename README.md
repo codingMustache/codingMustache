@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-‘Put the cat out’ … ‘I didn’t realize it was on fire
+"I'll call you later." Don't call me later, call me Dad.
 
 
 ## Daily Trivia
 
-On which computer hardware device is the BIOS chip located?
- 1. Hard Disk Drive
- 2. Motherboard
- 3. Central Processing Unit
- 4. Graphics Processing Unit
+In computing, what does MIDI stand for?
+ 1. Musical Instrument Digital Interface
+ 2. Modular Interface of Digital Instruments
+ 3. Musical Interface of Digital Instruments
+ 4. Musical Instrument Data Interface
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  Musical Instrument Digital Interface
 </details>
 
 
