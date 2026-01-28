@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I was so proud when I finished the puzzle in six months, when on the side it said three to four years.
+How does a dyslexic poet write? Inverse.
 
 
 ## Daily Trivia
 
-Which of these people was NOT a founder of Apple Inc?
- 1. Jonathan Ive
- 2. Steve Wozniak
- 3. Ronald Wayne
- 4. Steve Jobs
+What does the &quot;MP&quot; stand for in MP3?
+ 1. Music Player
+ 2. Moving Picture
+ 3. Multi Pass
+ 4. Micro Point
 
 <details>
   <summary>Answer</summary>
-  Jonathan Ive
+  Moving Picture
 </details>
 
 
