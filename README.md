@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What happens to a frog's car when it breaks down? It gets toad.
+My wife is on a tropical fruit diet, the house is full of stuff. It is enough to make a mango crazy.
 
 
 ## Daily Trivia
 
-Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
- 1. Tiger
- 2. Cheetah
- 3. Puma
- 4. Leopard
+What was the name given to Android 4.3?
+ 1. Nutella
+ 2. Lollipop
+ 3. Froyo
+ 4. Jelly Bean
 
 <details>
   <summary>Answer</summary>
-  Cheetah
+  Jelly Bean
 </details>
 
 
