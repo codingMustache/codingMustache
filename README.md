@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to be a banker, but I lost interest.
+What’s the longest word in the dictionary? Smiles. Because there’s a mile between the two S’s.
 
 
 ## Daily Trivia
 
-Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
- 1. Skipjack
- 2. Clipper Chip
- 3. Enigma Machine
- 4. Nautilus
+What does AD stand for in relation to Windows Operating Systems? 
+ 1. Automated Database
+ 2. Alternative Drive
+ 3. Active Directory
+ 4. Active Department
 
 <details>
   <summary>Answer</summary>
-  Clipper Chip
+  Active Directory
 </details>
 
 
