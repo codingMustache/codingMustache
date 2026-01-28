@@ -4,22 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Doctor: Do you want to hear the good news or the bad news?
-Patient: Good news please.
-Doctor: we're naming a disease after you.
+Every morning when I go out, I get hit by bicycle. Every morning!  It's a vicious cycle.
 
 
 ## Daily Trivia
 
-What major programming language does Unreal Engine 4 use?
- 1. C++
- 2. Assembly
- 3. C#
- 4. ECMAScript
+Which of the following is the oldest of these computers by release date?
+ 1. TRS-80
+ 2. Apple 3
+ 3. ZX Spectrum
+ 4. Commodore 64
 
 <details>
   <summary>Answer</summary>
-  C++
+  TRS-80
 </details>
 
 
