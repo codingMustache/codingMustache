@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Someone asked me, what's the ninth letter of the alphabet? It was a complete guess, but I was right.
+What did the traffic light say to the car as it passed? "Don't look I'm changing!"
 
 
 ## Daily Trivia
 
-In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
- 1. Green
- 2. Red
- 3. Blue
- 4. Yellow
+In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
+ 1. &lt;slide&gt;&lt;/slide&gt;
+ 2. &lt;marquee&gt;&lt;/marquee&gt;
+ 3. &lt;move&gt;&lt;/move&gt;
+ 4. &lt;scroll&gt;&lt;/scroll&gt;
 
 <details>
   <summary>Answer</summary>
-  Green
+  &lt;marquee&gt;&lt;/marquee&gt;
 </details>
 
 
