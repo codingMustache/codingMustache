@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the Dorito farmer say to the other Dorito farmer? Cool Ranch!
+What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand...
 
 
 ## Daily Trivia
 
-Whistler was the codename of this Microsoft Operating System.
- 1. Windows 7
- 2. Windows 95
- 3. Windows XP
- 4. Windows 2000
+What does the term GPU stand for?
+ 1. Graphite Producing Unit
+ 2. Gaming Processor Unit
+ 3. Graphics Processing Unit
+ 4. Graphical Proprietary Unit
 
 <details>
   <summary>Answer</summary>
-  Windows XP
+  Graphics Processing Unit
 </details>
 
 
