@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The Swiss must've been pretty confident in their chances of victory if they included a corkscrew in their army knife.
+A book just fell on my head. I only have my shelf to blame.
 
 
 ## Daily Trivia
 
-What does the International System of Quantities refer 1024 bytes as?
- 1. Kibibyte
- 2. Kilobyte
- 3. Kylobyte
- 4. Kelobyte
+Who is the founder of Palantir?
+ 1. Peter Thiel
+ 2. Mark Zuckerberg
+ 3. Jack Dorsey
+ 4. Marc Benioff
 
 <details>
   <summary>Answer</summary>
-  Kibibyte
+  Peter Thiel
 </details>
 
 
