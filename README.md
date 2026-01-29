@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the scarecrow win an award? Because he was outstanding in his field.
+The Swiss must've been pretty confident in their chances of victory if they included a corkscrew in their army knife.
 
 
 ## Daily Trivia
 
-Which RAID array type is associated with data mirroring?
- 1. RAID 1
- 2. RAID 5
- 3. RAID 10
- 4. RAID 0
+What does the International System of Quantities refer 1024 bytes as?
+ 1. Kibibyte
+ 2. Kilobyte
+ 3. Kylobyte
+ 4. Kelobyte
 
 <details>
   <summary>Answer</summary>
-  RAID 1
+  Kibibyte
 </details>
 
 
