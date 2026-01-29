@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many tickles does it take to tickle an octopus? Ten-tickles!
+A beekeeper was indicted after he confessed to years of stealing at work. They charged him with emBEEzlement
 
 
 ## Daily Trivia
 
-What does CPU stand for?
- 1. Computer Personal Unit
- 2. Central Process Unit
- 3. Central Processor Unit
- 4. Central Processing Unit
+Which SQL keyword is used to fetch data from a database?
+ 1. VALUES
+ 2. INDEX
+ 3. SELECT
+ 4. EXEC
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  SELECT
 </details>
 
 
