@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How come the stadium got hot after the game? Because all of the fans left.
+What did the Dorito farmer say to the other Dorito farmer? Cool Ranch!
 
 
 ## Daily Trivia
 
-What is the name of the default theme that is installed with Windows XP?
- 1. Whistler
- 2. Neptune
- 3. Luna
- 4. Bliss
+Whistler was the codename of this Microsoft Operating System.
+ 1. Windows 7
+ 2. Windows 95
+ 3. Windows XP
+ 4. Windows 2000
 
 <details>
   <summary>Answer</summary>
-  Luna
+  Windows XP
 </details>
 
 
