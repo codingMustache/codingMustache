@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Some people say that I never got over my obsession with Phil Collins.
-But take a look at me now.
+What did the father tomato say to the baby tomato whilst on a family walk? Ketchup.
 
 
 ## Daily Trivia
 
-Laserjet and inkjet printers are both examples of what type of printer?
- 1. Dot matrix printer
- 2. Daisywheel printer
- 3. Non-impact printer
- 4. Impact printer
+What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
+ 1. PCM Sampler
+ 2. ADPCM Sampler
+ 3. Programmable Sound Generator (PSG)
+ 4. FM Synthesizer
 
 <details>
   <summary>Answer</summary>
-  Non-impact printer
+  ADPCM Sampler
 </details>
 
 
