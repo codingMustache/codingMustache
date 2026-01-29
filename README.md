@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Sore throats are a pain in the neck!
+Why are fish easy to weigh? Because they have their own scales.
 
 
 ## Daily Trivia
 
-Which of the following languages is used as a scripting language in the Unity 3D game engine?
- 1. C#
- 2. Objective-C
- 3. C++
- 4. Java
+Which RAID array type is associated with data mirroring?
+ 1. RAID 1
+ 2. RAID 10
+ 3. RAID 0
+ 4. RAID 5
 
 <details>
   <summary>Answer</summary>
-  C#
+  RAID 1
 </details>
 
 
