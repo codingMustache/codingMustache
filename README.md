@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the father tomato say to the baby tomato whilst on a family walk? Ketchup.
+Where does batman go to the bathroom? The batroom.
 
 
 ## Daily Trivia
 
-What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
- 1. PCM Sampler
- 2. ADPCM Sampler
- 3. Programmable Sound Generator (PSG)
- 4. FM Synthesizer
+Generally, which component of a computer draws the most power?
+ 1. Video Card
+ 2. Power Supply
+ 3. Processor
+ 4. Hard Drive
 
 <details>
   <summary>Answer</summary>
-  ADPCM Sampler
+  Video Card
 </details>
 
 
