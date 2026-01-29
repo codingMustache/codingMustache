@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I went to a Foo Fighters Concert once... It was Everlong...
+What did the Zen Buddist say to the hotdog vendor? Make me one with everything.
 
 
 ## Daily Trivia
 
-What is the name of the process that sends one qubit of information using two bits of classical information?
- 1. Quantum Entanglement
- 2. Super Dense Coding
- 3. Quantum Programming
- 4. Quantum Teleportation
+Whistler was the codename of this Microsoft Operating System.
+ 1. Windows 7
+ 2. Windows 2000
+ 3. Windows 95
+ 4. Windows XP
 
 <details>
   <summary>Answer</summary>
-  Quantum Teleportation
+  Windows XP
 </details>
 
 
