@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand...
+What do you do when you see a space man?
+Park your car, man.
 
 
 ## Daily Trivia
 
-What does the term GPU stand for?
- 1. Graphite Producing Unit
- 2. Gaming Processor Unit
- 3. Graphics Processing Unit
- 4. Graphical Proprietary Unit
+Which of these is not a key value of Agile software development?
+ 1. Comprehensive documentation
+ 2. Customer collaboration
+ 3. Individuals and interactions
+ 4. Responding to change
 
 <details>
   <summary>Answer</summary>
-  Graphics Processing Unit
+  Comprehensive documentation
 </details>
 
 
