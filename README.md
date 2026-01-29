@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you do when you see a space man?
-Park your car, man.
+Why did the scarecrow win an award? Because he was outstanding in his field.
 
 
 ## Daily Trivia
 
-Which of these is not a key value of Agile software development?
- 1. Comprehensive documentation
- 2. Customer collaboration
- 3. Individuals and interactions
- 4. Responding to change
+The name of technology company HP stands for what?
+ 1. Hellman-Pohl
+ 2. Husker-Pollosk
+ 3. Howard Packmann
+ 4. Hewlett-Packard
 
 <details>
   <summary>Answer</summary>
-  Comprehensive documentation
+  Hewlett-Packard
 </details>
 
 
