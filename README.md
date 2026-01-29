@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to have a job at a calendar factory but I got the sack because I took a couple of days off.
+Have you heard the rumor going around about butter? Never mind, I shouldn't spread it.
 
 
 ## Daily Trivia
 
-Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
- 1. Microsoft
- 2. Atari
- 3. Commodore
- 4. Apple
+What does the &#039;S&#039; in the RSA encryption algorithm stand for?
+ 1. Stable
+ 2. Schottky
+ 3. Secure
+ 4. Shamir
 
 <details>
   <summary>Answer</summary>
-  Apple
+  Shamir
 </details>
 
 
