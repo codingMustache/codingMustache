@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the best thing about elevator jokes? They work on so many levels.
+What did the Buffalo say to his little boy when he dropped him off at school? Bison.
 
 
 ## Daily Trivia
 
-What major programming language does Unreal Engine 4 use?
- 1. C++
- 2. C#
- 3. Assembly
- 4. ECMAScript
+What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
+ 1. Sandy Bridge
+ 2. Skylake
+ 3. Coffee Lake
+ 4. Broadwell
 
 <details>
   <summary>Answer</summary>
-  C++
+  Coffee Lake
 </details>
 
 
