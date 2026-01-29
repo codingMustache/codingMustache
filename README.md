@@ -4,22 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where was the Declaration of Independence signed?
-
-At the bottom! 
+Why did the belt go to prison? He held up a pair of pants!
 
 
 ## Daily Trivia
 
-Whistler was the codename of this Microsoft Operating System.
- 1. Windows 2000
- 2. Windows 95
- 3. Windows XP
- 4. Windows 7
+What is the number of keys on a standard Windows Keyboard?
+ 1. 76
+ 2. 94
+ 3. 64
+ 4. 104
 
 <details>
   <summary>Answer</summary>
-  Windows XP
+  104
 </details>
 
 
