@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the scarecrow win an award? Because he was outstanding in his field.
+Some people say that I never got over my obsession with Phil Collins.
+But take a look at me now.
 
 
 ## Daily Trivia
 
-The name of technology company HP stands for what?
- 1. Hellman-Pohl
- 2. Husker-Pollosk
- 3. Howard Packmann
- 4. Hewlett-Packard
+Laserjet and inkjet printers are both examples of what type of printer?
+ 1. Dot matrix printer
+ 2. Daisywheel printer
+ 3. Non-impact printer
+ 4. Impact printer
 
 <details>
   <summary>Answer</summary>
-  Hewlett-Packard
+  Non-impact printer
 </details>
 
 
