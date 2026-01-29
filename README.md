@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you know that protons have mass? I didn't even know they were catholic.
+Frankenstein enters a bodybuilding competition and finds he has seriously misunderstood the objective.
 
 
 ## Daily Trivia
 
-How many values can a single byte represent?
- 1. 1
- 2. 8
- 3. 1024
- 4. 256
+What was the first company to use the term &quot;Golden Master&quot;?
+ 1. Apple
+ 2. Google
+ 3. Microsoft
+ 4. IBM
 
 <details>
   <summary>Answer</summary>
-  256
+  Apple
 </details>
 
 
