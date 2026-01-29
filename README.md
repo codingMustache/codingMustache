@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Recent survey revealed 6 out of 7 dwarf's aren't happy.
+What did celery say when he broke up with his girlfriend? She wasn't right for me, so I really don't carrot all.
 
 
 ## Daily Trivia
 
-Which computer hardware device provides an interface for all other connected devices to communicate?
- 1. Central Processing Unit
- 2. Hard Disk Drive
- 3. Motherboard
- 4. Random Access Memory
+What does the Prt Sc button do?
+ 1. Closes all windows
+ 2. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
+ 3. Captures what&#039;s on the screen and copies it to your clipboard
+ 4. Nothing
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  Captures what&#039;s on the screen and copies it to your clipboard
 </details>
 
 
