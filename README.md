@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the Buffalo say to his little boy when he dropped him off at school? Bison.
+The rotation of earth really makes my day.
 
 
 ## Daily Trivia
 
-What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
- 1. Sandy Bridge
- 2. Skylake
- 3. Coffee Lake
- 4. Broadwell
+What does the International System of Quantities refer 1024 bytes as?
+ 1. Kylobyte
+ 2. Kilobyte
+ 3. Kibibyte
+ 4. Kelobyte
 
 <details>
   <summary>Answer</summary>
-  Coffee Lake
+  Kibibyte
 </details>
 
 
