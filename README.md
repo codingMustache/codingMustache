@@ -4,20 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you make a hankie dance? Put a little boogie in it.
+Where was the Declaration of Independence signed?
+
+At the bottom! 
 
 
 ## Daily Trivia
 
-America Online (AOL) started out as which of these online service providers?
- 1. Prodigy
- 2. GEnie
- 3. Quantum Link
- 4. CompuServe
+Whistler was the codename of this Microsoft Operating System.
+ 1. Windows 2000
+ 2. Windows 95
+ 3. Windows XP
+ 4. Windows 7
 
 <details>
   <summary>Answer</summary>
-  Quantum Link
+  Windows XP
 </details>
 
 
