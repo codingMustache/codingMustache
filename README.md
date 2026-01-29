@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you make holy water? You boil the hell out of it.
+What animal is always at a game of cricket? A bat.
 
 
 ## Daily Trivia
 
-In computing, what does MIDI stand for?
- 1. Musical Interface of Digital Instruments
- 2. Modular Interface of Digital Instruments
- 3. Musical Instrument Data Interface
- 4. Musical Instrument Digital Interface
+What is the domain name for the country Tuvalu?
+ 1. .tt
+ 2. .tu
+ 3. .tl
+ 4. .tv
 
 <details>
   <summary>Answer</summary>
-  Musical Instrument Digital Interface
+  .tv
 </details>
 
 
