@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I’ve got this disease where I can’t stop making airport puns. The doctor says it terminal.
+What is the least spoken language in the world?
+Sign Language
 
 
 ## Daily Trivia
 
-What does AD stand for in relation to Windows Operating Systems? 
- 1. Active Directory
- 2. Active Department
- 3. Automated Database
- 4. Alternative Drive
+The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
+ 1. HD Graphics 700 
+ 2. HD Graphics 7000
+ 3. HD Graphics 600
+ 4. HD Graphics 500
 
 <details>
   <summary>Answer</summary>
-  Active Directory
+  HD Graphics 500
 </details>
 
 
