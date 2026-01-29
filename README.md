@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do scuba divers fall backwards into the water? Because if they fell forwards they’d still be in the boat.
+Can February march? No, but April may.
 
 
 ## Daily Trivia
 
-In programming, the ternary operator is mostly defined with what symbol(s)?
- 1. if then
- 2. ?
- 3. ?:
- 4. ??
+What is the most preferred image format used for logos in the Wikimedia database?
+ 1. .gif
+ 2. .jpeg
+ 3. .svg
+ 4. .png
 
 <details>
   <summary>Answer</summary>
-  ?:
+  .svg
 </details>
 
 
