@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A book just fell on my head. I only have my shelf to blame.
+How many tickles does it take to tickle an octopus? Ten-tickles!
 
 
 ## Daily Trivia
 
-Who is the founder of Palantir?
- 1. Peter Thiel
- 2. Mark Zuckerberg
- 3. Jack Dorsey
- 4. Marc Benioff
+What does CPU stand for?
+ 1. Computer Personal Unit
+ 2. Central Process Unit
+ 3. Central Processor Unit
+ 4. Central Processing Unit
 
 <details>
   <summary>Answer</summary>
-  Peter Thiel
+  Central Processing Unit
 </details>
 
 
