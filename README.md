@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A beekeeper was indicted after he confessed to years of stealing at work. They charged him with emBEEzlement
+Recent survey revealed 6 out of 7 dwarf's aren't happy.
 
 
 ## Daily Trivia
 
-Which SQL keyword is used to fetch data from a database?
- 1. VALUES
- 2. INDEX
- 3. SELECT
- 4. EXEC
+Which computer hardware device provides an interface for all other connected devices to communicate?
+ 1. Central Processing Unit
+ 2. Hard Disk Drive
+ 3. Motherboard
+ 4. Random Access Memory
 
 <details>
   <summary>Answer</summary>
-  SELECT
+  Motherboard
 </details>
 
 
