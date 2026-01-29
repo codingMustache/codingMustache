@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did celery say when he broke up with his girlfriend? She wasn't right for me, so I really don't carrot all.
+Why do scuba divers fall backwards into the water? Because if they fell forwards they’d still be in the boat.
 
 
 ## Daily Trivia
 
-What does the Prt Sc button do?
- 1. Closes all windows
- 2. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
- 3. Captures what&#039;s on the screen and copies it to your clipboard
- 4. Nothing
+In programming, the ternary operator is mostly defined with what symbol(s)?
+ 1. if then
+ 2. ?
+ 3. ?:
+ 4. ??
 
 <details>
   <summary>Answer</summary>
-  Captures what&#039;s on the screen and copies it to your clipboard
+  ?:
 </details>
 
 
