@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A doll was recently found dead in a rice paddy. It's the only known instance of a nick nack paddy wack.
+What did one wall say to the other wall? I'll meet you at the corner!
 
 
 ## Daily Trivia
 
-Lenovo acquired IBM&#039;s personal computer division, including the ThinkPad line of laptops and tablets, in what year?
- 1. 1999
- 2. 2002
- 3. 2005
- 4. 2008
+When did the online streaming service &quot;Mixer&quot; launch?
+ 1. 2016
+ 2. 2013
+ 3. 2009
+ 4. 2011
 
 <details>
   <summary>Answer</summary>
-  2005
+  2016
 </details>
 
 
