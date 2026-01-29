@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Frankenstein enters a bodybuilding competition and finds he has seriously misunderstood the objective.
+What's the difference between roast beef and pea soup. Anyone can roast beef, but nobody can pee soup.
 
 
 ## Daily Trivia
 
-What was the first company to use the term &quot;Golden Master&quot;?
- 1. Apple
- 2. Google
- 3. Microsoft
- 4. IBM
+Which of the following is a personal computer made by the Japanese company Fujitsu?
+ 1. FM-7
+ 2. MSX
+ 3. Xmillennium 
+ 4. PC-9801
 
 <details>
   <summary>Answer</summary>
-  Apple
+  FM-7
 </details>
 
 
