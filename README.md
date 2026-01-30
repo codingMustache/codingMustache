@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What’s the difference between an African elephant and an Indian elephant? About 5000 miles.
+Can a kangaroo jump higher than the Empire State Building? Of course. The Empire State Building can't jump.
 
 
 ## Daily Trivia
 
-What does LTS stand for in the software market?
- 1. Long Taco Service
- 2. Ludicrous Transfer Speed
- 3. Long Term Support
- 4. Ludicrous Turbo Speed
+What amount of bits commonly equals one byte?
+ 1. 1
+ 2. 2
+ 3. 64
+ 4. 8
 
 <details>
   <summary>Answer</summary>
-  Long Term Support
+  8
 </details>
 
 
