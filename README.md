@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the burglar hang his mugshot on the wall? To prove that he was framed!
+The biggest knight at King Arthur's round table was Sir Cumference. He acquired his size from eating too much pi.
 
 
 ## Daily Trivia
 
-What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
- 1. PCM Sampler
- 2. ADPCM Sampler
- 3. Programmable Sound Generator (PSG)
- 4. FM Synthesizer
+What does LTS stand for in the software market?
+ 1. Long Term Support
+ 2. Ludicrous Turbo Speed
+ 3. Ludicrous Transfer Speed
+ 4. Long Taco Service
 
 <details>
   <summary>Answer</summary>
-  ADPCM Sampler
+  Long Term Support
 </details>
 
 
