@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Yesterday a clown held a door open for me. I thought it was a nice jester.
+I got fired from a florist, apparently I took too many leaves.
 
 
 ## Daily Trivia
 
-What is the most preferred image format used for logos in the Wikimedia database?
- 1. .png
- 2. .jpeg
- 3. .gif
- 4. .svg
+What is known as &quot;the brain&quot; of the Computer?
+ 1. Keyboard
+ 2. Graphics Processing Unit
+ 3. Motherboard
+ 4. Central Processing Unit
 
 <details>
   <summary>Answer</summary>
-  .svg
+  Central Processing Unit
 </details>
 
 
