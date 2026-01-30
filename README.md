@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Do I enjoy making courthouse puns? Guilty
+Why was Santa's little helper feeling depressed? Because he has low elf esteem.
+
 
 
 ## Daily Trivia
 
-What was the first Android version specifically optimized for tablets?
- 1. Honeycomb
- 2. Eclair
- 3. Froyo
- 4. Marshmellow
+Which one of these is not an official development name for a Ubuntu release?
+ 1. Mystic Mansion
+ 2. Trusty Tahr
+ 3. Utopic Unicorn
+ 4. Wily Werewolf
 
 <details>
   <summary>Answer</summary>
-  Honeycomb
+  Mystic Mansion
 </details>
 
 
