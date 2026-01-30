@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why didn’t the skeleton cross the road? Because he had no guts.
+What do you call a gorilla wearing headphones? Anything you'd like, it can't hear you.
 
 
 ## Daily Trivia
 
-What does the computer software acronym JVM stand for?
- 1. Just Virtual Machine
- 2. Java Virtual Machine
- 3. Java Visual Machine
- 4. Java Vendor Machine
+What port does HTTP run on?
+ 1. 443
+ 2. 53
+ 3. 23
+ 4. 80
 
 <details>
   <summary>Answer</summary>
-  Java Virtual Machine
+  80
 </details>
 
 
