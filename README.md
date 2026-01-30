@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I got fired from a florist, apparently I took too many leaves.
+I thought about going on an all-almond diet. But that's just nuts.
 
 
 ## Daily Trivia
 
-What is known as &quot;the brain&quot; of the Computer?
- 1. Keyboard
- 2. Graphics Processing Unit
- 3. Motherboard
- 4. Central Processing Unit
+Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
+ 1. Leopard
+ 2. Tiger
+ 3. Puma
+ 4. Cheetah
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  Cheetah
 </details>
 
 
