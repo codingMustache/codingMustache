@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Breaking news! Energizer Bunny arrested – charged with battery.
+What did the digital clock say to the grandfather clock? Look, no hands!
 
 
 ## Daily Trivia
 
-According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:
- 1. AB&#039; + AB
- 2. A&#039; + B&#039;
- 3. A&#039;B + B&#039;A
- 4. A&#039;B&#039;
+The C programming language was created by this American computer scientist. 
+ 1. Dennis Ritchie
+ 2. Tim Berners Lee
+ 3. al-Khwārizmī
+ 4. Willis Ware
 
 <details>
   <summary>Answer</summary>
-  A&#039; + B&#039;
+  Dennis Ritchie
 </details>
 
 
