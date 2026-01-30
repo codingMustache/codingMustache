@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-R.I.P. boiled water. You will be mist.
+Breaking news! Energizer Bunny arrested – charged with battery.
 
 
 ## Daily Trivia
 
-HTML is what type of language?
- 1. Markup Language
- 2. Macro Language
- 3. Programming Language
- 4. Scripting Language
+Which of the following languages is used as a scripting language in the Unity 3D game engine?
+ 1. C++
+ 2. C#
+ 3. Java
+ 4. Objective-C
 
 <details>
   <summary>Answer</summary>
-  Markup Language
+  C#
 </details>
 
 
