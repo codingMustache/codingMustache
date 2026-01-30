@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I wouldn't buy anything with velcro. It's a total rip-off.
+Where do rabbits go after they get married? On a bunny-moon.
 
 
 ## Daily Trivia
 
-How many bits make up the significand portion of a single precision floating point number?
- 1. 23
- 2. 15
- 3. 53
- 4. 8
+In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
+ 1. &lt;scroll&gt;&lt;/scroll&gt;
+ 2. &lt;move&gt;&lt;/move&gt;
+ 3. &lt;marquee&gt;&lt;/marquee&gt;
+ 4. &lt;slide&gt;&lt;/slide&gt;
 
 <details>
   <summary>Answer</summary>
-  23
+  &lt;marquee&gt;&lt;/marquee&gt;
 </details>
 
 
