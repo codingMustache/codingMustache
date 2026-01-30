@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the best thing about elevator jokes? They work on so many levels.
+R.I.P. boiled water. You will be mist.
 
 
 ## Daily Trivia
 
-What does GHz stand for?
- 1. Gigahetz
- 2. Gigahotz
- 3. Gigahatz
- 4. Gigahertz
+What port does HTTP run on?
+ 1. 80
+ 2. 23
+ 3. 443
+ 4. 53
 
 <details>
   <summary>Answer</summary>
-  Gigahertz
+  80
 </details>
 
 
