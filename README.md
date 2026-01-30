@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-R.I.P. boiled water. You will be mist.
+Breaking news! Energizer Bunny arrested – charged with battery.
 
 
 ## Daily Trivia
 
-What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
- 1. Heat Sink
- 2. Heat Vent
- 3. Temperature Decipator
- 4. CPU Vent
+According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:
+ 1. AB&#039; + AB
+ 2. A&#039; + B&#039;
+ 3. A&#039;B + B&#039;A
+ 4. A&#039;B&#039;
 
 <details>
   <summary>Answer</summary>
-  Heat Sink
+  A&#039; + B&#039;
 </details>
 
 
