@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Whoever invented the knock-knock joke should get a no bell prize.
+Coffee has a tough time at my house, every morning it gets mugged.
 
 
 ## Daily Trivia
 
-In computing, what does LAN stand for?
- 1. Long Antenna Node
- 2. Light Access Node
- 3. Land Address Navigation
- 4. Local Area Network
+The acronym &quot;RIP&quot; stands for which of these?
+ 1. Regular Interval Processes
+ 2. Routing Information Protocol
+ 3. Runtime Instance Processes
+ 4. Routine Inspection Protocol
 
 <details>
   <summary>Answer</summary>
-  Local Area Network
+  Routing Information Protocol
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **18 days** since this server shutdown
+Its been **** since this server shutdown
