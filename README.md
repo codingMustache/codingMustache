@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the digital clock say to the grandfather clock? Look, no hands!
+Why does it take longer to get from 1st to 2nd base, than it does to get from 2nd to 3rd base? Because there’s a Shortstop in between!
 
 
 ## Daily Trivia
 
-The C programming language was created by this American computer scientist. 
- 1. Dennis Ritchie
- 2. Tim Berners Lee
- 3. al-Khwārizmī
- 4. Willis Ware
+This mobile OS held the largest market share in 2012.
+ 1. iOS
+ 2. Symbian
+ 3. BlackBerry
+ 4. Android
 
 <details>
   <summary>Answer</summary>
-  Dennis Ritchie
+  iOS
 </details>
 
 
