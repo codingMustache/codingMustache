@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I boiled a funny bone last night and had a laughing stock
+R.I.P. boiled water. You will be mist.
 
 
 ## Daily Trivia
 
-In programming, the ternary operator is mostly defined with what symbol(s)?
- 1. ?:
- 2. ?
- 3. ??
- 4. if then
+HTML is what type of language?
+ 1. Markup Language
+ 2. Macro Language
+ 3. Programming Language
+ 4. Scripting Language
 
 <details>
   <summary>Answer</summary>
-  ?:
+  Markup Language
 </details>
 
 
