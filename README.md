@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Dad I’m hungry’ … ‘Hi hungry I’m dad
+Why didn’t the skeleton cross the road? Because he had no guts.
 
 
 ## Daily Trivia
 
-How many kilobytes in one gigabyte (in decimal)?
- 1. 1000000
- 2. 1000
- 3. 1048576
- 4. 1024
+What does the computer software acronym JVM stand for?
+ 1. Just Virtual Machine
+ 2. Java Virtual Machine
+ 3. Java Visual Machine
+ 4. Java Vendor Machine
 
 <details>
   <summary>Answer</summary>
-  1000000
+  Java Virtual Machine
 </details>
 
 
