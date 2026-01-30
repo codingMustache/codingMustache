@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I saw an ad in a shop window, "Television for sale, $1, volume stuck on full", I thought, "I can't turn that down".
+What is the least spoken language in the world?
+Sign Language
 
 
 ## Daily Trivia
 
-In programming, what do you call functions with the same name but different implementations?
- 1. Overloading
- 2. Inheriting
- 3. Abstracting
- 4. Overriding
+Which of the following computer components can be built using only NAND gates?
+ 1. CPU
+ 2. RAM
+ 3. Register
+ 4. ALU
 
 <details>
   <summary>Answer</summary>
-  Overloading
+  ALU
 </details>
 
 
