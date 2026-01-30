@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-You can't run through a camp site. You can only ran, because it's past tents.
+What did celery say when he broke up with his girlfriend? She wasn't right for me, so I really don't carrot all.
 
 
 ## Daily Trivia
 
-Which of these is not a key value of Agile software development?
- 1. Individuals and interactions
- 2. Customer collaboration
- 3. Responding to change
- 4. Comprehensive documentation
+In the server hosting industry IaaS stands for...
+ 1. Infrastructure as a Service
+ 2. Internet as a Service
+ 3. Infrastructure as a Server
+ 4. Internet and a Server
 
 <details>
   <summary>Answer</summary>
-  Comprehensive documentation
+  Infrastructure as a Service
 </details>
 
 
