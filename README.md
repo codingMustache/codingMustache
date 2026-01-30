@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the bread factory burning down? They say the business is toast.
+The other day, my wife asked me to pass her lipstick but I accidentally passed her a glue stick. She still isn't talking to me.
 
 
 ## Daily Trivia
 
-According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:
- 1. A&#039; + B&#039;
- 2. AB&#039; + AB
- 3. A&#039;B&#039;
- 4. A&#039;B + B&#039;A
+How many bits make up the significand portion of a single precision floating point number?
+ 1. 23
+ 2. 15
+ 3. 53
+ 4. 8
 
 <details>
   <summary>Answer</summary>
-  A&#039; + B&#039;
+  23
 </details>
 
 
