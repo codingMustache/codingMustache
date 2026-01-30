@@ -4,20 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-R.I.P. boiled water. You will be mist.
+How many seconds are in a year?
+12.
+January 2nd, February 2nd, March 2nd, April 2nd.... etc
 
 
 ## Daily Trivia
 
-What port does HTTP run on?
- 1. 80
- 2. 23
- 3. 443
- 4. 53
+While Apple was formed in California, in which western state was Microsoft founded?
+ 1. New Mexico
+ 2. Colorado
+ 3. Arizona
+ 4. Washington
 
 <details>
   <summary>Answer</summary>
-  80
+  New Mexico
 </details>
 
 
