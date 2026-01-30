@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Frankenstein enters a bodybuilding competition and finds he has seriously misunderstood the objective.
+Dad I’m hungry’ … ‘Hi hungry I’m dad
 
 
 ## Daily Trivia
 
-What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
- 1. Coffee Lake
- 2. Sandy Bridge
- 3. Skylake
- 4. Broadwell
+How many kilobytes in one gigabyte (in decimal)?
+ 1. 1000000
+ 2. 1000
+ 3. 1048576
+ 4. 1024
 
 <details>
   <summary>Answer</summary>
-  Coffee Lake
+  1000000
 </details>
 
 
