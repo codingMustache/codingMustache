@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you do on a remote island? Try and find the TV island it belongs to.
+What did the grape do when he got stepped on? He let out a little wine.
 
 
 ## Daily Trivia
 
-In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
- 1. echo &quot;Hello World&quot;
- 2. console.log(&quot;Hello World&quot;)
- 3. print(&quot;Hello World&quot;)
- 4. printf(&quot;Hello World&quot;)
+What was the name of the first Bulgarian personal computer?
+ 1. Pravetz 82
+ 2. IMKO-1
+ 3. Pravetz 8D
+ 4. IZOT 1030
 
 <details>
   <summary>Answer</summary>
-  print(&quot;Hello World&quot;)
+  IMKO-1
 </details>
 
 
