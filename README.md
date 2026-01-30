@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-This morning I was wondering where the sun was, but then it dawned on me.
+I saw an ad in a shop window, "Television for sale, $1, volume stuck on full", I thought, "I can't turn that down".
 
 
 ## Daily Trivia
 
-Which RAID array type is associated with data mirroring?
- 1. RAID 0
- 2. RAID 1
- 3. RAID 5
- 4. RAID 10
+In programming, what do you call functions with the same name but different implementations?
+ 1. Overloading
+ 2. Inheriting
+ 3. Abstracting
+ 4. Overriding
 
 <details>
   <summary>Answer</summary>
-  RAID 1
+  Overloading
 </details>
 
 
