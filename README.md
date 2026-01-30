@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did celery say when he broke up with his girlfriend? She wasn't right for me, so I really don't carrot all.
+R.I.P. boiled water. You will be mist.
 
 
 ## Daily Trivia
 
-In the server hosting industry IaaS stands for...
- 1. Infrastructure as a Service
- 2. Internet as a Service
- 3. Infrastructure as a Server
- 4. Internet and a Server
+What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
+ 1. Heat Sink
+ 2. Heat Vent
+ 3. Temperature Decipator
+ 4. CPU Vent
 
 <details>
   <summary>Answer</summary>
-  Infrastructure as a Service
+  Heat Sink
 </details>
 
 
