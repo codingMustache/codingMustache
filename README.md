@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I thought about going on an all-almond diet. But that's just nuts.
+Did you hear about the bread factory burning down? They say the business is toast.
 
 
 ## Daily Trivia
 
-Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
- 1. Leopard
- 2. Tiger
- 3. Puma
- 4. Cheetah
+What is the name of the default theme that is installed with Windows XP?
+ 1. Bliss
+ 2. Luna
+ 3. Neptune
+ 4. Whistler
 
 <details>
   <summary>Answer</summary>
-  Cheetah
+  Luna
 </details>
 
 
