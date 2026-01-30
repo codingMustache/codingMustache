@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of dinosaur loves to sleep? A stega-snore-us.
+I wouldn't buy anything with velcro. It's a total rip-off.
 
 
 ## Daily Trivia
 
-Who is the original author of the realtime physics engine called PhysX?
- 1. NovodeX
- 2. AMD
- 3. Ageia
- 4. Nvidia
+How many bits make up the significand portion of a single precision floating point number?
+ 1. 23
+ 2. 15
+ 3. 53
+ 4. 8
 
 <details>
   <summary>Answer</summary>
-  NovodeX
+  23
 </details>
 
 
