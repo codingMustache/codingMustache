@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why does it take longer to get from 1st to 2nd base, than it does to get from 2nd to 3rd base? Because there’s a Shortstop in between!
+What do you get if you cross a turkey with a ghost? A poultry-geist!
 
 
 ## Daily Trivia
 
-What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
- 1. Heat Sink
- 2. CPU Vent
- 3. Temperature Decipator
- 4. Heat Vent
+How many bits make up the significand portion of a single precision floating point number?
+ 1. 53
+ 2. 8
+ 3. 15
+ 4. 23
 
 <details>
   <summary>Answer</summary>
-  Heat Sink
+  23
 </details>
 
 
