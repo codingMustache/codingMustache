@@ -9,15 +9,15 @@ Did you hear about the bread factory burning down? They say the business is toas
 
 ## Daily Trivia
 
-What is the name of the default theme that is installed with Windows XP?
- 1. Bliss
- 2. Luna
- 3. Neptune
- 4. Whistler
+According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:
+ 1. A&#039; + B&#039;
+ 2. AB&#039; + AB
+ 3. A&#039;B&#039;
+ 4. A&#039;B + B&#039;A
 
 <details>
   <summary>Answer</summary>
-  Luna
+  A&#039; + B&#039;
 </details>
 
 
