@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Coffee has a tough time at my house, every morning it gets mugged.
+I boiled a funny bone last night and had a laughing stock
 
 
 ## Daily Trivia
 
-The acronym &quot;RIP&quot; stands for which of these?
- 1. Regular Interval Processes
- 2. Routing Information Protocol
- 3. Runtime Instance Processes
- 4. Routine Inspection Protocol
+In programming, the ternary operator is mostly defined with what symbol(s)?
+ 1. ?:
+ 2. ?
+ 3. ??
+ 4. if then
 
 <details>
   <summary>Answer</summary>
-  Routing Information Protocol
+  ?:
 </details>
 
 
