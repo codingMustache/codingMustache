@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you get if you cross a turkey with a ghost? A poultry-geist!
+What do you call someone with no nose? Nobody knows.
 
 
 ## Daily Trivia
 
-How many bits make up the significand portion of a single precision floating point number?
- 1. 53
- 2. 8
- 3. 15
- 4. 23
+What does &quot;LCD&quot; stand for?
+ 1. Language Control Design
+ 2. Liquid Crystal Display
+ 3. Last Common Difference
+ 4. Long Continuous Design
 
 <details>
   <summary>Answer</summary>
-  23
+  Liquid Crystal Display
 </details>
 
 
