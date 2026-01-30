@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the grape do when he got stepped on? He let out a little wine.
+Do I enjoy making courthouse puns? Guilty
 
 
 ## Daily Trivia
 
-What was the name of the first Bulgarian personal computer?
- 1. Pravetz 82
- 2. IMKO-1
- 3. Pravetz 8D
- 4. IZOT 1030
+What was the first Android version specifically optimized for tablets?
+ 1. Honeycomb
+ 2. Eclair
+ 3. Froyo
+ 4. Marshmellow
 
 <details>
   <summary>Answer</summary>
-  IMKO-1
+  Honeycomb
 </details>
 
 
