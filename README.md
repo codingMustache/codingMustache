@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a troublesome Canadian high schooler? A poutine.
+What do you call an Argentinian with a rubber toe? Roberto
 
 
 ## Daily Trivia
 
-The name of technology company HP stands for what?
- 1. Husker-Pollosk
- 2. Hellman-Pohl
- 3. Hewlett-Packard
- 4. Howard Packmann
+According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:
+ 1. A&#039; + B&#039;
+ 2. AB&#039; + AB
+ 3. A&#039;B&#039;
+ 4. A&#039;B + B&#039;A
 
 <details>
   <summary>Answer</summary>
-  Hewlett-Packard
+  A&#039; + B&#039;
 </details>
 
 
