@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's blue and not very heavy?  Light blue.
+Every machine in the coin factory broke down all of a sudden without explanation. It just doesn’t make any cents.
 
 
 ## Daily Trivia
 
-In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
- 1. relative
- 2. center
- 3. absolute
- 4. static
+While Apple was formed in California, in which western state was Microsoft founded?
+ 1. New Mexico
+ 2. Washington
+ 3. Colorado
+ 4. Arizona
 
 <details>
   <summary>Answer</summary>
-  center
+  New Mexico
 </details>
 
 
