@@ -4,22 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the hat say to the scarf?
-You can hang around. I'll just go on ahead.
-
+Why did the teddy bear say “no” to dessert? Because she was stuffed.
 
 
 ## Daily Trivia
 
-.at is the top-level domain for what country?
- 1. Australia
- 2. Austria
- 3. Angola
- 4. Argentina
+The teapot often seen in many 3D modeling applications is called what?
+ 1. Pixar Teapot
+ 2. 3D Teapot
+ 3. Utah Teapot
+ 4. Tennessee Teapot
 
 <details>
   <summary>Answer</summary>
-  Austria
+  Utah Teapot
 </details>
 
 
