@@ -4,22 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the worst part about being a cross-eyed teacher?
-
-They can't control their pupils.
+When you have a bladder infection, urine trouble.
 
 
 ## Daily Trivia
 
-What does the term GPU stand for?
- 1. Graphical Proprietary Unit
- 2. Graphite Producing Unit
- 3. Gaming Processor Unit
- 4. Graphics Processing Unit
+America Online (AOL) started out as which of these online service providers?
+ 1. CompuServe
+ 2. Prodigy
+ 3. Quantum Link
+ 4. GEnie
 
 <details>
   <summary>Answer</summary>
-  Graphics Processing Unit
+  Quantum Link
 </details>
 
 
