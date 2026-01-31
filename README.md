@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Every machine in the coin factory broke down all of a sudden without explanation. It just doesn’t make any cents.
+How do the trees get on the internet? They log on.
 
 
 ## Daily Trivia
 
-While Apple was formed in California, in which western state was Microsoft founded?
- 1. New Mexico
- 2. Washington
- 3. Colorado
- 4. Arizona
+Which operating system was released first?
+ 1. Windows
+ 2. OS/2
+ 3. Linux
+ 4. Mac OS
 
 <details>
   <summary>Answer</summary>
-  New Mexico
+  Mac OS
 </details>
 
 
