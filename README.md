@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-As I suspected, someone has been adding soil to my garden. The plot thickens.
+There’s a new type of broom out, it’s sweeping the nation.
 
 
 ## Daily Trivia
 
-Lenovo acquired IBM&#039;s personal computer division, including the ThinkPad line of laptops and tablets, in what year?
- 1. 2005
- 2. 2008
- 3. 2002
- 4. 1999
+In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
+ 1. console.log(&quot;Hello World&quot;)
+ 2. printf(&quot;Hello World&quot;)
+ 3. echo &quot;Hello World&quot;
+ 4. print(&quot;Hello World&quot;)
 
 <details>
   <summary>Answer</summary>
-  2005
+  print(&quot;Hello World&quot;)
 </details>
 
 
