@@ -4,20 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I went to the zoo yesterday and saw a baguette in a cage. It was bread in captivity.
+What did the hat say to the scarf?
+You can hang around. I'll just go on ahead.
+
 
 
 ## Daily Trivia
 
-Who invented the &quot;Spanning Tree Protocol&quot;?
- 1. Radia Perlman
- 2. Michael Roberts
- 3. Vint Cerf
- 4. Paul Vixie
+.at is the top-level domain for what country?
+ 1. Australia
+ 2. Austria
+ 3. Angola
+ 4. Argentina
 
 <details>
   <summary>Answer</summary>
-  Radia Perlman
+  Austria
 </details>
 
 
