@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The shovel was a ground-breaking invention.
+What do you call a troublesome Canadian high schooler? A poutine.
 
 
 ## Daily Trivia
 
-On which day did the World Wide Web go online?
- 1. November 12, 1990
- 2. December 17, 1996
- 3. December 20, 1990
- 4. November 24, 1995
+The name of technology company HP stands for what?
+ 1. Husker-Pollosk
+ 2. Hellman-Pohl
+ 3. Hewlett-Packard
+ 4. Howard Packmann
 
 <details>
   <summary>Answer</summary>
-  December 20, 1990
+  Hewlett-Packard
 </details>
 
 
