@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I just broke my guitar. It's okay, I won't fret
+What do you call a boy who stopped digging holes? Douglas.
 
 
 ## Daily Trivia
 
-What does the &#039;S&#039; in the RSA encryption algorithm stand for?
- 1. Stable
- 2. Schottky
- 3. Shamir
- 4. Secure
+The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
+ 1. Acorn Computers
+ 2. Sinclair Research
+ 3. Amstrad PLC
+ 4. Commodore Business Machines
 
 <details>
   <summary>Answer</summary>
-  Shamir
+  Acorn Computers
 </details>
 
 
