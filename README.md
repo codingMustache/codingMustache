@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was the picture sent to prison? It was framed.
+I used to be a banker, but I lost interest.
 
 
 ## Daily Trivia
 
-When did the online streaming service &quot;Mixer&quot; launch?
- 1. 2016
- 2. 2011
- 3. 2009
- 4. 2013
+Which of these is not a key value of Agile software development?
+ 1. Responding to change
+ 2. Comprehensive documentation
+ 3. Individuals and interactions
+ 4. Customer collaboration
 
 <details>
   <summary>Answer</summary>
-  2016
+  Comprehensive documentation
 </details>
 
 
