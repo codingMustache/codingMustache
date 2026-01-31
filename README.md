@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is a vampire's favorite fruit? A blood orange.
+Somebody stole my Microsoft Office and they're going to pay - you have my Word.
 
 
 ## Daily Trivia
 
-Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
- 1. PHP
- 2. C#
- 3. JavaScript
- 4. Python
+The C programming language was created by this American computer scientist. 
+ 1. Willis Ware
+ 2. al-Khwārizmī
+ 3. Dennis Ritchie
+ 4. Tim Berners Lee
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  Dennis Ritchie
 </details>
 
 
