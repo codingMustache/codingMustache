@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A police officer caught two kids playing with a firework and a car battery. He charged one and let the other one off.
+The shovel was a ground-breaking invention.
 
 
 ## Daily Trivia
 
-What does the &#039;S&#039; in the RSA encryption algorithm stand for?
- 1. Secure
- 2. Shamir
- 3. Schottky
- 4. Stable
+On which day did the World Wide Web go online?
+ 1. November 12, 1990
+ 2. December 17, 1996
+ 3. December 20, 1990
+ 4. November 24, 1995
 
 <details>
   <summary>Answer</summary>
-  Shamir
+  December 20, 1990
 </details>
 
 
