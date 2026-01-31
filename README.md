@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A butcher accidentally backed into his meat grinder and got a little behind in his work that day.
+As I suspected, someone has been adding soil to my garden. The plot thickens.
 
 
 ## Daily Trivia
 
-All of the following programs are classified as raster graphics editors EXCEPT:
- 1. Paint.NET
- 2. GIMP
- 3. Inkscape
- 4. Adobe Photoshop
+Lenovo acquired IBM&#039;s personal computer division, including the ThinkPad line of laptops and tablets, in what year?
+ 1. 2005
+ 2. 2008
+ 3. 2002
+ 4. 1999
 
 <details>
   <summary>Answer</summary>
-  Inkscape
+  2005
 </details>
 
 
