@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Whoever invented the knock-knock joke should get a no bell prize.
+I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts.
 
 
 ## Daily Trivia
 
-What does RAID stand for?
- 1. Range of Applications with Identical Designs
- 2. Redundant Array of Independent Disks
- 3. Rapid Access for Indexed Devices
- 4. Randomized Abstract Identification Description
+In programming, what do you call functions with the same name but different implementations?
+ 1. Overloading
+ 2. Inheriting
+ 3. Abstracting
+ 4. Overriding
 
 <details>
   <summary>Answer</summary>
-  Redundant Array of Independent Disks
+  Overloading
 </details>
 
 
