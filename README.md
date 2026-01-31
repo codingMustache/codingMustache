@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a fly without wings? A walk.
+I went to the doctor today and he told me I had type A blood but it was a type O.
 
 
 ## Daily Trivia
 
-Which of these is not a layer in the OSI model for data communications?
- 1. Physical Layer
- 2. Transport Layer
- 3. Connection Layer
- 4. Application Layer
+What was the first company to use the term &quot;Golden Master&quot;?
+ 1. Apple
+ 2. IBM
+ 3. Microsoft
+ 4. Google
 
 <details>
   <summary>Answer</summary>
-  Connection Layer
+  Apple
 </details>
 
 
