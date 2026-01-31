@@ -4,20 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-"I'm sorry." "Hi sorry, I'm dad"
+What's the worst part about being a cross-eyed teacher?
+
+They can't control their pupils.
 
 
 ## Daily Trivia
 
-What was the first commerically available computer processor?
- 1. Intel 4004
- 2. AMD AM386
- 3. TMS 1000
- 4. Intel 486SX
+What does the term GPU stand for?
+ 1. Graphical Proprietary Unit
+ 2. Graphite Producing Unit
+ 3. Gaming Processor Unit
+ 4. Graphics Processing Unit
 
 <details>
   <summary>Answer</summary>
-  Intel 4004
+  Graphics Processing Unit
 </details>
 
 
