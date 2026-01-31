@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-When you have a bladder infection, urine trouble.
+Two peanuts were walking down the street. One was a salted.
 
 
 ## Daily Trivia
 
-America Online (AOL) started out as which of these online service providers?
- 1. CompuServe
- 2. Prodigy
- 3. Quantum Link
- 4. GEnie
+Who is the original author of the realtime physics engine called PhysX?
+ 1. NovodeX
+ 2. AMD
+ 3. Nvidia
+ 4. Ageia
 
 <details>
   <summary>Answer</summary>
-  Quantum Link
+  NovodeX
 </details>
 
 
