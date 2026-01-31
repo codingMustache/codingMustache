@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A red and a blue ship have just collided in the Caribbean. Apparently the survivors are marooned.
+I wouldn't buy anything with velcro. It's a total rip-off.
 
 
 ## Daily Trivia
 
-Which data structure does FILO apply to?
- 1. Stack
- 2. Tree
- 3. Heap
- 4. Queue
+How many values can a single byte represent?
+ 1. 1024
+ 2. 256
+ 3. 8
+ 4. 1
 
 <details>
   <summary>Answer</summary>
-  Stack
+  256
 </details>
 
 
