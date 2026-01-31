@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How come a man driving a train got struck by lightning? He was a good conductor.
+What do you call a fly without wings? A walk.
 
 
 ## Daily Trivia
 
-Which of the following is a personal computer made by the Japanese company Fujitsu?
- 1. FM-7
- 2. PC-9801
- 3. Xmillennium 
- 4. MSX
+Which of these is not a layer in the OSI model for data communications?
+ 1. Physical Layer
+ 2. Transport Layer
+ 3. Connection Layer
+ 4. Application Layer
 
 <details>
   <summary>Answer</summary>
-  FM-7
+  Connection Layer
 </details>
 
 
