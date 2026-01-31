@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I knew a guy who collected candy canes, they were all in mint condition
+A butcher accidentally backed into his meat grinder and got a little behind in his work that day.
 
 
 ## Daily Trivia
 
-In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
- 1. relative
- 2. absolute
- 3. static
- 4. center
+All of the following programs are classified as raster graphics editors EXCEPT:
+ 1. Paint.NET
+ 2. GIMP
+ 3. Inkscape
+ 4. Adobe Photoshop
 
 <details>
   <summary>Answer</summary>
-  center
+  Inkscape
 </details>
 
 
