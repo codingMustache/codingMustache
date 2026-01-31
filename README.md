@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a boy who stopped digging holes? Douglas.
+Why does Norway have barcodes on their battleships? So when they get back to port, they can Scandinavian.
 
 
 ## Daily Trivia
 
-The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
- 1. Acorn Computers
- 2. Sinclair Research
- 3. Amstrad PLC
- 4. Commodore Business Machines
+In networking, what does OSPF stand for?
+ 1. Open Signal Path Finder
+ 2. Order Sense Ping Find
+ 3. Open Shortest Path First
+ 4. Order State Part First
 
 <details>
   <summary>Answer</summary>
-  Acorn Computers
+  Open Shortest Path First
 </details>
 
 
