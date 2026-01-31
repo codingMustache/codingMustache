@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the teddy bear say “no” to dessert? Because she was stuffed.
+I just broke my guitar. It's okay, I won't fret
 
 
 ## Daily Trivia
 
-The teapot often seen in many 3D modeling applications is called what?
- 1. Pixar Teapot
- 2. 3D Teapot
- 3. Utah Teapot
- 4. Tennessee Teapot
+What does the &#039;S&#039; in the RSA encryption algorithm stand for?
+ 1. Stable
+ 2. Schottky
+ 3. Shamir
+ 4. Secure
 
 <details>
   <summary>Answer</summary>
-  Utah Teapot
+  Shamir
 </details>
 
 
