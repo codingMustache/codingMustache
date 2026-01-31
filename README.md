@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My sea sickness comes in waves.
+What's blue and not very heavy?  Light blue.
 
 
 ## Daily Trivia
 
-The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
- 1. HD Graphics 500
- 2. HD Graphics 600
- 3. HD Graphics 700 
- 4. HD Graphics 7000
+In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
+ 1. console.log(&quot;Hello World&quot;)
+ 2. echo &quot;Hello World&quot;
+ 3. printf(&quot;Hello World&quot;)
+ 4. print(&quot;Hello World&quot;)
 
 <details>
   <summary>Answer</summary>
-  HD Graphics 500
+  print(&quot;Hello World&quot;)
 </details>
 
 
