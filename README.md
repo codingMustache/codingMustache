@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of magic do cows believe in? MOODOO.
+What's blue and not very heavy?  Light blue.
 
 
 ## Daily Trivia
 
-Which operating system was released first?
- 1. Linux
- 2. Mac OS
- 3. OS/2
- 4. Windows
+In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
+ 1. relative
+ 2. center
+ 3. absolute
+ 4. static
 
 <details>
   <summary>Answer</summary>
-  Mac OS
+  center
 </details>
 
 
