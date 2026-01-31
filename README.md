@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do the trees get on the internet? They log on.
+Did you know that ghosts call their true love their ghoul-friend?
 
 
 ## Daily Trivia
 
-Which operating system was released first?
- 1. Windows
- 2. OS/2
- 3. Linux
- 4. Mac OS
+According to the International System of Units, how many bytes are in a kilobyte of RAM?
+ 1. 512
+ 2. 1000
+ 3. 1024
+ 4. 500
 
 <details>
   <summary>Answer</summary>
-  Mac OS
+  1000
 </details>
 
 
