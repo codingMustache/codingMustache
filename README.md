@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A quick shoutout to all of the sidewalks out there... Thanks for keeping me off the streets.
+Why do fish live in salt water? Because pepper makes them sneeze!
 
 
 ## Daily Trivia
 
-Which of the following is NOT a computer science algorithm?
- 1. Float Sort
- 2. Quick Sort
- 3. Merge Sort
- 4. Bubble Sort
+What vulnerability ranked #1 on the OWASP Top 10 in 2013?
+ 1. Broken Authentication
+ 2. Cross-Site Scripting
+ 3. Insecure Direct Object References
+ 4. Injection 
 
 <details>
   <summary>Answer</summary>
-  Float Sort
+  Injection 
 </details>
 
 
