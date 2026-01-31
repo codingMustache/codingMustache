@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a cow with two legs? Lean beef.
+A quick shoutout to all of the sidewalks out there... Thanks for keeping me off the streets.
 
 
 ## Daily Trivia
 
-In networking, what does OSPF stand for?
- 1. Order State Part First
- 2. Order Sense Ping Find
- 3. Open Shortest Path First
- 4. Open Signal Path Finder
+Which of the following is NOT a computer science algorithm?
+ 1. Float Sort
+ 2. Quick Sort
+ 3. Merge Sort
+ 4. Bubble Sort
 
 <details>
   <summary>Answer</summary>
-  Open Shortest Path First
+  Float Sort
 </details>
 
 
