@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call someone with no nose? Nobody knows.
+What was a more important invention than the first telephone? The second one.
 
 
 ## Daily Trivia
 
-What does &quot;LCD&quot; stand for?
- 1. Language Control Design
- 2. Liquid Crystal Display
- 3. Last Common Difference
- 4. Long Continuous Design
+In web design, what does CSS stand for?
+ 1. Cascading Style Sheet
+ 2. Computer Style Sheet
+ 3. Corrective Style Sheet
+ 4. Counter Strike: Source
 
 <details>
   <summary>Answer</summary>
-  Liquid Crystal Display
+  Cascading Style Sheet
 </details>
 
 
