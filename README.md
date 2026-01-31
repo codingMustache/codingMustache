@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Remember, the best angle to approach a problem from is the "try" angle.
+"I'm sorry." "Hi sorry, I'm dad"
 
 
 ## Daily Trivia
 
-The acronym &quot;RIP&quot; stands for which of these?
- 1. Runtime Instance Processes
- 2. Regular Interval Processes
- 3. Routine Inspection Protocol
- 4. Routing Information Protocol
+What was the first commerically available computer processor?
+ 1. Intel 4004
+ 2. AMD AM386
+ 3. TMS 1000
+ 4. Intel 486SX
 
 <details>
   <summary>Answer</summary>
-  Routing Information Protocol
+  Intel 4004
 </details>
 
 
