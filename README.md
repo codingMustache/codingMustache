@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What was a more important invention than the first telephone? The second one.
+Why was the picture sent to prison? It was framed.
 
 
 ## Daily Trivia
 
-In web design, what does CSS stand for?
- 1. Cascading Style Sheet
- 2. Computer Style Sheet
- 3. Corrective Style Sheet
- 4. Counter Strike: Source
+When did the online streaming service &quot;Mixer&quot; launch?
+ 1. 2016
+ 2. 2011
+ 3. 2009
+ 4. 2013
 
 <details>
   <summary>Answer</summary>
-  Cascading Style Sheet
+  2016
 </details>
 
 
