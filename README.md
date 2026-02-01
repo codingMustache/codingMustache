@@ -4,20 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How does a French skeleton say hello? Bone-jour.
+Why did Mozart kill all his chickens?
+Because when he asked them who the best composer was, they'd all say "Bach bach bach!"
+
 
 
 ## Daily Trivia
 
-Which of the following languages is used as a scripting language in the Unity 3D game engine?
- 1. C#
- 2. Objective-C
- 3. C++
- 4. Java
+What is known as &quot;the brain&quot; of the Computer?
+ 1. Motherboard
+ 2. Graphics Processing Unit
+ 3. Central Processing Unit
+ 4. Keyboard
 
 <details>
   <summary>Answer</summary>
-  C#
+  Central Processing Unit
 </details>
 
 
