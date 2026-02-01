@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I saw an ad in a shop window, "Television for sale, $1, volume stuck on full", I thought, "I can't turn that down".
+What's brown and sticky? A stick.
 
 
 ## Daily Trivia
 
-What is the number of keys on a standard Windows Keyboard?
- 1. 64
- 2. 104
- 3. 76
- 4. 94
+In networking, what does OSPF stand for?
+ 1. Open Signal Path Finder
+ 2. Order Sense Ping Find
+ 3. Order State Part First
+ 4. Open Shortest Path First
 
 <details>
   <summary>Answer</summary>
-  104
+  Open Shortest Path First
 </details>
 
 
