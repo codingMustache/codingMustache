@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Hear about the new restaurant called Karma? There’s no menu: You get what you deserve.
+What did the big flower say to the littler flower? Hi, bud!
 
 
 ## Daily Trivia
 
-How many values can a single byte represent?
- 1. 256
- 2. 8
- 3. 1
- 4. 1024
+Which computer hardware device provides an interface for all other connected devices to communicate?
+ 1. Central Processing Unit
+ 2. Motherboard
+ 3. Hard Disk Drive
+ 4. Random Access Memory
 
 <details>
   <summary>Answer</summary>
-  256
+  Motherboard
 </details>
 
 
