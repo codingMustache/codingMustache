@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I just broke my guitar. It's okay, I won't fret
+Who is the coolest Doctor in the hospital? The hip Doctor!
 
 
 ## Daily Trivia
 
-In any programming language, what is the most common way to iterate through an array?
- 1. &#039;For&#039; loops
- 2. &#039;While&#039; loops
- 3. &#039;Do-while&#039; loops
- 4. &#039;If&#039; Statements
+How many cores does the Intel i7-6950X have?
+ 1. 4
+ 2. 12
+ 3. 8
+ 4. 10
 
 <details>
   <summary>Answer</summary>
-  &#039;For&#039; loops
+  10
 </details>
 
 
