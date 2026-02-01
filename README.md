@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I am so good at sleeping I can do it with my eyes closed!
+Doctor you've got you help me, I'm addicted to twitter. Doctor: I don't follow you.
 
 
 ## Daily Trivia
 
-How fast is USB 3.1 Gen 2 theoretically?
- 1. 8 Gb/s
- 2. 1 Gb/s
- 3. 5 Gb/s
- 4. 10 Gb/s
+What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
+ 1. Heat Sink
+ 2. Heat Vent
+ 3. Temperature Decipator
+ 4. CPU Vent
 
 <details>
   <summary>Answer</summary>
-  10 Gb/s
+  Heat Sink
 </details>
 
 
