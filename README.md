@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Is the pool safe for diving? It deep ends.
+Why did the A go to the bathroom and come out as an E? Because he had a vowel movement.
 
 
 ## Daily Trivia
 
-What was the name of the security vulnerability found in Bash in 2014?
- 1. Stagefright
- 2. Heartbleed
- 3. Bashbug
- 4. Shellshock
+What amount of bits commonly equals one byte?
+ 1. 1
+ 2. 2
+ 3. 64
+ 4. 8
 
 <details>
   <summary>Answer</summary>
-  Shellshock
+  8
 </details>
 
 
