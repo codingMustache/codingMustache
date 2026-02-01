@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Without geometry life is pointless.
+What do vegetarian zombies eat? Grrrrrainnnnnssss.
 
 
 ## Daily Trivia
 
-What was the name given to Android 4.3?
- 1. Lollipop
- 2. Nutella
- 3. Froyo
- 4. Jelly Bean
+HTML is what type of language?
+ 1. Scripting Language
+ 2. Markup Language
+ 3. Macro Language
+ 4. Programming Language
 
 <details>
   <summary>Answer</summary>
-  Jelly Bean
+  Markup Language
 </details>
 
 
