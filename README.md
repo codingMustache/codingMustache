@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the sentence fail the driving test? It never came to a full stop.
+When is a door not a door? When it's ajar.
 
 
 ## Daily Trivia
 
-What amount of bits commonly equals one byte?
- 1. 2
- 2. 64
- 3. 8
- 4. 1
+What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
+ 1. Broadwell
+ 2. Skylake
+ 3. Coffee Lake
+ 4. Sandy Bridge
 
 <details>
   <summary>Answer</summary>
-  8
+  Coffee Lake
 </details>
 
 
