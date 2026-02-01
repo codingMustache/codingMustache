@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I thought about going on an all-almond diet. But that's just nuts.
+A red and a blue ship have just collided in the Caribbean. Apparently the survivors are marooned.
 
 
 ## Daily Trivia
 
-What internet protocol was documented in RFC 1459?
- 1. IRC
- 2. HTTPS
- 3. HTTP
- 4. FTP
+Which of the following languages is used as a scripting language in the Unity 3D game engine?
+ 1. C++
+ 2. Java
+ 3. C#
+ 4. Objective-C
 
 <details>
   <summary>Answer</summary>
-  IRC
+  C#
 </details>
 
 
