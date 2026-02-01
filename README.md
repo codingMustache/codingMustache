@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-When my wife told me to stop impersonating a flamingo, I had to put my foot down.
+I asked the surgeon if I could administer my own anesthetic, they said: go ahead, knock yourself out.
 
 
 ## Daily Trivia
 
-What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
- 1. Broadwell
- 2. Coffee Lake
- 3. Skylake
- 4. Sandy Bridge
+Whistler was the codename of this Microsoft Operating System.
+ 1. Windows 2000
+ 2. Windows XP
+ 3. Windows 7
+ 4. Windows 95
 
 <details>
   <summary>Answer</summary>
-  Coffee Lake
+  Windows XP
 </details>
 
 
