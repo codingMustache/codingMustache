@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a nervous javelin thrower? Shakespeare.
+Why did the sentence fail the driving test? It never came to a full stop.
 
 
 ## Daily Trivia
 
-How many Hz does the video standard PAL support?
- 1. 59
- 2. 60
- 3. 25
- 4. 50
+What amount of bits commonly equals one byte?
+ 1. 2
+ 2. 64
+ 3. 8
+ 4. 1
 
 <details>
   <summary>Answer</summary>
-  50
+  8
 </details>
 
 
