@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A bartender broke up with her boyfriend, but he kept asking her for another shot.
+Why was the broom late for the meeting? He overswept.
 
 
 ## Daily Trivia
 
-In programming, the ternary operator is mostly defined with what symbol(s)?
- 1. ?
- 2. ??
- 3. ?:
- 4. if then
+What is the name of the default theme that is installed with Windows XP?
+ 1. Luna
+ 2. Neptune
+ 3. Whistler
+ 4. Bliss
 
 <details>
   <summary>Answer</summary>
-  ?:
+  Luna
 </details>
 
 
