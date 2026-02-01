@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the mountain climber name his son? Cliff.
+My boss told me to have a good day... so I went home.
 
 
 ## Daily Trivia
 
-In programming, the ternary operator is mostly defined with what symbol(s)?
- 1. ?
- 2. if then
- 3. ??
- 4. ?:
+What does LTS stand for in the software market?
+ 1. Long Taco Service
+ 2. Ludicrous Transfer Speed
+ 3. Ludicrous Turbo Speed
+ 4. Long Term Support
 
 <details>
   <summary>Answer</summary>
-  ?:
+  Long Term Support
 </details>
 
 
