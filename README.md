@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I had a pair of racing snails. I removed their shells to make them more aerodynamic, but they became sluggish.
+What has three letters and starts with gas? A Car.
 
 
 ## Daily Trivia
 
-How many values can a single byte represent?
- 1. 8
- 2. 1
- 3. 1024
- 4. 256
+What vulnerability ranked #1 on the OWASP Top 10 in 2013?
+ 1. Cross-Site Scripting
+ 2. Insecure Direct Object References
+ 3. Broken Authentication
+ 4. Injection 
 
 <details>
   <summary>Answer</summary>
-  256
+  Injection 
 </details>
 
 
