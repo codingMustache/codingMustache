@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Somebody stole my Microsoft Office and they're going to pay - you have my Word.
+I just broke my guitar. It's okay, I won't fret
 
 
 ## Daily Trivia
 
-Which RAID array type is associated with data mirroring?
- 1. RAID 1
- 2. RAID 5
- 3. RAID 10
- 4. RAID 0
+In any programming language, what is the most common way to iterate through an array?
+ 1. &#039;For&#039; loops
+ 2. &#039;While&#039; loops
+ 3. &#039;Do-while&#039; loops
+ 4. &#039;If&#039; Statements
 
 <details>
   <summary>Answer</summary>
-  RAID 1
+  &#039;For&#039; loops
 </details>
 
 
