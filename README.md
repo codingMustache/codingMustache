@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Who is the coolest Doctor in the hospital? The hip Doctor!
+Nurse: Doctor, there's a patient that says he's invisible. Doctor: Well, tell him I can't see him right now!
 
 
 ## Daily Trivia
 
-How many cores does the Intel i7-6950X have?
- 1. 4
- 2. 12
- 3. 8
- 4. 10
+Which one of these is not an official development name for a Ubuntu release?
+ 1. Mystic Mansion
+ 2. Wily Werewolf
+ 3. Utopic Unicorn
+ 4. Trusty Tahr
 
 <details>
   <summary>Answer</summary>
-  10
+  Mystic Mansion
 </details>
 
 
