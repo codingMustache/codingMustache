@@ -4,22 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did Mozart kill all his chickens?
-Because when he asked them who the best composer was, they'd all say "Bach bach bach!"
-
+A bartender broke up with her boyfriend, but he kept asking her for another shot.
 
 
 ## Daily Trivia
 
-What is known as &quot;the brain&quot; of the Computer?
- 1. Motherboard
- 2. Graphics Processing Unit
- 3. Central Processing Unit
- 4. Keyboard
+In programming, the ternary operator is mostly defined with what symbol(s)?
+ 1. ?
+ 2. ??
+ 3. ?:
+ 4. if then
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  ?:
 </details>
 
 
