@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Our wedding was so beautiful, even the cake was in tiers.
+What happens to a frog's car when it breaks down? It gets toad.
 
 
 ## Daily Trivia
 
-Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
- 1. 20.5 kHz
- 2. 1.5 MHz
- 3. 32.0 kHz
- 4. 44.1 kHz
+Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
+ 1. Commodore
+ 2. Atari
+ 3. Microsoft
+ 4. Apple
 
 <details>
   <summary>Answer</summary>
-  44.1 kHz
+  Apple
 </details>
 
 
