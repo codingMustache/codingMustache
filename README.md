@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Doctor you've got you help me, I'm addicted to twitter. Doctor: I don't follow you.
+Which is the fastest growing city in the world? Dublin'
 
 
 ## Daily Trivia
 
-What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
- 1. Heat Sink
- 2. Heat Vent
- 3. Temperature Decipator
- 4. CPU Vent
+On which computer hardware device is the BIOS chip located?
+ 1. Hard Disk Drive
+ 2. Motherboard
+ 3. Central Processing Unit
+ 4. Graphics Processing Unit
 
 <details>
   <summary>Answer</summary>
-  Heat Sink
+  Motherboard
 </details>
 
 
