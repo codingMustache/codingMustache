@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the big flower say to the littler flower? Hi, bud!
+How does a scientist freshen their breath? With experi-mints!
 
 
 ## Daily Trivia
 
-Which computer hardware device provides an interface for all other connected devices to communicate?
- 1. Central Processing Unit
- 2. Motherboard
- 3. Hard Disk Drive
- 4. Random Access Memory
+What was Bitcoin&#039;s block size limit in 2010?
+ 1. 1 MB
+ 2. 1 TB
+ 3. 1 KB
+ 4. 1GB
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  1 MB
 </details>
 
 
