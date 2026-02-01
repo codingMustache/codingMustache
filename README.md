@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I asked the surgeon if I could administer my own anesthetic, they said: go ahead, knock yourself out.
+I had a rough day, and then somebody went and ripped the front and back pages from my dictionary. It just goes from bad to worse.
 
 
 ## Daily Trivia
 
-Whistler was the codename of this Microsoft Operating System.
- 1. Windows 2000
- 2. Windows XP
- 3. Windows 7
- 4. Windows 95
+Which of the following languages is used as a scripting language in the Unity 3D game engine?
+ 1. C++
+ 2. C#
+ 3. Java
+ 4. Objective-C
 
 <details>
   <summary>Answer</summary>
-  Windows XP
+  C#
 </details>
 
 
