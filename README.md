@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was ten scared of seven? Because seven ate nine.
+I saw an ad in a shop window, "Television for sale, $1, volume stuck on full", I thought, "I can't turn that down".
 
 
 ## Daily Trivia
 
-Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
- 1. Four Years
- 2. Two Years
- 3. Eight Years
- 4. Year
+What is the number of keys on a standard Windows Keyboard?
+ 1. 64
+ 2. 104
+ 3. 76
+ 4. 94
 
 <details>
   <summary>Answer</summary>
-  Year
+  104
 </details>
 
 
