@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Have you heard about corduroy pillows?  They're making headlines!
+Why did the cookie cry? It was feeling crumby.
 
 
 ## Daily Trivia
 
-In programming, what do you call functions with the same name but different implementations?
- 1. Inheriting
- 2. Abstracting
- 3. Overriding
- 4. Overloading
+What is the name of Layer 7 of the OSI model?
+ 1. Present
+ 2. Session
+ 3. Application
+ 4. Network
 
 <details>
   <summary>Answer</summary>
-  Overloading
+  Application
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **1 days** since this server shutdown
+Its been **2 days** since this server shutdown
