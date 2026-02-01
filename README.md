@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the girl smear peanut butter on the road? To go with the traffic jam.
+What do you call a dad that has fallen through the ice? A Popsicle.
 
 
 ## Daily Trivia
 
-Australia, Japan, and Southeast Asia are in which ITU Region?
- 1. Region 1
- 2. Region 2
- 3. Region 4
- 4. Region 3
+What is the name of the default theme that is installed with Windows XP?
+ 1. Neptune
+ 2. Bliss
+ 3. Luna
+ 4. Whistler
 
 <details>
   <summary>Answer</summary>
-  Region 3
+  Luna
 </details>
 
 
