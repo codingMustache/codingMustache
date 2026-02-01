@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear the one about the giant pickle?  He was kind of a big dill.
+I am so good at sleeping I can do it with my eyes closed!
 
 
 ## Daily Trivia
 
-The programming language &#039;Swift&#039; was created to replace what other programming language?
- 1. Objective-C
- 2. C++
- 3. Ruby
- 4. C#
+How fast is USB 3.1 Gen 2 theoretically?
+ 1. 8 Gb/s
+ 2. 1 Gb/s
+ 3. 5 Gb/s
+ 4. 10 Gb/s
 
 <details>
   <summary>Answer</summary>
-  Objective-C
+  10 Gb/s
 </details>
 
 
