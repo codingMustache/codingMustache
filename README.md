@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the worker get fired from the orange juice factory? Lack of concentration.
+What do you call a nervous javelin thrower? Shakespeare.
 
 
 ## Daily Trivia
 
-The programming language &#039;Swift&#039; was created to replace what other programming language?
- 1. Objective-C
- 2. C#
- 3. C++
- 4. Ruby
+How many Hz does the video standard PAL support?
+ 1. 59
+ 2. 60
+ 3. 25
+ 4. 50
 
 <details>
   <summary>Answer</summary>
-  Objective-C
+  50
 </details>
 
 
