@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I had a rough day, and then somebody went and ripped the front and back pages from my dictionary. It just goes from bad to worse.
+Our wedding was so beautiful, even the cake was in tiers.
 
 
 ## Daily Trivia
 
-Which of the following languages is used as a scripting language in the Unity 3D game engine?
- 1. C++
- 2. C#
- 3. Java
- 4. Objective-C
+Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
+ 1. 20.5 kHz
+ 2. 1.5 MHz
+ 3. 32.0 kHz
+ 4. 44.1 kHz
 
 <details>
   <summary>Answer</summary>
-  C#
+  44.1 kHz
 </details>
 
 
