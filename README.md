@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A man walks into a bar and orders helicopter flavor chips. The barman replies “sorry mate we only do plain”
+How does a French skeleton say hello? Bone-jour.
 
 
 ## Daily Trivia
 
-What is the domain name for the country Tuvalu?
- 1. .tl
- 2. .tt
- 3. .tu
- 4. .tv
+Which of the following languages is used as a scripting language in the Unity 3D game engine?
+ 1. C#
+ 2. Objective-C
+ 3. C++
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  .tv
+  C#
 </details>
 
 
