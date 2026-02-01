@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I asked my date to go to the gym the other day. They never showed up. That's when I knew we wouldn't work out.
+I thought about going on an all-almond diet. But that's just nuts.
 
 
 ## Daily Trivia
 
-What language does Node.js use?
- 1. Java
- 2. Java Source
- 3. Joomla Source Code
- 4. JavaScript
+What internet protocol was documented in RFC 1459?
+ 1. IRC
+ 2. HTTPS
+ 3. HTTP
+ 4. FTP
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  IRC
 </details>
 
 
