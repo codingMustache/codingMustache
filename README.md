@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Whoever invented the knock-knock joke should get a no bell prize.
+What did the mountain climber name his son? Cliff.
 
 
 ## Daily Trivia
 
-In computing, what does MIDI stand for?
- 1. Modular Interface of Digital Instruments
- 2. Musical Instrument Digital Interface
- 3. Musical Interface of Digital Instruments
- 4. Musical Instrument Data Interface
+In programming, the ternary operator is mostly defined with what symbol(s)?
+ 1. ?
+ 2. if then
+ 3. ??
+ 4. ?:
 
 <details>
   <summary>Answer</summary>
-  Musical Instrument Digital Interface
+  ?:
 </details>
 
 
