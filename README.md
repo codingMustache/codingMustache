@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What has three letters and starts with gas? A Car.
+Whoever invented the knock-knock joke should get a no bell prize.
 
 
 ## Daily Trivia
 
-What vulnerability ranked #1 on the OWASP Top 10 in 2013?
- 1. Cross-Site Scripting
- 2. Insecure Direct Object References
- 3. Broken Authentication
- 4. Injection 
+In computing, what does MIDI stand for?
+ 1. Modular Interface of Digital Instruments
+ 2. Musical Instrument Digital Interface
+ 3. Musical Interface of Digital Instruments
+ 4. Musical Instrument Data Interface
 
 <details>
   <summary>Answer</summary>
-  Injection 
+  Musical Instrument Digital Interface
 </details>
 
 
