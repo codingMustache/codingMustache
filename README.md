@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was the broom late for the meeting? He overswept.
+I’ve just been reading a book about anti-gravity, it’s impossible to put down!
 
 
 ## Daily Trivia
 
-What is the name of the default theme that is installed with Windows XP?
- 1. Luna
- 2. Neptune
- 3. Whistler
- 4. Bliss
+What does the &quot;MP&quot; stand for in MP3?
+ 1. Multi Pass
+ 2. Music Player
+ 3. Moving Picture
+ 4. Micro Point
 
 <details>
   <summary>Answer</summary>
-  Luna
+  Moving Picture
 </details>
 
 
