@@ -4,14 +4,14 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-what happens when you cross a sheep with a kangaroo ? A woolly jumper!
+The first time I got a universal remote control I thought to myself, "This changes everything"
 
 
 ## Daily Trivia
 
 How many Hz does the video standard PAL support?
- 1. 59
- 2. 50
+ 1. 50
+ 2. 59
  3. 60
  4. 25
 
