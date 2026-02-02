@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The first time I got a universal remote control I thought to myself, "This changes everything"
+What's the worst thing about ancient history class? The teachers tend to Babylon.
 
 
 ## Daily Trivia
 
-How many Hz does the video standard PAL support?
- 1. 50
- 2. 59
- 3. 60
- 4. 25
+What does RAID stand for?
+ 1. Range of Applications with Identical Designs
+ 2. Redundant Array of Independent Disks
+ 3. Rapid Access for Indexed Devices
+ 4. Randomized Abstract Identification Description
 
 <details>
   <summary>Answer</summary>
-  50
+  Redundant Array of Independent Disks
 </details>
 
 
