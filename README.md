@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why does Norway have barcodes on their battleships? So when they get back to port, they can Scandinavian.
+How does a penguin build it’s house? Igloos it together.
 
 
 ## Daily Trivia
 
-When was the programming language &quot;C#&quot; released?
- 1. 1999
- 2. 2001
- 3. 1998
- 4. 2000
+When Gmail first launched, how much storage did it provide for your email?
+ 1. 5GB
+ 2. 512MB
+ 3. Unlimited
+ 4. 1GB
 
 <details>
   <summary>Answer</summary>
-  2000
+  1GB
 </details>
 
 
