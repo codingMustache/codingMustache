@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-R.I.P. boiled water. You will be mist.
+Sgt.: Commissar! Commissar! The troops are revolting! Commissar: Well, you’re pretty repulsive yourself.
 
 
 ## Daily Trivia
 
-On which computer hardware device is the BIOS chip located?
- 1. Hard Disk Drive
- 2. Graphics Processing Unit
- 3. Motherboard
- 4. Central Processing Unit
+Which of the following is NOT a computer science algorithm?
+ 1. Bubble Sort
+ 2. Merge Sort
+ 3. Quick Sort
+ 4. Float Sort
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  Float Sort
 </details>
 
 
