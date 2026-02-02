@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Archaeology really is a career in ruins.
+"Dad, do you think it's going to snow this winter?" "I dont know, its all up in the air"
 
 
 ## Daily Trivia
 
-How fast is USB 3.1 Gen 2 theoretically?
- 1. 10 Gb/s
- 2. 1 Gb/s
- 3. 8 Gb/s
- 4. 5 Gb/s
+How many Hz does the video standard PAL support?
+ 1. 60
+ 2. 50
+ 3. 59
+ 4. 25
 
 <details>
   <summary>Answer</summary>
-  10 Gb/s
+  50
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **2 days** since this server shutdown
+Its been **3 days** since this server shutdown
