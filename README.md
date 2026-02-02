@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How can you tell a vampire has a cold? They start coffin.
+What do you call a cow with two legs? Lean beef.
 
 
 ## Daily Trivia
 
-What does the &quot;MP&quot; stand for in MP3?
- 1. Micro Point
- 2. Moving Picture
- 3. Multi Pass
- 4. Music Player
+Unix Time is defined as the number of seconds that have elapsed since when?
+ 1. Midnight on the creator of Unix&#039;s birthday
+ 2. Midnight, January 1, 1970
+ 3. Midnight, July 4, 1980
+ 4. Midnight, July 4, 1976
 
 <details>
   <summary>Answer</summary>
-  Moving Picture
+  Midnight, January 1, 1970
 </details>
 
 
