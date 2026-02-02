@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do fish live in salt water? Because pepper makes them sneeze!
+Why does Norway have barcodes on their battleships? So when they get back to port, they can Scandinavian.
 
 
 ## Daily Trivia
 
-Which programming language shares its name with an island in Indonesia?
- 1. Python
- 2. C
- 3. Java
- 4. Jakarta
+When was the programming language &quot;C#&quot; released?
+ 1. 1999
+ 2. 2001
+ 3. 1998
+ 4. 2000
 
 <details>
   <summary>Answer</summary>
-  Java
+  2000
 </details>
 
 
