@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Cosmetic surgery used to be such a taboo subject.
-Now you can talk about Botox and nobody raises an eyebrow.
+Why do fish live in salt water? Because pepper makes them sneeze!
 
 
 ## Daily Trivia
 
-Which of the following is a personal computer made by the Japanese company Fujitsu?
- 1. FM-7
- 2. PC-9801
- 3. Xmillennium 
- 4. MSX
+Which programming language shares its name with an island in Indonesia?
+ 1. Python
+ 2. C
+ 3. Java
+ 4. Jakarta
 
 <details>
   <summary>Answer</summary>
-  FM-7
+  Java
 </details>
 
 
