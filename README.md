@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did Yoda say when he saw himself in 4K? "HDMI"
+Can I watch the TV? Dad: Yes, but don’t turn it on.
 
 
 ## Daily Trivia
 
-What is the number of keys on a standard Windows Keyboard?
- 1. 76
- 2. 104
- 3. 64
- 4. 94
+How fast is USB 3.1 Gen 2 theoretically?
+ 1. 5 Gb/s
+ 2. 8 Gb/s
+ 3. 1 Gb/s
+ 4. 10 Gb/s
 
 <details>
   <summary>Answer</summary>
-  104
+  10 Gb/s
 </details>
 
 
