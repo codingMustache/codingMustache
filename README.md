@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I've started telling everyone about the benefits of eating dried grapes. It's all about raisin awareness.
+It takes guts to be an organ donor.
 
 
 ## Daily Trivia
 
-What does the computer software acronym JVM stand for?
- 1. Java Virtual Machine
- 2. Just Virtual Machine
- 3. Java Visual Machine
- 4. Java Vendor Machine
+How long is an IPv6 address?
+ 1. 128 bits
+ 2. 128 bytes
+ 3. 64 bits
+ 4. 32 bits
 
 <details>
   <summary>Answer</summary>
-  Java Virtual Machine
+  128 bits
 </details>
 
 
