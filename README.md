@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Don't trust atoms. They make up everything.
+What do you call a droid that takes the long way around? R2 detour.
 
 
 ## Daily Trivia
 
-In any programming language, what is the most common way to iterate through an array?
- 1. &#039;For&#039; loops
- 2. &#039;While&#039; loops
- 3. &#039;Do-while&#039; loops
- 4. &#039;If&#039; Statements
+Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
+ 1. Nautilus
+ 2. Skipjack
+ 3. Clipper Chip
+ 4. Enigma Machine
 
 <details>
   <summary>Answer</summary>
-  &#039;For&#039; loops
+  Clipper Chip
 </details>
 
 
