@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Dad, can you put my shoes on? I don't think they'll fit me.
+What’s brown and sounds like a bell? Dung!
 
 
 ## Daily Trivia
 
-While Apple was formed in California, in which western state was Microsoft founded?
- 1. Washington
- 2. Colorado
- 3. New Mexico
- 4. Arizona
+If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
+ 1. Binary
+ 2. Python
+ 3. C++
+ 4. JavaScript
 
 <details>
   <summary>Answer</summary>
-  New Mexico
+  Binary
 </details>
 
 
