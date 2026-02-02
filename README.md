@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do pirates not know the alphabet? They always get stuck at "C".
+Cosmetic surgery used to be such a taboo subject.
+Now you can talk about Botox and nobody raises an eyebrow.
 
 
 ## Daily Trivia
 
-Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
- 1. Shellscript
- 2. Corrupted Blood
- 3. Shellshock
- 4. Heartbleed
+Which of the following is a personal computer made by the Japanese company Fujitsu?
+ 1. FM-7
+ 2. PC-9801
+ 3. Xmillennium 
+ 4. MSX
 
 <details>
   <summary>Answer</summary>
-  Heartbleed
+  FM-7
 </details>
 
 
