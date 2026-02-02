@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the sea say to the sand? "We have to stop meeting like this."
+Hostess: Do you have a preference of where you sit?
+Dad: Down.
 
 
 ## Daily Trivia
 
-What vulnerability ranked #1 on the OWASP Top 10 in 2013?
- 1. Broken Authentication
- 2. Cross-Site Scripting
- 3. Insecure Direct Object References
- 4. Injection 
+What is the name of Layer 7 of the OSI model?
+ 1. Application
+ 2. Session
+ 3. Network
+ 4. Present
 
 <details>
   <summary>Answer</summary>
-  Injection 
+  Application
 </details>
 
 
