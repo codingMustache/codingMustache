@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Yesterday I confused the words "jacuzzi" and "yakuza". Now I'm in hot water with the Japanese mafia.
+Why can’t you hear a pterodactyl go to the bathroom? The p is silent.
 
 
 ## Daily Trivia
 
-What was the name given to Android 4.3?
- 1. Lollipop
- 2. Nutella
- 3. Froyo
- 4. Jelly Bean
+Who is the founder of Palantir?
+ 1. Peter Thiel
+ 2. Marc Benioff
+ 3. Mark Zuckerberg
+ 4. Jack Dorsey
 
 <details>
   <summary>Answer</summary>
-  Jelly Bean
+  Peter Thiel
 </details>
 
 
