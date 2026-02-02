@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Hostess: Do you have a preference of where you sit?
-Dad: Down.
+Why do pirates not know the alphabet? They always get stuck at "C".
 
 
 ## Daily Trivia
 
-What is the name of Layer 7 of the OSI model?
- 1. Application
- 2. Session
- 3. Network
- 4. Present
+Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
+ 1. Shellscript
+ 2. Corrupted Blood
+ 3. Shellshock
+ 4. Heartbleed
 
 <details>
   <summary>Answer</summary>
-  Application
+  Heartbleed
 </details>
 
 
