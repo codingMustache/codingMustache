@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Can I watch the TV? Dad: Yes, but don’t turn it on.
+What do you call a duck that gets all A's? A wise quacker.
 
 
 ## Daily Trivia
 
-Which programming language shares its name with an island in Indonesia?
- 1. C
- 2. Java
- 3. Jakarta
- 4. Python
+Which of these is not a layer in the OSI model for data communications?
+ 1. Application Layer
+ 2. Transport Layer
+ 3. Physical Layer
+ 4. Connection Layer
 
 <details>
   <summary>Answer</summary>
-  Java
+  Connection Layer
 </details>
 
 
