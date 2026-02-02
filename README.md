@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I’ve got this disease where I can’t stop making airport puns. The doctor says it terminal.
+I've started telling everyone about the benefits of eating dried grapes. It's all about raisin awareness.
 
 
 ## Daily Trivia
 
-Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
- 1. Four Years
- 2. Two Years
- 3. Eight Years
- 4. Year
+What does the computer software acronym JVM stand for?
+ 1. Java Virtual Machine
+ 2. Just Virtual Machine
+ 3. Java Visual Machine
+ 4. Java Vendor Machine
 
 <details>
   <summary>Answer</summary>
-  Year
+  Java Virtual Machine
 </details>
 
 
