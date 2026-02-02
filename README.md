@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do vegetarian zombies eat? Grrrrrainnnnnssss.
+what do you call a dog that can do magic tricks? a labracadabrador
 
 
 ## Daily Trivia
 
-Which data structure does FILO apply to?
- 1. Queue
- 2. Heap
- 3. Stack
- 4. Tree
+What major programming language does Unreal Engine 4 use?
+ 1. Assembly
+ 2. ECMAScript
+ 3. C#
+ 4. C++
 
 <details>
   <summary>Answer</summary>
-  Stack
+  C++
 </details>
 
 
