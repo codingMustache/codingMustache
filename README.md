@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why can’t you hear a pterodactyl go to the bathroom? The p is silent.
+What do you call a fake noodle? An impasta.
 
 
 ## Daily Trivia
 
-Who is the founder of Palantir?
- 1. Peter Thiel
- 2. Marc Benioff
- 3. Mark Zuckerberg
- 4. Jack Dorsey
+Australia, Japan, and Southeast Asia are in which ITU Region?
+ 1. Region 3
+ 2. Region 4
+ 3. Region 1
+ 4. Region 2
 
 <details>
   <summary>Answer</summary>
-  Peter Thiel
+  Region 3
 </details>
 
 
