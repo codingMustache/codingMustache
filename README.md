@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-"Dad, do you think it's going to snow this winter?" "I dont know, its all up in the air"
+What do you call a dictionary on drugs? High definition.
 
 
 ## Daily Trivia
 
-How many Hz does the video standard PAL support?
- 1. 60
- 2. 50
- 3. 59
- 4. 25
+What port does HTTP run on?
+ 1. 53
+ 2. 443
+ 3. 80
+ 4. 23
 
 <details>
   <summary>Answer</summary>
-  50
+  80
 </details>
 
 
