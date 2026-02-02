@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a droid that takes the long way around? R2 detour.
+If a child refuses to sleep during nap time, are they guilty of resisting a rest?
 
 
 ## Daily Trivia
 
-Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
- 1. Nautilus
- 2. Skipjack
- 3. Clipper Chip
- 4. Enigma Machine
+The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
+ 1. HD Graphics 7000
+ 2. HD Graphics 500
+ 3. HD Graphics 700 
+ 4. HD Graphics 600
 
 <details>
   <summary>Answer</summary>
-  Clipper Chip
+  HD Graphics 500
 </details>
 
 
