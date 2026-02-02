@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Can I watch the TV? Dad: Yes, but don’t turn it on.
+Why do pirates not know the alphabet? They always get stuck at "C".
 
 
 ## Daily Trivia
 
-How fast is USB 3.1 Gen 2 theoretically?
- 1. 5 Gb/s
- 2. 8 Gb/s
- 3. 1 Gb/s
- 4. 10 Gb/s
+When Gmail first launched, how much storage did it provide for your email?
+ 1. Unlimited
+ 2. 5GB
+ 3. 512MB
+ 4. 1GB
 
 <details>
   <summary>Answer</summary>
-  10 Gb/s
+  1GB
 </details>
 
 
