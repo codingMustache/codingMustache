@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Sometimes I tuck my knees into my chest and lean forward.  That’s just how I roll.
+I’ve got this disease where I can’t stop making airport puns. The doctor says it terminal.
 
 
 ## Daily Trivia
 
-How many Hz does the video standard PAL support?
- 1. 59
- 2. 50
- 3. 60
- 4. 25
+Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
+ 1. Four Years
+ 2. Two Years
+ 3. Eight Years
+ 4. Year
 
 <details>
   <summary>Answer</summary>
-  50
+  Year
 </details>
 
 
