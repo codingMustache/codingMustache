@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The other day, my wife asked me to pass her lipstick but I accidentally passed her a glue stick. She still isn't talking to me.
+Where do bees go to the bathroom?  The BP station.
 
 
 ## Daily Trivia
 
-Which of these people was NOT a founder of Apple Inc?
- 1. Steve Wozniak
- 2. Steve Jobs
- 3. Ronald Wayne
- 4. Jonathan Ive
+Which of the following is the oldest of these computers by release date?
+ 1. ZX Spectrum
+ 2. Apple 3
+ 3. Commodore 64
+ 4. TRS-80
 
 <details>
   <summary>Answer</summary>
-  Jonathan Ive
+  TRS-80
 </details>
 
 
