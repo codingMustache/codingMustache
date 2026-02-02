@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How does a penguin build it’s house? Igloos it together.
+What's the difference between a rooster and a crow? A rooster can crow but a crow cannot rooster.
 
 
 ## Daily Trivia
 
-When Gmail first launched, how much storage did it provide for your email?
- 1. 5GB
- 2. 512MB
- 3. Unlimited
- 4. 1GB
+Whistler was the codename of this Microsoft Operating System.
+ 1. Windows 2000
+ 2. Windows XP
+ 3. Windows 95
+ 4. Windows 7
 
 <details>
   <summary>Answer</summary>
-  1GB
+  Windows XP
 </details>
 
 
