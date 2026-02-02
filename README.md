@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a duck that gets all A's? A wise quacker.
+How can you tell a vampire has a cold? They start coffin.
 
 
 ## Daily Trivia
 
-Which of these is not a layer in the OSI model for data communications?
- 1. Application Layer
- 2. Transport Layer
- 3. Physical Layer
- 4. Connection Layer
+What does the &quot;MP&quot; stand for in MP3?
+ 1. Micro Point
+ 2. Moving Picture
+ 3. Multi Pass
+ 4. Music Player
 
 <details>
   <summary>Answer</summary>
-  Connection Layer
+  Moving Picture
 </details>
 
 
