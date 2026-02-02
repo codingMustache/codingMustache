@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-If a child refuses to sleep during nap time, are they guilty of resisting a rest?
+What has three letters and starts with gas? A Car.
 
 
 ## Daily Trivia
 
-The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
- 1. HD Graphics 7000
- 2. HD Graphics 500
- 3. HD Graphics 700 
- 4. HD Graphics 600
+Which RAID array type is associated with data mirroring?
+ 1. RAID 0
+ 2. RAID 5
+ 3. RAID 10
+ 4. RAID 1
 
 <details>
   <summary>Answer</summary>
-  HD Graphics 500
+  RAID 1
 </details>
 
 
