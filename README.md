@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What has three letters and starts with gas? A Car.
+What did Yoda say when he saw himself in 4K? "HDMI"
 
 
 ## Daily Trivia
 
-Which RAID array type is associated with data mirroring?
- 1. RAID 0
- 2. RAID 5
- 3. RAID 10
- 4. RAID 1
+What is the number of keys on a standard Windows Keyboard?
+ 1. 76
+ 2. 104
+ 3. 64
+ 4. 94
 
 <details>
   <summary>Answer</summary>
-  RAID 1
+  104
 </details>
 
 
