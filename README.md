@@ -4,20 +4,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the pirate say on his 80th birthday? Aye Matey!
+Me: If humans lose the ability to hear high frequency volumes as they get older, can my 4 week old son hear a dog whistle?
+
+Doctor: No, humans can never hear that high of a frequency no matter what age they are.
+
+Me: Trick question... dogs can't whistle.
 
 
 ## Daily Trivia
 
-What language does Node.js use?
- 1. JavaScript
- 2. Java
- 3. Java Source
- 4. Joomla Source Code
+Which SQL keyword is used to fetch data from a database?
+ 1. SELECT
+ 2. INDEX
+ 3. VALUES
+ 4. EXEC
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  SELECT
 </details>
 
 
