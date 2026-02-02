@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why don’t seagulls fly over the bay? Because then they’d be bay-gulls!
+Dad, can you put my shoes on? I don't think they'll fit me.
 
 
 ## Daily Trivia
 
-Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
- 1. 44.1 kHz
- 2. 20.5 kHz
- 3. 1.5 MHz
- 4. 32.0 kHz
+While Apple was formed in California, in which western state was Microsoft founded?
+ 1. Washington
+ 2. Colorado
+ 3. New Mexico
+ 4. Arizona
 
 <details>
   <summary>Answer</summary>
-  44.1 kHz
+  New Mexico
 </details>
 
 
