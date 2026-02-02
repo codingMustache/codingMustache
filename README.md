@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you do on a remote island? Try and find the TV island it belongs to.
+what happens when you cross a sheep with a kangaroo ? A woolly jumper!
 
 
 ## Daily Trivia
 
-What does RAID stand for?
- 1. Rapid Access for Indexed Devices
- 2. Range of Applications with Identical Designs
- 3. Randomized Abstract Identification Description
- 4. Redundant Array of Independent Disks
+How many Hz does the video standard PAL support?
+ 1. 59
+ 2. 50
+ 3. 60
+ 4. 25
 
 <details>
   <summary>Answer</summary>
-  Redundant Array of Independent Disks
+  50
 </details>
 
 
