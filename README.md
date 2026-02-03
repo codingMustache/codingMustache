@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to be addicted to soap, but I'm clean now.
+Don't trust atoms. They make up everything.
 
 
 ## Daily Trivia
 
-Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
- 1. Shopify
- 2. Overstock
- 3. eBay
- 4. Amazon
+What does &quot;LCD&quot; stand for?
+ 1. Liquid Crystal Display
+ 2. Long Continuous Design
+ 3. Last Common Difference
+ 4. Language Control Design
 
 <details>
   <summary>Answer</summary>
-  Amazon
+  Liquid Crystal Display
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **3 days** since this server shutdown
+Its been **4 days** since this server shutdown
