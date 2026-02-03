@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Remember, the best angle to approach a problem from is the "try" angle.
+What do you call a fly without wings? A walk.
 
 
 ## Daily Trivia
 
-When did the online streaming service &quot;Mixer&quot; launch?
- 1. 2011
- 2. 2016
- 3. 2009
- 4. 2013
+What does RAID stand for?
+ 1. Redundant Array of Independent Disks
+ 2. Randomized Abstract Identification Description
+ 3. Range of Applications with Identical Designs
+ 4. Rapid Access for Indexed Devices
 
 <details>
   <summary>Answer</summary>
-  2016
+  Redundant Array of Independent Disks
 </details>
 
 
