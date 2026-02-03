@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a sheep with no legs? A cloud.
+Last night me and my girlfriend watched three DVDs back to back. Luckily I was the one facing the TV.
 
 
 ## Daily Trivia
 
-What is the main CPU is the Sega Mega Drive / Sega Genesis?
- 1. Zilog Z80
- 2. Yamaha YM2612
- 3. Intel 8088
- 4. Motorola 68000
+Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
+ 1. eBay
+ 2. Overstock
+ 3. Amazon
+ 4. Shopify
 
 <details>
   <summary>Answer</summary>
-  Motorola 68000
+  Amazon
 </details>
 
 
