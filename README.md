@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Parallel lines have so much in common. It’s a shame they’ll never meet.
+Why was it called the dark ages? Because of all the knights. 
 
 
 ## Daily Trivia
 
-Australia, Japan, and Southeast Asia are in which ITU Region?
- 1. Region 4
- 2. Region 2
- 3. Region 3
- 4. Region 1
+Which SQL keyword is used to fetch data from a database?
+ 1. VALUES
+ 2. SELECT
+ 3. INDEX
+ 4. EXEC
 
 <details>
   <summary>Answer</summary>
-  Region 3
+  SELECT
 </details>
 
 
