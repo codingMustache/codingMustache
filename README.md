@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My son is studying to be a surgeon, I just hope he makes the cut.
+Remember, the best angle to approach a problem from is the "try" angle.
 
 
 ## Daily Trivia
 
-What does AD stand for in relation to Windows Operating Systems? 
- 1. Automated Database
- 2. Alternative Drive
- 3. Active Directory
- 4. Active Department
+Generally, which component of a computer draws the most power?
+ 1. Power Supply
+ 2. Processor
+ 3. Hard Drive
+ 4. Video Card
 
 <details>
   <summary>Answer</summary>
-  Active Directory
+  Video Card
 </details>
 
 
