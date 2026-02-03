@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A book just fell on my head. I only have my shelf to blame.
+Dad, can you put my shoes on? I don't think they'll fit me.
 
 
 ## Daily Trivia
 
-Which programming language was developed by Sun Microsystems in 1995?
- 1. Python
- 2. Solaris OS
- 3. C++
- 4. Java
+Who is the original author of the realtime physics engine called PhysX?
+ 1. Nvidia
+ 2. AMD
+ 3. NovodeX
+ 4. Ageia
 
 <details>
   <summary>Answer</summary>
-  Java
+  NovodeX
 </details>
 
 
