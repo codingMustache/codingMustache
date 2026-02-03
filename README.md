@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Remember, the best angle to approach a problem from is the "try" angle.
+What does an angry pepper do? It gets jalapeño face.
 
 
 ## Daily Trivia
 
-Generally, which component of a computer draws the most power?
- 1. Power Supply
- 2. Processor
- 3. Hard Drive
- 4. Video Card
+Approximately how many Apple I personal computers were created?
+ 1. 500
+ 2. 1000
+ 3. 100
+ 4. 200
 
 <details>
   <summary>Answer</summary>
-  Video Card
+  200
 </details>
 
 
