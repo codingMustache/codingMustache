@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a droid that takes the long way around? R2 detour.
+Remember, the best angle to approach a problem from is the "try" angle.
 
 
 ## Daily Trivia
 
-Which programming language was developed by Sun Microsystems in 1995?
- 1. Python
- 2. Solaris OS
- 3. C++
- 4. Java
+When did the online streaming service &quot;Mixer&quot; launch?
+ 1. 2011
+ 2. 2016
+ 3. 2009
+ 4. 2013
 
 <details>
   <summary>Answer</summary>
-  Java
+  2016
 </details>
 
 
