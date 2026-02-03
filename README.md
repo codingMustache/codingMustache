@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-When my wife told me to stop impersonating a flamingo, I had to put my foot down.
+What do you call a beehive without the b's? An eehive.
 
 
 ## Daily Trivia
 
-When was the programming language &quot;C#&quot; released?
- 1. 1998
- 2. 1999
- 3. 2000
- 4. 2001
+Laserjet and inkjet printers are both examples of what type of printer?
+ 1. Daisywheel printer
+ 2. Non-impact printer
+ 3. Impact printer
+ 4. Dot matrix printer
 
 <details>
   <summary>Answer</summary>
-  2000
+  Non-impact printer
 </details>
 
 
