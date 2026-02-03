@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Don't buy flowers at a monastery. Because only you can prevent florist friars.
+What do you call a pig with three eyes? Piiig
 
 
 ## Daily Trivia
 
-In networking, what does OSPF stand for?
- 1. Open Shortest Path First
- 2. Order Sense Ping Find
- 3. Open Signal Path Finder
- 4. Order State Part First
+Which kind of algorithm is Ron Rivest not famous for creating?
+ 1. Hashing algorithm
+ 2. Asymmetric encryption
+ 3. Stream cipher
+ 4. Secret sharing scheme
 
 <details>
   <summary>Answer</summary>
-  Open Shortest Path First
+  Secret sharing scheme
 </details>
 
 
