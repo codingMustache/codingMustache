@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a beehive without the b's? An eehive.
+Doctor you've got to help me, I'm addicted to Twitter. Doctor: I don't follow you.
 
 
 ## Daily Trivia
 
-Laserjet and inkjet printers are both examples of what type of printer?
- 1. Daisywheel printer
- 2. Non-impact printer
- 3. Impact printer
- 4. Dot matrix printer
+In computing, what does LAN stand for?
+ 1. Land Address Navigation
+ 2. Light Access Node
+ 3. Long Antenna Node
+ 4. Local Area Network
 
 <details>
   <summary>Answer</summary>
-  Non-impact printer
+  Local Area Network
 </details>
 
 
