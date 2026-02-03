@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I just got fired from a florist, apparently I took too many leaves.
+What do you get when you cross a rabbit with a water hose? Hare spray.
 
 
 ## Daily Trivia
 
-Which of the following languages is used as a scripting language in the Unity 3D game engine?
- 1. C#
- 2. Java
- 3. Objective-C
- 4. C++
+What is known as &quot;the brain&quot; of the Computer?
+ 1. Motherboard
+ 2. Keyboard
+ 3. Graphics Processing Unit
+ 4. Central Processing Unit
 
 <details>
   <summary>Answer</summary>
-  C#
+  Central Processing Unit
 </details>
 
 
