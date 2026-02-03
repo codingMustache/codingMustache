@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What musical instrument is found in the bathroom? A tuba toothpaste.
+My son is studying to be a surgeon, I just hope he makes the cut.
 
 
 ## Daily Trivia
 
-Who is the founder of Palantir?
- 1. Mark Zuckerberg
- 2. Jack Dorsey
- 3. Peter Thiel
- 4. Marc Benioff
+What does AD stand for in relation to Windows Operating Systems? 
+ 1. Automated Database
+ 2. Alternative Drive
+ 3. Active Directory
+ 4. Active Department
 
 <details>
   <summary>Answer</summary>
-  Peter Thiel
+  Active Directory
 </details>
 
 
