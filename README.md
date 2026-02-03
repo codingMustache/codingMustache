@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What does an angry pepper do? It gets jalapeño face.
+There are two types of people in this world, those who can extrapolate from incomplete data...
 
 
 ## Daily Trivia
 
-Approximately how many Apple I personal computers were created?
- 1. 500
- 2. 1000
- 3. 100
- 4. 200
+How many Hz does the video standard PAL support?
+ 1. 59
+ 2. 50
+ 3. 60
+ 4. 25
 
 <details>
   <summary>Answer</summary>
-  200
+  50
 </details>
 
 
