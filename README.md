@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What lies at the bottom of the ocean and twitches? A nervous wreck.
+What musical instrument is found in the bathroom? A tuba toothpaste.
 
 
 ## Daily Trivia
 
-The numbering system with a radix of 16 is more commonly referred to as 
- 1. Duodecimal
- 2. Hexidecimal
- 3. Octal
- 4. Binary
+Who is the founder of Palantir?
+ 1. Mark Zuckerberg
+ 2. Jack Dorsey
+ 3. Peter Thiel
+ 4. Marc Benioff
 
 <details>
   <summary>Answer</summary>
-  Hexidecimal
+  Peter Thiel
 </details>
 
 
