@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a fly without wings? A walk.
+My dog used to chase people on a bike a lot. It got so bad I had to take his bike away.
 
 
 ## Daily Trivia
 
-What does RAID stand for?
- 1. Redundant Array of Independent Disks
- 2. Randomized Abstract Identification Description
- 3. Range of Applications with Identical Designs
- 4. Rapid Access for Indexed Devices
+While Apple was formed in California, in which western state was Microsoft founded?
+ 1. Arizona
+ 2. New Mexico
+ 3. Colorado
+ 4. Washington
 
 <details>
   <summary>Answer</summary>
-  Redundant Array of Independent Disks
+  New Mexico
 </details>
 
 
