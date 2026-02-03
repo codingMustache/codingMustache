@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I ate a clock yesterday. It was so time consuming.
+Don't buy flowers at a monastery. Because only you can prevent florist friars.
 
 
 ## Daily Trivia
 
-Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
- 1. PHP
- 2. JavaScript
- 3. Python
- 4. C#
+In networking, what does OSPF stand for?
+ 1. Open Shortest Path First
+ 2. Order Sense Ping Find
+ 3. Open Signal Path Finder
+ 4. Order State Part First
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  Open Shortest Path First
 </details>
 
 
