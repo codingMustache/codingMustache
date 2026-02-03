@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I have kleptomania, but when it gets bad, I take something for it.
+What lies at the bottom of the ocean and twitches? A nervous wreck.
 
 
 ## Daily Trivia
 
-What was the name given to Android 4.3?
- 1. Jelly Bean
- 2. Froyo
- 3. Nutella
- 4. Lollipop
+The numbering system with a radix of 16 is more commonly referred to as 
+ 1. Duodecimal
+ 2. Hexidecimal
+ 3. Octal
+ 4. Binary
 
 <details>
   <summary>Answer</summary>
-  Jelly Bean
+  Hexidecimal
 </details>
 
 
