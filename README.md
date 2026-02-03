@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-To be Frank, I'd have to change my name.
+What do you call a droid that takes the long way around? R2 detour.
 
 
 ## Daily Trivia
 
-What was the name given to Android 4.3?
- 1. Jelly Bean
- 2. Froyo
- 3. Nutella
- 4. Lollipop
+Which programming language was developed by Sun Microsystems in 1995?
+ 1. Python
+ 2. Solaris OS
+ 3. C++
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  Jelly Bean
+  Java
 </details>
 
 
