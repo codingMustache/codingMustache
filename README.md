@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Don't trust atoms. They make up everything.
+Why do ducks make great detectives? They always quack the case.
 
 
 ## Daily Trivia
 
-What does &quot;LCD&quot; stand for?
- 1. Liquid Crystal Display
- 2. Long Continuous Design
- 3. Last Common Difference
- 4. Language Control Design
+What amount of bits commonly equals one byte?
+ 1. 8
+ 2. 1
+ 3. 2
+ 4. 64
 
 <details>
   <summary>Answer</summary>
-  Liquid Crystal Display
+  8
 </details>
 
 
