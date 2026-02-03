@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I ate a clock yesterday. It was so time consuming.
+What do computers and air conditioners have in common? They both become useless when you open windows.
 
 
 ## Daily Trivia
 
-Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
- 1. Amazon
- 2. eBay
- 3. Overstock
- 4. Shopify
+Which of these programming languages is a low-level language?
+ 1. Assembly
+ 2. Pascal
+ 3. C#
+ 4. Python
 
 <details>
   <summary>Answer</summary>
-  Amazon
+  Assembly
 </details>
 
 
