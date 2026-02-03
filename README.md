@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Coffee has a tough time at my house, every morning it gets mugged.
+What do you get if you put a duck in a cement mixer? Quacks in the pavement.
 
 
 ## Daily Trivia
 
-The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
- 1. Marshall Islands
- 2. Tuvalu
- 3. Micronesia
- 4. Fiji
+Generally, which component of a computer draws the most power?
+ 1. Power Supply
+ 2. Processor
+ 3. Hard Drive
+ 4. Video Card
 
 <details>
   <summary>Answer</summary>
-  Micronesia
+  Video Card
 </details>
 
 
