@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Last night me and my girlfriend watched three DVDs back to back. Luckily I was the one facing the TV.
+I ate a clock yesterday. It was so time consuming.
 
 
 ## Daily Trivia
 
-Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
- 1. eBay
- 2. Overstock
- 3. Amazon
- 4. Shopify
+Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
+ 1. PHP
+ 2. JavaScript
+ 3. Python
+ 4. C#
 
 <details>
   <summary>Answer</summary>
-  Amazon
+  JavaScript
 </details>
 
 
