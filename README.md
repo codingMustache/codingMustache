@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why does Waldo only wear stripes? Because he doesn't want to be spotted.
+Parallel lines have so much in common. It’s a shame they’ll never meet.
 
 
 ## Daily Trivia
 
-In any programming language, what is the most common way to iterate through an array?
- 1. &#039;For&#039; loops
- 2. &#039;Do-while&#039; loops
- 3. &#039;If&#039; Statements
- 4. &#039;While&#039; loops
+Australia, Japan, and Southeast Asia are in which ITU Region?
+ 1. Region 4
+ 2. Region 2
+ 3. Region 3
+ 4. Region 1
 
 <details>
   <summary>Answer</summary>
-  &#039;For&#039; loops
+  Region 3
 </details>
 
 
