@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was it called the dark ages? Because of all the knights. 
+What do you call a sheep with no legs? A cloud.
 
 
 ## Daily Trivia
 
-Which SQL keyword is used to fetch data from a database?
- 1. VALUES
- 2. SELECT
- 3. INDEX
- 4. EXEC
+What is the main CPU is the Sega Mega Drive / Sega Genesis?
+ 1. Zilog Z80
+ 2. Yamaha YM2612
+ 3. Intel 8088
+ 4. Motorola 68000
 
 <details>
   <summary>Answer</summary>
-  SELECT
+  Motorola 68000
 </details>
 
 
