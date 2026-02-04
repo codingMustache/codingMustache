@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-When will the little snake arrive? I don't know but he won't be long...
+Which is the fastest growing city in the world? Dublin'
 
 
 ## Daily Trivia
 
-Which of these is not a layer in the OSI model for data communications?
- 1. Application Layer
- 2. Transport Layer
- 3. Physical Layer
- 4. Connection Layer
+Which of these names was an actual codename for a cancelled Microsoft project?
+ 1. Enceladus
+ 2. Pollux
+ 3. Neptune
+ 4. Saturn
 
 <details>
   <summary>Answer</summary>
-  Connection Layer
+  Neptune
 </details>
 
 
