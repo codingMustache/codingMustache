@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why does Waldo only wear stripes? Because he doesn't want to be spotted.
+What do you call a bee that lives in America? A USB.
 
 
 ## Daily Trivia
 
-In computing terms, typically what does CLI stand for?
- 1. Common Language Input
- 2. Control Line Interface
- 3. Common Language Interface
- 4. Command Line Interface
+Which of the following computer components can be built using only NAND gates?
+ 1. CPU
+ 2. ALU
+ 3. RAM
+ 4. Register
 
 <details>
   <summary>Answer</summary>
-  Command Line Interface
+  ALU
 </details>
 
 
