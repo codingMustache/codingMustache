@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I wanted to be a tailor but I didn't suit the job
+Scientists finally did a study on forks. It's about tine!
 
 
 ## Daily Trivia
 
-What was the name of the first Bulgarian personal computer?
- 1. IZOT 1030
- 2. IMKO-1
- 3. Pravetz 82
- 4. Pravetz 8D
+What was the name given to Android 4.3?
+ 1. Lollipop
+ 2. Nutella
+ 3. Jelly Bean
+ 4. Froyo
 
 <details>
   <summary>Answer</summary>
-  IMKO-1
+  Jelly Bean
 </details>
 
 
