@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a duck that gets all A's? A wise quacker.
+What do you call a boy who stopped digging holes? Douglas.
 
 
 ## Daily Trivia
 
-Who is the founder of Palantir?
- 1. Marc Benioff
- 2. Peter Thiel
- 3. Mark Zuckerberg
- 4. Jack Dorsey
+In the server hosting industry IaaS stands for...
+ 1. Infrastructure as a Service
+ 2. Infrastructure as a Server
+ 3. Internet and a Server
+ 4. Internet as a Service
 
 <details>
   <summary>Answer</summary>
-  Peter Thiel
+  Infrastructure as a Service
 </details>
 
 
