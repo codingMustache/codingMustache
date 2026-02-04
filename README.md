@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Scientists finally did a study on forks. It's about tine!
+What is this movie about? It is about 2 hours long.
 
 
 ## Daily Trivia
 
-What was the name given to Android 4.3?
- 1. Lollipop
- 2. Nutella
- 3. Jelly Bean
- 4. Froyo
+What does &quot;LCD&quot; stand for?
+ 1. Language Control Design
+ 2. Last Common Difference
+ 3. Long Continuous Design
+ 4. Liquid Crystal Display
 
 <details>
   <summary>Answer</summary>
-  Jelly Bean
+  Liquid Crystal Display
 </details>
 
 
