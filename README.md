@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I bought shoes from a drug dealer once. I don't know what he laced them with, but I was tripping all day.
+A man was caught stealing in a supermarket today while balanced on the shoulders of a couple of vampires. He was charged with shoplifting on two counts. 
 
 
 ## Daily Trivia
 
-While Apple was formed in California, in which western state was Microsoft founded?
- 1. Washington
- 2. New Mexico
- 3. Colorado
- 4. Arizona
+What does the term GPU stand for?
+ 1. Graphics Processing Unit
+ 2. Graphical Proprietary Unit
+ 3. Graphite Producing Unit
+ 4. Gaming Processor Unit
 
 <details>
   <summary>Answer</summary>
-  New Mexico
+  Graphics Processing Unit
 </details>
 
 
