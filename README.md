@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is red and smells like blue paint?
-Red paint!
+I bought shoes from a drug dealer once. I don't know what he laced them with, but I was tripping all day.
 
 
 ## Daily Trivia
 
-In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
- 1. &lt;move&gt;&lt;/move&gt;
- 2. &lt;slide&gt;&lt;/slide&gt;
- 3. &lt;marquee&gt;&lt;/marquee&gt;
- 4. &lt;scroll&gt;&lt;/scroll&gt;
+While Apple was formed in California, in which western state was Microsoft founded?
+ 1. Washington
+ 2. New Mexico
+ 3. Colorado
+ 4. Arizona
 
 <details>
   <summary>Answer</summary>
-  &lt;marquee&gt;&lt;/marquee&gt;
+  New Mexico
 </details>
 
 
