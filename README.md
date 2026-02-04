@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Don't trust atoms. They make up everything.
+What is red and smells like blue paint?
+Red paint!
 
 
 ## Daily Trivia
 
-Which one of these is not an official development name for a Ubuntu release?
- 1. Mystic Mansion
- 2. Wily Werewolf
- 3. Utopic Unicorn
- 4. Trusty Tahr
+In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
+ 1. &lt;move&gt;&lt;/move&gt;
+ 2. &lt;slide&gt;&lt;/slide&gt;
+ 3. &lt;marquee&gt;&lt;/marquee&gt;
+ 4. &lt;scroll&gt;&lt;/scroll&gt;
 
 <details>
   <summary>Answer</summary>
-  Mystic Mansion
+  &lt;marquee&gt;&lt;/marquee&gt;
 </details>
 
 
