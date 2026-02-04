@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many kids with ADD does it take to change a lightbulb? Let's go ride bikes!
+What has a bed that you can’t sleep in? A river.
 
 
 ## Daily Trivia
 
-What does the &quot;MP&quot; stand for in MP3?
- 1. Moving Picture
- 2. Micro Point
- 3. Multi Pass
- 4. Music Player
+Which of these is not a layer in the OSI model for data communications?
+ 1. Physical Layer
+ 2. Transport Layer
+ 3. Connection Layer
+ 4. Application Layer
 
 <details>
   <summary>Answer</summary>
-  Moving Picture
+  Connection Layer
 </details>
 
 
