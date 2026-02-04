@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Conjunctivitis.com – now that’s a site for sore eyes.
+Two parrots are sitting on a perch. One turns to the other and asks, "do you smell fish?"
 
 
 ## Daily Trivia
 
-What does RAID stand for?
- 1. Range of Applications with Identical Designs
- 2. Rapid Access for Indexed Devices
- 3. Redundant Array of Independent Disks
- 4. Randomized Abstract Identification Description
+In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
+ 1. &lt;scroll&gt;&lt;/scroll&gt;
+ 2. &lt;marquee&gt;&lt;/marquee&gt;
+ 3. &lt;slide&gt;&lt;/slide&gt;
+ 4. &lt;move&gt;&lt;/move&gt;
 
 <details>
   <summary>Answer</summary>
-  Redundant Array of Independent Disks
+  &lt;marquee&gt;&lt;/marquee&gt;
 </details>
 
 
