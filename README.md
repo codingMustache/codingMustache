@@ -4,23 +4,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is this movie about? It is about 2 hours long.
+Why was Santa's little helper feeling depressed? Because he has low elf esteem.
+
 
 
 ## Daily Trivia
 
-What does &quot;LCD&quot; stand for?
- 1. Language Control Design
- 2. Last Common Difference
- 3. Long Continuous Design
- 4. Liquid Crystal Display
+What is the most preferred image format used for logos in the Wikimedia database?
+ 1. .png
+ 2. .jpeg
+ 3. .svg
+ 4. .gif
 
 <details>
   <summary>Answer</summary>
-  Liquid Crystal Display
+  .svg
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **5 days** since this server shutdown
+Its been **** since this server shutdown
