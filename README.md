@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What don't watermelons get married? Because they cantaloupe.
+I used to work for a soft drink can crusher. It was soda pressing.
 
 
 ## Daily Trivia
 
-The C programming language was created by this American computer scientist. 
- 1. al-Khwārizmī
- 2. Dennis Ritchie
- 3. Tim Berners Lee
- 4. Willis Ware
+Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
+ 1. Amazon
+ 2. eBay
+ 3. Overstock
+ 4. Shopify
 
 <details>
   <summary>Answer</summary>
-  Dennis Ritchie
+  Amazon
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **4 days** since this server shutdown
+Its been **5 days** since this server shutdown
