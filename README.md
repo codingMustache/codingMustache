@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why does Waldo only wear stripes? Because he doesn't want to be spotted.
+Shout out to my grandma, that's the only way she can hear.
 
 
 ## Daily Trivia
 
-Which of the following physical typologies are used with Ethernet Networks?
- 1. Ring
- 2. Mesh
- 3. Star
- 4. Hex
+What is the most preferred image format used for logos in the Wikimedia database?
+ 1. .svg
+ 2. .gif
+ 3. .jpeg
+ 4. .png
 
 <details>
   <summary>Answer</summary>
-  Star
+  .svg
 </details>
 
 
