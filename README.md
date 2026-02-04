@@ -4,20 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do you learn to make banana splits? At sundae school.
+How many seconds are in a year?
+12.
+January 2nd, February 2nd, March 2nd, April 2nd.... etc
 
 
 ## Daily Trivia
 
-What does AD stand for in relation to Windows Operating Systems? 
- 1. Alternative Drive
- 2. Automated Database
- 3. Active Department
- 4. Active Directory
+Which computer language would you associate Django framework with?
+ 1. Java
+ 2. C++
+ 3. C#
+ 4. Python
 
 <details>
   <summary>Answer</summary>
-  Active Directory
+  Python
 </details>
 
 
