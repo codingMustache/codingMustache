@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Astronomers got tired watching the moon go around the earth for 24 hours. They decided to call it a day.
+Frankenstein enters a bodybuilding competition and finds he has seriously misunderstood the objective.
 
 
 ## Daily Trivia
 
-What vulnerability ranked #1 on the OWASP Top 10 in 2013?
- 1. Injection 
- 2. Insecure Direct Object References
- 3. Cross-Site Scripting
- 4. Broken Authentication
+What major programming language does Unreal Engine 4 use?
+ 1. ECMAScript
+ 2. C#
+ 3. Assembly
+ 4. C++
 
 <details>
   <summary>Answer</summary>
-  Injection 
+  C++
 </details>
 
 
