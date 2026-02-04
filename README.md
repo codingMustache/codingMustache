@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Which is the fastest growing city in the world? Dublin'
+Conjunctivitis.com – now that’s a site for sore eyes.
 
 
 ## Daily Trivia
 
-Which of these names was an actual codename for a cancelled Microsoft project?
- 1. Enceladus
- 2. Pollux
- 3. Neptune
- 4. Saturn
+What does RAID stand for?
+ 1. Range of Applications with Identical Designs
+ 2. Rapid Access for Indexed Devices
+ 3. Redundant Array of Independent Disks
+ 4. Randomized Abstract Identification Description
 
 <details>
   <summary>Answer</summary>
-  Neptune
+  Redundant Array of Independent Disks
 </details>
 
 
