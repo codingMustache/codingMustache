@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I saw a documentary on TV last night about how they put ships together.  It was rivetting.
+*Reversing the car* "Ah, this takes me back"
 
 
 ## Daily Trivia
 
-The Harvard architecture for micro-controllers added which additional bus?
- 1. Address
- 2. Data
- 3. Control
- 4. Instruction
+Which RAID array type is associated with data mirroring?
+ 1. RAID 0
+ 2. RAID 10
+ 3. RAID 5
+ 4. RAID 1
 
 <details>
   <summary>Answer</summary>
-  Instruction
+  RAID 1
 </details>
 
 
