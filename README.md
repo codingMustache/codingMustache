@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Someone asked me, what's the ninth letter of the alphabet? It was a complete guess, but I was right.
+I wanted to be a tailor but I didn't suit the job
 
 
 ## Daily Trivia
 
-Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
- 1. Cherry MX Blue
- 2. Cherry MX Red
- 3. Cherry MX Black
- 4. Cherry MX Brown
+What was the name of the first Bulgarian personal computer?
+ 1. IZOT 1030
+ 2. IMKO-1
+ 3. Pravetz 82
+ 4. Pravetz 8D
 
 <details>
   <summary>Answer</summary>
-  Cherry MX Blue
+  IMKO-1
 </details>
 
 
