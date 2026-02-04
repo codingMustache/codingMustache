@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Two parrots are sitting on a perch. One turns to the other and asks, "do you smell fish?"
+How do you make a hankie dance? Put a little boogie in it.
 
 
 ## Daily Trivia
 
-In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
- 1. &lt;scroll&gt;&lt;/scroll&gt;
- 2. &lt;marquee&gt;&lt;/marquee&gt;
- 3. &lt;slide&gt;&lt;/slide&gt;
- 4. &lt;move&gt;&lt;/move&gt;
+What does LTS stand for in the software market?
+ 1. Long Taco Service
+ 2. Ludicrous Turbo Speed
+ 3. Long Term Support
+ 4. Ludicrous Transfer Speed
 
 <details>
   <summary>Answer</summary>
-  &lt;marquee&gt;&lt;/marquee&gt;
+  Long Term Support
 </details>
 
 
