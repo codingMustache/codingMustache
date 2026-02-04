@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many apples grow on a tree? All of them!
+Doctor you've got you help me, I'm addicted to twitter. Doctor: I don't follow you.
 
 
 ## Daily Trivia
 
-The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
- 1. Fiji
- 2. Tuvalu
- 3. Marshall Islands
- 4. Micronesia
+Which computer language would you associate Django framework with?
+ 1. Java
+ 2. Python
+ 3. C++
+ 4. C#
 
 <details>
   <summary>Answer</summary>
-  Micronesia
+  Python
 </details>
 
 
