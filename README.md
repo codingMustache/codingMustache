@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-*Reversing the car* "Ah, this takes me back"
+What don't watermelons get married? Because they cantaloupe.
 
 
 ## Daily Trivia
 
-Which RAID array type is associated with data mirroring?
- 1. RAID 0
- 2. RAID 10
- 3. RAID 5
- 4. RAID 1
+The C programming language was created by this American computer scientist. 
+ 1. al-Khwārizmī
+ 2. Dennis Ritchie
+ 3. Tim Berners Lee
+ 4. Willis Ware
 
 <details>
   <summary>Answer</summary>
-  RAID 1
+  Dennis Ritchie
 </details>
 
 
