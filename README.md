@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-New atoms frequently lose electrons when they fail to keep an ion them.
+Why are mummys scared of vacation? They're afraid to unwind.
 
 
 ## Daily Trivia
 
-What is known as &quot;the brain&quot; of the Computer?
- 1. Keyboard
- 2. Central Processing Unit
- 3. Graphics Processing Unit
- 4. Motherboard
+In computing, what does LAN stand for?
+ 1. Local Area Network
+ 2. Light Access Node
+ 3. Land Address Navigation
+ 4. Long Antenna Node
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  Local Area Network
 </details>
 
 
