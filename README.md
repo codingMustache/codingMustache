@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts.
+How come a man driving a train got struck by lightning? He was a good conductor.
 
 
 ## Daily Trivia
 
-The name of technology company HP stands for what?
- 1. Howard Packmann
- 2. Husker-Pollosk
- 3. Hewlett-Packard
- 4. Hellman-Pohl
+Which of these programming languages is a low-level language?
+ 1. Python
+ 2. Assembly
+ 3. C#
+ 4. Pascal
 
 <details>
   <summary>Answer</summary>
-  Hewlett-Packard
+  Assembly
 </details>
 
 
