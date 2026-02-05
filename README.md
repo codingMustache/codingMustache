@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do Alexander the Great and Winnie the Pooh have in common? Same middle name.
+Why do bears have hairy coats? Fur protection.
 
 
 ## Daily Trivia
 
-All of the following programs are classified as raster graphics editors EXCEPT:
- 1. Paint.NET
- 2. GIMP
- 3. Inkscape
- 4. Adobe Photoshop
+What does RAID stand for?
+ 1. Rapid Access for Indexed Devices
+ 2. Redundant Array of Independent Disks
+ 3. Range of Applications with Identical Designs
+ 4. Randomized Abstract Identification Description
 
 <details>
   <summary>Answer</summary>
-  Inkscape
+  Redundant Array of Independent Disks
 </details>
 
 
