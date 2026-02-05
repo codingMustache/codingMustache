@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do sheep go to get their hair cut? The baa-baa shop.
+Don't tell secrets in corn fields. Too many ears around.
 
 
 ## Daily Trivia
 
-What is the name of Layer 7 of the OSI model?
- 1. Session
- 2. Network
- 3. Present
- 4. Application
+On Twitter, what was the original character limit for a Tweet?
+ 1. 140
+ 2. 120
+ 3. 160
+ 4. 100
 
 <details>
   <summary>Answer</summary>
-  Application
+  140
 </details>
 
 
