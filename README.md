@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My boss told me to have a good day... so I went home.
+What did Yoda say when he saw himself in 4K? "HDMI"
 
 
 ## Daily Trivia
 
-Which one of these is not an official development name for a Ubuntu release?
- 1. Trusty Tahr
- 2. Mystic Mansion
- 3. Utopic Unicorn
- 4. Wily Werewolf
+Which of the following physical typologies are used with Ethernet Networks?
+ 1. Star
+ 2. Hex
+ 3. Mesh
+ 4. Ring
 
 <details>
   <summary>Answer</summary>
-  Mystic Mansion
+  Star
 </details>
 
 
