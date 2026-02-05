@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why didn’t the skeleton cross the road? Because he had no guts.
+I've got a joke about vegetables for you... but it's a bit corny.
 
 
 ## Daily Trivia
 
-Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
- 1. Four Years
- 2. Two Years
- 3. Eight Years
- 4. Year
+What does the &quot;MP&quot; stand for in MP3?
+ 1. Micro Point
+ 2. Multi Pass
+ 3. Moving Picture
+ 4. Music Player
 
 <details>
   <summary>Answer</summary>
-  Year
+  Moving Picture
 </details>
 
 
