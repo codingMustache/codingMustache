@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why couldn't the lifeguard save the hippie? He was too far out, man.
+How many bones are in the human hand? A handful of them.
 
 
 ## Daily Trivia
 
-On which computer hardware device is the BIOS chip located?
- 1. Central Processing Unit
- 2. Motherboard
- 3. Hard Disk Drive
- 4. Graphics Processing Unit
+In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
+ 1. Static
+ 2. Private
+ 3. Public
+ 4. Final
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  Final
 </details>
 
 
