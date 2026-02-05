@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Me and my mates are in a band called Duvet. We're a cover band.
+Why couldn't the lifeguard save the hippie? He was too far out, man.
 
 
 ## Daily Trivia
