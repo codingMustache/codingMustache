@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I just broke my guitar. It's okay, I won't fret
+Why do bees hum? Because they don't know the words.
 
 
 ## Daily Trivia
 
-This mobile OS held the largest market share in 2012.
- 1. Android
- 2. BlackBerry
- 3. Symbian
- 4. iOS
+How long is an IPv6 address?
+ 1. 128 bytes
+ 2. 64 bits
+ 3. 32 bits
+ 4. 128 bits
 
 <details>
   <summary>Answer</summary>
-  iOS
+  128 bits
 </details>
 
 
