@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I've got a joke about vegetables for you... but it's a bit corny.
+What do birds give out on Halloween? Tweets.
 
 
 ## Daily Trivia
 
-What does the &quot;MP&quot; stand for in MP3?
- 1. Micro Point
- 2. Multi Pass
- 3. Moving Picture
- 4. Music Player
+If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
+ 1. Binary
+ 2. Python
+ 3. C++
+ 4. JavaScript
 
 <details>
   <summary>Answer</summary>
-  Moving Picture
+  Binary
 </details>
 
 
