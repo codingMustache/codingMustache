@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the best thing about elevator jokes? They work on so many levels.
+What happens when you anger a brain surgeon? They will give you a piece of your mind.
 
 
 ## Daily Trivia
 
-The teapot often seen in many 3D modeling applications is called what?
- 1. Pixar Teapot
- 2. Utah Teapot
- 3. 3D Teapot
- 4. Tennessee Teapot
+On Twitter, what was the original character limit for a Tweet?
+ 1. 100
+ 2. 140
+ 3. 160
+ 4. 120
 
 <details>
   <summary>Answer</summary>
-  Utah Teapot
+  140
 </details>
 
 
