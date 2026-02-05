@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-what do you call a dog that can do magic tricks? a labracadabrador
+I just broke my guitar. It's okay, I won't fret
 
 
 ## Daily Trivia
 
-The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
- 1. Marshall Islands
- 2. Micronesia
- 3. Tuvalu
- 4. Fiji
+This mobile OS held the largest market share in 2012.
+ 1. Android
+ 2. BlackBerry
+ 3. Symbian
+ 4. iOS
 
 <details>
   <summary>Answer</summary>
-  Micronesia
+  iOS
 </details>
 
 
