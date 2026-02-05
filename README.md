@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why does a chicken coop only have two doors? Because if it had four doors it would be a chicken sedan.
+what do you call a dog that can do magic tricks? a labracadabrador
 
 
 ## Daily Trivia
 
-What language does Node.js use?
- 1. JavaScript
- 2. Joomla Source Code
- 3. Java Source
- 4. Java
+The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
+ 1. Marshall Islands
+ 2. Micronesia
+ 3. Tuvalu
+ 4. Fiji
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  Micronesia
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **** since this server shutdown
+Its been **1 days** since this server shutdown
