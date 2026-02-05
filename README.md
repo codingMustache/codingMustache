@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do bees hum? Because they don't know the words.
+I considered building the patio by myself. But I didn't have the stones.
 
 
 ## Daily Trivia
 
-How long is an IPv6 address?
- 1. 128 bytes
- 2. 64 bits
- 3. 32 bits
- 4. 128 bits
+This mobile OS held the largest market share in 2012.
+ 1. iOS
+ 2. Android
+ 3. BlackBerry
+ 4. Symbian
 
 <details>
   <summary>Answer</summary>
-  128 bits
+  iOS
 </details>
 
 
