@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many South Americans does it take to change a lightbulb? A Brazilian
+What do Alexander the Great and Winnie the Pooh have in common? Same middle name.
 
 
 ## Daily Trivia
 
-Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
- 1. 20.5 kHz
- 2. 44.1 kHz
- 3. 1.5 MHz
- 4. 32.0 kHz
+All of the following programs are classified as raster graphics editors EXCEPT:
+ 1. Paint.NET
+ 2. GIMP
+ 3. Inkscape
+ 4. Adobe Photoshop
 
 <details>
   <summary>Answer</summary>
-  44.1 kHz
+  Inkscape
 </details>
 
 
