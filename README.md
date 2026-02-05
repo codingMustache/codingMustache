@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A farmer had 297 cows, when he rounded them up, he found he had 300
+I used to work in a shoe recycling shop. It was sole destroying.
 
 
 ## Daily Trivia
 
-In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
- 1. Final
- 2. Private
- 3. Static
- 4. Public
+What is the code name for the mobile operating system Android 7.0?
+ 1. Nougat
+ 2. Marshmallow
+ 3. Jelly Bean
+ 4. Ice Cream Sandwich
 
 <details>
   <summary>Answer</summary>
-  Final
+  Nougat
 </details>
 
 
