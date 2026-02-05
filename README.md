@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the ocean say to the shore? Nothing, it just waved.
+Why did Dracula lie in the wrong coffin? He made a grave mistake.
 
 
 ## Daily Trivia
 
-If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
- 1. Binary
- 2. Python
- 3. C++
- 4. JavaScript
+The Harvard architecture for micro-controllers added which additional bus?
+ 1. Address
+ 2. Data
+ 3. Instruction
+ 4. Control
 
 <details>
   <summary>Answer</summary>
-  Binary
+  Instruction
 </details>
 
 
