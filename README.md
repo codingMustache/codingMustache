@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was Pavlov's beard so soft?  Because he conditioned it.
+I decided to sell my Hoover… well it was just collecting dust.
 
 
 ## Daily Trivia
 
-Dutch computer scientist Mark Overmars is known for creating which game development engine?
- 1. Game Maker
- 2. Torque 2D
- 3. Construct
- 4. Stencyl
+Generally, which component of a computer draws the most power?
+ 1. Processor
+ 2. Power Supply
+ 3. Video Card
+ 4. Hard Drive
 
 <details>
   <summary>Answer</summary>
-  Game Maker
+  Video Card
 </details>
 
 
