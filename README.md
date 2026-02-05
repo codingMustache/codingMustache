@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-If you think swimming with dolphins is expensive, you should try swimming with sharks--it cost me an arm and a leg!
+What do you call a nervous javelin thrower? Shakespeare.
 
 
 ## Daily Trivia
 
-What is known as &quot;the brain&quot; of the Computer?
+On which computer hardware device is the BIOS chip located?
  1. Motherboard
- 2. Graphics Processing Unit
- 3. Central Processing Unit
- 4. Keyboard
+ 2. Central Processing Unit
+ 3. Hard Disk Drive
+ 4. Graphics Processing Unit
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  Motherboard
 </details>
 
 
