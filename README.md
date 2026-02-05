@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do prisoners use to call each other? Cell phones.
+Why didn’t the skeleton cross the road? Because he had no guts.
 
 
 ## Daily Trivia
 
-Which kind of algorithm is Ron Rivest not famous for creating?
- 1. Secret sharing scheme
- 2. Stream cipher
- 3. Asymmetric encryption
- 4. Hashing algorithm
+Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
+ 1. Four Years
+ 2. Two Years
+ 3. Eight Years
+ 4. Year
 
 <details>
   <summary>Answer</summary>
-  Secret sharing scheme
+  Year
 </details>
 
 
