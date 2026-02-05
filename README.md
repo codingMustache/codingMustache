@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many bones are in the human hand? A handful of them.
+Why does a chicken coop only have two doors? Because if it had four doors it would be a chicken sedan.
 
 
 ## Daily Trivia
 
-In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
- 1. Static
- 2. Private
- 3. Public
- 4. Final
+What language does Node.js use?
+ 1. JavaScript
+ 2. Joomla Source Code
+ 3. Java Source
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  Final
+  JavaScript
 </details>
 
 
