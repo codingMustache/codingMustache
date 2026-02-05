@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to be addicted to soap, but I'm clean now.
+My New Years resolution is to stop leaving things so late.
 
 
 ## Daily Trivia
 
-What was the first Android version specifically optimized for tablets?
- 1. Eclair
- 2. Froyo
- 3. Marshmellow
- 4. Honeycomb
+Which of these is not a layer in the OSI model for data communications?
+ 1. Connection Layer
+ 2. Application Layer
+ 3. Physical Layer
+ 4. Transport Layer
 
 <details>
   <summary>Answer</summary>
-  Honeycomb
+  Connection Layer
 </details>
 
 
