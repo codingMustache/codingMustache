@@ -4,24 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A panda walks into a bar and says to the bartender “I’ll have a Scotch and . . . . . . . . . . . . . . Coke thank you”. 
-
-“Sure thing” the bartender replies and asks “but what’s with the big pause?” 
-
-The panda holds up his hands and says “I was born with them”
+You know that cemetery up the road? People are dying to get in there.
 
 
 ## Daily Trivia
 
-The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
- 1. Acorn Computers
- 2. Commodore Business Machines
- 3. Amstrad PLC
- 4. Sinclair Research
+What amount of bits commonly equals one byte?
+ 1. 8
+ 2. 64
+ 3. 2
+ 4. 1
 
 <details>
   <summary>Answer</summary>
-  Acorn Computers
+  8
 </details>
 
 
