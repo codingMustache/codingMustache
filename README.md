@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-When I left school, I passed every one of my exams with the exception of Greek Mythology. It always was my achilles elbow
+Me and my mates are in a band called Duvet. We're a cover band.
 
 
 ## Daily Trivia
 
-All of the following programs are classified as raster graphics editors EXCEPT:
- 1. Inkscape
- 2. Adobe Photoshop
- 3. GIMP
- 4. Paint.NET
+On which computer hardware device is the BIOS chip located?
+ 1. Central Processing Unit
+ 2. Motherboard
+ 3. Hard Disk Drive
+ 4. Graphics Processing Unit
 
 <details>
   <summary>Answer</summary>
-  Inkscape
+  Motherboard
 </details>
 
 
