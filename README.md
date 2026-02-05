@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I considered building the patio by myself. But I didn't have the stones.
+Did you hear the joke about the wandering nun? She was a roman catholic.
 
 
 ## Daily Trivia
 
-This mobile OS held the largest market share in 2012.
- 1. iOS
- 2. Android
- 3. BlackBerry
- 4. Symbian
+.at is the top-level domain for what country?
+ 1. Argentina
+ 2. Austria
+ 3. Australia
+ 4. Angola
 
 <details>
   <summary>Answer</summary>
-  iOS
+  Austria
 </details>
 
 
