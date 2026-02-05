@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I went to a book store and asked the saleswoman where the Self Help section was, she said if she told me it would defeat the purpose.
+What do you call an eagle who can play the piano? Talonted!
 
 
 ## Daily Trivia
 
-Lenovo acquired IBM&#039;s personal computer division, including the ThinkPad line of laptops and tablets, in what year?
- 1. 1999
- 2. 2002
- 3. 2008
- 4. 2005
+What is the name of the process that sends one qubit of information using two bits of classical information?
+ 1. Quantum Entanglement
+ 2. Super Dense Coding
+ 3. Quantum Teleportation
+ 4. Quantum Programming
 
 <details>
   <summary>Answer</summary>
-  2005
+  Quantum Teleportation
 </details>
 
 
