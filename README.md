@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the coffee file a police report? It got mugged.
+Why was Pavlov's beard so soft?  Because he conditioned it.
 
 
 ## Daily Trivia
 
-What is the domain name for the country Tuvalu?
- 1. .tu
- 2. .tt
- 3. .tl
- 4. .tv
+Dutch computer scientist Mark Overmars is known for creating which game development engine?
+ 1. Game Maker
+ 2. Torque 2D
+ 3. Construct
+ 4. Stencyl
 
 <details>
   <summary>Answer</summary>
-  .tv
+  Game Maker
 </details>
 
 
