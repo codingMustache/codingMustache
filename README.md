@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did Dracula lie in the wrong coffin? He made a grave mistake.
+My boss told me to have a good day... so I went home.
 
 
 ## Daily Trivia
 
-The Harvard architecture for micro-controllers added which additional bus?
- 1. Address
- 2. Data
- 3. Instruction
- 4. Control
+Which one of these is not an official development name for a Ubuntu release?
+ 1. Trusty Tahr
+ 2. Mystic Mansion
+ 3. Utopic Unicorn
+ 4. Wily Werewolf
 
 <details>
   <summary>Answer</summary>
-  Instruction
+  Mystic Mansion
 </details>
 
 
