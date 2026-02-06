@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What has three letters and starts with gas? A Car.
+What do you do when you see a space man?
+Park your car, man.
 
 
 ## Daily Trivia
 
-The teapot often seen in many 3D modeling applications is called what?
- 1. Utah Teapot
- 2. Tennessee Teapot
- 3. 3D Teapot
- 4. Pixar Teapot
+Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
+ 1. Puma
+ 2. Tiger
+ 3. Cheetah
+ 4. Leopard
 
 <details>
   <summary>Answer</summary>
-  Utah Teapot
+  Cheetah
 </details>
 
 
