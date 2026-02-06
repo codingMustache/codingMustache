@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I broke my finger at work today, on the other hand I'm completely fine.
+What does a clock do when it's hungry? It goes back four seconds!
 
 
 ## Daily Trivia
 
-In the server hosting industry IaaS stands for...
- 1. Internet as a Service
- 2. Internet and a Server
- 3. Infrastructure as a Server
- 4. Infrastructure as a Service
+In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
+ 1. Green
+ 2. Yellow
+ 3. Blue
+ 4. Red
 
 <details>
   <summary>Answer</summary>
-  Infrastructure as a Service
+  Green
 </details>
 
 
