@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the grape do when he got stepped on? He let out a little wine.
+What did the dog say to the two trees? Bark bark.
 
 
 ## Daily Trivia
 
-.rs is the top-level domain for what country?
- 1. Serbia
- 2. Rwanda
- 3. Russia
- 4. Romania
+The programming language &#039;Swift&#039; was created to replace what other programming language?
+ 1. C#
+ 2. Ruby
+ 3. C++
+ 4. Objective-C
 
 <details>
   <summary>Answer</summary>
-  Serbia
+  Objective-C
 </details>
 
 
