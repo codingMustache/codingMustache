@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I wanted to be a tailor but I didn't suit the job
+What did the ocean say to the beach? Thanks for all the sediment.
 
 
 ## Daily Trivia
 
-Which data structure does FILO apply to?
- 1. Tree
- 2. Stack
- 3. Heap
- 4. Queue
+Which of the following computer components can be built using only NAND gates?
+ 1. ALU
+ 2. Register
+ 3. RAM
+ 4. CPU
 
 <details>
   <summary>Answer</summary>
-  Stack
+  ALU
 </details>
 
 
