@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How does Darth Vader like his toast? On the dark side.
+A magician was driving down the street and then he turned into a driveway.
 
 
 ## Daily Trivia
 
-What is the number of keys on a standard Windows Keyboard?
- 1. 76
- 2. 94
- 3. 104
- 4. 64
+What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
+ 1. Heat Sink
+ 2. Heat Vent
+ 3. Temperature Decipator
+ 4. CPU Vent
 
 <details>
   <summary>Answer</summary>
-  104
+  Heat Sink
 </details>
 
 
