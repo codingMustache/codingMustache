@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Last night me and my girlfriend watched three DVDs back to back. Luckily I was the one facing the TV.
+I was in an 80's band called the prevention. We were better than the cure.
 
 
 ## Daily Trivia
 
-In web design, what does CSS stand for?
- 1. Counter Strike: Source
- 2. Corrective Style Sheet
- 3. Cascading Style Sheet
- 4. Computer Style Sheet
+What is the code name for the mobile operating system Android 7.0?
+ 1. Marshmallow
+ 2. Jelly Bean
+ 3. Nougat
+ 4. Ice Cream Sandwich
 
 <details>
   <summary>Answer</summary>
-  Cascading Style Sheet
+  Nougat
 </details>
 
 
