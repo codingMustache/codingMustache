@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My cat was just sick on the carpet, I don’t think it’s feline well.
+To the guy who invented zero... thanks for nothing.
 
 
 ## Daily Trivia
 
-What does LTS stand for in the software market?
- 1. Ludicrous Transfer Speed
- 2. Long Term Support
- 3. Ludicrous Turbo Speed
- 4. Long Taco Service
+Which one of these is not an official development name for a Ubuntu release?
+ 1. Mystic Mansion
+ 2. Trusty Tahr
+ 3. Utopic Unicorn
+ 4. Wily Werewolf
 
 <details>
   <summary>Answer</summary>
-  Long Term Support
+  Mystic Mansion
 </details>
 
 
