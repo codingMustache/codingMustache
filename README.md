@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The great thing about stationery shops is they're always in the same place...
+What has three letters and starts with gas? A Car.
 
 
 ## Daily Trivia
 
-Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
- 1. Overstock
- 2. eBay
- 3. Shopify
- 4. Amazon
+The teapot often seen in many 3D modeling applications is called what?
+ 1. Utah Teapot
+ 2. Tennessee Teapot
+ 3. 3D Teapot
+ 4. Pixar Teapot
 
 <details>
   <summary>Answer</summary>
-  Amazon
+  Utah Teapot
 </details>
 
 
