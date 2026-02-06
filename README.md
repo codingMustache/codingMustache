@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What does a clock do when it's hungry? It goes back four seconds!
+What do you call a gorilla wearing headphones? Anything you'd like, it can't hear you.
 
 
 ## Daily Trivia
 
-In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
- 1. Green
- 2. Yellow
- 3. Blue
- 4. Red
+Which of these is not a key value of Agile software development?
+ 1. Comprehensive documentation
+ 2. Responding to change
+ 3. Customer collaboration
+ 4. Individuals and interactions
 
 <details>
   <summary>Answer</summary>
-  Green
+  Comprehensive documentation
 </details>
 
 
