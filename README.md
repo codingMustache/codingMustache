@@ -4,22 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many seconds are in a year?
-12.
-January 2nd, February 2nd, March 2nd, April 2nd.... etc
+A doll was recently found dead in a rice paddy. It's the only known instance of a nick nack paddy wack.
 
 
 ## Daily Trivia
 
-The teapot often seen in many 3D modeling applications is called what?
- 1. Pixar Teapot
- 2. Utah Teapot
- 3. 3D Teapot
- 4. Tennessee Teapot
+What does the &quot;MP&quot; stand for in MP3?
+ 1. Multi Pass
+ 2. Music Player
+ 3. Micro Point
+ 4. Moving Picture
 
 <details>
   <summary>Answer</summary>
-  Utah Teapot
+  Moving Picture
 </details>
 
 
