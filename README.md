@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I got fired from a florist, apparently I took too many leaves.
+Why do wizards clean their teeth three times a day? To prevent bat breath!
 
 
 ## Daily Trivia
 
-The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
- 1. Fiji
- 2. Tuvalu
- 3. Micronesia
- 4. Marshall Islands
+How long is an IPv6 address?
+ 1. 32 bits
+ 2. 128 bits
+ 3. 128 bytes
+ 4. 64 bits
 
 <details>
   <summary>Answer</summary>
-  Micronesia
+  128 bits
 </details>
 
 
