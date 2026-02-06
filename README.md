@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you do when you see a space man?
-Park your car, man.
+I cut my finger cutting cheese. I know it may be a cheesy story but I feel grate now.
 
 
 ## Daily Trivia
 
-Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
- 1. Puma
- 2. Tiger
- 3. Cheetah
- 4. Leopard
+Which of the following is a personal computer made by the Japanese company Fujitsu?
+ 1. FM-7
+ 2. Xmillennium 
+ 3. PC-9801
+ 4. MSX
 
 <details>
   <summary>Answer</summary>
-  Cheetah
+  FM-7
 </details>
 
 
