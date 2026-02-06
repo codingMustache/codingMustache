@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Dad, can you put my shoes on? I don't think they'll fit me.
+To the person who stole my anti-depressant pills: I hope you're happy now.
 
 
 ## Daily Trivia
 
-What is the name of the process that sends one qubit of information using two bits of classical information?
- 1. Quantum Programming
- 2. Quantum Entanglement
- 3. Quantum Teleportation
- 4. Super Dense Coding
+The acronym &quot;RIP&quot; stands for which of these?
+ 1. Routing Information Protocol
+ 2. Routine Inspection Protocol
+ 3. Regular Interval Processes
+ 4. Runtime Instance Processes
 
 <details>
   <summary>Answer</summary>
-  Quantum Teleportation
+  Routing Information Protocol
 </details>
 
 
