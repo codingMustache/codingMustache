@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-When Dad drops a pea off of his plate ‘oh dear I’ve pee’d on the table!
+The invention of the wheel was what got things rolling
 
 
 ## Daily Trivia
 
-The programming language &#039;Swift&#039; was created to replace what other programming language?
- 1. C++
- 2. Objective-C
- 3. Ruby
- 4. C#
+In the server hosting industry IaaS stands for...
+ 1. Internet and a Server
+ 2. Internet as a Service
+ 3. Infrastructure as a Server
+ 4. Infrastructure as a Service
 
 <details>
   <summary>Answer</summary>
-  Objective-C
+  Infrastructure as a Service
 </details>
 
 
