@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the ocean say to the beach? Thanks for all the sediment.
+What animal is always at a game of cricket? A bat.
 
 
 ## Daily Trivia
 
-Which of the following computer components can be built using only NAND gates?
- 1. ALU
- 2. Register
- 3. RAM
- 4. CPU
+HTML is what type of language?
+ 1. Macro Language
+ 2. Programming Language
+ 3. Scripting Language
+ 4. Markup Language
 
 <details>
   <summary>Answer</summary>
-  ALU
+  Markup Language
 </details>
 
 
