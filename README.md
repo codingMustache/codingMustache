@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a pile of cats?  A Meowtain.
+Why did the kid throw the clock out the window? He wanted to see time fly!
 
 
 ## Daily Trivia
 
-What major programming language does Unreal Engine 4 use?
- 1. C#
- 2. Assembly
- 3. C++
- 4. ECMAScript
+What was the name of the security vulnerability found in Bash in 2014?
+ 1. Shellshock
+ 2. Bashbug
+ 3. Heartbleed
+ 4. Stagefright
 
 <details>
   <summary>Answer</summary>
-  C++
+  Shellshock
 </details>
 
 
