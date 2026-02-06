@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The invention of the wheel was what got things rolling
+Did you hear that the police have a warrant out on a midget psychic ripping people off? It reads “Small medium at large.”
 
 
 ## Daily Trivia
 
-In the server hosting industry IaaS stands for...
- 1. Internet and a Server
- 2. Internet as a Service
- 3. Infrastructure as a Server
- 4. Infrastructure as a Service
+Which RAID array type is associated with data mirroring?
+ 1. RAID 1
+ 2. RAID 5
+ 3. RAID 10
+ 4. RAID 0
 
 <details>
   <summary>Answer</summary>
-  Infrastructure as a Service
+  RAID 1
 </details>
 
 
