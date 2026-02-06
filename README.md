@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What animal is always at a game of cricket? A bat.
+Dad, can you put my shoes on? I don't think they'll fit me.
 
 
 ## Daily Trivia
 
-HTML is what type of language?
- 1. Macro Language
- 2. Programming Language
- 3. Scripting Language
- 4. Markup Language
+What is the name of the process that sends one qubit of information using two bits of classical information?
+ 1. Quantum Programming
+ 2. Quantum Entanglement
+ 3. Quantum Teleportation
+ 4. Super Dense Coding
 
 <details>
   <summary>Answer</summary>
-  Markup Language
+  Quantum Teleportation
 </details>
 
 
