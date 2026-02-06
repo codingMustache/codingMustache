@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Last night me and my girlfriend watched three DVDs back to back. Luckily I was the one facing the TV.
+Why was the broom late for the meeting? He overswept.
 
 
 ## Daily Trivia
 
-On which computer hardware device is the BIOS chip located?
- 1. Motherboard
- 2. Graphics Processing Unit
- 3. Central Processing Unit
- 4. Hard Disk Drive
+America Online (AOL) started out as which of these online service providers?
+ 1. GEnie
+ 2. Prodigy
+ 3. Quantum Link
+ 4. CompuServe
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  Quantum Link
 </details>
 
 
