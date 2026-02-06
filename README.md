@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I was in an 80's band called the prevention. We were better than the cure.
+My cat was just sick on the carpet, I don’t think it’s feline well.
 
 
 ## Daily Trivia
 
-What is the code name for the mobile operating system Android 7.0?
- 1. Marshmallow
- 2. Jelly Bean
- 3. Nougat
- 4. Ice Cream Sandwich
+What does LTS stand for in the software market?
+ 1. Ludicrous Transfer Speed
+ 2. Long Term Support
+ 3. Ludicrous Turbo Speed
+ 4. Long Taco Service
 
 <details>
   <summary>Answer</summary>
-  Nougat
+  Long Term Support
 </details>
 
 
