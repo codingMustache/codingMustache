@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Every machine in the coin factory broke down all of a sudden without explanation. It just doesn’t make any cents.
+What did the big flower say to the littler flower? Hi, bud!
 
 
 ## Daily Trivia
 
-What does the &#039;S&#039; in the RSA encryption algorithm stand for?
- 1. Schottky
- 2. Shamir
- 3. Secure
- 4. Stable
+If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
+ 1. Python
+ 2. Binary
+ 3. C++
+ 4. JavaScript
 
 <details>
   <summary>Answer</summary>
-  Shamir
+  Binary
 </details>
 
 
