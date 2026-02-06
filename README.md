@@ -4,20 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-To the person who stole my anti-depressant pills: I hope you're happy now.
+How many seconds are in a year?
+12.
+January 2nd, February 2nd, March 2nd, April 2nd.... etc
 
 
 ## Daily Trivia
 
-The acronym &quot;RIP&quot; stands for which of these?
- 1. Routing Information Protocol
- 2. Routine Inspection Protocol
- 3. Regular Interval Processes
- 4. Runtime Instance Processes
+The teapot often seen in many 3D modeling applications is called what?
+ 1. Pixar Teapot
+ 2. Utah Teapot
+ 3. 3D Teapot
+ 4. Tennessee Teapot
 
 <details>
   <summary>Answer</summary>
-  Routing Information Protocol
+  Utah Teapot
 </details>
 
 
