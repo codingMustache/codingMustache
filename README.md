@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Have you heard about the owl sanctuary job opening? It’s all night shifts but they’re all a hoot over there.
+Why did the scarecrow win an award? Because he was outstanding in his field.
 
 
 ## Daily Trivia
 
-What internet protocol was documented in RFC 1459?
- 1. HTTP
- 2. HTTPS
- 3. FTP
- 4. IRC
+What five letter word is the motto of the IBM Computer company?
+ 1. Click
+ 2. Think
+ 3. Logic
+ 4. Pixel
 
 <details>
   <summary>Answer</summary>
-  IRC
+  Think
 </details>
 
 
