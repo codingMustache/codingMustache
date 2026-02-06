@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A police officer caught two kids playing with a firework and a car battery. He charged one and let the other one off.
+Why is the ocean always blue? Because the shore never waves back.
 
 
 ## Daily Trivia
 
-What does the term MIME stand for, in regards to computing?
- 1. Mail Internet Mail Exchange
- 2. Multipurpose Interleave Mail Exchange
- 3. Mail Interleave Method Exchange
- 4. Multipurpose Internet Mail Extensions
+What does the International System of Quantities refer 1024 bytes as?
+ 1. Kelobyte
+ 2. Kilobyte
+ 3. Kylobyte
+ 4. Kibibyte
 
 <details>
   <summary>Answer</summary>
-  Multipurpose Internet Mail Extensions
+  Kibibyte
 </details>
 
 
