@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I cut my finger cutting cheese. I know it may be a cheesy story but I feel grate now.
+How does Darth Vader like his toast? On the dark side.
 
 
 ## Daily Trivia
 
-Which of the following is a personal computer made by the Japanese company Fujitsu?
- 1. FM-7
- 2. Xmillennium 
- 3. PC-9801
- 4. MSX
+What is the number of keys on a standard Windows Keyboard?
+ 1. 76
+ 2. 94
+ 3. 104
+ 4. 64
 
 <details>
   <summary>Answer</summary>
-  FM-7
+  104
 </details>
 
 
