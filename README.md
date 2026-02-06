@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I was in an 80's band called the prevention. We were better than the cure.
+Did you hear the one about the guy with the broken hearing aid? Neither did he.
 
 
 ## Daily Trivia
 
-Which of the following is a personal computer made by the Japanese company Fujitsu?
- 1. FM-7
- 2. MSX
- 3. Xmillennium 
- 4. PC-9801
+When Gmail first launched, how much storage did it provide for your email?
+ 1. 1GB
+ 2. Unlimited
+ 3. 5GB
+ 4. 512MB
 
 <details>
   <summary>Answer</summary>
-  FM-7
+  1GB
 </details>
 
 
