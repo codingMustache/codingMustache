@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the difference between a seal and a sea lion?
-An ion! 
+Have you heard about the owl sanctuary job opening? It’s all night shifts but they’re all a hoot over there.
 
 
 ## Daily Trivia
 
-How many cores does the Intel i7-6950X have?
- 1. 12
- 2. 10
- 3. 4
- 4. 8
+What internet protocol was documented in RFC 1459?
+ 1. HTTP
+ 2. HTTPS
+ 3. FTP
+ 4. IRC
 
 <details>
   <summary>Answer</summary>
-  10
+  IRC
 </details>
 
 
