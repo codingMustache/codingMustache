@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a gorilla wearing headphones? Anything you'd like, it can't hear you.
+What's the difference between a seal and a sea lion?
+An ion! 
 
 
 ## Daily Trivia
 
-Which of these is not a key value of Agile software development?
- 1. Comprehensive documentation
- 2. Responding to change
- 3. Customer collaboration
- 4. Individuals and interactions
+How many cores does the Intel i7-6950X have?
+ 1. 12
+ 2. 10
+ 3. 4
+ 4. 8
 
 <details>
   <summary>Answer</summary>
-  Comprehensive documentation
+  10
 </details>
 
 
