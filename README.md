@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was the broom late for the meeting? He overswept.
+I knew a guy who collected candy canes, they were all in mint condition
 
 
 ## Daily Trivia
 
-America Online (AOL) started out as which of these online service providers?
- 1. GEnie
- 2. Prodigy
- 3. Quantum Link
- 4. CompuServe
+What programming language was GitHub written in?
+ 1. JavaScript
+ 2. Python
+ 3. Lua
+ 4. Ruby
 
 <details>
   <summary>Answer</summary>
-  Quantum Link
+  Ruby
 </details>
 
 
