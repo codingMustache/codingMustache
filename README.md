@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do wizards clean their teeth three times a day? To prevent bat breath!
+Man, I really love my furniture... me and my recliner go way back.
 
 
 ## Daily Trivia
 
-How long is an IPv6 address?
- 1. 32 bits
- 2. 128 bits
- 3. 128 bytes
- 4. 64 bits
+Which programming language was developed by Sun Microsystems in 1995?
+ 1. C++
+ 2. Java
+ 3. Solaris OS
+ 4. Python
 
 <details>
   <summary>Answer</summary>
-  128 bits
+  Java
 </details>
 
 
