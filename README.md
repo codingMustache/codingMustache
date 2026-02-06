@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do owls go to buy their baby clothes? The owlet malls.
+The great thing about stationery shops is they're always in the same place...
 
 
 ## Daily Trivia
 
-Which of these names was an actual codename for a cancelled Microsoft project?
- 1. Enceladus
- 2. Pollux
- 3. Saturn
- 4. Neptune
+Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
+ 1. Overstock
+ 2. eBay
+ 3. Shopify
+ 4. Amazon
 
 <details>
   <summary>Answer</summary>
-  Neptune
+  Amazon
 </details>
 
 
