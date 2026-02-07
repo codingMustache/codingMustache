@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Never take advice from electrons. They are always negative.
+What kind of bagel can fly? A plain bagel.
 
 
 ## Daily Trivia
 
-What was the first company to use the term &quot;Golden Master&quot;?
- 1. IBM
- 2. Apple
- 3. Microsoft
- 4. Google
+What was the name given to Android 4.3?
+ 1. Jelly Bean
+ 2. Nutella
+ 3. Lollipop
+ 4. Froyo
 
 <details>
   <summary>Answer</summary>
-  Apple
+  Jelly Bean
 </details>
 
 
