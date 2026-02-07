@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-R.I.P. boiled water. You will be mist.
+I went to a book store and asked the saleswoman where the Self Help section was, she said if she told me it would defeat the purpose.
 
 
 ## Daily Trivia
 
-America Online (AOL) started out as which of these online service providers?
- 1. GEnie
- 2. Prodigy
- 3. CompuServe
- 4. Quantum Link
+What was the first Android version specifically optimized for tablets?
+ 1. Froyo
+ 2. Eclair
+ 3. Marshmellow
+ 4. Honeycomb
 
 <details>
   <summary>Answer</summary>
-  Quantum Link
+  Honeycomb
 </details>
 
 
