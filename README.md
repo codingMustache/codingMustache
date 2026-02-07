@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do locomotives know where they're going? Lots of training
+Have you heard the rumor going around about butter? Never mind, I shouldn't spread it.
 
 
 ## Daily Trivia
 
-What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
- 1. Sandy Bridge
- 2. Skylake
- 3. Broadwell
- 4. Coffee Lake
+The name of technology company HP stands for what?
+ 1. Husker-Pollosk
+ 2. Hewlett-Packard
+ 3. Howard Packmann
+ 4. Hellman-Pohl
 
 <details>
   <summary>Answer</summary>
-  Coffee Lake
+  Hewlett-Packard
 </details>
 
 
