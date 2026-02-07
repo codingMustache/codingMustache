@@ -4,22 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to work at a stationery store.  But, I didn't feel like I was going anywhere.
-
-So, I got a job at a travel agency.  Now, I know I'll be going places.
+Where does astronauts hangout after work? At the spacebar.
 
 
 ## Daily Trivia
 
-What programming language was GitHub written in?
- 1. Python
- 2. JavaScript
- 3. Ruby
- 4. Lua
+Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
+ 1. Puma
+ 2. Tiger
+ 3. Leopard
+ 4. Cheetah
 
 <details>
   <summary>Answer</summary>
-  Ruby
+  Cheetah
 </details>
 
 
