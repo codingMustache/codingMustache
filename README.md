@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of dinosaur loves to sleep? A stega-snore-us.
+I've been trying to come up with a dad joke about momentum . . . but I just can't seem to get it going.
 
 
 ## Daily Trivia
 
-What was the name of the first Bulgarian personal computer?
- 1. Pravetz 82
- 2. Pravetz 8D
- 3. IMKO-1
- 4. IZOT 1030
+According to the International System of Units, how many bytes are in a kilobyte of RAM?
+ 1. 1000
+ 2. 512
+ 3. 1024
+ 4. 500
 
 <details>
   <summary>Answer</summary>
-  IMKO-1
+  1000
 </details>
 
 
