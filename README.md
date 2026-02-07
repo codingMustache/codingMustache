@@ -4,20 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Two peanuts were walking down the street. One was a salted
+I used to work at a stationery store.  But, I didn't feel like I was going anywhere.
+
+So, I got a job at a travel agency.  Now, I know I'll be going places.
 
 
 ## Daily Trivia
 
-Who is the original author of the realtime physics engine called PhysX?
- 1. Ageia
- 2. Nvidia
- 3. AMD
- 4. NovodeX
+What programming language was GitHub written in?
+ 1. Python
+ 2. JavaScript
+ 3. Ruby
+ 4. Lua
 
 <details>
   <summary>Answer</summary>
-  NovodeX
+  Ruby
 </details>
 
 
