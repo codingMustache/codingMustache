@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I gave my friend 10 puns hoping that one of them would make him laugh. Sadly, no pun in ten did.
+What kind of dinosaur loves to sleep? A stega-snore-us.
 
 
 ## Daily Trivia
 
-Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
- 1. Cheetah
- 2. Leopard
- 3. Tiger
- 4. Puma
+What was the name of the first Bulgarian personal computer?
+ 1. Pravetz 82
+ 2. Pravetz 8D
+ 3. IMKO-1
+ 4. IZOT 1030
 
 <details>
   <summary>Answer</summary>
-  Cheetah
+  IMKO-1
 </details>
 
 
