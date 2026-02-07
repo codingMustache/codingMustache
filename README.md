@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's black and white and read all over? The newspaper.
+If you think swimming with dolphins is expensive, you should try swimming with sharks--it cost me an arm and a leg!
 
 
 ## Daily Trivia
 
-What is known as &quot;the brain&quot; of the Computer?
- 1. Central Processing Unit
- 2. Keyboard
- 3. Graphics Processing Unit
- 4. Motherboard
+In the server hosting industry IaaS stands for...
+ 1. Internet as a Service
+ 2. Infrastructure as a Service
+ 3. Internet and a Server
+ 4. Infrastructure as a Server
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  Infrastructure as a Service
 </details>
 
 
