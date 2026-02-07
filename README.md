@@ -4,20 +4,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the digital clock say to the grandfather clock? Look, no hands!
+A panda walks into a bar and says to the bartender “I’ll have a Scotch and . . . . . . . . . . . . . . Coke thank you”. 
+
+“Sure thing” the bartender replies and asks “but what’s with the big pause?” 
+
+The panda holds up his hands and says “I was born with them”
 
 
 ## Daily Trivia
 
-Which of these names was an actual codename for a cancelled Microsoft project?
- 1. Saturn
- 2. Pollux
- 3. Neptune
- 4. Enceladus
+How many kilobytes in one gigabyte (in decimal)?
+ 1. 1048576
+ 2. 1000
+ 3. 1000000
+ 4. 1024
 
 <details>
   <summary>Answer</summary>
-  Neptune
+  1000000
 </details>
 
 
