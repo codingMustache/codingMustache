@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you get a baby alien to sleep?  You rocket.
+What kind of music do mummy's like? Rap
 
 
 ## Daily Trivia
 
-Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
- 1. Clipper Chip
- 2. Skipjack
- 3. Nautilus
- 4. Enigma Machine
+Which programming language shares its name with an island in Indonesia?
+ 1. Python
+ 2. Jakarta
+ 3. C
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  Clipper Chip
+  Java
 </details>
 
 
