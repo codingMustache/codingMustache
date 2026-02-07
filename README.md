@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I tried to write a chemistry joke, but could never get a reaction.
+How do you get a baby alien to sleep?  You rocket.
 
 
 ## Daily Trivia
 
-Which SQL keyword is used to fetch data from a database?
- 1. INDEX
- 2. VALUES
- 3. EXEC
- 4. SELECT
+Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
+ 1. Clipper Chip
+ 2. Skipjack
+ 3. Nautilus
+ 4. Enigma Machine
 
 <details>
   <summary>Answer</summary>
-  SELECT
+  Clipper Chip
 </details>
 
 
