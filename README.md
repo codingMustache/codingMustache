@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Do you want a brief explanation of what an acorn is? In a nutshell, it's an oak tree.
+Thanks for explaining the word "many" to me. It means a lot.
 
 
 ## Daily Trivia
 
-When did the online streaming service &quot;Mixer&quot; launch?
- 1. 2013
- 2. 2009
- 3. 2011
- 4. 2016
+How many kilobytes in one gigabyte (in decimal)?
+ 1. 1000
+ 2. 1024
+ 3. 1000000
+ 4. 1048576
 
 <details>
   <summary>Answer</summary>
-  2016
+  1000000
 </details>
 
 
