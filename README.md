@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you make a hankie dance? Put a little boogie in it.
+What kind of dog lives in a particle accelerator? A Fermilabrador Retriever.
 
 
 ## Daily Trivia
 
-Which kind of algorithm is Ron Rivest not famous for creating?
- 1. Stream cipher
- 2. Asymmetric encryption
- 3. Hashing algorithm
- 4. Secret sharing scheme
+What is the main CPU is the Sega Mega Drive / Sega Genesis?
+ 1. Yamaha YM2612
+ 2. Zilog Z80
+ 3. Intel 8088
+ 4. Motorola 68000
 
 <details>
   <summary>Answer</summary>
-  Secret sharing scheme
+  Motorola 68000
 </details>
 
 
