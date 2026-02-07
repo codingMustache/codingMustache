@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of bagel can fly? A plain bagel.
+I was wondering why the frisbee was getting bigger, then it hit me.
 
 
 ## Daily Trivia
 
-What was the name given to Android 4.3?
- 1. Jelly Bean
- 2. Nutella
- 3. Lollipop
- 4. Froyo
+Which one of these is not an official development name for a Ubuntu release?
+ 1. Trusty Tahr
+ 2. Mystic Mansion
+ 3. Utopic Unicorn
+ 4. Wily Werewolf
 
 <details>
   <summary>Answer</summary>
-  Jelly Bean
+  Mystic Mansion
 </details>
 
 
