@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I've been trying to come up with a dad joke about momentum . . . but I just can't seem to get it going.
+I tried to write a chemistry joke, but could never get a reaction.
 
 
 ## Daily Trivia
 
-According to the International System of Units, how many bytes are in a kilobyte of RAM?
- 1. 1000
- 2. 512
- 3. 1024
- 4. 500
+Which SQL keyword is used to fetch data from a database?
+ 1. INDEX
+ 2. VALUES
+ 3. EXEC
+ 4. SELECT
 
 <details>
   <summary>Answer</summary>
-  1000
+  SELECT
 </details>
 
 
