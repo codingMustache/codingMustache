@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How are false teeth like stars? They come out at night!
+How does a penguin build it’s house? Igloos it together.
 
 
 ## Daily Trivia
 
-In programming, what do you call functions with the same name but different implementations?
- 1. Abstracting
- 2. Overriding
- 3. Overloading
- 4. Inheriting
+Which of the following languages is used as a scripting language in the Unity 3D game engine?
+ 1. Java
+ 2. C++
+ 3. Objective-C
+ 4. C#
 
 <details>
   <summary>Answer</summary>
-  Overloading
+  C#
 </details>
 
 
