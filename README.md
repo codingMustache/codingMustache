@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you know Albert Einstein was a real person? All this time, I thought he was just a theoretical physicist!
+I wish I could clean mirrors for a living. It's just something I can see myself doing.
 
 
 ## Daily Trivia
 
-What does LTS stand for in the software market?
- 1. Ludicrous Transfer Speed
- 2. Long Taco Service
- 3. Long Term Support
- 4. Ludicrous Turbo Speed
+Which of these is not a key value of Agile software development?
+ 1. Responding to change
+ 2. Customer collaboration
+ 3. Individuals and interactions
+ 4. Comprehensive documentation
 
 <details>
   <summary>Answer</summary>
-  Long Term Support
+  Comprehensive documentation
 </details>
 
 
