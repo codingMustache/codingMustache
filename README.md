@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Thanks for explaining the word "many" to me. It means a lot.
+I made a belt out of watches once... It was a waist of time.
 
 
 ## Daily Trivia
 
-How many kilobytes in one gigabyte (in decimal)?
- 1. 1000
- 2. 1024
- 3. 1000000
- 4. 1048576
+What does the International System of Quantities refer 1024 bytes as?
+ 1. Kelobyte
+ 2. Kilobyte
+ 3. Kibibyte
+ 4. Kylobyte
 
 <details>
   <summary>Answer</summary>
-  1000000
+  Kibibyte
 </details>
 
 
