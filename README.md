@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I accidentally took my cats meds last night. Don’t ask meow.
+People are making apocalypse jokes like there’s no tomorrow.
 
 
 ## Daily Trivia
 
-In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
- 1. Red
- 2. Green
- 3. Blue
- 4. Yellow
+On which day did the World Wide Web go online?
+ 1. December 20, 1990
+ 2. November 12, 1990
+ 3. November 24, 1995
+ 4. December 17, 1996
 
 <details>
   <summary>Answer</summary>
-  Green
+  December 20, 1990
 </details>
 
 
