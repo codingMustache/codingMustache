@@ -4,22 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the worst part about being a cross-eyed teacher?
-
-They can't control their pupils.
+Why is there always a gate around cemeteries? Because people are always dying to get in.
 
 
 ## Daily Trivia
 
-What does CPU stand for?
- 1. Central Process Unit
- 2. Computer Personal Unit
- 3. Central Processor Unit
- 4. Central Processing Unit
+Approximately how many Apple I personal computers were created?
+ 1. 500
+ 2. 100
+ 3. 200
+ 4. 1000
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  200
 </details>
 
 
