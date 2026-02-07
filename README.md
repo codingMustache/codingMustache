@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call two barracuda fish?  A Pairacuda!
+How do hens stay fit? They always egg-cercise!
 
 
 ## Daily Trivia
 
-What does the term MIME stand for, in regards to computing?
- 1. Multipurpose Internet Mail Extensions
- 2. Mail Interleave Method Exchange
- 3. Multipurpose Interleave Mail Exchange
- 4. Mail Internet Mail Exchange
+.at is the top-level domain for what country?
+ 1. Argentina
+ 2. Australia
+ 3. Angola
+ 4. Austria
 
 <details>
   <summary>Answer</summary>
-  Multipurpose Internet Mail Extensions
+  Austria
 </details>
 
 
