@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-If you think swimming with dolphins is expensive, you should try swimming with sharks--it cost me an arm and a leg!
+Never take advice from electrons. They are always negative.
 
 
 ## Daily Trivia
 
-In the server hosting industry IaaS stands for...
- 1. Internet as a Service
- 2. Infrastructure as a Service
- 3. Internet and a Server
- 4. Infrastructure as a Server
+What was the first company to use the term &quot;Golden Master&quot;?
+ 1. IBM
+ 2. Apple
+ 3. Microsoft
+ 4. Google
 
 <details>
   <summary>Answer</summary>
-  Infrastructure as a Service
+  Apple
 </details>
 
 
