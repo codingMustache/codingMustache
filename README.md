@@ -9,15 +9,15 @@ R.I.P. boiled water. You will be mist.
 
 ## Daily Trivia
 
-In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
- 1. print(&quot;Hello World&quot;)
- 2. printf(&quot;Hello World&quot;)
- 3. echo &quot;Hello World&quot;
- 4. console.log(&quot;Hello World&quot;)
+America Online (AOL) started out as which of these online service providers?
+ 1. GEnie
+ 2. Prodigy
+ 3. CompuServe
+ 4. Quantum Link
 
 <details>
   <summary>Answer</summary>
-  print(&quot;Hello World&quot;)
+  Quantum Link
 </details>
 
 
