@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you make a hankie dance? Put a little boogie in it.
+What does an angry pepper do? It gets jalapeño face.
 
 
 ## Daily Trivia
 
-In computing, what does MIDI stand for?
- 1. Musical Instrument Digital Interface
- 2. Musical Instrument Data Interface
- 3. Modular Interface of Digital Instruments
- 4. Musical Interface of Digital Instruments
+When Gmail first launched, how much storage did it provide for your email?
+ 1. 512MB
+ 2. 5GB
+ 3. Unlimited
+ 4. 1GB
 
 <details>
   <summary>Answer</summary>
-  Musical Instrument Digital Interface
+  1GB
 </details>
 
 
