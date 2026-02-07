@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What biscuit does a short person like? Shortbread. 
+The first time I got a universal remote control I thought to myself, "This changes everything"
 
 
 ## Daily Trivia
 
-America Online (AOL) started out as which of these online service providers?
- 1. GEnie
- 2. Quantum Link
- 3. Prodigy
- 4. CompuServe
+Which computer hardware device provides an interface for all other connected devices to communicate?
+ 1. Central Processing Unit
+ 2. Hard Disk Drive
+ 3. Motherboard
+ 4. Random Access Memory
 
 <details>
   <summary>Answer</summary>
-  Quantum Link
+  Motherboard
 </details>
 
 
