@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Have you heard the rumor going around about butter? Never mind, I shouldn't spread it.
+I've been trying to come up with a dad joke about momentum . . . but I just can't seem to get it going.
 
 
 ## Daily Trivia
 
-The name of technology company HP stands for what?
- 1. Husker-Pollosk
- 2. Hewlett-Packard
- 3. Howard Packmann
- 4. Hellman-Pohl
+What language does Node.js use?
+ 1. Joomla Source Code
+ 2. JavaScript
+ 3. Java Source
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  Hewlett-Packard
+  JavaScript
 </details>
 
 
