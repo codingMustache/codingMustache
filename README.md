@@ -4,21 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you get when you cross a bee and a sheep? A bah-humbug.
-
+What is the least spoken language in the world?
+Sign Language
 
 
 ## Daily Trivia
 
-In computing, what does MIDI stand for?
- 1. Modular Interface of Digital Instruments
- 2. Musical Interface of Digital Instruments
- 3. Musical Instrument Digital Interface
- 4. Musical Instrument Data Interface
+Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
+ 1. 32.0 kHz
+ 2. 1.5 MHz
+ 3. 20.5 kHz
+ 4. 44.1 kHz
 
 <details>
   <summary>Answer</summary>
-  Musical Instrument Digital Interface
+  44.1 kHz
 </details>
 
 
