@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I asked the surgeon if I could administer my own anesthetic, they said: go ahead, knock yourself out.
+When is a door not a door? When it's ajar.
 
 
 ## Daily Trivia
 
-What is the main CPU is the Sega Mega Drive / Sega Genesis?
- 1. Motorola 68000
- 2. Zilog Z80
- 3. Yamaha YM2612
- 4. Intel 8088
+All of the following programs are classified as raster graphics editors EXCEPT:
+ 1. GIMP
+ 2. Inkscape
+ 3. Adobe Photoshop
+ 4. Paint.NET
 
 <details>
   <summary>Answer</summary>
-  Motorola 68000
+  Inkscape
 </details>
 
 
