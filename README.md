@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did Michael Jackson name his denim store?    Billy Jeans!
+Why are fish so smart? Because they live in schools!
 
 
 ## Daily Trivia
 
-Which of these people was NOT a founder of Apple Inc?
- 1. Steve Jobs
- 2. Ronald Wayne
- 3. Steve Wozniak
- 4. Jonathan Ive
+When Gmail first launched, how much storage did it provide for your email?
+ 1. Unlimited
+ 2. 5GB
+ 3. 1GB
+ 4. 512MB
 
 <details>
   <summary>Answer</summary>
-  Jonathan Ive
+  1GB
 </details>
 
 
