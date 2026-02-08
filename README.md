@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-When is a door not a door? When it's ajar.
+I used to have a job at a calendar factory but I got the sack because I took a couple of days off.
 
 
 ## Daily Trivia
 
-All of the following programs are classified as raster graphics editors EXCEPT:
- 1. GIMP
- 2. Inkscape
- 3. Adobe Photoshop
- 4. Paint.NET
+In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
+ 1. console.log(&quot;Hello World&quot;)
+ 2. echo &quot;Hello World&quot;
+ 3. print(&quot;Hello World&quot;)
+ 4. printf(&quot;Hello World&quot;)
 
 <details>
   <summary>Answer</summary>
-  Inkscape
+  print(&quot;Hello World&quot;)
 </details>
 
 
