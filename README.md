@@ -4,20 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do scuba divers fall backwards into the water? Because if they fell forwards they’d still be in the boat.
+ I never wanted to believe that my Dad was stealing from his job as a road worker. But when I got home, all the signs were there.
+
+
 
 
 ## Daily Trivia
 
-What does the computer software acronym JVM stand for?
- 1. Java Visual Machine
- 2. Just Virtual Machine
- 3. Java Vendor Machine
- 4. Java Virtual Machine
+In programming, the ternary operator is mostly defined with what symbol(s)?
+ 1. ?
+ 2. ??
+ 3. ?:
+ 4. if then
 
 <details>
   <summary>Answer</summary>
-  Java Virtual Machine
+  ?:
 </details>
 
 
