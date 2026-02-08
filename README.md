@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Without geometry life is pointless.
+What did the pirate say on his 80th birthday? Aye Matey!
 
 
 ## Daily Trivia
 
-America Online (AOL) started out as which of these online service providers?
- 1. CompuServe
- 2. Quantum Link
- 3. Prodigy
- 4. GEnie
+Which of the following is the oldest of these computers by release date?
+ 1. ZX Spectrum
+ 2. Commodore 64
+ 3. Apple 3
+ 4. TRS-80
 
 <details>
   <summary>Answer</summary>
-  Quantum Link
+  TRS-80
 </details>
 
 
