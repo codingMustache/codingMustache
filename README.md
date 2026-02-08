@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My cat was just sick on the carpet, I don’t think it’s feline well.
+For Valentine's day, I decided to get my wife some beads for an abacus.  It's the little things that count.
 
 
 ## Daily Trivia
 
-Which of the following physical typologies are used with Ethernet Networks?
- 1. Star
- 2. Hex
- 3. Mesh
- 4. Ring
+Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
+ 1. JavaScript
+ 2. Python
+ 3. PHP
+ 4. C#
 
 <details>
   <summary>Answer</summary>
-  Star
+  JavaScript
 </details>
 
 
