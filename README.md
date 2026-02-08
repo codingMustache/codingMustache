@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is the leading cause of dry skin? Towels
+Leather is great for sneaking around because it's made of hide.
 
 
 ## Daily Trivia
 
-How long is an IPv6 address?
- 1. 128 bytes
- 2. 32 bits
- 3. 64 bits
- 4. 128 bits
+In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
+ 1. Static
+ 2. Public
+ 3. Final
+ 4. Private
 
 <details>
   <summary>Answer</summary>
-  128 bits
+  Final
 </details>
 
 
