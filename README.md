@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-In my career as a lumberjack I cut down exactly 52,487 trees. I know because I kept a log.
+Hostess: Do you have a preference of where you sit?
+Dad: Down.
 
 
 ## Daily Trivia
 
-All of the following programs are classified as raster graphics editors EXCEPT:
- 1. Adobe Photoshop
- 2. Inkscape
- 3. GIMP
- 4. Paint.NET
+Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
+ 1. 32.0 kHz
+ 2. 1.5 MHz
+ 3. 20.5 kHz
+ 4. 44.1 kHz
 
 <details>
   <summary>Answer</summary>
-  Inkscape
+  44.1 kHz
 </details>
 
 
