@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-There's not really any training for garbagemen. They just pick things up as they go.
+Have you heard the story about the magic tractor? It drove down the road and turned into a field.
 
 
 ## Daily Trivia
 
-Which of the following is the oldest of these computers by release date?
- 1. ZX Spectrum
- 2. Commodore 64
- 3. TRS-80
- 4. Apple 3
+What does the International System of Quantities refer 1024 bytes as?
+ 1. Kelobyte
+ 2. Kilobyte
+ 3. Kylobyte
+ 4. Kibibyte
 
 <details>
   <summary>Answer</summary>
-  TRS-80
+  Kibibyte
 </details>
 
 
