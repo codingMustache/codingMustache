@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you fix a broken pizza? With tomato paste.
+There's not really any training for garbagemen. They just pick things up as they go.
 
 
 ## Daily Trivia
 
-If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
- 1. Python
- 2. C++
- 3. Binary
- 4. JavaScript
+Which of the following is the oldest of these computers by release date?
+ 1. ZX Spectrum
+ 2. Commodore 64
+ 3. TRS-80
+ 4. Apple 3
 
 <details>
   <summary>Answer</summary>
-  Binary
+  TRS-80
 </details>
 
 
