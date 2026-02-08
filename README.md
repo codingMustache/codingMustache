@@ -4,22 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
- I never wanted to believe that my Dad was stealing from his job as a road worker. But when I got home, all the signs were there.
-
-
+Why can’t you hear a pterodactyl go to the bathroom? The p is silent.
 
 
 ## Daily Trivia
 
-In programming, the ternary operator is mostly defined with what symbol(s)?
- 1. ?
- 2. ??
- 3. ?:
- 4. if then
+When Gmail first launched, how much storage did it provide for your email?
+ 1. 512MB
+ 2. 1GB
+ 3. 5GB
+ 4. Unlimited
 
 <details>
   <summary>Answer</summary>
-  ?:
+  1GB
 </details>
 
 
