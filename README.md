@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Milk is also the fastest liquid on earth – its pasteurized before you even see it
+What do prisoners use to call each other? Cell phones.
 
 
 ## Daily Trivia
 
-In computing terms, typically what does CLI stand for?
- 1. Command Line Interface
- 2. Common Language Input
- 3. Control Line Interface
- 4. Common Language Interface
+What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
+ 1. ADPCM Sampler
+ 2. FM Synthesizer
+ 3. Programmable Sound Generator (PSG)
+ 4. PCM Sampler
 
 <details>
   <summary>Answer</summary>
-  Command Line Interface
+  ADPCM Sampler
 </details>
 
 
