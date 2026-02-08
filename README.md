@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is the least spoken language in the world?
-Sign Language
+What's the difference between roast beef and pea soup. Anyone can roast beef, but nobody can pee soup.
 
 
 ## Daily Trivia
 
-Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
- 1. 32.0 kHz
- 2. 1.5 MHz
- 3. 20.5 kHz
- 4. 44.1 kHz
+What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
+ 1. PCM Sampler
+ 2. ADPCM Sampler
+ 3. Programmable Sound Generator (PSG)
+ 4. FM Synthesizer
 
 <details>
   <summary>Answer</summary>
-  44.1 kHz
+  ADPCM Sampler
 </details>
 
 
