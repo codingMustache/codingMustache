@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the submarine industry? It really took a dive...
+What is this movie about? It is about 2 hours long.
 
 
 ## Daily Trivia
 
-While Apple was formed in California, in which western state was Microsoft founded?
- 1. Washington
- 2. Colorado
- 3. Arizona
- 4. New Mexico
+What does the Prt Sc button do?
+ 1. Captures what&#039;s on the screen and copies it to your clipboard
+ 2. Nothing
+ 3. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
+ 4. Closes all windows
 
 <details>
   <summary>Answer</summary>
-  New Mexico
+  Captures what&#039;s on the screen and copies it to your clipboard
 </details>
 
 
