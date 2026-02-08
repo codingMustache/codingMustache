@@ -4,21 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Hostess: Do you have a preference of where you sit?
-Dad: Down.
+What do you call a monkey in a mine field? A babooooom!
+
 
 
 ## Daily Trivia
 
-Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
- 1. 32.0 kHz
- 2. 1.5 MHz
- 3. 20.5 kHz
- 4. 44.1 kHz
+Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
+ 1. C#
+ 2. JavaScript
+ 3. PHP
+ 4. Python
 
 <details>
   <summary>Answer</summary>
-  44.1 kHz
+  JavaScript
 </details>
 
 
