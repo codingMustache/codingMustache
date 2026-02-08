@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the miner get fired from his job? He took it for granite...
+I got fired from the transmission factor, turns out I didn't put on enough shifts...
 
 
 ## Daily Trivia
 
-How many bits make up the significand portion of a single precision floating point number?
- 1. 23
- 2. 15
- 3. 53
- 4. 8
+The Harvard architecture for micro-controllers added which additional bus?
+ 1. Control
+ 2. Instruction
+ 3. Address
+ 4. Data
 
 <details>
   <summary>Answer</summary>
-  23
+  Instruction
 </details>
 
 
