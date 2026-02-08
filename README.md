@@ -4,14 +4,14 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I was wondering why the frisbee was getting bigger, then it hit me.
+People who don't eat gluten are really going against the grain.
 
 
 ## Daily Trivia
 
 Which one of these is not an official development name for a Ubuntu release?
- 1. Trusty Tahr
- 2. Mystic Mansion
+ 1. Mystic Mansion
+ 2. Trusty Tahr
  3. Utopic Unicorn
  4. Wily Werewolf
 
