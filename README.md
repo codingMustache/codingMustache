@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the difference between roast beef and pea soup. Anyone can roast beef, but nobody can pee soup.
+Without geometry life is pointless.
 
 
 ## Daily Trivia
 
-What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
- 1. PCM Sampler
- 2. ADPCM Sampler
- 3. Programmable Sound Generator (PSG)
- 4. FM Synthesizer
+America Online (AOL) started out as which of these online service providers?
+ 1. CompuServe
+ 2. Quantum Link
+ 3. Prodigy
+ 4. GEnie
 
 <details>
   <summary>Answer</summary>
-  ADPCM Sampler
+  Quantum Link
 </details>
 
 
