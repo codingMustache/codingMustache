@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I have kleptomania, but when it gets bad, I take something for it.
+Why do scuba divers fall backwards into the water? Because if they fell forwards they’d still be in the boat.
 
 
 ## Daily Trivia
 
-On which computer hardware device is the BIOS chip located?
- 1. Central Processing Unit
- 2. Hard Disk Drive
- 3. Graphics Processing Unit
- 4. Motherboard
+What does the computer software acronym JVM stand for?
+ 1. Java Visual Machine
+ 2. Just Virtual Machine
+ 3. Java Vendor Machine
+ 4. Java Virtual Machine
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  Java Virtual Machine
 </details>
 
 
