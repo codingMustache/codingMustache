@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Have you heard the story about the magic tractor? It drove down the road and turned into a field.
+What do you call a nervous javelin thrower? Shakespeare.
 
 
 ## Daily Trivia
 
-What does the International System of Quantities refer 1024 bytes as?
- 1. Kelobyte
- 2. Kilobyte
- 3. Kylobyte
- 4. Kibibyte
+The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
+ 1. HD Graphics 700 
+ 2. HD Graphics 500
+ 3. HD Graphics 7000
+ 4. HD Graphics 600
 
 <details>
   <summary>Answer</summary>
-  Kibibyte
+  HD Graphics 500
 </details>
 
 
