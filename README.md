@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the man put his money in the freezer? He wanted cold hard cash!
+As I suspected, someone has been adding soil to my garden. The plot thickens.
 
 
 ## Daily Trivia
 
-When was the programming language &quot;C#&quot; released?
- 1. 1998
- 2. 1999
- 3. 2000
- 4. 2001
+Which of the following is the oldest of these computers by release date?
+ 1. ZX Spectrum
+ 2. TRS-80
+ 3. Commodore 64
+ 4. Apple 3
 
 <details>
   <summary>Answer</summary>
-  2000
+  TRS-80
 </details>
 
 
