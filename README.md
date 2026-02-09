@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A dad washes his car with his son. But after a while, the son says, "why can't you just use a sponge?"
+My new thesaurus is terrible. In fact, it's so bad, I'd say it's terrible.
 
 
 ## Daily Trivia
 
-In computing terms, typically what does CLI stand for?
- 1. Control Line Interface
- 2. Common Language Input
- 3. Common Language Interface
- 4. Command Line Interface
+Nvidia&#039;s headquarters are based in which Silicon Valley city?
+ 1. Mountain View
+ 2. Cupertino
+ 3. Palo Alto
+ 4. Santa Clara
 
 <details>
   <summary>Answer</summary>
-  Command Line Interface
+  Santa Clara
 </details>
 
 
