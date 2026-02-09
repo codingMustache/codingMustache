@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call an old snowman? Water.
+Why did the knife dress up in a suit? Because it wanted to look sharp
 
 
 ## Daily Trivia
 
-Which programming language was developed by Sun Microsystems in 1995?
- 1. Java
- 2. C++
- 3. Solaris OS
- 4. Python
+Whistler was the codename of this Microsoft Operating System.
+ 1. Windows 2000
+ 2. Windows XP
+ 3. Windows 7
+ 4. Windows 95
 
 <details>
   <summary>Answer</summary>
-  Java
+  Windows XP
 </details>
 
 
