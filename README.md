@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A quick shoutout to all of the sidewalks out there... Thanks for keeping me off the streets.
+Why couldn't the lifeguard save the hippie? He was too far out, man.
 
 
 ## Daily Trivia
 
-What does the term GPU stand for?
- 1. Gaming Processor Unit
- 2. Graphics Processing Unit
- 3. Graphite Producing Unit
- 4. Graphical Proprietary Unit
+Which of these programming languages is a low-level language?
+ 1. Pascal
+ 2. Assembly
+ 3. Python
+ 4. C#
 
 <details>
   <summary>Answer</summary>
-  Graphics Processing Unit
+  Assembly
 </details>
 
 
