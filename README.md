@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is bread's favorite number?  Leaven.
+What did the scarf say to the hat? You go on ahead, I am going to hang around a bit longer.
 
 
 ## Daily Trivia
 
-What port does HTTP run on?
- 1. 23
- 2. 443
- 3. 80
- 4. 53
+What is the name of the process that sends one qubit of information using two bits of classical information?
+ 1. Quantum Teleportation
+ 2. Quantum Entanglement
+ 3. Super Dense Coding
+ 4. Quantum Programming
 
 <details>
   <summary>Answer</summary>
-  80
+  Quantum Teleportation
 </details>
 
 
