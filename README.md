@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-If you want a job in the moisturizer industry, the best advice I can give is to apply daily.
+I saw my husband trip and fall while carrying a laundry basket full of ironed clothes. I watched it all unfold.
 
 
 ## Daily Trivia
 
-Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
- 1. Apple
- 2. Commodore
- 3. Atari
- 4. Microsoft
+In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
+ 1. &lt;move&gt;&lt;/move&gt;
+ 2. &lt;slide&gt;&lt;/slide&gt;
+ 3. &lt;marquee&gt;&lt;/marquee&gt;
+ 4. &lt;scroll&gt;&lt;/scroll&gt;
 
 <details>
   <summary>Answer</summary>
-  Apple
+  &lt;marquee&gt;&lt;/marquee&gt;
 </details>
 
 
