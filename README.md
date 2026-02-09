@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Me and my mates are in a band called Duvet. We're a cover band.
+What is bread's favorite number?  Leaven.
 
 
 ## Daily Trivia
 
-In computing terms, typically what does CLI stand for?
- 1. Common Language Interface
- 2. Control Line Interface
- 3. Common Language Input
- 4. Command Line Interface
+What port does HTTP run on?
+ 1. 23
+ 2. 443
+ 3. 80
+ 4. 53
 
 <details>
   <summary>Answer</summary>
-  Command Line Interface
+  80
 </details>
 
 
