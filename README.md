@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I’m on a whiskey diet. I’ve lost three days already.
+How many tickles does it take to tickle an octopus? Ten-tickles!
 
 
 ## Daily Trivia
 
-America Online (AOL) started out as which of these online service providers?
- 1. CompuServe
- 2. Prodigy
- 3. GEnie
- 4. Quantum Link
+What does RAID stand for?
+ 1. Redundant Array of Independent Disks
+ 2. Randomized Abstract Identification Description
+ 3. Range of Applications with Identical Designs
+ 4. Rapid Access for Indexed Devices
 
 <details>
   <summary>Answer</summary>
-  Quantum Link
+  Redundant Array of Independent Disks
 </details>
 
 
