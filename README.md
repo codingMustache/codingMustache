@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-People saying 'boo! to their friends has risen by 85% in the last year.... That's a frightening statistic.
+I used to be a banker, but I lost interest.
 
 
 ## Daily Trivia
 
-In the server hosting industry IaaS stands for...
- 1. Internet as a Service
- 2. Internet and a Server
- 3. Infrastructure as a Server
- 4. Infrastructure as a Service
+How many Hz does the video standard PAL support?
+ 1. 50
+ 2. 25
+ 3. 60
+ 4. 59
 
 <details>
   <summary>Answer</summary>
-  Infrastructure as a Service
+  50
 </details>
 
 
