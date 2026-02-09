@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the melons plan a big wedding? Because they cantaloupe!
+“Doctor, I’ve broken my arm in several places” Doctor “Well don’t go to those places.”
 
 
 ## Daily Trivia
 
-Which of the following is a personal computer made by the Japanese company Fujitsu?
- 1. PC-9801
- 2. MSX
- 3. Xmillennium 
- 4. FM-7
+What does the term GPU stand for?
+ 1. Graphite Producing Unit
+ 2. Graphics Processing Unit
+ 3. Gaming Processor Unit
+ 4. Graphical Proprietary Unit
 
 <details>
   <summary>Answer</summary>
-  FM-7
+  Graphics Processing Unit
 </details>
 
 
