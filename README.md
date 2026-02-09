@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you make a water bed more bouncy. You use Spring Water
+A quick shoutout to all of the sidewalks out there... Thanks for keeping me off the streets.
 
 
 ## Daily Trivia
 
-In programming, what do you call functions with the same name but different implementations?
- 1. Overriding
- 2. Abstracting
- 3. Inheriting
- 4. Overloading
+What does the term GPU stand for?
+ 1. Gaming Processor Unit
+ 2. Graphics Processing Unit
+ 3. Graphite Producing Unit
+ 4. Graphical Proprietary Unit
 
 <details>
   <summary>Answer</summary>
-  Overloading
+  Graphics Processing Unit
 </details>
 
 
