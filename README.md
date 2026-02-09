@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did one plate say to the other plate? Dinner is on me!
+Did you hear about the two thieves who stole a calendar? They each got six months.
 
 
 ## Daily Trivia
 
-What does &quot;LCD&quot; stand for?
- 1. Liquid Crystal Display
- 2. Long Continuous Design
- 3. Last Common Difference
- 4. Language Control Design
+In programming, what do you call functions with the same name but different implementations?
+ 1. Overriding
+ 2. Inheriting
+ 3. Abstracting
+ 4. Overloading
 
 <details>
   <summary>Answer</summary>
-  Liquid Crystal Display
+  Overloading
 </details>
 
 
