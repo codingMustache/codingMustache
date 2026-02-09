@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Waking up this morning was an eye-opening experience.
+Why don’t seagulls fly over the bay? Because then they’d be bay-gulls!
 
 
 ## Daily Trivia
 
-Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
- 1. Microsoft
- 2. Atari
- 3. Commodore
- 4. Apple
+What language does Node.js use?
+ 1. JavaScript
+ 2. Joomla Source Code
+ 3. Java Source
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  Apple
+  JavaScript
 </details>
 
 
