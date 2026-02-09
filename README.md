@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I got fired from the transmission factor, turns out I didn't put on enough shifts...
+Did you hear about the chameleon who couldn't change color? They had a reptile dysfunction.
 
 
 ## Daily Trivia
 
-The Harvard architecture for micro-controllers added which additional bus?
- 1. Control
- 2. Instruction
- 3. Address
- 4. Data
+How many Hz does the video standard PAL support?
+ 1. 25
+ 2. 50
+ 3. 60
+ 4. 59
 
 <details>
   <summary>Answer</summary>
-  Instruction
+  50
 </details>
 
 
