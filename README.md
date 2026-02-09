@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why couldn't the lifeguard save the hippie? He was too far out, man.
+Why did the melons plan a big wedding? Because they cantaloupe!
 
 
 ## Daily Trivia
 
-Which of these programming languages is a low-level language?
- 1. Pascal
- 2. Assembly
- 3. Python
- 4. C#
+Which of the following is a personal computer made by the Japanese company Fujitsu?
+ 1. PC-9801
+ 2. MSX
+ 3. Xmillennium 
+ 4. FM-7
 
 <details>
   <summary>Answer</summary>
-  Assembly
+  FM-7
 </details>
 
 
