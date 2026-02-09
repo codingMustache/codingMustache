@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many apples grow on a tree? All of them!
+What do you call a boomerang that won't come back? A stick.
 
 
 ## Daily Trivia
 
-The Harvard architecture for micro-controllers added which additional bus?
- 1. Data
- 2. Address
- 3. Instruction
- 4. Control
+What does the &#039;S&#039; in the RSA encryption algorithm stand for?
+ 1. Shamir
+ 2. Secure
+ 3. Schottky
+ 4. Stable
 
 <details>
   <summary>Answer</summary>
-  Instruction
+  Shamir
 </details>
 
 
