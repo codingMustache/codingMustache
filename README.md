@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-People who don't eat gluten are really going against the grain.
+How many apples grow on a tree? All of them!
 
 
 ## Daily Trivia
 
-What is the main CPU is the Sega Mega Drive / Sega Genesis?
- 1. Zilog Z80
- 2. Yamaha YM2612
- 3. Intel 8088
- 4. Motorola 68000
+The Harvard architecture for micro-controllers added which additional bus?
+ 1. Data
+ 2. Address
+ 3. Instruction
+ 4. Control
 
 <details>
   <summary>Answer</summary>
-  Motorola 68000
+  Instruction
 </details>
 
 
