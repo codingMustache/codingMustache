@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A red and a blue ship have just collided in the Caribbean. Apparently the survivors are marooned.
+The first time I got a universal remote control I thought to myself, "This changes everything"
 
 
 ## Daily Trivia
 
-While Apple was formed in California, in which western state was Microsoft founded?
- 1. New Mexico
- 2. Arizona
- 3. Colorado
- 4. Washington
+Which of the following physical typologies are used with Ethernet Networks?
+ 1. Hex
+ 2. Mesh
+ 3. Ring
+ 4. Star
 
 <details>
   <summary>Answer</summary>
-  New Mexico
+  Star
 </details>
 
 
