@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I saw my husband trip and fall while carrying a laundry basket full of ironed clothes. I watched it all unfold.
+What do you call an old snowman? Water.
 
 
 ## Daily Trivia
 
-In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
- 1. &lt;move&gt;&lt;/move&gt;
- 2. &lt;slide&gt;&lt;/slide&gt;
- 3. &lt;marquee&gt;&lt;/marquee&gt;
- 4. &lt;scroll&gt;&lt;/scroll&gt;
+Which programming language was developed by Sun Microsystems in 1995?
+ 1. Java
+ 2. C++
+ 3. Solaris OS
+ 4. Python
 
 <details>
   <summary>Answer</summary>
-  &lt;marquee&gt;&lt;/marquee&gt;
+  Java
 </details>
 
 
