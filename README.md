@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-In the news a courtroom artist was arrested today, I'm not surprised, he always seemed sketchy.
+A weasel walks into a bar. The bartender says, "Wow, I've never served a weasel before. What can I get for you?"
+"Pop," goes the weasel.
 
 
 ## Daily Trivia
 
-What does the term MIME stand for, in regards to computing?
- 1. Multipurpose Interleave Mail Exchange
- 2. Multipurpose Internet Mail Extensions
- 3. Mail Internet Mail Exchange
- 4. Mail Interleave Method Exchange
+What does the computer software acronym JVM stand for?
+ 1. Just Virtual Machine
+ 2. Java Virtual Machine
+ 3. Java Visual Machine
+ 4. Java Vendor Machine
 
 <details>
   <summary>Answer</summary>
-  Multipurpose Internet Mail Extensions
+  Java Virtual Machine
 </details>
 
 
