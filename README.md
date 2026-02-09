@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Got a new suit recently made entirely of living plants. I wasn’t sure at first, but it’s grown on me
+What do you call two guys hanging out by your window? Kurt & Rod.
 
 
 ## Daily Trivia
 
-According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:
- 1. A&#039;B&#039;
- 2. A&#039;B + B&#039;A
- 3. AB&#039; + AB
- 4. A&#039; + B&#039;
+The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
+ 1. Germany
+ 2. Taiwan
+ 3. United States
+ 4. China (People&#039;s Republic of)
 
 <details>
   <summary>Answer</summary>
-  A&#039; + B&#039;
+  Taiwan
 </details>
 
 
