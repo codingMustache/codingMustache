@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Slept like a log last night … woke up in the fireplace.
+How come a man driving a train got struck by lightning? He was a good conductor.
 
 
 ## Daily Trivia
 
-If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
- 1. Python
- 2. Binary
- 3. JavaScript
- 4. C++
+What does LTS stand for in the software market?
+ 1. Ludicrous Turbo Speed
+ 2. Long Term Support
+ 3. Ludicrous Transfer Speed
+ 4. Long Taco Service
 
 <details>
   <summary>Answer</summary>
-  Binary
+  Long Term Support
 </details>
 
 
