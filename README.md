@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is the tallest building in the world? The library – it’s got the most stories!
+A Sandwich walks into a bar, the bartender says “Sorry, we don’t serve food here”
 
 
 ## Daily Trivia
 
-What is the main CPU is the Sega Mega Drive / Sega Genesis?
- 1. Zilog Z80
- 2. Yamaha YM2612
- 3. Intel 8088
- 4. Motorola 68000
+Approximately how many Apple I personal computers were created?
+ 1. 1000
+ 2. 200
+ 3. 500
+ 4. 100
 
 <details>
   <summary>Answer</summary>
-  Motorola 68000
+  200
 </details>
 
 
