@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the chameleon who couldn't change color? They had a reptile dysfunction.
+Dermatologists are always in a hurry. They spend all day making rash decisions. 
 
 
 ## Daily Trivia
 
-How many Hz does the video standard PAL support?
- 1. 25
- 2. 50
- 3. 60
- 4. 59
+Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
+ 1. 32.0 kHz
+ 2. 1.5 MHz
+ 3. 20.5 kHz
+ 4. 44.1 kHz
 
 <details>
   <summary>Answer</summary>
-  50
+  44.1 kHz
 </details>
 
 
