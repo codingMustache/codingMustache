@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later.
+In the news a courtroom artist was arrested today, I'm not surprised, he always seemed sketchy.
 
 
 ## Daily Trivia
 
-When Gmail first launched, how much storage did it provide for your email?
- 1. 1GB
- 2. Unlimited
- 3. 5GB
- 4. 512MB
+What does the term MIME stand for, in regards to computing?
+ 1. Multipurpose Interleave Mail Exchange
+ 2. Multipurpose Internet Mail Extensions
+ 3. Mail Internet Mail Exchange
+ 4. Mail Interleave Method Exchange
 
 <details>
   <summary>Answer</summary>
-  1GB
+  Multipurpose Internet Mail Extensions
 </details>
 
 
