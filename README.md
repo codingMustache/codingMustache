@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A weasel walks into a bar. The bartender says, "Wow, I've never served a weasel before. What can I get for you?"
-"Pop," goes the weasel.
+A dad washes his car with his son. But after a while, the son says, "why can't you just use a sponge?"
 
 
 ## Daily Trivia
 
-What does the computer software acronym JVM stand for?
- 1. Just Virtual Machine
- 2. Java Virtual Machine
- 3. Java Visual Machine
- 4. Java Vendor Machine
+In computing terms, typically what does CLI stand for?
+ 1. Control Line Interface
+ 2. Common Language Input
+ 3. Common Language Interface
+ 4. Command Line Interface
 
 <details>
   <summary>Answer</summary>
-  Java Virtual Machine
+  Command Line Interface
 </details>
 
 
