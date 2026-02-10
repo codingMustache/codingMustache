@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call two guys hanging out by your window? Kurt & Rod.
+What is a tornado's favorite game to play? Twister!
 
 
 ## Daily Trivia
 
-Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
- 1. Shellshock
- 2. Corrupted Blood
- 3. Heartbleed
- 4. Shellscript
+Which of the following is the oldest of these computers by release date?
+ 1. Commodore 64
+ 2. TRS-80
+ 3. Apple 3
+ 4. ZX Spectrum
 
 <details>
   <summary>Answer</summary>
-  Heartbleed
+  TRS-80
 </details>
 
 
