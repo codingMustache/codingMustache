@@ -4,24 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Me: If humans lose the ability to hear high frequency volumes as they get older, can my 4 week old son hear a dog whistle?
+What's large, grey, and doesn't matter?
+An irrelephant.
 
-Doctor: No, humans can never hear that high of a frequency no matter what age they are.
-
-Me: Trick question... dogs can't whistle.
 
 
 ## Daily Trivia
 
-Which RAID array type is associated with data mirroring?
- 1. RAID 0
- 2. RAID 10
- 3. RAID 5
- 4. RAID 1
+What was the name given to Android 4.3?
+ 1. Froyo
+ 2. Nutella
+ 3. Lollipop
+ 4. Jelly Bean
 
 <details>
   <summary>Answer</summary>
-  RAID 1
+  Jelly Bean
 </details>
 
 
