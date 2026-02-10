@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was the broom late for the meeting? He overswept.
+I was at the library and asked if they have any books on "paranoia", the librarian replied, "yes, they are right behind you"
 
 
 ## Daily Trivia
 
-Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
- 1. PHP
- 2. Python
- 3. JavaScript
- 4. C#
+In any programming language, what is the most common way to iterate through an array?
+ 1. &#039;While&#039; loops
+ 2. &#039;Do-while&#039; loops
+ 3. &#039;For&#039; loops
+ 4. &#039;If&#039; Statements
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  &#039;For&#039; loops
 </details>
 
 
