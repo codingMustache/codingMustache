@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the sea say to the sand? "We have to stop meeting like this."
+I am so good at sleeping I can do it with my eyes closed!
 
 
 ## Daily Trivia
 
-What is the number of keys on a standard Windows Keyboard?
- 1. 76
- 2. 104
- 3. 64
- 4. 94
+The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
+ 1. Acorn Computers
+ 2. Sinclair Research
+ 3. Amstrad PLC
+ 4. Commodore Business Machines
 
 <details>
   <summary>Answer</summary>
-  104
+  Acorn Computers
 </details>
 
 
