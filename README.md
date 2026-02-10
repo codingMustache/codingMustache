@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the burglar hang his mugshot on the wall? To prove that he was framed!
+What did the ocean say to the beach? Thanks for all the sediment.
 
 
 ## Daily Trivia
 
-HTML is what type of language?
- 1. Scripting Language
- 2. Programming Language
- 3. Macro Language
- 4. Markup Language
+What is known as &quot;the brain&quot; of the Computer?
+ 1. Motherboard
+ 2. Graphics Processing Unit
+ 3. Keyboard
+ 4. Central Processing Unit
 
 <details>
   <summary>Answer</summary>
-  Markup Language
+  Central Processing Unit
 </details>
 
 
