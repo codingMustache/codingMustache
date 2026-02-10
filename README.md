@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you get when you cross a bee and a sheep? A bah-humbug.
-
+I’ll tell you something about German sausages, they’re the wurst
 
 
 ## Daily Trivia
 
-Which of the following languages is used as a scripting language in the Unity 3D game engine?
- 1. C#
- 2. Java
- 3. C++
- 4. Objective-C
+What is the most preferred image format used for logos in the Wikimedia database?
+ 1. .jpeg
+ 2. .png
+ 3. .gif
+ 4. .svg
 
 <details>
   <summary>Answer</summary>
-  C#
+  .svg
 </details>
 
 
