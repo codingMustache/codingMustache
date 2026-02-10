@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the mountain climber name his son? Cliff.
+A farmer had 297 cows, when he rounded them up, he found he had 300
 
 
 ## Daily Trivia
 
-In computing, what does LAN stand for?
- 1. Land Address Navigation
- 2. Light Access Node
- 3. Long Antenna Node
- 4. Local Area Network
+Unix Time is defined as the number of seconds that have elapsed since when?
+ 1. Midnight on the creator of Unix&#039;s birthday
+ 2. Midnight, July 4, 1976
+ 3. Midnight, July 4, 1980
+ 4. Midnight, January 1, 1970
 
 <details>
   <summary>Answer</summary>
-  Local Area Network
+  Midnight, January 1, 1970
 </details>
 
 
