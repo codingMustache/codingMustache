@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Past, present, and future walked into a bar.... It was tense.
+How do hens stay fit? They always egg-cercise!
 
 
 ## Daily Trivia
 
-Which of the following is NOT a computer science algorithm?
- 1. Bubble Sort
- 2. Quick Sort
- 3. Float Sort
- 4. Merge Sort
+Which data structure does FILO apply to?
+ 1. Queue
+ 2. Heap
+ 3. Tree
+ 4. Stack
 
 <details>
   <summary>Answer</summary>
-  Float Sort
+  Stack
 </details>
 
 
