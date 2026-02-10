@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is a tornado's favorite game to play? Twister!
+How does a scientist freshen their breath? With experi-mints!
 
 
 ## Daily Trivia
 
-Which computer language would you associate Django framework with?
- 1. Python
- 2. Java
- 3. C++
- 4. C#
+.rs is the top-level domain for what country?
+ 1. Rwanda
+ 2. Russia
+ 3. Romania
+ 4. Serbia
 
 <details>
   <summary>Answer</summary>
-  Python
+  Serbia
 </details>
 
 
