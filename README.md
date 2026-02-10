@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do rabbits go after they get married? On a bunny-moon.
+"Hey, dad, did you get a haircut?" "No, I got them all cut."
 
 
 ## Daily Trivia
 
-How many bits make up the significand portion of a single precision floating point number?
- 1. 8
- 2. 53
- 3. 15
- 4. 23
+Which computer language would you associate Django framework with?
+ 1. Java
+ 2. C++
+ 3. Python
+ 4. C#
 
 <details>
   <summary>Answer</summary>
-  23
+  Python
 </details>
 
 
