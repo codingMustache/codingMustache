@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the fish say when it swam into a wall? Damn!
+I thought about going on an all-almond diet. But that's just nuts.
 
 
 ## Daily Trivia
 
-What does the term GPU stand for?
- 1. Graphite Producing Unit
- 2. Graphical Proprietary Unit
- 3. Graphics Processing Unit
- 4. Gaming Processor Unit
+What does the term MIME stand for, in regards to computing?
+ 1. Mail Internet Mail Exchange
+ 2. Multipurpose Internet Mail Extensions
+ 3. Multipurpose Interleave Mail Exchange
+ 4. Mail Interleave Method Exchange
 
 <details>
   <summary>Answer</summary>
-  Graphics Processing Unit
+  Multipurpose Internet Mail Extensions
 </details>
 
 
