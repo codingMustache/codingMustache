@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I’ll tell you something about German sausages, they’re the wurst
+What do you call an old snowman? Water.
 
 
 ## Daily Trivia
 
-What is the most preferred image format used for logos in the Wikimedia database?
- 1. .jpeg
- 2. .png
- 3. .gif
- 4. .svg
+Which SQL keyword is used to fetch data from a database?
+ 1. INDEX
+ 2. VALUES
+ 3. EXEC
+ 4. SELECT
 
 <details>
   <summary>Answer</summary>
-  .svg
+  SELECT
 </details>
 
 
