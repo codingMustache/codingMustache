@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call an old snowman? Water.
+A steak pun is a rare medium well done.
 
 
 ## Daily Trivia
 
-Which SQL keyword is used to fetch data from a database?
- 1. INDEX
- 2. VALUES
- 3. EXEC
- 4. SELECT
+What is the name of the default theme that is installed with Windows XP?
+ 1. Bliss
+ 2. Luna
+ 3. Whistler
+ 4. Neptune
 
 <details>
   <summary>Answer</summary>
-  SELECT
+  Luna
 </details>
 
 
