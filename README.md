@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why didn't the number 4 get into the nightclub? Because he is 2 square.
+Don't buy flowers at a monastery. Because only you can prevent florist friars.
 
 
 ## Daily Trivia
 
-The C programming language was created by this American computer scientist. 
- 1. Dennis Ritchie
- 2. Willis Ware
- 3. al-Khwārizmī
- 4. Tim Berners Lee
+What is the domain name for the country Tuvalu?
+ 1. .tv
+ 2. .tl
+ 3. .tt
+ 4. .tu
 
 <details>
   <summary>Answer</summary>
-  Dennis Ritchie
+  .tv
 </details>
 
 
