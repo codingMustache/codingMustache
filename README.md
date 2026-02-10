@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is a tornado's favorite game to play? Twister!
+What do you call a group of disorganized cats? A cat-tastrophe.
 
 
 ## Daily Trivia
 
-Which of the following is the oldest of these computers by release date?
- 1. Commodore 64
- 2. TRS-80
- 3. Apple 3
- 4. ZX Spectrum
+What does the acronym CDN stand for in terms of networking?
+ 1. Content Distribution Network
+ 2. Content Delivery Network
+ 3. Compressed Data Network
+ 4. Computational Data Network
 
 <details>
   <summary>Answer</summary>
-  TRS-80
+  Content Delivery Network
 </details>
 
 
