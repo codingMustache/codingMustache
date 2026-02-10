@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-They're making a movie about clocks. It's about time
+I ate a clock yesterday. It was so time consuming.
 
 
 ## Daily Trivia
 
-Which of these is not a key value of Agile software development?
- 1. Comprehensive documentation
- 2. Individuals and interactions
- 3. Customer collaboration
- 4. Responding to change
+Who is the original author of the realtime physics engine called PhysX?
+ 1. AMD
+ 2. Nvidia
+ 3. Ageia
+ 4. NovodeX
 
 <details>
   <summary>Answer</summary>
-  Comprehensive documentation
+  NovodeX
 </details>
 
 
