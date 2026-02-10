@@ -4,22 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's large, grey, and doesn't matter?
-An irrelephant.
-
+I knew a guy who collected candy canes, they were all in mint condition
 
 
 ## Daily Trivia
 
-What was the name given to Android 4.3?
- 1. Froyo
- 2. Nutella
- 3. Lollipop
- 4. Jelly Bean
+America Online (AOL) started out as which of these online service providers?
+ 1. Quantum Link
+ 2. GEnie
+ 3. Prodigy
+ 4. CompuServe
 
 <details>
   <summary>Answer</summary>
-  Jelly Bean
+  Quantum Link
 </details>
 
 
