@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the Zen Buddist say to the hotdog vendor? Make me one with everything.
+Why did the burglar hang his mugshot on the wall? To prove that he was framed!
 
 
 ## Daily Trivia
 
-The teapot often seen in many 3D modeling applications is called what?
- 1. Utah Teapot
- 2. Tennessee Teapot
- 3. 3D Teapot
- 4. Pixar Teapot
+HTML is what type of language?
+ 1. Scripting Language
+ 2. Programming Language
+ 3. Macro Language
+ 4. Markup Language
 
 <details>
   <summary>Answer</summary>
-  Utah Teapot
+  Markup Language
 </details>
 
 
