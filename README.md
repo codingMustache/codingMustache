@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I thought about going on an all-almond diet. But that's just nuts.
+You know what they say about cliffhangers...
 
 
 ## Daily Trivia
 
-What does the term MIME stand for, in regards to computing?
- 1. Mail Internet Mail Exchange
- 2. Multipurpose Internet Mail Extensions
- 3. Multipurpose Interleave Mail Exchange
- 4. Mail Interleave Method Exchange
+In web design, what does CSS stand for?
+ 1. Counter Strike: Source
+ 2. Corrective Style Sheet
+ 3. Computer Style Sheet
+ 4. Cascading Style Sheet
 
 <details>
   <summary>Answer</summary>
-  Multipurpose Internet Mail Extensions
+  Cascading Style Sheet
 </details>
 
 
