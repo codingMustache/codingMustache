@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What happens to a frog's car when it breaks down? It gets toad.
+Where do rabbits go after they get married? On a bunny-moon.
 
 
 ## Daily Trivia
 
-Which computer hardware device provides an interface for all other connected devices to communicate?
- 1. Motherboard
- 2. Central Processing Unit
- 3. Hard Disk Drive
- 4. Random Access Memory
+How many bits make up the significand portion of a single precision floating point number?
+ 1. 8
+ 2. 53
+ 3. 15
+ 4. 23
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  23
 </details>
 
 
