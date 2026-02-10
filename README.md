@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I ate a clock yesterday. It was so time consuming.
+What do you get when you cross a chicken with a skunk? A fowl smell!
 
 
 ## Daily Trivia
 
-Who is the original author of the realtime physics engine called PhysX?
- 1. AMD
- 2. Nvidia
- 3. Ageia
- 4. NovodeX
+The acronym &quot;RIP&quot; stands for which of these?
+ 1. Routing Information Protocol
+ 2. Regular Interval Processes
+ 3. Runtime Instance Processes
+ 4. Routine Inspection Protocol
 
 <details>
   <summary>Answer</summary>
-  NovodeX
+  Routing Information Protocol
 </details>
 
 
