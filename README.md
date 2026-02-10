@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I knew a guy who collected candy canes, they were all in mint condition
+What happens to a frog's car when it breaks down? It gets toad.
 
 
 ## Daily Trivia
 
-America Online (AOL) started out as which of these online service providers?
- 1. Quantum Link
- 2. GEnie
- 3. Prodigy
- 4. CompuServe
+Which computer hardware device provides an interface for all other connected devices to communicate?
+ 1. Motherboard
+ 2. Central Processing Unit
+ 3. Hard Disk Drive
+ 4. Random Access Memory
 
 <details>
   <summary>Answer</summary>
-  Quantum Link
+  Motherboard
 </details>
 
 
