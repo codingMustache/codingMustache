@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A steak pun is a rare medium well done.
+Why didn't the number 4 get into the nightclub? Because he is 2 square.
 
 
 ## Daily Trivia
 
-What is the name of the default theme that is installed with Windows XP?
- 1. Bliss
- 2. Luna
- 3. Whistler
- 4. Neptune
+The C programming language was created by this American computer scientist. 
+ 1. Dennis Ritchie
+ 2. Willis Ware
+ 3. al-Khwārizmī
+ 4. Tim Berners Lee
 
 <details>
   <summary>Answer</summary>
-  Luna
+  Dennis Ritchie
 </details>
 
 
