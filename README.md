@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a snake who builds houses? A boa constructor!
+What do you get when you cross a bee and a sheep? A bah-humbug.
+
 
 
 ## Daily Trivia
 
-What did the name of the Tor Anonymity Network orignially stand for?
- 1. The Only Router
- 2. The Orange Router
- 3. The Ominous Router
- 4. The Onion Router
+Which of the following languages is used as a scripting language in the Unity 3D game engine?
+ 1. C#
+ 2. Java
+ 3. C++
+ 4. Objective-C
 
 <details>
   <summary>Answer</summary>
-  The Onion Router
+  C#
 </details>
 
 
