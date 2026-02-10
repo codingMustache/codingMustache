@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-“Doctor, I’ve broken my arm in several places” Doctor “Well don’t go to those places.”
+What did the Zen Buddist say to the hotdog vendor? Make me one with everything.
 
 
 ## Daily Trivia
 
-What does the term GPU stand for?
- 1. Graphite Producing Unit
- 2. Graphics Processing Unit
- 3. Gaming Processor Unit
- 4. Graphical Proprietary Unit
+The teapot often seen in many 3D modeling applications is called what?
+ 1. Utah Teapot
+ 2. Tennessee Teapot
+ 3. 3D Teapot
+ 4. Pixar Teapot
 
 <details>
   <summary>Answer</summary>
-  Graphics Processing Unit
+  Utah Teapot
 </details>
 
 
