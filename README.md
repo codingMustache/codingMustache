@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A Skeleton walked into a bar he said I need a beer and a mop
+What did the sea say to the sand? "We have to stop meeting like this."
 
 
 ## Daily Trivia
 
-On which day did the World Wide Web go online?
- 1. November 12, 1990
- 2. December 17, 1996
- 3. November 24, 1995
- 4. December 20, 1990
+What is the number of keys on a standard Windows Keyboard?
+ 1. 76
+ 2. 104
+ 3. 64
+ 4. 94
 
 <details>
   <summary>Answer</summary>
-  December 20, 1990
+  104
 </details>
 
 
