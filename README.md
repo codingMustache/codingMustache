@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear the one about the guy with the broken hearing aid? Neither did he.
+Past, present, and future walked into a bar.... It was tense.
 
 
 ## Daily Trivia
 
-Unix Time is defined as the number of seconds that have elapsed since when?
- 1. Midnight, January 1, 1970
- 2. Midnight on the creator of Unix&#039;s birthday
- 3. Midnight, July 4, 1980
- 4. Midnight, July 4, 1976
+Which of the following is NOT a computer science algorithm?
+ 1. Bubble Sort
+ 2. Quick Sort
+ 3. Float Sort
+ 4. Merge Sort
 
 <details>
   <summary>Answer</summary>
-  Midnight, January 1, 1970
+  Float Sort
 </details>
 
 
