@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of dinosaur loves to sleep? A stega-snore-us.
+What do you call two guys hanging out by your window? Kurt & Rod.
 
 
 ## Daily Trivia
 
-What does the term GPU stand for?
- 1. Gaming Processor Unit
- 2. Graphite Producing Unit
- 3. Graphical Proprietary Unit
- 4. Graphics Processing Unit
+Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
+ 1. Shellshock
+ 2. Corrupted Blood
+ 3. Heartbleed
+ 4. Shellscript
 
 <details>
   <summary>Answer</summary>
-  Graphics Processing Unit
+  Heartbleed
 </details>
 
 
