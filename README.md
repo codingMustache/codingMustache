@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A man tried to sell me a coffin today. I told him that's the last thing I need.
+They're making a movie about clocks. It's about time
 
 
 ## Daily Trivia
 
-Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
- 1. Leopard
- 2. Cheetah
- 3. Tiger
- 4. Puma
+Which of these is not a key value of Agile software development?
+ 1. Comprehensive documentation
+ 2. Individuals and interactions
+ 3. Customer collaboration
+ 4. Responding to change
 
 <details>
   <summary>Answer</summary>
-  Cheetah
+  Comprehensive documentation
 </details>
 
 
