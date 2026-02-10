@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How does a scientist freshen their breath? With experi-mints!
+I don't trust stairs. They're always up to something.
 
 
 ## Daily Trivia
 
-.rs is the top-level domain for what country?
- 1. Rwanda
- 2. Russia
- 3. Romania
- 4. Serbia
+What language does Node.js use?
+ 1. Joomla Source Code
+ 2. Java Source
+ 3. JavaScript
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  Serbia
+  JavaScript
 </details>
 
 
