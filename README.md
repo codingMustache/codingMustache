@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do hens stay fit? They always egg-cercise!
+What is a tornado's favorite game to play? Twister!
 
 
 ## Daily Trivia
 
-Which data structure does FILO apply to?
- 1. Queue
- 2. Heap
- 3. Tree
- 4. Stack
+Which computer language would you associate Django framework with?
+ 1. Python
+ 2. Java
+ 3. C++
+ 4. C#
 
 <details>
   <summary>Answer</summary>
-  Stack
+  Python
 </details>
 
 
