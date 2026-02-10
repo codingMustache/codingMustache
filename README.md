@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-"Hey, dad, did you get a haircut?" "No, I got them all cut."
+How do robots eat guacamole? With computer chips.
 
 
 ## Daily Trivia
 
-Which computer language would you associate Django framework with?
- 1. Java
- 2. C++
- 3. Python
- 4. C#
+Which kind of algorithm is Ron Rivest not famous for creating?
+ 1. Asymmetric encryption
+ 2. Secret sharing scheme
+ 3. Hashing algorithm
+ 4. Stream cipher
 
 <details>
   <summary>Answer</summary>
-  Python
+  Secret sharing scheme
 </details>
 
 
