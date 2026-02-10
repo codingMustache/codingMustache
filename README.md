@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you get when you cross a chicken with a skunk? A fowl smell!
+What did the fish say when it swam into a wall? Damn!
 
 
 ## Daily Trivia
 
-The acronym &quot;RIP&quot; stands for which of these?
- 1. Routing Information Protocol
- 2. Regular Interval Processes
- 3. Runtime Instance Processes
- 4. Routine Inspection Protocol
+What does the term GPU stand for?
+ 1. Graphite Producing Unit
+ 2. Graphical Proprietary Unit
+ 3. Graphics Processing Unit
+ 4. Gaming Processor Unit
 
 <details>
   <summary>Answer</summary>
-  Routing Information Protocol
+  Graphics Processing Unit
 </details>
 
 
