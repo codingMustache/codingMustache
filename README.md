@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-When will the little snake arrive? I don't know but he won't be long...
+An apple a day keeps the bullies away. If you throw it hard enough.
 
 
 ## Daily Trivia
 
-Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
- 1. Puma
- 2. Tiger
- 3. Leopard
- 4. Cheetah
+Which computer hardware device provides an interface for all other connected devices to communicate?
+ 1. Motherboard
+ 2. Hard Disk Drive
+ 3. Central Processing Unit
+ 4. Random Access Memory
 
 <details>
   <summary>Answer</summary>
-  Cheetah
+  Motherboard
 </details>
 
 
