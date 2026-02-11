@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I've started telling everyone about the benefits of eating dried grapes. It's all about raisin awareness.
+This is my step ladder. I never knew my real ladder.
 
 
 ## Daily Trivia
 
-What major programming language does Unreal Engine 4 use?
- 1. C++
- 2. C#
- 3. Assembly
- 4. ECMAScript
+When was the programming language &quot;C#&quot; released?
+ 1. 1999
+ 2. 1998
+ 3. 2000
+ 4. 2001
 
 <details>
   <summary>Answer</summary>
-  C++
+  2000
 </details>
 
 
