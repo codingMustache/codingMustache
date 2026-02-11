@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-This is my step ladder. I never knew my real ladder.
+I used to be addicted to the hokey pokey, but I turned myself around.
 
 
 ## Daily Trivia
 
-When was the programming language &quot;C#&quot; released?
- 1. 1999
- 2. 1998
- 3. 2000
- 4. 2001
+.rs is the top-level domain for what country?
+ 1. Romania
+ 2. Rwanda
+ 3. Russia
+ 4. Serbia
 
 <details>
   <summary>Answer</summary>
-  2000
+  Serbia
 </details>
 
 
