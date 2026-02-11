@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you make Lady Gaga cry? Poker face. 
+I used to work in a shoe recycling shop. It was sole destroying.
 
 
 ## Daily Trivia
 
-The acronym &quot;RIP&quot; stands for which of these?
- 1. Routine Inspection Protocol
- 2. Regular Interval Processes
- 3. Runtime Instance Processes
- 4. Routing Information Protocol
+Which one of these is not an official development name for a Ubuntu release?
+ 1. Mystic Mansion
+ 2. Trusty Tahr
+ 3. Utopic Unicorn
+ 4. Wily Werewolf
 
 <details>
   <summary>Answer</summary>
-  Routing Information Protocol
+  Mystic Mansion
 </details>
 
 
