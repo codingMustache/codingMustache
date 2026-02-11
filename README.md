@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What does an angry pepper do? It gets jalapeño face.
+How do you find Will Smith in the snow?  Look for fresh prints.
 
 
 ## Daily Trivia
 
-In any programming language, what is the most common way to iterate through an array?
- 1. &#039;If&#039; Statements
- 2. &#039;Do-while&#039; loops
- 3. &#039;For&#039; loops
- 4. &#039;While&#039; loops
+Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
+ 1. 44.1 kHz
+ 2. 1.5 MHz
+ 3. 32.0 kHz
+ 4. 20.5 kHz
 
 <details>
   <summary>Answer</summary>
-  &#039;For&#039; loops
+  44.1 kHz
 </details>
 
 
