@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you get when you cross a rabbit with a water hose? Hare spray.
+I used to be addicted to the hokey pokey, but I turned myself around.
 
 
 ## Daily Trivia
 
-Which data structure does FILO apply to?
- 1. Queue
- 2. Heap
- 3. Tree
- 4. Stack
+In programming, the ternary operator is mostly defined with what symbol(s)?
+ 1. ??
+ 2. ?:
+ 3. if then
+ 4. ?
 
 <details>
   <summary>Answer</summary>
-  Stack
+  ?:
 </details>
 
 
