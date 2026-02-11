@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do you take someone who has been injured in a Peek-a-boo accident? To the I.C.U.
+A police officer caught two kids playing with a firework and a car battery. He charged one and let the other one off.
 
 
 ## Daily Trivia
 
-What does &quot;LCD&quot; stand for?
- 1. Last Common Difference
- 2. Liquid Crystal Display
- 3. Language Control Design
- 4. Long Continuous Design
+How many kilobytes in one gigabyte (in decimal)?
+ 1. 1000000
+ 2. 1024
+ 3. 1048576
+ 4. 1000
 
 <details>
   <summary>Answer</summary>
-  Liquid Crystal Display
+  1000000
 </details>
 
 
