@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Don't tell secrets in corn fields. Too many ears around.
+Why do you never see elephants hiding in trees? Because they're so good at it.
 
 
 ## Daily Trivia
 
-What does &quot;LCD&quot; stand for?
- 1. Language Control Design
- 2. Liquid Crystal Display
- 3. Last Common Difference
- 4. Long Continuous Design
+What does LTS stand for in the software market?
+ 1. Long Taco Service
+ 2. Long Term Support
+ 3. Ludicrous Turbo Speed
+ 4. Ludicrous Transfer Speed
 
 <details>
   <summary>Answer</summary>
-  Liquid Crystal Display
+  Long Term Support
 </details>
 
 
