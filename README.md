@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Sgt.: Commissar! Commissar! The troops are revolting! Commissar: Well, you’re pretty repulsive yourself.
+My boss told me to have a good day. So I went home...
 
 
 ## Daily Trivia
 
-In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
- 1. Static
- 2. Private
- 3. Public
- 4. Final
+Which of the following is a personal computer made by the Japanese company Fujitsu?
+ 1. Xmillennium 
+ 2. PC-9801
+ 3. MSX
+ 4. FM-7
 
 <details>
   <summary>Answer</summary>
-  Final
+  FM-7
 </details>
 
 
