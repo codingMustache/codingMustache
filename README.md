@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call two guys hanging out by your window? Kurt & Rod.
+I am so good at sleeping I can do it with my eyes closed!
 
 
 ## Daily Trivia
 
-Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
- 1. C#
- 2. Python
- 3. PHP
- 4. JavaScript
+Unix Time is defined as the number of seconds that have elapsed since when?
+ 1. Midnight, July 4, 1976
+ 2. Midnight on the creator of Unix&#039;s birthday
+ 3. Midnight, July 4, 1980
+ 4. Midnight, January 1, 1970
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  Midnight, January 1, 1970
 </details>
 
 
