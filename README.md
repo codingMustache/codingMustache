@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-When my wife told me to stop impersonating a flamingo, I had to put my foot down.
+How do you make Lady Gaga cry? Poker face. 
 
 
 ## Daily Trivia
 
-What does LTS stand for in the software market?
- 1. Long Taco Service
- 2. Ludicrous Transfer Speed
- 3. Ludicrous Turbo Speed
- 4. Long Term Support
+The acronym &quot;RIP&quot; stands for which of these?
+ 1. Routine Inspection Protocol
+ 2. Regular Interval Processes
+ 3. Runtime Instance Processes
+ 4. Routing Information Protocol
 
 <details>
   <summary>Answer</summary>
-  Long Term Support
+  Routing Information Protocol
 </details>
 
 
