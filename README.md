@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I met this girl on a dating site and, I don't know, we just clicked.
+Where do bees go to the bathroom?  The BP station.
 
 
 ## Daily Trivia
 
-What does AD stand for in relation to Windows Operating Systems? 
- 1. Alternative Drive
- 2. Automated Database
- 3. Active Department
- 4. Active Directory
+If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
+ 1. C++
+ 2. JavaScript
+ 3. Python
+ 4. Binary
 
 <details>
   <summary>Answer</summary>
-  Active Directory
+  Binary
 </details>
 
 
