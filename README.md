@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why is there always a gate around cemeteries? Because people are always dying to get in.
+What do you call a droid that takes the long way around? R2 detour.
 
 
 ## Daily Trivia
 
-What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
- 1. Coffee Lake
- 2. Broadwell
- 3. Skylake
- 4. Sandy Bridge
+Unix Time is defined as the number of seconds that have elapsed since when?
+ 1. Midnight, July 4, 1976
+ 2. Midnight, July 4, 1980
+ 3. Midnight on the creator of Unix&#039;s birthday
+ 4. Midnight, January 1, 1970
 
 <details>
   <summary>Answer</summary>
-  Coffee Lake
+  Midnight, January 1, 1970
 </details>
 
 
