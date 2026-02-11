@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call your friend who stands in a hole? Phil.
+I got a reversible jacket for Christmas, I can't wait to see how it turns out.
 
 
 ## Daily Trivia
 
-Which computer hardware device provides an interface for all other connected devices to communicate?
- 1. Random Access Memory
- 2. Motherboard
- 3. Hard Disk Drive
- 4. Central Processing Unit
+What was the first commerically available computer processor?
+ 1. Intel 486SX
+ 2. TMS 1000
+ 3. AMD AM386
+ 4. Intel 4004
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  Intel 4004
 </details>
 
 
