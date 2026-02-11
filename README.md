@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What’s brown and sounds like a bell? Dung!
+A Skeleton walked into a bar he said I need a beer and a mop
 
 
 ## Daily Trivia
 
-What does CPU stand for?
- 1. Central Process Unit
- 2. Computer Personal Unit
- 3. Central Processor Unit
- 4. Central Processing Unit
+How many Hz does the video standard PAL support?
+ 1. 25
+ 2. 50
+ 3. 59
+ 4. 60
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  50
 </details>
 
 
