@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the guy whose whole left side was cut off? He's all right now.
+I knew a guy who collected candy canes, they were all in mint condition
 
 
 ## Daily Trivia
 
-According to the International System of Units, how many bytes are in a kilobyte of RAM?
- 1. 1000
- 2. 500
- 3. 1024
- 4. 512
+What is the code name for the mobile operating system Android 7.0?
+ 1. Nougat
+ 2. Jelly Bean
+ 3. Ice Cream Sandwich
+ 4. Marshmallow
 
 <details>
   <summary>Answer</summary>
-  1000
+  Nougat
 </details>
 
 
