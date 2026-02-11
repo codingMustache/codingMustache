@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I knew a guy who collected candy canes, they were all in mint condition
+Why is there always a gate around cemeteries? Because people are always dying to get in.
 
 
 ## Daily Trivia
 
-What is the code name for the mobile operating system Android 7.0?
- 1. Nougat
- 2. Jelly Bean
- 3. Ice Cream Sandwich
- 4. Marshmallow
+What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
+ 1. Coffee Lake
+ 2. Broadwell
+ 3. Skylake
+ 4. Sandy Bridge
 
 <details>
   <summary>Answer</summary>
-  Nougat
+  Coffee Lake
 </details>
 
 
