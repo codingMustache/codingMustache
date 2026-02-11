@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take.
+The rotation of earth really makes my day.
 
 
 ## Daily Trivia
 
-According to the International System of Units, how many bytes are in a kilobyte of RAM?
- 1. 1024
- 2. 1000
- 3. 512
- 4. 500
+What language does Node.js use?
+ 1. Joomla Source Code
+ 2. Java Source
+ 3. JavaScript
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  1000
+  JavaScript
 </details>
 
 
