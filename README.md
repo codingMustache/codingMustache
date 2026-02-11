@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do you never see elephants hiding in trees? Because they're so good at it.
+I met this girl on a dating site and, I don't know, we just clicked.
 
 
 ## Daily Trivia
 
-What does LTS stand for in the software market?
- 1. Long Taco Service
- 2. Long Term Support
- 3. Ludicrous Turbo Speed
- 4. Ludicrous Transfer Speed
+What does AD stand for in relation to Windows Operating Systems? 
+ 1. Alternative Drive
+ 2. Automated Database
+ 3. Active Department
+ 4. Active Directory
 
 <details>
   <summary>Answer</summary>
-  Long Term Support
+  Active Directory
 </details>
 
 
