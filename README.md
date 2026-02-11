@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the sea say to the sand? "We have to stop meeting like this."
+Why is it always hot in the corner of a room? Because a corner is 90 degrees.
 
 
 ## Daily Trivia
 
-What major programming language does Unreal Engine 4 use?
- 1. C++
- 2. ECMAScript
- 3. C#
- 4. Assembly
+Whistler was the codename of this Microsoft Operating System.
+ 1. Windows 2000
+ 2. Windows XP
+ 3. Windows 7
+ 4. Windows 95
 
 <details>
   <summary>Answer</summary>
-  C++
+  Windows XP
 </details>
 
 
