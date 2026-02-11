@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It's difficult to say what my wife does, she sells sea shells by the sea shore.
+What do you get when you cross a rabbit with a water hose? Hare spray.
 
 
 ## Daily Trivia
 
-What programming language was GitHub written in?
- 1. Python
- 2. Lua
- 3. JavaScript
- 4. Ruby
+Which data structure does FILO apply to?
+ 1. Queue
+ 2. Heap
+ 3. Tree
+ 4. Stack
 
 <details>
   <summary>Answer</summary>
-  Ruby
+  Stack
 </details>
 
 
