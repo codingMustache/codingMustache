@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are giraffes so slow to apologize? Because it takes them a long time to swallow their pride.
+Bought a new jacket suit the other day and it burst into flames. Well, it was a blazer
 
 
 ## Daily Trivia
 
-Which of the following physical typologies are used with Ethernet Networks?
- 1. Ring
- 2. Mesh
- 3. Hex
- 4. Star
+Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
+ 1. 44.1 kHz
+ 2. 20.5 kHz
+ 3. 1.5 MHz
+ 4. 32.0 kHz
 
 <details>
   <summary>Answer</summary>
-  Star
+  44.1 kHz
 </details>
 
 
