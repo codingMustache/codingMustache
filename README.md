@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The rotation of earth really makes my day.
+Don't tell secrets in corn fields. Too many ears around.
 
 
 ## Daily Trivia
 
-What language does Node.js use?
- 1. Joomla Source Code
- 2. Java Source
- 3. JavaScript
- 4. Java
+What does &quot;LCD&quot; stand for?
+ 1. Language Control Design
+ 2. Liquid Crystal Display
+ 3. Last Common Difference
+ 4. Long Continuous Design
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  Liquid Crystal Display
 </details>
 
 
