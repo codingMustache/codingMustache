@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the man run around his bed? Because he was trying to catch up on his sleep!
+What do you call your friend who stands in a hole? Phil.
 
 
 ## Daily Trivia
 
-What is the number of keys on a standard Windows Keyboard?
- 1. 104
- 2. 64
- 3. 94
- 4. 76
+Which computer hardware device provides an interface for all other connected devices to communicate?
+ 1. Random Access Memory
+ 2. Motherboard
+ 3. Hard Disk Drive
+ 4. Central Processing Unit
 
 <details>
   <summary>Answer</summary>
-  104
+  Motherboard
 </details>
 
 
