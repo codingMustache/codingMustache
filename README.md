@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-R.I.P. boiled water. You will be mist.
+I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take.
 
 
 ## Daily Trivia
 
-Which kind of algorithm is Ron Rivest not famous for creating?
- 1. Secret sharing scheme
- 2. Asymmetric encryption
- 3. Hashing algorithm
- 4. Stream cipher
+According to the International System of Units, how many bytes are in a kilobyte of RAM?
+ 1. 1024
+ 2. 1000
+ 3. 512
+ 4. 500
 
 <details>
   <summary>Answer</summary>
-  Secret sharing scheme
+  1000
 </details>
 
 
