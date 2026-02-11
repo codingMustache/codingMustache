@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do bees go to the bathroom?  The BP station.
+When my wife told me to stop impersonating a flamingo, I had to put my foot down.
 
 
 ## Daily Trivia
 
-If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
- 1. C++
- 2. JavaScript
- 3. Python
- 4. Binary
+What does LTS stand for in the software market?
+ 1. Long Taco Service
+ 2. Ludicrous Transfer Speed
+ 3. Ludicrous Turbo Speed
+ 4. Long Term Support
 
 <details>
   <summary>Answer</summary>
-  Binary
+  Long Term Support
 </details>
 
 
