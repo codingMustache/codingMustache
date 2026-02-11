@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to work in a shoe recycling shop. It was sole destroying.
+I've started telling everyone about the benefits of eating dried grapes. It's all about raisin awareness.
 
 
 ## Daily Trivia
 
-Which one of these is not an official development name for a Ubuntu release?
- 1. Mystic Mansion
- 2. Trusty Tahr
- 3. Utopic Unicorn
- 4. Wily Werewolf
+What major programming language does Unreal Engine 4 use?
+ 1. C++
+ 2. C#
+ 3. Assembly
+ 4. ECMAScript
 
 <details>
   <summary>Answer</summary>
-  Mystic Mansion
+  C++
 </details>
 
 
