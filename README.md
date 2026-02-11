@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the kid throw the clock out the window? He wanted to see time fly!
+What did the sea say to the sand? "We have to stop meeting like this."
 
 
 ## Daily Trivia
 
-Which of the following is NOT a computer science algorithm?
- 1. Merge Sort
- 2. Bubble Sort
- 3. Quick Sort
- 4. Float Sort
+What major programming language does Unreal Engine 4 use?
+ 1. C++
+ 2. ECMAScript
+ 3. C#
+ 4. Assembly
 
 <details>
   <summary>Answer</summary>
-  Float Sort
+  C++
 </details>
 
 
