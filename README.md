@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to be addicted to the hokey pokey, but I turned myself around.
+Why did the man run around his bed? Because he was trying to catch up on his sleep!
 
 
 ## Daily Trivia
 
-.rs is the top-level domain for what country?
- 1. Romania
- 2. Rwanda
- 3. Russia
- 4. Serbia
+What is the number of keys on a standard Windows Keyboard?
+ 1. 104
+ 2. 64
+ 3. 94
+ 4. 76
 
 <details>
   <summary>Answer</summary>
-  Serbia
+  104
 </details>
 
 
