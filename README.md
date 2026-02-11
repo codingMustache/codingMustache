@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-“My Dog has no nose.” “How does he smell?” “Awful”
+Why are giraffes so slow to apologize? Because it takes them a long time to swallow their pride.
 
 
 ## Daily Trivia
 
-In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
- 1. &lt;slide&gt;&lt;/slide&gt;
- 2. &lt;marquee&gt;&lt;/marquee&gt;
- 3. &lt;move&gt;&lt;/move&gt;
- 4. &lt;scroll&gt;&lt;/scroll&gt;
+Which of the following physical typologies are used with Ethernet Networks?
+ 1. Ring
+ 2. Mesh
+ 3. Hex
+ 4. Star
 
 <details>
   <summary>Answer</summary>
-  &lt;marquee&gt;&lt;/marquee&gt;
+  Star
 </details>
 
 
