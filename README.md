@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the judge say to the dentist? Do you swear to pull the tooth, the whole tooth and nothing but the tooth?
+It's difficult to say what my wife does, she sells sea shells by the sea shore.
 
 
 ## Daily Trivia
 
-Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
- 1. Apple
- 2. Commodore
- 3. Atari
- 4. Microsoft
+What programming language was GitHub written in?
+ 1. Python
+ 2. Lua
+ 3. JavaScript
+ 4. Ruby
 
 <details>
   <summary>Answer</summary>
-  Apple
+  Ruby
 </details>
 
 
