@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Every morning when I go out, I get hit by bicycle. Every morning!  It's a vicious cycle.
+Sgt.: Commissar! Commissar! The troops are revolting! Commissar: Well, you’re pretty repulsive yourself.
 
 
 ## Daily Trivia
 
-What is the name of the process that sends one qubit of information using two bits of classical information?
- 1. Quantum Teleportation
- 2. Quantum Programming
- 3. Super Dense Coding
- 4. Quantum Entanglement
+Which computer hardware device provides an interface for all other connected devices to communicate?
+ 1. Central Processing Unit
+ 2. Hard Disk Drive
+ 3. Random Access Memory
+ 4. Motherboard
 
 <details>
   <summary>Answer</summary>
-  Quantum Teleportation
+  Motherboard
 </details>
 
 
