@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I knew i shouldn’t have ate that seafood. Because now i’m feeling a little… Eel
+When people are sad, I sometimes let them colour in my tattoos. Sometimes all they need is a shoulder to crayon.
 
 
 ## Daily Trivia
 
-The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
- 1. HD Graphics 500
- 2. HD Graphics 7000
- 3. HD Graphics 600
- 4. HD Graphics 700 
+Who invented the &quot;Spanning Tree Protocol&quot;?
+ 1. Radia Perlman
+ 2. Paul Vixie
+ 3. Vint Cerf
+ 4. Michael Roberts
 
 <details>
   <summary>Answer</summary>
-  HD Graphics 500
+  Radia Perlman
 </details>
 
 
