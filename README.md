@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the late tomato say to the early tomato? I’ll ketch up
+I couldn't figure out how the seat belt worked. Then it just clicked.
 
 
 ## Daily Trivia
 
-The Harvard architecture for micro-controllers added which additional bus?
- 1. Data
- 2. Address
- 3. Control
- 4. Instruction
+What does RAID stand for?
+ 1. Rapid Access for Indexed Devices
+ 2. Range of Applications with Identical Designs
+ 3. Randomized Abstract Identification Description
+ 4. Redundant Array of Independent Disks
 
 <details>
   <summary>Answer</summary>
-  Instruction
+  Redundant Array of Independent Disks
 </details>
 
 
