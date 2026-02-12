@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My friend said to me: "What rhymes with orange" I said: "no it doesn't"
+What are the strongest days of the week? Saturday and Sunday...the rest are weekdays.
 
 
 ## Daily Trivia
 
-What language does Node.js use?
- 1. Java
- 2. Java Source
- 3. JavaScript
- 4. Joomla Source Code
+What does the term MIME stand for, in regards to computing?
+ 1. Mail Interleave Method Exchange
+ 2. Multipurpose Interleave Mail Exchange
+ 3. Multipurpose Internet Mail Extensions
+ 4. Mail Internet Mail Exchange
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  Multipurpose Internet Mail Extensions
 </details>
 
 
