@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Dad died because he couldn't remember his blood type. I will never forget his last words. Be positive.
+Remember, the best angle to approach a problem from is the "try" angle.
 
 
 ## Daily Trivia
 
-When was the programming language &quot;C#&quot; released?
- 1. 2001
- 2. 1999
- 3. 1998
- 4. 2000
+What is the main CPU is the Sega Mega Drive / Sega Genesis?
+ 1. Yamaha YM2612
+ 2. Zilog Z80
+ 3. Intel 8088
+ 4. Motorola 68000
 
 <details>
   <summary>Answer</summary>
-  2000
+  Motorola 68000
 </details>
 
 
