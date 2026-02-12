@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Today a man knocked on my door and asked for a small donation towards the local swimming pool. I gave him a glass of water.
+I went to a book store and asked the saleswoman where the Self Help section was, she said if she told me it would defeat the purpose.
 
 
 ## Daily Trivia
 
-.rs is the top-level domain for what country?
- 1. Russia
- 2. Romania
- 3. Rwanda
- 4. Serbia
+Dutch computer scientist Mark Overmars is known for creating which game development engine?
+ 1. Torque 2D
+ 2. Construct
+ 3. Stencyl
+ 4. Game Maker
 
 <details>
   <summary>Answer</summary>
-  Serbia
+  Game Maker
 </details>
 
 
