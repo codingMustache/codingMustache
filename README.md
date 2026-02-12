@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I accidentally took my cats meds last night. Don’t ask meow.
+Did you hear about the submarine industry? It really took a dive...
 
 
 ## Daily Trivia
 
-Whistler was the codename of this Microsoft Operating System.
- 1. Windows XP
- 2. Windows 95
- 3. Windows 7
- 4. Windows 2000
+What was the name given to Android 4.3?
+ 1. Lollipop
+ 2. Nutella
+ 3. Froyo
+ 4. Jelly Bean
 
 <details>
   <summary>Answer</summary>
-  Windows XP
+  Jelly Bean
 </details>
 
 
