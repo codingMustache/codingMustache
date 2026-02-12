@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What happens to a frog's car when it breaks down? It gets toad.
+I knew i shouldn’t have ate that seafood. Because now i’m feeling a little… Eel
 
 
 ## Daily Trivia
 
-How many cores does the Intel i7-6950X have?
- 1. 10
- 2. 4
- 3. 8
- 4. 12
+The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
+ 1. HD Graphics 500
+ 2. HD Graphics 7000
+ 3. HD Graphics 600
+ 4. HD Graphics 700 
 
 <details>
   <summary>Answer</summary>
-  10
+  HD Graphics 500
 </details>
 
 
