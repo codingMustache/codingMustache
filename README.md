@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It doesn't matter how much you push the envelope. It will still be stationary.
+What do you call an eagle who can play the piano? Talonted!
 
 
 ## Daily Trivia
 
-How many values can a single byte represent?
- 1. 8
- 2. 1
- 3. 1024
- 4. 256
+What does the computer software acronym JVM stand for?
+ 1. Java Visual Machine
+ 2. Just Virtual Machine
+ 3. Java Virtual Machine
+ 4. Java Vendor Machine
 
 <details>
   <summary>Answer</summary>
-  256
+  Java Virtual Machine
 </details>
 
 
