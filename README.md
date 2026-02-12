@@ -4,16 +4,16 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What animal is always at a game of cricket? A bat.
+What do you call a fly without wings? A walk.
 
 
 ## Daily Trivia
 
 Which of these is not a layer in the OSI model for data communications?
- 1. Physical Layer
- 2. Transport Layer
- 3. Application Layer
- 4. Connection Layer
+ 1. Connection Layer
+ 2. Physical Layer
+ 3. Transport Layer
+ 4. Application Layer
 
 <details>
   <summary>Answer</summary>
