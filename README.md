@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-We all know where the Big Apple is but does anyone know where the Minneapolis?
+What do you get if you cross a turkey with a ghost? A poultry-geist!
 
 
 ## Daily Trivia
 
-America Online (AOL) started out as which of these online service providers?
- 1. CompuServe
- 2. Prodigy
- 3. GEnie
- 4. Quantum Link
+The numbering system with a radix of 16 is more commonly referred to as 
+ 1. Binary
+ 2. Duodecimal
+ 3. Octal
+ 4. Hexidecimal
 
 <details>
   <summary>Answer</summary>
-  Quantum Link
+  Hexidecimal
 </details>
 
 
