@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you find Will Smith in the snow?  Look for fresh prints.
+My wife is on a tropical fruit diet, the house is full of stuff. It is enough to make a mango crazy.
 
 
 ## Daily Trivia
 
-Whistler was the codename of this Microsoft Operating System.
- 1. Windows XP
- 2. Windows 95
- 3. Windows 7
- 4. Windows 2000
+What is the main CPU is the Sega Mega Drive / Sega Genesis?
+ 1. Zilog Z80
+ 2. Yamaha YM2612
+ 3. Intel 8088
+ 4. Motorola 68000
 
 <details>
   <summary>Answer</summary>
-  Windows XP
+  Motorola 68000
 </details>
 
 
