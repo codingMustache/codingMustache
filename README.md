@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I dreamed about drowning in an ocean made out of orange soda last night. It took me a while to work out it was just a Fanta sea.
+I adopted my dog from a blacksmith. As soon as we got home he made a bolt for the door.
 
 
 ## Daily Trivia
 
-HTML is what type of language?
- 1. Programming Language
- 2. Macro Language
- 3. Scripting Language
- 4. Markup Language
+What was the first company to use the term &quot;Golden Master&quot;?
+ 1. Apple
+ 2. Microsoft
+ 3. Google
+ 4. IBM
 
 <details>
   <summary>Answer</summary>
-  Markup Language
+  Apple
 </details>
 
 
