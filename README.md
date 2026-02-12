@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the submarine industry? It really took a dive...
+Every morning when I go out, I get hit by bicycle. Every morning!  It's a vicious cycle.
 
 
 ## Daily Trivia
 
-What was the name given to Android 4.3?
- 1. Lollipop
- 2. Nutella
- 3. Froyo
- 4. Jelly Bean
+What is the name of the process that sends one qubit of information using two bits of classical information?
+ 1. Quantum Teleportation
+ 2. Quantum Programming
+ 3. Super Dense Coding
+ 4. Quantum Entanglement
 
 <details>
   <summary>Answer</summary>
-  Jelly Bean
+  Quantum Teleportation
 </details>
 
 
