@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you make a water bed more bouncy. You use Spring Water
+Which side of the chicken has more feathers? The outside.
 
 
 ## Daily Trivia
 
-What does the &#039;S&#039; in the RSA encryption algorithm stand for?
- 1. Stable
- 2. Secure
- 3. Shamir
- 4. Schottky
+On Twitter, what was the original character limit for a Tweet?
+ 1. 140
+ 2. 120
+ 3. 160
+ 4. 100
 
 <details>
   <summary>Answer</summary>
-  Shamir
+  140
 </details>
 
 
