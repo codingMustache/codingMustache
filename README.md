@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A man is washing the car with his son. The son asks...... "Dad, can’t you just use a sponge?"
+What kind of music do mummy's like? Rap
 
 
 ## Daily Trivia
 
-On Twitter, what was the original character limit for a Tweet?
- 1. 100
- 2. 140
- 3. 120
- 4. 160
+What does LTS stand for in the software market?
+ 1. Long Taco Service
+ 2. Ludicrous Turbo Speed
+ 3. Ludicrous Transfer Speed
+ 4. Long Term Support
 
 <details>
   <summary>Answer</summary>
-  140
+  Long Term Support
 </details>
 
 
