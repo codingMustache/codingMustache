@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are skeletons so calm? Because nothing gets under their skin.
+Why was the big cat disqualified from the race? Because it was a cheetah.
 
 
 ## Daily Trivia
 
-The C programming language was created by this American computer scientist. 
- 1. Dennis Ritchie
- 2. Tim Berners Lee
- 3. al-Khwārizmī
- 4. Willis Ware
+This mobile OS held the largest market share in 2012.
+ 1. Symbian
+ 2. iOS
+ 3. BlackBerry
+ 4. Android
 
 <details>
   <summary>Answer</summary>
-  Dennis Ritchie
+  iOS
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **7 days** since this server shutdown
+Its been **8 days** since this server shutdown
