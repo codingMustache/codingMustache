@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of music do mummy's like? Rap
+I accidentally took my cats meds last night. Don’t ask meow.
 
 
 ## Daily Trivia
 
-What does LTS stand for in the software market?
- 1. Long Taco Service
- 2. Ludicrous Turbo Speed
- 3. Ludicrous Transfer Speed
- 4. Long Term Support
+Whistler was the codename of this Microsoft Operating System.
+ 1. Windows XP
+ 2. Windows 95
+ 3. Windows 7
+ 4. Windows 2000
 
 <details>
   <summary>Answer</summary>
-  Long Term Support
+  Windows XP
 </details>
 
 
