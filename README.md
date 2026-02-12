@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was the big cat disqualified from the race? Because it was a cheetah.
+What did the late tomato say to the early tomato? I’ll ketch up
 
 
 ## Daily Trivia
 
-This mobile OS held the largest market share in 2012.
- 1. Symbian
- 2. iOS
- 3. BlackBerry
- 4. Android
+The Harvard architecture for micro-controllers added which additional bus?
+ 1. Data
+ 2. Address
+ 3. Control
+ 4. Instruction
 
 <details>
   <summary>Answer</summary>
-  iOS
+  Instruction
 </details>
 
 
