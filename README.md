@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I don’t play soccer because I enjoy the sport. I’m just doing it for kicks.
+How do you make a water bed more bouncy. You use Spring Water
 
 
 ## Daily Trivia
 
-What does the term MIME stand for, in regards to computing?
- 1. Multipurpose Internet Mail Extensions
- 2. Mail Interleave Method Exchange
- 3. Multipurpose Interleave Mail Exchange
- 4. Mail Internet Mail Exchange
+What does the &#039;S&#039; in the RSA encryption algorithm stand for?
+ 1. Stable
+ 2. Secure
+ 3. Shamir
+ 4. Schottky
 
 <details>
   <summary>Answer</summary>
-  Multipurpose Internet Mail Extensions
+  Shamir
 </details>
 
 
