@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What are the strongest days of the week? Saturday and Sunday...the rest are weekdays.
+Today a man knocked on my door and asked for a small donation towards the local swimming pool. I gave him a glass of water.
 
 
 ## Daily Trivia
 
-What does the term MIME stand for, in regards to computing?
- 1. Mail Interleave Method Exchange
- 2. Multipurpose Interleave Mail Exchange
- 3. Multipurpose Internet Mail Extensions
- 4. Mail Internet Mail Exchange
+.rs is the top-level domain for what country?
+ 1. Russia
+ 2. Romania
+ 3. Rwanda
+ 4. Serbia
 
 <details>
   <summary>Answer</summary>
-  Multipurpose Internet Mail Extensions
+  Serbia
 </details>
 
 
