@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I couldn't figure out how the seat belt worked. Then it just clicked.
+Why did the clown have neck pain? - Because he slept funny
 
 
 ## Daily Trivia
 
-What does RAID stand for?
- 1. Rapid Access for Indexed Devices
- 2. Range of Applications with Identical Designs
- 3. Randomized Abstract Identification Description
- 4. Redundant Array of Independent Disks
+What does AD stand for in relation to Windows Operating Systems? 
+ 1. Alternative Drive
+ 2. Active Directory
+ 3. Active Department
+ 4. Automated Database
 
 <details>
   <summary>Answer</summary>
-  Redundant Array of Independent Disks
+  Active Directory
 </details>
 
 
