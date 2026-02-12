@@ -4,20 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many bones are in the human hand? A handful of them.
+Doctor: Do you want to hear the good news or the bad news?
+Patient: Good news please.
+Doctor: we're naming a disease after you.
 
 
 ## Daily Trivia
 
-Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
- 1. Tiger
- 2. Puma
- 3. Cheetah
- 4. Leopard
+What amount of bits commonly equals one byte?
+ 1. 1
+ 2. 2
+ 3. 8
+ 4. 64
 
 <details>
   <summary>Answer</summary>
-  Cheetah
+  8
 </details>
 
 
