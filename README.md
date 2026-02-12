@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Pie is $2.50 in Jamaica and $3.00 in The Bahamas. These are the pie-rates of the Caribbean.
+Did you hear the one about the giant pickle?  He was kind of a big dill.
 
 
 ## Daily Trivia
 
-Which of these people was NOT a founder of Apple Inc?
- 1. Jonathan Ive
- 2. Steve Wozniak
- 3. Ronald Wayne
- 4. Steve Jobs
+The C programming language was created by this American computer scientist. 
+ 1. al-Khwārizmī
+ 2. Tim Berners Lee
+ 3. Dennis Ritchie
+ 4. Willis Ware
 
 <details>
   <summary>Answer</summary>
-  Jonathan Ive
+  Dennis Ritchie
 </details>
 
 
