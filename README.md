@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-When people are sad, I sometimes let them colour in my tattoos. Sometimes all they need is a shoulder to crayon.
+My friend said to me: "What rhymes with orange" I said: "no it doesn't"
 
 
 ## Daily Trivia
 
-Who invented the &quot;Spanning Tree Protocol&quot;?
- 1. Radia Perlman
- 2. Paul Vixie
- 3. Vint Cerf
- 4. Michael Roberts
+What language does Node.js use?
+ 1. Java
+ 2. Java Source
+ 3. JavaScript
+ 4. Joomla Source Code
 
 <details>
   <summary>Answer</summary>
-  Radia Perlman
+  JavaScript
 </details>
 
 
