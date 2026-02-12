@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Remember, the best angle to approach a problem from is the "try" angle.
+How many bones are in the human hand? A handful of them.
 
 
 ## Daily Trivia
 
-What is the main CPU is the Sega Mega Drive / Sega Genesis?
- 1. Yamaha YM2612
- 2. Zilog Z80
- 3. Intel 8088
- 4. Motorola 68000
+Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
+ 1. Tiger
+ 2. Puma
+ 3. Cheetah
+ 4. Leopard
 
 <details>
   <summary>Answer</summary>
-  Motorola 68000
+  Cheetah
 </details>
 
 
