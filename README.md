@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-So, I heard this pun about cows, but it’s kinda offensive so I won’t say it. I don’t want there to be any beef between us. 
+We all know where the Big Apple is but does anyone know where the Minneapolis?
 
 
 ## Daily Trivia
 
-The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
- 1. Acorn Computers
- 2. Commodore Business Machines
- 3. Amstrad PLC
- 4. Sinclair Research
+America Online (AOL) started out as which of these online service providers?
+ 1. CompuServe
+ 2. Prodigy
+ 3. GEnie
+ 4. Quantum Link
 
 <details>
   <summary>Answer</summary>
-  Acorn Computers
+  Quantum Link
 </details>
 
 
