@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My friend said to me: "What rhymes with orange" I said: "no it doesn't"
+Why does Han Solo like gum? It's chewy!
 
 
 ## Daily Trivia
 
-The teapot often seen in many 3D modeling applications is called what?
- 1. Utah Teapot
- 2. Tennessee Teapot
- 3. 3D Teapot
- 4. Pixar Teapot
+What was the first commerically available computer processor?
+ 1. AMD AM386
+ 2. Intel 486SX
+ 3. Intel 4004
+ 4. TMS 1000
 
 <details>
   <summary>Answer</summary>
-  Utah Teapot
+  Intel 4004
 </details>
 
 
