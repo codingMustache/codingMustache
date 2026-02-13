@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the bread factory burning down? They say the business is toast.
+What do you call a nervous javelin thrower? Shakespeare.
 
 
 ## Daily Trivia
 
-Generally, which component of a computer draws the most power?
- 1. Processor
- 2. Power Supply
- 3. Video Card
- 4. Hard Drive
+Who is the original author of the realtime physics engine called PhysX?
+ 1. AMD
+ 2. Ageia
+ 3. NovodeX
+ 4. Nvidia
 
 <details>
   <summary>Answer</summary>
-  Video Card
+  NovodeX
 </details>
 
 
