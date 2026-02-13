@@ -4,23 +4,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Past, present, and future walked into a bar.... It was tense.
+What do you get when you cross a bee and a sheep? A bah-humbug.
+
 
 
 ## Daily Trivia
 
-Which data structure does FILO apply to?
- 1. Heap
- 2. Tree
- 3. Stack
- 4. Queue
+In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
+ 1. Final
+ 2. Public
+ 3. Private
+ 4. Static
 
 <details>
   <summary>Answer</summary>
-  Stack
+  Final
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **8 days** since this server shutdown
+Its been **9 days** since this server shutdown
