@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I'd like to start a diet, but I've got too much on my plate right now.
+Why don’t seagulls fly over the bay? Because then they’d be bay-gulls!
 
 
 ## Daily Trivia
 
-What does the &quot;MP&quot; stand for in MP3?
- 1. Music Player
- 2. Moving Picture
- 3. Multi Pass
- 4. Micro Point
+What port does HTTP run on?
+ 1. 53
+ 2. 443
+ 3. 80
+ 4. 23
 
 <details>
   <summary>Answer</summary>
-  Moving Picture
+  80
 </details>
 
 
