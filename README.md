@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I’ve just been reading a book about anti-gravity, it’s impossible to put down!
+Astronomers got tired watching the moon go around the earth for 24 hours. They decided to call it a day.
 
 
 ## Daily Trivia
 
-All of the following programs are classified as raster graphics editors EXCEPT:
- 1. Inkscape
- 2. Adobe Photoshop
- 3. GIMP
- 4. Paint.NET
+Which of the following is the oldest of these computers by release date?
+ 1. Apple 3
+ 2. ZX Spectrum
+ 3. TRS-80
+ 4. Commodore 64
 
 <details>
   <summary>Answer</summary>
-  Inkscape
+  TRS-80
 </details>
 
 
