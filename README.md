@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Yesterday, I accidentally swallowed some food coloring. The doctor says I’m okay, but I feel like I’ve dyed a little inside.
+What kind of magic do cows believe in? MOODOO.
 
 
 ## Daily Trivia
 
-What is the name of the default theme that is installed with Windows XP?
- 1. Neptune
- 2. Whistler
- 3. Bliss
- 4. Luna
+What was the first commerically available computer processor?
+ 1. AMD AM386
+ 2. TMS 1000
+ 3. Intel 486SX
+ 4. Intel 4004
 
 <details>
   <summary>Answer</summary>
-  Luna
+  Intel 4004
 </details>
 
 
