@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a duck that gets all A's? A wise quacker.
+I bought shoes from a drug dealer once. I don't know what he laced them with, but I was tripping all day.
 
 
 ## Daily Trivia
 
-What was the name given to Android 4.3?
- 1. Lollipop
- 2. Froyo
- 3. Jelly Bean
- 4. Nutella
+Which programming language was developed by Sun Microsystems in 1995?
+ 1. Python
+ 2. Java
+ 3. Solaris OS
+ 4. C++
 
 <details>
   <summary>Answer</summary>
-  Jelly Bean
+  Java
 </details>
 
 
