@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-No matter how kind you are, German children are kinder.
+Why did the half blind man fall in the well? Because he couldn't see that well!
 
 
 ## Daily Trivia
 
-What was the first commerically available computer processor?
- 1. Intel 486SX
- 2. TMS 1000
- 3. Intel 4004
- 4. AMD AM386
+Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
+ 1. PHP
+ 2. Python
+ 3. C#
+ 4. JavaScript
 
 <details>
   <summary>Answer</summary>
-  Intel 4004
+  JavaScript
 </details>
 
 
