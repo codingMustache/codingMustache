@@ -4,22 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Doctor: Do you want to hear the good news or the bad news?
-Patient: Good news please.
-Doctor: we're naming a disease after you.
+My friend told me that pepper is the best seasoning for a roast, but I took it with a grain of salt.
 
 
 ## Daily Trivia
 
-What amount of bits commonly equals one byte?
- 1. 1
- 2. 2
- 3. 8
- 4. 64
+The numbering system with a radix of 16 is more commonly referred to as 
+ 1. Duodecimal
+ 2. Hexidecimal
+ 3. Octal
+ 4. Binary
 
 <details>
   <summary>Answer</summary>
-  8
+  Hexidecimal
 </details>
 
 
