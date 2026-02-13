@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Parallel lines have so much in common. It’s a shame they’ll never meet.
+Every morning when I go out, I get hit by bicycle. Every morning!  It's a vicious cycle.
 
 
 ## Daily Trivia
 
-Which of these people was NOT a founder of Apple Inc?
- 1. Ronald Wayne
- 2. Steve Jobs
- 3. Steve Wozniak
- 4. Jonathan Ive
+Which of the following is a personal computer made by the Japanese company Fujitsu?
+ 1. FM-7
+ 2. PC-9801
+ 3. Xmillennium 
+ 4. MSX
 
 <details>
   <summary>Answer</summary>
-  Jonathan Ive
+  FM-7
 </details>
 
 
