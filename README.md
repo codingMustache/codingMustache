@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you get when you cross a pig and a pineapple? A porky pine
+Don't trust atoms. They make up everything.
 
 
 ## Daily Trivia
 
-Approximately how many Apple I personal computers were created?
- 1. 100
- 2. 500
- 3. 1000
- 4. 200
+What was the first company to use the term &quot;Golden Master&quot;?
+ 1. Microsoft
+ 2. IBM
+ 3. Google
+ 4. Apple
 
 <details>
   <summary>Answer</summary>
-  200
+  Apple
 </details>
 
 
