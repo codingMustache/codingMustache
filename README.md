@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do you never see elephants hiding in trees? Because they're so good at it.
+Why couldn't the kid see the pirate movie? Because it was rated arrr!
 
 
 ## Daily Trivia
 
-Which data structure does FILO apply to?
- 1. Stack
- 2. Heap
- 3. Queue
- 4. Tree
+Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
+ 1. Atari
+ 2. Apple
+ 3. Commodore
+ 4. Microsoft
 
 <details>
   <summary>Answer</summary>
-  Stack
+  Apple
 </details>
 
 
