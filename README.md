@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Don’t interrupt someone working intently on a puzzle. Chances are, you’ll hear some crosswords.
+What does a pirate pay for his corn? A buccaneer!
 
 
 ## Daily Trivia
 
-What does LTS stand for in the software market?
- 1. Ludicrous Transfer Speed
- 2. Long Term Support
- 3. Ludicrous Turbo Speed
- 4. Long Taco Service
+Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
+ 1. Commodore
+ 2. Atari
+ 3. Apple
+ 4. Microsoft
 
 <details>
   <summary>Answer</summary>
-  Long Term Support
+  Apple
 </details>
 
 
