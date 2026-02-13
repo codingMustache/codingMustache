@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why don’t seagulls fly over the bay? Because then they’d be bay-gulls!
+What did Michael Jackson name his denim store?    Billy Jeans!
 
 
 ## Daily Trivia
@@ -12,8 +12,8 @@ Why don’t seagulls fly over the bay? Because then they’d be bay-gulls!
 What port does HTTP run on?
  1. 53
  2. 443
- 3. 80
- 4. 23
+ 3. 23
+ 4. 80
 
 <details>
   <summary>Answer</summary>
