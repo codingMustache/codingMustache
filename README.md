@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What time did the man go to the dentist? Tooth hurt-y.
+Toasters were the first form of pop-up notifications.
 
 
 ## Daily Trivia
 
-If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
- 1. JavaScript
- 2. Binary
- 3. C++
- 4. Python
+Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
+ 1. Two Years
+ 2. Year
+ 3. Eight Years
+ 4. Four Years
 
 <details>
   <summary>Answer</summary>
-  Binary
+  Year
 </details>
 
 
