@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-When I left school, I passed every one of my exams with the exception of Greek Mythology. It always was my achilles elbow
+Did you hear about the bread factory burning down? They say the business is toast.
 
 
 ## Daily Trivia
 
-The acronym &quot;RIP&quot; stands for which of these?
- 1. Routing Information Protocol
- 2. Routine Inspection Protocol
- 3. Regular Interval Processes
- 4. Runtime Instance Processes
+Generally, which component of a computer draws the most power?
+ 1. Processor
+ 2. Power Supply
+ 3. Video Card
+ 4. Hard Drive
 
 <details>
   <summary>Answer</summary>
-  Routing Information Protocol
+  Video Card
 </details>
 
 
