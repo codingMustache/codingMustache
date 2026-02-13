@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What’s E.T. short for? He’s only got little legs.
+What time did the man go to the dentist? Tooth hurt-y.
 
 
 ## Daily Trivia
 
-America Online (AOL) started out as which of these online service providers?
- 1. Quantum Link
- 2. Prodigy
- 3. CompuServe
- 4. GEnie
+If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
+ 1. JavaScript
+ 2. Binary
+ 3. C++
+ 4. Python
 
 <details>
   <summary>Answer</summary>
-  Quantum Link
+  Binary
 </details>
 
 
