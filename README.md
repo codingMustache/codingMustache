@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the fireman wear red, white, and blue suspenders? To hold his pants up.
+Why did the kid cross the playground? To get to the other slide.
 
 
 ## Daily Trivia
 
-What was the first company to use the term &quot;Golden Master&quot;?
- 1. Apple
- 2. IBM
- 3. Microsoft
- 4. Google
+Which of the following is NOT a computer science algorithm?
+ 1. Float Sort
+ 2. Bubble Sort
+ 3. Quick Sort
+ 4. Merge Sort
 
 <details>
   <summary>Answer</summary>
-  Apple
+  Float Sort
 </details>
 
 
