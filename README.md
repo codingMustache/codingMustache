@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do you take someone who’s been injured in a peek-a-boo accident? To the I.C.U.
+Why do you never see elephants hiding in trees? Because they're so good at it.
 
 
 ## Daily Trivia
 
-What is the most preferred image format used for logos in the Wikimedia database?
- 1. .png
- 2. .jpeg
- 3. .svg
- 4. .gif
+Which data structure does FILO apply to?
+ 1. Stack
+ 2. Heap
+ 3. Queue
+ 4. Tree
 
 <details>
   <summary>Answer</summary>
-  .svg
+  Stack
 </details>
 
 
