@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the kid cross the playground? To get to the other slide.
+I'd like to start a diet, but I've got too much on my plate right now.
 
 
 ## Daily Trivia
 
-Which of the following is NOT a computer science algorithm?
- 1. Float Sort
- 2. Bubble Sort
- 3. Quick Sort
- 4. Merge Sort
+What does the &quot;MP&quot; stand for in MP3?
+ 1. Music Player
+ 2. Moving Picture
+ 3. Multi Pass
+ 4. Micro Point
 
 <details>
   <summary>Answer</summary>
-  Float Sort
+  Moving Picture
 </details>
 
 
