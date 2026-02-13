@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What does a female snake use for support? A co-Bra!
+Past, present, and future walked into a bar.... It was tense.
 
 
 ## Daily Trivia
 
-In computing terms, typically what does CLI stand for?
- 1. Common Language Input
- 2. Control Line Interface
- 3. Common Language Interface
- 4. Command Line Interface
+Which data structure does FILO apply to?
+ 1. Heap
+ 2. Tree
+ 3. Stack
+ 4. Queue
 
 <details>
   <summary>Answer</summary>
-  Command Line Interface
+  Stack
 </details>
 
 
