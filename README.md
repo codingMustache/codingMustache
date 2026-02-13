@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It’s hard to explain puns to kleptomaniacs, because they take everything literally.
+Where do you take someone who’s been injured in a peek-a-boo accident? To the I.C.U.
 
 
 ## Daily Trivia
 
-What five letter word is the motto of the IBM Computer company?
- 1. Think
- 2. Click
- 3. Logic
- 4. Pixel
+What is the most preferred image format used for logos in the Wikimedia database?
+ 1. .png
+ 2. .jpeg
+ 3. .svg
+ 4. .gif
 
 <details>
   <summary>Answer</summary>
-  Think
+  .svg
 </details>
 
 
