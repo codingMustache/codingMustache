@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I’ve deleted the phone numbers of all the Germans I know from my mobile phone. Now it’s Hans free.
+“Hold on, I have something in my shoe”  “I’m pretty sure it’s a foot”
 
 
 ## Daily Trivia
 
-HTML is what type of language?
- 1. Macro Language
- 2. Scripting Language
- 3. Programming Language
- 4. Markup Language
+What does LTS stand for in the software market?
+ 1. Long Taco Service
+ 2. Ludicrous Transfer Speed
+ 3. Ludicrous Turbo Speed
+ 4. Long Term Support
 
 <details>
   <summary>Answer</summary>
-  Markup Language
+  Long Term Support
 </details>
 
 
