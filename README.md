@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you get if you cross a turkey with a ghost? A poultry-geist!
+No matter how kind you are, German children are kinder.
 
 
 ## Daily Trivia
 
-The Harvard architecture for micro-controllers added which additional bus?
- 1. Instruction
- 2. Data
- 3. Control
- 4. Address
+What was the first commerically available computer processor?
+ 1. Intel 486SX
+ 2. TMS 1000
+ 3. Intel 4004
+ 4. AMD AM386
 
 <details>
   <summary>Answer</summary>
-  Instruction
+  Intel 4004
 </details>
 
 
