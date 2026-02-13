@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Someone asked me, what's the ninth letter of the alphabet? It was a complete guess, but I was right.
+What’s E.T. short for? He’s only got little legs.
 
 
 ## Daily Trivia
 
-The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
- 1. Micronesia
- 2. Marshall Islands
- 3. Tuvalu
- 4. Fiji
+America Online (AOL) started out as which of these online service providers?
+ 1. Quantum Link
+ 2. Prodigy
+ 3. CompuServe
+ 4. GEnie
 
 <details>
   <summary>Answer</summary>
-  Micronesia
+  Quantum Link
 </details>
 
 
