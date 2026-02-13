@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did Michael Jackson name his denim store?    Billy Jeans!
+Why did the tomato blush? Because it saw the salad dressing.
 
 
 ## Daily Trivia
 
-What port does HTTP run on?
- 1. 53
- 2. 443
- 3. 23
- 4. 80
+Which of these is not a key value of Agile software development?
+ 1. Individuals and interactions
+ 2. Customer collaboration
+ 3. Responding to change
+ 4. Comprehensive documentation
 
 <details>
   <summary>Answer</summary>
-  80
+  Comprehensive documentation
 </details>
 
 
