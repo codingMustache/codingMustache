@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I ordered a chicken and an egg from Amazon. I'll let you know.
+I’ve just been reading a book about anti-gravity, it’s impossible to put down!
 
 
 ## Daily Trivia
 
-Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
- 1. Cheetah
- 2. Puma
- 3. Tiger
- 4. Leopard
+All of the following programs are classified as raster graphics editors EXCEPT:
+ 1. Inkscape
+ 2. Adobe Photoshop
+ 3. GIMP
+ 4. Paint.NET
 
 <details>
   <summary>Answer</summary>
-  Cheetah
+  Inkscape
 </details>
 
 
