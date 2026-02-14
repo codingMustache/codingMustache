@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was the big cat disqualified from the race? Because it was a cheetah.
+Every morning when I go out, I get hit by bicycle. Every morning!  It's a vicious cycle.
 
 
 ## Daily Trivia
 
-What is the domain name for the country Tuvalu?
- 1. .tt
- 2. .tv
- 3. .tu
- 4. .tl
+What does &quot;LCD&quot; stand for?
+ 1. Language Control Design
+ 2. Last Common Difference
+ 3. Long Continuous Design
+ 4. Liquid Crystal Display
 
 <details>
   <summary>Answer</summary>
-  .tv
+  Liquid Crystal Display
 </details>
 
 
