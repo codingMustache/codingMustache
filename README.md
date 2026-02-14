@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do you take someone who has been injured in a Peek-a-boo accident? To the I.C.U.
+I used to hate facial hair, but then it grew on me.
 
 
 ## Daily Trivia
 
-America Online (AOL) started out as which of these online service providers?
- 1. Quantum Link
- 2. Prodigy
- 3. CompuServe
- 4. GEnie
+In programming, the ternary operator is mostly defined with what symbol(s)?
+ 1. ?
+ 2. if then
+ 3. ??
+ 4. ?:
 
 <details>
   <summary>Answer</summary>
-  Quantum Link
+  ?:
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **9 days** since this server shutdown
+Its been **10 days** since this server shutdown
