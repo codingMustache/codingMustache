@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-When I left school, I passed every one of my exams with the exception of Greek Mythology. It always was my achilles elbow
+A magician was driving down the street and then he turned into a driveway.
 
 
 ## Daily Trivia
 
-What was Bitcoin&#039;s block size limit in 2010?
- 1. 1 TB
- 2. 1 MB
- 3. 1 KB
- 4. 1GB
+What does the computer software acronym JVM stand for?
+ 1. Java Virtual Machine
+ 2. Java Visual Machine
+ 3. Just Virtual Machine
+ 4. Java Vendor Machine
 
 <details>
   <summary>Answer</summary>
-  1 MB
+  Java Virtual Machine
 </details>
 
 
