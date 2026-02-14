@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How does the moon cut his hair? Eclipse it.
+What do you get when you cross a bee and a sheep? A bah-humbug.
+
 
 
 ## Daily Trivia
 
-The C programming language was created by this American computer scientist. 
- 1. al-Khwārizmī
- 2. Dennis Ritchie
- 3. Willis Ware
- 4. Tim Berners Lee
+The acronym &quot;RIP&quot; stands for which of these?
+ 1. Runtime Instance Processes
+ 2. Regular Interval Processes
+ 3. Routine Inspection Protocol
+ 4. Routing Information Protocol
 
 <details>
   <summary>Answer</summary>
-  Dennis Ritchie
+  Routing Information Protocol
 </details>
 
 
