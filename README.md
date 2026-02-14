@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did Dracula lie in the wrong coffin? He made a grave mistake.
+I decided to sell my Hoover… well it was just collecting dust.
 
 
 ## Daily Trivia
 
-The Windows OS was delevoped by which company?
- 1. Microsoft
- 2. IBM
- 3. Apple
- 4. Nokia
+In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
+ 1. &lt;scroll&gt;&lt;/scroll&gt;
+ 2. &lt;move&gt;&lt;/move&gt;
+ 3. &lt;slide&gt;&lt;/slide&gt;
+ 4. &lt;marquee&gt;&lt;/marquee&gt;
 
 <details>
   <summary>Answer</summary>
-  Microsoft
+  &lt;marquee&gt;&lt;/marquee&gt;
 </details>
 
 
