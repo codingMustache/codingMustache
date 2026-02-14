@@ -4,22 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Doctor: Do you want to hear the good news or the bad news?
-Patient: Good news please.
-Doctor: we're naming a disease after you.
+Why did Mozart kill all his chickens?
+Because when he asked them who the best composer was, they'd all say "Bach bach bach!"
+
 
 
 ## Daily Trivia
 
-The name of technology company HP stands for what?
- 1. Howard Packmann
- 2. Husker-Pollosk
- 3. Hewlett-Packard
- 4. Hellman-Pohl
+What was the first Android version specifically optimized for tablets?
+ 1. Marshmellow
+ 2. Eclair
+ 3. Honeycomb
+ 4. Froyo
 
 <details>
   <summary>Answer</summary>
-  Hewlett-Packard
+  Honeycomb
 </details>
 
 
