@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What does an angry pepper do? It gets jalapeño face.
+Where does astronauts hangout after work? At the spacebar.
 
 
 ## Daily Trivia
 
-Which operating system was released first?
- 1. Mac OS
- 2. OS/2
- 3. Windows
- 4. Linux
+Unix Time is defined as the number of seconds that have elapsed since when?
+ 1. Midnight, July 4, 1980
+ 2. Midnight on the creator of Unix&#039;s birthday
+ 3. Midnight, July 4, 1976
+ 4. Midnight, January 1, 1970
 
 <details>
   <summary>Answer</summary>
-  Mac OS
+  Midnight, January 1, 1970
 </details>
 
 
