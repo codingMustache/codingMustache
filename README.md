@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-In my career as a lumberjack I cut down exactly 52,487 trees. I know because I kept a log.
+I asked a frenchman if he played video games. He said "Wii"
 
 
 ## Daily Trivia
 
-What is the main CPU is the Sega Mega Drive / Sega Genesis?
- 1. Zilog Z80
- 2. Intel 8088
- 3. Motorola 68000
- 4. Yamaha YM2612
+On which day did the World Wide Web go online?
+ 1. November 24, 1995
+ 2. December 20, 1990
+ 3. November 12, 1990
+ 4. December 17, 1996
 
 <details>
   <summary>Answer</summary>
-  Motorola 68000
+  December 20, 1990
 </details>
 
 
