@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Our wedding was so beautiful, even the cake was in tiers.
+Chances are if you' ve seen one shopping center, you've seen a mall.
 
 
 ## Daily Trivia
 
-What programming language was GitHub written in?
- 1. JavaScript
- 2. Python
- 3. Lua
- 4. Ruby
+How long is an IPv6 address?
+ 1. 64 bits
+ 2. 32 bits
+ 3. 128 bytes
+ 4. 128 bits
 
 <details>
   <summary>Answer</summary>
-  Ruby
+  128 bits
 </details>
 
 
