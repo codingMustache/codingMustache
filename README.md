@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Chances are if you' ve seen one shopping center, you've seen a mall.
+What do you do when you see a space man?
+Park your car, man.
 
 
 ## Daily Trivia
 
-How long is an IPv6 address?
- 1. 64 bits
- 2. 32 bits
- 3. 128 bytes
- 4. 128 bits
+In computing, what does LAN stand for?
+ 1. Long Antenna Node
+ 2. Light Access Node
+ 3. Land Address Navigation
+ 4. Local Area Network
 
 <details>
   <summary>Answer</summary>
-  128 bits
+  Local Area Network
 </details>
 
 
