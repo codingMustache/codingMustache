@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-If a child refuses to sleep during nap time, are they guilty of resisting a rest?
+Why does Han Solo like gum? It's chewy!
 
 
 ## Daily Trivia
 
-Which one of these is not an official development name for a Ubuntu release?
- 1. Mystic Mansion
- 2. Trusty Tahr
- 3. Wily Werewolf
- 4. Utopic Unicorn
+The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
+ 1. HD Graphics 600
+ 2. HD Graphics 500
+ 3. HD Graphics 700 
+ 4. HD Graphics 7000
 
 <details>
   <summary>Answer</summary>
-  Mystic Mansion
+  HD Graphics 500
 </details>
 
 
