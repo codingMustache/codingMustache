@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why don’t seagulls fly over the bay? Because then they’d be bay-gulls!
+My wife told me to rub the herbs on the meat for better flavor. That's sage advice.
 
 
 ## Daily Trivia
 
-Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
- 1. Cherry MX Blue
- 2. Cherry MX Black
- 3. Cherry MX Red
- 4. Cherry MX Brown
+America Online (AOL) started out as which of these online service providers?
+ 1. Quantum Link
+ 2. GEnie
+ 3. Prodigy
+ 4. CompuServe
 
 <details>
   <summary>Answer</summary>
-  Cherry MX Blue
+  Quantum Link
 </details>
 
 
