@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I cut my finger chopping cheese, but I think that I may have grater problems.
+What did the piece of bread say to the knife? Butter me up.
 
 
 ## Daily Trivia
 
-What does CPU stand for?
- 1. Computer Personal Unit
- 2. Central Processing Unit
- 3. Central Processor Unit
- 4. Central Process Unit
+What is the code name for the mobile operating system Android 7.0?
+ 1. Jelly Bean
+ 2. Marshmallow
+ 3. Ice Cream Sandwich
+ 4. Nougat
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  Nougat
 </details>
 
 
