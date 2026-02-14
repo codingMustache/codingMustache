@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Every morning when I go out, I get hit by bicycle. Every morning!  It's a vicious cycle.
+Where do you take someone who has been injured in a Peek-a-boo accident? To the I.C.U.
 
 
 ## Daily Trivia
 
-What does &quot;LCD&quot; stand for?
- 1. Language Control Design
- 2. Last Common Difference
- 3. Long Continuous Design
- 4. Liquid Crystal Display
+America Online (AOL) started out as which of these online service providers?
+ 1. Quantum Link
+ 2. Prodigy
+ 3. CompuServe
+ 4. GEnie
 
 <details>
   <summary>Answer</summary>
-  Liquid Crystal Display
+  Quantum Link
 </details>
 
 
