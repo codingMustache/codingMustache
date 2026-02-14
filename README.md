@@ -4,22 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did Mozart kill all his chickens?
-Because when he asked them who the best composer was, they'd all say "Bach bach bach!"
-
+If a child refuses to sleep during nap time, are they guilty of resisting a rest?
 
 
 ## Daily Trivia
 
-What was the first Android version specifically optimized for tablets?
- 1. Marshmellow
- 2. Eclair
- 3. Honeycomb
- 4. Froyo
+Which one of these is not an official development name for a Ubuntu release?
+ 1. Mystic Mansion
+ 2. Trusty Tahr
+ 3. Wily Werewolf
+ 4. Utopic Unicorn
 
 <details>
   <summary>Answer</summary>
-  Honeycomb
+  Mystic Mansion
 </details>
 
 
