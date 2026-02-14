@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I don't trust stairs. They're always up to something.
+Our wedding was so beautiful, even the cake was in tiers.
 
 
 ## Daily Trivia
 
-In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
- 1. console.log(&quot;Hello World&quot;)
- 2. printf(&quot;Hello World&quot;)
- 3. print(&quot;Hello World&quot;)
- 4. echo &quot;Hello World&quot;
+What programming language was GitHub written in?
+ 1. JavaScript
+ 2. Python
+ 3. Lua
+ 4. Ruby
 
 <details>
   <summary>Answer</summary>
-  print(&quot;Hello World&quot;)
+  Ruby
 </details>
 
 
