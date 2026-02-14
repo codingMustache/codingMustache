@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a fashionable lawn statue with an excellent sense of rhythmn? A metro-gnome
+What do I look like? A JOKE MACHINE!?
 
 
 ## Daily Trivia
 
-Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
- 1. PHP
- 2. Python
- 3. C#
- 4. JavaScript
+What does the computer software acronym JVM stand for?
+ 1. Java Virtual Machine
+ 2. Just Virtual Machine
+ 3. Java Visual Machine
+ 4. Java Vendor Machine
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  Java Virtual Machine
 </details>
 
 
