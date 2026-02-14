@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the piece of bread say to the knife? Butter me up.
+What's the difference between a rooster and a crow? A rooster can crow but a crow cannot rooster.
 
 
 ## Daily Trivia
 
-What is the code name for the mobile operating system Android 7.0?
- 1. Jelly Bean
- 2. Marshmallow
- 3. Ice Cream Sandwich
- 4. Nougat
+What does the International System of Quantities refer 1024 bytes as?
+ 1. Kylobyte
+ 2. Kibibyte
+ 3. Kilobyte
+ 4. Kelobyte
 
 <details>
   <summary>Answer</summary>
-  Nougat
+  Kibibyte
 </details>
 
 
