@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the worker get fired from the orange juice factory? Lack of concentration.
+Why don’t seagulls fly over the bay? Because then they’d be bay-gulls!
 
 
 ## Daily Trivia
 
-In programming, the ternary operator is mostly defined with what symbol(s)?
- 1. ??
- 2. if then
- 3. ?
- 4. ?:
+Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
+ 1. Cherry MX Blue
+ 2. Cherry MX Black
+ 3. Cherry MX Red
+ 4. Cherry MX Brown
 
 <details>
   <summary>Answer</summary>
-  ?:
+  Cherry MX Blue
 </details>
 
 
