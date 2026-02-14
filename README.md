@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was the big cat disqualified from the race? Because it was a cheetah.
+Where does batman go to the bathroom? The batroom.
 
 
 ## Daily Trivia
 
-Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
- 1. 44.1 kHz
- 2. 20.5 kHz
- 3. 32.0 kHz
- 4. 1.5 MHz
+Which of the following is NOT a computer science algorithm?
+ 1. Merge Sort
+ 2. Quick Sort
+ 3. Bubble Sort
+ 4. Float Sort
 
 <details>
   <summary>Answer</summary>
-  44.1 kHz
+  Float Sort
 </details>
 
 
