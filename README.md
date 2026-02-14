@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I asked a frenchman if he played video games. He said "Wii"
+What do you call a fashionable lawn statue with an excellent sense of rhythmn? A metro-gnome
 
 
 ## Daily Trivia
 
-On which day did the World Wide Web go online?
- 1. November 24, 1995
- 2. December 20, 1990
- 3. November 12, 1990
- 4. December 17, 1996
+Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
+ 1. PHP
+ 2. Python
+ 3. C#
+ 4. JavaScript
 
 <details>
   <summary>Answer</summary>
-  December 20, 1990
+  JavaScript
 </details>
 
 
