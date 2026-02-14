@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do fish live in salt water? Because pepper makes them sneeze!
+How does the moon cut his hair? Eclipse it.
 
 
 ## Daily Trivia
 
-The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
- 1. HD Graphics 500
- 2. HD Graphics 7000
- 3. HD Graphics 700 
- 4. HD Graphics 600
+The C programming language was created by this American computer scientist. 
+ 1. al-Khwārizmī
+ 2. Dennis Ritchie
+ 3. Willis Ware
+ 4. Tim Berners Lee
 
 <details>
   <summary>Answer</summary>
-  HD Graphics 500
+  Dennis Ritchie
 </details>
 
 
