@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you get when you cross a bee and a sheep? A bah-humbug.
-
+I got fired from the transmission factor, turns out I didn't put on enough shifts...
 
 
 ## Daily Trivia
 
-The acronym &quot;RIP&quot; stands for which of these?
- 1. Runtime Instance Processes
- 2. Regular Interval Processes
- 3. Routine Inspection Protocol
- 4. Routing Information Protocol
+Which of the following physical typologies are used with Ethernet Networks?
+ 1. Ring
+ 2. Mesh
+ 3. Hex
+ 4. Star
 
 <details>
   <summary>Answer</summary>
-  Routing Information Protocol
+  Star
 </details>
 
 
