@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do I look like? A JOKE MACHINE!?
+Why do bees have sticky hair? Because they use honey combs!
 
 
 ## Daily Trivia
 
-What does the computer software acronym JVM stand for?
- 1. Java Virtual Machine
- 2. Just Virtual Machine
- 3. Java Visual Machine
- 4. Java Vendor Machine
+Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
+ 1. Apple
+ 2. Commodore
+ 3. Atari
+ 4. Microsoft
 
 <details>
   <summary>Answer</summary>
-  Java Virtual Machine
+  Apple
 </details>
 
 
