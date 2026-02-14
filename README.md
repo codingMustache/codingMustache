@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where does batman go to the bathroom? The batroom.
+Why do crabs never give to charity? Because they’re shellfish.
 
 
 ## Daily Trivia
 
-Which of the following is NOT a computer science algorithm?
- 1. Merge Sort
- 2. Quick Sort
- 3. Bubble Sort
- 4. Float Sort
+In programming, what do you call functions with the same name but different implementations?
+ 1. Overloading
+ 2. Inheriting
+ 3. Abstracting
+ 4. Overriding
 
 <details>
   <summary>Answer</summary>
-  Float Sort
+  Overloading
 </details>
 
 
