@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do crabs never give to charity? Because they’re shellfish.
+Why do bees hum? Because they don't know the words.
 
 
 ## Daily Trivia
 
-In programming, what do you call functions with the same name but different implementations?
- 1. Overloading
- 2. Inheriting
- 3. Abstracting
- 4. Overriding
+What was the name of the image that features as the default background wallpaper for Windows XP?
+ 1. Azul
+ 2. Red moon desert
+ 3. Tulips
+ 4. Bliss
 
 <details>
   <summary>Answer</summary>
-  Overloading
+  Bliss
 </details>
 
 
