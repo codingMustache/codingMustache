@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to hate facial hair, but then it grew on me.
+Did you know that protons have mass? I didn't even know they were catholic.
 
 
 ## Daily Trivia
 
-In programming, the ternary operator is mostly defined with what symbol(s)?
- 1. ?
- 2. if then
- 3. ??
- 4. ?:
+How many Hz does the video standard PAL support?
+ 1. 59
+ 2. 50
+ 3. 60
+ 4. 25
 
 <details>
   <summary>Answer</summary>
-  ?:
+  50
 </details>
 
 
