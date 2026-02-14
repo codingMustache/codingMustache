@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do bees hum? Because they don't know the words.
+When I left school, I passed every one of my exams with the exception of Greek Mythology. It always was my achilles elbow
 
 
 ## Daily Trivia
 
-What was the name of the image that features as the default background wallpaper for Windows XP?
- 1. Azul
- 2. Red moon desert
- 3. Tulips
- 4. Bliss
+What was Bitcoin&#039;s block size limit in 2010?
+ 1. 1 TB
+ 2. 1 MB
+ 3. 1 KB
+ 4. 1GB
 
 <details>
   <summary>Answer</summary>
-  Bliss
+  1 MB
 </details>
 
 
