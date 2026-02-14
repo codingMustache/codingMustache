@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do rabbits go after they get married? On a bunny-moon.
+Why was the big cat disqualified from the race? Because it was a cheetah.
 
 
 ## Daily Trivia
 
-The numbering system with a radix of 16 is more commonly referred to as 
- 1. Duodecimal
- 2. Hexidecimal
- 3. Octal
- 4. Binary
+What is the domain name for the country Tuvalu?
+ 1. .tt
+ 2. .tv
+ 3. .tu
+ 4. .tl
 
 <details>
   <summary>Answer</summary>
-  Hexidecimal
+  .tv
 </details>
 
 
