@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I decided to sell my Hoover… well it was just collecting dust.
+How do you steal a coat? You jacket.
 
 
 ## Daily Trivia
 
-In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
- 1. &lt;scroll&gt;&lt;/scroll&gt;
- 2. &lt;move&gt;&lt;/move&gt;
- 3. &lt;slide&gt;&lt;/slide&gt;
- 4. &lt;marquee&gt;&lt;/marquee&gt;
+On which day did the World Wide Web go online?
+ 1. November 24, 1995
+ 2. November 12, 1990
+ 3. December 17, 1996
+ 4. December 20, 1990
 
 <details>
   <summary>Answer</summary>
-  &lt;marquee&gt;&lt;/marquee&gt;
+  December 20, 1990
 </details>
 
 
