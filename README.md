@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do bees have sticky hair? Because they use honey combs!
+"I'll call you later." Don't call me later, call me Dad.
 
 
 ## Daily Trivia
 
-Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
- 1. Apple
- 2. Commodore
- 3. Atari
- 4. Microsoft
+On Twitter, what was the original character limit for a Tweet?
+ 1. 160
+ 2. 140
+ 3. 120
+ 4. 100
 
 <details>
   <summary>Answer</summary>
-  Apple
+  140
 </details>
 
 
