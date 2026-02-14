@@ -4,22 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Doctor: Do you want to hear the good news or the bad news?
-Patient: Good news please.
-Doctor: we're naming a disease after you.
+I don't trust stairs. They're always up to something.
 
 
 ## Daily Trivia
 
-Generally, which component of a computer draws the most power?
- 1. Hard Drive
- 2. Processor
- 3. Power Supply
- 4. Video Card
+In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
+ 1. console.log(&quot;Hello World&quot;)
+ 2. printf(&quot;Hello World&quot;)
+ 3. print(&quot;Hello World&quot;)
+ 4. echo &quot;Hello World&quot;
 
 <details>
   <summary>Answer</summary>
-  Video Card
+  print(&quot;Hello World&quot;)
 </details>
 
 
