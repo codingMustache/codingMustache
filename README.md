@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-"I'll call you later." Don't call me later, call me Dad.
+Why did the worker get fired from the orange juice factory? Lack of concentration.
 
 
 ## Daily Trivia
 
-On Twitter, what was the original character limit for a Tweet?
- 1. 160
- 2. 140
- 3. 120
- 4. 100
+In programming, the ternary operator is mostly defined with what symbol(s)?
+ 1. ??
+ 2. if then
+ 3. ?
+ 4. ?:
 
 <details>
   <summary>Answer</summary>
-  140
+  ?:
 </details>
 
 
