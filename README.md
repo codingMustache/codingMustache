@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I’ll tell you something about German sausages, they’re the wurst
+Nurse: Doctor, there's a patient that says he's invisible. Doctor: Well, tell him I can't see him right now!
 
 
 ## Daily Trivia
 
-This mobile OS held the largest market share in 2012.
- 1. Android
- 2. BlackBerry
- 3. Symbian
- 4. iOS
+What does RAID stand for?
+ 1. Redundant Array of Independent Disks
+ 2. Randomized Abstract Identification Description
+ 3. Range of Applications with Identical Designs
+ 4. Rapid Access for Indexed Devices
 
 <details>
   <summary>Answer</summary>
-  iOS
+  Redundant Array of Independent Disks
 </details>
 
 
