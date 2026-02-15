@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My sea sickness comes in waves.
+Archaeology really is a career in ruins.
 
 
 ## Daily Trivia
 
-What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
- 1. Broadwell
- 2. Coffee Lake
- 3. Skylake
- 4. Sandy Bridge
+What was the first company to use the term &quot;Golden Master&quot;?
+ 1. Google
+ 2. Apple
+ 3. IBM
+ 4. Microsoft
 
 <details>
   <summary>Answer</summary>
-  Coffee Lake
+  Apple
 </details>
 
 
