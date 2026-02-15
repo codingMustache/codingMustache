@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you get when you cross a bee and a sheep? A bah-humbug.
-
+Someone asked me, what's the ninth letter of the alphabet? It was a complete guess, but I was right.
 
 
 ## Daily Trivia
 
-What is the maximum value of a 32-bit signed binary integer?
- 1. 255
- 2. 2048
- 3. 9,223,372,036,854,775,807
- 4. 2,147,483,647
+The acronym &quot;RIP&quot; stands for which of these?
+ 1. Routine Inspection Protocol
+ 2. Regular Interval Processes
+ 3. Routing Information Protocol
+ 4. Runtime Instance Processes
 
 <details>
   <summary>Answer</summary>
-  2,147,483,647
+  Routing Information Protocol
 </details>
 
 
