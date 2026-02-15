@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How does Darth Vader like his toast? On the dark side.
+Why are mummys scared of vacation? They're afraid to unwind.
 
 
 ## Daily Trivia
 
-This mobile OS held the largest market share in 2012.
- 1. Symbian
- 2. Android
- 3. iOS
- 4. BlackBerry
+What language does Node.js use?
+ 1. JavaScript
+ 2. Java
+ 3. Java Source
+ 4. Joomla Source Code
 
 <details>
   <summary>Answer</summary>
-  iOS
+  JavaScript
 </details>
 
 
