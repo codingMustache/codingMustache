@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where did you learn to make ice cream? Sunday school.
+Where does batman go to the bathroom? The batroom.
 
 
 ## Daily Trivia
 
-What amount of bits commonly equals one byte?
- 1. 64
- 2. 8
- 3. 2
- 4. 1
+The C programming language was created by this American computer scientist. 
+ 1. Dennis Ritchie
+ 2. Willis Ware
+ 3. Tim Berners Lee
+ 4. al-Khwārizmī
 
 <details>
   <summary>Answer</summary>
-  8
+  Dennis Ritchie
 </details>
 
 
