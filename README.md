@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I tried taking some high resolution photos of local farmland, but they all turned out a bit grainy.
+In the news a courtroom artist was arrested today, I'm not surprised, he always seemed sketchy.
 
 
 ## Daily Trivia
 
-What does the &#039;S&#039; in the RSA encryption algorithm stand for?
- 1. Shamir
- 2. Stable
- 3. Schottky
- 4. Secure
+This mobile OS held the largest market share in 2012.
+ 1. Android
+ 2. BlackBerry
+ 3. iOS
+ 4. Symbian
 
 <details>
   <summary>Answer</summary>
-  Shamir
+  iOS
 </details>
 
 
