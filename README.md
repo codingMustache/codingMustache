@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later.
+My sister bet me $15 that I couldn't build a car out of spaghetti. You should have seen the look on her face as I drove pasta.
 
 
 ## Daily Trivia
 
-In computing, what does MIDI stand for?
- 1. Musical Instrument Digital Interface
- 2. Musical Instrument Data Interface
- 3. Modular Interface of Digital Instruments
- 4. Musical Interface of Digital Instruments
+Which of the following physical typologies are used with Ethernet Networks?
+ 1. Star
+ 2. Hex
+ 3. Mesh
+ 4. Ring
 
 <details>
   <summary>Answer</summary>
-  Musical Instrument Digital Interface
+  Star
 </details>
 
 
