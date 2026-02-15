@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do we tell actors to “break a leg?” Because every play has a cast.
+What is the hardest part about sky diving? The ground.
 
 
 ## Daily Trivia
 
-HTML is what type of language?
- 1. Macro Language
- 2. Markup Language
- 3. Programming Language
- 4. Scripting Language
+What was the name of the security vulnerability found in Bash in 2014?
+ 1. Shellshock
+ 2. Stagefright
+ 3. Bashbug
+ 4. Heartbleed
 
 <details>
   <summary>Answer</summary>
-  Markup Language
+  Shellshock
 </details>
 
 
