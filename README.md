@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My first time using an elevator was an uplifting experience. The second time let me down.
+What is a witch's favorite subject in school? Spelling!
 
 
 ## Daily Trivia
 
-Which of these people was NOT a founder of Apple Inc?
- 1. Jonathan Ive
- 2. Steve Wozniak
- 3. Ronald Wayne
- 4. Steve Jobs
+What is the most preferred image format used for logos in the Wikimedia database?
+ 1. .svg
+ 2. .png
+ 3. .gif
+ 4. .jpeg
 
 <details>
   <summary>Answer</summary>
-  Jonathan Ive
+  .svg
 </details>
 
 
