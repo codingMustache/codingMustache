@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Want to hear my pizza joke? Never mind, it's too cheesy.
+How does Darth Vader like his toast? On the dark side.
 
 
 ## Daily Trivia
 
-What does the &quot;MP&quot; stand for in MP3?
- 1. Moving Picture
- 2. Micro Point
- 3. Multi Pass
- 4. Music Player
+This mobile OS held the largest market share in 2012.
+ 1. Symbian
+ 2. Android
+ 3. iOS
+ 4. BlackBerry
 
 <details>
   <summary>Answer</summary>
-  Moving Picture
+  iOS
 </details>
 
 
