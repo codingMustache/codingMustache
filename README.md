@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the feline fail the lie detector test? Because he be lion.
+Where did you learn to make ice cream? Sunday school.
 
 
 ## Daily Trivia
 
-What is the name of Layer 7 of the OSI model?
- 1. Present
- 2. Network
- 3. Session
- 4. Application
+What amount of bits commonly equals one byte?
+ 1. 64
+ 2. 8
+ 3. 2
+ 4. 1
 
 <details>
   <summary>Answer</summary>
-  Application
+  8
 </details>
 
 
