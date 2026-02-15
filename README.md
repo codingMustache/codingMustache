@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What was a more important invention than the first telephone? The second one.
+Just read a few facts about frogs. They were ribbiting.
 
 
 ## Daily Trivia
 
-What does the &#039;S&#039; in the RSA encryption algorithm stand for?
- 1. Shamir
- 2. Stable
- 3. Schottky
- 4. Secure
+What is the name of the process that sends one qubit of information using two bits of classical information?
+ 1. Quantum Teleportation
+ 2. Quantum Programming
+ 3. Quantum Entanglement
+ 4. Super Dense Coding
 
 <details>
   <summary>Answer</summary>
-  Shamir
+  Quantum Teleportation
 </details>
 
 
