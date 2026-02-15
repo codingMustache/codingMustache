@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What biscuit does a short person like? Shortbread. 
+I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later.
 
 
 ## Daily Trivia
 
-What is the code name for the mobile operating system Android 7.0?
- 1. Ice Cream Sandwich
- 2. Nougat
- 3. Marshmallow
- 4. Jelly Bean
+In computing, what does MIDI stand for?
+ 1. Musical Instrument Digital Interface
+ 2. Musical Instrument Data Interface
+ 3. Modular Interface of Digital Instruments
+ 4. Musical Interface of Digital Instruments
 
 <details>
   <summary>Answer</summary>
-  Nougat
+  Musical Instrument Digital Interface
 </details>
 
 
