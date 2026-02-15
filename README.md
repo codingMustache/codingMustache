@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the difference between a guitar and a fish? You can tune a guitar but you can't "tuna" fish!
+Why are graveyards so noisy? Because of all the coffin.
 
 
 ## Daily Trivia
 
-Approximately how many Apple I personal computers were created?
- 1. 100
- 2. 200
- 3. 1000
- 4. 500
+What was the first company to use the term &quot;Golden Master&quot;?
+ 1. Microsoft
+ 2. Google
+ 3. IBM
+ 4. Apple
 
 <details>
   <summary>Answer</summary>
-  200
+  Apple
 </details>
 
 
