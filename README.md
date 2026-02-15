@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What creature is smarter than a talking parrot? A spelling bee.
+What's the difference between a guitar and a fish? You can tune a guitar but you can't "tuna" fish!
 
 
 ## Daily Trivia
 
-What was the name of the security vulnerability found in Bash in 2014?
- 1. Heartbleed
- 2. Bashbug
- 3. Shellshock
- 4. Stagefright
+Approximately how many Apple I personal computers were created?
+ 1. 100
+ 2. 200
+ 3. 1000
+ 4. 500
 
 <details>
   <summary>Answer</summary>
-  Shellshock
+  200
 </details>
 
 
