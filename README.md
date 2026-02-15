@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I made a playlist for hiking. It has music from Peanuts, The Cranberries, and Eminem. I call it my Trail Mix.
+It was raining cats and dogs the other day. I almost stepped in a poodle.
 
 
 ## Daily Trivia
 
-Which of the following is NOT a computer science algorithm?
- 1. Quick Sort
- 2. Float Sort
- 3. Merge Sort
- 4. Bubble Sort
+In web design, what does CSS stand for?
+ 1. Counter Strike: Source
+ 2. Cascading Style Sheet
+ 3. Corrective Style Sheet
+ 4. Computer Style Sheet
 
 <details>
   <summary>Answer</summary>
-  Float Sort
+  Cascading Style Sheet
 </details>
 
 
