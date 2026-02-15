@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Archaeology really is a career in ruins.
+What is red and smells like blue paint?
+Red paint!
 
 
 ## Daily Trivia
 
-What was the first company to use the term &quot;Golden Master&quot;?
- 1. Google
- 2. Apple
- 3. IBM
- 4. Microsoft
+What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
+ 1. Coffee Lake
+ 2. Broadwell
+ 3. Sandy Bridge
+ 4. Skylake
 
 <details>
   <summary>Answer</summary>
-  Apple
+  Coffee Lake
 </details>
 
 
