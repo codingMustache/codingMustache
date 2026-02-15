@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why don't you find hippopotamuses hiding in trees?
-They're really good at it.
+I tried taking some high resolution photos of local farmland, but they all turned out a bit grainy.
 
 
 ## Daily Trivia
 
-Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
- 1. Microsoft
- 2. Atari
- 3. Apple
- 4. Commodore
+What does the &#039;S&#039; in the RSA encryption algorithm stand for?
+ 1. Shamir
+ 2. Stable
+ 3. Schottky
+ 4. Secure
 
 <details>
   <summary>Answer</summary>
-  Apple
+  Shamir
 </details>
 
 
