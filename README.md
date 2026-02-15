@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I've started telling everyone about the benefits of eating dried grapes. It's all about raisin awareness.
+What do you get when you cross a bee and a sheep? A bah-humbug.
+
 
 
 ## Daily Trivia
 
-What did the name of the Tor Anonymity Network orignially stand for?
- 1. The Ominous Router
- 2. The Only Router
- 3. The Orange Router
- 4. The Onion Router
+What is the maximum value of a 32-bit signed binary integer?
+ 1. 255
+ 2. 2048
+ 3. 9,223,372,036,854,775,807
+ 4. 2,147,483,647
 
 <details>
   <summary>Answer</summary>
-  The Onion Router
+  2,147,483,647
 </details>
 
 
