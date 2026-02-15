@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Americans can't switch from pounds to kilograms overnight. That would cause mass confusion.
+Why did the feline fail the lie detector test? Because he be lion.
 
 
 ## Daily Trivia
 
-What does the term GPU stand for?
- 1. Gaming Processor Unit
- 2. Graphics Processing Unit
- 3. Graphite Producing Unit
- 4. Graphical Proprietary Unit
+What is the name of Layer 7 of the OSI model?
+ 1. Present
+ 2. Network
+ 3. Session
+ 4. Application
 
 <details>
   <summary>Answer</summary>
-  Graphics Processing Unit
+  Application
 </details>
 
 
