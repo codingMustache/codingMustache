@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the guy whose whole left side was cut off? He's all right now.
+Don't buy flowers at a monastery. Because only you can prevent florist friars.
 
 
 ## Daily Trivia
 
-What is the most preferred image format used for logos in the Wikimedia database?
- 1. .png
- 2. .gif
- 3. .jpeg
- 4. .svg
+The name of technology company HP stands for what?
+ 1. Hewlett-Packard
+ 2. Hellman-Pohl
+ 3. Husker-Pollosk
+ 4. Howard Packmann
 
 <details>
   <summary>Answer</summary>
-  .svg
+  Hewlett-Packard
 </details>
 
 
