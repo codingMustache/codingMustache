@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are mummys scared of vacation? They're afraid to unwind.
+"I'll call you later." Don't call me later, call me Dad.
 
 
 ## Daily Trivia
 
-What language does Node.js use?
- 1. JavaScript
- 2. Java
- 3. Java Source
- 4. Joomla Source Code
+Laserjet and inkjet printers are both examples of what type of printer?
+ 1. Dot matrix printer
+ 2. Daisywheel printer
+ 3. Impact printer
+ 4. Non-impact printer
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  Non-impact printer
 </details>
 
 
