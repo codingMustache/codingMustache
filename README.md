@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-"I'll call you later." Don't call me later, call me Dad.
+My first time using an elevator was an uplifting experience. The second time let me down.
 
 
 ## Daily Trivia
 
-Laserjet and inkjet printers are both examples of what type of printer?
- 1. Dot matrix printer
- 2. Daisywheel printer
- 3. Impact printer
- 4. Non-impact printer
+Which of these people was NOT a founder of Apple Inc?
+ 1. Jonathan Ive
+ 2. Steve Wozniak
+ 3. Ronald Wayne
+ 4. Steve Jobs
 
 <details>
   <summary>Answer</summary>
-  Non-impact printer
+  Jonathan Ive
 </details>
 
 
