@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It’s hard to explain puns to kleptomaniacs, because they take everything literally.
+What was a more important invention than the first telephone? The second one.
 
 
 ## Daily Trivia
 
-What vulnerability ranked #1 on the OWASP Top 10 in 2013?
- 1. Broken Authentication
- 2. Injection 
- 3. Insecure Direct Object References
- 4. Cross-Site Scripting
+What does the &#039;S&#039; in the RSA encryption algorithm stand for?
+ 1. Shamir
+ 2. Stable
+ 3. Schottky
+ 4. Secure
 
 <details>
   <summary>Answer</summary>
-  Injection 
+  Shamir
 </details>
 
 
