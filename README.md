@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Nurse: Doctor, there's a patient that says he's invisible. Doctor: Well, tell him I can't see him right now!
+I've just written a song about a tortilla. Well, it is more of a rap really.
 
 
 ## Daily Trivia
 
-What does RAID stand for?
- 1. Redundant Array of Independent Disks
- 2. Randomized Abstract Identification Description
- 3. Range of Applications with Identical Designs
- 4. Rapid Access for Indexed Devices
+Which one of these is not an official development name for a Ubuntu release?
+ 1. Wily Werewolf
+ 2. Utopic Unicorn
+ 3. Mystic Mansion
+ 4. Trusty Tahr
 
 <details>
   <summary>Answer</summary>
-  Redundant Array of Independent Disks
+  Mystic Mansion
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **10 days** since this server shutdown
+Its been **11 days** since this server shutdown
