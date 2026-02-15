@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the ocean say to the shore? Nothing, it just waved.
+What biscuit does a short person like? Shortbread. 
 
 
 ## Daily Trivia
 
-Which RAID array type is associated with data mirroring?
- 1. RAID 1
- 2. RAID 5
- 3. RAID 10
- 4. RAID 0
+What is the code name for the mobile operating system Android 7.0?
+ 1. Ice Cream Sandwich
+ 2. Nougat
+ 3. Marshmallow
+ 4. Jelly Bean
 
 <details>
   <summary>Answer</summary>
-  RAID 1
+  Nougat
 </details>
 
 
