@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How did the hipster burn the roof of his mouth? He ate the pizza before it was cool.
+Did you hear about the guy whose whole left side was cut off? He's all right now.
 
 
 ## Daily Trivia
 
-What is the maximum value of a 32-bit signed binary integer?
- 1. 255
- 2. 9,223,372,036,854,775,807
- 3. 2048
- 4. 2,147,483,647
+What is the most preferred image format used for logos in the Wikimedia database?
+ 1. .png
+ 2. .gif
+ 3. .jpeg
+ 4. .svg
 
 <details>
   <summary>Answer</summary>
-  2,147,483,647
+  .svg
 </details>
 
 
