@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where does batman go to the bathroom? The batroom.
+My sea sickness comes in waves.
 
 
 ## Daily Trivia
 
-The C programming language was created by this American computer scientist. 
- 1. Dennis Ritchie
- 2. Willis Ware
- 3. Tim Berners Lee
- 4. al-Khwārizmī
+What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
+ 1. Broadwell
+ 2. Coffee Lake
+ 3. Skylake
+ 4. Sandy Bridge
 
 <details>
   <summary>Answer</summary>
-  Dennis Ritchie
+  Coffee Lake
 </details>
 
 
