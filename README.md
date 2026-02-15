@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is the hardest part about sky diving? The ground.
+Did you hear about the submarine industry? It really took a dive...
 
 
 ## Daily Trivia
 
-What was the name of the security vulnerability found in Bash in 2014?
- 1. Shellshock
- 2. Stagefright
- 3. Bashbug
- 4. Heartbleed
+All of the following programs are classified as raster graphics editors EXCEPT:
+ 1. Inkscape
+ 2. Adobe Photoshop
+ 3. GIMP
+ 4. Paint.NET
 
 <details>
   <summary>Answer</summary>
-  Shellshock
+  Inkscape
 </details>
 
 
