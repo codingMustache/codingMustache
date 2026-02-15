@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the submarine industry? It really took a dive...
+What do I look like? A JOKE MACHINE!?
 
 
 ## Daily Trivia
 
-All of the following programs are classified as raster graphics editors EXCEPT:
- 1. Inkscape
- 2. Adobe Photoshop
- 3. GIMP
- 4. Paint.NET
+In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
+ 1. printf(&quot;Hello World&quot;)
+ 2. console.log(&quot;Hello World&quot;)
+ 3. print(&quot;Hello World&quot;)
+ 4. echo &quot;Hello World&quot;
 
 <details>
   <summary>Answer</summary>
-  Inkscape
+  print(&quot;Hello World&quot;)
 </details>
 
 
