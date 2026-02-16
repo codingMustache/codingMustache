@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A butcher accidentally backed into his meat grinder and got a little behind in his work that day.
+"What time is it?" I don't know... it keeps changing.
 
 
 ## Daily Trivia
 
-Which one of these is not an official development name for a Ubuntu release?
- 1. Wily Werewolf
- 2. Mystic Mansion
- 3. Utopic Unicorn
- 4. Trusty Tahr
+What is the main CPU is the Sega Mega Drive / Sega Genesis?
+ 1. Motorola 68000
+ 2. Intel 8088
+ 3. Yamaha YM2612
+ 4. Zilog Z80
 
 <details>
   <summary>Answer</summary>
-  Mystic Mansion
+  Motorola 68000
 </details>
 
 
