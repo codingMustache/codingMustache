@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the left eye say to the right eye? Between us, something smells!
+Scientists finally did a study on forks. It's about tine!
 
 
 ## Daily Trivia
 
-If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
- 1. Python
- 2. JavaScript
- 3. C++
- 4. Binary
+On which day did the World Wide Web go online?
+ 1. December 20, 1990
+ 2. November 24, 1995
+ 3. November 12, 1990
+ 4. December 17, 1996
 
 <details>
   <summary>Answer</summary>
-  Binary
+  December 20, 1990
 </details>
 
 
