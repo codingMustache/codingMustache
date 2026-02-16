@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the opera singer go sailing? They wanted to hit the high Cs.
+What has a bed that you can’t sleep in? A river.
 
 
 ## Daily Trivia
 
-Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
- 1. Cherry MX Black
- 2. Cherry MX Brown
- 3. Cherry MX Red
- 4. Cherry MX Blue
+What is the number of keys on a standard Windows Keyboard?
+ 1. 76
+ 2. 94
+ 3. 104
+ 4. 64
 
 <details>
   <summary>Answer</summary>
-  Cherry MX Blue
+  104
 </details>
 
 
