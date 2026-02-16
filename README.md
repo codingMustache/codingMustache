@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What has a bed that you can’t sleep in? A river.
+I been watching a channel on TV that is strictly just about origami — of course it is paper-view.
 
 
 ## Daily Trivia
 
-What is the number of keys on a standard Windows Keyboard?
- 1. 76
- 2. 94
- 3. 104
- 4. 64
+On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
+ 1. Dollar Sign
+ 2. Asterisk
+ 3. Percent Sign
+ 4. Exclamation Mark
 
 <details>
   <summary>Answer</summary>
-  104
+  Exclamation Mark
 </details>
 
 
