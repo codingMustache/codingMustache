@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do computers and air conditioners have in common? They both become useless when you open windows.
+What did the judge say to the dentist? Do you swear to pull the tooth, the whole tooth and nothing but the tooth?
 
 
 ## Daily Trivia
 
-What was the first commerically available computer processor?
- 1. Intel 4004
- 2. AMD AM386
- 3. TMS 1000
- 4. Intel 486SX
+Which data structure does FILO apply to?
+ 1. Queue
+ 2. Heap
+ 3. Stack
+ 4. Tree
 
 <details>
   <summary>Answer</summary>
-  Intel 4004
+  Stack
 </details>
 
 
