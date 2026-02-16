@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why can’t you hear a pterodactyl go to the bathroom? The p is silent.
+Toasters were the first form of pop-up notifications.
 
 
 ## Daily Trivia
 
-Which of these programming languages is a low-level language?
- 1. Pascal
+What major programming language does Unreal Engine 4 use?
+ 1. Assembly
  2. C#
- 3. Python
- 4. Assembly
+ 3. ECMAScript
+ 4. C++
 
 <details>
   <summary>Answer</summary>
-  Assembly
+  C++
 </details>
 
 
