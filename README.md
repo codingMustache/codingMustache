@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A Skeleton walked into a bar he said I need a beer and a mop
+What do computers and air conditioners have in common? They both become useless when you open windows.
 
 
 ## Daily Trivia
 
-What does &quot;LCD&quot; stand for?
- 1. Liquid Crystal Display
- 2. Long Continuous Design
- 3. Last Common Difference
- 4. Language Control Design
+What was the first commerically available computer processor?
+ 1. Intel 4004
+ 2. AMD AM386
+ 3. TMS 1000
+ 4. Intel 486SX
 
 <details>
   <summary>Answer</summary>
-  Liquid Crystal Display
+  Intel 4004
 </details>
 
 
