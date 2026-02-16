@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to be a banker, but I lost interest.
+The word queue is ironic. It's just q with a bunch of silent letters waiting in line.
 
 
 ## Daily Trivia
 
-What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
- 1. Broadwell
- 2. Coffee Lake
- 3. Sandy Bridge
- 4. Skylake
+According to the International System of Units, how many bytes are in a kilobyte of RAM?
+ 1. 512
+ 2. 1024
+ 3. 1000
+ 4. 500
 
 <details>
   <summary>Answer</summary>
-  Coffee Lake
+  1000
 </details>
 
 
