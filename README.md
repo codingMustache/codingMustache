@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the opera singer go sailing? They wanted to hit the high Cs.
+I just wrote a book on reverse psychology. Do not read it!
 
 
 ## Daily Trivia
 
-In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
- 1. Red
- 2. Blue
- 3. Yellow
- 4. Green
+In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
+ 1. printf(&quot;Hello World&quot;)
+ 2. echo &quot;Hello World&quot;
+ 3. print(&quot;Hello World&quot;)
+ 4. console.log(&quot;Hello World&quot;)
 
 <details>
   <summary>Answer</summary>
-  Green
+  print(&quot;Hello World&quot;)
 </details>
 
 
