@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do bees hum? Because they don't know the words.
+To the guy who invented zero... thanks for nothing.
 
 
 ## Daily Trivia
 
-The numbering system with a radix of 16 is more commonly referred to as 
- 1. Hexidecimal
- 2. Binary
- 3. Octal
- 4. Duodecimal
+Which of these is not a layer in the OSI model for data communications?
+ 1. Physical Layer
+ 2. Connection Layer
+ 3. Transport Layer
+ 4. Application Layer
 
 <details>
   <summary>Answer</summary>
-  Hexidecimal
+  Connection Layer
 </details>
 
 
