@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-"What time is it?" I don't know... it keeps changing.
+Why didn’t the skeleton cross the road? Because he had no guts.
 
 
 ## Daily Trivia
 
-What is the main CPU is the Sega Mega Drive / Sega Genesis?
- 1. Motorola 68000
- 2. Intel 8088
- 3. Yamaha YM2612
- 4. Zilog Z80
+Which of these is not a key value of Agile software development?
+ 1. Customer collaboration
+ 2. Comprehensive documentation
+ 3. Individuals and interactions
+ 4. Responding to change
 
 <details>
   <summary>Answer</summary>
-  Motorola 68000
+  Comprehensive documentation
 </details>
 
 
