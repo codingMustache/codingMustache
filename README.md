@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the grape do when he got stepped on? He let out a little wine.
+What do you call a cow with no legs? Ground beef.
 
 
 ## Daily Trivia
 
-In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
- 1. Yellow
- 2. Red
- 3. Blue
- 4. Green
+What is the main CPU is the Sega Mega Drive / Sega Genesis?
+ 1. Zilog Z80
+ 2. Motorola 68000
+ 3. Yamaha YM2612
+ 4. Intel 8088
 
 <details>
   <summary>Answer</summary>
-  Green
+  Motorola 68000
 </details>
 
 
