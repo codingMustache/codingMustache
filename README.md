@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the difference between a guitar and a fish? You can tune a guitar but you can't "tuna" fish!
+You know what they say about cliffhangers...
 
 
 ## Daily Trivia
 
-Which of the following physical typologies are used with Ethernet Networks?
- 1. Hex
- 2. Mesh
- 3. Star
- 4. Ring
+What does LTS stand for in the software market?
+ 1. Long Taco Service
+ 2. Ludicrous Transfer Speed
+ 3. Ludicrous Turbo Speed
+ 4. Long Term Support
 
 <details>
   <summary>Answer</summary>
-  Star
+  Long Term Support
 </details>
 
 
