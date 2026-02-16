@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Q: What did the spaghetti say to the other spaghetti?
-A: Pasta la vista, baby!
+Someone broke into my house last night and stole my limbo trophy. How low can you go?
 
 
 ## Daily Trivia
 
-Dutch computer scientist Mark Overmars is known for creating which game development engine?
- 1. Game Maker
- 2. Torque 2D
- 3. Construct
- 4. Stencyl
+Which of these programming languages is a low-level language?
+ 1. Pascal
+ 2. Assembly
+ 3. Python
+ 4. C#
 
 <details>
   <summary>Answer</summary>
-  Game Maker
+  Assembly
 </details>
 
 
