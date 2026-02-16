@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Past, present, and future walked into a bar.... It was tense.
+Why do bees hum? Because they don't know the words.
 
 
 ## Daily Trivia
 
-What did the name of the Tor Anonymity Network orignially stand for?
- 1. The Only Router
- 2. The Orange Router
- 3. The Ominous Router
- 4. The Onion Router
+The numbering system with a radix of 16 is more commonly referred to as 
+ 1. Hexidecimal
+ 2. Binary
+ 3. Octal
+ 4. Duodecimal
 
 <details>
   <summary>Answer</summary>
-  The Onion Router
+  Hexidecimal
 </details>
 
 
