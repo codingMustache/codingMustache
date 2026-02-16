@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I just wrote a book on reverse psychology. Do not read it!
+Two guys walked into a bar, the third one ducked.
 
 
 ## Daily Trivia
 
-In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
- 1. printf(&quot;Hello World&quot;)
- 2. echo &quot;Hello World&quot;
- 3. print(&quot;Hello World&quot;)
- 4. console.log(&quot;Hello World&quot;)
+What does the International System of Quantities refer 1024 bytes as?
+ 1. Kylobyte
+ 2. Kilobyte
+ 3. Kelobyte
+ 4. Kibibyte
 
 <details>
   <summary>Answer</summary>
-  print(&quot;Hello World&quot;)
+  Kibibyte
 </details>
 
 
