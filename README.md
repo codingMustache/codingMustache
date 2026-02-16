@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The word queue is ironic. It's just q with a bunch of silent letters waiting in line.
+What did Yoda say when he saw himself in 4K? "HDMI"
 
 
 ## Daily Trivia
 
-According to the International System of Units, how many bytes are in a kilobyte of RAM?
- 1. 512
- 2. 1024
- 3. 1000
- 4. 500
+Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
+ 1. Tiger
+ 2. Leopard
+ 3. Puma
+ 4. Cheetah
 
 <details>
   <summary>Answer</summary>
-  1000
+  Cheetah
 </details>
 
 
