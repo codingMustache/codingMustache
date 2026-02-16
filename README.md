@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-You know what they say about cliffhangers...
+What do you get when you cross a pig and a pineapple? A porky pine
 
 
 ## Daily Trivia
 
-What does LTS stand for in the software market?
- 1. Long Taco Service
- 2. Ludicrous Transfer Speed
- 3. Ludicrous Turbo Speed
- 4. Long Term Support
+On which computer hardware device is the BIOS chip located?
+ 1. Motherboard
+ 2. Graphics Processing Unit
+ 3. Central Processing Unit
+ 4. Hard Disk Drive
 
 <details>
   <summary>Answer</summary>
-  Long Term Support
+  Motherboard
 </details>
 
 
