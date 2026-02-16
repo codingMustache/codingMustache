@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Toasters were the first form of pop-up notifications.
+Sore throats are a pain in the neck!
 
 
 ## Daily Trivia
 
-What major programming language does Unreal Engine 4 use?
- 1. Assembly
- 2. C#
- 3. ECMAScript
- 4. C++
+How many Hz does the video standard PAL support?
+ 1. 59
+ 2. 25
+ 3. 60
+ 4. 50
 
 <details>
   <summary>Answer</summary>
-  C++
+  50
 </details>
 
 
