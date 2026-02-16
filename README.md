@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you give a sick lemon? Lemonaid.
+Why can’t you hear a pterodactyl go to the bathroom? The p is silent.
 
 
 ## Daily Trivia
 
-When was the programming language &quot;C#&quot; released?
- 1. 2000
- 2. 2001
- 3. 1999
- 4. 1998
+Which of these programming languages is a low-level language?
+ 1. Pascal
+ 2. C#
+ 3. Python
+ 4. Assembly
 
 <details>
   <summary>Answer</summary>
-  2000
+  Assembly
 </details>
 
 
