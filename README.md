@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a cow with no legs? Ground beef.
+What did the left eye say to the right eye? Between us, something smells!
 
 
 ## Daily Trivia
 
-What is the main CPU is the Sega Mega Drive / Sega Genesis?
- 1. Zilog Z80
- 2. Motorola 68000
- 3. Yamaha YM2612
- 4. Intel 8088
+If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
+ 1. Python
+ 2. JavaScript
+ 3. C++
+ 4. Binary
 
 <details>
   <summary>Answer</summary>
-  Motorola 68000
+  Binary
 </details>
 
 
