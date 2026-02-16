@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why couldn't the lifeguard save the hippie? He was too far out, man.
+What do computers and air conditioners have in common? They both become useless when you open windows.
 
 
 ## Daily Trivia
 
-In computing, what does MIDI stand for?
- 1. Musical Interface of Digital Instruments
- 2. Modular Interface of Digital Instruments
- 3. Musical Instrument Data Interface
- 4. Musical Instrument Digital Interface
+What was the name given to Android 4.3?
+ 1. Jelly Bean
+ 2. Nutella
+ 3. Lollipop
+ 4. Froyo
 
 <details>
   <summary>Answer</summary>
-  Musical Instrument Digital Interface
+  Jelly Bean
 </details>
 
 
