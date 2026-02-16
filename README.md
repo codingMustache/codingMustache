@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did Yoda say when he saw himself in 4K? "HDMI"
+Today a man knocked on my door and asked for a small donation towards the local swimming pool. I gave him a glass of water.
 
 
 ## Daily Trivia
 
-Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
- 1. Tiger
- 2. Leopard
- 3. Puma
- 4. Cheetah
+Which SQL keyword is used to fetch data from a database?
+ 1. SELECT
+ 2. EXEC
+ 3. VALUES
+ 4. INDEX
 
 <details>
   <summary>Answer</summary>
-  Cheetah
+  SELECT
 </details>
 
 
