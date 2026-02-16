@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Sore throats are a pain in the neck!
+I met this girl on a dating site and, I don't know, we just clicked.
 
 
 ## Daily Trivia
 
-How many Hz does the video standard PAL support?
- 1. 59
- 2. 25
- 3. 60
- 4. 50
+Which of these names was an actual codename for a cancelled Microsoft project?
+ 1. Pollux
+ 2. Enceladus
+ 3. Neptune
+ 4. Saturn
 
 <details>
   <summary>Answer</summary>
-  50
+  Neptune
 </details>
 
 
