@@ -4,20 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Scientists finally did a study on forks. It's about tine!
+Doctor: Do you want to hear the good news or the bad news?
+Patient: Good news please.
+Doctor: we're naming a disease after you.
 
 
 ## Daily Trivia
 
-On which day did the World Wide Web go online?
- 1. December 20, 1990
- 2. November 24, 1995
- 3. November 12, 1990
- 4. December 17, 1996
+On Twitter, what was the original character limit for a Tweet?
+ 1. 120
+ 2. 160
+ 3. 140
+ 4. 100
 
 <details>
   <summary>Answer</summary>
-  December 20, 1990
+  140
 </details>
 
 
