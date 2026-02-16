@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Someone broke into my house last night and stole my limbo trophy. How low can you go?
+Why don't skeletons ride roller coasters? They don't have the stomach for it.
 
 
 ## Daily Trivia
 
-Which of these programming languages is a low-level language?
- 1. Pascal
- 2. Assembly
- 3. Python
- 4. C#
+How many values can a single byte represent?
+ 1. 8
+ 2. 1024
+ 3. 1
+ 4. 256
 
 <details>
   <summary>Answer</summary>
-  Assembly
+  256
 </details>
 
 
