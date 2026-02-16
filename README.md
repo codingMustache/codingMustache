@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later.
+Have you heard the rumor going around about butter? Never mind, I shouldn't spread it.
 
 
 ## Daily Trivia
 
-What was Bitcoin&#039;s block size limit in 2010?
- 1. 1GB
- 2. 1 KB
- 3. 1 TB
- 4. 1 MB
+Which of the following languages is used as a scripting language in the Unity 3D game engine?
+ 1. C++
+ 2. Java
+ 3. Objective-C
+ 4. C#
 
 <details>
   <summary>Answer</summary>
-  1 MB
+  C#
 </details>
 
 
