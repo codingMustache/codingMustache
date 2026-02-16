@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I met this girl on a dating site and, I don't know, we just clicked.
+A Skeleton walked into a bar he said I need a beer and a mop
 
 
 ## Daily Trivia
 
-Which of these names was an actual codename for a cancelled Microsoft project?
- 1. Pollux
- 2. Enceladus
- 3. Neptune
- 4. Saturn
+What does &quot;LCD&quot; stand for?
+ 1. Liquid Crystal Display
+ 2. Long Continuous Design
+ 3. Last Common Difference
+ 4. Language Control Design
 
 <details>
   <summary>Answer</summary>
-  Neptune
+  Liquid Crystal Display
 </details>
 
 
