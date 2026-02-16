@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I'm glad I know sign language, it's pretty handy.
+Why couldn't the lifeguard save the hippie? He was too far out, man.
 
 
 ## Daily Trivia
 
-What was the name of the security vulnerability found in Bash in 2014?
- 1. Stagefright
- 2. Shellshock
- 3. Bashbug
- 4. Heartbleed
+In computing, what does MIDI stand for?
+ 1. Musical Interface of Digital Instruments
+ 2. Modular Interface of Digital Instruments
+ 3. Musical Instrument Data Interface
+ 4. Musical Instrument Digital Interface
 
 <details>
   <summary>Answer</summary>
-  Shellshock
+  Musical Instrument Digital Interface
 </details>
 
 
