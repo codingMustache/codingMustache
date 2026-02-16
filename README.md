@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why didn’t the skeleton cross the road? Because he had no guts.
+I'm glad I know sign language, it's pretty handy.
 
 
 ## Daily Trivia
 
-Which of these is not a key value of Agile software development?
- 1. Customer collaboration
- 2. Comprehensive documentation
- 3. Individuals and interactions
- 4. Responding to change
+What amount of bits commonly equals one byte?
+ 1. 8
+ 2. 1
+ 3. 2
+ 4. 64
 
 <details>
   <summary>Answer</summary>
-  Comprehensive documentation
+  8
 </details>
 
 
