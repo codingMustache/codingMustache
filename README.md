@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why don't skeletons ride roller coasters? They don't have the stomach for it.
+Why did the opera singer go sailing? They wanted to hit the high Cs.
 
 
 ## Daily Trivia
 
-How many values can a single byte represent?
- 1. 8
- 2. 1024
- 3. 1
- 4. 256
+Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
+ 1. Cherry MX Black
+ 2. Cherry MX Brown
+ 3. Cherry MX Red
+ 4. Cherry MX Blue
 
 <details>
   <summary>Answer</summary>
-  256
+  Cherry MX Blue
 </details>
 
 
