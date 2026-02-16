@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A man got hit in the head with a can of Coke, but he was alright because it was a soft drink.
+What do you give a sick lemon? Lemonaid.
 
 
 ## Daily Trivia
 
-The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
- 1. Micronesia
- 2. Marshall Islands
- 3. Tuvalu
- 4. Fiji
+When was the programming language &quot;C#&quot; released?
+ 1. 2000
+ 2. 2001
+ 3. 1999
+ 4. 1998
 
 <details>
   <summary>Answer</summary>
-  Micronesia
+  2000
 </details>
 
 
