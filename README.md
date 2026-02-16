@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I'm glad I know sign language, it's pretty handy.
+Why are skeletons so calm? Because nothing gets under their skin.
 
 
 ## Daily Trivia
 
-What amount of bits commonly equals one byte?
- 1. 8
- 2. 1
- 3. 2
- 4. 64
+Which of these people was NOT a founder of Apple Inc?
+ 1. Ronald Wayne
+ 2. Steve Wozniak
+ 3. Steve Jobs
+ 4. Jonathan Ive
 
 <details>
   <summary>Answer</summary>
-  8
+  Jonathan Ive
 </details>
 
 
