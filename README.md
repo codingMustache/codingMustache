@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Egyptians claimed to invent the guitar, but they were such lyres.﻿
+Q: What did the spaghetti say to the other spaghetti?
+A: Pasta la vista, baby!
 
 
 ## Daily Trivia
 
-Which one of these is not an official development name for a Ubuntu release?
- 1. Trusty Tahr
- 2. Utopic Unicorn
- 3. Mystic Mansion
- 4. Wily Werewolf
+Dutch computer scientist Mark Overmars is known for creating which game development engine?
+ 1. Game Maker
+ 2. Torque 2D
+ 3. Construct
+ 4. Stencyl
 
 <details>
   <summary>Answer</summary>
-  Mystic Mansion
+  Game Maker
 </details>
 
 
