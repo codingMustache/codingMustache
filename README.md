@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do computers and air conditioners have in common? They both become useless when you open windows.
+What's the difference between a guitar and a fish? You can tune a guitar but you can't "tuna" fish!
 
 
 ## Daily Trivia
 
-What was the name given to Android 4.3?
- 1. Jelly Bean
- 2. Nutella
- 3. Lollipop
- 4. Froyo
+Which of the following physical typologies are used with Ethernet Networks?
+ 1. Hex
+ 2. Mesh
+ 3. Star
+ 4. Ring
 
 <details>
   <summary>Answer</summary>
-  Jelly Bean
+  Star
 </details>
 
 
