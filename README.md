@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Doctor you've got to help me, I'm addicted to Twitter. Doctor: I don't follow you.
+I went to a Foo Fighters Concert once... It was Everlong...
 
 
 ## Daily Trivia
 
-In computing terms, typically what does CLI stand for?
- 1. Command Line Interface
- 2. Common Language Interface
- 3. Control Line Interface
- 4. Common Language Input
+What does GHz stand for?
+ 1. Gigahetz
+ 2. Gigahotz
+ 3. Gigahatz
+ 4. Gigahertz
 
 <details>
   <summary>Answer</summary>
-  Command Line Interface
+  Gigahertz
 </details>
 
 
