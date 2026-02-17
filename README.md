@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a gorilla wearing headphones? Anything you'd like, it can't hear you.
+How do you tell the difference between a crocodile and an alligator? You will see one later and one in a while.
 
 
 ## Daily Trivia
 
-The Windows OS was delevoped by which company?
- 1. IBM
- 2. Nokia
- 3. Microsoft
- 4. Apple
+How many values can a single byte represent?
+ 1. 1
+ 2. 1024
+ 3. 256
+ 4. 8
 
 <details>
   <summary>Answer</summary>
-  Microsoft
+  256
 </details>
 
 
