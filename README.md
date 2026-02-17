@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-To the guy who invented zero... thanks for nothing.
+Camping is intense.
 
 
 ## Daily Trivia
 
-What does AD stand for in relation to Windows Operating Systems? 
- 1. Alternative Drive
- 2. Active Department
- 3. Active Directory
- 4. Automated Database
+What was the first company to use the term &quot;Golden Master&quot;?
+ 1. IBM
+ 2. Apple
+ 3. Microsoft
+ 4. Google
 
 <details>
   <summary>Answer</summary>
-  Active Directory
+  Apple
 </details>
 
 
