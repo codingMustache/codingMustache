@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-If I could name myself after any Egyptian god, I'd be Set.
+Why are snake races so exciting? They're always neck and neck.
 
 
 ## Daily Trivia
 
-Which computer hardware device provides an interface for all other connected devices to communicate?
- 1. Central Processing Unit
- 2. Motherboard
- 3. Hard Disk Drive
- 4. Random Access Memory
+What port does HTTP run on?
+ 1. 53
+ 2. 443
+ 3. 23
+ 4. 80
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  80
 </details>
 
 
