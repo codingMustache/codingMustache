@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear the news? FedEx and UPS are merging. They’re going to go by the name Fed-Up from now on.
+What do you call a gorilla wearing headphones? Anything you'd like, it can't hear you.
 
 
 ## Daily Trivia
 
-.rs is the top-level domain for what country?
- 1. Russia
- 2. Romania
- 3. Serbia
- 4. Rwanda
+The Windows OS was delevoped by which company?
+ 1. IBM
+ 2. Nokia
+ 3. Microsoft
+ 4. Apple
 
 <details>
   <summary>Answer</summary>
-  Serbia
+  Microsoft
 </details>
 
 
