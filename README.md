@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Camping is intense.
+Doctor you've got to help me, I'm addicted to Twitter. Doctor: I don't follow you.
 
 
 ## Daily Trivia
 
-What was the first company to use the term &quot;Golden Master&quot;?
- 1. IBM
- 2. Apple
- 3. Microsoft
- 4. Google
+In computing terms, typically what does CLI stand for?
+ 1. Command Line Interface
+ 2. Common Language Interface
+ 3. Control Line Interface
+ 4. Common Language Input
 
 <details>
   <summary>Answer</summary>
-  Apple
+  Command Line Interface
 </details>
 
 
