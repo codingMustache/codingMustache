@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you get when you cross a bee and a sheep? A bah-humbug.
-
+Did you hear about the guy who invented Lifesavers? They say he made a mint.
 
 
 ## Daily Trivia
 
-What is the most preferred image format used for logos in the Wikimedia database?
- 1. .svg
- 2. .gif
- 3. .jpeg
- 4. .png
+The C programming language was created by this American computer scientist. 
+ 1. Willis Ware
+ 2. Dennis Ritchie
+ 3. al-Khwārizmī
+ 4. Tim Berners Lee
 
 <details>
   <summary>Answer</summary>
-  .svg
+  Dennis Ritchie
 </details>
 
 
