@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I was just looking at my ceiling. Not sure if it’s the best ceiling in the world, but it’s definitely up there.
+A farmer had 297 cows, when he rounded them up, he found he had 300
 
 
 ## Daily Trivia
 
-.rs is the top-level domain for what country?
- 1. Romania
- 2. Russia
- 3. Rwanda
- 4. Serbia
+Which of these names was an actual codename for a cancelled Microsoft project?
+ 1. Saturn
+ 2. Pollux
+ 3. Enceladus
+ 4. Neptune
 
 <details>
   <summary>Answer</summary>
-  Serbia
+  Neptune
 </details>
 
 
