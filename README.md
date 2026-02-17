@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What creature is smarter than a talking parrot? A spelling bee.
+What did the left eye say to the right eye? Between us, something smells!
 
 
 ## Daily Trivia
 
-The Windows OS was delevoped by which company?
- 1. IBM
- 2. Apple
- 3. Microsoft
- 4. Nokia
+What five letter word is the motto of the IBM Computer company?
+ 1. Think
+ 2. Pixel
+ 3. Logic
+ 4. Click
 
 <details>
   <summary>Answer</summary>
-  Microsoft
+  Think
 </details>
 
 
