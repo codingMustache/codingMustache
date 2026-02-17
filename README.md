@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do wizards clean their teeth three times a day? To prevent bat breath!
+I was just looking at my ceiling. Not sure if it’s the best ceiling in the world, but it’s definitely up there.
 
 
 ## Daily Trivia
 
-Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
- 1. Shopify
- 2. eBay
- 3. Amazon
- 4. Overstock
+.rs is the top-level domain for what country?
+ 1. Romania
+ 2. Russia
+ 3. Rwanda
+ 4. Serbia
 
 <details>
   <summary>Answer</summary>
-  Amazon
+  Serbia
 </details>
 
 
