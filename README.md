@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I am so good at sleeping I can do it with my eyes closed!
+R.I.P. boiled water. You will be mist.
 
 
 ## Daily Trivia
 
-Which of the following is a personal computer made by the Japanese company Fujitsu?
- 1. FM-7
- 2. Xmillennium 
- 3. PC-9801
- 4. MSX
+In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
+ 1. console.log(&quot;Hello World&quot;)
+ 2. echo &quot;Hello World&quot;
+ 3. printf(&quot;Hello World&quot;)
+ 4. print(&quot;Hello World&quot;)
 
 <details>
   <summary>Answer</summary>
-  FM-7
+  print(&quot;Hello World&quot;)
 </details>
 
 
