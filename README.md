@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I was wondering why the frisbee was getting bigger, then it hit me.
+Why do wizards clean their teeth three times a day? To prevent bat breath!
 
 
 ## Daily Trivia
 
-What port does HTTP run on?
- 1. 443
- 2. 23
- 3. 80
- 4. 53
+Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
+ 1. Shopify
+ 2. eBay
+ 3. Amazon
+ 4. Overstock
 
 <details>
   <summary>Answer</summary>
-  80
+  Amazon
 </details>
 
 
