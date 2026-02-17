@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the worker get fired from the orange juice factory? Lack of concentration.
+If I could name myself after any Egyptian god, I'd be Set.
 
 
 ## Daily Trivia
 
-What did the name of the Tor Anonymity Network orignially stand for?
- 1. The Only Router
- 2. The Orange Router
- 3. The Ominous Router
- 4. The Onion Router
+Which computer hardware device provides an interface for all other connected devices to communicate?
+ 1. Central Processing Unit
+ 2. Motherboard
+ 3. Hard Disk Drive
+ 4. Random Access Memory
 
 <details>
   <summary>Answer</summary>
-  The Onion Router
+  Motherboard
 </details>
 
 
