@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I wish I could clean mirrors for a living. It's just something I can see myself doing.
+Where do owls go to buy their baby clothes? The owlet malls.
 
 
 ## Daily Trivia
 
-Which data structure does FILO apply to?
- 1. Queue
- 2. Heap
- 3. Stack
- 4. Tree
+In web design, what does CSS stand for?
+ 1. Counter Strike: Source
+ 2. Corrective Style Sheet
+ 3. Computer Style Sheet
+ 4. Cascading Style Sheet
 
 <details>
   <summary>Answer</summary>
-  Stack
+  Cascading Style Sheet
 </details>
 
 
