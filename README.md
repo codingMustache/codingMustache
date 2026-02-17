@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Want to hear a joke about construction? Nah, I'm still working on it.
+Why did the barber win the race? He took a short cut.
 
 
 ## Daily Trivia
 
-What does GHz stand for?
- 1. Gigahatz
- 2. Gigahotz
- 3. Gigahetz
- 4. Gigahertz
+Unix Time is defined as the number of seconds that have elapsed since when?
+ 1. Midnight, July 4, 1976
+ 2. Midnight on the creator of Unix&#039;s birthday
+ 3. Midnight, July 4, 1980
+ 4. Midnight, January 1, 1970
 
 <details>
   <summary>Answer</summary>
-  Gigahertz
+  Midnight, January 1, 1970
 </details>
 
 
