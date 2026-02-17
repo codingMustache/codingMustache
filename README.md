@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you make a water bed more bouncy. You use Spring Water
+What creature is smarter than a talking parrot? A spelling bee.
 
 
 ## Daily Trivia
 
-What does LTS stand for in the software market?
- 1. Long Term Support
- 2. Ludicrous Turbo Speed
- 3. Ludicrous Transfer Speed
- 4. Long Taco Service
+The Windows OS was delevoped by which company?
+ 1. IBM
+ 2. Apple
+ 3. Microsoft
+ 4. Nokia
 
 <details>
   <summary>Answer</summary>
-  Long Term Support
+  Microsoft
 </details>
 
 
