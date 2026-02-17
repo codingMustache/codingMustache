@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the late tomato say to the early tomato? I’ll ketch up
+Did you hear the news? FedEx and UPS are merging. They’re going to go by the name Fed-Up from now on.
 
 
 ## Daily Trivia
 
-What is the name of the default theme that is installed with Windows XP?
- 1. Bliss
- 2. Whistler
- 3. Luna
- 4. Neptune
+.rs is the top-level domain for what country?
+ 1. Russia
+ 2. Romania
+ 3. Serbia
+ 4. Rwanda
 
 <details>
   <summary>Answer</summary>
-  Luna
+  Serbia
 </details>
 
 
