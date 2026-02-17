@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-No matter how kind you are, German children are kinder.
+How much does a hipster weigh? An instagram.
 
 
 ## Daily Trivia
 
-In web design, what does CSS stand for?
- 1. Counter Strike: Source
- 2. Cascading Style Sheet
- 3. Corrective Style Sheet
- 4. Computer Style Sheet
+What does the term MIME stand for, in regards to computing?
+ 1. Mail Interleave Method Exchange
+ 2. Multipurpose Interleave Mail Exchange
+ 3. Mail Internet Mail Exchange
+ 4. Multipurpose Internet Mail Extensions
 
 <details>
   <summary>Answer</summary>
-  Cascading Style Sheet
+  Multipurpose Internet Mail Extensions
 </details>
 
 
