@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I asked the surgeon if I could administer my own anesthetic, they said: go ahead, knock yourself out.
+Why can't your nose be 12 inches long? Because then it'd be a foot!
 
 
 ## Daily Trivia
 
-What does the computer software acronym JVM stand for?
- 1. Java Vendor Machine
- 2. Java Visual Machine
- 3. Just Virtual Machine
- 4. Java Virtual Machine
+What does the International System of Quantities refer 1024 bytes as?
+ 1. Kylobyte
+ 2. Kibibyte
+ 3. Kilobyte
+ 4. Kelobyte
 
 <details>
   <summary>Answer</summary>
-  Java Virtual Machine
+  Kibibyte
 </details>
 
 
