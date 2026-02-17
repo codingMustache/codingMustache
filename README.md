@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the left eye say to the right eye? Between us, something smells!
+What’s the advantage of living in Switzerland? Well, the flag is a big plus.
 
 
 ## Daily Trivia
 
-What five letter word is the motto of the IBM Computer company?
- 1. Think
- 2. Pixel
- 3. Logic
- 4. Click
+The numbering system with a radix of 16 is more commonly referred to as 
+ 1. Octal
+ 2. Duodecimal
+ 3. Binary
+ 4. Hexidecimal
 
 <details>
   <summary>Answer</summary>
-  Think
+  Hexidecimal
 </details>
 
 
