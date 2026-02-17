@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why does Han Solo like gum? It's chewy!
+What did the late tomato say to the early tomato? I’ll ketch up
 
 
 ## Daily Trivia
 
-What is the domain name for the country Tuvalu?
- 1. .tu
- 2. .tt
- 3. .tl
- 4. .tv
+What is the name of the default theme that is installed with Windows XP?
+ 1. Bliss
+ 2. Whistler
+ 3. Luna
+ 4. Neptune
 
 <details>
   <summary>Answer</summary>
-  .tv
+  Luna
 </details>
 
 
