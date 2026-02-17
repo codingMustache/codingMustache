@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My pet mouse 'Elvis' died last night. He was caught in a trap..
+What musical instrument is found in the bathroom? A tuba toothpaste.
 
 
 ## Daily Trivia
 
-What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
- 1. CPU Vent
- 2. Heat Sink
- 3. Temperature Decipator
- 4. Heat Vent
+How many values can a single byte represent?
+ 1. 1024
+ 2. 1
+ 3. 8
+ 4. 256
 
 <details>
   <summary>Answer</summary>
-  Heat Sink
+  256
 </details>
 
 
