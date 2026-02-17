@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you tell the difference between a crocodile and an alligator? You will see one later and one in a while.
+What do you get when you cross a bee and a sheep? A bah-humbug.
+
 
 
 ## Daily Trivia
 
-How many values can a single byte represent?
- 1. 1
- 2. 1024
- 3. 256
- 4. 8
+What is the most preferred image format used for logos in the Wikimedia database?
+ 1. .svg
+ 2. .gif
+ 3. .jpeg
+ 4. .png
 
 <details>
   <summary>Answer</summary>
-  256
+  .svg
 </details>
 
 
