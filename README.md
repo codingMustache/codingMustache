@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the barber win the race? He took a short cut.
+I was wondering why the frisbee was getting bigger, then it hit me.
 
 
 ## Daily Trivia
 
-Unix Time is defined as the number of seconds that have elapsed since when?
- 1. Midnight, July 4, 1976
- 2. Midnight on the creator of Unix&#039;s birthday
- 3. Midnight, July 4, 1980
- 4. Midnight, January 1, 1970
+What port does HTTP run on?
+ 1. 443
+ 2. 23
+ 3. 80
+ 4. 53
 
 <details>
   <summary>Answer</summary>
-  Midnight, January 1, 1970
+  80
 </details>
 
 
