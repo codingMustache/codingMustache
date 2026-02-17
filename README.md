@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the guy who invented Lifesavers? They say he made a mint.
+Want to hear a joke about construction? Nah, I'm still working on it.
 
 
 ## Daily Trivia
 
-The C programming language was created by this American computer scientist. 
- 1. Willis Ware
- 2. Dennis Ritchie
- 3. al-Khwārizmī
- 4. Tim Berners Lee
+What does GHz stand for?
+ 1. Gigahatz
+ 2. Gigahotz
+ 3. Gigahetz
+ 4. Gigahertz
 
 <details>
   <summary>Answer</summary>
-  Dennis Ritchie
+  Gigahertz
 </details>
 
 
