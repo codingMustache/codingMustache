@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do owls go to buy their baby clothes? The owlet malls.
+To the guy who invented zero... thanks for nothing.
 
 
 ## Daily Trivia
 
-In web design, what does CSS stand for?
- 1. Counter Strike: Source
- 2. Corrective Style Sheet
- 3. Computer Style Sheet
- 4. Cascading Style Sheet
+What does AD stand for in relation to Windows Operating Systems? 
+ 1. Alternative Drive
+ 2. Active Department
+ 3. Active Directory
+ 4. Automated Database
 
 <details>
   <summary>Answer</summary>
-  Cascading Style Sheet
+  Active Directory
 </details>
 
 
