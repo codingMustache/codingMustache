@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I knew i shouldn’t have ate that seafood. Because now i’m feeling a little… Eel
+I asked the surgeon if I could administer my own anesthetic, they said: go ahead, knock yourself out.
 
 
 ## Daily Trivia
 
-Who invented the &quot;Spanning Tree Protocol&quot;?
- 1. Paul Vixie
- 2. Radia Perlman
- 3. Vint Cerf
- 4. Michael Roberts
+What does the computer software acronym JVM stand for?
+ 1. Java Vendor Machine
+ 2. Java Visual Machine
+ 3. Just Virtual Machine
+ 4. Java Virtual Machine
 
 <details>
   <summary>Answer</summary>
-  Radia Perlman
+  Java Virtual Machine
 </details>
 
 
