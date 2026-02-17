@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-R.I.P. boiled water. You will be mist.
+I was at the library and asked if they have any books on "paranoia", the librarian replied, "yes, they are right behind you"
 
 
 ## Daily Trivia
 
-In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
- 1. console.log(&quot;Hello World&quot;)
- 2. echo &quot;Hello World&quot;
- 3. printf(&quot;Hello World&quot;)
- 4. print(&quot;Hello World&quot;)
+What port does HTTP run on?
+ 1. 80
+ 2. 53
+ 3. 443
+ 4. 23
 
 <details>
   <summary>Answer</summary>
-  print(&quot;Hello World&quot;)
+  80
 </details>
 
 
