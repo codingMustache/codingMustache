@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-which flower is most fierce? Dandelion
+My pet mouse 'Elvis' died last night. He was caught in a trap..
 
 
 ## Daily Trivia
 
-Which of these people was NOT a founder of Apple Inc?
- 1. Steve Wozniak
- 2. Jonathan Ive
- 3. Steve Jobs
- 4. Ronald Wayne
+What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
+ 1. CPU Vent
+ 2. Heat Sink
+ 3. Temperature Decipator
+ 4. Heat Vent
 
 <details>
   <summary>Answer</summary>
-  Jonathan Ive
+  Heat Sink
 </details>
 
 
