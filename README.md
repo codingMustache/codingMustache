@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A ghost walks into a bar and asks for a glass of vodka but the bar tender says, “sorry we don’t serve spirits”
+Did you hear about the new restaurant on the moon? The food is great, but there’s just no atmosphere.
 
 
 ## Daily Trivia
 
-Which of the following is NOT a computer science algorithm?
- 1. Bubble Sort
- 2. Float Sort
- 3. Merge Sort
- 4. Quick Sort
+What is the name of Layer 7 of the OSI model?
+ 1. Session
+ 2. Application
+ 3. Network
+ 4. Present
 
 <details>
   <summary>Answer</summary>
-  Float Sort
+  Application
 </details>
 
 
