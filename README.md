@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Who is the coolest Doctor in the hospital? The hip Doctor!
+Why do valley girls hang out in odd numbered groups? Because they can't even.
 
 
 ## Daily Trivia
 
-Which of the following computer components can be built using only NAND gates?
- 1. ALU
- 2. RAM
- 3. Register
- 4. CPU
+The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
+ 1. China (People&#039;s Republic of)
+ 2. Germany
+ 3. United States
+ 4. Taiwan
 
 <details>
   <summary>Answer</summary>
-  ALU
+  Taiwan
 </details>
 
 
