@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the new restaurant on the moon? The food is great, but there’s just no atmosphere.
+I’ll tell you something about German sausages, they’re the wurst
 
 
 ## Daily Trivia
 
-What is the name of Layer 7 of the OSI model?
- 1. Session
- 2. Application
- 3. Network
- 4. Present
+The programming language &#039;Swift&#039; was created to replace what other programming language?
+ 1. Objective-C
+ 2. C++
+ 3. C#
+ 4. Ruby
 
 <details>
   <summary>Answer</summary>
-  Application
+  Objective-C
 </details>
 
 
