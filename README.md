@@ -4,20 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the Buffalo say to his little boy when he dropped him off at school? Bison.
+What is the difference between ignorance and apathy?
+
+I don't know and I don't care.
 
 
 ## Daily Trivia
 
-What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
- 1. Temperature Decipator
- 2. CPU Vent
- 3. Heat Sink
- 4. Heat Vent
+Who is the founder of Palantir?
+ 1. Peter Thiel
+ 2. Marc Benioff
+ 3. Mark Zuckerberg
+ 4. Jack Dorsey
 
 <details>
   <summary>Answer</summary>
-  Heat Sink
+  Peter Thiel
 </details>
 
 
