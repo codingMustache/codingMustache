@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What type of music do balloons hate? Pop music!
+I got fired from the transmission factor, turns out I didn't put on enough shifts...
 
 
 ## Daily Trivia
 
-.rs is the top-level domain for what country?
- 1. Serbia
- 2. Russia
- 3. Rwanda
- 4. Romania
+What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
+ 1. Programmable Sound Generator (PSG)
+ 2. FM Synthesizer
+ 3. PCM Sampler
+ 4. ADPCM Sampler
 
 <details>
   <summary>Answer</summary>
-  Serbia
+  ADPCM Sampler
 </details>
 
 
