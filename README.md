@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the house go to the doctor? It was having window panes.
+which flower is most fierce? Dandelion
 
 
 ## Daily Trivia
 
-Which of these is not a layer in the OSI model for data communications?
- 1. Connection Layer
- 2. Transport Layer
- 3. Physical Layer
- 4. Application Layer
+The Harvard architecture for micro-controllers added which additional bus?
+ 1. Instruction
+ 2. Control
+ 3. Address
+ 4. Data
 
 <details>
   <summary>Answer</summary>
-  Connection Layer
+  Instruction
 </details>
 
 
