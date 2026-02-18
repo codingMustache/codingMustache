@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I got fired from the transmission factor, turns out I didn't put on enough shifts...
+I saw my husband trip and fall while carrying a laundry basket full of ironed clothes. I watched it all unfold.
 
 
 ## Daily Trivia
 
-What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
- 1. Programmable Sound Generator (PSG)
- 2. FM Synthesizer
- 3. PCM Sampler
- 4. ADPCM Sampler
+What internet protocol was documented in RFC 1459?
+ 1. IRC
+ 2. FTP
+ 3. HTTPS
+ 4. HTTP
 
 <details>
   <summary>Answer</summary>
-  ADPCM Sampler
+  IRC
 </details>
 
 
