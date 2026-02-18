@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I’ll tell you something about German sausages, they’re the wurst
+Who is the coolest Doctor in the hospital? The hip Doctor!
 
 
 ## Daily Trivia
 
-The programming language &#039;Swift&#039; was created to replace what other programming language?
- 1. Objective-C
- 2. C++
- 3. C#
- 4. Ruby
+Which of the following computer components can be built using only NAND gates?
+ 1. ALU
+ 2. RAM
+ 3. Register
+ 4. CPU
 
 <details>
   <summary>Answer</summary>
-  Objective-C
+  ALU
 </details>
 
 
