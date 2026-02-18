@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-which flower is most fierce? Dandelion
+The other day, my wife asked me to pass her lipstick but I accidentally passed her a glue stick. She still isn't talking to me.
 
 
 ## Daily Trivia
 
-The Harvard architecture for micro-controllers added which additional bus?
- 1. Instruction
- 2. Control
- 3. Address
- 4. Data
+Which RAID array type is associated with data mirroring?
+ 1. RAID 0
+ 2. RAID 1
+ 3. RAID 10
+ 4. RAID 5
 
 <details>
   <summary>Answer</summary>
-  Instruction
+  RAID 1
 </details>
 
 
