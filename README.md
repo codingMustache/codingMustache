@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where does batman go to the bathroom? The batroom.
+I wish I could clean mirrors for a living. It's just something I can see myself doing.
 
 
 ## Daily Trivia
 
-Which one of these is not an official development name for a Ubuntu release?
- 1. Trusty Tahr
- 2. Mystic Mansion
- 3. Utopic Unicorn
- 4. Wily Werewolf
+Which programming language shares its name with an island in Indonesia?
+ 1. Jakarta
+ 2. Python
+ 3. C
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  Mystic Mansion
+  Java
 </details>
 
 
