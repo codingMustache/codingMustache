@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many kids with ADD does it take to change a lightbulb? Let's go ride bikes!
+Why are basketball players messy eaters? Because they are always dribbling.
 
 
 ## Daily Trivia
 
-Who is the founder of Palantir?
- 1. Mark Zuckerberg
- 2. Marc Benioff
- 3. Peter Thiel
- 4. Jack Dorsey
+Which of the following is NOT a computer science algorithm?
+ 1. Bubble Sort
+ 2. Merge Sort
+ 3. Quick Sort
+ 4. Float Sort
 
 <details>
   <summary>Answer</summary>
-  Peter Thiel
+  Float Sort
 </details>
 
 
