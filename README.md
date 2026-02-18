@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What does a female snake use for support? A co-Bra!
+Who is the coolest Doctor in the hospital? The hip Doctor!
 
 
 ## Daily Trivia
 
-What does the &#039;S&#039; in the RSA encryption algorithm stand for?
- 1. Secure
- 2. Shamir
- 3. Schottky
- 4. Stable
+On which computer hardware device is the BIOS chip located?
+ 1. Hard Disk Drive
+ 2. Motherboard
+ 3. Central Processing Unit
+ 4. Graphics Processing Unit
 
 <details>
   <summary>Answer</summary>
-  Shamir
+  Motherboard
 </details>
 
 
