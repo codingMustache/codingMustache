@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Parallel lines have so much in common. It’s a shame they’ll never meet.
+What did the Buffalo say to his little boy when he dropped him off at school? Bison.
 
 
 ## Daily Trivia
 
-The programming language &#039;Swift&#039; was created to replace what other programming language?
- 1. Objective-C
- 2. C#
- 3. Ruby
- 4. C++
+What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
+ 1. Temperature Decipator
+ 2. CPU Vent
+ 3. Heat Sink
+ 4. Heat Vent
 
 <details>
   <summary>Answer</summary>
-  Objective-C
+  Heat Sink
 </details>
 
 
