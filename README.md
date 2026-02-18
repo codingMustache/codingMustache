@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I saw my husband trip and fall while carrying a laundry basket full of ironed clothes. I watched it all unfold.
+Sgt.: Commissar! Commissar! The troops are revolting! Commissar: Well, you’re pretty repulsive yourself.
 
 
 ## Daily Trivia
 
-What internet protocol was documented in RFC 1459?
- 1. IRC
- 2. FTP
- 3. HTTPS
- 4. HTTP
+In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
+ 1. echo &quot;Hello World&quot;
+ 2. console.log(&quot;Hello World&quot;)
+ 3. print(&quot;Hello World&quot;)
+ 4. printf(&quot;Hello World&quot;)
 
 <details>
   <summary>Answer</summary>
-  IRC
+  print(&quot;Hello World&quot;)
 </details>
 
 
