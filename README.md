@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I really want to buy one of those supermarket checkout dividers, but the cashier keeps putting it back.
+What did the doctor say to the gingerbread man who broke his leg? Try icing it.
 
 
 ## Daily Trivia
 
-Who is the original author of the realtime physics engine called PhysX?
- 1. Ageia
- 2. Nvidia
- 3. AMD
- 4. NovodeX
+According to the International System of Units, how many bytes are in a kilobyte of RAM?
+ 1. 1024
+ 2. 500
+ 3. 1000
+ 4. 512
 
 <details>
   <summary>Answer</summary>
-  NovodeX
+  1000
 </details>
 
 
