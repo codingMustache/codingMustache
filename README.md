@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was the strawberry sad? Its parents were in a jam.
+Geology rocks, but Geography is where it's at!
 
 
 ## Daily Trivia
 
-What port does HTTP run on?
- 1. 53
- 2. 80
- 3. 443
- 4. 23
+In the server hosting industry IaaS stands for...
+ 1. Infrastructure as a Server
+ 2. Internet as a Service
+ 3. Internet and a Server
+ 4. Infrastructure as a Service
 
 <details>
   <summary>Answer</summary>
-  80
+  Infrastructure as a Service
 </details>
 
 
