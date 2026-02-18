@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What’s the difference between an African elephant and an Indian elephant? About 5000 miles.
+What type of music do balloons hate? Pop music!
 
 
 ## Daily Trivia
 
-What was Bitcoin&#039;s block size limit in 2010?
- 1. 1 MB
- 2. 1 TB
- 3. 1 KB
- 4. 1GB
+.rs is the top-level domain for what country?
+ 1. Serbia
+ 2. Russia
+ 3. Rwanda
+ 4. Romania
 
 <details>
   <summary>Answer</summary>
-  1 MB
+  Serbia
 </details>
 
 
