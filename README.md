@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Remember, the best angle to approach a problem from is the "try" angle.
+Why can't a bicycle stand on its own? It's two-tired.
 
 
 ## Daily Trivia
 
-In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
- 1. Green
- 2. Red
- 3. Yellow
- 4. Blue
+Which of the following is a personal computer made by the Japanese company Fujitsu?
+ 1. MSX
+ 2. FM-7
+ 3. PC-9801
+ 4. Xmillennium 
 
 <details>
   <summary>Answer</summary>
-  Green
+  FM-7
 </details>
 
 
