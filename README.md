@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you make a hankie dance? Put a little boogie in it.
+Why was the strawberry sad? Its parents were in a jam.
 
 
 ## Daily Trivia
 
-What programming language was GitHub written in?
- 1. Ruby
- 2. Lua
- 3. Python
- 4. JavaScript
+What port does HTTP run on?
+ 1. 53
+ 2. 80
+ 3. 443
+ 4. 23
 
 <details>
   <summary>Answer</summary>
-  Ruby
+  80
 </details>
 
 
