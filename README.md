@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the Dorito farmer say to the other Dorito farmer? Cool Ranch!
+Why was the big cat disqualified from the race? Because it was a cheetah.
 
 
 ## Daily Trivia
 
-What is the number of keys on a standard Windows Keyboard?
- 1. 104
- 2. 94
- 3. 64
- 4. 76
+Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
+ 1. Shellshock
+ 2. Shellscript
+ 3. Heartbleed
+ 4. Corrupted Blood
 
 <details>
   <summary>Answer</summary>
-  104
+  Heartbleed
 </details>
 
 
