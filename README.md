@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are basketball players messy eaters? Because they are always dribbling.
+Somebody stole my Microsoft Office and they're going to pay - you have my Word.
 
 
 ## Daily Trivia
 
-Which of the following is NOT a computer science algorithm?
- 1. Bubble Sort
- 2. Merge Sort
- 3. Quick Sort
- 4. Float Sort
+When Gmail first launched, how much storage did it provide for your email?
+ 1. Unlimited
+ 2. 1GB
+ 3. 5GB
+ 4. 512MB
 
 <details>
   <summary>Answer</summary>
-  Float Sort
+  1GB
 </details>
 
 
