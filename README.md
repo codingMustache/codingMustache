@@ -9,15 +9,15 @@ How many kids with ADD does it take to change a lightbulb? Let's go ride bikes!
 
 ## Daily Trivia
 
-What vulnerability ranked #1 on the OWASP Top 10 in 2013?
- 1. Injection 
- 2. Broken Authentication
- 3. Cross-Site Scripting
- 4. Insecure Direct Object References
+Who is the founder of Palantir?
+ 1. Mark Zuckerberg
+ 2. Marc Benioff
+ 3. Peter Thiel
+ 4. Jack Dorsey
 
 <details>
   <summary>Answer</summary>
-  Injection 
+  Peter Thiel
 </details>
 
 
