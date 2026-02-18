@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Somebody stole my Microsoft Office and they're going to pay - you have my Word.
+What do you call your friend who stands in a hole? Phil.
 
 
 ## Daily Trivia
 
-When Gmail first launched, how much storage did it provide for your email?
- 1. Unlimited
- 2. 1GB
- 3. 5GB
- 4. 512MB
+This mobile OS held the largest market share in 2012.
+ 1. BlackBerry
+ 2. Android
+ 3. iOS
+ 4. Symbian
 
 <details>
   <summary>Answer</summary>
-  1GB
+  iOS
 </details>
 
 
