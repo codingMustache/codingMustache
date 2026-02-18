@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the difference between a poorly dressed man on a tricycle and a well dressed man on a bicycle? Attire.
+How many kids with ADD does it take to change a lightbulb? Let's go ride bikes!
 
 
 ## Daily Trivia
 
-Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
- 1. Amazon
- 2. Shopify
- 3. Overstock
- 4. eBay
+What vulnerability ranked #1 on the OWASP Top 10 in 2013?
+ 1. Injection 
+ 2. Broken Authentication
+ 3. Cross-Site Scripting
+ 4. Insecure Direct Object References
 
 <details>
   <summary>Answer</summary>
-  Amazon
+  Injection 
 </details>
 
 
