@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How much does a hipster weigh? An instagram.
+What does a female snake use for support? A co-Bra!
 
 
 ## Daily Trivia
 
-What does the term MIME stand for, in regards to computing?
- 1. Mail Interleave Method Exchange
- 2. Multipurpose Interleave Mail Exchange
- 3. Mail Internet Mail Exchange
- 4. Multipurpose Internet Mail Extensions
+What does the &#039;S&#039; in the RSA encryption algorithm stand for?
+ 1. Secure
+ 2. Shamir
+ 3. Schottky
+ 4. Stable
 
 <details>
   <summary>Answer</summary>
-  Multipurpose Internet Mail Extensions
+  Shamir
 </details>
 
 
