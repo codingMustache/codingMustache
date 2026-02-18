@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-"What time is it?" I don't know... it keeps changing.
+I really want to buy one of those supermarket checkout dividers, but the cashier keeps putting it back.
 
 
 ## Daily Trivia
 
-What does AD stand for in relation to Windows Operating Systems? 
- 1. Active Directory
- 2. Alternative Drive
- 3. Automated Database
- 4. Active Department
+Who is the original author of the realtime physics engine called PhysX?
+ 1. Ageia
+ 2. Nvidia
+ 3. AMD
+ 4. NovodeX
 
 <details>
   <summary>Answer</summary>
-  Active Directory
+  NovodeX
 </details>
 
 
