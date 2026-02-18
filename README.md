@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call your friend who stands in a hole? Phil.
+Why did the house go to the doctor? It was having window panes.
 
 
 ## Daily Trivia
 
-This mobile OS held the largest market share in 2012.
- 1. BlackBerry
- 2. Android
- 3. iOS
- 4. Symbian
+Which of these is not a layer in the OSI model for data communications?
+ 1. Connection Layer
+ 2. Transport Layer
+ 3. Physical Layer
+ 4. Application Layer
 
 <details>
   <summary>Answer</summary>
-  iOS
+  Connection Layer
 </details>
 
 
