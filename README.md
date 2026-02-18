@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why can't a bicycle stand on its own? It's two-tired.
+A ghost walks into a bar and asks for a glass of vodka but the bar tender says, “sorry we don’t serve spirits”
 
 
 ## Daily Trivia
 
-Which of the following is a personal computer made by the Japanese company Fujitsu?
- 1. MSX
- 2. FM-7
- 3. PC-9801
- 4. Xmillennium 
+Which of the following is NOT a computer science algorithm?
+ 1. Bubble Sort
+ 2. Float Sort
+ 3. Merge Sort
+ 4. Quick Sort
 
 <details>
   <summary>Answer</summary>
-  FM-7
+  Float Sort
 </details>
 
 
