@@ -4,22 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is the difference between ignorance and apathy?
-
-I don't know and I don't care.
+I used to be a banker, but I lost interest.
 
 
 ## Daily Trivia
 
-Who is the founder of Palantir?
- 1. Peter Thiel
- 2. Marc Benioff
- 3. Mark Zuckerberg
- 4. Jack Dorsey
+What does the International System of Quantities refer 1024 bytes as?
+ 1. Kibibyte
+ 2. Kelobyte
+ 3. Kilobyte
+ 4. Kylobyte
 
 <details>
   <summary>Answer</summary>
-  Peter Thiel
+  Kibibyte
 </details>
 
 
