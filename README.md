@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Sgt.: Commissar! Commissar! The troops are revolting! Commissar: Well, you’re pretty repulsive yourself.
+Where does batman go to the bathroom? The batroom.
 
 
 ## Daily Trivia
 
-In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
- 1. echo &quot;Hello World&quot;
- 2. console.log(&quot;Hello World&quot;)
- 3. print(&quot;Hello World&quot;)
- 4. printf(&quot;Hello World&quot;)
+Which one of these is not an official development name for a Ubuntu release?
+ 1. Trusty Tahr
+ 2. Mystic Mansion
+ 3. Utopic Unicorn
+ 4. Wily Werewolf
 
 <details>
   <summary>Answer</summary>
-  print(&quot;Hello World&quot;)
+  Mystic Mansion
 </details>
 
 
