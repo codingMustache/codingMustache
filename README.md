@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Geology rocks, but Geography is where it's at!
+I needed a password eight characters long so I picked Snow White and the Seven Dwarfs.
 
 
 ## Daily Trivia
 
-In the server hosting industry IaaS stands for...
- 1. Infrastructure as a Server
- 2. Internet as a Service
- 3. Internet and a Server
- 4. Infrastructure as a Service
+The Harvard architecture for micro-controllers added which additional bus?
+ 1. Address
+ 2. Data
+ 3. Control
+ 4. Instruction
 
 <details>
   <summary>Answer</summary>
-  Infrastructure as a Service
+  Instruction
 </details>
 
 
