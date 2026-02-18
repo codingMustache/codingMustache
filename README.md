@@ -4,20 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are pirates called pirates? Because they arrr!
+What is the difference between ignorance and apathy?
+
+I don't know and I don't care.
 
 
 ## Daily Trivia
 
-How fast is USB 3.1 Gen 2 theoretically?
- 1. 1 Gb/s
- 2. 8 Gb/s
- 3. 5 Gb/s
- 4. 10 Gb/s
+Which of these people was NOT a founder of Apple Inc?
+ 1. Jonathan Ive
+ 2. Steve Wozniak
+ 3. Ronald Wayne
+ 4. Steve Jobs
 
 <details>
   <summary>Answer</summary>
-  10 Gb/s
+  Jonathan Ive
 </details>
 
 
