@@ -4,22 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is the difference between ignorance and apathy?
-
-I don't know and I don't care.
+What's the difference between a poorly dressed man on a tricycle and a well dressed man on a bicycle? Attire.
 
 
 ## Daily Trivia
 
-Which of these people was NOT a founder of Apple Inc?
- 1. Jonathan Ive
- 2. Steve Wozniak
- 3. Ronald Wayne
- 4. Steve Jobs
+Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
+ 1. Amazon
+ 2. Shopify
+ 3. Overstock
+ 4. eBay
 
 <details>
   <summary>Answer</summary>
-  Jonathan Ive
+  Amazon
 </details>
 
 
