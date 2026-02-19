@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Is the pool safe for diving? It deep ends.
+When is a door not a door? When it's ajar.
 
 
 ## Daily Trivia
 
-What internet protocol was documented in RFC 1459?
- 1. HTTP
- 2. HTTPS
- 3. FTP
- 4. IRC
+Which of the following computer components can be built using only NAND gates?
+ 1. ALU
+ 2. RAM
+ 3. CPU
+ 4. Register
 
 <details>
   <summary>Answer</summary>
-  IRC
+  ALU
 </details>
 
 
