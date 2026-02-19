@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Whenever the cashier at the grocery store asks my dad if he would like the milk in a bag he replies, ‘No, just leave it in the carton!’
+What do you call cheese by itself? Provolone.
 
 
 ## Daily Trivia
 
-In computing, what does MIDI stand for?
- 1. Musical Instrument Digital Interface
- 2. Musical Interface of Digital Instruments
- 3. Modular Interface of Digital Instruments
- 4. Musical Instrument Data Interface
+Nvidia&#039;s headquarters are based in which Silicon Valley city?
+ 1. Palo Alto
+ 2. Cupertino
+ 3. Mountain View
+ 4. Santa Clara
 
 <details>
   <summary>Answer</summary>
-  Musical Instrument Digital Interface
+  Santa Clara
 </details>
 
 
