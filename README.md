@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later.
+What is the leading cause of dry skin? Towels
 
 
 ## Daily Trivia
 
-What does the &#039;S&#039; in the RSA encryption algorithm stand for?
- 1. Stable
- 2. Schottky
- 3. Secure
- 4. Shamir
+What was the name of the image that features as the default background wallpaper for Windows XP?
+ 1. Red moon desert
+ 2. Bliss
+ 3. Tulips
+ 4. Azul
 
 <details>
   <summary>Answer</summary>
-  Shamir
+  Bliss
 </details>
 
 
