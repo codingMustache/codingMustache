@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Nurse: Doctor, there's a patient that says he's invisible. Doctor: Well, tell him I can't see him right now!
+Someone broke into my house last night and stole my limbo trophy. How low can you go?
 
 
 ## Daily Trivia
 
-Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
- 1. 32.0 kHz
- 2. 1.5 MHz
- 3. 20.5 kHz
- 4. 44.1 kHz
+What does LTS stand for in the software market?
+ 1. Long Taco Service
+ 2. Ludicrous Transfer Speed
+ 3. Ludicrous Turbo Speed
+ 4. Long Term Support
 
 <details>
   <summary>Answer</summary>
-  44.1 kHz
+  Long Term Support
 </details>
 
 
