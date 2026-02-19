@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call someone with no nose? Nobody knows.
+To be Frank, I'd have to change my name.
 
 
 ## Daily Trivia
 
-In programming, what do you call functions with the same name but different implementations?
- 1. Overloading
- 2. Inheriting
- 3. Abstracting
- 4. Overriding
+When did the online streaming service &quot;Mixer&quot; launch?
+ 1. 2016
+ 2. 2011
+ 3. 2009
+ 4. 2013
 
 <details>
   <summary>Answer</summary>
-  Overloading
+  2016
 </details>
 
 
