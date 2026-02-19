@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-To be Frank, I'd have to change my name.
+How do you make a 'one' disappear? You add a 'g' and it's 'gone'
 
 
 ## Daily Trivia
 
-When did the online streaming service &quot;Mixer&quot; launch?
- 1. 2016
- 2. 2011
- 3. 2009
- 4. 2013
+Approximately how many Apple I personal computers were created?
+ 1. 1000
+ 2. 500
+ 3. 200
+ 4. 100
 
 <details>
   <summary>Answer</summary>
-  2016
+  200
 </details>
 
 
