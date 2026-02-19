@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I adopted my dog from a blacksmith. As soon as we got home he made a bolt for the door.
+How does a penguin build it’s house? Igloos it together.
 
 
 ## Daily Trivia
 
-In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
- 1. Final
- 2. Static
- 3. Private
- 4. Public
+Which kind of algorithm is Ron Rivest not famous for creating?
+ 1. Stream cipher
+ 2. Asymmetric encryption
+ 3. Secret sharing scheme
+ 4. Hashing algorithm
 
 <details>
   <summary>Answer</summary>
-  Final
+  Secret sharing scheme
 </details>
 
 
