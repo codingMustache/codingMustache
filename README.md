@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Someone asked me, what's the ninth letter of the alphabet? It was a complete guess, but I was right.
+Did you hear that the police have a warrant out on a midget psychic ripping people off? It reads “Small medium at large.”
 
 
 ## Daily Trivia
 
-What does CPU stand for?
- 1. Computer Personal Unit
- 2. Central Process Unit
- 3. Central Processor Unit
- 4. Central Processing Unit
+Which of these is not a layer in the OSI model for data communications?
+ 1. Connection Layer
+ 2. Physical Layer
+ 3. Transport Layer
+ 4. Application Layer
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  Connection Layer
 </details>
 
 
