@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Two fish are in a tank, one turns to the other and says, "how do you drive this thing?"
+What do you call a fish wearing a bowtie? Sofishticated.
 
 
 ## Daily Trivia
 
-Which of these people was NOT a founder of Apple Inc?
- 1. Jonathan Ive
- 2. Steve Wozniak
- 3. Steve Jobs
- 4. Ronald Wayne
+What was the name of the image that features as the default background wallpaper for Windows XP?
+ 1. Azul
+ 2. Bliss
+ 3. Tulips
+ 4. Red moon desert
 
 <details>
   <summary>Answer</summary>
-  Jonathan Ive
+  Bliss
 </details>
 
 
