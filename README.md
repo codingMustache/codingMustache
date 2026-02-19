@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I ordered a chicken and an egg from Amazon. I'll let you know.
+Why are skeletons so calm? Because nothing gets under their skin.
 
 
 ## Daily Trivia
 
-Laserjet and inkjet printers are both examples of what type of printer?
- 1. Impact printer
- 2. Daisywheel printer
- 3. Dot matrix printer
- 4. Non-impact printer
+.rs is the top-level domain for what country?
+ 1. Romania
+ 2. Russia
+ 3. Rwanda
+ 4. Serbia
 
 <details>
   <summary>Answer</summary>
-  Non-impact printer
+  Serbia
 </details>
 
 
