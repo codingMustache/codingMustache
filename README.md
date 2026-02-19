@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How does a penguin build it’s house? Igloos it together.
+My sister bet me $15 that I couldn't build a car out of spaghetti. You should have seen the look on her face as I drove pasta.
 
 
 ## Daily Trivia
 
-Which kind of algorithm is Ron Rivest not famous for creating?
- 1. Stream cipher
- 2. Asymmetric encryption
- 3. Secret sharing scheme
- 4. Hashing algorithm
+What does AD stand for in relation to Windows Operating Systems? 
+ 1. Active Department
+ 2. Automated Database
+ 3. Alternative Drive
+ 4. Active Directory
 
 <details>
   <summary>Answer</summary>
-  Secret sharing scheme
+  Active Directory
 </details>
 
 
