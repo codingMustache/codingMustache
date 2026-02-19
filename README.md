@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is the leading cause of dry skin? Towels
+Why does Han Solo like gum? It's chewy!
 
 
 ## Daily Trivia
 
-What was the name of the image that features as the default background wallpaper for Windows XP?
- 1. Red moon desert
- 2. Bliss
- 3. Tulips
- 4. Azul
+Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
+ 1. Amazon
+ 2. eBay
+ 3. Overstock
+ 4. Shopify
 
 <details>
   <summary>Answer</summary>
-  Bliss
+  Amazon
 </details>
 
 
