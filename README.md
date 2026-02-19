@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I hate perforated lines, they're tearable.
+What do you get if you put a duck in a cement mixer? Quacks in the pavement.
 
 
 ## Daily Trivia
 
-Which programming language shares its name with an island in Indonesia?
- 1. Java
- 2. Python
- 3. C
- 4. Jakarta
+Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
+ 1. Cheetah
+ 2. Leopard
+ 3. Puma
+ 4. Tiger
 
 <details>
   <summary>Answer</summary>
-  Java
+  Cheetah
 </details>
 
 
