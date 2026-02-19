@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-If at first you don't succeed, sky diving is not for you!
+I asked my date to go to the gym the other day. They never showed up. That's when I knew we wouldn't work out.
 
 
 ## Daily Trivia
 
-Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
- 1. Amazon
- 2. Shopify
- 3. Overstock
- 4. eBay
+What does the term MIME stand for, in regards to computing?
+ 1. Mail Internet Mail Exchange
+ 2. Multipurpose Internet Mail Extensions
+ 3. Mail Interleave Method Exchange
+ 4. Multipurpose Interleave Mail Exchange
 
 <details>
   <summary>Answer</summary>
-  Amazon
+  Multipurpose Internet Mail Extensions
 </details>
 
 
