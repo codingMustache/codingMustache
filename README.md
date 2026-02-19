@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to work in a shoe recycling shop. It was sole destroying.
+I hate perforated lines, they're tearable.
 
 
 ## Daily Trivia
 
-What does RAID stand for?
- 1. Redundant Array of Independent Disks
- 2. Rapid Access for Indexed Devices
- 3. Range of Applications with Identical Designs
- 4. Randomized Abstract Identification Description
+Which programming language shares its name with an island in Indonesia?
+ 1. Java
+ 2. Python
+ 3. C
+ 4. Jakarta
 
 <details>
   <summary>Answer</summary>
-  Redundant Array of Independent Disks
+  Java
 </details>
 
 
