@@ -4,16 +4,16 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I always wanted to look into why I procrastinate, but I keep putting it off. 
+Our wedding was so beautiful, even the cake was in tiers.
 
 
 ## Daily Trivia
 
 Which of the following languages is used as a scripting language in the Unity 3D game engine?
- 1. Objective-C
- 2. C#
+ 1. C#
+ 2. Java
  3. C++
- 4. Java
+ 4. Objective-C
 
 <details>
   <summary>Answer</summary>
