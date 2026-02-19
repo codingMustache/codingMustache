@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the knife dress up in a suit? Because it wanted to look sharp
+What did the father tomato say to the baby tomato whilst on a family walk? Ketchup.
 
 
 ## Daily Trivia
 
-Which SQL keyword is used to fetch data from a database?
- 1. INDEX
- 2. VALUES
- 3. EXEC
- 4. SELECT
+How fast is USB 3.1 Gen 2 theoretically?
+ 1. 8 Gb/s
+ 2. 1 Gb/s
+ 3. 10 Gb/s
+ 4. 5 Gb/s
 
 <details>
   <summary>Answer</summary>
-  SELECT
+  10 Gb/s
 </details>
 
 
