@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call cheese by itself? Provolone.
+Did you hear about the chameleon who couldn't change color? They had a reptile dysfunction.
 
 
 ## Daily Trivia
 
-Nvidia&#039;s headquarters are based in which Silicon Valley city?
- 1. Palo Alto
- 2. Cupertino
- 3. Mountain View
- 4. Santa Clara
+What did the name of the Tor Anonymity Network orignially stand for?
+ 1. The Only Router
+ 2. The Orange Router
+ 3. The Onion Router
+ 4. The Ominous Router
 
 <details>
   <summary>Answer</summary>
-  Santa Clara
+  The Onion Router
 </details>
 
 
