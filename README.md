@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I wanted to be a tailor but I didn't suit the job
+I used to work in a shoe recycling shop. It was sole destroying.
 
 
 ## Daily Trivia
 
-Which of the following is a personal computer made by the Japanese company Fujitsu?
- 1. Xmillennium 
- 2. FM-7
- 3. MSX
- 4. PC-9801
+What does RAID stand for?
+ 1. Redundant Array of Independent Disks
+ 2. Rapid Access for Indexed Devices
+ 3. Range of Applications with Identical Designs
+ 4. Randomized Abstract Identification Description
 
 <details>
   <summary>Answer</summary>
-  FM-7
+  Redundant Array of Independent Disks
 </details>
 
 
