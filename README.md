@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you know that protons have mass? I didn't even know they were catholic.
+I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later.
 
 
 ## Daily Trivia
 
-What amount of bits commonly equals one byte?
- 1. 64
- 2. 2
- 3. 8
- 4. 1
+What does the &#039;S&#039; in the RSA encryption algorithm stand for?
+ 1. Stable
+ 2. Schottky
+ 3. Secure
+ 4. Shamir
 
 <details>
   <summary>Answer</summary>
-  8
+  Shamir
 </details>
 
 
