@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I was going to learn how to juggle, but I didn't have the balls.
+What did one plate say to the other plate? Dinner is on me!
 
 
 ## Daily Trivia
 
-How many bits make up the significand portion of a single precision floating point number?
- 1. 23
- 2. 53
- 3. 15
- 4. 8
+Generally, which component of a computer draws the most power?
+ 1. Power Supply
+ 2. Processor
+ 3. Video Card
+ 4. Hard Drive
 
 <details>
   <summary>Answer</summary>
-  23
+  Video Card
 </details>
 
 
