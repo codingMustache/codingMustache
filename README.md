@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My sister bet me $15 that I couldn't build a car out of spaghetti. You should have seen the look on her face as I drove pasta.
+What do you call two barracuda fish?  A Pairacuda!
 
 
 ## Daily Trivia
 
-What does AD stand for in relation to Windows Operating Systems? 
- 1. Active Department
- 2. Automated Database
- 3. Alternative Drive
- 4. Active Directory
+What amount of bits commonly equals one byte?
+ 1. 64
+ 2. 2
+ 3. 8
+ 4. 1
 
 <details>
   <summary>Answer</summary>
-  Active Directory
+  8
 </details>
 
 
