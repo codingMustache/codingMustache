@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did one plate say to the other plate? Dinner is on me!
+What do you do when your bunny gets wet? You get your hare dryer.
 
 
 ## Daily Trivia
 
-Generally, which component of a computer draws the most power?
- 1. Power Supply
- 2. Processor
- 3. Video Card
- 4. Hard Drive
+The programming language &#039;Swift&#039; was created to replace what other programming language?
+ 1. Objective-C
+ 2. Ruby
+ 3. C#
+ 4. C++
 
 <details>
   <summary>Answer</summary>
-  Video Card
+  Objective-C
 </details>
 
 
