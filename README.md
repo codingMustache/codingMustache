@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are graveyards so noisy? Because of all the coffin.
+Why did the half blind man fall in the well? Because he couldn't see that well!
 
 
 ## Daily Trivia
 
-This mobile OS held the largest market share in 2012.
- 1. iOS
- 2. Symbian
- 3. BlackBerry
- 4. Android
+What vulnerability ranked #1 on the OWASP Top 10 in 2013?
+ 1. Injection 
+ 2. Insecure Direct Object References
+ 3. Cross-Site Scripting
+ 4. Broken Authentication
 
 <details>
   <summary>Answer</summary>
-  iOS
+  Injection 
 </details>
 
 
