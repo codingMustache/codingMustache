@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Our wedding was so beautiful, even the cake was in tiers.
+I wanted to be a tailor but I didn't suit the job
 
 
 ## Daily Trivia
 
-Which of the following languages is used as a scripting language in the Unity 3D game engine?
- 1. C#
- 2. Java
- 3. C++
- 4. Objective-C
+Which of the following is a personal computer made by the Japanese company Fujitsu?
+ 1. Xmillennium 
+ 2. FM-7
+ 3. MSX
+ 4. PC-9801
 
 <details>
   <summary>Answer</summary>
-  C#
+  FM-7
 </details>
 
 
