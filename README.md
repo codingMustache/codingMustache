@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-When is a door not a door? When it's ajar.
+Two fish are in a tank, one turns to the other and says, "how do you drive this thing?"
 
 
 ## Daily Trivia
 
-Which of the following computer components can be built using only NAND gates?
- 1. ALU
- 2. RAM
- 3. CPU
- 4. Register
+Which of these people was NOT a founder of Apple Inc?
+ 1. Jonathan Ive
+ 2. Steve Wozniak
+ 3. Steve Jobs
+ 4. Ronald Wayne
 
 <details>
   <summary>Answer</summary>
-  ALU
+  Jonathan Ive
 </details>
 
 
