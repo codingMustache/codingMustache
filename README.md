@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Someone asked me, what's the ninth letter of the alphabet? It was a complete guess, but I was right.
+Did you know that protons have mass? I didn't even know they were catholic.
 
 
 ## Daily Trivia
 
-Which RAID array type is associated with data mirroring?
- 1. RAID 1
- 2. RAID 5
- 3. RAID 10
- 4. RAID 0
+What amount of bits commonly equals one byte?
+ 1. 64
+ 2. 2
+ 3. 8
+ 4. 1
 
 <details>
   <summary>Answer</summary>
-  RAID 1
+  8
 </details>
 
 
