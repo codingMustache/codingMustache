@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I asked my date to go to the gym the other day. They never showed up. That's when I knew we wouldn't work out.
+Someone asked me, what's the ninth letter of the alphabet? It was a complete guess, but I was right.
 
 
 ## Daily Trivia
 
-What does the term MIME stand for, in regards to computing?
- 1. Mail Internet Mail Exchange
- 2. Multipurpose Internet Mail Extensions
- 3. Mail Interleave Method Exchange
- 4. Multipurpose Interleave Mail Exchange
+Which RAID array type is associated with data mirroring?
+ 1. RAID 1
+ 2. RAID 5
+ 3. RAID 10
+ 4. RAID 0
 
 <details>
   <summary>Answer</summary>
-  Multipurpose Internet Mail Extensions
+  RAID 1
 </details>
 
 
