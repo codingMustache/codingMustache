@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you make a 'one' disappear? You add a 'g' and it's 'gone'
+I adopted my dog from a blacksmith. As soon as we got home he made a bolt for the door.
 
 
 ## Daily Trivia
 
-Approximately how many Apple I personal computers were created?
- 1. 1000
- 2. 500
- 3. 200
- 4. 100
+In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
+ 1. Final
+ 2. Static
+ 3. Private
+ 4. Public
 
 <details>
   <summary>Answer</summary>
-  200
+  Final
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **15 days** since this server shutdown
+Its been **** since this server shutdown
