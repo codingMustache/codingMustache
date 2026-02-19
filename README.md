@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do you take someone who has been injured in a Peek-a-boo accident? To the I.C.U.
+Someone asked me, what's the ninth letter of the alphabet? It was a complete guess, but I was right.
 
 
 ## Daily Trivia
 
-Which of the following is a personal computer made by the Japanese company Fujitsu?
- 1. PC-9801
- 2. Xmillennium 
- 3. MSX
- 4. FM-7
+What does CPU stand for?
+ 1. Computer Personal Unit
+ 2. Central Process Unit
+ 3. Central Processor Unit
+ 4. Central Processing Unit
 
 <details>
   <summary>Answer</summary>
-  FM-7
+  Central Processing Unit
 </details>
 
 
