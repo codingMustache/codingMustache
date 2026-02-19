@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear that the police have a warrant out on a midget psychic ripping people off? It reads “Small medium at large.”
+I used to work in a shoe recycling shop. It was sole destroying.
 
 
 ## Daily Trivia
 
-Which of these is not a layer in the OSI model for data communications?
- 1. Connection Layer
- 2. Physical Layer
- 3. Transport Layer
- 4. Application Layer
+In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
+ 1. relative
+ 2. center
+ 3. absolute
+ 4. static
 
 <details>
   <summary>Answer</summary>
-  Connection Layer
+  center
 </details>
 
 
