@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the father tomato say to the baby tomato whilst on a family walk? Ketchup.
+Why did the melons plan a big wedding? Because they cantaloupe!
 
 
 ## Daily Trivia
 
-How fast is USB 3.1 Gen 2 theoretically?
- 1. 8 Gb/s
- 2. 1 Gb/s
- 3. 10 Gb/s
- 4. 5 Gb/s
+What is known as &quot;the brain&quot; of the Computer?
+ 1. Central Processing Unit
+ 2. Motherboard
+ 3. Graphics Processing Unit
+ 4. Keyboard
 
 <details>
   <summary>Answer</summary>
-  10 Gb/s
+  Central Processing Unit
 </details>
 
 
