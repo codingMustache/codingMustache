@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear the one about the giant pickle?  He was kind of a big dill.
+Why do choirs keep buckets handy? So they can carry their tune
 
 
 ## Daily Trivia
 
-When did the online streaming service &quot;Mixer&quot; launch?
- 1. 2016
- 2. 2011
- 3. 2009
- 4. 2013
+How many bits make up the significand portion of a single precision floating point number?
+ 1. 8
+ 2. 53
+ 3. 15
+ 4. 23
 
 <details>
   <summary>Answer</summary>
-  2016
+  23
 </details>
 
 
