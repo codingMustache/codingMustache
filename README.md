@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-When Dad drops a pea off of his plate ‘oh dear I’ve pee’d on the table!
+"Hey, dad, did you get a haircut?" "No, I got them all cut."
 
 
 ## Daily Trivia
 
-What was the first commerically available computer processor?
- 1. Intel 486SX
- 2. TMS 1000
- 3. AMD AM386
- 4. Intel 4004
+In programming, the ternary operator is mostly defined with what symbol(s)?
+ 1. if then
+ 2. ?:
+ 3. ??
+ 4. ?
 
 <details>
   <summary>Answer</summary>
-  Intel 4004
+  ?:
 </details>
 
 
