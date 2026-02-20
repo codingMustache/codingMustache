@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the scarf say to the hat? You go on ahead, I am going to hang around a bit longer.
+I had a rough day, and then somebody went and ripped the front and back pages from my dictionary. It just goes from bad to worse.
 
 
 ## Daily Trivia
 
-In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
- 1. Public
- 2. Private
- 3. Final
- 4. Static
+Which computer hardware device provides an interface for all other connected devices to communicate?
+ 1. Motherboard
+ 2. Random Access Memory
+ 3. Hard Disk Drive
+ 4. Central Processing Unit
 
 <details>
   <summary>Answer</summary>
-  Final
+  Motherboard
 </details>
 
 
