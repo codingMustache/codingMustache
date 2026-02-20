@@ -4,22 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's large, grey, and doesn't matter?
-An irrelephant.
-
+Why did the belt go to prison? He held up a pair of pants!
 
 
 ## Daily Trivia
 
-In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
- 1. static
- 2. absolute
- 3. relative
- 4. center
+What does GHz stand for?
+ 1. Gigahertz
+ 2. Gigahotz
+ 3. Gigahetz
+ 4. Gigahatz
 
 <details>
   <summary>Answer</summary>
-  center
+  Gigahertz
 </details>
 
 
