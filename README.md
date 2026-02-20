@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you make Lady Gaga cry? Poker face. 
+To the guy who invented zero... thanks for nothing.
 
 
 ## Daily Trivia
 
-Which of these people was NOT a founder of Apple Inc?
- 1. Steve Wozniak
- 2. Steve Jobs
- 3. Ronald Wayne
- 4. Jonathan Ive
+Who is the original author of the realtime physics engine called PhysX?
+ 1. Ageia
+ 2. Nvidia
+ 3. AMD
+ 4. NovodeX
 
 <details>
   <summary>Answer</summary>
-  Jonathan Ive
+  NovodeX
 </details>
 
 
