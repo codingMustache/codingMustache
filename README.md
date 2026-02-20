@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It's been months since I bought the book "how to scam people online". It still hasn't turned up.
+What does an angry pepper do? It gets jalapeño face.
 
 
 ## Daily Trivia
 
-Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
- 1. Heartbleed
- 2. Corrupted Blood
- 3. Shellshock
- 4. Shellscript
+Nvidia&#039;s headquarters are based in which Silicon Valley city?
+ 1. Santa Clara
+ 2. Cupertino
+ 3. Palo Alto
+ 4. Mountain View
 
 <details>
   <summary>Answer</summary>
-  Heartbleed
+  Santa Clara
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **** since this server shutdown
+Its been **1 days** since this server shutdown
