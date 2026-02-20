@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the scarecrow win an award? Because he was outstanding in his field.
+I just broke my guitar. It's okay, I won't fret
 
 
 ## Daily Trivia
 
-What was the first Android version specifically optimized for tablets?
- 1. Eclair
- 2. Honeycomb
- 3. Froyo
- 4. Marshmellow
+Which computer language would you associate Django framework with?
+ 1. C#
+ 2. C++
+ 3. Java
+ 4. Python
 
 <details>
   <summary>Answer</summary>
-  Honeycomb
+  Python
 </details>
 
 
