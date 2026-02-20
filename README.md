@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-In the news a courtroom artist was arrested today, I'm not surprised, he always seemed sketchy.
+Me and my mates are in a band called Duvet. We're a cover band.
 
 
 ## Daily Trivia
 
-What is the most preferred image format used for logos in the Wikimedia database?
- 1. .gif
- 2. .jpeg
- 3. .svg
- 4. .png
+What does the acronym CDN stand for in terms of networking?
+ 1. Content Delivery Network
+ 2. Content Distribution Network
+ 3. Computational Data Network
+ 4. Compressed Data Network
 
 <details>
   <summary>Answer</summary>
-  .svg
+  Content Delivery Network
 </details>
 
 
