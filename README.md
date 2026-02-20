@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My dog used to chase people on a bike a lot. It got so bad I had to take his bike away.
+What happens when you anger a brain surgeon? They will give you a piece of your mind.
 
 
 ## Daily Trivia
 
-On which day did the World Wide Web go online?
- 1. December 17, 1996
- 2. November 12, 1990
- 3. November 24, 1995
- 4. December 20, 1990
+Australia, Japan, and Southeast Asia are in which ITU Region?
+ 1. Region 2
+ 2. Region 3
+ 3. Region 1
+ 4. Region 4
 
 <details>
   <summary>Answer</summary>
-  December 20, 1990
+  Region 3
 </details>
 
 
