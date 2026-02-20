@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Cosmetic surgery used to be such a taboo subject.
-Now you can talk about Botox and nobody raises an eyebrow.
+What did the scarf say to the hat? You go on ahead, I am going to hang around a bit longer.
 
 
 ## Daily Trivia
 
-What is the name of the process that sends one qubit of information using two bits of classical information?
- 1. Super Dense Coding
- 2. Quantum Entanglement
- 3. Quantum Programming
- 4. Quantum Teleportation
+In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
+ 1. Public
+ 2. Private
+ 3. Final
+ 4. Static
 
 <details>
   <summary>Answer</summary>
-  Quantum Teleportation
+  Final
 </details>
 
 
