@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How come a man driving a train got struck by lightning? He was a good conductor.
+What do you call a crowd of chess players bragging about their wins in a hotel lobby? Chess nuts boasting in an open foyer.
 
 
 ## Daily Trivia
 
-Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
- 1. Amazon
- 2. Shopify
- 3. Overstock
- 4. eBay
+What major programming language does Unreal Engine 4 use?
+ 1. ECMAScript
+ 2. Assembly
+ 3. C++
+ 4. C#
 
 <details>
   <summary>Answer</summary>
-  Amazon
+  C++
 </details>
 
 
