@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Have you heard about corduroy pillows?  They're making headlines!
+Did you hear the one about the giant pickle?  He was kind of a big dill.
 
 
 ## Daily Trivia
 
-If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
- 1. Binary
- 2. Python
- 3. C++
- 4. JavaScript
+When did the online streaming service &quot;Mixer&quot; launch?
+ 1. 2016
+ 2. 2011
+ 3. 2009
+ 4. 2013
 
 <details>
   <summary>Answer</summary>
-  Binary
+  2016
 </details>
 
 
