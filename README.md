@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why can't eggs have love? They will break up too soon.
+Why do we tell actors to “break a leg?” Because every play has a cast.
 
 
 ## Daily Trivia
 
-In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
- 1. center
- 2. relative
- 3. absolute
- 4. static
+If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
+ 1. Python
+ 2. C++
+ 3. JavaScript
+ 4. Binary
 
 <details>
   <summary>Answer</summary>
-  center
+  Binary
 </details>
 
 
