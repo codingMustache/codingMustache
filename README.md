@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do we tell actors to “break a leg?” Because every play has a cast.
+Why do valley girls hang out in odd numbered groups? Because they can't even.
 
 
 ## Daily Trivia
 
-If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
- 1. Python
- 2. C++
- 3. JavaScript
- 4. Binary
+What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
+ 1. Session
+ 2. Transport
+ 3. Data link
+ 4. Network
 
 <details>
   <summary>Answer</summary>
-  Binary
+  Transport
 </details>
 
 
