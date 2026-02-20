@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What concert costs only 45 cents? 50 cent featuring Nickelback.
+Cosmetic surgery used to be such a taboo subject.
+Now you can talk about Botox and nobody raises an eyebrow.
 
 
 ## Daily Trivia
 
-What language does Node.js use?
- 1. Java Source
- 2. Joomla Source Code
- 3. Java
- 4. JavaScript
+What is the name of the process that sends one qubit of information using two bits of classical information?
+ 1. Super Dense Coding
+ 2. Quantum Entanglement
+ 3. Quantum Programming
+ 4. Quantum Teleportation
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  Quantum Teleportation
 </details>
 
 
