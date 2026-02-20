@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a nervous javelin thrower? Shakespeare.
+Who did the wizard marry? His ghoul-friend
 
 
 ## Daily Trivia
 
-Who is the original author of the realtime physics engine called PhysX?
- 1. Ageia
- 2. Nvidia
- 3. AMD
- 4. NovodeX
+What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
+ 1. Network
+ 2. Session
+ 3. Data link
+ 4. Transport
 
 <details>
   <summary>Answer</summary>
-  NovodeX
+  Transport
 </details>
 
 
