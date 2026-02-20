@@ -4,20 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I cut my finger chopping cheese, but I think that I may have grater problems.
+What's large, grey, and doesn't matter?
+An irrelephant.
+
 
 
 ## Daily Trivia
 
-What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
- 1. ADPCM Sampler
- 2. PCM Sampler
- 3. Programmable Sound Generator (PSG)
- 4. FM Synthesizer
+In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
+ 1. static
+ 2. absolute
+ 3. relative
+ 4. center
 
 <details>
   <summary>Answer</summary>
-  ADPCM Sampler
+  center
 </details>
 
 
