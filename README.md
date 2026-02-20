@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Me and my mates are in a band called Duvet. We're a cover band.
+My sea sickness comes in waves.
 
 
 ## Daily Trivia
 
-What does the acronym CDN stand for in terms of networking?
- 1. Content Delivery Network
- 2. Content Distribution Network
- 3. Computational Data Network
- 4. Compressed Data Network
+Which data structure does FILO apply to?
+ 1. Stack
+ 2. Queue
+ 3. Tree
+ 4. Heap
 
 <details>
   <summary>Answer</summary>
-  Content Delivery Network
+  Stack
 </details>
 
 
