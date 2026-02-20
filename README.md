@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-"Hey, dad, did you get a haircut?" "No, I got them all cut."
+Why can't eggs have love? They will break up too soon.
 
 
 ## Daily Trivia
 
-In programming, the ternary operator is mostly defined with what symbol(s)?
- 1. if then
- 2. ?:
- 3. ??
- 4. ?
+In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
+ 1. center
+ 2. relative
+ 3. absolute
+ 4. static
 
 <details>
   <summary>Answer</summary>
-  ?:
+  center
 </details>
 
 
