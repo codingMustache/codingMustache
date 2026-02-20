@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a crowd of chess players bragging about their wins in a hotel lobby? Chess nuts boasting in an open foyer.
+I just got fired from a florist, apparently I took too many leaves.
 
 
 ## Daily Trivia
 
-What major programming language does Unreal Engine 4 use?
- 1. ECMAScript
- 2. Assembly
- 3. C++
- 4. C#
+According to the International System of Units, how many bytes are in a kilobyte of RAM?
+ 1. 1000
+ 2. 500
+ 3. 1024
+ 4. 512
 
 <details>
   <summary>Answer</summary>
-  C++
+  1000
 </details>
 
 
