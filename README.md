@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-To the guy who invented zero... thanks for nothing.
+What’s the difference between an African elephant and an Indian elephant? About 5000 miles.
 
 
 ## Daily Trivia
 
-Who is the original author of the realtime physics engine called PhysX?
- 1. Ageia
- 2. Nvidia
- 3. AMD
- 4. NovodeX
+What does the term GPU stand for?
+ 1. Graphics Processing Unit
+ 2. Gaming Processor Unit
+ 3. Graphite Producing Unit
+ 4. Graphical Proprietary Unit
 
 <details>
   <summary>Answer</summary>
-  NovodeX
+  Graphics Processing Unit
 </details>
 
 
