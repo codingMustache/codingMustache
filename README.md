@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What does an angry pepper do? It gets jalapeño face.
+Someone asked me to name two structures that hold water. I said "Well dam"
 
 
 ## Daily Trivia
 
-Nvidia&#039;s headquarters are based in which Silicon Valley city?
- 1. Santa Clara
- 2. Cupertino
- 3. Palo Alto
- 4. Mountain View
+Which SQL keyword is used to fetch data from a database?
+ 1. INDEX
+ 2. VALUES
+ 3. EXEC
+ 4. SELECT
 
 <details>
   <summary>Answer</summary>
-  Santa Clara
+  SELECT
 </details>
 
 
