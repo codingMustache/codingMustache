@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do choirs keep buckets handy? So they can carry their tune
+I heard there was a new store called Moderation. They have everything there
 
 
 ## Daily Trivia
 
-How many bits make up the significand portion of a single precision floating point number?
- 1. 8
- 2. 53
- 3. 15
- 4. 23
+Which of these people was NOT a founder of Apple Inc?
+ 1. Jonathan Ive
+ 2. Ronald Wayne
+ 3. Steve Wozniak
+ 4. Steve Jobs
 
 <details>
   <summary>Answer</summary>
-  23
+  Jonathan Ive
 </details>
 
 
