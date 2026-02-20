@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What’s brown and sounds like a bell? Dung!
+What concert costs only 45 cents? 50 cent featuring Nickelback.
 
 
 ## Daily Trivia
 
-What was the first Android version specifically optimized for tablets?
- 1. Honeycomb
- 2. Marshmellow
- 3. Froyo
- 4. Eclair
+What language does Node.js use?
+ 1. Java Source
+ 2. Joomla Source Code
+ 3. Java
+ 4. JavaScript
 
 <details>
   <summary>Answer</summary>
-  Honeycomb
+  JavaScript
 </details>
 
 
