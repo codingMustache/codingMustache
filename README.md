@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I've been trying to come up with a dad joke about momentum . . . but I just can't seem to get it going.
+I cut my finger chopping cheese, but I think that I may have grater problems.
 
 
 ## Daily Trivia
 
-HTML is what type of language?
- 1. Markup Language
- 2. Scripting Language
- 3. Programming Language
- 4. Macro Language
+What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
+ 1. ADPCM Sampler
+ 2. PCM Sampler
+ 3. Programmable Sound Generator (PSG)
+ 4. FM Synthesizer
 
 <details>
   <summary>Answer</summary>
-  Markup Language
+  ADPCM Sampler
 </details>
 
 
