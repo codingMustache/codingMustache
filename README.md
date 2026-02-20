@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I knew a guy who collected candy canes, they were all in mint condition
+Why did the half blind man fall in the well? Because he couldn't see that well!
 
 
 ## Daily Trivia
 
-Nvidia&#039;s headquarters are based in which Silicon Valley city?
- 1. Palo Alto
- 2. Cupertino
- 3. Mountain View
- 4. Santa Clara
+What does the &quot;MP&quot; stand for in MP3?
+ 1. Micro Point
+ 2. Music Player
+ 3. Multi Pass
+ 4. Moving Picture
 
 <details>
   <summary>Answer</summary>
-  Santa Clara
+  Moving Picture
 </details>
 
 
