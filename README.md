@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I don't trust stairs. They're always up to something.
+What's the difference between a poorly dressed man on a tricycle and a well dressed man on a bicycle? Attire.
 
 
 ## Daily Trivia
 
-Which of these is not a layer in the OSI model for data communications?
- 1. Transport Layer
- 2. Application Layer
- 3. Connection Layer
- 4. Physical Layer
+Which of the following is a personal computer made by the Japanese company Fujitsu?
+ 1. MSX
+ 2. Xmillennium 
+ 3. FM-7
+ 4. PC-9801
 
 <details>
   <summary>Answer</summary>
-  Connection Layer
+  FM-7
 </details>
 
 
