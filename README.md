@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do valley girls hang out in odd numbered groups? Because they can't even.
+How do you make Lady Gaga cry? Poker face. 
 
 
 ## Daily Trivia
 
-What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
- 1. Session
- 2. Transport
- 3. Data link
- 4. Network
+Which of these people was NOT a founder of Apple Inc?
+ 1. Steve Wozniak
+ 2. Steve Jobs
+ 3. Ronald Wayne
+ 4. Jonathan Ive
 
 <details>
   <summary>Answer</summary>
-  Transport
+  Jonathan Ive
 </details>
 
 
