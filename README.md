@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do fish keep their money? In the riverbank
+Why do fish live in salt water? Because pepper makes them sneeze!
 
 
 ## Daily Trivia
 
-What does GHz stand for?
- 1. Gigahertz
- 2. Gigahotz
- 3. Gigahetz
- 4. Gigahatz
+What programming language was GitHub written in?
+ 1. JavaScript
+ 2. Ruby
+ 3. Lua
+ 4. Python
 
 <details>
   <summary>Answer</summary>
-  Gigahertz
+  Ruby
 </details>
 
 
