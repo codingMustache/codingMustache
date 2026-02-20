@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What’s the difference between an African elephant and an Indian elephant? About 5000 miles.
+Where do cats write notes?
+Scratch Paper!
 
 
 ## Daily Trivia
 
-What does the term GPU stand for?
- 1. Graphics Processing Unit
- 2. Gaming Processor Unit
- 3. Graphite Producing Unit
- 4. Graphical Proprietary Unit
+Who invented the &quot;Spanning Tree Protocol&quot;?
+ 1. Vint Cerf
+ 2. Paul Vixie
+ 3. Michael Roberts
+ 4. Radia Perlman
 
 <details>
   <summary>Answer</summary>
-  Graphics Processing Unit
+  Radia Perlman
 </details>
 
 
