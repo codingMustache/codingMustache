@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My sea sickness comes in waves.
+I got a reversible jacket for Christmas, I can't wait to see how it turns out.
 
 
 ## Daily Trivia
 
-Which data structure does FILO apply to?
- 1. Stack
- 2. Queue
- 3. Tree
- 4. Heap
+The name of technology company HP stands for what?
+ 1. Hewlett-Packard
+ 2. Hellman-Pohl
+ 3. Husker-Pollosk
+ 4. Howard Packmann
 
 <details>
   <summary>Answer</summary>
-  Stack
+  Hewlett-Packard
 </details>
 
 
