@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-‘Put the cat out’ … ‘I didn’t realize it was on fire
+Why did the worker get fired from the orange juice factory? Lack of concentration.
 
 
 ## Daily Trivia
 
-What does GHz stand for?
- 1. Gigahotz
- 2. Gigahetz
- 3. Gigahertz
- 4. Gigahatz
+The acronym &quot;RIP&quot; stands for which of these?
+ 1. Routing Information Protocol
+ 2. Routine Inspection Protocol
+ 3. Regular Interval Processes
+ 4. Runtime Instance Processes
 
 <details>
   <summary>Answer</summary>
-  Gigahertz
+  Routing Information Protocol
 </details>
 
 
