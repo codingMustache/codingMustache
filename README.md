@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where does astronauts hangout after work? At the spacebar.
+What's the difference between a poorly dressed man on a tricycle and a well dressed man on a bicycle? Attire.
 
 
 ## Daily Trivia
 
-Which of the following computer components can be built using only NAND gates?
- 1. Register
- 2. RAM
- 3. ALU
- 4. CPU
+What programming language was GitHub written in?
+ 1. Ruby
+ 2. JavaScript
+ 3. Lua
+ 4. Python
 
 <details>
   <summary>Answer</summary>
-  ALU
+  Ruby
 </details>
 
 
