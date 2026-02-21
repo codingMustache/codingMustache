@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-what happens when you cross a sheep with a kangaroo ? A woolly jumper!
+What did Yoda say when he saw himself in 4K? "HDMI"
 
 
 ## Daily Trivia
 
-Which of the following is the oldest of these computers by release date?
- 1. TRS-80
- 2. Apple 3
- 3. ZX Spectrum
- 4. Commodore 64
+When did the online streaming service &quot;Mixer&quot; launch?
+ 1. 2011
+ 2. 2016
+ 3. 2013
+ 4. 2009
 
 <details>
   <summary>Answer</summary>
-  TRS-80
+  2016
 </details>
 
 
