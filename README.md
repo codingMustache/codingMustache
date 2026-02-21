@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later.
+What did the father tomato say to the baby tomato whilst on a family walk? Ketchup.
 
 
 ## Daily Trivia
 
-What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
- 1. Heat Vent
- 2. Temperature Decipator
- 3. CPU Vent
- 4. Heat Sink
+How many bytes are in a single Kibibyte?
+ 1. 2400
+ 2. 1240
+ 3. 1024
+ 4. 1000
 
 <details>
   <summary>Answer</summary>
-  Heat Sink
+  1024
 </details>
 
 
