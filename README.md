@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-You will never guess what Elsa did to the balloon. She let it go.
+Why is Peter Pan always flying? Because he Neverlands.
 
 
 ## Daily Trivia
 
-On which computer hardware device is the BIOS chip located?
- 1. Motherboard
- 2. Hard Disk Drive
- 3. Central Processing Unit
- 4. Graphics Processing Unit
+HTML is what type of language?
+ 1. Scripting Language
+ 2. Programming Language
+ 3. Markup Language
+ 4. Macro Language
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  Markup Language
 </details>
 
 
