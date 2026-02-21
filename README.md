@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-which flower is most fierce? Dandelion
+An apple a day keeps the bullies away. If you throw it hard enough.
 
 
 ## Daily Trivia
 
-When did the online streaming service &quot;Mixer&quot; launch?
- 1. 2016
- 2. 2011
- 3. 2009
- 4. 2013
+Which of these programming languages is a low-level language?
+ 1. Pascal
+ 2. C#
+ 3. Assembly
+ 4. Python
 
 <details>
   <summary>Answer</summary>
-  2016
+  Assembly
 </details>
 
 
