@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are giraffes so slow to apologize? Because it takes them a long time to swallow their pride.
+Archaeology really is a career in ruins.
 
 
 ## Daily Trivia
 
-When Gmail first launched, how much storage did it provide for your email?
- 1. Unlimited
- 2. 1GB
- 3. 5GB
- 4. 512MB
+The C programming language was created by this American computer scientist. 
+ 1. al-Khwārizmī
+ 2. Dennis Ritchie
+ 3. Tim Berners Lee
+ 4. Willis Ware
 
 <details>
   <summary>Answer</summary>
-  1GB
+  Dennis Ritchie
 </details>
 
 
