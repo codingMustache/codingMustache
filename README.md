@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-People who don't eat gluten are really going against the grain.
+What do you call a fashionable lawn statue with an excellent sense of rhythmn? A metro-gnome
 
 
 ## Daily Trivia
 
-In programming, the ternary operator is mostly defined with what symbol(s)?
- 1. ??
- 2. if then
- 3. ?:
- 4. ?
+What is the domain name for the country Tuvalu?
+ 1. .tl
+ 2. .tv
+ 3. .tt
+ 4. .tu
 
 <details>
   <summary>Answer</summary>
-  ?:
+  .tv
 </details>
 
 
