@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of magic do cows believe in? MOODOO.
+What do you call a magician who has lost their magic? Ian.
 
 
 ## Daily Trivia
 
-Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
- 1. JavaScript
- 2. PHP
- 3. Python
- 4. C#
+HTML is what type of language?
+ 1. Macro Language
+ 2. Programming Language
+ 3. Markup Language
+ 4. Scripting Language
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  Markup Language
 </details>
 
 
