@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did Yoda say when he saw himself in 4K? "HDMI"
+Two fish are in a tank, one turns to the other and says, "how do you drive this thing?"
 
 
 ## Daily Trivia
 
-When did the online streaming service &quot;Mixer&quot; launch?
- 1. 2011
- 2. 2016
- 3. 2013
- 4. 2009
+All of the following programs are classified as raster graphics editors EXCEPT:
+ 1. Inkscape
+ 2. Paint.NET
+ 3. GIMP
+ 4. Adobe Photoshop
 
 <details>
   <summary>Answer</summary>
-  2016
+  Inkscape
 </details>
 
 
