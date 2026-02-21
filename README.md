@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Archaeology really is a career in ruins.
+I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later.
 
 
 ## Daily Trivia
 
-The C programming language was created by this American computer scientist. 
- 1. al-Khwārizmī
- 2. Dennis Ritchie
- 3. Tim Berners Lee
- 4. Willis Ware
+What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
+ 1. Heat Vent
+ 2. Temperature Decipator
+ 3. CPU Vent
+ 4. Heat Sink
 
 <details>
   <summary>Answer</summary>
-  Dennis Ritchie
+  Heat Sink
 </details>
 
 
