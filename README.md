@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why is Peter Pan always flying? Because he Neverlands.
+Did you hear about the guy whose whole left side was cut off? He's all right now.
 
 
 ## Daily Trivia
 
-HTML is what type of language?
- 1. Scripting Language
- 2. Programming Language
- 3. Markup Language
- 4. Macro Language
+In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
+ 1. Red
+ 2. Green
+ 3. Blue
+ 4. Yellow
 
 <details>
   <summary>Answer</summary>
-  Markup Language
+  Green
 </details>
 
 
