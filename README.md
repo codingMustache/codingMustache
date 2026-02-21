@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the piece of bread say to the knife? Butter me up.
+What did the ocean say to the beach? Thanks for all the sediment.
 
 
 ## Daily Trivia
 
-On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
- 1. Asterisk
- 2. Exclamation Mark
- 3. Percent Sign
- 4. Dollar Sign
+What does the Prt Sc button do?
+ 1. Captures what&#039;s on the screen and copies it to your clipboard
+ 2. Closes all windows
+ 3. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
+ 4. Nothing
 
 <details>
   <summary>Answer</summary>
-  Exclamation Mark
+  Captures what&#039;s on the screen and copies it to your clipboard
 </details>
 
 
