@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A weasel walks into a bar. The bartender says, "Wow, I've never served a weasel before. What can I get for you?"
-"Pop," goes the weasel.
+My sister bet me $15 that I couldn't build a car out of spaghetti. You should have seen the look on her face as I drove pasta.
 
 
 ## Daily Trivia
 
-Generally, which component of a computer draws the most power?
- 1. Video Card
- 2. Power Supply
- 3. Processor
- 4. Hard Drive
+What was the first company to use the term &quot;Golden Master&quot;?
+ 1. IBM
+ 2. Apple
+ 3. Google
+ 4. Microsoft
 
 <details>
   <summary>Answer</summary>
-  Video Card
+  Apple
 </details>
 
 
