@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I’ll tell you something about German sausages, they’re the wurst
+what happens when you cross a sheep with a kangaroo ? A woolly jumper!
 
 
 ## Daily Trivia
 
-Who is the founder of Palantir?
- 1. Peter Thiel
- 2. Jack Dorsey
- 3. Marc Benioff
- 4. Mark Zuckerberg
+Which of the following is the oldest of these computers by release date?
+ 1. TRS-80
+ 2. Apple 3
+ 3. ZX Spectrum
+ 4. Commodore 64
 
 <details>
   <summary>Answer</summary>
-  Peter Thiel
+  TRS-80
 </details>
 
 
