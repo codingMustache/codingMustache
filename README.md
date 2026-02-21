@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the worker get fired from the orange juice factory? Lack of concentration.
+I’m reading a book on the history of glue – can’t put it down.
 
 
 ## Daily Trivia
 
-The acronym &quot;RIP&quot; stands for which of these?
- 1. Routing Information Protocol
- 2. Routine Inspection Protocol
- 3. Regular Interval Processes
- 4. Runtime Instance Processes
+All of the following programs are classified as raster graphics editors EXCEPT:
+ 1. Inkscape
+ 2. Paint.NET
+ 3. GIMP
+ 4. Adobe Photoshop
 
 <details>
   <summary>Answer</summary>
-  Routing Information Protocol
+  Inkscape
 </details>
 
 
