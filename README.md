@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the guy whose whole left side was cut off? He's all right now.
+What do you call a troublesome Canadian high schooler? A poutine.
 
 
 ## Daily Trivia
 
-In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
- 1. Red
- 2. Green
- 3. Blue
- 4. Yellow
+Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
+ 1. Cherry MX Red
+ 2. Cherry MX Brown
+ 3. Cherry MX Black
+ 4. Cherry MX Blue
 
 <details>
   <summary>Answer</summary>
-  Green
+  Cherry MX Blue
 </details>
 
 
