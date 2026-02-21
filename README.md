@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Two dyslexics walk into a bra.
+What’s the longest word in the dictionary? Smiles. Because there’s a mile between the two S’s.
 
 
 ## Daily Trivia
 
-Which kind of algorithm is Ron Rivest not famous for creating?
- 1. Asymmetric encryption
- 2. Hashing algorithm
- 3. Secret sharing scheme
- 4. Stream cipher
+On which day did the World Wide Web go online?
+ 1. December 17, 1996
+ 2. December 20, 1990
+ 3. November 12, 1990
+ 4. November 24, 1995
 
 <details>
   <summary>Answer</summary>
-  Secret sharing scheme
+  December 20, 1990
 </details>
 
 
