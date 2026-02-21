@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a troublesome Canadian high schooler? A poutine.
+Why is the ocean always blue? Because the shore never waves back.
 
 
 ## Daily Trivia
 
-Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
- 1. Cherry MX Red
- 2. Cherry MX Brown
- 3. Cherry MX Black
- 4. Cherry MX Blue
+The name of technology company HP stands for what?
+ 1. Hewlett-Packard
+ 2. Hellman-Pohl
+ 3. Husker-Pollosk
+ 4. Howard Packmann
 
 <details>
   <summary>Answer</summary>
-  Cherry MX Blue
+  Hewlett-Packard
 </details>
 
 
