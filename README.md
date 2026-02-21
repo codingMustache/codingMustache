@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do rabbits go after they get married? On a bunny-moon.
+A weasel walks into a bar. The bartender says, "Wow, I've never served a weasel before. What can I get for you?"
+"Pop," goes the weasel.
 
 
 ## Daily Trivia
 
-What port does HTTP run on?
- 1. 80
- 2. 53
- 3. 443
- 4. 23
+Generally, which component of a computer draws the most power?
+ 1. Video Card
+ 2. Power Supply
+ 3. Processor
+ 4. Hard Drive
 
 <details>
   <summary>Answer</summary>
-  80
+  Video Card
 </details>
 
 
