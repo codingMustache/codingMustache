@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the ocean say to the beach? Thanks for all the sediment.
+Don't tell secrets in corn fields. Too many ears around.
 
 
 ## Daily Trivia
 
-What does the Prt Sc button do?
- 1. Captures what&#039;s on the screen and copies it to your clipboard
- 2. Closes all windows
- 3. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
- 4. Nothing
+What is the code name for the mobile operating system Android 7.0?
+ 1. Nougat
+ 2. Marshmallow
+ 3. Jelly Bean
+ 4. Ice Cream Sandwich
 
 <details>
   <summary>Answer</summary>
-  Captures what&#039;s on the screen and copies it to your clipboard
+  Nougat
 </details>
 
 
