@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Doctor you've got to help me, I'm addicted to Twitter. Doctor: I don't follow you.
+What did the dog say to the two trees? Bark bark.
 
 
 ## Daily Trivia
 
-Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
- 1. eBay
- 2. Amazon
- 3. Overstock
- 4. Shopify
+What is the domain name for the country Tuvalu?
+ 1. .tu
+ 2. .tt
+ 3. .tl
+ 4. .tv
 
 <details>
   <summary>Answer</summary>
-  Amazon
+  .tv
 </details>
 
 
