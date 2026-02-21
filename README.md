@@ -4,16 +4,16 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the difference between a poorly dressed man on a tricycle and a well dressed man on a bicycle? Attire.
+I burned 2000 calories today, I left my food in the oven for too long.
 
 
 ## Daily Trivia
 
 What programming language was GitHub written in?
- 1. Ruby
- 2. JavaScript
- 3. Lua
- 4. Python
+ 1. Lua
+ 2. Ruby
+ 3. Python
+ 4. JavaScript
 
 <details>
   <summary>Answer</summary>
@@ -23,4 +23,4 @@ What programming language was GitHub written in?
 
 ## Home Server Up-Time
 
-Its been **1 days** since this server shutdown
+Its been **2 days** since this server shutdown
