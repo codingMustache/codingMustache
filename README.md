@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-An apple a day keeps the bullies away. If you throw it hard enough.
+Where does astronauts hangout after work? At the spacebar.
 
 
 ## Daily Trivia
 
-Which of these programming languages is a low-level language?
- 1. Pascal
- 2. C#
- 3. Assembly
- 4. Python
+Which of the following computer components can be built using only NAND gates?
+ 1. Register
+ 2. RAM
+ 3. ALU
+ 4. CPU
 
 <details>
   <summary>Answer</summary>
-  Assembly
+  ALU
 </details>
 
 
