@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a magician who has lost their magic? Ian.
+People who don't eat gluten are really going against the grain.
 
 
 ## Daily Trivia
 
-HTML is what type of language?
- 1. Macro Language
- 2. Programming Language
- 3. Markup Language
- 4. Scripting Language
+In programming, the ternary operator is mostly defined with what symbol(s)?
+ 1. ??
+ 2. if then
+ 3. ?:
+ 4. ?
 
 <details>
   <summary>Answer</summary>
-  Markup Language
+  ?:
 </details>
 
 
