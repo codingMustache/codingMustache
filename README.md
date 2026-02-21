@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I’m only familiar with 25 letters in the English language. I don’t know why.
+Have you ever heard of a music group called Cellophane? They mostly wrap.
 
 
 ## Daily Trivia
 
-What is the name of the process that sends one qubit of information using two bits of classical information?
- 1. Quantum Programming
- 2. Super Dense Coding
- 3. Quantum Teleportation
- 4. Quantum Entanglement
+What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
+ 1. Transport
+ 2. Network
+ 3. Data link
+ 4. Session
 
 <details>
   <summary>Answer</summary>
-  Quantum Teleportation
+  Transport
 </details>
 
 
