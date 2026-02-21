@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I’m reading a book on the history of glue – can’t put it down.
+Two dyslexics walk into a bra.
 
 
 ## Daily Trivia
 
-All of the following programs are classified as raster graphics editors EXCEPT:
- 1. Inkscape
- 2. Paint.NET
- 3. GIMP
- 4. Adobe Photoshop
+Which kind of algorithm is Ron Rivest not famous for creating?
+ 1. Asymmetric encryption
+ 2. Hashing algorithm
+ 3. Secret sharing scheme
+ 4. Stream cipher
 
 <details>
   <summary>Answer</summary>
-  Inkscape
+  Secret sharing scheme
 </details>
 
 
