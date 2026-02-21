@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the father tomato say to the baby tomato whilst on a family walk? Ketchup.
+What did the piece of bread say to the knife? Butter me up.
 
 
 ## Daily Trivia
 
-How many bytes are in a single Kibibyte?
- 1. 2400
- 2. 1240
- 3. 1024
- 4. 1000
+On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
+ 1. Asterisk
+ 2. Exclamation Mark
+ 3. Percent Sign
+ 4. Dollar Sign
 
 <details>
   <summary>Answer</summary>
-  1024
+  Exclamation Mark
 </details>
 
 
