@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I knew i shouldn’t have ate that seafood. Because now i’m feeling a little… Eel
+Wife told me to take the spider out instead of killing it... We had some drinks, cool guy, wants to be a web developer.
 
 
 ## Daily Trivia
 
-What does the term GPU stand for?
- 1. Graphite Producing Unit
- 2. Gaming Processor Unit
- 3. Graphics Processing Unit
- 4. Graphical Proprietary Unit
+.at is the top-level domain for what country?
+ 1. Angola
+ 2. Australia
+ 3. Austria
+ 4. Argentina
 
 <details>
   <summary>Answer</summary>
-  Graphics Processing Unit
+  Austria
 </details>
 
 
