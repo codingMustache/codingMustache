@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What cheese can never be yours? Nacho cheese.
+My son is studying to be a surgeon, I just hope he makes the cut.
 
 
 ## Daily Trivia
 
-The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
- 1. HD Graphics 700 
- 2. HD Graphics 600
- 3. HD Graphics 7000
- 4. HD Graphics 500
+Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
+ 1. Cheetah
+ 2. Puma
+ 3. Leopard
+ 4. Tiger
 
 <details>
   <summary>Answer</summary>
-  HD Graphics 500
+  Cheetah
 </details>
 
 
