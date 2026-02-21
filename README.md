@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I burned 2000 calories today, I left my food in the oven for too long.
+Where do rabbits go after they get married? On a bunny-moon.
 
 
 ## Daily Trivia
 
-What programming language was GitHub written in?
- 1. Lua
- 2. Ruby
- 3. Python
- 4. JavaScript
+What port does HTTP run on?
+ 1. 80
+ 2. 53
+ 3. 443
+ 4. 23
 
 <details>
   <summary>Answer</summary>
-  Ruby
+  80
 </details>
 
 
