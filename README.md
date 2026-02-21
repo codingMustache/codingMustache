@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Don't tell secrets in corn fields. Too many ears around.
+What cheese can never be yours? Nacho cheese.
 
 
 ## Daily Trivia
 
-What is the code name for the mobile operating system Android 7.0?
- 1. Nougat
- 2. Marshmallow
- 3. Jelly Bean
- 4. Ice Cream Sandwich
+The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
+ 1. HD Graphics 700 
+ 2. HD Graphics 600
+ 3. HD Graphics 7000
+ 4. HD Graphics 500
 
 <details>
   <summary>Answer</summary>
-  Nougat
+  HD Graphics 500
 </details>
 
 
