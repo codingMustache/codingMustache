@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I broke my finger at work today, on the other hand I'm completely fine.
+Sgt.: Commissar! Commissar! The troops are revolting! Commissar: Well, you’re pretty repulsive yourself.
 
 
 ## Daily Trivia
 
-Which of the following is the oldest of these computers by release date?
- 1. ZX Spectrum
- 2. Commodore 64
- 3. TRS-80
- 4. Apple 3
+What was the name of the security vulnerability found in Bash in 2014?
+ 1. Stagefright
+ 2. Heartbleed
+ 3. Bashbug
+ 4. Shellshock
 
 <details>
   <summary>Answer</summary>
-  TRS-80
+  Shellshock
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **2 days** since this server shutdown
+Its been **3 days** since this server shutdown
