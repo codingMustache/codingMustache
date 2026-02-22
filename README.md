@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the Buffalo say to his little boy when he dropped him off at school? Bison.
+Did you hear about the new restaurant on the moon? The food is great, but there’s just no atmosphere.
 
 
 ## Daily Trivia
 
-What does GHz stand for?
- 1. Gigahertz
- 2. Gigahotz
- 3. Gigahetz
- 4. Gigahatz
+Who invented the &quot;Spanning Tree Protocol&quot;?
+ 1. Michael Roberts
+ 2. Radia Perlman
+ 3. Vint Cerf
+ 4. Paul Vixie
 
 <details>
   <summary>Answer</summary>
-  Gigahertz
+  Radia Perlman
 </details>
 
 
