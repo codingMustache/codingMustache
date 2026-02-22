@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did Romans use to cut pizza before the rolling cutter was invented? Lil Caesars
+What do you call a crowd of chess players bragging about their wins in a hotel lobby? Chess nuts boasting in an open foyer.
 
 
 ## Daily Trivia
 
-Which SQL keyword is used to fetch data from a database?
- 1. INDEX
- 2. VALUES
- 3. EXEC
- 4. SELECT
+Which of these is not a layer in the OSI model for data communications?
+ 1. Connection Layer
+ 2. Application Layer
+ 3. Physical Layer
+ 4. Transport Layer
 
 <details>
   <summary>Answer</summary>
-  SELECT
+  Connection Layer
 </details>
 
 
