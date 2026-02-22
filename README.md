@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did Romans use to cut pizza before the rolling cutter was invented? Lil Caesars
+What do you call an eagle who can play the piano? Talonted!
 
 
 ## Daily Trivia
 
-What does &quot;LCD&quot; stand for?
- 1. Liquid Crystal Display
- 2. Last Common Difference
- 3. Language Control Design
- 4. Long Continuous Design
+Which of the following languages is used as a scripting language in the Unity 3D game engine?
+ 1. Objective-C
+ 2. C#
+ 3. C++
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  Liquid Crystal Display
+  C#
 </details>
 
 
