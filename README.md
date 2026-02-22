@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What does a pirate pay for his corn? A buccaneer!
+How does a scientist freshen their breath? With experi-mints!
 
 
 ## Daily Trivia
 
-What was the name given to Android 4.3?
- 1. Froyo
- 2. Nutella
- 3. Jelly Bean
- 4. Lollipop
+Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
+ 1. Year
+ 2. Four Years
+ 3. Two Years
+ 4. Eight Years
 
 <details>
   <summary>Answer</summary>
-  Jelly Bean
+  Year
 </details>
 
 
