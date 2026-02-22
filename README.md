@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was Pavlov's beard so soft?  Because he conditioned it.
+How do the trees get on the internet? They log on.
 
 
 ## Daily Trivia
 
-Which operating system was released first?
- 1. OS/2
- 2. Mac OS
- 3. Linux
- 4. Windows
+The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
+ 1. Sinclair Research
+ 2. Amstrad PLC
+ 3. Commodore Business Machines
+ 4. Acorn Computers
 
 <details>
   <summary>Answer</summary>
-  Mac OS
+  Acorn Computers
 </details>
 
 
