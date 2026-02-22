@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a group of disorganized cats? A cat-tastrophe.
+Is there a hole in your shoe? No… Then how’d you get your foot in it?
 
 
 ## Daily Trivia
 
-How long is an IPv6 address?
- 1. 32 bits
- 2. 64 bits
- 3. 128 bits
- 4. 128 bytes
+Which kind of algorithm is Ron Rivest not famous for creating?
+ 1. Asymmetric encryption
+ 2. Hashing algorithm
+ 3. Secret sharing scheme
+ 4. Stream cipher
 
 <details>
   <summary>Answer</summary>
-  128 bits
+  Secret sharing scheme
 </details>
 
 
