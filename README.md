@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It was so cold yesterday my computer froze. My own fault though, I left too many windows open.
+I invented a new word! Plagiarism!
 
 
 ## Daily Trivia
 
-Which of these programming languages is a low-level language?
- 1. Python
- 2. C#
- 3. Pascal
- 4. Assembly
+What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
+ 1. FM Synthesizer
+ 2. Programmable Sound Generator (PSG)
+ 3. PCM Sampler
+ 4. ADPCM Sampler
 
 <details>
   <summary>Answer</summary>
-  Assembly
+  ADPCM Sampler
 </details>
 
 
