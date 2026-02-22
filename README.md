@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I went on a date last night with a girl from the zoo. It was great. She’s a keeper.
+What do you call a bear with no teeth? A gummy bear!
 
 
 ## Daily Trivia
 
-Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
- 1. Four Years
- 2. Two Years
- 3. Year
- 4. Eight Years
+What is the name of the default theme that is installed with Windows XP?
+ 1. Luna
+ 2. Bliss
+ 3. Whistler
+ 4. Neptune
 
 <details>
   <summary>Answer</summary>
-  Year
+  Luna
 </details>
 
 
