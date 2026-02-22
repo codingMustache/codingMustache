@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where did Captain Hook get his hook? From a second hand store.
+What do you call a group of disorganized cats? A cat-tastrophe.
 
 
 ## Daily Trivia
 
-In any programming language, what is the most common way to iterate through an array?
- 1. &#039;If&#039; Statements
- 2. &#039;Do-while&#039; loops
- 3. &#039;While&#039; loops
- 4. &#039;For&#039; loops
+How long is an IPv6 address?
+ 1. 32 bits
+ 2. 64 bits
+ 3. 128 bits
+ 4. 128 bytes
 
 <details>
   <summary>Answer</summary>
-  &#039;For&#039; loops
+  128 bits
 </details>
 
 
