@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What’s the advantage of living in Switzerland? Well, the flag is a big plus.
+What does a pirate pay for his corn? A buccaneer!
 
 
 ## Daily Trivia
 
-.rs is the top-level domain for what country?
- 1. Rwanda
- 2. Serbia
- 3. Russia
- 4. Romania
+What was the name given to Android 4.3?
+ 1. Froyo
+ 2. Nutella
+ 3. Jelly Bean
+ 4. Lollipop
 
 <details>
   <summary>Answer</summary>
-  Serbia
+  Jelly Bean
 </details>
 
 
