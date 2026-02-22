@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I don't trust stairs. They're always up to something.
+I went on a date last night with a girl from the zoo. It was great. She’s a keeper.
 
 
 ## Daily Trivia
 
-When did the online streaming service &quot;Mixer&quot; launch?
- 1. 2009
- 2. 2013
- 3. 2016
- 4. 2011
+Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
+ 1. Four Years
+ 2. Two Years
+ 3. Year
+ 4. Eight Years
 
 <details>
   <summary>Answer</summary>
-  2016
+  Year
 </details>
 
 
