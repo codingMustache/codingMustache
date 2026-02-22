@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I was at the library and asked if they have any books on "paranoia", the librarian replied, "yes, they are right behind you"
+Have you ever heard of a music group called Cellophane? They mostly wrap.
 
 
 ## Daily Trivia
 
-Which of these names was an actual codename for a cancelled Microsoft project?
- 1. Enceladus
- 2. Neptune
- 3. Pollux
- 4. Saturn
+Unix Time is defined as the number of seconds that have elapsed since when?
+ 1. Midnight, January 1, 1970
+ 2. Midnight, July 4, 1980
+ 3. Midnight on the creator of Unix&#039;s birthday
+ 4. Midnight, July 4, 1976
 
 <details>
   <summary>Answer</summary>
-  Neptune
+  Midnight, January 1, 1970
 </details>
 
 
