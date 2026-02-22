@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do birds give out on Halloween? Tweets.
+What did the 0 say to the 8? Nice belt.
 
 
 ## Daily Trivia
 
-What does LTS stand for in the software market?
- 1. Long Term Support
- 2. Long Taco Service
- 3. Ludicrous Transfer Speed
- 4. Ludicrous Turbo Speed
+According to the International System of Units, how many bytes are in a kilobyte of RAM?
+ 1. 512
+ 2. 1024
+ 3. 500
+ 4. 1000
 
 <details>
   <summary>Answer</summary>
-  Long Term Support
+  1000
 </details>
 
 
