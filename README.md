@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Have you ever heard of a music group called Cellophane? They mostly wrap.
+Why was Santa's little helper feeling depressed? Because he has low elf esteem.
+
 
 
 ## Daily Trivia
 
-What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
- 1. Transport
- 2. Network
- 3. Data link
- 4. Session
+.at is the top-level domain for what country?
+ 1. Angola
+ 2. Australia
+ 3. Austria
+ 4. Argentina
 
 <details>
   <summary>Answer</summary>
-  Transport
+  Austria
 </details>
 
 
