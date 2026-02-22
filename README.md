@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did Sweden start painting barcodes on the sides of their battleships? So they could Scandinavian.
+Why do choirs keep buckets handy? So they can carry their tune
 
 
 ## Daily Trivia
 
-Which operating system was released first?
- 1. Windows
- 2. OS/2
- 3. Linux
- 4. Mac OS
+Approximately how many Apple I personal computers were created?
+ 1. 100
+ 2. 500
+ 3. 200
+ 4. 1000
 
 <details>
   <summary>Answer</summary>
-  Mac OS
+  200
 </details>
 
 
