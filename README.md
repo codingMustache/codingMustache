@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How does a dyslexic poet write? Inverse.
+I was at the library and asked if they have any books on "paranoia", the librarian replied, "yes, they are right behind you"
 
 
 ## Daily Trivia
 
-What does the acronym CDN stand for in terms of networking?
- 1. Content Distribution Network
- 2. Computational Data Network
- 3. Compressed Data Network
- 4. Content Delivery Network
+Which of these names was an actual codename for a cancelled Microsoft project?
+ 1. Enceladus
+ 2. Neptune
+ 3. Pollux
+ 4. Saturn
 
 <details>
   <summary>Answer</summary>
-  Content Delivery Network
+  Neptune
 </details>
 
 
