@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Americans can't switch from pounds to kilograms overnight. That would cause mass confusion.
+Why do crabs never give to charity? Because they’re shellfish.
 
 
 ## Daily Trivia
 
-In computing, what does LAN stand for?
- 1. Long Antenna Node
- 2. Light Access Node
- 3. Local Area Network
- 4. Land Address Navigation
+Which SQL keyword is used to fetch data from a database?
+ 1. EXEC
+ 2. VALUES
+ 3. INDEX
+ 4. SELECT
 
 <details>
   <summary>Answer</summary>
-  Local Area Network
+  SELECT
 </details>
 
 
