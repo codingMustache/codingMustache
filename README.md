@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I invented a new word! Plagiarism!
+What's the worst thing about ancient history class? The teachers tend to Babylon.
 
 
 ## Daily Trivia
 
-What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
- 1. FM Synthesizer
- 2. Programmable Sound Generator (PSG)
- 3. PCM Sampler
- 4. ADPCM Sampler
+How many bytes are in a single Kibibyte?
+ 1. 1240
+ 2. 1024
+ 3. 1000
+ 4. 2400
 
 <details>
   <summary>Answer</summary>
-  ADPCM Sampler
+  1024
 </details>
 
 
