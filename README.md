@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the two thieves who stole a calendar? They each got six months.
+Sometimes I tuck my knees into my chest and lean forward.  That’s just how I roll.
 
 
 ## Daily Trivia
 
-Which kind of algorithm is Ron Rivest not famous for creating?
- 1. Stream cipher
- 2. Hashing algorithm
- 3. Secret sharing scheme
- 4. Asymmetric encryption
+Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
+ 1. Shellshock
+ 2. Heartbleed
+ 3. Shellscript
+ 4. Corrupted Blood
 
 <details>
   <summary>Answer</summary>
-  Secret sharing scheme
+  Heartbleed
 </details>
 
 
