@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Is there a hole in your shoe? No… Then how’d you get your foot in it?
+The first time I got a universal remote control I thought to myself, "This changes everything"
 
 
 ## Daily Trivia
 
-Which kind of algorithm is Ron Rivest not famous for creating?
- 1. Asymmetric encryption
- 2. Hashing algorithm
- 3. Secret sharing scheme
- 4. Stream cipher
+How many Hz does the video standard PAL support?
+ 1. 50
+ 2. 60
+ 3. 59
+ 4. 25
 
 <details>
   <summary>Answer</summary>
-  Secret sharing scheme
+  50
 </details>
 
 
