@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the new restaurant on the moon? The food is great, but there’s just no atmosphere.
+I broke my finger at work today, on the other hand I'm completely fine.
 
 
 ## Daily Trivia
 
-Who invented the &quot;Spanning Tree Protocol&quot;?
- 1. Michael Roberts
- 2. Radia Perlman
- 3. Vint Cerf
- 4. Paul Vixie
+Which of the following is the oldest of these computers by release date?
+ 1. ZX Spectrum
+ 2. Commodore 64
+ 3. TRS-80
+ 4. Apple 3
 
 <details>
   <summary>Answer</summary>
-  Radia Perlman
+  TRS-80
 </details>
 
 
