@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How does a scientist freshen their breath? With experi-mints!
+What did Romans use to cut pizza before the rolling cutter was invented? Lil Caesars
 
 
 ## Daily Trivia
 
-Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
- 1. Year
- 2. Four Years
- 3. Two Years
- 4. Eight Years
+Which SQL keyword is used to fetch data from a database?
+ 1. INDEX
+ 2. VALUES
+ 3. EXEC
+ 4. SELECT
 
 <details>
   <summary>Answer</summary>
-  Year
+  SELECT
 </details>
 
 
