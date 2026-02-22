@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do the trees get on the internet? They log on.
+A Skeleton walked into a bar he said I need a beer and a mop
 
 
 ## Daily Trivia
 
-Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
- 1. Cherry MX Black
- 2. Cherry MX Brown
- 3. Cherry MX Red
- 4. Cherry MX Blue
+Which of the following languages is used as a scripting language in the Unity 3D game engine?
+ 1. Objective-C
+ 2. C#
+ 3. C++
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  Cherry MX Blue
+  C#
 </details>
 
 
