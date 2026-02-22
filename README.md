@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why does Superman get invited to dinners? Because he is a Supperhero.
+Where did Captain Hook get his hook? From a second hand store.
 
 
 ## Daily Trivia
 
-In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
- 1. Red
- 2. Blue
- 3. Yellow
- 4. Green
+In any programming language, what is the most common way to iterate through an array?
+ 1. &#039;If&#039; Statements
+ 2. &#039;Do-while&#039; loops
+ 3. &#039;While&#039; loops
+ 4. &#039;For&#039; loops
 
 <details>
   <summary>Answer</summary>
-  Green
+  &#039;For&#039; loops
 </details>
 
 
