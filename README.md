@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you teach a kid to climb stairs? There is a step by step guide.
+Why does Superman get invited to dinners? Because he is a Supperhero.
 
 
 ## Daily Trivia
 
-How long is an IPv6 address?
- 1. 128 bits
- 2. 64 bits
- 3. 32 bits
- 4. 128 bytes
+In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
+ 1. Red
+ 2. Blue
+ 3. Yellow
+ 4. Green
 
 <details>
   <summary>Answer</summary>
-  128 bits
+  Green
 </details>
 
 
