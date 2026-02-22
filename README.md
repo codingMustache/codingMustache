@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-which flower is most fierce? Dandelion
+What did Romans use to cut pizza before the rolling cutter was invented? Lil Caesars
 
 
 ## Daily Trivia
 
-Which of these is not a layer in the OSI model for data communications?
- 1. Physical Layer
- 2. Transport Layer
- 3. Connection Layer
- 4. Application Layer
+What does &quot;LCD&quot; stand for?
+ 1. Liquid Crystal Display
+ 2. Last Common Difference
+ 3. Language Control Design
+ 4. Long Continuous Design
 
 <details>
   <summary>Answer</summary>
-  Connection Layer
+  Liquid Crystal Display
 </details>
 
 
