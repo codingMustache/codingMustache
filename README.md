@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What are the strongest days of the week? Saturday and Sunday...the rest are weekdays.
+You can't run through a camp site. You can only ran, because it's past tents.
 
 
 ## Daily Trivia
 
-Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
- 1. Commodore
- 2. Microsoft
- 3. Apple
- 4. Atari
+What is the name of Layer 7 of the OSI model?
+ 1. Network
+ 2. Application
+ 3. Present
+ 4. Session
 
 <details>
   <summary>Answer</summary>
-  Apple
+  Application
 </details>
 
 
