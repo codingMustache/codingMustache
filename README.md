@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do the trees get on the internet? They log on.
+Why did Sweden start painting barcodes on the sides of their battleships? So they could Scandinavian.
 
 
 ## Daily Trivia
 
-The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
- 1. Sinclair Research
- 2. Amstrad PLC
- 3. Commodore Business Machines
- 4. Acorn Computers
+Which operating system was released first?
+ 1. Windows
+ 2. OS/2
+ 3. Linux
+ 4. Mac OS
 
 <details>
   <summary>Answer</summary>
-  Acorn Computers
+  Mac OS
 </details>
 
 
