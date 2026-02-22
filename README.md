@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do crabs never give to charity? Because they’re shellfish.
+How do the trees get on the internet? They log on.
 
 
 ## Daily Trivia
 
-Which SQL keyword is used to fetch data from a database?
- 1. EXEC
- 2. VALUES
- 3. INDEX
- 4. SELECT
+Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
+ 1. Cherry MX Black
+ 2. Cherry MX Brown
+ 3. Cherry MX Red
+ 4. Cherry MX Blue
 
 <details>
   <summary>Answer</summary>
-  SELECT
+  Cherry MX Blue
 </details>
 
 
