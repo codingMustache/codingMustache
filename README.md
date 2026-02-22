@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Sometimes I tuck my knees into my chest and lean forward.  That’s just how I roll.
+So, I heard this pun about cows, but it’s kinda offensive so I won’t say it. I don’t want there to be any beef between us. 
 
 
 ## Daily Trivia
 
-Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
- 1. Shellshock
- 2. Heartbleed
- 3. Shellscript
- 4. Corrupted Blood
+How many cores does the Intel i7-6950X have?
+ 1. 10
+ 2. 4
+ 3. 8
+ 4. 12
 
 <details>
   <summary>Answer</summary>
-  Heartbleed
+  10
 </details>
 
 
