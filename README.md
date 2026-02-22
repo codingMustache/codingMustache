@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I cut my finger cutting cheese. I know it may be a cheesy story but I feel grate now.
+What do birds give out on Halloween? Tweets.
 
 
 ## Daily Trivia
 
-What is the name of the default theme that is installed with Windows XP?
- 1. Neptune
- 2. Whistler
- 3. Luna
- 4. Bliss
+What does LTS stand for in the software market?
+ 1. Long Term Support
+ 2. Long Taco Service
+ 3. Ludicrous Transfer Speed
+ 4. Ludicrous Turbo Speed
 
 <details>
   <summary>Answer</summary>
-  Luna
+  Long Term Support
 </details>
 
 
