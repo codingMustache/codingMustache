@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the digital clock say to the grandfather clock? Look, no hands!
+Why was Pavlov's beard so soft?  Because he conditioned it.
 
 
 ## Daily Trivia
 
-What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
- 1. CPU Vent
- 2. Temperature Decipator
- 3. Heat Vent
- 4. Heat Sink
+Which operating system was released first?
+ 1. OS/2
+ 2. Mac OS
+ 3. Linux
+ 4. Windows
 
 <details>
   <summary>Answer</summary>
-  Heat Sink
+  Mac OS
 </details>
 
 
