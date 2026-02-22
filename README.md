@@ -4,16 +4,16 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a bear with no teeth? A gummy bear!
+I cut my finger cutting cheese. I know it may be a cheesy story but I feel grate now.
 
 
 ## Daily Trivia
 
 What is the name of the default theme that is installed with Windows XP?
- 1. Luna
- 2. Bliss
- 3. Whistler
- 4. Neptune
+ 1. Neptune
+ 2. Whistler
+ 3. Luna
+ 4. Bliss
 
 <details>
   <summary>Answer</summary>
