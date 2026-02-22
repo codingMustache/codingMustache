@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-You can't run through a camp site. You can only ran, because it's past tents.
+What’s the advantage of living in Switzerland? Well, the flag is a big plus.
 
 
 ## Daily Trivia
 
-What is the name of Layer 7 of the OSI model?
- 1. Network
- 2. Application
- 3. Present
- 4. Session
+.rs is the top-level domain for what country?
+ 1. Rwanda
+ 2. Serbia
+ 3. Russia
+ 4. Romania
 
 <details>
   <summary>Answer</summary>
-  Application
+  Serbia
 </details>
 
 
