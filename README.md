@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was Santa's little helper feeling depressed? Because he has low elf esteem.
-
+which flower is most fierce? Dandelion
 
 
 ## Daily Trivia
 
-.at is the top-level domain for what country?
- 1. Angola
- 2. Australia
- 3. Austria
- 4. Argentina
+Which of these is not a layer in the OSI model for data communications?
+ 1. Physical Layer
+ 2. Transport Layer
+ 3. Connection Layer
+ 4. Application Layer
 
 <details>
   <summary>Answer</summary>
-  Austria
+  Connection Layer
 </details>
 
 
