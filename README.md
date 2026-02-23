@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of music do planets listen to? Nep-tunes.
+What did the fish say when it swam into a wall? Damn!
 
 
 ## Daily Trivia
 
-Whistler was the codename of this Microsoft Operating System.
- 1. Windows 2000
- 2. Windows 7
- 3. Windows XP
- 4. Windows 95
+What does the International System of Quantities refer 1024 bytes as?
+ 1. Kibibyte
+ 2. Kelobyte
+ 3. Kylobyte
+ 4. Kilobyte
 
 <details>
   <summary>Answer</summary>
-  Windows XP
+  Kibibyte
 </details>
 
 
