@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the knife dress up in a suit? Because it wanted to look sharp
+What did one plate say to the other plate? Dinner is on me!
 
 
 ## Daily Trivia
 
-Lenovo acquired IBM&#039;s personal computer division, including the ThinkPad line of laptops and tablets, in what year?
- 1. 2005
- 2. 2002
- 3. 2008
- 4. 1999
+In the server hosting industry IaaS stands for...
+ 1. Internet as a Service
+ 2. Internet and a Server
+ 3. Infrastructure as a Service
+ 4. Infrastructure as a Server
 
 <details>
   <summary>Answer</summary>
-  2005
+  Infrastructure as a Service
 </details>
 
 
