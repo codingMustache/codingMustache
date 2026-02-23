@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-R.I.P. boiled water. You will be mist.
+I’ve got this disease where I can’t stop making airport puns. The doctor says it terminal.
 
 
 ## Daily Trivia
 
-What does the International System of Quantities refer 1024 bytes as?
- 1. Kelobyte
- 2. Kylobyte
- 3. Kibibyte
- 4. Kilobyte
+The acronym &quot;RIP&quot; stands for which of these?
+ 1. Routine Inspection Protocol
+ 2. Runtime Instance Processes
+ 3. Regular Interval Processes
+ 4. Routing Information Protocol
 
 <details>
   <summary>Answer</summary>
-  Kibibyte
+  Routing Information Protocol
 </details>
 
 
