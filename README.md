@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Wife told me to take the spider out instead of killing it... We had some drinks, cool guy, wants to be a web developer.
+What do you call cheese by itself? Provolone.
 
 
 ## Daily Trivia
 
-How many values can a single byte represent?
- 1. 256
- 2. 1024
- 3. 1
- 4. 8
+What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
+ 1. Heat Sink
+ 2. Heat Vent
+ 3. Temperature Decipator
+ 4. CPU Vent
 
 <details>
   <summary>Answer</summary>
-  256
+  Heat Sink
 </details>
 
 
