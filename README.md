@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I've got a joke about vegetables for you... but it's a bit corny.
+What is this movie about? It is about 2 hours long.
 
 
 ## Daily Trivia
 
-.at is the top-level domain for what country?
- 1. Angola
- 2. Australia
- 3. Argentina
- 4. Austria
+What language does Node.js use?
+ 1. JavaScript
+ 2. Java
+ 3. Java Source
+ 4. Joomla Source Code
 
 <details>
   <summary>Answer</summary>
-  Austria
+  JavaScript
 </details>
 
 
