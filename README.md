@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's a ninja's favorite type of shoes? Sneakers!
+Where does Napoleon keep his armies? In his sleevies.
 
 
 ## Daily Trivia
 
-Which of the following languages is used as a scripting language in the Unity 3D game engine?
- 1. C#
- 2. Java
- 3. C++
- 4. Objective-C
+Which of these is not a layer in the OSI model for data communications?
+ 1. Application Layer
+ 2. Physical Layer
+ 3. Connection Layer
+ 4. Transport Layer
 
 <details>
   <summary>Answer</summary>
-  C#
+  Connection Layer
 </details>
 
 
