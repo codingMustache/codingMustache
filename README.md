@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the cheese who saved the world? It was Legend-dairy!
+Have you ever heard of a music group called Cellophane? They mostly wrap.
 
 
 ## Daily Trivia
 
-What is the name of Layer 7 of the OSI model?
- 1. Session
+What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
+ 1. Transport
  2. Network
- 3. Present
- 4. Application
+ 3. Data link
+ 4. Session
 
 <details>
   <summary>Answer</summary>
-  Application
+  Transport
 </details>
 
 
