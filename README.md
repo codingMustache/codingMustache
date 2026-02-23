@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My new thesaurus is terrible. In fact, it's so bad, I'd say it's terrible.
+My son is studying to be a surgeon, I just hope he makes the cut.
 
 
 ## Daily Trivia
 
-What was Bitcoin&#039;s block size limit in 2010?
- 1. 1GB
- 2. 1 TB
- 3. 1 MB
- 4. 1 KB
+The Harvard architecture for micro-controllers added which additional bus?
+ 1. Instruction
+ 2. Data
+ 3. Control
+ 4. Address
 
 <details>
   <summary>Answer</summary>
-  1 MB
+  Instruction
 </details>
 
 
