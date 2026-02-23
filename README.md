@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I’ve deleted the phone numbers of all the Germans I know from my mobile phone. Now it’s Hans free.
+My new thesaurus is terrible. In fact, it's so bad, I'd say it's terrible.
 
 
 ## Daily Trivia
 
-On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
- 1. Exclamation Mark
- 2. Dollar Sign
- 3. Percent Sign
- 4. Asterisk
+What was Bitcoin&#039;s block size limit in 2010?
+ 1. 1GB
+ 2. 1 TB
+ 3. 1 MB
+ 4. 1 KB
 
 <details>
   <summary>Answer</summary>
-  Exclamation Mark
+  1 MB
 </details>
 
 
