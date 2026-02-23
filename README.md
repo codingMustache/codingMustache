@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It’s hard to explain puns to kleptomaniacs, because they take everything literally.
+I’ve deleted the phone numbers of all the Germans I know from my mobile phone. Now it’s Hans free.
 
 
 ## Daily Trivia
 
-Which one of these is not an official development name for a Ubuntu release?
- 1. Trusty Tahr
- 2. Utopic Unicorn
- 3. Wily Werewolf
- 4. Mystic Mansion
+On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
+ 1. Exclamation Mark
+ 2. Dollar Sign
+ 3. Percent Sign
+ 4. Asterisk
 
 <details>
   <summary>Answer</summary>
-  Mystic Mansion
+  Exclamation Mark
 </details>
 
 
