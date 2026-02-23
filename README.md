@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the traffic light say to the car as it passed? "Don't look I'm changing!"
+Just watched a documentary about beavers… It was the best damn program I’ve ever seen.
 
 
 ## Daily Trivia
 
-What internet protocol was documented in RFC 1459?
- 1. HTTP
- 2. HTTPS
- 3. FTP
- 4. IRC
+In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
+ 1. Red
+ 2. Green
+ 3. Blue
+ 4. Yellow
 
 <details>
   <summary>Answer</summary>
-  IRC
+  Green
 </details>
 
 
