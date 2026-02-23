@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where does Napoleon keep his armies? In his sleevies.
+R.I.P. boiled water. You will be mist.
 
 
 ## Daily Trivia
 
-Which of these is not a layer in the OSI model for data communications?
- 1. Application Layer
- 2. Physical Layer
- 3. Connection Layer
- 4. Transport Layer
+What does the International System of Quantities refer 1024 bytes as?
+ 1. Kelobyte
+ 2. Kylobyte
+ 3. Kibibyte
+ 4. Kilobyte
 
 <details>
   <summary>Answer</summary>
-  Connection Layer
+  Kibibyte
 </details>
 
 
