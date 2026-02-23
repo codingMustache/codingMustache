@@ -4,20 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What does a female snake use for support? A co-Bra!
+Where was the Declaration of Independence signed?
+
+At the bottom! 
 
 
 ## Daily Trivia
 
-What five letter word is the motto of the IBM Computer company?
- 1. Think
- 2. Click
- 3. Logic
- 4. Pixel
+According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:
+ 1. A&#039; + B&#039;
+ 2. AB&#039; + AB
+ 3. A&#039;B&#039;
+ 4. A&#039;B + B&#039;A
 
 <details>
   <summary>Answer</summary>
-  Think
+  A&#039; + B&#039;
 </details>
 
 
