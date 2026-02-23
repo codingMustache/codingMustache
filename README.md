@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A dad washes his car with his son. But after a while, the son says, "why can't you just use a sponge?"
+What do you call a pig with three eyes? Piiig
 
 
 ## Daily Trivia
 
-Nvidia&#039;s headquarters are based in which Silicon Valley city?
- 1. Santa Clara
- 2. Palo Alto
- 3. Mountain View
- 4. Cupertino
+What is the number of keys on a standard Windows Keyboard?
+ 1. 76
+ 2. 94
+ 3. 64
+ 4. 104
 
 <details>
   <summary>Answer</summary>
-  Santa Clara
+  104
 </details>
 
 
