@@ -4,24 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Me: If humans lose the ability to hear high frequency volumes as they get older, can my 4 week old son hear a dog whistle?
-
-Doctor: No, humans can never hear that high of a frequency no matter what age they are.
-
-Me: Trick question... dogs can't whistle.
+As I get older, I think of all the people I lost along the way. Maybe a career as a tour guide wasn't such a good idea.
 
 
 ## Daily Trivia
 
-Which one of these is not an official development name for a Ubuntu release?
- 1. Mystic Mansion
- 2. Wily Werewolf
- 3. Utopic Unicorn
- 4. Trusty Tahr
+How many bits make up the significand portion of a single precision floating point number?
+ 1. 15
+ 2. 53
+ 3. 23
+ 4. 8
 
 <details>
   <summary>Answer</summary>
-  Mystic Mansion
+  23
 </details>
 
 
