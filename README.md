@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Have you heard of the band 1023MB? They haven't got a gig yet.
+Today a man knocked on my door and asked for a small donation towards the local swimming pool. I gave him a glass of water.
 
 
 ## Daily Trivia
 
-What was the first commerically available computer processor?
- 1. TMS 1000
- 2. AMD AM386
- 3. Intel 4004
- 4. Intel 486SX
+In computing terms, typically what does CLI stand for?
+ 1. Command Line Interface
+ 2. Common Language Interface
+ 3. Control Line Interface
+ 4. Common Language Input
 
 <details>
   <summary>Answer</summary>
-  Intel 4004
+  Command Line Interface
 </details>
 
 
