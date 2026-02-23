@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are giraffes so slow to apologize? Because it takes them a long time to swallow their pride.
+What do you call a pile of cats?  A Meowtain.
 
 
 ## Daily Trivia
 
-What does the International System of Quantities refer 1024 bytes as?
- 1. Kibibyte
- 2. Kelobyte
- 3. Kylobyte
- 4. Kilobyte
+Which RAID array type is associated with data mirroring?
+ 1. RAID 1
+ 2. RAID 0
+ 3. RAID 10
+ 4. RAID 5
 
 <details>
   <summary>Answer</summary>
-  Kibibyte
+  RAID 1
 </details>
 
 
