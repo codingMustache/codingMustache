@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-As I get older, I think of all the people I lost along the way. Maybe a career as a tour guide wasn't such a good idea.
+I accidentally drank a bottle of invisible ink. Now I’m in hospital, waiting to be seen.
 
 
 ## Daily Trivia
 
-The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
- 1. HD Graphics 500
- 2. HD Graphics 7000
- 3. HD Graphics 600
- 4. HD Graphics 700 
+Whistler was the codename of this Microsoft Operating System.
+ 1. Windows XP
+ 2. Windows 95
+ 3. Windows 7
+ 4. Windows 2000
 
 <details>
   <summary>Answer</summary>
-  HD Graphics 500
+  Windows XP
 </details>
 
 
