@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the melons plan a big wedding? Because they cantaloupe!
+Why can't eggs have love? They will break up too soon.
 
 
 ## Daily Trivia
 
-What major programming language does Unreal Engine 4 use?
- 1. C#
- 2. C++
- 3. ECMAScript
- 4. Assembly
+The teapot often seen in many 3D modeling applications is called what?
+ 1. Pixar Teapot
+ 2. 3D Teapot
+ 3. Utah Teapot
+ 4. Tennessee Teapot
 
 <details>
   <summary>Answer</summary>
-  C++
+  Utah Teapot
 </details>
 
 
