@@ -4,20 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What was a more important invention than the first telephone? The second one.
+Where was the Declaration of Independence signed?
+
+At the bottom! 
 
 
 ## Daily Trivia
 
-America Online (AOL) started out as which of these online service providers?
- 1. CompuServe
- 2. GEnie
- 3. Prodigy
- 4. Quantum Link
+What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
+ 1. Coffee Lake
+ 2. Broadwell
+ 3. Sandy Bridge
+ 4. Skylake
 
 <details>
   <summary>Answer</summary>
-  Quantum Link
+  Coffee Lake
 </details>
 
 
