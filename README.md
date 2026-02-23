@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do you take someone who has been injured in a Peek-a-boo accident? To the I.C.U.
+A dad washes his car with his son. But after a while, the son says, "why can't you just use a sponge?"
 
 
 ## Daily Trivia
 
-What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
- 1. Data link
- 2. Network
- 3. Session
- 4. Transport
+Nvidia&#039;s headquarters are based in which Silicon Valley city?
+ 1. Santa Clara
+ 2. Palo Alto
+ 3. Mountain View
+ 4. Cupertino
 
 <details>
   <summary>Answer</summary>
-  Transport
+  Santa Clara
 </details>
 
 
