@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I have kleptomania, but when it gets bad, I take something for it.
+What's a ninja's favorite type of shoes? Sneakers!
 
 
 ## Daily Trivia
 
-What is the name of Layer 7 of the OSI model?
- 1. Present
- 2. Session
- 3. Application
- 4. Network
+Which of the following languages is used as a scripting language in the Unity 3D game engine?
+ 1. C#
+ 2. Java
+ 3. C++
+ 4. Objective-C
 
 <details>
   <summary>Answer</summary>
-  Application
+  C#
 </details>
 
 
