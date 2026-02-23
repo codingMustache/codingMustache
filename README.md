@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why can't eggs have love? They will break up too soon.
+I've got a joke about vegetables for you... but it's a bit corny.
 
 
 ## Daily Trivia
 
-The teapot often seen in many 3D modeling applications is called what?
- 1. Pixar Teapot
- 2. 3D Teapot
- 3. Utah Teapot
- 4. Tennessee Teapot
+.at is the top-level domain for what country?
+ 1. Angola
+ 2. Australia
+ 3. Argentina
+ 4. Austria
 
 <details>
   <summary>Answer</summary>
-  Utah Teapot
+  Austria
 </details>
 
 
