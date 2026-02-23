@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Have you ever heard of a music group called Cellophane? They mostly wrap.
+What kind of music do planets listen to? Nep-tunes.
 
 
 ## Daily Trivia
 
-What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
- 1. Transport
- 2. Network
- 3. Data link
- 4. Session
+Whistler was the codename of this Microsoft Operating System.
+ 1. Windows 2000
+ 2. Windows 7
+ 3. Windows XP
+ 4. Windows 95
 
 <details>
   <summary>Answer</summary>
-  Transport
+  Windows XP
 </details>
 
 
