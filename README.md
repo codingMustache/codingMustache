@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is this movie about? It is about 2 hours long.
+Where do you take someone who has been injured in a Peek-a-boo accident? To the I.C.U.
 
 
 ## Daily Trivia
 
-What language does Node.js use?
- 1. JavaScript
- 2. Java
- 3. Java Source
- 4. Joomla Source Code
+What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
+ 1. Data link
+ 2. Network
+ 3. Session
+ 4. Transport
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  Transport
 </details>
 
 
