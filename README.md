@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Have you heard the story about the magic tractor? It drove down the road and turned into a field.
+What was a more important invention than the first telephone? The second one.
 
 
 ## Daily Trivia
 
-What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
- 1. CPU Vent
- 2. Temperature Decipator
- 3. Heat Vent
- 4. Heat Sink
+America Online (AOL) started out as which of these online service providers?
+ 1. CompuServe
+ 2. GEnie
+ 3. Prodigy
+ 4. Quantum Link
 
 <details>
   <summary>Answer</summary>
-  Heat Sink
+  Quantum Link
 </details>
 
 
