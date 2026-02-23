@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a crowd of chess players bragging about their wins in a hotel lobby? Chess nuts boasting in an open foyer.
+Why did the knife dress up in a suit? Because it wanted to look sharp
 
 
 ## Daily Trivia
 
-Which of these is not a layer in the OSI model for data communications?
- 1. Connection Layer
- 2. Application Layer
- 3. Physical Layer
- 4. Transport Layer
+Lenovo acquired IBM&#039;s personal computer division, including the ThinkPad line of laptops and tablets, in what year?
+ 1. 2005
+ 2. 2002
+ 3. 2008
+ 4. 1999
 
 <details>
   <summary>Answer</summary>
-  Connection Layer
+  2005
 </details>
 
 
