@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Just watched a documentary about beavers… It was the best damn program I’ve ever seen.
+Have you heard the story about the magic tractor? It drove down the road and turned into a field.
 
 
 ## Daily Trivia
 
-In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
- 1. Red
- 2. Green
- 3. Blue
- 4. Yellow
+What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
+ 1. CPU Vent
+ 2. Temperature Decipator
+ 3. Heat Vent
+ 4. Heat Sink
 
 <details>
   <summary>Answer</summary>
-  Green
+  Heat Sink
 </details>
 
 
