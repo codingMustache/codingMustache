@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear the one about the giant pickle?  He was kind of a big dill.
+I was shocked when I was diagnosed as colorblind... It came out of the purple.
 
 
 ## Daily Trivia
 
-When was the programming language &quot;C#&quot; released?
- 1. 1999
- 2. 2000
- 3. 2001
- 4. 1998
+The acronym &quot;RIP&quot; stands for which of these?
+ 1. Runtime Instance Processes
+ 2. Regular Interval Processes
+ 3. Routine Inspection Protocol
+ 4. Routing Information Protocol
 
 <details>
   <summary>Answer</summary>
-  2000
+  Routing Information Protocol
 </details>
 
 
