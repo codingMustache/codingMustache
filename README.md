@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the best thing about elevator jokes? They work on so many levels.
+What creature is smarter than a talking parrot? A spelling bee.
 
 
 ## Daily Trivia
 
-How many kilobytes in one gigabyte (in decimal)?
- 1. 1024
- 2. 1000
- 3. 1048576
- 4. 1000000
+How long is an IPv6 address?
+ 1. 128 bits
+ 2. 32 bits
+ 3. 128 bytes
+ 4. 64 bits
 
 <details>
   <summary>Answer</summary>
-  1000000
+  128 bits
 </details>
 
 
