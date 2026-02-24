@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-"Dad, I'm hungry." Hello, Hungry. I'm Dad.
+How are false teeth like stars? They come out at night!
 
 
 ## Daily Trivia
 
-Which of these is not a layer in the OSI model for data communications?
- 1. Application Layer
- 2. Transport Layer
- 3. Connection Layer
- 4. Physical Layer
+The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
+ 1. HD Graphics 7000
+ 2. HD Graphics 700 
+ 3. HD Graphics 500
+ 4. HD Graphics 600
 
 <details>
   <summary>Answer</summary>
-  Connection Layer
+  HD Graphics 500
 </details>
 
 
