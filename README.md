@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the Mexican train killer? He had loco motives
+I used to work for an origami company but they folded.
 
 
 ## Daily Trivia
 
-The name of technology company HP stands for what?
- 1. Howard Packmann
- 2. Husker-Pollosk
- 3. Hellman-Pohl
- 4. Hewlett-Packard
+Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
+ 1. 32.0 kHz
+ 2. 44.1 kHz
+ 3. 1.5 MHz
+ 4. 20.5 kHz
 
 <details>
   <summary>Answer</summary>
-  Hewlett-Packard
+  44.1 kHz
 </details>
 
 
