@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What’s Forest Gump’s Facebook password? 1forest1
+It's been months since I bought the book "how to scam people online". It still hasn't turned up.
 
 
 ## Daily Trivia
 
-When did the online streaming service &quot;Mixer&quot; launch?
- 1. 2016
- 2. 2011
- 3. 2009
- 4. 2013
+What was the name given to Android 4.3?
+ 1. Jelly Bean
+ 2. Froyo
+ 3. Nutella
+ 4. Lollipop
 
 <details>
   <summary>Answer</summary>
-  2016
+  Jelly Bean
 </details>
 
 
