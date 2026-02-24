@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A girl once asked me what my heart desired, apparently blood, oxygen and neural messages were all wrong answers
+Why is it so windy inside an arena? All those fans.
 
 
 ## Daily Trivia
 
-In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
- 1. Red
- 2. Green
- 3. Blue
- 4. Yellow
+What was the first Android version specifically optimized for tablets?
+ 1. Froyo
+ 2. Marshmellow
+ 3. Honeycomb
+ 4. Eclair
 
 <details>
   <summary>Answer</summary>
-  Green
+  Honeycomb
 </details>
 
 
