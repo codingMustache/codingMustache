@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What creature is smarter than a talking parrot? A spelling bee.
+Why did the feline fail the lie detector test? Because he be lion.
 
 
 ## Daily Trivia
 
-How long is an IPv6 address?
- 1. 128 bits
- 2. 32 bits
- 3. 128 bytes
- 4. 64 bits
+Which of these is not a layer in the OSI model for data communications?
+ 1. Application Layer
+ 2. Transport Layer
+ 3. Connection Layer
+ 4. Physical Layer
 
 <details>
   <summary>Answer</summary>
-  128 bits
+  Connection Layer
 </details>
 
 
