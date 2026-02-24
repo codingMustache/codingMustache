@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I went to a book store and asked the saleswoman where the Self Help section was, she said if she told me it would defeat the purpose.
+Where do fish keep their money? In the riverbank
 
 
 ## Daily Trivia
 
-On which day did the World Wide Web go online?
- 1. December 20, 1990
- 2. November 24, 1995
- 3. December 17, 1996
- 4. November 12, 1990
+.rs is the top-level domain for what country?
+ 1. Romania
+ 2. Russia
+ 3. Rwanda
+ 4. Serbia
 
 <details>
   <summary>Answer</summary>
-  December 20, 1990
+  Serbia
 </details>
 
 
