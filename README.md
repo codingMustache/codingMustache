@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the piece of bread say to the knife? Butter me up.
+I went to the zoo yesterday and saw a baguette in a cage. It was bread in captivity.
 
 
 ## Daily Trivia
 
-What does the term MIME stand for, in regards to computing?
- 1. Mail Internet Mail Exchange
- 2. Multipurpose Interleave Mail Exchange
- 3. Mail Interleave Method Exchange
- 4. Multipurpose Internet Mail Extensions
+Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
+ 1. 32.0 kHz
+ 2. 1.5 MHz
+ 3. 20.5 kHz
+ 4. 44.1 kHz
 
 <details>
   <summary>Answer</summary>
-  Multipurpose Internet Mail Extensions
+  44.1 kHz
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **4 days** since this server shutdown
+Its been **5 days** since this server shutdown
