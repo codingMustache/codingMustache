@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I asked the surgeon if I could administer my own anesthetic, they said: go ahead, knock yourself out.
+I always wanted to look into why I procrastinate, but I keep putting it off. 
 
 
 ## Daily Trivia
 
-On which day did the World Wide Web go online?
- 1. December 20, 1990
- 2. December 17, 1996
- 3. November 12, 1990
- 4. November 24, 1995
+The Windows OS was delevoped by which company?
+ 1. Nokia
+ 2. Apple
+ 3. IBM
+ 4. Microsoft
 
 <details>
   <summary>Answer</summary>
-  December 20, 1990
+  Microsoft
 </details>
 
 
