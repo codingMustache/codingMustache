@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-People who don't eat gluten are really going against the grain.
+What do you call cheese by itself? Provolone.
 
 
 ## Daily Trivia
 
-What did the name of the Tor Anonymity Network orignially stand for?
- 1. The Onion Router
- 2. The Only Router
- 3. The Orange Router
- 4. The Ominous Router
+The programming language &#039;Swift&#039; was created to replace what other programming language?
+ 1. C++
+ 2. Ruby
+ 3. Objective-C
+ 4. C#
 
 <details>
   <summary>Answer</summary>
-  The Onion Router
+  Objective-C
 </details>
 
 
