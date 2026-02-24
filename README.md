@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Can February march? No, but April may.
+What do I look like? A JOKE MACHINE!?
 
 
 ## Daily Trivia
 
-In web design, what does CSS stand for?
- 1. Cascading Style Sheet
- 2. Computer Style Sheet
- 3. Corrective Style Sheet
- 4. Counter Strike: Source
+What was the name of the image that features as the default background wallpaper for Windows XP?
+ 1. Azul
+ 2. Red moon desert
+ 3. Tulips
+ 4. Bliss
 
 <details>
   <summary>Answer</summary>
-  Cascading Style Sheet
+  Bliss
 </details>
 
 
