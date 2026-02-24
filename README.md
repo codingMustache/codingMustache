@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to work for an origami company but they folded.
+Why do nurses carry around red crayons? Sometimes they need to draw blood.
 
 
 ## Daily Trivia
 
-Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
- 1. 32.0 kHz
- 2. 44.1 kHz
- 3. 1.5 MHz
- 4. 20.5 kHz
+What five letter word is the motto of the IBM Computer company?
+ 1. Logic
+ 2. Think
+ 3. Click
+ 4. Pixel
 
 <details>
   <summary>Answer</summary>
-  44.1 kHz
+  Think
 </details>
 
 
