@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do fish keep their money? In the riverbank
+What did the piece of bread say to the knife? Butter me up.
 
 
 ## Daily Trivia
 
-.rs is the top-level domain for what country?
- 1. Romania
- 2. Russia
- 3. Rwanda
- 4. Serbia
+What does the term MIME stand for, in regards to computing?
+ 1. Mail Internet Mail Exchange
+ 2. Multipurpose Interleave Mail Exchange
+ 3. Mail Interleave Method Exchange
+ 4. Multipurpose Internet Mail Extensions
 
 <details>
   <summary>Answer</summary>
-  Serbia
+  Multipurpose Internet Mail Extensions
 </details>
 
 
