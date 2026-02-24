@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you get when you cross a rabbit with a water hose? Hare spray.
+Did you hear about the Mexican train killer? He had loco motives
 
 
 ## Daily Trivia
 
-Laserjet and inkjet printers are both examples of what type of printer?
- 1. Non-impact printer
- 2. Impact printer
- 3. Dot matrix printer
- 4. Daisywheel printer
+The name of technology company HP stands for what?
+ 1. Howard Packmann
+ 2. Husker-Pollosk
+ 3. Hellman-Pohl
+ 4. Hewlett-Packard
 
 <details>
   <summary>Answer</summary>
-  Non-impact printer
+  Hewlett-Packard
 </details>
 
 
