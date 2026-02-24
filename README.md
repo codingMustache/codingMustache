@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I made a belt out of watches once... It was a waist of time.
+What is a vampire's favorite fruit? A blood orange.
 
 
 ## Daily Trivia
 
-Who invented the &quot;Spanning Tree Protocol&quot;?
- 1. Paul Vixie
- 2. Vint Cerf
- 3. Michael Roberts
- 4. Radia Perlman
+How many values can a single byte represent?
+ 1. 256
+ 2. 1
+ 3. 1024
+ 4. 8
 
 <details>
   <summary>Answer</summary>
-  Radia Perlman
+  256
 </details>
 
 
