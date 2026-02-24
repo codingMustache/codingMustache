@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call cheese by itself? Provolone.
+I gave my friend 10 puns hoping that one of them would make him laugh. Sadly, no pun in ten did.
 
 
 ## Daily Trivia
 
-The programming language &#039;Swift&#039; was created to replace what other programming language?
- 1. C++
- 2. Ruby
- 3. Objective-C
- 4. C#
+Approximately how many Apple I personal computers were created?
+ 1. 200
+ 2. 1000
+ 3. 500
+ 4. 100
 
 <details>
   <summary>Answer</summary>
-  Objective-C
+  200
 </details>
 
 
