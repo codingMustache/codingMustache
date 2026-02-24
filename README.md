@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I can't take my dog to the pond anymore because the ducks keep attacking him. That's what I get for buying a pure bread dog.
+Just read a few facts about frogs. They were ribbiting.
 
 
 ## Daily Trivia
 
-What does the &#039;S&#039; in the RSA encryption algorithm stand for?
- 1. Secure
- 2. Stable
- 3. Shamir
- 4. Schottky
+Unix Time is defined as the number of seconds that have elapsed since when?
+ 1. Midnight, January 1, 1970
+ 2. Midnight, July 4, 1980
+ 3. Midnight on the creator of Unix&#039;s birthday
+ 4. Midnight, July 4, 1976
 
 <details>
   <summary>Answer</summary>
-  Shamir
+  Midnight, January 1, 1970
 </details>
 
 
