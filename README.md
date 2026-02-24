@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do I look like? A JOKE MACHINE!?
+What's the best thing about elevator jokes? They work on so many levels.
 
 
 ## Daily Trivia
 
-What was the name of the image that features as the default background wallpaper for Windows XP?
- 1. Azul
- 2. Red moon desert
- 3. Tulips
- 4. Bliss
+How many kilobytes in one gigabyte (in decimal)?
+ 1. 1024
+ 2. 1000
+ 3. 1048576
+ 4. 1000000
 
 <details>
   <summary>Answer</summary>
-  Bliss
+  1000000
 </details>
 
 
