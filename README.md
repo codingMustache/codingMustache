@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I always wanted to look into why I procrastinate, but I keep putting it off. 
+Can February march? No, but April may.
 
 
 ## Daily Trivia
 
-The Windows OS was delevoped by which company?
- 1. Nokia
- 2. Apple
- 3. IBM
- 4. Microsoft
+In web design, what does CSS stand for?
+ 1. Cascading Style Sheet
+ 2. Computer Style Sheet
+ 3. Corrective Style Sheet
+ 4. Counter Strike: Source
 
 <details>
   <summary>Answer</summary>
-  Microsoft
+  Cascading Style Sheet
 </details>
 
 
