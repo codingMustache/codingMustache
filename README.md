@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I just got fired from a florist, apparently I took too many leaves.
+Why do nurses carry around red crayons? Sometimes they need to draw blood.
 
 
 ## Daily Trivia
 
-What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
- 1. Data link
- 2. Session
- 3. Network
- 4. Transport
+What did the name of the Tor Anonymity Network orignially stand for?
+ 1. The Onion Router
+ 2. The Ominous Router
+ 3. The Orange Router
+ 4. The Only Router
 
 <details>
   <summary>Answer</summary>
-  Transport
+  The Onion Router
 </details>
 
 
