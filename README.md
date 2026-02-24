@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I asked the surgeon if I could administer my own anesthetic, they said: go ahead, knock yourself out.
+Did you hear the one about the giant pickle?  He was kind of a big dill.
 
 
 ## Daily Trivia
 
-What does CPU stand for?
- 1. Central Processing Unit
- 2. Central Processor Unit
- 3. Computer Personal Unit
- 4. Central Process Unit
+When was the programming language &quot;C#&quot; released?
+ 1. 1999
+ 2. 2000
+ 3. 2001
+ 4. 1998
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  2000
 </details>
 
 
