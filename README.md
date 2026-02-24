@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you get if you put a duck in a cement mixer? Quacks in the pavement.
+I made a belt out of watches once... It was a waist of time.
 
 
 ## Daily Trivia
 
-Laserjet and inkjet printers are both examples of what type of printer?
- 1. Non-impact printer
- 2. Impact printer
- 3. Dot matrix printer
- 4. Daisywheel printer
+Who invented the &quot;Spanning Tree Protocol&quot;?
+ 1. Paul Vixie
+ 2. Vint Cerf
+ 3. Michael Roberts
+ 4. Radia Perlman
 
 <details>
   <summary>Answer</summary>
-  Non-impact printer
+  Radia Perlman
 </details>
 
 
