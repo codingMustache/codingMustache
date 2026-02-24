@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The first time I got a universal remote control I thought to myself, "This changes everything"
+What do you get when you cross a rabbit with a water hose? Hare spray.
 
 
 ## Daily Trivia
 
-What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
- 1. Data link
- 2. Transport
- 3. Session
- 4. Network
+Laserjet and inkjet printers are both examples of what type of printer?
+ 1. Non-impact printer
+ 2. Impact printer
+ 3. Dot matrix printer
+ 4. Daisywheel printer
 
 <details>
   <summary>Answer</summary>
-  Transport
+  Non-impact printer
 </details>
 
 
