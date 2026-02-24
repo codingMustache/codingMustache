@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do pirates not know the alphabet? They always get stuck at "C".
+I went to a book store and asked the saleswoman where the Self Help section was, she said if she told me it would defeat the purpose.
 
 
 ## Daily Trivia
 
-What is the main CPU is the Sega Mega Drive / Sega Genesis?
- 1. Motorola 68000
- 2. Zilog Z80
- 3. Intel 8088
- 4. Yamaha YM2612
+On which day did the World Wide Web go online?
+ 1. December 20, 1990
+ 2. November 24, 1995
+ 3. December 17, 1996
+ 4. November 12, 1990
 
 <details>
   <summary>Answer</summary>
-  Motorola 68000
+  December 20, 1990
 </details>
 
 
