@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is a vampire's favorite fruit? A blood orange.
+My sister bet me $15 that I couldn't build a car out of spaghetti. You should have seen the look on her face as I drove pasta.
 
 
 ## Daily Trivia
 
-How many values can a single byte represent?
- 1. 256
- 2. 1
- 3. 1024
- 4. 8
+This mobile OS held the largest market share in 2012.
+ 1. iOS
+ 2. Android
+ 3. BlackBerry
+ 4. Symbian
 
 <details>
   <summary>Answer</summary>
-  256
+  iOS
 </details>
 
 
