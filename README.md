@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I went to the zoo yesterday and saw a baguette in a cage. It was bread in captivity.
+I just got fired from a florist, apparently I took too many leaves.
 
 
 ## Daily Trivia
 
-Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
- 1. 32.0 kHz
- 2. 1.5 MHz
- 3. 20.5 kHz
- 4. 44.1 kHz
+What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
+ 1. Data link
+ 2. Session
+ 3. Network
+ 4. Transport
 
 <details>
   <summary>Answer</summary>
-  44.1 kHz
+  Transport
 </details>
 
 
