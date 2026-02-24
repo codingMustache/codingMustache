@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I'm glad I know sign language, it's pretty handy.
+I’m on a whiskey diet. I’ve lost three days already.
 
 
 ## Daily Trivia
 
-Which of these is not a key value of Agile software development?
- 1. Customer collaboration
- 2. Responding to change
- 3. Comprehensive documentation
- 4. Individuals and interactions
+Laserjet and inkjet printers are both examples of what type of printer?
+ 1. Impact printer
+ 2. Non-impact printer
+ 3. Daisywheel printer
+ 4. Dot matrix printer
 
 <details>
   <summary>Answer</summary>
-  Comprehensive documentation
+  Non-impact printer
 </details>
 
 
