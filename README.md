@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why can’t you hear a pterodactyl go to the bathroom? The p is silent.
+Frankenstein enters a bodybuilding competition and finds he has seriously misunderstood the objective.
 
 
 ## Daily Trivia
 
-Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
- 1. Shellshock
- 2. Corrupted Blood
- 3. Shellscript
- 4. Heartbleed
+What vulnerability ranked #1 on the OWASP Top 10 in 2013?
+ 1. Insecure Direct Object References
+ 2. Cross-Site Scripting
+ 3. Injection 
+ 4. Broken Authentication
 
 <details>
   <summary>Answer</summary>
-  Heartbleed
+  Injection 
 </details>
 
 
