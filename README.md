@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do nurses carry around red crayons? Sometimes they need to draw blood.
+What do you get if you put a duck in a cement mixer? Quacks in the pavement.
 
 
 ## Daily Trivia
 
-What five letter word is the motto of the IBM Computer company?
- 1. Logic
- 2. Think
- 3. Click
- 4. Pixel
+Laserjet and inkjet printers are both examples of what type of printer?
+ 1. Non-impact printer
+ 2. Impact printer
+ 3. Dot matrix printer
+ 4. Daisywheel printer
 
 <details>
   <summary>Answer</summary>
-  Think
+  Non-impact printer
 </details>
 
 
