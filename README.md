@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do nurses carry around red crayons? Sometimes they need to draw blood.
+I asked the surgeon if I could administer my own anesthetic, they said: go ahead, knock yourself out.
 
 
 ## Daily Trivia
 
-What did the name of the Tor Anonymity Network orignially stand for?
- 1. The Onion Router
- 2. The Ominous Router
- 3. The Orange Router
- 4. The Only Router
+What does CPU stand for?
+ 1. Central Processing Unit
+ 2. Central Processor Unit
+ 3. Computer Personal Unit
+ 4. Central Process Unit
 
 <details>
   <summary>Answer</summary>
-  The Onion Router
+  Central Processing Unit
 </details>
 
 
