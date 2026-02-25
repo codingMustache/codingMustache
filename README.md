@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the kidnapping at school? It's ok, he woke up.
+Some people eat light bulbs. They say it's a nice light snack.
 
 
 ## Daily Trivia
 
-Which of these programming languages is a low-level language?
- 1. Assembly
- 2. C#
- 3. Python
- 4. Pascal
+All of the following programs are classified as raster graphics editors EXCEPT:
+ 1. Paint.NET
+ 2. GIMP
+ 3. Adobe Photoshop
+ 4. Inkscape
 
 <details>
   <summary>Answer</summary>
-  Assembly
+  Inkscape
 </details>
 
 
