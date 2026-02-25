@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-You will never guess what Elsa did to the balloon. She let it go.
+I had a rough day, and then somebody went and ripped the front and back pages from my dictionary. It just goes from bad to worse.
 
 
 ## Daily Trivia
 
-What is the code name for the mobile operating system Android 7.0?
- 1. Marshmallow
- 2. Ice Cream Sandwich
- 3. Jelly Bean
- 4. Nougat
+In web design, what does CSS stand for?
+ 1. Counter Strike: Source
+ 2. Computer Style Sheet
+ 3. Cascading Style Sheet
+ 4. Corrective Style Sheet
 
 <details>
   <summary>Answer</summary>
-  Nougat
+  Cascading Style Sheet
 </details>
 
 
