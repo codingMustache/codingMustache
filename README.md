@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I had a rough day, and then somebody went and ripped the front and back pages from my dictionary. It just goes from bad to worse.
+How many optometrists does it take to change a light bulb? 1 or 2? 1... or 2?
 
 
 ## Daily Trivia
 
-In web design, what does CSS stand for?
- 1. Counter Strike: Source
- 2. Computer Style Sheet
- 3. Cascading Style Sheet
- 4. Corrective Style Sheet
+What is the name of the default theme that is installed with Windows XP?
+ 1. Bliss
+ 2. Luna
+ 3. Neptune
+ 4. Whistler
 
 <details>
   <summary>Answer</summary>
-  Cascading Style Sheet
+  Luna
 </details>
 
 
