@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to be a banker, but I lost interest.
+What’s brown and sounds like a bell? Dung!
 
 
 ## Daily Trivia
 
-Which data structure does FILO apply to?
- 1. Tree
- 2. Heap
- 3. Queue
- 4. Stack
+When was the programming language &quot;C#&quot; released?
+ 1. 1998
+ 2. 1999
+ 3. 2001
+ 4. 2000
 
 <details>
   <summary>Answer</summary>
-  Stack
+  2000
 </details>
 
 
