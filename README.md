@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do ducks make great detectives? They always quack the case.
+Why does it take longer to get from 1st to 2nd base, than it does to get from 2nd to 3rd base? Because there’s a Shortstop in between!
 
 
 ## Daily Trivia
 
-Which of the following is NOT a computer science algorithm?
- 1. Float Sort
- 2. Quick Sort
- 3. Merge Sort
- 4. Bubble Sort
+All of the following programs are classified as raster graphics editors EXCEPT:
+ 1. GIMP
+ 2. Paint.NET
+ 3. Inkscape
+ 4. Adobe Photoshop
 
 <details>
   <summary>Answer</summary>
-  Float Sort
+  Inkscape
 </details>
 
 
