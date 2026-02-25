@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I applied to be a doorman but didn't get the job due to lack of experience. That surprised me, I thought it was an entry level position.
+"I'm sorry." "Hi sorry, I'm dad"
 
 
 ## Daily Trivia
 
-How many bits make up the significand portion of a single precision floating point number?
- 1. 23
- 2. 8
- 3. 15
- 4. 53
+HTML is what type of language?
+ 1. Macro Language
+ 2. Programming Language
+ 3. Markup Language
+ 4. Scripting Language
 
 <details>
   <summary>Answer</summary>
-  23
+  Markup Language
 </details>
 
 
