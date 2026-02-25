@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you know crocodiles could grow up to 15 feet? But most just have 4.
+A butcher accidentally backed into his meat grinder and got a little behind in his work that day.
 
 
 ## Daily Trivia
 
-Unix Time is defined as the number of seconds that have elapsed since when?
- 1. Midnight, July 4, 1976
- 2. Midnight on the creator of Unix&#039;s birthday
- 3. Midnight, July 4, 1980
- 4. Midnight, January 1, 1970
+What does the &#039;S&#039; in the RSA encryption algorithm stand for?
+ 1. Schottky
+ 2. Secure
+ 3. Shamir
+ 4. Stable
 
 <details>
   <summary>Answer</summary>
-  Midnight, January 1, 1970
+  Shamir
 </details>
 
 
