@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I invented a new word! Plagiarism!
+I applied to be a doorman but didn't get the job due to lack of experience. That surprised me, I thought it was an entry level position.
 
 
 ## Daily Trivia
 
-When Gmail first launched, how much storage did it provide for your email?
- 1. 1GB
- 2. Unlimited
- 3. 5GB
- 4. 512MB
+How many bits make up the significand portion of a single precision floating point number?
+ 1. 23
+ 2. 8
+ 3. 15
+ 4. 53
 
 <details>
   <summary>Answer</summary>
-  1GB
+  23
 </details>
 
 
