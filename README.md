@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why can't a bicycle stand on its own? It's two-tired.
+Today a man knocked on my door and asked for a small donation towards the local swimming pool. I gave him a glass of water.
 
 
 ## Daily Trivia
 
-CMOS is tech used for constructing integrated circuits. What does CMOS stand for?
- 1. Complementary magnetic-ohms-semiconductor
- 2. Computer-made operating system
- 3. Computer-made oscillating static
- 4. Complementary metal&ndash;oxide&ndash;semiconductor
+Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
+ 1. Amazon
+ 2. Shopify
+ 3. Overstock
+ 4. eBay
 
 <details>
   <summary>Answer</summary>
-  Complementary metal&ndash;oxide&ndash;semiconductor
+  Amazon
 </details>
 
 
