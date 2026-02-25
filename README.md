@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The shovel was a ground-breaking invention.
+I burned 2000 calories today, I left my food in the oven for too long.
 
 
 ## Daily Trivia
 
-What is the name of Layer 7 of the OSI model?
- 1. Session
- 2. Application
- 3. Network
- 4. Present
+What was the first company to use the term &quot;Golden Master&quot;?
+ 1. Apple
+ 2. Google
+ 3. IBM
+ 4. Microsoft
 
 <details>
   <summary>Answer</summary>
-  Application
+  Apple
 </details>
 
 
