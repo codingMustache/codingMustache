@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Camping is intense.
+Sore throats are a pain in the neck!
 
 
 ## Daily Trivia
 
-The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
- 1. United States
- 2. Germany
- 3. China (People&#039;s Republic of)
- 4. Taiwan
+Which of these names was an actual codename for a cancelled Microsoft project?
+ 1. Neptune
+ 2. Pollux
+ 3. Enceladus
+ 4. Saturn
 
 <details>
   <summary>Answer</summary>
-  Taiwan
+  Neptune
 </details>
 
 
