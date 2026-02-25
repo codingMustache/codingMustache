@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A butcher accidentally backed into his meat grinder and got a little behind in his work that day.
+I wear a stethoscope so that in a medical emergency I can teach people a valuable lesson about assumptions.
 
 
 ## Daily Trivia
 
-What does the &#039;S&#039; in the RSA encryption algorithm stand for?
- 1. Schottky
- 2. Secure
- 3. Shamir
- 4. Stable
+While Apple was formed in California, in which western state was Microsoft founded?
+ 1. Colorado
+ 2. Arizona
+ 3. Washington
+ 4. New Mexico
 
 <details>
   <summary>Answer</summary>
-  Shamir
+  New Mexico
 </details>
 
 
