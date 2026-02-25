@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many optometrists does it take to change a light bulb? 1 or 2? 1... or 2?
+My boss told me to have a good day... so I went home.
 
 
 ## Daily Trivia
 
-What is the name of the default theme that is installed with Windows XP?
- 1. Bliss
- 2. Luna
- 3. Neptune
- 4. Whistler
+In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
+ 1. &lt;move&gt;&lt;/move&gt;
+ 2. &lt;marquee&gt;&lt;/marquee&gt;
+ 3. &lt;scroll&gt;&lt;/scroll&gt;
+ 4. &lt;slide&gt;&lt;/slide&gt;
 
 <details>
   <summary>Answer</summary>
-  Luna
+  &lt;marquee&gt;&lt;/marquee&gt;
 </details>
 
 
