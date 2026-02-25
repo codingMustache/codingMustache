@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear the news? FedEx and UPS are merging. They’re going to go by the name Fed-Up from now on.
+What kind of pants do ghosts wear? Boo jeans.
 
 
 ## Daily Trivia
 
-What was Bitcoin&#039;s block size limit in 2010?
- 1. 1 KB
- 2. 1 MB
- 3. 1 TB
- 4. 1GB
+Which programming language shares its name with an island in Indonesia?
+ 1. Python
+ 2. C
+ 3. Jakarta
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  1 MB
+  Java
 </details>
 
 
