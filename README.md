@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the cookie cry? It was feeling crumby.
+Why do crabs never give to charity? Because they’re shellfish.
 
 
 ## Daily Trivia
 
-What port does HTTP run on?
- 1. 80
- 2. 53
- 3. 443
- 4. 23
+Unix Time is defined as the number of seconds that have elapsed since when?
+ 1. Midnight, July 4, 1976
+ 2. Midnight, July 4, 1980
+ 3. Midnight on the creator of Unix&#039;s birthday
+ 4. Midnight, January 1, 1970
 
 <details>
   <summary>Answer</summary>
-  80
+  Midnight, January 1, 1970
 </details>
 
 
