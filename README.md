@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Some people eat light bulbs. They say it's a nice light snack.
+Where does Napoleon keep his armies? In his sleevies.
 
 
 ## Daily Trivia
 
-All of the following programs are classified as raster graphics editors EXCEPT:
- 1. Paint.NET
- 2. GIMP
- 3. Adobe Photoshop
- 4. Inkscape
+When was the programming language &quot;C#&quot; released?
+ 1. 1998
+ 2. 1999
+ 3. 2001
+ 4. 2000
 
 <details>
   <summary>Answer</summary>
-  Inkscape
+  2000
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **5 days** since this server shutdown
+Its been **6 days** since this server shutdown
