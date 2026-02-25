@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My boss told me to have a good day... so I went home.
+Why do ducks make great detectives? They always quack the case.
 
 
 ## Daily Trivia
 
-In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
- 1. &lt;move&gt;&lt;/move&gt;
- 2. &lt;marquee&gt;&lt;/marquee&gt;
- 3. &lt;scroll&gt;&lt;/scroll&gt;
- 4. &lt;slide&gt;&lt;/slide&gt;
+Which of the following is NOT a computer science algorithm?
+ 1. Float Sort
+ 2. Quick Sort
+ 3. Merge Sort
+ 4. Bubble Sort
 
 <details>
   <summary>Answer</summary>
-  &lt;marquee&gt;&lt;/marquee&gt;
+  Float Sort
 </details>
 
 
