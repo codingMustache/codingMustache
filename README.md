@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the chicken get a penalty? For fowl play.
+Why can't a bicycle stand on its own? It's two-tired.
 
 
 ## Daily Trivia
 
-America Online (AOL) started out as which of these online service providers?
- 1. CompuServe
- 2. Prodigy
- 3. Quantum Link
- 4. GEnie
+CMOS is tech used for constructing integrated circuits. What does CMOS stand for?
+ 1. Complementary magnetic-ohms-semiconductor
+ 2. Computer-made operating system
+ 3. Computer-made oscillating static
+ 4. Complementary metal&ndash;oxide&ndash;semiconductor
 
 <details>
   <summary>Answer</summary>
-  Quantum Link
+  Complementary metal&ndash;oxide&ndash;semiconductor
 </details>
 
 
