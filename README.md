@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-When my wife told me to stop impersonating a flamingo, I had to put my foot down.
+Did you know crocodiles could grow up to 15 feet? But most just have 4.
 
 
 ## Daily Trivia
 
-The name of technology company HP stands for what?
- 1. Husker-Pollosk
- 2. Hewlett-Packard
- 3. Howard Packmann
- 4. Hellman-Pohl
+Unix Time is defined as the number of seconds that have elapsed since when?
+ 1. Midnight, July 4, 1976
+ 2. Midnight on the creator of Unix&#039;s birthday
+ 3. Midnight, July 4, 1980
+ 4. Midnight, January 1, 1970
 
 <details>
   <summary>Answer</summary>
-  Hewlett-Packard
+  Midnight, January 1, 1970
 </details>
 
 
