@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the barber win the race? He took a short cut.
+What’s the longest word in the dictionary? Smiles. Because there’s a mile between the two S’s.
 
 
 ## Daily Trivia
 
-What does &quot;LCD&quot; stand for?
- 1. Liquid Crystal Display
- 2. Long Continuous Design
- 3. Language Control Design
- 4. Last Common Difference
+What does RAID stand for?
+ 1. Redundant Array of Independent Disks
+ 2. Rapid Access for Indexed Devices
+ 3. Range of Applications with Identical Designs
+ 4. Randomized Abstract Identification Description
 
 <details>
   <summary>Answer</summary>
-  Liquid Crystal Display
+  Redundant Array of Independent Disks
 </details>
 
 
