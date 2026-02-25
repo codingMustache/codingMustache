@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I wear a stethoscope so that in a medical emergency I can teach people a valuable lesson about assumptions.
+Which side of the chicken has more feathers? The outside.
 
 
 ## Daily Trivia
 
-While Apple was formed in California, in which western state was Microsoft founded?
- 1. Colorado
- 2. Arizona
- 3. Washington
- 4. New Mexico
+The acronym &quot;RIP&quot; stands for which of these?
+ 1. Routing Information Protocol
+ 2. Regular Interval Processes
+ 3. Routine Inspection Protocol
+ 4. Runtime Instance Processes
 
 <details>
   <summary>Answer</summary>
-  New Mexico
+  Routing Information Protocol
 </details>
 
 
