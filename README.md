@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why does it take longer to get from 1st to 2nd base, than it does to get from 2nd to 3rd base? Because there’s a Shortstop in between!
+What did the green grape say to the purple grape?
+BREATH!!
 
 
 ## Daily Trivia
 
-All of the following programs are classified as raster graphics editors EXCEPT:
- 1. GIMP
- 2. Paint.NET
- 3. Inkscape
- 4. Adobe Photoshop
+What does AD stand for in relation to Windows Operating Systems? 
+ 1. Alternative Drive
+ 2. Automated Database
+ 3. Active Directory
+ 4. Active Department
 
 <details>
   <summary>Answer</summary>
-  Inkscape
+  Active Directory
 </details>
 
 
