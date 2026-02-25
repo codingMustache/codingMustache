@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I burned 2000 calories today, I left my food in the oven for too long.
+What is the tallest building in the world? The library – it’s got the most stories!
 
 
 ## Daily Trivia
 
-What was the first company to use the term &quot;Golden Master&quot;?
- 1. Apple
- 2. Google
- 3. IBM
- 4. Microsoft
+Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
+ 1. C#
+ 2. Python
+ 3. PHP
+ 4. JavaScript
 
 <details>
   <summary>Answer</summary>
-  Apple
+  JavaScript
 </details>
 
 
