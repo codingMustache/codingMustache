@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I’ll tell you something about German sausages, they’re the wurst
+Two silk worms had a race. They ended up in a tie.
 
 
 ## Daily Trivia
 
-What does the computer software acronym JVM stand for?
- 1. Java Virtual Machine
- 2. Just Virtual Machine
- 3. Java Visual Machine
- 4. Java Vendor Machine
+If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
+ 1. Binary
+ 2. JavaScript
+ 3. C++
+ 4. Python
 
 <details>
   <summary>Answer</summary>
-  Java Virtual Machine
+  Binary
 </details>
 
 
