@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is the tallest building in the world? The library – it’s got the most stories!
+What has three letters and starts with gas? A Car.
 
 
 ## Daily Trivia
 
-Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
- 1. C#
- 2. Python
- 3. PHP
- 4. JavaScript
+What is the domain name for the country Tuvalu?
+ 1. .tv
+ 2. .tl
+ 3. .tt
+ 4. .tu
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  .tv
 </details>
 
 
