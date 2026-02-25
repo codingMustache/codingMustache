@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-"I'm sorry." "Hi sorry, I'm dad"
+Why did the banana go to the doctor? He was not "peeling" well.
 
 
 ## Daily Trivia
 
-HTML is what type of language?
- 1. Macro Language
- 2. Programming Language
- 3. Markup Language
- 4. Scripting Language
+When Gmail first launched, how much storage did it provide for your email?
+ 1. 512MB
+ 2. 1GB
+ 3. 5GB
+ 4. Unlimited
 
 <details>
   <summary>Answer</summary>
-  Markup Language
+  1GB
 </details>
 
 
