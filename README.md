@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Two silk worms had a race. They ended up in a tie.
+I used to be a banker, but I lost interest.
 
 
 ## Daily Trivia
 
-If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
- 1. Binary
- 2. JavaScript
- 3. C++
- 4. Python
+What does the acronym CDN stand for in terms of networking?
+ 1. Content Delivery Network
+ 2. Computational Data Network
+ 3. Content Distribution Network
+ 4. Compressed Data Network
 
 <details>
   <summary>Answer</summary>
-  Binary
+  Content Delivery Network
 </details>
 
 
