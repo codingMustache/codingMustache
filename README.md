@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do crabs never give to charity? Because they’re shellfish.
+It was so cold yesterday my computer froze. My own fault though, I left too many windows open.
 
 
 ## Daily Trivia
 
-Unix Time is defined as the number of seconds that have elapsed since when?
- 1. Midnight, July 4, 1976
- 2. Midnight, July 4, 1980
- 3. Midnight on the creator of Unix&#039;s birthday
- 4. Midnight, January 1, 1970
+What is the name of the default theme that is installed with Windows XP?
+ 1. Bliss
+ 2. Luna
+ 3. Neptune
+ 4. Whistler
 
 <details>
   <summary>Answer</summary>
-  Midnight, January 1, 1970
+  Luna
 </details>
 
 
