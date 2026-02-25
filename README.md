@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I won an argument with a weather forecaster once. His logic was cloudy...
+Did you hear the news? FedEx and UPS are merging. They’re going to go by the name Fed-Up from now on.
 
 
 ## Daily Trivia
 
-In computing, what does LAN stand for?
- 1. Long Antenna Node
- 2. Light Access Node
- 3. Local Area Network
- 4. Land Address Navigation
+What was Bitcoin&#039;s block size limit in 2010?
+ 1. 1 KB
+ 2. 1 MB
+ 3. 1 TB
+ 4. 1GB
 
 <details>
   <summary>Answer</summary>
-  Local Area Network
+  1 MB
 </details>
 
 
