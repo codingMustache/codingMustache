@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Americans can't switch from pounds to kilograms overnight. That would cause mass confusion.
+Why did the worker get fired from the orange juice factory? Lack of concentration.
 
 
 ## Daily Trivia
 
-What port does HTTP run on?
- 1. 80
+How many bits make up the significand portion of a single precision floating point number?
+ 1. 8
  2. 23
- 3. 443
- 4. 53
+ 3. 53
+ 4. 15
 
 <details>
   <summary>Answer</summary>
-  80
+  23
 </details>
 
 
