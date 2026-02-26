@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I thought about going on an all-almond diet. But that's just nuts.
+They tried to make a diamond shaped like a duck. It quacked under the pressure.
 
 
 ## Daily Trivia
 
-What is the name of the process that sends one qubit of information using two bits of classical information?
- 1. Super Dense Coding
- 2. Quantum Entanglement
- 3. Quantum Programming
- 4. Quantum Teleportation
+On which day did the World Wide Web go online?
+ 1. November 12, 1990
+ 2. December 17, 1996
+ 3. November 24, 1995
+ 4. December 20, 1990
 
 <details>
   <summary>Answer</summary>
-  Quantum Teleportation
+  December 20, 1990
 </details>
 
 
