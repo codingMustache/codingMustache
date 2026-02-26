@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Got a new suit recently made entirely of living plants. I wasn’t sure at first, but it’s grown on me
+Yesterday a clown held a door open for me. I thought it was a nice jester.
 
 
 ## Daily Trivia
 
-Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
- 1. Clipper Chip
- 2. Nautilus
- 3. Skipjack
- 4. Enigma Machine
+The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
+ 1. Taiwan
+ 2. United States
+ 3. Germany
+ 4. China (People&#039;s Republic of)
 
 <details>
   <summary>Answer</summary>
-  Clipper Chip
+  Taiwan
 </details>
 
 
