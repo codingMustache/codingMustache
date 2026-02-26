@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I’ve deleted the phone numbers of all the Germans I know from my mobile phone. Now it’s Hans free.
+What did Romans use to cut pizza before the rolling cutter was invented? Lil Caesars
 
 
 ## Daily Trivia
 
-.at is the top-level domain for what country?
- 1. Austria
- 2. Argentina
- 3. Australia
- 4. Angola
+Lenovo acquired IBM&#039;s personal computer division, including the ThinkPad line of laptops and tablets, in what year?
+ 1. 2008
+ 2. 2005
+ 3. 2002
+ 4. 1999
 
 <details>
   <summary>Answer</summary>
-  Austria
+  2005
 </details>
 
 
