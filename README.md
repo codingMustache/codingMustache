@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I don't trust stairs. They're always up to something.
+Why did the teddy bear say “no” to dessert? Because she was stuffed.
 
 
 ## Daily Trivia
 
-What is the name of Layer 7 of the OSI model?
- 1. Network
- 2. Session
- 3. Present
- 4. Application
+Which of these is not a key value of Agile software development?
+ 1. Responding to change
+ 2. Individuals and interactions
+ 3. Customer collaboration
+ 4. Comprehensive documentation
 
 <details>
   <summary>Answer</summary>
-  Application
+  Comprehensive documentation
 </details>
 
 
