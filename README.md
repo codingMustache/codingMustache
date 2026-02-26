@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I have the heart of a lion... and a lifetime ban from the San Diego Zoo.
+Ben & Jerry's really need to improve their operation. The only way to get there is down a rocky road.
 
 
 ## Daily Trivia
 
-Australia, Japan, and Southeast Asia are in which ITU Region?
- 1. Region 1
- 2. Region 2
- 3. Region 4
- 4. Region 3
+What is known as &quot;the brain&quot; of the Computer?
+ 1. Graphics Processing Unit
+ 2. Keyboard
+ 3. Motherboard
+ 4. Central Processing Unit
 
 <details>
   <summary>Answer</summary>
-  Region 3
+  Central Processing Unit
 </details>
 
 
