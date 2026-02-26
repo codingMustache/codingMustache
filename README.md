@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do choirs keep buckets handy? So they can carry their tune
+I used to hate facial hair, but then it grew on me.
 
 
 ## Daily Trivia
 
-The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
- 1. Sinclair Research
- 2. Amstrad PLC
- 3. Commodore Business Machines
- 4. Acorn Computers
+Which programming language shares its name with an island in Indonesia?
+ 1. Jakarta
+ 2. Python
+ 3. C
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  Acorn Computers
+  Java
 </details>
 
 
