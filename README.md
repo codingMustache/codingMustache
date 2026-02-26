@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the fireman wear red, white, and blue suspenders? To hold his pants up.
+How many bones are in the human hand? A handful of them.
 
 
 ## Daily Trivia
 
-What vulnerability ranked #1 on the OWASP Top 10 in 2013?
- 1. Insecure Direct Object References
- 2. Cross-Site Scripting
- 3. Injection 
- 4. Broken Authentication
+The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
+ 1. Taiwan
+ 2. United States
+ 3. Germany
+ 4. China (People&#039;s Republic of)
 
 <details>
   <summary>Answer</summary>
-  Injection 
+  Taiwan
 </details>
 
 
