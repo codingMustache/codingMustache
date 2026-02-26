@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It doesn't matter how much you push the envelope. It will still be stationary.
+Why couldn't the lifeguard save the hippie? He was too far out, man.
 
 
 ## Daily Trivia
 
-Which of these is not a layer in the OSI model for data communications?
- 1. Application Layer
- 2. Transport Layer
- 3. Physical Layer
- 4. Connection Layer
+What amount of bits commonly equals one byte?
+ 1. 64
+ 2. 2
+ 3. 8
+ 4. 1
 
 <details>
   <summary>Answer</summary>
-  Connection Layer
+  8
 </details>
 
 
