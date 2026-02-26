@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What’s brown and sounds like a bell? Dung!
+Why do bananas have to put on sunscreen before they go to the beach? Because they might peel!
 
 
 ## Daily Trivia
 
-When was the programming language &quot;C#&quot; released?
- 1. 1998
- 2. 1999
- 3. 2001
- 4. 2000
+What is the domain name for the country Tuvalu?
+ 1. .tl
+ 2. .tu
+ 3. .tv
+ 4. .tt
 
 <details>
   <summary>Answer</summary>
-  2000
+  .tv
 </details>
 
 
