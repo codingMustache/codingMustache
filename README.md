@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did Romans use to cut pizza before the rolling cutter was invented? Lil Caesars
+I don't trust stairs. They're always up to something.
 
 
 ## Daily Trivia
 
-Lenovo acquired IBM&#039;s personal computer division, including the ThinkPad line of laptops and tablets, in what year?
- 1. 2008
- 2. 2005
- 3. 2002
- 4. 1999
+What is the name of Layer 7 of the OSI model?
+ 1. Network
+ 2. Session
+ 3. Present
+ 4. Application
 
 <details>
   <summary>Answer</summary>
-  2005
+  Application
 </details>
 
 
