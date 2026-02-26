@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do locomotives know where they're going? Lots of training
+What did one snowman say to the other snow man? Do you smell carrot?
 
 
 ## Daily Trivia
 
-In the server hosting industry IaaS stands for...
- 1. Infrastructure as a Server
- 2. Internet as a Service
- 3. Infrastructure as a Service
- 4. Internet and a Server
+According to the International System of Units, how many bytes are in a kilobyte of RAM?
+ 1. 512
+ 2. 1024
+ 3. 1000
+ 4. 500
 
 <details>
   <summary>Answer</summary>
-  Infrastructure as a Service
+  1000
 </details>
 
 
