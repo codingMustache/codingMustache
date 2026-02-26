@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to hate facial hair, but then it grew on me.
+I got a reversible jacket for Christmas, I can't wait to see how it turns out.
 
 
 ## Daily Trivia
 
-Which programming language shares its name with an island in Indonesia?
- 1. Jakarta
- 2. Python
- 3. C
- 4. Java
+Who is the original author of the realtime physics engine called PhysX?
+ 1. NovodeX
+ 2. AMD
+ 3. Nvidia
+ 4. Ageia
 
 <details>
   <summary>Answer</summary>
-  Java
+  NovodeX
 </details>
 
 
