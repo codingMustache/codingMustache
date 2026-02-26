@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the Buffalo say to his little boy when he dropped him off at school? Bison.
+I don’t play soccer because I enjoy the sport. I’m just doing it for kicks.
 
 
 ## Daily Trivia
 
-What was the name of the security vulnerability found in Bash in 2014?
- 1. Bashbug
- 2. Heartbleed
- 3. Shellshock
- 4. Stagefright
+The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
+ 1. Fiji
+ 2. Tuvalu
+ 3. Micronesia
+ 4. Marshall Islands
 
 <details>
   <summary>Answer</summary>
-  Shellshock
+  Micronesia
 </details>
 
 
