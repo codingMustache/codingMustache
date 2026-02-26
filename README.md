@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The invention of the wheel was what got things rolling
+Scientists finally did a study on forks. It's about tine!
 
 
 ## Daily Trivia
 
-What does AD stand for in relation to Windows Operating Systems? 
- 1. Alternative Drive
- 2. Active Directory
- 3. Automated Database
- 4. Active Department
+In the server hosting industry IaaS stands for...
+ 1. Internet as a Service
+ 2. Internet and a Server
+ 3. Infrastructure as a Server
+ 4. Infrastructure as a Service
 
 <details>
   <summary>Answer</summary>
-  Active Directory
+  Infrastructure as a Service
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **6 days** since this server shutdown
+Its been **7 days** since this server shutdown
