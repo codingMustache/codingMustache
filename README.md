@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is a vampire's favorite fruit? A blood orange.
+Why did the fireman wear red, white, and blue suspenders? To hold his pants up.
 
 
 ## Daily Trivia
 
-What is the name of Layer 7 of the OSI model?
- 1. Session
- 2. Application
- 3. Network
- 4. Present
+What vulnerability ranked #1 on the OWASP Top 10 in 2013?
+ 1. Insecure Direct Object References
+ 2. Cross-Site Scripting
+ 3. Injection 
+ 4. Broken Authentication
 
 <details>
   <summary>Answer</summary>
-  Application
+  Injection 
 </details>
 
 
