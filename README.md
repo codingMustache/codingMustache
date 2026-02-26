@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-New atoms frequently lose electrons when they fail to keep an ion them.
+What do you do on a remote island? Try and find the TV island it belongs to.
 
 
 ## Daily Trivia
 
-Whistler was the codename of this Microsoft Operating System.
- 1. Windows 2000
- 2. Windows 7
- 3. Windows 95
- 4. Windows XP
+According to the International System of Units, how many bytes are in a kilobyte of RAM?
+ 1. 1024
+ 2. 500
+ 3. 1000
+ 4. 512
 
 <details>
   <summary>Answer</summary>
-  Windows XP
+  1000
 </details>
 
 
