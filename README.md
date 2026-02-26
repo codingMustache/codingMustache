@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the mountain climber name his son? Cliff.
+The great thing about stationery shops is they're always in the same place...
 
 
 ## Daily Trivia
 
-Which RAID array type is associated with data mirroring?
- 1. RAID 5
- 2. RAID 10
- 3. RAID 1
- 4. RAID 0
+In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
+ 1. printf(&quot;Hello World&quot;)
+ 2. console.log(&quot;Hello World&quot;)
+ 3. echo &quot;Hello World&quot;
+ 4. print(&quot;Hello World&quot;)
 
 <details>
   <summary>Answer</summary>
-  RAID 1
+  print(&quot;Hello World&quot;)
 </details>
 
 
