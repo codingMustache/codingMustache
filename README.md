@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many bones are in the human hand? A handful of them.
+What’s the longest word in the dictionary? Smiles. Because there’s a mile between the two S’s.
 
 
 ## Daily Trivia
 
-What is the number of keys on a standard Windows Keyboard?
- 1. 64
- 2. 94
- 3. 104
- 4. 76
+The Windows OS was delevoped by which company?
+ 1. Apple
+ 2. Microsoft
+ 3. Nokia
+ 4. IBM
 
 <details>
   <summary>Answer</summary>
-  104
+  Microsoft
 </details>
 
 
