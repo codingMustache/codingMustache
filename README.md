@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What’s the longest word in the dictionary? Smiles. Because there’s a mile between the two S’s.
+It doesn't matter how much you push the envelope. It will still be stationary.
 
 
 ## Daily Trivia
 
-The Windows OS was delevoped by which company?
- 1. Apple
- 2. Microsoft
- 3. Nokia
- 4. IBM
+Which of these is not a layer in the OSI model for data communications?
+ 1. Application Layer
+ 2. Transport Layer
+ 3. Physical Layer
+ 4. Connection Layer
 
 <details>
   <summary>Answer</summary>
-  Microsoft
+  Connection Layer
 </details>
 
 
