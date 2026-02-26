@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many bones are in the human hand? A handful of them.
+A farmer had 297 cows, when he rounded them up, he found he had 300
 
 
 ## Daily Trivia
 
-The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
- 1. Taiwan
- 2. United States
- 3. Germany
- 4. China (People&#039;s Republic of)
+.rs is the top-level domain for what country?
+ 1. Rwanda
+ 2. Serbia
+ 3. Russia
+ 4. Romania
 
 <details>
   <summary>Answer</summary>
-  Taiwan
+  Serbia
 </details>
 
 
