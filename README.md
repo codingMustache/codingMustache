@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do bananas have to put on sunscreen before they go to the beach? Because they might peel!
+Got a new suit recently made entirely of living plants. I wasn’t sure at first, but it’s grown on me
 
 
 ## Daily Trivia
 
-What is the domain name for the country Tuvalu?
- 1. .tl
- 2. .tu
- 3. .tv
- 4. .tt
+Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
+ 1. Clipper Chip
+ 2. Nautilus
+ 3. Skipjack
+ 4. Enigma Machine
 
 <details>
   <summary>Answer</summary>
-  .tv
+  Clipper Chip
 </details>
 
 
