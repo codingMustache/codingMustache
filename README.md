@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I got a reversible jacket for Christmas, I can't wait to see how it turns out.
+A dad washes his car with his son. But after a while, the son says, "why can't you just use a sponge?"
 
 
 ## Daily Trivia
 
-Who is the original author of the realtime physics engine called PhysX?
- 1. NovodeX
- 2. AMD
- 3. Nvidia
- 4. Ageia
+In the server hosting industry IaaS stands for...
+ 1. Infrastructure as a Server
+ 2. Infrastructure as a Service
+ 3. Internet and a Server
+ 4. Internet as a Service
 
 <details>
   <summary>Answer</summary>
-  NovodeX
+  Infrastructure as a Service
 </details>
 
 
