@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear that the police have a warrant out on a midget psychic ripping people off? It reads “Small medium at large.”
+What did the Buffalo say to his little boy when he dropped him off at school? Bison.
 
 
 ## Daily Trivia
 
-How many kilobytes in one gigabyte (in decimal)?
- 1. 1024
- 2. 1000
- 3. 1048576
- 4. 1000000
+What was the name of the security vulnerability found in Bash in 2014?
+ 1. Bashbug
+ 2. Heartbleed
+ 3. Shellshock
+ 4. Stagefright
 
 <details>
   <summary>Answer</summary>
-  1000000
+  Shellshock
 </details>
 
 
