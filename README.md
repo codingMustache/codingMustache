@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Yesterday, I accidentally swallowed some food coloring. The doctor says I’m okay, but I feel like I’ve dyed a little inside.
+Never take advice from electrons. They are always negative.
 
 
 ## Daily Trivia
 
-If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
- 1. C++
- 2. Python
- 3. Binary
- 4. JavaScript
+Approximately how many Apple I personal computers were created?
+ 1. 200
+ 2. 500
+ 3. 100
+ 4. 1000
 
 <details>
   <summary>Answer</summary>
-  Binary
+  200
 </details>
 
 
