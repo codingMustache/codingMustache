@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why couldn't the lifeguard save the hippie? He was too far out, man.
+Why was the strawberry sad? Its parents were in a jam.
 
 
 ## Daily Trivia
 
-What amount of bits commonly equals one byte?
- 1. 64
- 2. 2
- 3. 8
- 4. 1
+In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
+ 1. print(&quot;Hello World&quot;)
+ 2. printf(&quot;Hello World&quot;)
+ 3. echo &quot;Hello World&quot;
+ 4. console.log(&quot;Hello World&quot;)
 
 <details>
   <summary>Answer</summary>
-  8
+  print(&quot;Hello World&quot;)
 </details>
 
 
