@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Camping is intense.
+I’ve deleted the phone numbers of all the Germans I know from my mobile phone. Now it’s Hans free.
 
 
 ## Daily Trivia
 
-The name of technology company HP stands for what?
- 1. Husker-Pollosk
- 2. Howard Packmann
- 3. Hellman-Pohl
- 4. Hewlett-Packard
+In the server hosting industry IaaS stands for...
+ 1. Infrastructure as a Server
+ 2. Internet and a Server
+ 3. Infrastructure as a Service
+ 4. Internet as a Service
 
 <details>
   <summary>Answer</summary>
-  Hewlett-Packard
+  Infrastructure as a Service
 </details>
 
 
