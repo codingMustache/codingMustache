@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I don’t play soccer because I enjoy the sport. I’m just doing it for kicks.
+Did you hear the one about the giant pickle?  He was kind of a big dill.
 
 
 ## Daily Trivia
 
-The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
- 1. Fiji
- 2. Tuvalu
- 3. Micronesia
- 4. Marshall Islands
+What amount of bits commonly equals one byte?
+ 1. 8
+ 2. 64
+ 3. 2
+ 4. 1
 
 <details>
   <summary>Answer</summary>
-  Micronesia
+  8
 </details>
 
 
