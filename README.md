@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear the one about the giant pickle?  He was kind of a big dill.
+The invention of the wheel was what got things rolling
 
 
 ## Daily Trivia
 
-What amount of bits commonly equals one byte?
- 1. 8
- 2. 64
- 3. 2
- 4. 1
+What does AD stand for in relation to Windows Operating Systems? 
+ 1. Alternative Drive
+ 2. Active Directory
+ 3. Automated Database
+ 4. Active Department
 
 <details>
   <summary>Answer</summary>
-  8
+  Active Directory
 </details>
 
 
