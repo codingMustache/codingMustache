@@ -4,16 +4,16 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I’ve deleted the phone numbers of all the Germans I know from my mobile phone. Now it’s Hans free.
+How do locomotives know where they're going? Lots of training
 
 
 ## Daily Trivia
 
 In the server hosting industry IaaS stands for...
  1. Infrastructure as a Server
- 2. Internet and a Server
+ 2. Internet as a Service
  3. Infrastructure as a Service
- 4. Internet as a Service
+ 4. Internet and a Server
 
 <details>
   <summary>Answer</summary>
