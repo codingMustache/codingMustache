@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the guy who invented Lifesavers? They say he made a mint.
+What did the mountain climber name his son? Cliff.
 
 
 ## Daily Trivia
 
-What programming language was GitHub written in?
- 1. JavaScript
- 2. Lua
- 3. Python
- 4. Ruby
+Which RAID array type is associated with data mirroring?
+ 1. RAID 5
+ 2. RAID 10
+ 3. RAID 1
+ 4. RAID 0
 
 <details>
   <summary>Answer</summary>
-  Ruby
+  RAID 1
 </details>
 
 
