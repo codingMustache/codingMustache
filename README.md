@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-They tried to make a diamond shaped like a duck. It quacked under the pressure.
+They laughed when I said I wanted to be a comedian – they’re not laughing now.
 
 
 ## Daily Trivia
 
-On which day did the World Wide Web go online?
- 1. November 12, 1990
- 2. December 17, 1996
- 3. November 24, 1995
- 4. December 20, 1990
+What was Bitcoin&#039;s block size limit in 2010?
+ 1. 1 TB
+ 2. 1GB
+ 3. 1 MB
+ 4. 1 KB
 
 <details>
   <summary>Answer</summary>
-  December 20, 1990
+  1 MB
 </details>
 
 
