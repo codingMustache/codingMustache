@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you steal a coat? You jacket.
+What is a vampire's favorite fruit? A blood orange.
 
 
 ## Daily Trivia
 
-.at is the top-level domain for what country?
- 1. Austria
- 2. Angola
- 3. Australia
- 4. Argentina
+What is the name of Layer 7 of the OSI model?
+ 1. Session
+ 2. Application
+ 3. Network
+ 4. Present
 
 <details>
   <summary>Answer</summary>
-  Austria
+  Application
 </details>
 
 
