@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How does Darth Vader like his toast? On the dark side.
+Why did the opera singer go sailing? They wanted to hit the high Cs.
 
 
 ## Daily Trivia
 
-In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
- 1. Green
- 2. Red
- 3. Blue
- 4. Yellow
+CMOS is tech used for constructing integrated circuits. What does CMOS stand for?
+ 1. Complementary metal&ndash;oxide&ndash;semiconductor
+ 2. Computer-made operating system
+ 3. Complementary magnetic-ohms-semiconductor
+ 4. Computer-made oscillating static
 
 <details>
   <summary>Answer</summary>
-  Green
+  Complementary metal&ndash;oxide&ndash;semiconductor
 </details>
 
 
