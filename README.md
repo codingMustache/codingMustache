@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the belt go to prison? He held up a pair of pants!
+How are false teeth like stars? They come out at night!
 
 
 ## Daily Trivia
 
-The Harvard architecture for micro-controllers added which additional bus?
- 1. Control
- 2. Data
- 3. Instruction
- 4. Address
+What is the most preferred image format used for logos in the Wikimedia database?
+ 1. .png
+ 2. .jpeg
+ 3. .svg
+ 4. .gif
 
 <details>
   <summary>Answer</summary>
-  Instruction
+  .svg
 </details>
 
 
