@@ -4,20 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the chameleon who couldn't change color? They had a reptile dysfunction.
+ I never wanted to believe that my Dad was stealing from his job as a road worker. But when I got home, all the signs were there.
+
+
 
 
 ## Daily Trivia
 
-What is the number of keys on a standard Windows Keyboard?
- 1. 76
- 2. 94
- 3. 64
- 4. 104
+What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
+ 1. ADPCM Sampler
+ 2. Programmable Sound Generator (PSG)
+ 3. FM Synthesizer
+ 4. PCM Sampler
 
 <details>
   <summary>Answer</summary>
-  104
+  ADPCM Sampler
 </details>
 
 
