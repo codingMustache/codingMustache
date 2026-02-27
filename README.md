@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where does batman go to the bathroom? The batroom.
+Why can't you use "Beef stew" as a password? Because it's not stroganoff.
 
 
 ## Daily Trivia
 
-What is largely considered the precursor to the USB format?
- 1. FireWire
- 2. PS/2
- 3. PCIe
- 4. SVGA
+Who is the founder of Palantir?
+ 1. Mark Zuckerberg
+ 2. Peter Thiel
+ 3. Marc Benioff
+ 4. Jack Dorsey
 
 <details>
   <summary>Answer</summary>
-  PS/2
+  Peter Thiel
 </details>
 
 
