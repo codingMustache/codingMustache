@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are graveyards so noisy? Because of all the coffin.
+What’s brown and sounds like a bell? Dung!
 
 
 ## Daily Trivia
 
-The numbering system with a radix of 16 is more commonly referred to as 
- 1. Octal
- 2. Duodecimal
- 3. Hexidecimal
- 4. Binary
+What is the code name for the mobile operating system Android 7.0?
+ 1. Nougat
+ 2. Jelly Bean
+ 3. Ice Cream Sandwich
+ 4. Marshmallow
 
 <details>
   <summary>Answer</summary>
-  Hexidecimal
+  Nougat
 </details>
 
 
