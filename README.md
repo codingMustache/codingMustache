@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are skeletons so calm? Because nothing gets under their skin.
+Did you hear about the guy who invented Lifesavers? They say he made a mint.
 
 
 ## Daily Trivia
 
-In computing, what does LAN stand for?
- 1. Long Antenna Node
- 2. Light Access Node
- 3. Land Address Navigation
- 4. Local Area Network
+Which computer hardware device provides an interface for all other connected devices to communicate?
+ 1. Central Processing Unit
+ 2. Hard Disk Drive
+ 3. Random Access Memory
+ 4. Motherboard
 
 <details>
   <summary>Answer</summary>
-  Local Area Network
+  Motherboard
 </details>
 
 
