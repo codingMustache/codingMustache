@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I won an argument with a weather forecaster once. His logic was cloudy...
+The rotation of earth really makes my day.
 
 
 ## Daily Trivia
 
-Which RAID array type is associated with data mirroring?
- 1. RAID 0
- 2. RAID 1
- 3. RAID 5
- 4. RAID 10
+What does the &#039;S&#039; in the RSA encryption algorithm stand for?
+ 1. Schottky
+ 2. Secure
+ 3. Stable
+ 4. Shamir
 
 <details>
   <summary>Answer</summary>
-  RAID 1
+  Shamir
 </details>
 
 
