@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the opera singer go sailing? They wanted to hit the high Cs.
+Why is it always hot in the corner of a room? Because a corner is 90 degrees.
 
 
 ## Daily Trivia
 
-CMOS is tech used for constructing integrated circuits. What does CMOS stand for?
- 1. Complementary metal&ndash;oxide&ndash;semiconductor
- 2. Computer-made operating system
- 3. Complementary magnetic-ohms-semiconductor
- 4. Computer-made oscillating static
+What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
+ 1. Programmable Sound Generator (PSG)
+ 2. FM Synthesizer
+ 3. ADPCM Sampler
+ 4. PCM Sampler
 
 <details>
   <summary>Answer</summary>
-  Complementary metal&ndash;oxide&ndash;semiconductor
+  ADPCM Sampler
 </details>
 
 
