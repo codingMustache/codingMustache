@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What’s brown and sounds like a bell? Dung!
+Why did the belt go to prison? He held up a pair of pants!
 
 
 ## Daily Trivia
 
-What is the code name for the mobile operating system Android 7.0?
- 1. Nougat
- 2. Jelly Bean
- 3. Ice Cream Sandwich
- 4. Marshmallow
+The Harvard architecture for micro-controllers added which additional bus?
+ 1. Control
+ 2. Data
+ 3. Instruction
+ 4. Address
 
 <details>
   <summary>Answer</summary>
-  Nougat
+  Instruction
 </details>
 
 
