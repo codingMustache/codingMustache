@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I was so proud when I finished the puzzle in six months, when on the side it said three to four years.
+How do you make holy water? You boil the hell out of it.
 
 
 ## Daily Trivia
 
-Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
- 1. Amazon
- 2. Shopify
- 3. Overstock
- 4. eBay
+Which of these names was an actual codename for a cancelled Microsoft project?
+ 1. Enceladus
+ 2. Pollux
+ 3. Saturn
+ 4. Neptune
 
 <details>
   <summary>Answer</summary>
-  Amazon
+  Neptune
 </details>
 
 
