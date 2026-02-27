@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do the trees get on the internet? They log on.
+What do you call a cow with no legs? Ground beef.
 
 
 ## Daily Trivia
 
-Which of these is not a key value of Agile software development?
- 1. Customer collaboration
- 2. Responding to change
- 3. Comprehensive documentation
- 4. Individuals and interactions
+What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
+ 1. Skylake
+ 2. Sandy Bridge
+ 3. Coffee Lake
+ 4. Broadwell
 
 <details>
   <summary>Answer</summary>
-  Comprehensive documentation
+  Coffee Lake
 </details>
 
 
