@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I went to the doctor today and he told me I had type A blood but it was a type O.
+Do you know where you can get chicken broth in bulk? The stock market.
 
 
 ## Daily Trivia
 
-Generally, which component of a computer draws the most power?
- 1. Video Card
- 2. Power Supply
- 3. Processor
- 4. Hard Drive
+Which of the following computer components can be built using only NAND gates?
+ 1. ALU
+ 2. CPU
+ 3. Register
+ 4. RAM
 
 <details>
   <summary>Answer</summary>
-  Video Card
+  ALU
 </details>
 
 
