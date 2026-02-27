@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The rotation of earth really makes my day.
+Why didn't the number 4 get into the nightclub? Because he is 2 square.
 
 
 ## Daily Trivia
 
-What does the &#039;S&#039; in the RSA encryption algorithm stand for?
- 1. Schottky
- 2. Secure
- 3. Stable
- 4. Shamir
+What five letter word is the motto of the IBM Computer company?
+ 1. Think
+ 2. Click
+ 3. Pixel
+ 4. Logic
 
 <details>
   <summary>Answer</summary>
-  Shamir
+  Think
 </details>
 
 
