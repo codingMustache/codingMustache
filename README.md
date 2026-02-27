@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Milk is also the fastest liquid on earth – its pasteurized before you even see it
+My son is studying to be a surgeon, I just hope he makes the cut.
 
 
 ## Daily Trivia
 
-In programming, the ternary operator is mostly defined with what symbol(s)?
- 1. ??
- 2. ?
- 3. if then
- 4. ?:
+HTML is what type of language?
+ 1. Programming Language
+ 2. Macro Language
+ 3. Scripting Language
+ 4. Markup Language
 
 <details>
   <summary>Answer</summary>
-  ?:
+  Markup Language
 </details>
 
 
