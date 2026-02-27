@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Whiteboards ... are remarkable.
+Milk is also the fastest liquid on earth – its pasteurized before you even see it
 
 
 ## Daily Trivia
 
-On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
- 1. Exclamation Mark
- 2. Asterisk
- 3. Percent Sign
- 4. Dollar Sign
+In programming, the ternary operator is mostly defined with what symbol(s)?
+ 1. ??
+ 2. ?
+ 3. if then
+ 4. ?:
 
 <details>
   <summary>Answer</summary>
-  Exclamation Mark
+  ?:
 </details>
 
 
