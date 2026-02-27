@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the guy who invented Lifesavers? They say he made a mint.
+Why is the ocean always blue? Because the shore never waves back.
 
 
 ## Daily Trivia
 
-Which computer hardware device provides an interface for all other connected devices to communicate?
- 1. Central Processing Unit
- 2. Hard Disk Drive
- 3. Random Access Memory
- 4. Motherboard
+Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
+ 1. Cherry MX Brown
+ 2. Cherry MX Blue
+ 3. Cherry MX Black
+ 4. Cherry MX Red
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  Cherry MX Blue
 </details>
 
 
