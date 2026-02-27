@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Never take advice from electrons. They are always negative.
+I can't take my dog to the pond anymore because the ducks keep attacking him. That's what I get for buying a pure bread dog.
 
 
 ## Daily Trivia
 
-Approximately how many Apple I personal computers were created?
- 1. 200
- 2. 500
- 3. 100
- 4. 1000
+Australia, Japan, and Southeast Asia are in which ITU Region?
+ 1. Region 1
+ 2. Region 3
+ 3. Region 2
+ 4. Region 4
 
 <details>
   <summary>Answer</summary>
-  200
+  Region 3
 </details>
 
 
