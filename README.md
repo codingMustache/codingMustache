@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why didn't the number 4 get into the nightclub? Because he is 2 square.
+Why are graveyards so noisy? Because of all the coffin.
 
 
 ## Daily Trivia
 
-What five letter word is the motto of the IBM Computer company?
- 1. Think
- 2. Click
- 3. Pixel
- 4. Logic
+The numbering system with a radix of 16 is more commonly referred to as 
+ 1. Octal
+ 2. Duodecimal
+ 3. Hexidecimal
+ 4. Binary
 
 <details>
   <summary>Answer</summary>
-  Think
+  Hexidecimal
 </details>
 
 
