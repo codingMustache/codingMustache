@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why is it always hot in the corner of a room? Because a corner is 90 degrees.
+I was at the library and asked if they have any books on "paranoia", the librarian replied, "yes, they are right behind you"
 
 
 ## Daily Trivia
 
-What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
- 1. Programmable Sound Generator (PSG)
- 2. FM Synthesizer
- 3. ADPCM Sampler
- 4. PCM Sampler
+What does the acronym CDN stand for in terms of networking?
+ 1. Compressed Data Network
+ 2. Content Delivery Network
+ 3. Computational Data Network
+ 4. Content Distribution Network
 
 <details>
   <summary>Answer</summary>
-  ADPCM Sampler
+  Content Delivery Network
 </details>
 
 
