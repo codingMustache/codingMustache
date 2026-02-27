@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I can't take my dog to the pond anymore because the ducks keep attacking him. That's what I get for buying a pure bread dog.
+How do the trees get on the internet? They log on.
 
 
 ## Daily Trivia
 
-Australia, Japan, and Southeast Asia are in which ITU Region?
- 1. Region 1
- 2. Region 3
- 3. Region 2
- 4. Region 4
+Which of these is not a key value of Agile software development?
+ 1. Customer collaboration
+ 2. Responding to change
+ 3. Comprehensive documentation
+ 4. Individuals and interactions
 
 <details>
   <summary>Answer</summary>
-  Region 3
+  Comprehensive documentation
 </details>
 
 
