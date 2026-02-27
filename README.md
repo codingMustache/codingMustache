@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the opera singer go sailing? They wanted to hit the high Cs.
+What is the hardest part about sky diving? The ground.
 
 
 ## Daily Trivia
 
-The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
- 1. Sinclair Research
- 2. Amstrad PLC
- 3. Commodore Business Machines
- 4. Acorn Computers
+Which of these programming languages is a low-level language?
+ 1. Python
+ 2. C#
+ 3. Pascal
+ 4. Assembly
 
 <details>
   <summary>Answer</summary>
-  Acorn Computers
+  Assembly
 </details>
 
 
