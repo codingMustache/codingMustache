@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I asked a frenchman if he played video games. He said "Wii"
+What did the Buffalo say to his little boy when he dropped him off at school? Bison.
 
 
 ## Daily Trivia
 
-This mobile OS held the largest market share in 2012.
- 1. Android
- 2. BlackBerry
- 3. Symbian
- 4. iOS
+Which data structure does FILO apply to?
+ 1. Stack
+ 2. Heap
+ 3. Queue
+ 4. Tree
 
 <details>
   <summary>Answer</summary>
-  iOS
+  Stack
 </details>
 
 
