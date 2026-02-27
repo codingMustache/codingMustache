@@ -4,22 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the worst part about being a cross-eyed teacher?
-
-They can't control their pupils.
+Why does Norway have barcodes on their battleships? So when they get back to port, they can Scandinavian.
 
 
 ## Daily Trivia
 
-What does the term GPU stand for?
- 1. Gaming Processor Unit
- 2. Graphite Producing Unit
- 3. Graphical Proprietary Unit
- 4. Graphics Processing Unit
+What does the Prt Sc button do?
+ 1. Nothing
+ 2. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
+ 3. Closes all windows
+ 4. Captures what&#039;s on the screen and copies it to your clipboard
 
 <details>
   <summary>Answer</summary>
-  Graphics Processing Unit
+  Captures what&#039;s on the screen and copies it to your clipboard
 </details>
 
 
