@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What’s the longest word in the dictionary? Smiles. Because there’s a mile between the two S’s.
+You know what they say about cliffhangers...
 
 
 ## Daily Trivia
 
-What is the name of Layer 7 of the OSI model?
- 1. Application
- 2. Network
- 3. Session
- 4. Present
+Which kind of algorithm is Ron Rivest not famous for creating?
+ 1. Secret sharing scheme
+ 2. Hashing algorithm
+ 3. Asymmetric encryption
+ 4. Stream cipher
 
 <details>
   <summary>Answer</summary>
-  Application
+  Secret sharing scheme
 </details>
 
 
