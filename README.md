@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My son is studying to be a surgeon, I just hope he makes the cut.
+I was so proud when I finished the puzzle in six months, when on the side it said three to four years.
 
 
 ## Daily Trivia
 
-HTML is what type of language?
- 1. Programming Language
- 2. Macro Language
- 3. Scripting Language
- 4. Markup Language
+Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
+ 1. Amazon
+ 2. Shopify
+ 3. Overstock
+ 4. eBay
 
 <details>
   <summary>Answer</summary>
-  Markup Language
+  Amazon
 </details>
 
 
