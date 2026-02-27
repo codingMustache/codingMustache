@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why is the ocean always blue? Because the shore never waves back.
+As I get older, I think of all the people I lost along the way. Maybe a career as a tour guide wasn't such a good idea.
 
 
 ## Daily Trivia
 
-Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
- 1. Cherry MX Brown
- 2. Cherry MX Blue
- 3. Cherry MX Black
- 4. Cherry MX Red
+What was Bitcoin&#039;s block size limit in 2010?
+ 1. 1GB
+ 2. 1 KB
+ 3. 1 TB
+ 4. 1 MB
 
 <details>
   <summary>Answer</summary>
-  Cherry MX Blue
+  1 MB
 </details>
 
 
