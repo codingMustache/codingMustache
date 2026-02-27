@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the Buffalo say to his little boy when he dropped him off at school? Bison.
+Why did the opera singer go sailing? They wanted to hit the high Cs.
 
 
 ## Daily Trivia
 
-Which data structure does FILO apply to?
- 1. Stack
- 2. Heap
- 3. Queue
- 4. Tree
+The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
+ 1. Sinclair Research
+ 2. Amstrad PLC
+ 3. Commodore Business Machines
+ 4. Acorn Computers
 
 <details>
   <summary>Answer</summary>
-  Stack
+  Acorn Computers
 </details>
 
 
