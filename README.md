@@ -4,20 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why is there always a gate around cemeteries? Because people are always dying to get in.
+What's the worst part about being a cross-eyed teacher?
+
+They can't control their pupils.
 
 
 ## Daily Trivia
 
-Which one of these is not an official development name for a Ubuntu release?
- 1. Trusty Tahr
- 2. Utopic Unicorn
- 3. Wily Werewolf
- 4. Mystic Mansion
+What does the term GPU stand for?
+ 1. Gaming Processor Unit
+ 2. Graphite Producing Unit
+ 3. Graphical Proprietary Unit
+ 4. Graphics Processing Unit
 
 <details>
   <summary>Answer</summary>
-  Mystic Mansion
+  Graphics Processing Unit
 </details>
 
 
