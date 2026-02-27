@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Do you know where you can get chicken broth in bulk? The stock market.
+I won an argument with a weather forecaster once. His logic was cloudy...
 
 
 ## Daily Trivia
 
-Which of the following computer components can be built using only NAND gates?
- 1. ALU
- 2. CPU
- 3. Register
- 4. RAM
+Which RAID array type is associated with data mirroring?
+ 1. RAID 0
+ 2. RAID 1
+ 3. RAID 5
+ 4. RAID 10
 
 <details>
   <summary>Answer</summary>
-  ALU
+  RAID 1
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **7 days** since this server shutdown
+Its been **8 days** since this server shutdown
