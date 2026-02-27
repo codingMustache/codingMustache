@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Child: Dad, make me a sandwich. Dad: Poof! You're a sandwich.
+Where does batman go to the bathroom? The batroom.
 
 
 ## Daily Trivia
 
-Unix Time is defined as the number of seconds that have elapsed since when?
- 1. Midnight on the creator of Unix&#039;s birthday
- 2. Midnight, July 4, 1976
- 3. Midnight, July 4, 1980
- 4. Midnight, January 1, 1970
+What is largely considered the precursor to the USB format?
+ 1. FireWire
+ 2. PS/2
+ 3. PCIe
+ 4. SVGA
 
 <details>
   <summary>Answer</summary>
-  Midnight, January 1, 1970
+  PS/2
 </details>
 
 
