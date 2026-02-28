@@ -4,20 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I burned 2000 calories today, I left my food in the oven for too long.
+Doctor: Do you want to hear the good news or the bad news?
+Patient: Good news please.
+Doctor: we're naming a disease after you.
 
 
 ## Daily Trivia
 
-In networking, what does OSPF stand for?
- 1. Open Signal Path Finder
- 2. Open Shortest Path First
- 3. Order Sense Ping Find
- 4. Order State Part First
+What kind of memory is used on memory cache?
+ 1. SRAM
+ 2. Flash
+ 3. ROM
+ 4. DRAM
 
 <details>
   <summary>Answer</summary>
-  Open Shortest Path First
+  SRAM
 </details>
 
 
