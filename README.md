@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do scuba divers fall backwards into the water? Because if they fell forwards they’d still be in the boat.
+I ordered a chicken and an egg from Amazon. I'll let you know.
 
 
 ## Daily Trivia
 
-How many kilobytes in one gigabyte (in decimal)?
- 1. 1024
- 2. 1000
- 3. 1000000
- 4. 1048576
+On which computer hardware device is the BIOS chip located?
+ 1. Motherboard
+ 2. Central Processing Unit
+ 3. Hard Disk Drive
+ 4. Graphics Processing Unit
 
 <details>
   <summary>Answer</summary>
-  1000000
+  Motherboard
 </details>
 
 
