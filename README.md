@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later.
+Animal Fact #25: Most bobcats are not named bob.
 
 
 ## Daily Trivia
 
-In web design, what does CSS stand for?
- 1. Computer Style Sheet
- 2. Counter Strike: Source
- 3. Corrective Style Sheet
- 4. Cascading Style Sheet
+Which of the following languages is used as a scripting language in the Unity 3D game engine?
+ 1. C#
+ 2. Objective-C
+ 3. C++
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  Cascading Style Sheet
+  C#
 </details>
 
 
