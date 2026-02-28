@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-You can't trust a ladder. It will always let you down
+I used to work for a soft drink can crusher. It was soda pressing.
 
 
 ## Daily Trivia
 
-The name of technology company HP stands for what?
- 1. Hellman-Pohl
- 2. Howard Packmann
- 3. Hewlett-Packard
- 4. Husker-Pollosk
+What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
+ 1. Broadwell
+ 2. Sandy Bridge
+ 3. Coffee Lake
+ 4. Skylake
 
 <details>
   <summary>Answer</summary>
-  Hewlett-Packard
+  Coffee Lake
 </details>
 
 
