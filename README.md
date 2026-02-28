@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the fish say when it swam into a wall? Damn!
+What do you call a guy lying on your doorstep? Matt.
 
 
 ## Daily Trivia
 
-How long is an IPv6 address?
- 1. 128 bits
- 2. 64 bits
- 3. 32 bits
- 4. 128 bytes
+Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
+ 1. Cherry MX Brown
+ 2. Cherry MX Blue
+ 3. Cherry MX Black
+ 4. Cherry MX Red
 
 <details>
   <summary>Answer</summary>
-  128 bits
+  Cherry MX Blue
 </details>
 
 
