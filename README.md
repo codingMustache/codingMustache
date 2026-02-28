@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What does an angry pepper do? It gets jalapeño face.
+Writing with a broken pencil is pointless.
 
 
 ## Daily Trivia
 
-Who is the founder of Palantir?
- 1. Jack Dorsey
- 2. Peter Thiel
- 3. Marc Benioff
- 4. Mark Zuckerberg
+What is the code name for the mobile operating system Android 7.0?
+ 1. Ice Cream Sandwich
+ 2. Jelly Bean
+ 3. Marshmallow
+ 4. Nougat
 
 <details>
   <summary>Answer</summary>
-  Peter Thiel
+  Nougat
 </details>
 
 
