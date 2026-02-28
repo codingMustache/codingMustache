@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-So a duck walks into a pharmacy and says “Give me some chap-stick… and put it on my bill”
+What did the fish say when it swam into a wall? Damn!
 
 
 ## Daily Trivia
 
-In networking, what does OSPF stand for?
- 1. Order State Part First
- 2. Open Shortest Path First
- 3. Open Signal Path Finder
- 4. Order Sense Ping Find
+How long is an IPv6 address?
+ 1. 128 bits
+ 2. 64 bits
+ 3. 32 bits
+ 4. 128 bytes
 
 <details>
   <summary>Answer</summary>
-  Open Shortest Path First
+  128 bits
 </details>
 
 
