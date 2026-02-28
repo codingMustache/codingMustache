@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My son is studying to be a surgeon, I just hope he makes the cut.
+What has ears but cannot hear? A field of corn.
 
 
 ## Daily Trivia
 
-If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
- 1. Python
- 2. C++
- 3. JavaScript
- 4. Binary
+In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
+ 1. static
+ 2. center
+ 3. absolute
+ 4. relative
 
 <details>
   <summary>Answer</summary>
-  Binary
+  center
 </details>
 
 
