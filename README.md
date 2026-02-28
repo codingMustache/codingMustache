@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Man, I really love my furniture... me and my recliner go way back.
+You can't trust a ladder. It will always let you down
 
 
 ## Daily Trivia
 
-What was the first Android version specifically optimized for tablets?
- 1. Honeycomb
- 2. Eclair
- 3. Froyo
- 4. Marshmellow
+The name of technology company HP stands for what?
+ 1. Hellman-Pohl
+ 2. Howard Packmann
+ 3. Hewlett-Packard
+ 4. Husker-Pollosk
 
 <details>
   <summary>Answer</summary>
-  Honeycomb
+  Hewlett-Packard
 </details>
 
 
