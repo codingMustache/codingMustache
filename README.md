@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I needed a password eight characters long so I picked Snow White and the Seven Dwarfs.
+What do you call a monkey in a mine field? A babooooom!
+
 
 
 ## Daily Trivia
 
-What is the main CPU is the Sega Mega Drive / Sega Genesis?
- 1. Intel 8088
- 2. Zilog Z80
- 3. Motorola 68000
- 4. Yamaha YM2612
+Which SQL keyword is used to fetch data from a database?
+ 1. EXEC
+ 2. SELECT
+ 3. INDEX
+ 4. VALUES
 
 <details>
   <summary>Answer</summary>
-  Motorola 68000
+  SELECT
 </details>
 
 
