@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was the broom late for the meeting? He overswept.
+Why doesn't the Chimney-Sweep call out sick from work? Because he's used to working with a flue.
 
 
 ## Daily Trivia
 
-Unix Time is defined as the number of seconds that have elapsed since when?
- 1. Midnight, January 1, 1970
- 2. Midnight, July 4, 1980
- 3. Midnight on the creator of Unix&#039;s birthday
- 4. Midnight, July 4, 1976
+Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
+ 1. 32.0 kHz
+ 2. 1.5 MHz
+ 3. 44.1 kHz
+ 4. 20.5 kHz
 
 <details>
   <summary>Answer</summary>
-  Midnight, January 1, 1970
+  44.1 kHz
 </details>
 
 
