@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of dog lives in a particle accelerator? A Fermilabrador Retriever.
+So a duck walks into a pharmacy and says “Give me some chap-stick… and put it on my bill”
 
 
 ## Daily Trivia
 
-The teapot often seen in many 3D modeling applications is called what?
- 1. Pixar Teapot
- 2. 3D Teapot
- 3. Tennessee Teapot
- 4. Utah Teapot
+In networking, what does OSPF stand for?
+ 1. Order State Part First
+ 2. Open Shortest Path First
+ 3. Open Signal Path Finder
+ 4. Order Sense Ping Find
 
 <details>
   <summary>Answer</summary>
-  Utah Teapot
+  Open Shortest Path First
 </details>
 
 
