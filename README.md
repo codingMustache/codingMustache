@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was the robot angry? Because someone kept pressing his buttons!
+I was going to learn how to juggle, but I didn't have the balls.
 
 
 ## Daily Trivia
 
-If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
- 1. JavaScript
- 2. Binary
- 3. Python
- 4. C++
+Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
+ 1. Apple
+ 2. Commodore
+ 3. Atari
+ 4. Microsoft
 
 <details>
   <summary>Answer</summary>
-  Binary
+  Apple
 </details>
 
 
