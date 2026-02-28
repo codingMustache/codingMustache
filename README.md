@@ -4,22 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Doctor: Do you want to hear the good news or the bad news?
-Patient: Good news please.
-Doctor: we're naming a disease after you.
+I needed a password eight characters long so I picked Snow White and the Seven Dwarfs.
 
 
 ## Daily Trivia
 
-What kind of memory is used on memory cache?
- 1. SRAM
- 2. Flash
- 3. ROM
- 4. DRAM
+What is the main CPU is the Sega Mega Drive / Sega Genesis?
+ 1. Intel 8088
+ 2. Zilog Z80
+ 3. Motorola 68000
+ 4. Yamaha YM2612
 
 <details>
   <summary>Answer</summary>
-  SRAM
+  Motorola 68000
 </details>
 
 
