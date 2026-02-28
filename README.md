@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I met this girl on a dating site and, I don't know, we just clicked.
+What do bees do after they are married? They go on a honeymoon.
 
 
 ## Daily Trivia
 
-What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
- 1. Network
- 2. Data link
- 3. Session
- 4. Transport
+Which RAID array type is associated with data mirroring?
+ 1. RAID 5
+ 2. RAID 10
+ 3. RAID 1
+ 4. RAID 0
 
 <details>
   <summary>Answer</summary>
-  Transport
+  RAID 1
 </details>
 
 
