@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why is there always a gate around cemeteries? Because people are always dying to get in.
+I just wrote a book on reverse psychology. Do not read it!
 
 
 ## Daily Trivia
 
-This mobile OS held the largest market share in 2012.
- 1. Android
- 2. iOS
- 3. BlackBerry
- 4. Symbian
+What was the name of the security vulnerability found in Bash in 2014?
+ 1. Bashbug
+ 2. Heartbleed
+ 3. Shellshock
+ 4. Stagefright
 
 <details>
   <summary>Answer</summary>
-  iOS
+  Shellshock
 </details>
 
 
