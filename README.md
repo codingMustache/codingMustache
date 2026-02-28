@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I ordered a chicken and an egg from Amazon. I'll let you know.
+Where do you take someone who has been injured in a Peek-a-boo accident? To the I.C.U.
 
 
 ## Daily Trivia
 
-On which computer hardware device is the BIOS chip located?
- 1. Motherboard
- 2. Central Processing Unit
- 3. Hard Disk Drive
- 4. Graphics Processing Unit
+If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
+ 1. JavaScript
+ 2. C++
+ 3. Binary
+ 4. Python
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  Binary
 </details>
 
 
