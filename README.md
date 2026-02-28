@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a monkey in a mine field? A babooooom!
-
+Dermatologists are always in a hurry. They spend all day making rash decisions. 
 
 
 ## Daily Trivia
 
-Which SQL keyword is used to fetch data from a database?
- 1. EXEC
- 2. SELECT
- 3. INDEX
- 4. VALUES
+How many kilobytes in one gigabyte (in decimal)?
+ 1. 1000000
+ 2. 1048576
+ 3. 1000
+ 4. 1024
 
 <details>
   <summary>Answer</summary>
-  SELECT
+  1000000
 </details>
 
 
