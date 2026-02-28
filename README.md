@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Animal Fact #25: Most bobcats are not named bob.
+Why are giraffes so slow to apologize? Because it takes them a long time to swallow their pride.
 
 
 ## Daily Trivia
 
-Which of the following languages is used as a scripting language in the Unity 3D game engine?
- 1. C#
- 2. Objective-C
- 3. C++
- 4. Java
+In programming, what do you call functions with the same name but different implementations?
+ 1. Overloading
+ 2. Overriding
+ 3. Inheriting
+ 4. Abstracting
 
 <details>
   <summary>Answer</summary>
-  C#
+  Overloading
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **8 days** since this server shutdown
+Its been **9 days** since this server shutdown
