@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the father tomato say to the baby tomato whilst on a family walk? Ketchup.
+Why do scuba divers fall backwards into the water? Because if they fell forwards they’d still be in the boat.
 
 
 ## Daily Trivia
 
-Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
- 1. Amazon
- 2. Shopify
- 3. Overstock
- 4. eBay
+How many kilobytes in one gigabyte (in decimal)?
+ 1. 1024
+ 2. 1000
+ 3. 1000000
+ 4. 1048576
 
 <details>
   <summary>Answer</summary>
-  Amazon
+  1000000
 </details>
 
 
