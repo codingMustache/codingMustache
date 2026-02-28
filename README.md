@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many bones are in the human hand? A handful of them.
+What do you call a sheep with no legs? A cloud.
 
 
 ## Daily Trivia
 
-The Windows OS was delevoped by which company?
- 1. Apple
- 2. Nokia
- 3. Microsoft
- 4. IBM
+What programming language was GitHub written in?
+ 1. Ruby
+ 2. Lua
+ 3. Python
+ 4. JavaScript
 
 <details>
   <summary>Answer</summary>
-  Microsoft
+  Ruby
 </details>
 
 
