@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Dermatologists are always in a hurry. They spend all day making rash decisions. 
+What did the father tomato say to the baby tomato whilst on a family walk? Ketchup.
 
 
 ## Daily Trivia
 
-How many kilobytes in one gigabyte (in decimal)?
- 1. 1000000
- 2. 1048576
- 3. 1000
- 4. 1024
+Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
+ 1. Amazon
+ 2. Shopify
+ 3. Overstock
+ 4. eBay
 
 <details>
   <summary>Answer</summary>
-  1000000
+  Amazon
 </details>
 
 
