@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I heard there was a new store called Moderation. They have everything there
+What kind of dog lives in a particle accelerator? A Fermilabrador Retriever.
 
 
 ## Daily Trivia
 
-What does the term MIME stand for, in regards to computing?
- 1. Mail Internet Mail Exchange
- 2. Multipurpose Interleave Mail Exchange
- 3. Mail Interleave Method Exchange
- 4. Multipurpose Internet Mail Extensions
+The teapot often seen in many 3D modeling applications is called what?
+ 1. Pixar Teapot
+ 2. 3D Teapot
+ 3. Tennessee Teapot
+ 4. Utah Teapot
 
 <details>
   <summary>Answer</summary>
-  Multipurpose Internet Mail Extensions
+  Utah Teapot
 </details>
 
 
