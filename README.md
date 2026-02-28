@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to work for a soft drink can crusher. It was soda pressing.
+What kind of music do mummy's like? Rap
 
 
 ## Daily Trivia
 
-What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
- 1. Broadwell
- 2. Sandy Bridge
- 3. Coffee Lake
- 4. Skylake
+The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
+ 1. Taiwan
+ 2. China (People&#039;s Republic of)
+ 3. Germany
+ 4. United States
 
 <details>
   <summary>Answer</summary>
-  Coffee Lake
+  Taiwan
 </details>
 
 
