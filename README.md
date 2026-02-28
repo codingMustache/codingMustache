@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I was going to learn how to juggle, but I didn't have the balls.
+Why is it a bad idea to iron your four-leaf clover? Cause you shouldn't press your luck.
 
 
 ## Daily Trivia
 
-Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
- 1. Apple
- 2. Commodore
- 3. Atari
- 4. Microsoft
+What is the main CPU is the Sega Mega Drive / Sega Genesis?
+ 1. Intel 8088
+ 2. Zilog Z80
+ 3. Motorola 68000
+ 4. Yamaha YM2612
 
 <details>
   <summary>Answer</summary>
-  Apple
+  Motorola 68000
 </details>
 
 
