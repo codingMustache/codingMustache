@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do fish keep their money? In the riverbank
+What does an angry pepper do? It gets jalapeño face.
 
 
 ## Daily Trivia
 
-What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
- 1. Programmable Sound Generator (PSG)
- 2. FM Synthesizer
- 3. ADPCM Sampler
- 4. PCM Sampler
+Who is the founder of Palantir?
+ 1. Jack Dorsey
+ 2. Peter Thiel
+ 3. Marc Benioff
+ 4. Mark Zuckerberg
 
 <details>
   <summary>Answer</summary>
-  ADPCM Sampler
+  Peter Thiel
 </details>
 
 
