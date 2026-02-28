@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do bees do after they are married? They go on a honeymoon.
+I hate perforated lines, they're tearable.
 
 
 ## Daily Trivia
 
-What does the term USB stand for?
- 1. Universal Serial Bus
- 2. Unityped Semtex Backer
- 3. Unified Signal Bus
- 4. Universal Simtex Blot
+All of the following programs are classified as raster graphics editors EXCEPT:
+ 1. Adobe Photoshop
+ 2. Inkscape
+ 3. GIMP
+ 4. Paint.NET
 
 <details>
   <summary>Answer</summary>
-  Universal Serial Bus
+  Inkscape
 </details>
 
 
