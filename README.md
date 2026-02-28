@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why can't your nose be 12 inches long? Because then it'd be a foot!
+Why is there always a gate around cemeteries? Because people are always dying to get in.
 
 
 ## Daily Trivia
 
-Which RAID array type is associated with data mirroring?
- 1. RAID 5
- 2. RAID 1
- 3. RAID 10
- 4. RAID 0
+This mobile OS held the largest market share in 2012.
+ 1. Android
+ 2. iOS
+ 3. BlackBerry
+ 4. Symbian
 
 <details>
   <summary>Answer</summary>
-  RAID 1
+  iOS
 </details>
 
 
