@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are giraffes so slow to apologize? Because it takes them a long time to swallow their pride.
+What do bees do after they are married? They go on a honeymoon.
 
 
 ## Daily Trivia
 
-In programming, what do you call functions with the same name but different implementations?
- 1. Overloading
- 2. Overriding
- 3. Inheriting
- 4. Abstracting
+What does the term USB stand for?
+ 1. Universal Serial Bus
+ 2. Unityped Semtex Backer
+ 3. Unified Signal Bus
+ 4. Universal Simtex Blot
 
 <details>
   <summary>Answer</summary>
-  Overloading
+  Universal Serial Bus
 </details>
 
 
