@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I hate perforated lines, they're tearable.
+I met this girl on a dating site and, I don't know, we just clicked.
 
 
 ## Daily Trivia
 
-All of the following programs are classified as raster graphics editors EXCEPT:
- 1. Adobe Photoshop
- 2. Inkscape
- 3. GIMP
- 4. Paint.NET
+What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
+ 1. Network
+ 2. Data link
+ 3. Session
+ 4. Transport
 
 <details>
   <summary>Answer</summary>
-  Inkscape
+  Transport
 </details>
 
 
