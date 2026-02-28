@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a sheep with no legs? A cloud.
+Why is Peter Pan always flying? Because he Neverlands.
 
 
 ## Daily Trivia
 
-What programming language was GitHub written in?
- 1. Ruby
- 2. Lua
- 3. Python
- 4. JavaScript
+Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
+ 1. Tiger
+ 2. Leopard
+ 3. Puma
+ 4. Cheetah
 
 <details>
   <summary>Answer</summary>
-  Ruby
+  Cheetah
 </details>
 
 
