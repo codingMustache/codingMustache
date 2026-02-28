@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call corn that joins the army? Kernel.
+I heard there was a new store called Moderation. They have everything there
 
 
 ## Daily Trivia
 
-Whistler was the codename of this Microsoft Operating System.
- 1. Windows 7
- 2. Windows XP
- 3. Windows 2000
- 4. Windows 95
+What does the term MIME stand for, in regards to computing?
+ 1. Mail Internet Mail Exchange
+ 2. Multipurpose Interleave Mail Exchange
+ 3. Mail Interleave Method Exchange
+ 4. Multipurpose Internet Mail Extensions
 
 <details>
   <summary>Answer</summary>
-  Windows XP
+  Multipurpose Internet Mail Extensions
 </details>
 
 
