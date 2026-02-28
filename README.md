@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Two silk worms had a race. They ended up in a tie.
+I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later.
 
 
 ## Daily Trivia
 
-The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
- 1. HD Graphics 700 
- 2. HD Graphics 600
- 3. HD Graphics 7000
- 4. HD Graphics 500
+In web design, what does CSS stand for?
+ 1. Computer Style Sheet
+ 2. Counter Strike: Source
+ 3. Corrective Style Sheet
+ 4. Cascading Style Sheet
 
 <details>
   <summary>Answer</summary>
-  HD Graphics 500
+  Cascading Style Sheet
 </details>
 
 
