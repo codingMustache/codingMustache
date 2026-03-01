@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I wouldn't buy anything with velcro. It's a total rip-off.
+I’ll tell you something about German sausages, they’re the wurst
 
 
 ## Daily Trivia
 
-.rs is the top-level domain for what country?
- 1. Romania
- 2. Serbia
- 3. Russia
- 4. Rwanda
+What is known as &quot;the brain&quot; of the Computer?
+ 1. Motherboard
+ 2. Graphics Processing Unit
+ 3. Central Processing Unit
+ 4. Keyboard
 
 <details>
   <summary>Answer</summary>
-  Serbia
+  Central Processing Unit
 </details>
 
 
