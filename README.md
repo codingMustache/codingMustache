@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you know Albert Einstein was a real person? All this time, I thought he was just a theoretical physicist!
+Why don't eggs tell jokes? They'd crack each other up
 
 
 ## Daily Trivia
 
-What does GHz stand for?
- 1. Gigahatz
- 2. Gigahetz
- 3. Gigahertz
- 4. Gigahotz
+What internet protocol was documented in RFC 1459?
+ 1. FTP
+ 2. IRC
+ 3. HTTPS
+ 4. HTTP
 
 <details>
   <summary>Answer</summary>
-  Gigahertz
+  IRC
 </details>
 
 
