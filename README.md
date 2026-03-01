@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-If at first you don't succeed, sky diving is not for you!
+What kind of award did the dentist receive? A little plaque.
 
 
 ## Daily Trivia
 
-The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
- 1. China (People&#039;s Republic of)
- 2. United States
- 3. Taiwan
- 4. Germany
+The numbering system with a radix of 16 is more commonly referred to as 
+ 1. Duodecimal
+ 2. Octal
+ 3. Hexidecimal
+ 4. Binary
 
 <details>
   <summary>Answer</summary>
-  Taiwan
+  Hexidecimal
 </details>
 
 
