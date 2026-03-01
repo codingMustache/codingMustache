@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I’ll tell you something about German sausages, they’re the wurst
+Someone asked me to name two structures that hold water. I said "Well dam"
 
 
 ## Daily Trivia
 
-What is known as &quot;the brain&quot; of the Computer?
- 1. Motherboard
- 2. Graphics Processing Unit
- 3. Central Processing Unit
- 4. Keyboard
+The C programming language was created by this American computer scientist. 
+ 1. Tim Berners Lee
+ 2. al-Khwārizmī
+ 3. Willis Ware
+ 4. Dennis Ritchie
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  Dennis Ritchie
 </details>
 
 
