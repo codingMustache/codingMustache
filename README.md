@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I made a belt out of watches once... It was a waist of time.
+If you think swimming with dolphins is expensive, you should try swimming with sharks--it cost me an arm and a leg!
 
 
 ## Daily Trivia
 
-What programming language was GitHub written in?
- 1. JavaScript
- 2. Ruby
- 3. Python
- 4. Lua
+What port does HTTP run on?
+ 1. 80
+ 2. 23
+ 3. 443
+ 4. 53
 
 <details>
   <summary>Answer</summary>
-  Ruby
+  80
 </details>
 
 
