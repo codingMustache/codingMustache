@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of award did the dentist receive? A little plaque.
+What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand...
 
 
 ## Daily Trivia
 
-The numbering system with a radix of 16 is more commonly referred to as 
- 1. Duodecimal
- 2. Octal
- 3. Hexidecimal
- 4. Binary
+The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
+ 1. Sinclair Research
+ 2. Acorn Computers
+ 3. Commodore Business Machines
+ 4. Amstrad PLC
 
 <details>
   <summary>Answer</summary>
-  Hexidecimal
+  Acorn Computers
 </details>
 
 
