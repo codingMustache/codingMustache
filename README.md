@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-There's not really any training for garbagemen. They just pick things up as they go.
+I was in an 80's band called the prevention. We were better than the cure.
 
 
 ## Daily Trivia
 
-HTML is what type of language?
- 1. Markup Language
- 2. Scripting Language
- 3. Macro Language
- 4. Programming Language
+Which operating system was released first?
+ 1. Windows
+ 2. Linux
+ 3. Mac OS
+ 4. OS/2
 
 <details>
   <summary>Answer</summary>
-  Markup Language
+  Mac OS
 </details>
 
 
