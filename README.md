@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you get hanging from Apple trees? Sore arms.
+Why was the strawberry sad? Its parents were in a jam.
 
 
 ## Daily Trivia
 
-How many bytes are in a single Kibibyte?
- 1. 1000
- 2. 1024
- 3. 2400
- 4. 1240
+What port does HTTP run on?
+ 1. 53
+ 2. 80
+ 3. 443
+ 4. 23
 
 <details>
   <summary>Answer</summary>
-  1024
+  80
 </details>
 
 
