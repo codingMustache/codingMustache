@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why is the ocean always blue? Because the shore never waves back.
+How can you tell a vampire has a cold? They start coffin.
 
 
 ## Daily Trivia
 
-Who is the founder of Palantir?
- 1. Mark Zuckerberg
- 2. Marc Benioff
- 3. Jack Dorsey
- 4. Peter Thiel
+In programming, what do you call functions with the same name but different implementations?
+ 1. Overloading
+ 2. Inheriting
+ 3. Abstracting
+ 4. Overriding
 
 <details>
   <summary>Answer</summary>
-  Peter Thiel
+  Overloading
 </details>
 
 
