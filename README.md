@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A horse walks into a bar. The bar tender says "Hey." The horse says "Sure."
+They say Dodger Stadium can hold up to fifty-six thousand people, but that is just a ballpark figure.
 
 
 ## Daily Trivia
 
-The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
- 1. HD Graphics 700 
- 2. HD Graphics 600
- 3. HD Graphics 7000
- 4. HD Graphics 500
+Dutch computer scientist Mark Overmars is known for creating which game development engine?
+ 1. Torque 2D
+ 2. Construct
+ 3. Stencyl
+ 4. Game Maker
 
 <details>
   <summary>Answer</summary>
-  HD Graphics 500
+  Game Maker
 </details>
 
 
