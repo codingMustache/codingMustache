@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-People saying 'boo! to their friends has risen by 85% in the last year.... That's a frightening statistic.
+I wouldn't buy anything with velcro. It's a total rip-off.
 
 
 ## Daily Trivia
 
-What does AD stand for in relation to Windows Operating Systems? 
- 1. Automated Database
- 2. Active Department
- 3. Active Directory
- 4. Alternative Drive
+.rs is the top-level domain for what country?
+ 1. Romania
+ 2. Serbia
+ 3. Russia
+ 4. Rwanda
 
 <details>
   <summary>Answer</summary>
-  Active Directory
+  Serbia
 </details>
 
 
