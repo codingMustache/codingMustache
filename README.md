@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I was in an 80's band called the prevention. We were better than the cure.
+A horse walks into a bar. The bar tender says "Hey." The horse says "Sure."
 
 
 ## Daily Trivia
 
-Which operating system was released first?
- 1. Windows
- 2. Linux
- 3. Mac OS
- 4. OS/2
+The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
+ 1. HD Graphics 700 
+ 2. HD Graphics 600
+ 3. HD Graphics 7000
+ 4. HD Graphics 500
 
 <details>
   <summary>Answer</summary>
-  Mac OS
+  HD Graphics 500
 </details>
 
 
