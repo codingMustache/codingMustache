@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-In my career as a lumberjack I cut down exactly 52,487 trees. I know because I kept a log.
+What do you get hanging from Apple trees? Sore arms.
 
 
 ## Daily Trivia
 
-Which kind of algorithm is Ron Rivest not famous for creating?
- 1. Hashing algorithm
- 2. Secret sharing scheme
- 3. Asymmetric encryption
- 4. Stream cipher
+How many bytes are in a single Kibibyte?
+ 1. 1000
+ 2. 1024
+ 3. 2400
+ 4. 1240
 
 <details>
   <summary>Answer</summary>
-  Secret sharing scheme
+  1024
 </details>
 
 
