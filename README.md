@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Someone asked me, what's the ninth letter of the alphabet? It was a complete guess, but I was right.
+Why do bananas have to put on sunscreen before they go to the beach? Because they might peel!
 
 
 ## Daily Trivia
 
-Which of the following is the oldest of these computers by release date?
- 1. Commodore 64
- 2. TRS-80
- 3. Apple 3
- 4. ZX Spectrum
+What is known as &quot;the brain&quot; of the Computer?
+ 1. Motherboard
+ 2. Graphics Processing Unit
+ 3. Keyboard
+ 4. Central Processing Unit
 
 <details>
   <summary>Answer</summary>
-  TRS-80
+  Central Processing Unit
 </details>
 
 
