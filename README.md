@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do bananas have to put on sunscreen before they go to the beach? Because they might peel!
+I applied to be a doorman but didn't get the job due to lack of experience. That surprised me, I thought it was an entry level position.
 
 
 ## Daily Trivia
 
-What is known as &quot;the brain&quot; of the Computer?
- 1. Motherboard
- 2. Graphics Processing Unit
- 3. Keyboard
- 4. Central Processing Unit
+The programming language &#039;Swift&#039; was created to replace what other programming language?
+ 1. C#
+ 2. Ruby
+ 3. C++
+ 4. Objective-C
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  Objective-C
 </details>
 
 
