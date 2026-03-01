@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Ever wondered why bees hum? It's because they don't know the words.
+Americans can't switch from pounds to kilograms overnight. That would cause mass confusion.
 
 
 ## Daily Trivia
 
-What does the term GPU stand for?
- 1. Graphics Processing Unit
- 2. Gaming Processor Unit
- 3. Graphical Proprietary Unit
- 4. Graphite Producing Unit
+When Gmail first launched, how much storage did it provide for your email?
+ 1. 1GB
+ 2. 512MB
+ 3. 5GB
+ 4. Unlimited
 
 <details>
   <summary>Answer</summary>
-  Graphics Processing Unit
+  1GB
 </details>
 
 
