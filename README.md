@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Have you heard about the film "Constipation", you probably haven't because it's not out yet.
+What's the difference between a seal and a sea lion?
+An ion! 
 
 
 ## Daily Trivia
 
-In computing, what does MIDI stand for?
- 1. Modular Interface of Digital Instruments
- 2. Musical Interface of Digital Instruments
- 3. Musical Instrument Digital Interface
- 4. Musical Instrument Data Interface
+What does the International System of Quantities refer 1024 bytes as?
+ 1. Kibibyte
+ 2. Kelobyte
+ 3. Kilobyte
+ 4. Kylobyte
 
 <details>
   <summary>Answer</summary>
-  Musical Instrument Digital Interface
+  Kibibyte
 </details>
 
 
