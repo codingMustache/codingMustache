@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Slept like a log last night … woke up in the fireplace.
+I just got fired from a florist, apparently I took too many leaves.
 
 
 ## Daily Trivia
 
-Which one of these is not an official development name for a Ubuntu release?
- 1. Mystic Mansion
- 2. Utopic Unicorn
- 3. Wily Werewolf
- 4. Trusty Tahr
+Lenovo acquired IBM&#039;s personal computer division, including the ThinkPad line of laptops and tablets, in what year?
+ 1. 1999
+ 2. 2002
+ 3. 2008
+ 4. 2005
 
 <details>
   <summary>Answer</summary>
-  Mystic Mansion
+  2005
 </details>
 
 
