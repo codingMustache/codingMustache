@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What’s E.T. short for? He’s only got little legs.
+People saying 'boo! to their friends has risen by 85% in the last year.... That's a frightening statistic.
 
 
 ## Daily Trivia
 
-How many bits make up the significand portion of a single precision floating point number?
- 1. 53
- 2. 15
- 3. 8
- 4. 23
+What does AD stand for in relation to Windows Operating Systems? 
+ 1. Automated Database
+ 2. Active Department
+ 3. Active Directory
+ 4. Alternative Drive
 
 <details>
   <summary>Answer</summary>
-  23
+  Active Directory
 </details>
 
 
