@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call two barracuda fish?  A Pairacuda!
+What kind of magic do cows believe in? MOODOO.
 
 
 ## Daily Trivia
 
-In any programming language, what is the most common way to iterate through an array?
- 1. &#039;While&#039; loops
- 2. &#039;For&#039; loops
- 3. &#039;Do-while&#039; loops
- 4. &#039;If&#039; Statements
+On which day did the World Wide Web go online?
+ 1. November 24, 1995
+ 2. December 20, 1990
+ 3. December 17, 1996
+ 4. November 12, 1990
 
 <details>
   <summary>Answer</summary>
-  &#039;For&#039; loops
+  December 20, 1990
 </details>
 
 
