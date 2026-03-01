@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The urge to sing the Lion King song is just a whim away.
+How come the stadium got hot after the game? Because all of the fans left.
 
 
 ## Daily Trivia
 
-What vulnerability ranked #1 on the OWASP Top 10 in 2013?
- 1. Broken Authentication
- 2. Cross-Site Scripting
- 3. Insecure Direct Object References
- 4. Injection 
+Which of the following is the oldest of these computers by release date?
+ 1. Commodore 64
+ 2. TRS-80
+ 3. ZX Spectrum
+ 4. Apple 3
 
 <details>
   <summary>Answer</summary>
-  Injection 
+  TRS-80
 </details>
 
 
