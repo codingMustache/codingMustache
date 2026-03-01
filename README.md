@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Two satellites decided to get married. The wedding wasn't much, but the reception was incredible.
+There's not really any training for garbagemen. They just pick things up as they go.
 
 
 ## Daily Trivia
 
-According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:
- 1. A&#039;B&#039;
- 2. AB&#039; + AB
- 3. A&#039; + B&#039;
- 4. A&#039;B + B&#039;A
+HTML is what type of language?
+ 1. Markup Language
+ 2. Scripting Language
+ 3. Macro Language
+ 4. Programming Language
 
 <details>
   <summary>Answer</summary>
-  A&#039; + B&#039;
+  Markup Language
 </details>
 
 
