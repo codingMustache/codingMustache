@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the difference between a seal and a sea lion?
-An ion! 
+I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later.
 
 
 ## Daily Trivia
 
-What does the International System of Quantities refer 1024 bytes as?
- 1. Kibibyte
- 2. Kelobyte
- 3. Kilobyte
- 4. Kylobyte
+What major programming language does Unreal Engine 4 use?
+ 1. C++
+ 2. C#
+ 3. Assembly
+ 4. ECMAScript
 
 <details>
   <summary>Answer</summary>
-  Kibibyte
+  C++
 </details>
 
 
