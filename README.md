@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand...
+Ever wondered why bees hum? It's because they don't know the words.
 
 
 ## Daily Trivia
 
-The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
- 1. Sinclair Research
- 2. Acorn Computers
- 3. Commodore Business Machines
- 4. Amstrad PLC
+What does the term GPU stand for?
+ 1. Graphics Processing Unit
+ 2. Gaming Processor Unit
+ 3. Graphical Proprietary Unit
+ 4. Graphite Producing Unit
 
 <details>
   <summary>Answer</summary>
-  Acorn Computers
+  Graphics Processing Unit
 </details>
 
 
