@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later.
+My wife said I was immature. So I told her to get out of my fort.
 
 
 ## Daily Trivia
 
-What major programming language does Unreal Engine 4 use?
- 1. C++
- 2. C#
- 3. Assembly
- 4. ECMAScript
+In programming, what do you call functions with the same name but different implementations?
+ 1. Abstracting
+ 2. Overloading
+ 3. Overriding
+ 4. Inheriting
 
 <details>
   <summary>Answer</summary>
-  C++
+  Overloading
 </details>
 
 
