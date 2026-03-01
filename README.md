@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of magic do cows believe in? MOODOO.
+How do you fix a damaged jack-o-lantern? You use a pumpkin patch.
 
 
 ## Daily Trivia
 
-On which day did the World Wide Web go online?
- 1. November 24, 1995
- 2. December 20, 1990
- 3. December 17, 1996
- 4. November 12, 1990
+Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
+ 1. Cherry MX Black
+ 2. Cherry MX Blue
+ 3. Cherry MX Red
+ 4. Cherry MX Brown
 
 <details>
   <summary>Answer</summary>
-  December 20, 1990
+  Cherry MX Blue
 </details>
 
 
