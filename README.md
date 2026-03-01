@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you fix a damaged jack-o-lantern? You use a pumpkin patch.
+What’s E.T. short for? He’s only got little legs.
 
 
 ## Daily Trivia
 
-Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
- 1. Cherry MX Black
- 2. Cherry MX Blue
- 3. Cherry MX Red
- 4. Cherry MX Brown
+How many bits make up the significand portion of a single precision floating point number?
+ 1. 53
+ 2. 15
+ 3. 8
+ 4. 23
 
 <details>
   <summary>Answer</summary>
-  Cherry MX Blue
+  23
 </details>
 
 
