@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was the strawberry sad? Its parents were in a jam.
+What did the Buffalo say to his little boy when he dropped him off at school? Bison.
 
 
 ## Daily Trivia
 
-What port does HTTP run on?
- 1. 53
- 2. 80
- 3. 443
- 4. 23
+What was the first Android version specifically optimized for tablets?
+ 1. Eclair
+ 2. Froyo
+ 3. Marshmellow
+ 4. Honeycomb
 
 <details>
   <summary>Answer</summary>
-  80
+  Honeycomb
 </details>
 
 
