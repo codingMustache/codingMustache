@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you get two whales in a car? Start in England and drive West.
+Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor.
 
 
 ## Daily Trivia
 
-What is the most preferred image format used for logos in the Wikimedia database?
- 1. .svg
- 2. .jpeg
- 3. .png
- 4. .gif
+The Windows OS was delevoped by which company?
+ 1. IBM
+ 2. Nokia
+ 3. Apple
+ 4. Microsoft
 
 <details>
   <summary>Answer</summary>
-  .svg
+  Microsoft
 </details>
 
 
