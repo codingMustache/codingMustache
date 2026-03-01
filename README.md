@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the Buffalo say to his little boy when he dropped him off at school? Bison.
+Someone asked me, what's the ninth letter of the alphabet? It was a complete guess, but I was right.
 
 
 ## Daily Trivia
 
-What was the first Android version specifically optimized for tablets?
- 1. Eclair
- 2. Froyo
- 3. Marshmellow
- 4. Honeycomb
+Which of the following is the oldest of these computers by release date?
+ 1. Commodore 64
+ 2. TRS-80
+ 3. Apple 3
+ 4. ZX Spectrum
 
 <details>
   <summary>Answer</summary>
-  Honeycomb
+  TRS-80
 </details>
 
 
