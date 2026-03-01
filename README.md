@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the fireman wear red, white, and blue suspenders? To hold his pants up.
+I made a belt out of watches once... It was a waist of time.
 
 
 ## Daily Trivia
 
-The C programming language was created by this American computer scientist. 
- 1. Tim Berners Lee
- 2. al-Khwārizmī
- 3. Willis Ware
- 4. Dennis Ritchie
+What programming language was GitHub written in?
+ 1. JavaScript
+ 2. Ruby
+ 3. Python
+ 4. Lua
 
 <details>
   <summary>Answer</summary>
-  Dennis Ritchie
+  Ruby
 </details>
 
 
