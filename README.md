@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I just got fired from a florist, apparently I took too many leaves.
+Two satellites decided to get married. The wedding wasn't much, but the reception was incredible.
 
 
 ## Daily Trivia
 
-Lenovo acquired IBM&#039;s personal computer division, including the ThinkPad line of laptops and tablets, in what year?
- 1. 1999
- 2. 2002
- 3. 2008
- 4. 2005
+According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:
+ 1. A&#039;B&#039;
+ 2. AB&#039; + AB
+ 3. A&#039; + B&#039;
+ 4. A&#039;B + B&#039;A
 
 <details>
   <summary>Answer</summary>
-  2005
+  A&#039; + B&#039;
 </details>
 
 
