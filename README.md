@@ -4,20 +4,26 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I applied to be a doorman but didn't get the job due to lack of experience. That surprised me, I thought it was an entry level position.
+Wife: Honey I’m pregnant.
+
+Me: Well…. what do we do now?
+
+Wife: Well, I guess we should go to a baby doctor.
+
+Me: Hm.. I think I’d be a lot more comfortable going to an adult doctor.
 
 
 ## Daily Trivia
 
-The programming language &#039;Swift&#039; was created to replace what other programming language?
- 1. C#
- 2. Ruby
- 3. C++
- 4. Objective-C
+What is the name of the process that sends one qubit of information using two bits of classical information?
+ 1. Quantum Programming
+ 2. Quantum Teleportation
+ 3. Quantum Entanglement
+ 4. Super Dense Coding
 
 <details>
   <summary>Answer</summary>
-  Objective-C
+  Quantum Teleportation
 </details>
 
 
