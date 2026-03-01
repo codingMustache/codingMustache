@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How come the stadium got hot after the game? Because all of the fans left.
+Why is the ocean always blue? Because the shore never waves back.
 
 
 ## Daily Trivia
 
-Which of the following is the oldest of these computers by release date?
- 1. Commodore 64
- 2. TRS-80
- 3. ZX Spectrum
- 4. Apple 3
+Who is the founder of Palantir?
+ 1. Mark Zuckerberg
+ 2. Marc Benioff
+ 3. Jack Dorsey
+ 4. Peter Thiel
 
 <details>
   <summary>Answer</summary>
-  TRS-80
+  Peter Thiel
 </details>
 
 
