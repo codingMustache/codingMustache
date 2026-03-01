@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Writing with a broken pencil is pointless.
+I just read a book about Stockholm syndrome. It was pretty bad at first, but by the end I liked it.
 
 
 ## Daily Trivia
 
-What is the code name for the mobile operating system Android 7.0?
- 1. Ice Cream Sandwich
- 2. Jelly Bean
- 3. Marshmallow
- 4. Nougat
+What was the name of the image that features as the default background wallpaper for Windows XP?
+ 1. Tulips
+ 2. Azul
+ 3. Bliss
+ 4. Red moon desert
 
 <details>
   <summary>Answer</summary>
-  Nougat
+  Bliss
 </details>
 
 
