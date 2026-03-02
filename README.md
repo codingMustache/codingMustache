@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you do when your bunny gets wet? You get your hare dryer.
+I went to a Foo Fighters Concert once... It was Everlong...
 
 
 ## Daily Trivia
 
-While Apple was formed in California, in which western state was Microsoft founded?
- 1. Colorado
- 2. New Mexico
- 3. Arizona
- 4. Washington
+What does RAID stand for?
+ 1. Range of Applications with Identical Designs
+ 2. Redundant Array of Independent Disks
+ 3. Rapid Access for Indexed Devices
+ 4. Randomized Abstract Identification Description
 
 <details>
   <summary>Answer</summary>
-  New Mexico
+  Redundant Array of Independent Disks
 </details>
 
 
