@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do prisoners use to call each other? Cell phones.
+Why do trees seem suspicious on sunny days? Dunno, they're just a bit shady.
 
 
 ## Daily Trivia
 
-What does the &#039;S&#039; in the RSA encryption algorithm stand for?
- 1. Stable
- 2. Secure
- 3. Shamir
- 4. Schottky
+Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
+ 1. Four Years
+ 2. Two Years
+ 3. Year
+ 4. Eight Years
 
 <details>
   <summary>Answer</summary>
-  Shamir
+  Year
 </details>
 
 
