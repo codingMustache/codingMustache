@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are basketball players messy eaters? Because they are always dribbling.
+Why do bees have sticky hair? Because they use honey combs!
 
 
 ## Daily Trivia
 
-Which data structure does FILO apply to?
- 1. Queue
- 2. Stack
- 3. Heap
- 4. Tree
+In networking, what does OSPF stand for?
+ 1. Order State Part First
+ 2. Open Shortest Path First
+ 3. Order Sense Ping Find
+ 4. Open Signal Path Finder
 
 <details>
   <summary>Answer</summary>
-  Stack
+  Open Shortest Path First
 </details>
 
 
