@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Can February march? No, but April may.
+I've got a joke about vegetables for you... but it's a bit corny.
 
 
 ## Daily Trivia
 
-What programming language was GitHub written in?
- 1. Ruby
- 2. Lua
- 3. Python
- 4. JavaScript
+Generally, which component of a computer draws the most power?
+ 1. Video Card
+ 2. Power Supply
+ 3. Processor
+ 4. Hard Drive
 
 <details>
   <summary>Answer</summary>
-  Ruby
+  Video Card
 </details>
 
 
