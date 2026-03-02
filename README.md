@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear the news? FedEx and UPS are merging. They’re going to go by the name Fed-Up from now on.
+Did you hear that the police have a warrant out on a midget psychic ripping people off? It reads “Small medium at large.”
 
 
 ## Daily Trivia
 
-Which operating system was released first?
- 1. Windows
- 2. Mac OS
- 3. Linux
- 4. OS/2
+What is largely considered the precursor to the USB format?
+ 1. PS/2
+ 2. FireWire
+ 3. PCIe
+ 4. SVGA
 
 <details>
   <summary>Answer</summary>
-  Mac OS
+  PS/2
 </details>
 
 
