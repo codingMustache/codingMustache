@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I’ll tell you something about German sausages, they’re the wurst
+“Hold on, I have something in my shoe”  “I’m pretty sure it’s a foot”
 
 
 ## Daily Trivia
 
-What is the most preferred image format used for logos in the Wikimedia database?
- 1. .png
- 2. .svg
- 3. .jpeg
- 4. .gif
+Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
+ 1. Shellshock
+ 2. Shellscript
+ 3. Corrupted Blood
+ 4. Heartbleed
 
 <details>
   <summary>Answer</summary>
-  .svg
+  Heartbleed
 </details>
 
 
