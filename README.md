@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Feeling pretty proud of myself. The Sesame Street puzzle I bought said 3-5 years, but I finished it in 18 months.
+I thought about going on an all-almond diet. But that's just nuts.
 
 
 ## Daily Trivia
 
-What is the name of the process that sends one qubit of information using two bits of classical information?
- 1. Super Dense Coding
- 2. Quantum Teleportation
- 3. Quantum Entanglement
- 4. Quantum Programming
+.at is the top-level domain for what country?
+ 1. Argentina
+ 2. Australia
+ 3. Angola
+ 4. Austria
 
 <details>
   <summary>Answer</summary>
-  Quantum Teleportation
+  Austria
 </details>
 
 
