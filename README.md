@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the judge say to the dentist? Do you swear to pull the tooth, the whole tooth and nothing but the tooth?
+There's not really any training for garbagemen. They just pick things up as they go.
 
 
 ## Daily Trivia
 
-Which of these programming languages is a low-level language?
- 1. Python
- 2. C#
- 3. Pascal
- 4. Assembly
+Which operating system was released first?
+ 1. OS/2
+ 2. Linux
+ 3. Mac OS
+ 4. Windows
 
 <details>
   <summary>Answer</summary>
-  Assembly
+  Mac OS
 </details>
 
 
