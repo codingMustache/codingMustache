@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear that the police have a warrant out on a midget psychic ripping people off? It reads “Small medium at large.”
+I got an A on my origami assignment when I turned my paper into my teacher
 
 
 ## Daily Trivia
 
-What is largely considered the precursor to the USB format?
- 1. PS/2
- 2. FireWire
- 3. PCIe
- 4. SVGA
+Which RAID array type is associated with data mirroring?
+ 1. RAID 0
+ 2. RAID 10
+ 3. RAID 1
+ 4. RAID 5
 
 <details>
   <summary>Answer</summary>
-  PS/2
+  RAID 1
 </details>
 
 
