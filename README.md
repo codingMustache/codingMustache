@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the chicken get a penalty? For fowl play.
+What do you call a snake who builds houses? A boa constructor!
 
 
 ## Daily Trivia
 
-Which of the following is NOT a computer science algorithm?
- 1. Bubble Sort
- 2. Merge Sort
- 3. Quick Sort
- 4. Float Sort
+Who is the founder of Palantir?
+ 1. Peter Thiel
+ 2. Jack Dorsey
+ 3. Marc Benioff
+ 4. Mark Zuckerberg
 
 <details>
   <summary>Answer</summary>
-  Float Sort
+  Peter Thiel
 </details>
 
 
