@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How come the stadium got hot after the game? Because all of the fans left.
+I’ll tell you something about German sausages, they’re the wurst
 
 
 ## Daily Trivia
 
-What is the domain name for the country Tuvalu?
- 1. .tv
- 2. .tu
- 3. .tt
- 4. .tl
+What is the most preferred image format used for logos in the Wikimedia database?
+ 1. .png
+ 2. .svg
+ 3. .jpeg
+ 4. .gif
 
 <details>
   <summary>Answer</summary>
-  .tv
+  .svg
 </details>
 
 
