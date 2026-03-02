@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-You know that cemetery up the road? People are dying to get in there.
+Somebody stole my Microsoft Office and they're going to pay - you have my Word.
 
 
 ## Daily Trivia
 
-Which data structure does FILO apply to?
- 1. Stack
- 2. Tree
- 3. Heap
- 4. Queue
+What vulnerability ranked #1 on the OWASP Top 10 in 2013?
+ 1. Insecure Direct Object References
+ 2. Broken Authentication
+ 3. Cross-Site Scripting
+ 4. Injection 
 
 <details>
   <summary>Answer</summary>
-  Stack
+  Injection 
 </details>
 
 
