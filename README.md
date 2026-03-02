@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Two fish are in a tank, one turns to the other and says, "how do you drive this thing?"
+Did you hear that David lost his ID in prague? Now we just have to call him Dav.
 
 
 ## Daily Trivia
 
-In programming, what do you call functions with the same name but different implementations?
- 1. Overriding
- 2. Inheriting
- 3. Overloading
- 4. Abstracting
+The name of technology company HP stands for what?
+ 1. Howard Packmann
+ 2. Husker-Pollosk
+ 3. Hewlett-Packard
+ 4. Hellman-Pohl
 
 <details>
   <summary>Answer</summary>
-  Overloading
+  Hewlett-Packard
 </details>
 
 
