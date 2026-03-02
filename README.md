@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I went on a date last night with a girl from the zoo. It was great. She’s a keeper.
+What did the judge say to the dentist? Do you swear to pull the tooth, the whole tooth and nothing but the tooth?
 
 
 ## Daily Trivia
 
-The name of technology company HP stands for what?
- 1. Howard Packmann
- 2. Husker-Pollosk
- 3. Hewlett-Packard
- 4. Hellman-Pohl
+Which of these programming languages is a low-level language?
+ 1. Python
+ 2. C#
+ 3. Pascal
+ 4. Assembly
 
 <details>
   <summary>Answer</summary>
-  Hewlett-Packard
+  Assembly
 </details>
 
 
