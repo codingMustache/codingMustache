@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I went to a Foo Fighters Concert once... It was Everlong...
+Why are basketball players messy eaters? Because they are always dribbling.
 
 
 ## Daily Trivia
 
-What does RAID stand for?
- 1. Range of Applications with Identical Designs
- 2. Redundant Array of Independent Disks
- 3. Rapid Access for Indexed Devices
- 4. Randomized Abstract Identification Description
+Which data structure does FILO apply to?
+ 1. Queue
+ 2. Stack
+ 3. Heap
+ 4. Tree
 
 <details>
   <summary>Answer</summary>
-  Redundant Array of Independent Disks
+  Stack
 </details>
 
 
