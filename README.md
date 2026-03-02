@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a fat psychic? A four-chin teller.
+Did you hear the news? FedEx and UPS are merging. They’re going to go by the name Fed-Up from now on.
 
 
 ## Daily Trivia
 
-What is the main CPU is the Sega Mega Drive / Sega Genesis?
- 1. Zilog Z80
- 2. Yamaha YM2612
- 3. Intel 8088
- 4. Motorola 68000
+Which operating system was released first?
+ 1. Windows
+ 2. Mac OS
+ 3. Linux
+ 4. OS/2
 
 <details>
   <summary>Answer</summary>
-  Motorola 68000
+  Mac OS
 </details>
 
 
