@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Sgt.: Commissar! Commissar! The troops are revolting! Commissar: Well, you’re pretty repulsive yourself.
+My friend told me that pepper is the best seasoning for a roast, but I took it with a grain of salt.
 
 
 ## Daily Trivia
 
-What does RAID stand for?
- 1. Rapid Access for Indexed Devices
- 2. Range of Applications with Identical Designs
- 3. Randomized Abstract Identification Description
- 4. Redundant Array of Independent Disks
+How many values can a single byte represent?
+ 1. 8
+ 2. 1024
+ 3. 1
+ 4. 256
 
 <details>
   <summary>Answer</summary>
-  Redundant Array of Independent Disks
+  256
 </details>
 
 
