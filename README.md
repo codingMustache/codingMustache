@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-If you’re struggling to think of what to get someone for Christmas. Get them a fridge and watch their face light up when they open it.
+You know that cemetery up the road? People are dying to get in there.
 
 
 ## Daily Trivia
 
-What was the name given to Android 4.3?
- 1. Jelly Bean
- 2. Lollipop
- 3. Nutella
- 4. Froyo
+Which data structure does FILO apply to?
+ 1. Stack
+ 2. Tree
+ 3. Heap
+ 4. Queue
 
 <details>
   <summary>Answer</summary>
-  Jelly Bean
+  Stack
 </details>
 
 
