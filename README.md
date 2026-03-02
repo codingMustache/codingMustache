@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-There's not really any training for garbagemen. They just pick things up as they go.
+If you’re struggling to think of what to get someone for Christmas. Get them a fridge and watch their face light up when they open it.
 
 
 ## Daily Trivia
 
-Which operating system was released first?
- 1. OS/2
- 2. Linux
- 3. Mac OS
- 4. Windows
+What was the name given to Android 4.3?
+ 1. Jelly Bean
+ 2. Lollipop
+ 3. Nutella
+ 4. Froyo
 
 <details>
   <summary>Answer</summary>
-  Mac OS
+  Jelly Bean
 </details>
 
 
