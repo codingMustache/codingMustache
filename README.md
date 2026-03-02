@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-"Hey, dad, did you get a haircut?" "No, I got them all cut."
+What do you do when your bunny gets wet? You get your hare dryer.
 
 
 ## Daily Trivia
 
-How long is an IPv6 address?
- 1. 32 bits
- 2. 64 bits
- 3. 128 bits
- 4. 128 bytes
+While Apple was formed in California, in which western state was Microsoft founded?
+ 1. Colorado
+ 2. New Mexico
+ 3. Arizona
+ 4. Washington
 
 <details>
   <summary>Answer</summary>
-  128 bits
+  New Mexico
 </details>
 
 
