@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a snake who builds houses? A boa constructor!
+Why is it so windy inside an arena? All those fans.
 
 
 ## Daily Trivia
 
-Who is the founder of Palantir?
- 1. Peter Thiel
- 2. Jack Dorsey
- 3. Marc Benioff
- 4. Mark Zuckerberg
+What was the name of the first Bulgarian personal computer?
+ 1. IMKO-1
+ 2. IZOT 1030
+ 3. Pravetz 8D
+ 4. Pravetz 82
 
 <details>
   <summary>Answer</summary>
-  Peter Thiel
+  IMKO-1
 </details>
 
 
