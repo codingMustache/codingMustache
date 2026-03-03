@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the runner who was criticized? He just took it in stride
+How many optometrists does it take to change a light bulb? 1 or 2? 1... or 2?
 
 
 ## Daily Trivia
 
-The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
- 1. Taiwan
- 2. China (People&#039;s Republic of)
- 3. Germany
- 4. United States
+The programming language &#039;Swift&#039; was created to replace what other programming language?
+ 1. Ruby
+ 2. Objective-C
+ 3. C#
+ 4. C++
 
 <details>
   <summary>Answer</summary>
-  Taiwan
+  Objective-C
 </details>
 
 
