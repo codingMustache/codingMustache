@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My sister bet me $15 that I couldn't build a car out of spaghetti. You should have seen the look on her face as I drove pasta.
+I got fired from a florist, apparently I took too many leaves.
 
 
 ## Daily Trivia
 
-What did the name of the Tor Anonymity Network orignially stand for?
- 1. The Ominous Router
- 2. The Orange Router
- 3. The Only Router
- 4. The Onion Router
+In computing terms, typically what does CLI stand for?
+ 1. Control Line Interface
+ 2. Common Language Input
+ 3. Common Language Interface
+ 4. Command Line Interface
 
 <details>
   <summary>Answer</summary>
-  The Onion Router
+  Command Line Interface
 </details>
 
 
