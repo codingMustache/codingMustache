@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Animal Fact #25: Most bobcats are not named bob.
+My friend told me that pepper is the best seasoning for a roast, but I took it with a grain of salt.
 
 
 ## Daily Trivia
 
-In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
- 1. echo &quot;Hello World&quot;
- 2. printf(&quot;Hello World&quot;)
- 3. print(&quot;Hello World&quot;)
- 4. console.log(&quot;Hello World&quot;)
+What was the name given to Android 4.3?
+ 1. Lollipop
+ 2. Nutella
+ 3. Jelly Bean
+ 4. Froyo
 
 <details>
   <summary>Answer</summary>
-  print(&quot;Hello World&quot;)
+  Jelly Bean
 </details>
 
 
