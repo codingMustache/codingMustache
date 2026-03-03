@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Me and my mates are in a band called Duvet. We're a cover band.
+Did you hear about the runner who was criticized? He just took it in stride
 
 
 ## Daily Trivia
 
-Dutch computer scientist Mark Overmars is known for creating which game development engine?
- 1. Stencyl
- 2. Construct
- 3. Torque 2D
- 4. Game Maker
+The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
+ 1. Taiwan
+ 2. China (People&#039;s Republic of)
+ 3. Germany
+ 4. United States
 
 <details>
   <summary>Answer</summary>
-  Game Maker
+  Taiwan
 </details>
 
 
