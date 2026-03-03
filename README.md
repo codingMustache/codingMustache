@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What musical instrument is found in the bathroom? A tuba toothpaste.
+What do you call a crowd of chess players bragging about their wins in a hotel lobby? Chess nuts boasting in an open foyer.
 
 
 ## Daily Trivia
 
-According to the International System of Units, how many bytes are in a kilobyte of RAM?
- 1. 1024
- 2. 512
- 3. 1000
- 4. 500
+Which of the following languages is used as a scripting language in the Unity 3D game engine?
+ 1. Java
+ 2. Objective-C
+ 3. C++
+ 4. C#
 
 <details>
   <summary>Answer</summary>
-  1000
+  C#
 </details>
 
 
