@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I went to a Foo Fighters Concert once... It was Everlong...
+I wanted to be a tailor but I didn't suit the job
 
 
 ## Daily Trivia
 
-Which data structure does FILO apply to?
- 1. Stack
- 2. Heap
- 3. Queue
- 4. Tree
+What is known as &quot;the brain&quot; of the Computer?
+ 1. Motherboard
+ 2. Keyboard
+ 3. Graphics Processing Unit
+ 4. Central Processing Unit
 
 <details>
   <summary>Answer</summary>
-  Stack
+  Central Processing Unit
 </details>
 
 
