@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the fish say when it swam into a wall? Damn!
+Two satellites decided to get married. The wedding wasn't much, but the reception was incredible.
 
 
 ## Daily Trivia
 
-What is the domain name for the country Tuvalu?
- 1. .tu
- 2. .tt
- 3. .tl
- 4. .tv
+Who is the original author of the realtime physics engine called PhysX?
+ 1. AMD
+ 2. Nvidia
+ 3. NovodeX
+ 4. Ageia
 
 <details>
   <summary>Answer</summary>
-  .tv
+  NovodeX
 </details>
 
 
