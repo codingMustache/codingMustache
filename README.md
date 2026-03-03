@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What’s the difference between an African elephant and an Indian elephant? About 5000 miles.
+Never take advice from electrons. They are always negative.
 
 
 ## Daily Trivia
 
-What is the name of the default theme that is installed with Windows XP?
- 1. Bliss
- 2. Whistler
- 3. Luna
- 4. Neptune
+Whistler was the codename of this Microsoft Operating System.
+ 1. Windows 95
+ 2. Windows XP
+ 3. Windows 7
+ 4. Windows 2000
 
 <details>
   <summary>Answer</summary>
-  Luna
+  Windows XP
 </details>
 
 
