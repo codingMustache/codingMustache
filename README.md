@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What has ears but cannot hear? A field of corn.
+My sister bet me $15 that I couldn't build a car out of spaghetti. You should have seen the look on her face as I drove pasta.
 
 
 ## Daily Trivia
 
-Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
- 1. Eight Years
- 2. Two Years
- 3. Four Years
- 4. Year
+What did the name of the Tor Anonymity Network orignially stand for?
+ 1. The Ominous Router
+ 2. The Orange Router
+ 3. The Only Router
+ 4. The Onion Router
 
 <details>
   <summary>Answer</summary>
-  Year
+  The Onion Router
 </details>
 
 
