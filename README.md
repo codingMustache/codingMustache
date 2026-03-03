@@ -4,20 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many optometrists does it take to change a light bulb? 1 or 2? 1... or 2?
+Why did Mozart kill all his chickens?
+Because when he asked them who the best composer was, they'd all say "Bach bach bach!"
+
 
 
 ## Daily Trivia
 
-The programming language &#039;Swift&#039; was created to replace what other programming language?
- 1. Ruby
- 2. Objective-C
- 3. C#
- 4. C++
+How many bits make up the significand portion of a single precision floating point number?
+ 1. 23
+ 2. 53
+ 3. 8
+ 4. 15
 
 <details>
   <summary>Answer</summary>
-  Objective-C
+  23
 </details>
 
 
