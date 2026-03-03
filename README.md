@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I don't trust stairs. They're always up to something.
+What has ears but cannot hear? A field of corn.
 
 
 ## Daily Trivia
 
-Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
- 1. Shellshock
- 2. Heartbleed
- 3. Corrupted Blood
- 4. Shellscript
+Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
+ 1. Eight Years
+ 2. Two Years
+ 3. Four Years
+ 4. Year
 
 <details>
   <summary>Answer</summary>
-  Heartbleed
+  Year
 </details>
 
 
