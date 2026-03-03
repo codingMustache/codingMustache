@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My friend told me that pepper is the best seasoning for a roast, but I took it with a grain of salt.
+Dermatologists are always in a hurry. They spend all day making rash decisions. 
 
 
 ## Daily Trivia
 
-What was the name given to Android 4.3?
- 1. Lollipop
- 2. Nutella
- 3. Jelly Bean
- 4. Froyo
+What was the name of the first Bulgarian personal computer?
+ 1. IMKO-1
+ 2. IZOT 1030
+ 3. Pravetz 8D
+ 4. Pravetz 82
 
 <details>
   <summary>Answer</summary>
-  Jelly Bean
+  IMKO-1
 </details>
 
 
