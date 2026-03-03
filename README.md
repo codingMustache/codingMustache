@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I had a pair of racing snails. I removed their shells to make them more aerodynamic, but they became sluggish.
+What does a pirate pay for his corn? A buccaneer!
 
 
 ## Daily Trivia
 
-In computing terms, typically what does CLI stand for?
- 1. Control Line Interface
- 2. Common Language Input
- 3. Common Language Interface
- 4. Command Line Interface
+Which of these is not a layer in the OSI model for data communications?
+ 1. Transport Layer
+ 2. Physical Layer
+ 3. Application Layer
+ 4. Connection Layer
 
 <details>
   <summary>Answer</summary>
-  Command Line Interface
+  Connection Layer
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **11 days** since this server shutdown
+Its been **12 days** since this server shutdown
