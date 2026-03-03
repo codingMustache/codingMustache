@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do the trees get on the internet? They log on.
+How does a scientist freshen their breath? With experi-mints!
 
 
 ## Daily Trivia
 
-What is the domain name for the country Tuvalu?
- 1. .tl
- 2. .tt
- 3. .tv
- 4. .tu
+Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
+ 1. eBay
+ 2. Overstock
+ 3. Shopify
+ 4. Amazon
 
 <details>
   <summary>Answer</summary>
-  .tv
+  Amazon
 </details>
 
 
