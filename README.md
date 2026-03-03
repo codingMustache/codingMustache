@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I thought about going on an all-almond diet. But that's just nuts.
+“My Dog has no nose.” “How does he smell?” “Awful”
 
 
 ## Daily Trivia
 
-In web design, what does CSS stand for?
- 1. Computer Style Sheet
- 2. Corrective Style Sheet
- 3. Counter Strike: Source
- 4. Cascading Style Sheet
+What major programming language does Unreal Engine 4 use?
+ 1. C++
+ 2. ECMAScript
+ 3. C#
+ 4. Assembly
 
 <details>
   <summary>Answer</summary>
-  Cascading Style Sheet
+  C++
 </details>
 
 
