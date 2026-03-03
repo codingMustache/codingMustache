@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was the shirt happy to hang around the tank top? Because it was armless
+A man got hit in the head with a can of Coke, but he was alright because it was a soft drink.
 
 
 ## Daily Trivia
 
-What is the most preferred image format used for logos in the Wikimedia database?
- 1. .svg
- 2. .jpeg
- 3. .gif
- 4. .png
+Which programming language shares its name with an island in Indonesia?
+ 1. Python
+ 2. C
+ 3. Jakarta
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  .svg
+  Java
 </details>
 
 
