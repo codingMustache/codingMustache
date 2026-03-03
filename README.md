@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did one wall say to the other wall? I'll meet you at the corner!
+What do you call a bee that lives in America? A USB.
 
 
 ## Daily Trivia
 
-On Twitter, what was the original character limit for a Tweet?
- 1. 160
- 2. 120
- 3. 140
- 4. 100
+The name of technology company HP stands for what?
+ 1. Hewlett-Packard
+ 2. Hellman-Pohl
+ 3. Howard Packmann
+ 4. Husker-Pollosk
 
 <details>
   <summary>Answer</summary>
-  140
+  Hewlett-Packard
 </details>
 
 
