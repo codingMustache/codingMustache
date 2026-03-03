@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do you never see elephants hiding in trees? Because they're so good at it.
+I don't trust stairs. They're always up to something.
 
 
 ## Daily Trivia
 
-In computing terms, typically what does CLI stand for?
- 1. Common Language Interface
- 2. Command Line Interface
- 3. Control Line Interface
- 4. Common Language Input
+Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
+ 1. Shellshock
+ 2. Heartbleed
+ 3. Corrupted Blood
+ 4. Shellscript
 
 <details>
   <summary>Answer</summary>
-  Command Line Interface
+  Heartbleed
 </details>
 
 
