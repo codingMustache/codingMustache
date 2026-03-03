@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why is it so windy inside an arena? All those fans.
+Why is Peter Pan always flying? Because he Neverlands.
 
 
 ## Daily Trivia
 
-What was the name of the first Bulgarian personal computer?
- 1. IMKO-1
- 2. IZOT 1030
- 3. Pravetz 8D
- 4. Pravetz 82
+Which of these names was an actual codename for a cancelled Microsoft project?
+ 1. Saturn
+ 2. Enceladus
+ 3. Pollux
+ 4. Neptune
 
 <details>
   <summary>Answer</summary>
-  IMKO-1
+  Neptune
 </details>
 
 
