@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the A go to the bathroom and come out as an E? Because he had a vowel movement.
+What did the fish say when it swam into a wall? Damn!
 
 
 ## Daily Trivia
 
-Which computer language would you associate Django framework with?
- 1. Python
- 2. Java
- 3. C++
- 4. C#
+What is the domain name for the country Tuvalu?
+ 1. .tu
+ 2. .tt
+ 3. .tl
+ 4. .tv
 
 <details>
   <summary>Answer</summary>
-  Python
+  .tv
 </details>
 
 
