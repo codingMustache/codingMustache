@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the m&m go to school? Because it wanted to be a Smartie!
+I don't trust sushi, there's something fishy about it.
 
 
 ## Daily Trivia
 
-When Gmail first launched, how much storage did it provide for your email?
- 1. 1GB
- 2. Unlimited
- 3. 5GB
- 4. 512MB
+The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
+ 1. HD Graphics 7000
+ 2. HD Graphics 700 
+ 3. HD Graphics 600
+ 4. HD Graphics 500
 
 <details>
   <summary>Answer</summary>
-  1GB
+  HD Graphics 500
 </details>
 
 
