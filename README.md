@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I don't trust sushi, there's something fishy about it.
+Why do you never see elephants hiding in trees? Because they're so good at it.
 
 
 ## Daily Trivia
 
-The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
- 1. HD Graphics 7000
- 2. HD Graphics 700 
- 3. HD Graphics 600
- 4. HD Graphics 500
+In computing terms, typically what does CLI stand for?
+ 1. Common Language Interface
+ 2. Command Line Interface
+ 3. Control Line Interface
+ 4. Common Language Input
 
 <details>
   <summary>Answer</summary>
-  HD Graphics 500
+  Command Line Interface
 </details>
 
 
