@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What does a pirate pay for his corn? A buccaneer!
+“My Dog has no nose.” “How does he smell?” “Awful”
 
 
 ## Daily Trivia
 
-Which of these is not a layer in the OSI model for data communications?
- 1. Transport Layer
- 2. Physical Layer
- 3. Application Layer
- 4. Connection Layer
+How many values can a single byte represent?
+ 1. 256
+ 2. 1024
+ 3. 1
+ 4. 8
 
 <details>
   <summary>Answer</summary>
-  Connection Layer
+  256
 </details>
 
 
