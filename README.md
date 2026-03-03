@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why is Peter Pan always flying? Because he Neverlands.
+I ate a clock yesterday. It was so time consuming.
 
 
 ## Daily Trivia
 
-Which of these names was an actual codename for a cancelled Microsoft project?
- 1. Saturn
- 2. Enceladus
- 3. Pollux
- 4. Neptune
+The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
+ 1. China (People&#039;s Republic of)
+ 2. Germany
+ 3. Taiwan
+ 4. United States
 
 <details>
   <summary>Answer</summary>
-  Neptune
+  Taiwan
 </details>
 
 
