@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a crowd of chess players bragging about their wins in a hotel lobby? Chess nuts boasting in an open foyer.
+I had a pair of racing snails. I removed their shells to make them more aerodynamic, but they became sluggish.
 
 
 ## Daily Trivia
 
-Which of the following languages is used as a scripting language in the Unity 3D game engine?
- 1. Java
- 2. Objective-C
- 3. C++
- 4. C#
+In computing terms, typically what does CLI stand for?
+ 1. Control Line Interface
+ 2. Common Language Input
+ 3. Common Language Interface
+ 4. Command Line Interface
 
 <details>
   <summary>Answer</summary>
-  C#
+  Command Line Interface
 </details>
 
 
