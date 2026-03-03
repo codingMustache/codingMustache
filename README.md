@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I wanted to be a tailor but I didn't suit the job
+Why was the shirt happy to hang around the tank top? Because it was armless
 
 
 ## Daily Trivia
 
-What is known as &quot;the brain&quot; of the Computer?
- 1. Motherboard
- 2. Keyboard
- 3. Graphics Processing Unit
- 4. Central Processing Unit
+What is the most preferred image format used for logos in the Wikimedia database?
+ 1. .svg
+ 2. .jpeg
+ 3. .gif
+ 4. .png
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  .svg
 </details>
 
 
