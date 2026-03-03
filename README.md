@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do bees hum? Because they don't know the words.
+I went to a Foo Fighters Concert once... It was Everlong...
 
 
 ## Daily Trivia
 
-Whistler was the codename of this Microsoft Operating System.
- 1. Windows 2000
- 2. Windows 7
- 3. Windows 95
- 4. Windows XP
+Which data structure does FILO apply to?
+ 1. Stack
+ 2. Heap
+ 3. Queue
+ 4. Tree
 
 <details>
   <summary>Answer</summary>
-  Windows XP
+  Stack
 </details>
 
 
