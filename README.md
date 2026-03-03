@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A man got hit in the head with a can of Coke, but he was alright because it was a soft drink.
+I used to work for a soft drink can crusher. It was soda pressing.
 
 
 ## Daily Trivia
 
-Which programming language shares its name with an island in Indonesia?
- 1. Python
- 2. C
- 3. Jakarta
- 4. Java
+How many bytes are in a single Kibibyte?
+ 1. 1024
+ 2. 1240
+ 3. 1000
+ 4. 2400
 
 <details>
   <summary>Answer</summary>
-  Java
+  1024
 </details>
 
 
