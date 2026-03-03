@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Dermatologists are always in a hurry. They spend all day making rash decisions. 
+What do you call someone with no nose? Nobody knows.
 
 
 ## Daily Trivia
 
-What was the name of the first Bulgarian personal computer?
- 1. IMKO-1
- 2. IZOT 1030
- 3. Pravetz 8D
- 4. Pravetz 82
+Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
+ 1. Clipper Chip
+ 2. Nautilus
+ 3. Skipjack
+ 4. Enigma Machine
 
 <details>
   <summary>Answer</summary>
-  IMKO-1
+  Clipper Chip
 </details>
 
 
