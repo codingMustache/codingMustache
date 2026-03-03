@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Who did the wizard marry? His ghoul-friend
+Animal Fact #25: Most bobcats are not named bob.
 
 
 ## Daily Trivia
 
-What did the name of the Tor Anonymity Network orignially stand for?
- 1. The Only Router
- 2. The Orange Router
- 3. The Onion Router
- 4. The Ominous Router
+In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
+ 1. echo &quot;Hello World&quot;
+ 2. printf(&quot;Hello World&quot;)
+ 3. print(&quot;Hello World&quot;)
+ 4. console.log(&quot;Hello World&quot;)
 
 <details>
   <summary>Answer</summary>
-  The Onion Router
+  print(&quot;Hello World&quot;)
 </details>
 
 
