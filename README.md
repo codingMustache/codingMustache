@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I once lost a banana at court but then I appealed. 
+Why do scuba divers fall backwards into the water? Because if they fell forwards they’d still be in the boat.
 
 
 ## Daily Trivia
 
-What is the maximum value of a 32-bit signed binary integer?
- 1. 2,147,483,647
- 2. 255
- 3. 9,223,372,036,854,775,807
- 4. 2048
+When Gmail first launched, how much storage did it provide for your email?
+ 1. 1GB
+ 2. Unlimited
+ 3. 5GB
+ 4. 512MB
 
 <details>
   <summary>Answer</summary>
-  2,147,483,647
+  1GB
 </details>
 
 
