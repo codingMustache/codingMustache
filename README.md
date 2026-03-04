@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I wanted to be a tailor but I didn't suit the job
+Why was the picture sent to prison? It was framed.
 
 
 ## Daily Trivia
 
-.at is the top-level domain for what country?
- 1. Angola
- 2. Australia
- 3. Austria
- 4. Argentina
+According to the International System of Units, how many bytes are in a kilobyte of RAM?
+ 1. 512
+ 2. 1024
+ 3. 500
+ 4. 1000
 
 <details>
   <summary>Answer</summary>
-  Austria
+  1000
 </details>
 
 
