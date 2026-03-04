@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What has a bed that you can’t sleep in? A river.
+My new thesaurus is terrible. In fact, it's so bad, I'd say it's terrible.
 
 
 ## Daily Trivia
 
-The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
- 1. Acorn Computers
- 2. Commodore Business Machines
- 3. Amstrad PLC
- 4. Sinclair Research
+What port does HTTP run on?
+ 1. 53
+ 2. 443
+ 3. 23
+ 4. 80
 
 <details>
   <summary>Answer</summary>
-  Acorn Computers
+  80
 </details>
 
 
