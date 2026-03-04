@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the cow who jumped over the barbed wire fence? It was udder destruction.
+People who don't eat gluten are really going against the grain.
 
 
 ## Daily Trivia
 
-Which of these is not a key value of Agile software development?
- 1. Comprehensive documentation
- 2. Responding to change
- 3. Customer collaboration
- 4. Individuals and interactions
+In programming, the ternary operator is mostly defined with what symbol(s)?
+ 1. if then
+ 2. ??
+ 3. ?:
+ 4. ?
 
 <details>
   <summary>Answer</summary>
-  Comprehensive documentation
+  ?:
 </details>
 
 
