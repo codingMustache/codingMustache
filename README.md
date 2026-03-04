@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Two parrots are sitting on a perch. One turns to the other and asks, "do you smell fish?"
+R.I.P. boiled water. You will be mist.
 
 
 ## Daily Trivia
 
-What does AD stand for in relation to Windows Operating Systems? 
- 1. Active Directory
- 2. Alternative Drive
- 3. Automated Database
- 4. Active Department
+What does GHz stand for?
+ 1. Gigahertz
+ 2. Gigahatz
+ 3. Gigahetz
+ 4. Gigahotz
 
 <details>
   <summary>Answer</summary>
-  Active Directory
+  Gigahertz
 </details>
 
 
