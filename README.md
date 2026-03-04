@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the fireman wear red, white, and blue suspenders? To hold his pants up.
+What do I look like? A JOKE MACHINE!?
 
 
 ## Daily Trivia
 
-In computing, what does MIDI stand for?
- 1. Modular Interface of Digital Instruments
- 2. Musical Interface of Digital Instruments
- 3. Musical Instrument Data Interface
- 4. Musical Instrument Digital Interface
+Which of the following computer components can be built using only NAND gates?
+ 1. CPU
+ 2. RAM
+ 3. Register
+ 4. ALU
 
 <details>
   <summary>Answer</summary>
-  Musical Instrument Digital Interface
+  ALU
 </details>
 
 
