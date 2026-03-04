@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-To the person who stole my anti-depressant pills: I hope you're happy now.
+Where do you learn to make banana splits? At sundae school.
 
 
 ## Daily Trivia
 
-Nvidia&#039;s headquarters are based in which Silicon Valley city?
- 1. Santa Clara
- 2. Cupertino
- 3. Palo Alto
- 4. Mountain View
+What is the code name for the mobile operating system Android 7.0?
+ 1. Nougat
+ 2. Ice Cream Sandwich
+ 3. Jelly Bean
+ 4. Marshmallow
 
 <details>
   <summary>Answer</summary>
-  Santa Clara
+  Nougat
 </details>
 
 
