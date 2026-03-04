@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What are the strongest days of the week? Saturday and Sunday...the rest are weekdays.
+The invention of the wheel was what got things rolling
 
 
 ## Daily Trivia
 
-Which kind of algorithm is Ron Rivest not famous for creating?
- 1. Secret sharing scheme
- 2. Stream cipher
- 3. Asymmetric encryption
- 4. Hashing algorithm
+The teapot often seen in many 3D modeling applications is called what?
+ 1. Tennessee Teapot
+ 2. Pixar Teapot
+ 3. 3D Teapot
+ 4. Utah Teapot
 
 <details>
   <summary>Answer</summary>
-  Secret sharing scheme
+  Utah Teapot
 </details>
 
 
