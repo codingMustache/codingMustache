@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-If a child refuses to sleep during nap time, are they guilty of resisting a rest?
+Where did you learn to make ice cream? Sunday school.
 
 
 ## Daily Trivia
 
-What is the name of the default theme that is installed with Windows XP?
- 1. Bliss
- 2. Whistler
- 3. Luna
- 4. Neptune
+Which kind of algorithm is Ron Rivest not famous for creating?
+ 1. Hashing algorithm
+ 2. Asymmetric encryption
+ 3. Secret sharing scheme
+ 4. Stream cipher
 
 <details>
   <summary>Answer</summary>
-  Luna
+  Secret sharing scheme
 </details>
 
 
