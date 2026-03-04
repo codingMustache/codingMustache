@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-“My Dog has no nose.” “How does he smell?” “Awful”
+If a child refuses to sleep during nap time, are they guilty of resisting a rest?
 
 
 ## Daily Trivia
 
-What major programming language does Unreal Engine 4 use?
- 1. C++
- 2. ECMAScript
- 3. C#
- 4. Assembly
+What is the name of the default theme that is installed with Windows XP?
+ 1. Bliss
+ 2. Whistler
+ 3. Luna
+ 4. Neptune
 
 <details>
   <summary>Answer</summary>
-  C++
+  Luna
 </details>
 
 
