@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did one plate say to the other plate? Dinner is on me!
+I once lost a banana at court but then I appealed. 
 
 
 ## Daily Trivia
 
-In computing terms, typically what does CLI stand for?
- 1. Common Language Input
- 2. Command Line Interface
- 3. Control Line Interface
- 4. Common Language Interface
+What is the maximum value of a 32-bit signed binary integer?
+ 1. 2,147,483,647
+ 2. 255
+ 3. 9,223,372,036,854,775,807
+ 4. 2048
 
 <details>
   <summary>Answer</summary>
-  Command Line Interface
+  2,147,483,647
 </details>
 
 
