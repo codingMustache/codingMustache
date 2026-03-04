@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My new thesaurus is terrible. In fact, it's so bad, I'd say it's terrible.
+I wanted to be a tailor but I didn't suit the job
 
 
 ## Daily Trivia
 
-What port does HTTP run on?
- 1. 53
- 2. 443
- 3. 23
- 4. 80
+.at is the top-level domain for what country?
+ 1. Angola
+ 2. Australia
+ 3. Austria
+ 4. Argentina
 
 <details>
   <summary>Answer</summary>
-  80
+  Austria
 </details>
 
 
