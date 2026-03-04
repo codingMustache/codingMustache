@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-R.I.P. boiled water. You will be mist.
+What is red and smells like blue paint?
+Red paint!
 
 
 ## Daily Trivia
 
-What does GHz stand for?
- 1. Gigahertz
- 2. Gigahatz
- 3. Gigahetz
- 4. Gigahotz
+Which of these programming languages is a low-level language?
+ 1. Python
+ 2. C#
+ 3. Assembly
+ 4. Pascal
 
 <details>
   <summary>Answer</summary>
-  Gigahertz
+  Assembly
 </details>
 
 
