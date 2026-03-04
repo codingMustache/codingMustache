@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-People who don't eat gluten are really going against the grain.
+Why did the fireman wear red, white, and blue suspenders? To hold his pants up.
 
 
 ## Daily Trivia
 
-In programming, the ternary operator is mostly defined with what symbol(s)?
- 1. if then
- 2. ??
- 3. ?:
- 4. ?
+In computing, what does MIDI stand for?
+ 1. Modular Interface of Digital Instruments
+ 2. Musical Interface of Digital Instruments
+ 3. Musical Instrument Data Interface
+ 4. Musical Instrument Digital Interface
 
 <details>
   <summary>Answer</summary>
-  ?:
+  Musical Instrument Digital Interface
 </details>
 
 
