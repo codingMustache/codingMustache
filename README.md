@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Two dyslexics walk into a bra.
+What do you call a fashionable lawn statue with an excellent sense of rhythmn? A metro-gnome
 
 
 ## Daily Trivia
 
-What is the name of the default theme that is installed with Windows XP?
- 1. Whistler
- 2. Luna
- 3. Bliss
- 4. Neptune
+How many Hz does the video standard PAL support?
+ 1. 50
+ 2. 59
+ 3. 60
+ 4. 25
 
 <details>
   <summary>Answer</summary>
-  Luna
+  50
 </details>
 
 
