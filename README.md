@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I remember when I was a kid, I opened my fridge and noticed one of my vegetables were crying. I guess I have some emotional cabbage.
+Two parrots are sitting on a perch. One turns to the other and asks, "do you smell fish?"
 
 
 ## Daily Trivia
 
-What is the name of the default theme that is installed with Windows XP?
- 1. Luna
- 2. Bliss
- 3. Whistler
- 4. Neptune
+What does AD stand for in relation to Windows Operating Systems? 
+ 1. Active Directory
+ 2. Alternative Drive
+ 3. Automated Database
+ 4. Active Department
 
 <details>
   <summary>Answer</summary>
-  Luna
+  Active Directory
 </details>
 
 
