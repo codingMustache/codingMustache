@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do I look like? A JOKE MACHINE!?
+Two dyslexics walk into a bra.
 
 
 ## Daily Trivia
 
-Which of the following computer components can be built using only NAND gates?
- 1. CPU
- 2. RAM
- 3. Register
- 4. ALU
+What is the name of the default theme that is installed with Windows XP?
+ 1. Whistler
+ 2. Luna
+ 3. Bliss
+ 4. Neptune
 
 <details>
   <summary>Answer</summary>
-  ALU
+  Luna
 </details>
 
 
