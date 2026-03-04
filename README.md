@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-To the person who stole my anti-depressant pills: I hope you're happy now.
+A beekeeper was indicted after he confessed to years of stealing at work. They charged him with emBEEzlement
 
 
 ## Daily Trivia
 
-Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
- 1. 1.5 MHz
- 2. 44.1 kHz
- 3. 20.5 kHz
- 4. 32.0 kHz
+Which RAID array type is associated with data mirroring?
+ 1. RAID 5
+ 2. RAID 10
+ 3. RAID 1
+ 4. RAID 0
 
 <details>
   <summary>Answer</summary>
-  44.1 kHz
+  RAID 1
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **12 days** since this server shutdown
+Its been **13 days** since this server shutdown
