@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Two peanuts were walking down the street. One was a salted
+What is the best way to carve?
+Whittle by whittle.
 
 
 ## Daily Trivia
 
-According to the International System of Units, how many bytes are in a kilobyte of RAM?
- 1. 1024
- 2. 512
- 3. 500
- 4. 1000
+Which of these programming languages is a low-level language?
+ 1. Python
+ 2. C#
+ 3. Pascal
+ 4. Assembly
 
 <details>
   <summary>Answer</summary>
-  1000
+  Assembly
 </details>
 
 
