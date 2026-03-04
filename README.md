@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a fat psychic? A four-chin teller.
+What do you call a pig with three eyes? Piiig
 
 
 ## Daily Trivia
 
-Which programming language was developed by Sun Microsystems in 1995?
- 1. Python
- 2. Solaris OS
- 3. C++
- 4. Java
+How many bits make up the significand portion of a single precision floating point number?
+ 1. 8
+ 2. 23
+ 3. 53
+ 4. 15
 
 <details>
   <summary>Answer</summary>
-  Java
+  23
 </details>
 
 
