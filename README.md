@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the opera singer go sailing? They wanted to hit the high Cs.
+To the person who stole my anti-depressant pills: I hope you're happy now.
 
 
 ## Daily Trivia
 
-Which of the following is NOT a computer science algorithm?
- 1. Bubble Sort
- 2. Merge Sort
- 3. Float Sort
- 4. Quick Sort
+Nvidia&#039;s headquarters are based in which Silicon Valley city?
+ 1. Santa Clara
+ 2. Cupertino
+ 3. Palo Alto
+ 4. Mountain View
 
 <details>
   <summary>Answer</summary>
-  Float Sort
+  Santa Clara
 </details>
 
 
