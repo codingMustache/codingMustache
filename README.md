@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the m&m go to school? Because it wanted to be a Smartie!
+There’s a new type of broom out, it’s sweeping the nation.
 
 
 ## Daily Trivia
 
-The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
- 1. Tuvalu
- 2. Fiji
- 3. Marshall Islands
- 4. Micronesia
+What is largely considered the precursor to the USB format?
+ 1. PCIe
+ 2. PS/2
+ 3. SVGA
+ 4. FireWire
 
 <details>
   <summary>Answer</summary>
-  Micronesia
+  PS/2
 </details>
 
 
