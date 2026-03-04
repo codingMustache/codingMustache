@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why don't sharks eat clowns?  Because they taste funny.
+What is a vampire's favorite fruit? A blood orange.
 
 
 ## Daily Trivia
 
-What does GHz stand for?
- 1. Gigahotz
- 2. Gigahetz
- 3. Gigahatz
- 4. Gigahertz
+How many bytes are in a single Kibibyte?
+ 1. 2400
+ 2. 1000
+ 3. 1240
+ 4. 1024
 
 <details>
   <summary>Answer</summary>
-  Gigahertz
+  1024
 </details>
 
 
