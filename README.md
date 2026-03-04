@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a fashionable lawn statue with an excellent sense of rhythmn? A metro-gnome
+To the person who stole my anti-depressant pills: I hope you're happy now.
 
 
 ## Daily Trivia
 
-How many Hz does the video standard PAL support?
- 1. 50
- 2. 59
- 3. 60
- 4. 25
+Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
+ 1. 1.5 MHz
+ 2. 44.1 kHz
+ 3. 20.5 kHz
+ 4. 32.0 kHz
 
 <details>
   <summary>Answer</summary>
-  50
+  44.1 kHz
 </details>
 
 
