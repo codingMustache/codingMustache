@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Me and my mates are in a band called Duvet. We're a cover band.
+If two vegans are having an argument, is it still considered beef?
 
 
 ## Daily Trivia
 
-This mobile OS held the largest market share in 2012.
- 1. Android
- 2. BlackBerry
- 3. Symbian
- 4. iOS
+Which of the following is the oldest of these computers by release date?
+ 1. Commodore 64
+ 2. TRS-80
+ 3. Apple 3
+ 4. ZX Spectrum
 
 <details>
   <summary>Answer</summary>
-  iOS
+  TRS-80
 </details>
 
 
