@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-"Dad, I'm hungry." Hello, Hungry. I'm Dad.
+How do locomotives know where they're going? Lots of training
 
 
 ## Daily Trivia
 
-Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
- 1. Year
- 2. Eight Years
- 3. Two Years
- 4. Four Years
+Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
+ 1. Overstock
+ 2. Amazon
+ 3. eBay
+ 4. Shopify
 
 <details>
   <summary>Answer</summary>
-  Year
+  Amazon
 </details>
 
 
