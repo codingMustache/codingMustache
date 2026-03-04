@@ -4,20 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The invention of the wheel was what got things rolling
+ I never wanted to believe that my Dad was stealing from his job as a road worker. But when I got home, all the signs were there.
+
+
 
 
 ## Daily Trivia
 
-The teapot often seen in many 3D modeling applications is called what?
- 1. Tennessee Teapot
- 2. Pixar Teapot
- 3. 3D Teapot
- 4. Utah Teapot
+All of the following programs are classified as raster graphics editors EXCEPT:
+ 1. Inkscape
+ 2. Adobe Photoshop
+ 3. GIMP
+ 4. Paint.NET
 
 <details>
   <summary>Answer</summary>
-  Utah Teapot
+  Inkscape
 </details>
 
 
