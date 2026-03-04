@@ -4,22 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
- I never wanted to believe that my Dad was stealing from his job as a road worker. But when I got home, all the signs were there.
-
-
+What has a bed that you can’t sleep in? A river.
 
 
 ## Daily Trivia
 
-All of the following programs are classified as raster graphics editors EXCEPT:
- 1. Inkscape
- 2. Adobe Photoshop
- 3. GIMP
- 4. Paint.NET
+The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
+ 1. Acorn Computers
+ 2. Commodore Business Machines
+ 3. Amstrad PLC
+ 4. Sinclair Research
 
 <details>
   <summary>Answer</summary>
-  Inkscape
+  Acorn Computers
 </details>
 
 
