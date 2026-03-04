@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My sea sickness comes in waves.
+What do you call a fat psychic? A four-chin teller.
 
 
 ## Daily Trivia
 
-What port does HTTP run on?
- 1. 53
- 2. 23
- 3. 80
- 4. 443
+Which programming language was developed by Sun Microsystems in 1995?
+ 1. Python
+ 2. Solaris OS
+ 3. C++
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  80
+  Java
 </details>
 
 
