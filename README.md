@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a pig with three eyes? Piiig
+What did one plate say to the other plate? Dinner is on me!
 
 
 ## Daily Trivia
 
-How many bits make up the significand portion of a single precision floating point number?
- 1. 8
- 2. 23
- 3. 53
- 4. 15
+In computing terms, typically what does CLI stand for?
+ 1. Common Language Input
+ 2. Command Line Interface
+ 3. Control Line Interface
+ 4. Common Language Interface
 
 <details>
   <summary>Answer</summary>
-  23
+  Command Line Interface
 </details>
 
 
