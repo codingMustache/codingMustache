@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A magician was driving down the street and then he turned into a driveway.
+Why did the opera singer go sailing? They wanted to hit the high Cs.
 
 
 ## Daily Trivia
 
-This mobile OS held the largest market share in 2012.
- 1. iOS
- 2. Symbian
- 3. BlackBerry
- 4. Android
+Which of the following is NOT a computer science algorithm?
+ 1. Bubble Sort
+ 2. Merge Sort
+ 3. Float Sort
+ 4. Quick Sort
 
 <details>
   <summary>Answer</summary>
-  iOS
+  Float Sort
 </details>
 
 
