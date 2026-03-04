@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why is it always hot in the corner of a room? Because a corner is 90 degrees.
+My sea sickness comes in waves.
 
 
 ## Daily Trivia
 
-Which computer hardware device provides an interface for all other connected devices to communicate?
- 1. Random Access Memory
- 2. Hard Disk Drive
- 3. Motherboard
- 4. Central Processing Unit
+What port does HTTP run on?
+ 1. 53
+ 2. 23
+ 3. 80
+ 4. 443
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  80
 </details>
 
 
