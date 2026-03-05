@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a group of disorganized cats? A cat-tastrophe.
+What do you do on a remote island? Try and find the TV island it belongs to.
 
 
 ## Daily Trivia
 
-How many cores does the Intel i7-6950X have?
- 1. 4
- 2. 8
- 3. 12
- 4. 10
+Which computer language would you associate Django framework with?
+ 1. C#
+ 2. C++
+ 3. Java
+ 4. Python
 
 <details>
   <summary>Answer</summary>
-  10
+  Python
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **13 days** since this server shutdown
+Its been **14 days** since this server shutdown
