@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I considered building the patio by myself. But I didn't have the stones.
+This is my step ladder. I never knew my real ladder.
 
 
 ## Daily Trivia
 
-What was the first company to use the term &quot;Golden Master&quot;?
- 1. Apple
- 2. Microsoft
- 3. IBM
- 4. Google
+The acronym &quot;RIP&quot; stands for which of these?
+ 1. Routing Information Protocol
+ 2. Routine Inspection Protocol
+ 3. Regular Interval Processes
+ 4. Runtime Instance Processes
 
 <details>
   <summary>Answer</summary>
-  Apple
+  Routing Information Protocol
 </details>
 
 
