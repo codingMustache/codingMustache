@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Cosmetic surgery used to be such a taboo subject.
-Now you can talk about Botox and nobody raises an eyebrow.
+I asked the surgeon if I could administer my own anesthetic, they said: go ahead, knock yourself out.
 
 
 ## Daily Trivia
 
-What does the term MIME stand for, in regards to computing?
- 1. Multipurpose Interleave Mail Exchange
- 2. Multipurpose Internet Mail Extensions
- 3. Mail Interleave Method Exchange
- 4. Mail Internet Mail Exchange
+Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
+ 1. Puma
+ 2. Leopard
+ 3. Tiger
+ 4. Cheetah
 
 <details>
   <summary>Answer</summary>
-  Multipurpose Internet Mail Extensions
+  Cheetah
 </details>
 
 
