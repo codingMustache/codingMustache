@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I think circles are pointless.
+When Dad drops a pea off of his plate ‘oh dear I’ve pee’d on the table!
 
 
 ## Daily Trivia
 
-How many bits make up the significand portion of a single precision floating point number?
- 1. 8
- 2. 53
- 3. 15
- 4. 23
+Which of these people was NOT a founder of Apple Inc?
+ 1. Ronald Wayne
+ 2. Steve Jobs
+ 3. Jonathan Ive
+ 4. Steve Wozniak
 
 <details>
   <summary>Answer</summary>
-  23
+  Jonathan Ive
 </details>
 
 
