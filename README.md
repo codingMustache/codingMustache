@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I applied to be a doorman but didn't get the job due to lack of experience. That surprised me, I thought it was an entry level position.
+Why was Santa's little helper feeling depressed? Because he has low elf esteem.
+
 
 
 ## Daily Trivia
 
-On Twitter, what was the original character limit for a Tweet?
- 1. 120
- 2. 100
- 3. 160
- 4. 140
+Which of these people was NOT a founder of Apple Inc?
+ 1. Steve Wozniak
+ 2. Steve Jobs
+ 3. Jonathan Ive
+ 4. Ronald Wayne
 
 <details>
   <summary>Answer</summary>
-  140
+  Jonathan Ive
 </details>
 
 
