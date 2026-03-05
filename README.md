@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-If two vegans are having an argument, is it still considered beef?
+The great thing about stationery shops is they're always in the same place...
 
 
 ## Daily Trivia
 
-Which of the following is the oldest of these computers by release date?
- 1. Commodore 64
- 2. TRS-80
- 3. Apple 3
- 4. ZX Spectrum
+What was the name of the image that features as the default background wallpaper for Windows XP?
+ 1. Bliss
+ 2. Tulips
+ 3. Red moon desert
+ 4. Azul
 
 <details>
   <summary>Answer</summary>
-  TRS-80
+  Bliss
 </details>
 
 
