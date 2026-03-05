@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It’s hard to explain puns to kleptomaniacs, because they take everything literally.
+What do you call a troublesome Canadian high schooler? A poutine.
 
 
 ## Daily Trivia
 
-What kind of memory is used on memory cache?
- 1. ROM
- 2. DRAM
- 3. SRAM
- 4. Flash
+.at is the top-level domain for what country?
+ 1. Austria
+ 2. Australia
+ 3. Argentina
+ 4. Angola
 
 <details>
   <summary>Answer</summary>
-  SRAM
+  Austria
 </details>
 
 
