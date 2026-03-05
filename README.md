@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the cookie cry? It was feeling crumby.
+I ate a clock yesterday. It was so time consuming.
 
 
 ## Daily Trivia
 
-What does LTS stand for in the software market?
- 1. Ludicrous Transfer Speed
- 2. Long Term Support
- 3. Ludicrous Turbo Speed
- 4. Long Taco Service
+Which of the following computer components can be built using only NAND gates?
+ 1. CPU
+ 2. Register
+ 3. RAM
+ 4. ALU
 
 <details>
   <summary>Answer</summary>
-  Long Term Support
+  ALU
 </details>
 
 
