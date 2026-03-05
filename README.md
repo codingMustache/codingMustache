@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I had a dream that I was a muffler last night. I woke up exhausted!
+I've got a joke about vegetables for you... but it's a bit corny.
 
 
 ## Daily Trivia
 
-Which kind of algorithm is Ron Rivest not famous for creating?
- 1. Asymmetric encryption
- 2. Stream cipher
- 3. Secret sharing scheme
- 4. Hashing algorithm
+The numbering system with a radix of 16 is more commonly referred to as 
+ 1. Duodecimal
+ 2. Hexidecimal
+ 3. Binary
+ 4. Octal
 
 <details>
   <summary>Answer</summary>
-  Secret sharing scheme
+  Hexidecimal
 </details>
 
 
