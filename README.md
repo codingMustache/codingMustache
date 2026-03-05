@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-what happens when you cross a sheep with a kangaroo ? A woolly jumper!
+Where do hamburgers go to dance? The meat-ball.
 
 
 ## Daily Trivia
 
-What port does HTTP run on?
- 1. 53
- 2. 80
- 3. 23
- 4. 443
+What vulnerability ranked #1 on the OWASP Top 10 in 2013?
+ 1. Insecure Direct Object References
+ 2. Broken Authentication
+ 3. Injection 
+ 4. Cross-Site Scripting
 
 <details>
   <summary>Answer</summary>
-  80
+  Injection 
 </details>
 
 
