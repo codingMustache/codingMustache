@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where did you learn to make ice cream? Sunday school.
+Why do fish live in salt water? Because pepper makes them sneeze!
 
 
 ## Daily Trivia
 
-What does the term MIME stand for, in regards to computing?
- 1. Multipurpose Interleave Mail Exchange
- 2. Mail Internet Mail Exchange
- 3. Mail Interleave Method Exchange
- 4. Multipurpose Internet Mail Extensions
+Generally, which component of a computer draws the most power?
+ 1. Video Card
+ 2. Hard Drive
+ 3. Processor
+ 4. Power Supply
 
 <details>
   <summary>Answer</summary>
-  Multipurpose Internet Mail Extensions
+  Video Card
 </details>
 
 
