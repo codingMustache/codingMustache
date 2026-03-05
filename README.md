@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do fish live in salt water? Because pepper makes them sneeze!
+To the person who stole my anti-depressant pills: I hope you're happy now.
 
 
 ## Daily Trivia
 
-Generally, which component of a computer draws the most power?
- 1. Video Card
- 2. Hard Drive
- 3. Processor
- 4. Power Supply
+How long is an IPv6 address?
+ 1. 128 bits
+ 2. 128 bytes
+ 3. 64 bits
+ 4. 32 bits
 
 <details>
   <summary>Answer</summary>
-  Video Card
+  128 bits
 </details>
 
 
