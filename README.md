@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-When Dad drops a pea off of his plate ‘oh dear I’ve pee’d on the table!
+What did one snowman say to the other snow man? Do you smell carrot?
 
 
 ## Daily Trivia
 
-Which of these people was NOT a founder of Apple Inc?
- 1. Ronald Wayne
- 2. Steve Jobs
- 3. Jonathan Ive
- 4. Steve Wozniak
+What does the Prt Sc button do?
+ 1. Nothing
+ 2. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
+ 3. Captures what&#039;s on the screen and copies it to your clipboard
+ 4. Closes all windows
 
 <details>
   <summary>Answer</summary>
-  Jonathan Ive
+  Captures what&#039;s on the screen and copies it to your clipboard
 </details>
 
 
