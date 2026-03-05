@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I've got a joke about vegetables for you... but it's a bit corny.
+I considered building the patio by myself. But I didn't have the stones.
 
 
 ## Daily Trivia
 
-The numbering system with a radix of 16 is more commonly referred to as 
- 1. Duodecimal
- 2. Hexidecimal
- 3. Binary
- 4. Octal
+What was the first company to use the term &quot;Golden Master&quot;?
+ 1. Apple
+ 2. Microsoft
+ 3. IBM
+ 4. Google
 
 <details>
   <summary>Answer</summary>
-  Hexidecimal
+  Apple
 </details>
 
 
