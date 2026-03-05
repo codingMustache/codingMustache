@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's orange and sounds like a parrot? A Carrot.
+What did the big flower say to the littler flower? Hi, bud!
 
 
 ## Daily Trivia
 
-What was the name of the first Bulgarian personal computer?
- 1. IMKO-1
- 2. Pravetz 82
- 3. Pravetz 8D
- 4. IZOT 1030
+America Online (AOL) started out as which of these online service providers?
+ 1. CompuServe
+ 2. Prodigy
+ 3. Quantum Link
+ 4. GEnie
 
 <details>
   <summary>Answer</summary>
-  IMKO-1
+  Quantum Link
 </details>
 
 
