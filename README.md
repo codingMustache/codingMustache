@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you know you should always take an extra pair of pants golfing? Just in case you get a hole in one.
+I had a dream that I was a muffler last night. I woke up exhausted!
 
 
 ## Daily Trivia
 
-Which of the following is the oldest of these computers by release date?
- 1. TRS-80
- 2. Apple 3
- 3. ZX Spectrum
- 4. Commodore 64
+Which kind of algorithm is Ron Rivest not famous for creating?
+ 1. Asymmetric encryption
+ 2. Stream cipher
+ 3. Secret sharing scheme
+ 4. Hashing algorithm
 
 <details>
   <summary>Answer</summary>
-  TRS-80
+  Secret sharing scheme
 </details>
 
 
