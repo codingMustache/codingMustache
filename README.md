@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How come the stadium got hot after the game? Because all of the fans left.
+Why is Peter Pan always flying? Because he Neverlands.
 
 
 ## Daily Trivia
 
-Dutch computer scientist Mark Overmars is known for creating which game development engine?
- 1. Torque 2D
- 2. Construct
- 3. Stencyl
- 4. Game Maker
+.rs is the top-level domain for what country?
+ 1. Serbia
+ 2. Rwanda
+ 3. Russia
+ 4. Romania
 
 <details>
   <summary>Answer</summary>
-  Game Maker
+  Serbia
 </details>
 
 
