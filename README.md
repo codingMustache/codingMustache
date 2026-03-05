@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do hamburgers go to dance? The meat-ball.
+I think circles are pointless.
 
 
 ## Daily Trivia
 
-What vulnerability ranked #1 on the OWASP Top 10 in 2013?
- 1. Insecure Direct Object References
- 2. Broken Authentication
- 3. Injection 
- 4. Cross-Site Scripting
+How many bits make up the significand portion of a single precision floating point number?
+ 1. 8
+ 2. 53
+ 3. 15
+ 4. 23
 
 <details>
   <summary>Answer</summary>
-  Injection 
+  23
 </details>
 
 
