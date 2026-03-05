@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The great thing about stationery shops is they're always in the same place...
+How can you tell a vampire has a cold? They start coffin.
 
 
 ## Daily Trivia
 
-What was the name of the image that features as the default background wallpaper for Windows XP?
- 1. Bliss
- 2. Tulips
- 3. Red moon desert
- 4. Azul
+How fast is USB 3.1 Gen 2 theoretically?
+ 1. 5 Gb/s
+ 2. 8 Gb/s
+ 3. 1 Gb/s
+ 4. 10 Gb/s
 
 <details>
   <summary>Answer</summary>
-  Bliss
+  10 Gb/s
 </details>
 
 
