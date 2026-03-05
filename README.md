@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did one snowman say to the other snow man? Do you smell carrot?
+How do you fix a damaged jack-o-lantern? You use a pumpkin patch.
 
 
 ## Daily Trivia
 
-What does the Prt Sc button do?
- 1. Nothing
- 2. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
- 3. Captures what&#039;s on the screen and copies it to your clipboard
- 4. Closes all windows
+What does the &#039;S&#039; in the RSA encryption algorithm stand for?
+ 1. Schottky
+ 2. Shamir
+ 3. Secure
+ 4. Stable
 
 <details>
   <summary>Answer</summary>
-  Captures what&#039;s on the screen and copies it to your clipboard
+  Shamir
 </details>
 
 
