@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why is Peter Pan always flying? Because he Neverlands.
+What do you call a magician who has lost their magic? Ian.
 
 
 ## Daily Trivia
 
-.rs is the top-level domain for what country?
- 1. Serbia
- 2. Rwanda
- 3. Russia
- 4. Romania
+Which operating system was released first?
+ 1. OS/2
+ 2. Windows
+ 3. Mac OS
+ 4. Linux
 
 <details>
   <summary>Answer</summary>
-  Serbia
+  Mac OS
 </details>
 
 
