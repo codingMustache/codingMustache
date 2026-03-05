@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Two fish are in a tank, one turns to the other and says, "how do you drive this thing?"
+"Hey, dad, did you get a haircut?" "No, I got them all cut."
 
 
 ## Daily Trivia
 
-When Gmail first launched, how much storage did it provide for your email?
- 1. 1GB
- 2. 512MB
- 3. Unlimited
- 4. 5GB
+Which computer language would you associate Django framework with?
+ 1. Python
+ 2. C#
+ 3. C++
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  1GB
+  Python
 </details>
 
 
