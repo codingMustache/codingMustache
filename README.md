@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a magician who has lost their magic? Ian.
+what happens when you cross a sheep with a kangaroo ? A woolly jumper!
 
 
 ## Daily Trivia
 
-Which operating system was released first?
- 1. OS/2
- 2. Windows
- 3. Mac OS
- 4. Linux
+What port does HTTP run on?
+ 1. 53
+ 2. 80
+ 3. 23
+ 4. 443
 
 <details>
   <summary>Answer</summary>
-  Mac OS
+  80
 </details>
 
 
