@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is a witch's favorite subject in school? Spelling!
+I saw my husband trip and fall while carrying a laundry basket full of ironed clothes. I watched it all unfold.
 
 
 ## Daily Trivia
 
-According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:
- 1. A&#039;B&#039;
- 2. A&#039;B + B&#039;A
- 3. AB&#039; + AB
- 4. A&#039; + B&#039;
+HTML is what type of language?
+ 1. Macro Language
+ 2. Programming Language
+ 3. Markup Language
+ 4. Scripting Language
 
 <details>
   <summary>Answer</summary>
-  A&#039; + B&#039;
+  Markup Language
 </details>
 
 
