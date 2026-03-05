@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Slept like a log last night … woke up in the fireplace.
+Why did the cookie cry? It was feeling crumby.
 
 
 ## Daily Trivia
 
-The Windows OS was delevoped by which company?
- 1. IBM
- 2. Microsoft
- 3. Apple
- 4. Nokia
+What does LTS stand for in the software market?
+ 1. Ludicrous Transfer Speed
+ 2. Long Term Support
+ 3. Ludicrous Turbo Speed
+ 4. Long Taco Service
 
 <details>
   <summary>Answer</summary>
-  Microsoft
+  Long Term Support
 </details>
 
 
