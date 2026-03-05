@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I asked the surgeon if I could administer my own anesthetic, they said: go ahead, knock yourself out.
+Slept like a log last night … woke up in the fireplace.
 
 
 ## Daily Trivia
 
-Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
- 1. Puma
- 2. Leopard
- 3. Tiger
- 4. Cheetah
+The Windows OS was delevoped by which company?
+ 1. IBM
+ 2. Microsoft
+ 3. Apple
+ 4. Nokia
 
 <details>
   <summary>Answer</summary>
-  Cheetah
+  Microsoft
 </details>
 
 
