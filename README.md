@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-To the person who stole my anti-depressant pills: I hope you're happy now.
+I went to the zoo yesterday and saw a baguette in a cage. It was bread in captivity.
 
 
 ## Daily Trivia
 
-How long is an IPv6 address?
- 1. 128 bits
- 2. 128 bytes
- 3. 64 bits
- 4. 32 bits
+Laserjet and inkjet printers are both examples of what type of printer?
+ 1. Impact printer
+ 2. Dot matrix printer
+ 3. Daisywheel printer
+ 4. Non-impact printer
 
 <details>
   <summary>Answer</summary>
-  128 bits
+  Non-impact printer
 </details>
 
 
