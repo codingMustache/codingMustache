@@ -4,20 +4,22 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the big flower say to the littler flower? Hi, bud!
+Doctor: Do you want to hear the good news or the bad news?
+Patient: Good news please.
+Doctor: we're naming a disease after you.
 
 
 ## Daily Trivia
 
-America Online (AOL) started out as which of these online service providers?
- 1. CompuServe
- 2. Prodigy
- 3. Quantum Link
- 4. GEnie
+How many bytes are in a single Kibibyte?
+ 1. 1000
+ 2. 1240
+ 3. 1024
+ 4. 2400
 
 <details>
   <summary>Answer</summary>
-  Quantum Link
+  1024
 </details>
 
 
