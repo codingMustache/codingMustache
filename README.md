@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I ate a clock yesterday. It was so time consuming.
+Did you know you should always take an extra pair of pants golfing? Just in case you get a hole in one.
 
 
 ## Daily Trivia
 
-Which of the following computer components can be built using only NAND gates?
- 1. CPU
- 2. Register
- 3. RAM
- 4. ALU
+Which of the following is the oldest of these computers by release date?
+ 1. TRS-80
+ 2. Apple 3
+ 3. ZX Spectrum
+ 4. Commodore 64
 
 <details>
   <summary>Answer</summary>
-  ALU
+  TRS-80
 </details>
 
 
