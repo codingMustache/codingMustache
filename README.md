@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you fix a damaged jack-o-lantern? You use a pumpkin patch.
+What do you call a group of disorganized cats? A cat-tastrophe.
 
 
 ## Daily Trivia
 
-What does the &#039;S&#039; in the RSA encryption algorithm stand for?
- 1. Schottky
- 2. Shamir
- 3. Secure
- 4. Stable
+How many cores does the Intel i7-6950X have?
+ 1. 4
+ 2. 8
+ 3. 12
+ 4. 10
 
 <details>
   <summary>Answer</summary>
-  Shamir
+  10
 </details>
 
 
