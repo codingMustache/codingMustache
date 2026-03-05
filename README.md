@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was Santa's little helper feeling depressed? Because he has low elf esteem.
-
+I was wondering why the frisbee was getting bigger, then it hit me.
 
 
 ## Daily Trivia
 
-Which of these people was NOT a founder of Apple Inc?
- 1. Steve Wozniak
- 2. Steve Jobs
- 3. Jonathan Ive
- 4. Ronald Wayne
+How many bits make up the significand portion of a single precision floating point number?
+ 1. 23
+ 2. 8
+ 3. 53
+ 4. 15
 
 <details>
   <summary>Answer</summary>
-  Jonathan Ive
+  23
 </details>
 
 
