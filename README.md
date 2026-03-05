@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I was wondering why the frisbee was getting bigger, then it hit me.
+Why can't your nose be 12 inches long? Because then it'd be a foot!
 
 
 ## Daily Trivia
 
-How many bits make up the significand portion of a single precision floating point number?
- 1. 23
- 2. 8
- 3. 53
- 4. 15
+Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
+ 1. Microsoft
+ 2. Apple
+ 3. Atari
+ 4. Commodore
 
 <details>
   <summary>Answer</summary>
-  23
+  Apple
 </details>
 
 
