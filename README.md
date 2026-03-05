@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-"Hey, dad, did you get a haircut?" "No, I got them all cut."
+What did the mountain climber name his son? Cliff.
 
 
 ## Daily Trivia
 
-Which computer language would you associate Django framework with?
- 1. Python
- 2. C#
- 3. C++
- 4. Java
+In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
+ 1. &lt;scroll&gt;&lt;/scroll&gt;
+ 2. &lt;move&gt;&lt;/move&gt;
+ 3. &lt;slide&gt;&lt;/slide&gt;
+ 4. &lt;marquee&gt;&lt;/marquee&gt;
 
 <details>
   <summary>Answer</summary>
-  Python
+  &lt;marquee&gt;&lt;/marquee&gt;
 </details>
 
 
