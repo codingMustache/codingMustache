@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a careful wolf? Aware wolf.
+My New Years resolution is to stop leaving things so late.
 
 
 ## Daily Trivia
 
-What was the first commerically available computer processor?
- 1. Intel 486SX
- 2. TMS 1000
- 3. AMD AM386
- 4. Intel 4004
+Who is the original author of the realtime physics engine called PhysX?
+ 1. Nvidia
+ 2. NovodeX
+ 3. Ageia
+ 4. AMD
 
 <details>
   <summary>Answer</summary>
-  Intel 4004
+  NovodeX
 </details>
 
 
