@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why can't your nose be 12 inches long? Because then it'd be a foot!
+I just got fired from a florist, apparently I took too many leaves.
 
 
 ## Daily Trivia
 
-Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
- 1. Microsoft
- 2. Apple
- 3. Atari
- 4. Commodore
+In computing terms, typically what does CLI stand for?
+ 1. Common Language Input
+ 2. Control Line Interface
+ 3. Command Line Interface
+ 4. Common Language Interface
 
 <details>
   <summary>Answer</summary>
-  Apple
+  Command Line Interface
 </details>
 
 
