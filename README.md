@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-There’s a new type of broom out, it’s sweeping the nation.
+Why did the A go to the bathroom and come out as an E? Because he had a vowel movement.
 
 
 ## Daily Trivia
 
-In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
- 1. &lt;scroll&gt;&lt;/scroll&gt;
- 2. &lt;move&gt;&lt;/move&gt;
- 3. &lt;slide&gt;&lt;/slide&gt;
- 4. &lt;marquee&gt;&lt;/marquee&gt;
+What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
+ 1. Temperature Decipator
+ 2. Heat Sink
+ 3. Heat Vent
+ 4. CPU Vent
 
 <details>
   <summary>Answer</summary>
-  &lt;marquee&gt;&lt;/marquee&gt;
+  Heat Sink
 </details>
 
 
