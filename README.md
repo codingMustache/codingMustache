@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Remember, the best angle to approach a problem from is the "try" angle.
+What did the sea say to the sand? "We have to stop meeting like this."
 
 
 ## Daily Trivia
 
-What programming language was GitHub written in?
- 1. Python
- 2. Ruby
- 3. JavaScript
- 4. Lua
+What does GHz stand for?
+ 1. Gigahertz
+ 2. Gigahatz
+ 3. Gigahetz
+ 4. Gigahotz
 
 <details>
   <summary>Answer</summary>
-  Ruby
+  Gigahertz
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **15 days** since this server shutdown
+Its been **** since this server shutdown
