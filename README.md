@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why didn't the number 4 get into the nightclub? Because he is 2 square.
+Have you heard about the owl sanctuary job opening? It’s all night shifts but they’re all a hoot over there.
 
 
 ## Daily Trivia
 
-Which computer language would you associate Django framework with?
- 1. C#
- 2. Python
- 3. Java
- 4. C++
+What is the name of the default theme that is installed with Windows XP?
+ 1. Bliss
+ 2. Neptune
+ 3. Whistler
+ 4. Luna
 
 <details>
   <summary>Answer</summary>
-  Python
+  Luna
 </details>
 
 
