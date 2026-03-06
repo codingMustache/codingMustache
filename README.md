@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-If I could name myself after any Egyptian god, I'd be Set.
+What did one nut say as he chased another nut?  I'm a cashew!
 
 
 ## Daily Trivia
 
-What internet protocol was documented in RFC 1459?
- 1. HTTPS
- 2. HTTP
- 3. IRC
- 4. FTP
+What is the code name for the mobile operating system Android 7.0?
+ 1. Marshmallow
+ 2. Jelly Bean
+ 3. Ice Cream Sandwich
+ 4. Nougat
 
 <details>
   <summary>Answer</summary>
-  IRC
+  Nougat
 </details>
 
 
