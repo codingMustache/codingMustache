@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-People saying 'boo! to their friends has risen by 85% in the last year.... That's a frightening statistic.
+I applied to be a doorman but didn't get the job due to lack of experience. That surprised me, I thought it was an entry level position.
 
 
 ## Daily Trivia
 
-What is the domain name for the country Tuvalu?
- 1. .tt
- 2. .tu
- 3. .tv
- 4. .tl
+What was Bitcoin&#039;s block size limit in 2010?
+ 1. 1 TB
+ 2. 1 KB
+ 3. 1 MB
+ 4. 1GB
 
 <details>
   <summary>Answer</summary>
-  .tv
+  1 MB
 </details>
 
 
