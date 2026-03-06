@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you make a water bed more bouncy. You use Spring Water
+People saying 'boo! to their friends has risen by 85% in the last year.... That's a frightening statistic.
 
 
 ## Daily Trivia
 
-The C programming language was created by this American computer scientist. 
- 1. Tim Berners Lee
- 2. al-Khwārizmī
- 3. Willis Ware
- 4. Dennis Ritchie
+What is the domain name for the country Tuvalu?
+ 1. .tt
+ 2. .tu
+ 3. .tv
+ 4. .tl
 
 <details>
   <summary>Answer</summary>
-  Dennis Ritchie
+  .tv
 </details>
 
 
