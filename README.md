@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I made a playlist for hiking. It has music from Peanuts, The Cranberries, and Eminem. I call it my Trail Mix.
+What is bread's favorite number?  Leaven.
 
 
 ## Daily Trivia
 
-What port does HTTP run on?
- 1. 23
- 2. 80
- 3. 443
- 4. 53
+What does the &#039;S&#039; in the RSA encryption algorithm stand for?
+ 1. Shamir
+ 2. Secure
+ 3. Schottky
+ 4. Stable
 
 <details>
   <summary>Answer</summary>
-  80
+  Shamir
 </details>
 
 
