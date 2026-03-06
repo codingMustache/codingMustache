@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the worst thing about ancient history class? The teachers tend to Babylon.
+What did the judge say to the dentist? Do you swear to pull the tooth, the whole tooth and nothing but the tooth?
 
 
 ## Daily Trivia
 
-Which of the following languages is used as a scripting language in the Unity 3D game engine?
- 1. C#
- 2. Objective-C
- 3. C++
- 4. Java
+What amount of bits commonly equals one byte?
+ 1. 8
+ 2. 64
+ 3. 2
+ 4. 1
 
 <details>
   <summary>Answer</summary>
-  C#
+  8
 </details>
 
 
