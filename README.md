@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is bread's favorite number?  Leaven.
+I wear a stethoscope so that in a medical emergency I can teach people a valuable lesson about assumptions.
 
 
 ## Daily Trivia
 
-What does the &#039;S&#039; in the RSA encryption algorithm stand for?
- 1. Shamir
- 2. Secure
- 3. Schottky
- 4. Stable
+What does the term USB stand for?
+ 1. Universal Simtex Blot
+ 2. Unityped Semtex Backer
+ 3. Unified Signal Bus
+ 4. Universal Serial Bus
 
 <details>
   <summary>Answer</summary>
-  Shamir
+  Universal Serial Bus
 </details>
 
 
