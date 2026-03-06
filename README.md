@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Bad at golf? Join the club.
+Doctor you've got to help me, I'm addicted to Twitter. Doctor: I don't follow you.
 
 
 ## Daily Trivia
 
-The name of technology company HP stands for what?
- 1. Howard Packmann
- 2. Husker-Pollosk
- 3. Hellman-Pohl
- 4. Hewlett-Packard
+What does AD stand for in relation to Windows Operating Systems? 
+ 1. Active Directory
+ 2. Automated Database
+ 3. Active Department
+ 4. Alternative Drive
 
 <details>
   <summary>Answer</summary>
-  Hewlett-Packard
+  Active Directory
 </details>
 
 
