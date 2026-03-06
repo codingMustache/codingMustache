@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I gave all my dead batteries away today, free of charge.
+You can't trust a ladder. It will always let you down
 
 
 ## Daily Trivia
 
-The Windows OS was delevoped by which company?
- 1. IBM
- 2. Microsoft
- 3. Nokia
- 4. Apple
+The Harvard architecture for micro-controllers added which additional bus?
+ 1. Instruction
+ 2. Control
+ 3. Data
+ 4. Address
 
 <details>
   <summary>Answer</summary>
-  Microsoft
+  Instruction
 </details>
 
 
