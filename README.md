@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call an old snowman? Water.
+There’s a new type of broom out, it’s sweeping the nation.
 
 
 ## Daily Trivia
 
-In any programming language, what is the most common way to iterate through an array?
- 1. &#039;If&#039; Statements
- 2. &#039;Do-while&#039; loops
- 3. &#039;While&#039; loops
- 4. &#039;For&#039; loops
+In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
+ 1. &lt;scroll&gt;&lt;/scroll&gt;
+ 2. &lt;move&gt;&lt;/move&gt;
+ 3. &lt;slide&gt;&lt;/slide&gt;
+ 4. &lt;marquee&gt;&lt;/marquee&gt;
 
 <details>
   <summary>Answer</summary>
-  &#039;For&#039; loops
+  &lt;marquee&gt;&lt;/marquee&gt;
 </details>
 
 
