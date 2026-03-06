@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I wear a stethoscope so that in a medical emergency I can teach people a valuable lesson about assumptions.
+If I could name myself after any Egyptian god, I'd be Set.
 
 
 ## Daily Trivia
 
-What does the term USB stand for?
- 1. Universal Simtex Blot
- 2. Unityped Semtex Backer
- 3. Unified Signal Bus
- 4. Universal Serial Bus
+How many values can a single byte represent?
+ 1. 1024
+ 2. 1
+ 3. 8
+ 4. 256
 
 <details>
   <summary>Answer</summary>
-  Universal Serial Bus
+  256
 </details>
 
 
