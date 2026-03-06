@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why didn't the number 4 get into the nightclub? Because he is 2 square.
+What's the worst thing about ancient history class? The teachers tend to Babylon.
 
 
 ## Daily Trivia
 
-Australia, Japan, and Southeast Asia are in which ITU Region?
- 1. Region 4
- 2. Region 2
- 3. Region 3
- 4. Region 1
+Which of the following languages is used as a scripting language in the Unity 3D game engine?
+ 1. C#
+ 2. Objective-C
+ 3. C++
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  Region 3
+  C#
 </details>
 
 
