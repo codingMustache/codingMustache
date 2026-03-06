@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What has a bed that you can’t sleep in? A river.
+What type of music do balloons hate? Pop music!
 
 
 ## Daily Trivia
 
-What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
- 1. Transport
- 2. Session
- 3. Network
- 4. Data link
+The teapot often seen in many 3D modeling applications is called what?
+ 1. Pixar Teapot
+ 2. 3D Teapot
+ 3. Tennessee Teapot
+ 4. Utah Teapot
 
 <details>
   <summary>Answer</summary>
-  Transport
+  Utah Teapot
 </details>
 
 
