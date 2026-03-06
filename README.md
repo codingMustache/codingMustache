@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of music do planets listen to? Nep-tunes.
+Whiteboards ... are remarkable.
 
 
 ## Daily Trivia
 
-On which computer hardware device is the BIOS chip located?
- 1. Motherboard
- 2. Hard Disk Drive
- 3. Graphics Processing Unit
- 4. Central Processing Unit
+What does GHz stand for?
+ 1. Gigahotz
+ 2. Gigahatz
+ 3. Gigahertz
+ 4. Gigahetz
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  Gigahertz
 </details>
 
 
