@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the tree go to the dentist? It needed a root canal.
+What has a bed that you can’t sleep in? A river.
 
 
 ## Daily Trivia
 
-Which programming language shares its name with an island in Indonesia?
- 1. Java
- 2. Jakarta
- 3. C
- 4. Python
+What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
+ 1. Transport
+ 2. Session
+ 3. Network
+ 4. Data link
 
 <details>
   <summary>Answer</summary>
-  Java
+  Transport
 </details>
 
 
