@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What’s the longest word in the dictionary? Smiles. Because there’s a mile between the two S’s.
+What kind of music do planets listen to? Nep-tunes.
 
 
 ## Daily Trivia
 
-The Windows OS was delevoped by which company?
- 1. Nokia
- 2. Microsoft
- 3. Apple
- 4. IBM
+What is the main CPU is the Sega Mega Drive / Sega Genesis?
+ 1. Zilog Z80
+ 2. Motorola 68000
+ 3. Yamaha YM2612
+ 4. Intel 8088
 
 <details>
   <summary>Answer</summary>
-  Microsoft
+  Motorola 68000
 </details>
 
 
