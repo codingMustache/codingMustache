@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-You can't trust a ladder. It will always let you down
+Bad at golf? Join the club.
 
 
 ## Daily Trivia
 
-The Harvard architecture for micro-controllers added which additional bus?
- 1. Instruction
- 2. Control
- 3. Data
- 4. Address
+The name of technology company HP stands for what?
+ 1. Howard Packmann
+ 2. Husker-Pollosk
+ 3. Hellman-Pohl
+ 4. Hewlett-Packard
 
 <details>
   <summary>Answer</summary>
-  Instruction
+  Hewlett-Packard
 </details>
 
 
