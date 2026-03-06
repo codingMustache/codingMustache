@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call corn that joins the army? Kernel.
+What’s the advantage of living in Switzerland? Well, the flag is a big plus.
 
 
 ## Daily Trivia
 
-In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
- 1. center
- 2. absolute
- 3. relative
- 4. static
+The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
+ 1. HD Graphics 500
+ 2. HD Graphics 7000
+ 3. HD Graphics 600
+ 4. HD Graphics 700 
 
 <details>
   <summary>Answer</summary>
-  center
+  HD Graphics 500
 </details>
 
 
