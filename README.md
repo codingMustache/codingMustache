@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I went to the zoo yesterday and saw a baguette in a cage. It was bread in captivity.
+What did the beaver say to the tree? It's been nice gnawing you.
 
 
 ## Daily Trivia
 
-Laserjet and inkjet printers are both examples of what type of printer?
- 1. Impact printer
- 2. Dot matrix printer
- 3. Daisywheel printer
- 4. Non-impact printer
+Which of the following is NOT a computer science algorithm?
+ 1. Quick Sort
+ 2. Float Sort
+ 3. Bubble Sort
+ 4. Merge Sort
 
 <details>
   <summary>Answer</summary>
-  Non-impact printer
+  Float Sort
 </details>
 
 
