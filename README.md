@@ -4,20 +4,21 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the sea say to the sand? "We have to stop meeting like this."
+My friend keeps telling me "Cheer up. You aren't stuck in a deep hole in the ground, filled with water."
+I know he means well.
 
 
 ## Daily Trivia
 
-What does GHz stand for?
- 1. Gigahertz
- 2. Gigahatz
- 3. Gigahetz
- 4. Gigahotz
+Which of these people was NOT a founder of Apple Inc?
+ 1. Steve Wozniak
+ 2. Ronald Wayne
+ 3. Steve Jobs
+ 4. Jonathan Ive
 
 <details>
   <summary>Answer</summary>
-  Gigahertz
+  Jonathan Ive
 </details>
 
 
