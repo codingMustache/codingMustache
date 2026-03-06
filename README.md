@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I just read a book about Stockholm syndrome. It was pretty bad at first, but by the end I liked it.
+If I could name myself after any Egyptian god, I'd be Set.
 
 
 ## Daily Trivia
 
-Which programming language was developed by Sun Microsystems in 1995?
- 1. C++
- 2. Solaris OS
- 3. Java
- 4. Python
+What internet protocol was documented in RFC 1459?
+ 1. HTTPS
+ 2. HTTP
+ 3. IRC
+ 4. FTP
 
 <details>
   <summary>Answer</summary>
-  Java
+  IRC
 </details>
 
 
