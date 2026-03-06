@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are oranges the smartest fruit? Because they are made to concentrate. 
+I gave all my dead batteries away today, free of charge.
 
 
 ## Daily Trivia
 
-Which computer language would you associate Django framework with?
- 1. Python
- 2. Java
- 3. C++
- 4. C#
+The Windows OS was delevoped by which company?
+ 1. IBM
+ 2. Microsoft
+ 3. Nokia
+ 4. Apple
 
 <details>
   <summary>Answer</summary>
-  Python
+  Microsoft
 </details>
 
 
