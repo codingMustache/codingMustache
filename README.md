@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do Alexander the Great and Winnie the Pooh have in common? Same middle name.
+I made a playlist for hiking. It has music from Peanuts, The Cranberries, and Eminem. I call it my Trail Mix.
 
 
 ## Daily Trivia
 
-HTML is what type of language?
- 1. Markup Language
- 2. Programming Language
- 3. Scripting Language
- 4. Macro Language
+What port does HTTP run on?
+ 1. 23
+ 2. 80
+ 3. 443
+ 4. 53
 
 <details>
   <summary>Answer</summary>
-  Markup Language
+  80
 </details>
 
 
