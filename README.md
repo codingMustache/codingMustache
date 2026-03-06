@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the submarine industry? It really took a dive...
+Why didn't the number 4 get into the nightclub? Because he is 2 square.
 
 
 ## Daily Trivia
 
-What does the International System of Quantities refer 1024 bytes as?
- 1. Kibibyte
- 2. Kylobyte
- 3. Kilobyte
- 4. Kelobyte
+Which computer language would you associate Django framework with?
+ 1. C#
+ 2. Python
+ 3. Java
+ 4. C++
 
 <details>
   <summary>Answer</summary>
-  Kibibyte
+  Python
 </details>
 
 
