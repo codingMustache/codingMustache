@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to be a banker, but I lost interest.
+A boy dug three holes in the yard. When his mother saw, she exclaimed: "well, well, well"
 
 
 ## Daily Trivia
 
-According to the International System of Units, how many bytes are in a kilobyte of RAM?
- 1. 512
- 2. 1024
- 3. 1000
- 4. 500
+What does the computer software acronym JVM stand for?
+ 1. Java Vendor Machine
+ 2. Java Visual Machine
+ 3. Just Virtual Machine
+ 4. Java Virtual Machine
 
 <details>
   <summary>Answer</summary>
-  1000
+  Java Virtual Machine
 </details>
 
 
