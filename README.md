@@ -4,21 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My friend keeps telling me "Cheer up. You aren't stuck in a deep hole in the ground, filled with water."
-I know he means well.
+How do you make a water bed more bouncy. You use Spring Water
 
 
 ## Daily Trivia
 
-Which of these people was NOT a founder of Apple Inc?
- 1. Steve Wozniak
- 2. Ronald Wayne
- 3. Steve Jobs
- 4. Jonathan Ive
+The C programming language was created by this American computer scientist. 
+ 1. Tim Berners Lee
+ 2. al-Khwārizmī
+ 3. Willis Ware
+ 4. Dennis Ritchie
 
 <details>
   <summary>Answer</summary>
-  Jonathan Ive
+  Dennis Ritchie
 </details>
 
 
