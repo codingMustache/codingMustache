@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's red and bad for your teeth? A Brick.
+Why didn't the number 4 get into the nightclub? Because he is 2 square.
 
 
 ## Daily Trivia
 
-How many Hz does the video standard PAL support?
- 1. 50
- 2. 59
- 3. 60
- 4. 25
+Australia, Japan, and Southeast Asia are in which ITU Region?
+ 1. Region 4
+ 2. Region 2
+ 3. Region 3
+ 4. Region 1
 
 <details>
   <summary>Answer</summary>
-  50
+  Region 3
 </details>
 
 
