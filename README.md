@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Have you heard about the owl sanctuary job opening? It’s all night shifts but they’re all a hoot over there.
+Sometimes I tuck my knees into my chest and lean forward.  That’s just how I roll.
 
 
 ## Daily Trivia
 
-What is the name of the default theme that is installed with Windows XP?
- 1. Bliss
- 2. Neptune
- 3. Whistler
- 4. Luna
+Which of the following is NOT a computer science algorithm?
+ 1. Quick Sort
+ 2. Merge Sort
+ 3. Float Sort
+ 4. Bubble Sort
 
 <details>
   <summary>Answer</summary>
-  Luna
+  Float Sort
 </details>
 
 
