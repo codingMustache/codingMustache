@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of music do planets listen to? Nep-tunes.
+Why did the belt go to prison? He held up a pair of pants!
 
 
 ## Daily Trivia
 
-What is the main CPU is the Sega Mega Drive / Sega Genesis?
- 1. Zilog Z80
- 2. Motorola 68000
- 3. Yamaha YM2612
- 4. Intel 8088
+What does GHz stand for?
+ 1. Gigahotz
+ 2. Gigahetz
+ 3. Gigahatz
+ 4. Gigahertz
 
 <details>
   <summary>Answer</summary>
-  Motorola 68000
+  Gigahertz
 </details>
 
 
