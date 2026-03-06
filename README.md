@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did one nut say as he chased another nut?  I'm a cashew!
+Did you hear about the submarine industry? It really took a dive...
 
 
 ## Daily Trivia
 
-What is the code name for the mobile operating system Android 7.0?
- 1. Marshmallow
- 2. Jelly Bean
- 3. Ice Cream Sandwich
- 4. Nougat
+What does the International System of Quantities refer 1024 bytes as?
+ 1. Kibibyte
+ 2. Kylobyte
+ 3. Kilobyte
+ 4. Kelobyte
 
 <details>
   <summary>Answer</summary>
-  Nougat
+  Kibibyte
 </details>
 
 
