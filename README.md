@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is the hardest part about sky diving? The ground.
+Remember, the best angle to approach a problem from is the "try" angle.
 
 
 ## Daily Trivia
 
-In any programming language, what is the most common way to iterate through an array?
- 1. &#039;While&#039; loops
- 2. &#039;Do-while&#039; loops
- 3. &#039;For&#039; loops
- 4. &#039;If&#039; Statements
+What programming language was GitHub written in?
+ 1. Python
+ 2. Ruby
+ 3. JavaScript
+ 4. Lua
 
 <details>
   <summary>Answer</summary>
-  &#039;For&#039; loops
+  Ruby
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **14 days** since this server shutdown
+Its been **15 days** since this server shutdown
