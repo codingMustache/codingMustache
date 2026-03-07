@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Have you heard about the film "Constipation", you probably haven't because it's not out yet.
+A man walked in to a bar with some asphalt on his arm. He said “Two beers please, one for me and one for the road.”
 
 ## Jellyfin
 
@@ -15,18 +15,18 @@ Have you heard about the film "Constipation", you probably haven't because it's 
 
 ## Daily Trivia
 
-What is the maximum value of a 32-bit signed binary integer?
- 1. 2,147,483,647
- 2. 9,223,372,036,854,775,807
- 3. 2048
- 4. 255
+Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
+ 1. Four Years
+ 2. Two Years
+ 3. Year
+ 4. Eight Years
 
 <details>
   <summary>Answer</summary>
-  2,147,483,647
+  Year
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **1 days  2 hours 26 minutes** since this server shutdown
+Its been **1 days  2 hours 27 minutes** since this server shutdown
