@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Want to hear a joke about construction? Nah, I'm still working on it.
+How many kids with ADD does it take to change a lightbulb? Let's go ride bikes!
 
 
 ## Daily Trivia
 
-The programming language &#039;Swift&#039; was created to replace what other programming language?
- 1. C#
- 2. Ruby
- 3. C++
- 4. Objective-C
+What is the name of Layer 7 of the OSI model?
+ 1. Session
+ 2. Network
+ 3. Present
+ 4. Application
 
 <details>
   <summary>Answer</summary>
-  Objective-C
+  Application
 </details>
 
 
