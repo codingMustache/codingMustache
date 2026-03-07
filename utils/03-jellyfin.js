@@ -64,12 +64,11 @@ async function getWatchingStatus() {
 			const json = await req.json();
 			const { poster_path, overview, original_name, vote_average } =
 				json.results[0];
-			console.log(overview);
 			if (poster_path && overview && original_name && vote_average) {
 				const tmdbImgSrc = `https://image.tmdb.org/t/p/w300_and_h300_face${poster_path}`;
 				stringBuilder =
 					stringBuilder +
-					` ⭐️ ${vote_average} \n\n${overview} \n\n![movie poster](${tmdbImgSrc})`;
+					` ⭐️ ${vote_average.toFixed(2)} \n\n${overview} \n\n![movie poster](${tmdbImgSrc})`;
 			}
 		}
 	} catch (err) {

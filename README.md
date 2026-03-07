@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Yesterday a clown held a door open for me. I thought it was a nice jester.
+Did you hear about the submarine industry? It really took a dive...
 
 ## Jellyfin
 
@@ -19,15 +19,15 @@ Bourdain travels across the globe to uncover little-known areas of the world and
 
 ## Daily Trivia
 
-What internet protocol was documented in RFC 1459?
- 1. HTTP
- 2. HTTPS
- 3. FTP
- 4. IRC
+What does the International System of Quantities refer 1024 bytes as?
+ 1. Kylobyte
+ 2. Kibibyte
+ 3. Kelobyte
+ 4. Kilobyte
 
 <details>
   <summary>Answer</summary>
-  IRC
+  Kibibyte
 </details>
 
 
