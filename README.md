@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you get hanging from Apple trees? Sore arms.
+Did you hear about the cheese factory that exploded in France? There was nothing left but de Brie.
 
 ## Jellyfin
 
@@ -13,15 +13,15 @@ What do you get hanging from Apple trees? Sore arms.
 
 ## Daily Trivia
 
-Which programming language shares its name with an island in Indonesia?
- 1. Python
- 2. C
- 3. Jakarta
- 4. Java
+What does CPU stand for?
+ 1. Computer Personal Unit
+ 2. Central Processing Unit
+ 3. Central Processor Unit
+ 4. Central Process Unit
 
 <details>
   <summary>Answer</summary>
-  Java
+  Central Processing Unit
 </details>
 
 
