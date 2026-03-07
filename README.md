@@ -4,24 +4,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is a vampire's favorite fruit? A blood orange.
+This morning I was wondering where the sun was, but then it dawned on me.
 
 ## Jellyfin
 
-📺 I'm watching: Jon Benjamin Has A Van
+📺 I'm watching: Jon Benjamin Has A VanSomething went wrong with getting the Image, I'll fix it later.
 
 
 ## Daily Trivia
 
-Lenovo acquired IBM&#039;s personal computer division, including the ThinkPad line of laptops and tablets, in what year?
- 1. 2005
- 2. 2008
- 3. 2002
- 4. 1999
+Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
+ 1. Microsoft
+ 2. Atari
+ 3. Commodore
+ 4. Apple
 
 <details>
   <summary>Answer</summary>
-  2005
+  Apple
 </details>
 
 
