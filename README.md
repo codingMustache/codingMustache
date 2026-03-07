@@ -4,27 +4,27 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is a tornado's favorite game to play? Twister!
+Leather is great for sneaking around because it's made of hide.
 
 ## Jellyfin 
 
- I'm not watching anything right now
+Unable to fetch watching status
 
 
 ## Daily Trivia
 
-What is the most preferred image format used for logos in the Wikimedia database?
- 1. .png
- 2. .jpeg
- 3. .gif
- 4. .svg
+Generally, which component of a computer draws the most power?
+ 1. Processor
+ 2. Video Card
+ 3. Power Supply
+ 4. Hard Drive
 
 <details>
   <summary>Answer</summary>
-  .svg
+  Video Card
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **1 days1 hours 10 minutes** since this server shutdown
+Its been **1 days1 hours 16 minutes** since this server shutdown
