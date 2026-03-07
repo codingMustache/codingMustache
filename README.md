@@ -4,25 +4,25 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the Clydesdale give the pony a glass of water?  Because he was a little horse!
+What do you get hanging from Apple trees? Sore arms.
 
 
 ## Daily Trivia
 
-What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
- 1. CPU Vent
- 2. Temperature Decipator
- 3. Heat Vent
- 4. Heat Sink
+What is largely considered the precursor to the USB format?
+ 1. PS/2
+ 2. SVGA
+ 3. PCIe
+ 4. FireWire
 
 <details>
   <summary>Answer</summary>
-  Heat Sink
+  PS/2
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **10 hours 11 minutes** since this server shutdown
+Its been **10 hours 13 minutes** since this server shutdown
 
 Unable to fetch watching status
