@@ -4,26 +4,25 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-"Dad, I'm cold."
-"Go stand in the corner, I hear it's 90 degrees."
+I invented a new word! Plagiarism!
 
 I'm not watching anything right now
 
 
 ## Daily Trivia
 
-In computing, what does MIDI stand for?
- 1. Musical Instrument Data Interface
- 2. Modular Interface of Digital Instruments
- 3. Musical Interface of Digital Instruments
- 4. Musical Instrument Digital Interface
+What is largely considered the precursor to the USB format?
+ 1. SVGA
+ 2. PCIe
+ 3. FireWire
+ 4. PS/2
 
 <details>
   <summary>Answer</summary>
-  Musical Instrument Digital Interface
+  PS/2
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **12 hours 40 minutes** since this server shutdown
+Its been **13 hours 10 minutes** since this server shutdown
