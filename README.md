@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It doesn't matter how much you push the envelope. It will still be stationary.
+Why did the house go to the doctor? It was having window panes.
 
 ## Jellyfin 
 
@@ -13,18 +13,18 @@ Unable to fetch watching status
 
 ## Daily Trivia
 
-What does the term USB stand for?
- 1. Unified Signal Bus
- 2. Universal Simtex Blot
- 3. Universal Serial Bus
- 4. Unityped Semtex Backer
+In any programming language, what is the most common way to iterate through an array?
+ 1. &#039;For&#039; loops
+ 2. &#039;If&#039; Statements
+ 3. &#039;Do-while&#039; loops
+ 4. &#039;While&#039; loops
 
 <details>
   <summary>Answer</summary>
-  Universal Serial Bus
+  &#039;For&#039; loops
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **1 days1 hours 19 minutes** since this server shutdown
+Its been **1 days1 hours 20 minutes** since this server shutdown
