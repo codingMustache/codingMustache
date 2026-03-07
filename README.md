@@ -4,27 +4,27 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did Romans use to cut pizza before the rolling cutter was invented? Lil Caesars
+Why are oranges the smartest fruit? Because they are made to concentrate. 
 
 ## Jellyfin 
 
- I'm not watching anything right now
+I'm watching Jon Benjamin Has A Van Season 1
 
 
 ## Daily Trivia
 
-The numbering system with a radix of 16 is more commonly referred to as 
- 1. Octal
- 2. Duodecimal
- 3. Hexidecimal
- 4. Binary
+Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
+ 1. Puma
+ 2. Tiger
+ 3. Leopard
+ 4. Cheetah
 
 <details>
   <summary>Answer</summary>
-  Hexidecimal
+  Cheetah
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **23 hours 55 minutes** since this server shutdown
+Its been **23 hours 56 minutes** since this server shutdown
