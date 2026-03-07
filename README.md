@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The best time on a clock is 6:30--hands down.
+What do you do when your bunny gets wet? You get your hare dryer.
 
 ## Jellyfin
 
@@ -20,18 +20,18 @@ Bourdain travels across the globe to uncover little-known areas of the world and
 
 ## Daily Trivia
 
-The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
- 1. United States
- 2. China (People&#039;s Republic of)
- 3. Taiwan
- 4. Germany
+Which SQL keyword is used to fetch data from a database?
+ 1. VALUES
+ 2. SELECT
+ 3. INDEX
+ 4. EXEC
 
 <details>
   <summary>Answer</summary>
-  Taiwan
+  SELECT
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  3 hours 13 minutes</strong> since this server shutdown
+Its been <strong>1 days  3 hours 14 minutes</strong> since this server shutdown
