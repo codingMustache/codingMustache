@@ -4,11 +4,11 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you get when you cross a rabbit with a water hose? Hare spray.
+People are shocked to discover I have a police record but I love their greatest hits!
 
 ## Jellyfin
 
-### I'm watching: 📺 
+### I'm watching 📺 
 <strong>Anthony Bourdain: Parts Unknown  Season 3 Episode 2</strong> 
 
  Las Vegas ⭐️ 7.75 
@@ -20,15 +20,15 @@ Bourdain travels across the globe to uncover little-known areas of the world and
 
 ## Daily Trivia
 
-What major programming language does Unreal Engine 4 use?
- 1. C++
- 2. ECMAScript
- 3. C#
- 4. Assembly
+What does the term GPU stand for?
+ 1. Graphical Proprietary Unit
+ 2. Graphite Producing Unit
+ 3. Graphics Processing Unit
+ 4. Gaming Processor Unit
 
 <details>
   <summary>Answer</summary>
-  C++
+  Graphics Processing Unit
 </details>
 
 

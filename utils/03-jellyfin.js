@@ -38,7 +38,7 @@ async function getWatchingStatus() {
 		stringBuilder =
 			stringBuilder +
 			(item.Type == "Episode"
-				? `I'm watching: <strong>📺 ${item?.SeriesName}  ${item.SeasonName} Episode ${item.IndexNumber}</strong> \n\n ${item.Name}`
+				? `### I'm watching 📺 \n<strong>${item?.SeriesName}  ${item.SeasonName} Episode ${item.IndexNumber}</strong> \n\n ${item.Name}`
 				: item?.Name
 					? `🎥 I'm watching: **${item.Name}**`
 					: "");
