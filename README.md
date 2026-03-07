@@ -4,25 +4,25 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A steak pun is a rare medium well done.
+Why do birds fly south for the winter? Because it's too far to walk.
 
 I'm not watching anything right now
 
 
 ## Daily Trivia
 
-Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
- 1. C#
- 2. Python
- 3. JavaScript
- 4. PHP
+What does the computer software acronym JVM stand for?
+ 1. Java Vendor Machine
+ 2. Java Visual Machine
+ 3. Just Virtual Machine
+ 4. Java Virtual Machine
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  Java Virtual Machine
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **17 hours 40 minutes** since this server shutdown
+Its been **18 hours 10 minutes** since this server shutdown
