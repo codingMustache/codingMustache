@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-"Dad, I'm hungry." Hello, Hungry. I'm Dad.
+What do you call a bear with no teeth? A gummy bear!
 
 ## Jellyfin
 
@@ -13,15 +13,15 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Daily Trivia
 
-Which of the following is NOT a computer science algorithm?
- 1. Bubble Sort
- 2. Merge Sort
- 3. Quick Sort
- 4. Float Sort
+What was Bitcoin&#039;s block size limit in 2010?
+ 1. 1 KB
+ 2. 1GB
+ 3. 1 TB
+ 4. 1 MB
 
 <details>
   <summary>Answer</summary>
-  Float Sort
+  1 MB
 </details>
 
 
