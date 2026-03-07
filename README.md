@@ -4,25 +4,27 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was the picture sent to prison? It was framed.
+"I'm sorry." "Hi sorry, I'm dad"
 
-I'm not watching anything right now
+## Jellyfin 
+
+I'm watching Curb Your Enthusiasm Season 1
 
 
 ## Daily Trivia
 
-Which programming language was developed by Sun Microsystems in 1995?
- 1. Python
- 2. Solaris OS
- 3. C++
- 4. Java
+Who invented the &quot;Spanning Tree Protocol&quot;?
+ 1. Radia Perlman
+ 2. Paul Vixie
+ 3. Michael Roberts
+ 4. Vint Cerf
 
 <details>
   <summary>Answer</summary>
-  Java
+  Radia Perlman
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **10 hours 31 minutes** since this server shutdown
+Its been **10 hours 32 minutes** since this server shutdown
