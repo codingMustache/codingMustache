@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-which flower is most fierce? Dandelion
+Astronomers got tired watching the moon go around the earth for 24 hours. They decided to call it a day.
 
 ## Jellyfin
 
@@ -15,18 +15,18 @@ which flower is most fierce? Dandelion
 
 ## Daily Trivia
 
-Which of these programming languages is a low-level language?
- 1. Assembly
- 2. Pascal
- 3. C#
- 4. Python
+Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
+ 1. PHP
+ 2. Python
+ 3. JavaScript
+ 4. C#
 
 <details>
   <summary>Answer</summary>
-  Assembly
+  JavaScript
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **1 days2 hours 9 minutes** since this server shutdown
+Its been **1 days2 hours 10 minutes** since this server shutdown
