@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the burglar hang his mugshot on the wall? To prove that he was framed!
+Why does Norway have barcodes on their battleships? So when they get back to port, they can Scandinavian.
 
 ## Jellyfin
 
@@ -15,18 +15,18 @@ Why did the burglar hang his mugshot on the wall? To prove that he was framed!
 
 ## Daily Trivia
 
-What was the first Android version specifically optimized for tablets?
- 1. Honeycomb
- 2. Marshmellow
- 3. Froyo
- 4. Eclair
+What does the term GPU stand for?
+ 1. Graphical Proprietary Unit
+ 2. Graphics Processing Unit
+ 3. Graphite Producing Unit
+ 4. Gaming Processor Unit
 
 <details>
   <summary>Answer</summary>
-  Honeycomb
+  Graphics Processing Unit
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **1 days  2 hours 19 minutes** since this server shutdown
+Its been **1 days  2 hours 21 minutes** since this server shutdown
