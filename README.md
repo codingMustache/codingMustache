@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-R.I.P. boiled water. You will be mist.
+Why are snake races so exciting? They're always neck and neck.
 
 ## Jellyfin
 
@@ -15,18 +15,18 @@ R.I.P. boiled water. You will be mist.
 
 ## Daily Trivia
 
-Who invented the &quot;Spanning Tree Protocol&quot;?
- 1. Paul Vixie
- 2. Vint Cerf
- 3. Radia Perlman
- 4. Michael Roberts
+.at is the top-level domain for what country?
+ 1. Austria
+ 2. Australia
+ 3. Argentina
+ 4. Angola
 
 <details>
   <summary>Answer</summary>
-  Radia Perlman
+  Austria
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **1 days2 hours 13 minutes** since this server shutdown
+Its been **1 days2 hours 14 minutes** since this server shutdown
