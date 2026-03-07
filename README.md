@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the miner get fired from his job? He took it for granite...
+Don't buy flowers at a monastery. Because only you can prevent florist friars.
 
 
 ## Daily Trivia
 
-In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
- 1. absolute
- 2. static
- 3. relative
- 4. center
+Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
+ 1. Apple
+ 2. Commodore
+ 3. Atari
+ 4. Microsoft
 
 <details>
   <summary>Answer</summary>
-  center
+  Apple
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **4 hours 40 minutes** since this server shutdown
+Its been **5 hours 10 minutes** since this server shutdown
