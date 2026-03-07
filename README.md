@@ -4,27 +4,25 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I burned 2000 calories today, I left my food in the oven for too long.
+Whiteboards ... are remarkable.
 
-## Jellyfin 
-
-I'm watching Smiling Friends Season 1
+I'm not watching anything right now
 
 
 ## Daily Trivia
 
-The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
- 1. Sinclair Research
- 2. Amstrad PLC
- 3. Commodore Business Machines
- 4. Acorn Computers
+What was Bitcoin&#039;s block size limit in 2010?
+ 1. 1 MB
+ 2. 1 TB
+ 3. 1 KB
+ 4. 1GB
 
 <details>
   <summary>Answer</summary>
-  Acorn Computers
+  1 MB
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **11 hours 40 minutes** since this server shutdown
+Its been **12 hours 10 minutes** since this server shutdown
