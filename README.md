@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of bagel can fly? A plain bagel.
+My friend told me that pepper is the best seasoning for a roast, but I took it with a grain of salt.
 
 
 ## Daily Trivia
 
-What does the term GPU stand for?
- 1. Graphical Proprietary Unit
- 2. Graphite Producing Unit
- 3. Graphics Processing Unit
- 4. Gaming Processor Unit
+Which data structure does FILO apply to?
+ 1. Stack
+ 2. Tree
+ 3. Heap
+ 4. Queue
 
 <details>
   <summary>Answer</summary>
-  Graphics Processing Unit
+  Stack
 </details>
 
 
