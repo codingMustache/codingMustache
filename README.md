@@ -4,25 +4,26 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is the leading cause of dry skin? Towels
+Why was Santa's little helper feeling depressed? Because he has low elf esteem.
+
 
 
 ## Daily Trivia
 
-Which data structure does FILO apply to?
- 1. Queue
- 2. Heap
- 3. Tree
- 4. Stack
+What does the &quot;MP&quot; stand for in MP3?
+ 1. Moving Picture
+ 2. Multi Pass
+ 3. Music Player
+ 4. Micro Point
 
 <details>
   <summary>Answer</summary>
-  Stack
+  Moving Picture
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **10 hours 22 minutes** since this server shutdown
+Its been **10 hours 23 minutes** since this server shutdown
 
 I'm watching King Of The Hill
