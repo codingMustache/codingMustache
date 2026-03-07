@@ -4,33 +4,33 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear the one about the guy with the broken hearing aid? Neither did he.
+Why are basketball players messy eaters? Because they are always dribbling.
 
 ## Jellyfin
 
-I'm watching: <strong>📺 Fallout  Season 1 Episode 5</strong> 
+I'm watching: <strong>📺 Anthony Bourdain: Parts Unknown  Season 3 Episode 2</strong> 
 
- The Past ⭐️ 8.128 
+ Las Vegas ⭐️ 7.747 
 
-The story of haves and have-nots in a world in which there's almost nothing left to have. 200 years after the apocalypse, the gentle denizens of luxury fallout shelters are forced to return to the irradiated hellscape their ancestors left behind — and are shocked to discover an incredibly complex, gleefully weird, and highly violent universe waiting for them. 
+Bourdain travels across the globe to uncover little-known areas of the world and celebrate diverse cultures by exploring food and dining rituals. Known for his curiosity, candor, and acerbic wit, Bourdain takes viewers off the beaten path of tourist destinations – including some war-torn parts of the world – and meets with a variety of local citizens to offer a window into their lifestyles, and occasionally communes with an internationally lauded chef on his journeys. 
 
-![movie poster](https://image.tmdb.org/t/p/w300_and_h300_face/c15BtJxCXMrISLVmysdsnZUPQft.jpg)
+![movie poster](https://image.tmdb.org/t/p/w300_and_h300_face/qg7lcydNf8DBVFIFK3XEuccv1jf.jpg)
 
 
 ## Daily Trivia
 
-Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
- 1. Two Years
- 2. Eight Years
- 3. Year
- 4. Four Years
+What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
+ 1. Network
+ 2. Session
+ 3. Data link
+ 4. Transport
 
 <details>
   <summary>Answer</summary>
-  Year
+  Transport
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  3 hours 2 minutes</strong> since this server shutdown
+Its been <strong>1 days  3 hours 7 minutes</strong> since this server shutdown
