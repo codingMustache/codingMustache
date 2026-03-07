@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Yesterday a clown held a door open for me. I thought it was a nice jester.
+How does Darth Vader like his toast? On the dark side.
 
 ## Jellyfin
 
@@ -15,18 +15,18 @@ Yesterday a clown held a door open for me. I thought it was a nice jester.
 
 ## Daily Trivia
 
-What language does Node.js use?
- 1. Joomla Source Code
- 2. Java Source
- 3. JavaScript
- 4. Java
+What does the &#039;S&#039; in the RSA encryption algorithm stand for?
+ 1. Stable
+ 2. Secure
+ 3. Shamir
+ 4. Schottky
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  Shamir
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **1 days2 hours 12 minutes** since this server shutdown
+Its been **1 days2 hours 13 minutes** since this server shutdown
