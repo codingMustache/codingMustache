@@ -4,26 +4,27 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do cats write notes?
-Scratch Paper!
+What did the calculator say to the student? You can count on me.
 
+## Jellyfin
 
+I'm not watching anything right now
 
 
 ## Daily Trivia
 
-What vulnerability ranked #1 on the OWASP Top 10 in 2013?
- 1. Injection 
- 2. Insecure Direct Object References
- 3. Cross-Site Scripting
- 4. Broken Authentication
+On which computer hardware device is the BIOS chip located?
+ 1. Motherboard
+ 2. Hard Disk Drive
+ 3. Central Processing Unit
+ 4. Graphics Processing Unit
 
 <details>
   <summary>Answer</summary>
-  Injection 
+  Motherboard
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **1 days1 hours 33 minutes** since this server shutdown
+Its been **1 days1 hours 34 minutes** since this server shutdown
