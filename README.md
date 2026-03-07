@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the Dorito farmer say to the other Dorito farmer? Cool Ranch!
+It's difficult to say what my wife does, she sells sea shells by the sea shore.
 
 ## Jellyfin 
 
@@ -13,18 +13,18 @@ I'm watching Curb Your Enthusiasm Season 1
 
 ## Daily Trivia
 
-Which of these is not a key value of Agile software development?
- 1. Individuals and interactions
- 2. Responding to change
- 3. Comprehensive documentation
- 4. Customer collaboration
+How long is an IPv6 address?
+ 1. 64 bits
+ 2. 128 bits
+ 3. 32 bits
+ 4. 128 bytes
 
 <details>
   <summary>Answer</summary>
-  Comprehensive documentation
+  128 bits
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **10 hours 36 minutes** since this server shutdown
+Its been **10 hours 40 minutes** since this server shutdown
