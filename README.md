@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of tree fits in your hand? A palm tree!
+What kind of music do mummy's like? Rap
 
 
 ## Daily Trivia
 
-Nvidia&#039;s headquarters are based in which Silicon Valley city?
- 1. Mountain View
- 2. Cupertino
- 3. Santa Clara
- 4. Palo Alto
+When was the programming language &quot;C#&quot; released?
+ 1. 2000
+ 2. 1999
+ 3. 1998
+ 4. 2001
 
 <details>
   <summary>Answer</summary>
-  Santa Clara
+  2000
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **5 hours 40 minutes** since this server shutdown
+Its been **6 hours 10 minutes** since this server shutdown
