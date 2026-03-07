@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of music do mummy's like? Rap
+Why does Han Solo like gum? It's chewy!
 
 
 ## Daily Trivia
 
-When was the programming language &quot;C#&quot; released?
- 1. 2000
- 2. 1999
- 3. 1998
- 4. 2001
+What does the &quot;MP&quot; stand for in MP3?
+ 1. Multi Pass
+ 2. Music Player
+ 3. Micro Point
+ 4. Moving Picture
 
 <details>
   <summary>Answer</summary>
-  2000
+  Moving Picture
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **6 hours 10 minutes** since this server shutdown
+Its been **6 hours 40 minutes** since this server shutdown
