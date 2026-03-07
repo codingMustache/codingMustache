@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the best thing about elevator jokes? They work on so many levels.
+Why do cows wear bells? Because their horns don't work.
 
 ## Jellyfin
 
@@ -17,15 +17,15 @@ Something went wrong with getting the Image, I'll fix it later.
 
 ## Daily Trivia
 
-In programming, the ternary operator is mostly defined with what symbol(s)?
- 1. ?:
- 2. ?
- 3. ??
- 4. if then
+What amount of bits commonly equals one byte?
+ 1. 8
+ 2. 64
+ 3. 2
+ 4. 1
 
 <details>
   <summary>Answer</summary>
-  ?:
+  8
 </details>
 
 
