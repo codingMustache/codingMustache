@@ -2,10 +2,6 @@
 
 Hello I'm Jorge and I love making things for the internet
 
-## Joke of the Day
-
-What do you do when your bunny gets wet? You get your hare dryer.
-
 ## Jellyfin
 
 ### I'm Watching 📺 
@@ -17,18 +13,22 @@ Bourdain travels across the globe to uncover little-known areas of the world and
 
 ![movie poster](https://image.tmdb.org/t/p/w300_and_h300_face/qg7lcydNf8DBVFIFK3XEuccv1jf.jpg)
 
+## Joke of the Day
+
+Why are mummys scared of vacation? They're afraid to unwind.
+
 
 ## Daily Trivia
 
-Which SQL keyword is used to fetch data from a database?
- 1. VALUES
- 2. SELECT
- 3. INDEX
- 4. EXEC
+Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
+ 1. Year
+ 2. Two Years
+ 3. Four Years
+ 4. Eight Years
 
 <details>
   <summary>Answer</summary>
-  SELECT
+  Year
 </details>
 
 
