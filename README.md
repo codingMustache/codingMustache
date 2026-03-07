@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Camping is intense.
+Did you hear about the kidnapping at school? It's ok, he woke up.
 
 ## Jellyfin 
 
@@ -13,15 +13,15 @@ Unable to fetch watching status
 
 ## Daily Trivia
 
-What is the name of Layer 7 of the OSI model?
- 1. Application
- 2. Session
- 3. Network
- 4. Present
+Which of the following is a personal computer made by the Japanese company Fujitsu?
+ 1. PC-9801
+ 2. Xmillennium 
+ 3. MSX
+ 4. FM-7
 
 <details>
   <summary>Answer</summary>
-  Application
+  FM-7
 </details>
 
 
