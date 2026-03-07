@@ -4,25 +4,27 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I was going to get a brain transplant, but I changed my mind
+I burned 2000 calories today, I left my food in the oven for too long.
 
-I'm not watching anything right now
+## Jellyfin 
+
+I'm watching Smiling Friends Season 1
 
 
 ## Daily Trivia
 
-When did the online streaming service &quot;Mixer&quot; launch?
- 1. 2016
- 2. 2013
- 3. 2009
- 4. 2011
+The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
+ 1. Sinclair Research
+ 2. Amstrad PLC
+ 3. Commodore Business Machines
+ 4. Acorn Computers
 
 <details>
   <summary>Answer</summary>
-  2016
+  Acorn Computers
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **11 hours 10 minutes** since this server shutdown
+Its been **11 hours 40 minutes** since this server shutdown
