@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-This is my step ladder. I never knew my real ladder.
+What do you call a nervous javelin thrower? Shakespeare.
 
 ## Jellyfin
 
@@ -17,15 +17,15 @@ Something went wrong with getting the Image, I'll fix it later.
 
 ## Daily Trivia
 
-Which of the following is the oldest of these computers by release date?
- 1. Commodore 64
- 2. ZX Spectrum
- 3. Apple 3
- 4. TRS-80
+Whistler was the codename of this Microsoft Operating System.
+ 1. Windows 95
+ 2. Windows XP
+ 3. Windows 7
+ 4. Windows 2000
 
 <details>
   <summary>Answer</summary>
-  TRS-80
+  Windows XP
 </details>
 
 
