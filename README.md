@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My wife told me to rub the herbs on the meat for better flavor. That's sage advice.
+Why was the broom late for the meeting? He overswept.
 
 ## Jellyfin
 
@@ -13,18 +13,18 @@ I'm not watching anything right nowI'm not watching anything, right now.
 
 ## Daily Trivia
 
-How many bytes are in a single Kibibyte?
- 1. 1024
- 2. 1240
- 3. 1000
- 4. 2400
+What major programming language does Unreal Engine 4 use?
+ 1. Assembly
+ 2. C#
+ 3. ECMAScript
+ 4. C++
 
 <details>
   <summary>Answer</summary>
-  1024
+  C++
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **1 days1 hours 28 minutes** since this server shutdown
+Its been **1 days1 hours 29 minutes** since this server shutdown
