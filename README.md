@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is bread's favorite number?  Leaven.
+What biscuit does a short person like? Shortbread. 
 
 ## Jellyfin
 
@@ -13,15 +13,15 @@ What is bread's favorite number?  Leaven.
 
 ## Daily Trivia
 
-How many values can a single byte represent?
- 1. 8
- 2. 256
- 3. 1024
- 4. 1
+In computing terms, typically what does CLI stand for?
+ 1. Control Line Interface
+ 2. Common Language Input
+ 3. Command Line Interface
+ 4. Common Language Interface
 
 <details>
   <summary>Answer</summary>
-  256
+  Command Line Interface
 </details>
 
 
