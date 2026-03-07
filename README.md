@@ -4,25 +4,25 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A farmer had 297 cows, when he rounded them up, he found he had 300
+Why do bananas have to put on sunscreen before they go to the beach? Because they might peel!
 
 I'm not watching anything right now
 
 
 ## Daily Trivia
 
-Which kind of algorithm is Ron Rivest not famous for creating?
- 1. Secret sharing scheme
- 2. Stream cipher
- 3. Asymmetric encryption
- 4. Hashing algorithm
+HTML is what type of language?
+ 1. Macro Language
+ 2. Programming Language
+ 3. Scripting Language
+ 4. Markup Language
 
 <details>
   <summary>Answer</summary>
-  Secret sharing scheme
+  Markup Language
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **15 hours 40 minutes** since this server shutdown
+Its been **16 hours 10 minutes** since this server shutdown
