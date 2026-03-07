@@ -4,23 +4,27 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Who is the coolest Doctor in the hospital? The hip Doctor!
+Me: If humans lose the ability to hear high frequency volumes as they get older, can my 4 week old son hear a dog whistle?
+
+Doctor: No, humans can never hear that high of a frequency no matter what age they are.
+
+Me: Trick question... dogs can't whistle.
 
 
 ## Daily Trivia
 
-Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
- 1. Two Years
- 2. Eight Years
- 3. Four Years
- 4. Year
+What does GHz stand for?
+ 1. Gigahertz
+ 2. Gigahatz
+ 3. Gigahetz
+ 4. Gigahotz
 
 <details>
   <summary>Answer</summary>
-  Year
+  Gigahertz
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **8 hours 10 minutes** since this server shutdown
+Its been **8 hours 40 minutes** since this server shutdown
