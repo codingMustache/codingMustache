@@ -15,23 +15,23 @@ Bourdain travels across the globe to uncover little-known areas of the world and
 
 ## Joke of the Day
 
-Why are mummys scared of vacation? They're afraid to unwind.
+How do you find Will Smith in the snow?  Look for fresh prints.
 
 
 ## Daily Trivia
 
-Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
- 1. Year
- 2. Two Years
- 3. Four Years
- 4. Eight Years
+What does the computer software acronym JVM stand for?
+ 1. Java Virtual Machine
+ 2. Java Visual Machine
+ 3. Java Vendor Machine
+ 4. Just Virtual Machine
 
 <details>
   <summary>Answer</summary>
-  Year
+  Java Virtual Machine
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  3 hours 14 minutes</strong> since this server shutdown
+Its been <strong>1 days  3 hours 15 minutes</strong> since this server shutdown
