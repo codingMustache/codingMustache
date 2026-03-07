@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A termite walks into a bar and asks “Is the bar tender here?”
+Can a kangaroo jump higher than the Empire State Building? Of course. The Empire State Building can't jump.
 
 ## Jellyfin
 
@@ -13,15 +13,15 @@ A termite walks into a bar and asks “Is the bar tender here?”
 
 ## Daily Trivia
 
-In computing terms, typically what does CLI stand for?
- 1. Command Line Interface
- 2. Common Language Interface
- 3. Control Line Interface
- 4. Common Language Input
+On Twitter, what was the original character limit for a Tweet?
+ 1. 100
+ 2. 140
+ 3. 160
+ 4. 120
 
 <details>
   <summary>Answer</summary>
-  Command Line Interface
+  140
 </details>
 
 
