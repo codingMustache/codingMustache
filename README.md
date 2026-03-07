@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why don't eggs tell jokes? They'd crack each other up
+A beekeeper was indicted after he confessed to years of stealing at work. They charged him with emBEEzlement
 
 ## Jellyfin
 
@@ -15,18 +15,18 @@ Why don't eggs tell jokes? They'd crack each other up
 
 ## Daily Trivia
 
-Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
- 1. 32.0 kHz
- 2. 44.1 kHz
- 3. 1.5 MHz
- 4. 20.5 kHz
+The teapot often seen in many 3D modeling applications is called what?
+ 1. 3D Teapot
+ 2. Pixar Teapot
+ 3. Utah Teapot
+ 4. Tennessee Teapot
 
 <details>
   <summary>Answer</summary>
-  44.1 kHz
+  Utah Teapot
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **1 days2 hours 8 minutes** since this server shutdown
+Its been **1 days2 hours 9 minutes** since this server shutdown
