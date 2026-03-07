@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How does a scientist freshen their breath? With experi-mints!
+Where do you take someone who has been injured in a Peek-a-boo accident? To the I.C.U.
 
 ## Jellyfin
 
@@ -19,18 +19,18 @@ Bourdain travels across the globe to uncover little-known areas of the world and
 
 ## Daily Trivia
 
-While Apple was formed in California, in which western state was Microsoft founded?
- 1. Washington
- 2. Colorado
- 3. Arizona
- 4. New Mexico
+Which RAID array type is associated with data mirroring?
+ 1. RAID 1
+ 2. RAID 5
+ 3. RAID 10
+ 4. RAID 0
 
 <details>
   <summary>Answer</summary>
-  New Mexico
+  RAID 1
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  3 hours 8 minutes</strong> since this server shutdown
+Its been <strong>1 days  3 hours 10 minutes</strong> since this server shutdown
