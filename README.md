@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a bear with no teeth? A gummy bear!
+What do you call two guys hanging out by your window? Kurt & Rod.
 
 ## Jellyfin
 
@@ -13,18 +13,18 @@ I'm not watching anything right nowI'm not watching anything, right now.
 
 ## Daily Trivia
 
-Unix Time is defined as the number of seconds that have elapsed since when?
- 1. Midnight, July 4, 1976
- 2. Midnight, January 1, 1970
- 3. Midnight on the creator of Unix&#039;s birthday
- 4. Midnight, July 4, 1980
+What is the most preferred image format used for logos in the Wikimedia database?
+ 1. .svg
+ 2. .gif
+ 3. .jpeg
+ 4. .png
 
 <details>
   <summary>Answer</summary>
-  Midnight, January 1, 1970
+  .svg
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **1 days1 hours 30 minutes** since this server shutdown
+Its been **1 days1 hours 31 minutes** since this server shutdown
