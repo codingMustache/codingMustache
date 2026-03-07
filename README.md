@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I was thinking about moving to Moscow but there is no point Russian into things.
+Where do young cows eat lunch? In the calf-ateria.
 
 ## Jellyfin
 
@@ -17,18 +17,18 @@ The story of haves and have-nots in a world in which there's almost nothing left
 
 ## Daily Trivia
 
-What was the name given to Android 4.3?
- 1. Jelly Bean
- 2. Froyo
- 3. Nutella
- 4. Lollipop
+According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:
+ 1. AB&#039; + AB
+ 2. A&#039;B&#039;
+ 3. A&#039;B + B&#039;A
+ 4. A&#039; + B&#039;
 
 <details>
   <summary>Answer</summary>
-  Jelly Bean
+  A&#039; + B&#039;
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **1 days  2 hours 39 minutes** since this server shutdown
+Its been **1 days  2 hours 40 minutes** since this server shutdown
