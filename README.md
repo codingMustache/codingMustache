@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's orange and sounds like a parrot? A Carrot.
+Yesterday I confused the words "jacuzzi" and "yakuza". Now I'm in hot water with the Japanese mafia.
 
 ## Jellyfin 
 
@@ -13,18 +13,18 @@ Unable to fetch watching status
 
 ## Daily Trivia
 
-What does the International System of Quantities refer 1024 bytes as?
- 1. Kibibyte
- 2. Kelobyte
- 3. Kilobyte
- 4. Kylobyte
+The C programming language was created by this American computer scientist. 
+ 1. Dennis Ritchie
+ 2. Tim Berners Lee
+ 3. al-Khwārizmī
+ 4. Willis Ware
 
 <details>
   <summary>Answer</summary>
-  Kibibyte
+  Dennis Ritchie
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **1 days1 hours 17 minutes** since this server shutdown
+Its been **1 days1 hours 19 minutes** since this server shutdown
