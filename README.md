@@ -4,7 +4,8 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the judge say to the dentist? Do you swear to pull the tooth, the whole tooth and nothing but the tooth?
+"Dad, I'm cold."
+"Go stand in the corner, I hear it's 90 degrees."
 
 ## Jellyfin
 
@@ -13,18 +14,18 @@ I'm not watching anything right nowI'm not watching anything, right now.
 
 ## Daily Trivia
 
-In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
- 1. Final
- 2. Public
- 3. Private
- 4. Static
+CMOS is tech used for constructing integrated circuits. What does CMOS stand for?
+ 1. Complementary metal&ndash;oxide&ndash;semiconductor
+ 2. Complementary magnetic-ohms-semiconductor
+ 3. Computer-made operating system
+ 4. Computer-made oscillating static
 
 <details>
   <summary>Answer</summary>
-  Final
+  Complementary metal&ndash;oxide&ndash;semiconductor
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **1 days1 hours 31 minutes** since this server shutdown
+Its been **1 days1 hours 32 minutes** since this server shutdown
