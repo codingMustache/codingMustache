@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why does Han Solo like gum? It's chewy!
+Why was the picture sent to prison? It was framed.
 
 
 ## Daily Trivia
 
-What does the &quot;MP&quot; stand for in MP3?
- 1. Multi Pass
- 2. Music Player
- 3. Micro Point
- 4. Moving Picture
+All of the following programs are classified as raster graphics editors EXCEPT:
+ 1. GIMP
+ 2. Paint.NET
+ 3. Adobe Photoshop
+ 4. Inkscape
 
 <details>
   <summary>Answer</summary>
-  Moving Picture
+  Inkscape
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **6 hours 40 minutes** since this server shutdown
+Its been **7 hours 10 minutes** since this server shutdown
