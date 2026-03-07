@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many bones are in the human hand? A handful of them.
+Where do bees go to the bathroom?  The BP station.
 
 ## Jellyfin
 
@@ -13,15 +13,15 @@ How many bones are in the human hand? A handful of them.
 
 ## Daily Trivia
 
-HTML is what type of language?
- 1. Macro Language
- 2. Programming Language
- 3. Markup Language
- 4. Scripting Language
+Who is the founder of Palantir?
+ 1. Peter Thiel
+ 2. Mark Zuckerberg
+ 3. Marc Benioff
+ 4. Jack Dorsey
 
 <details>
   <summary>Answer</summary>
-  Markup Language
+  Peter Thiel
 </details>
 
 
