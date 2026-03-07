@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-If I could name myself after any Egyptian god, I'd be Set.
+Why did the burglar hang his mugshot on the wall? To prove that he was framed!
 
 ## Jellyfin
 
@@ -15,18 +15,18 @@ If I could name myself after any Egyptian god, I'd be Set.
 
 ## Daily Trivia
 
-Approximately how many Apple I personal computers were created?
- 1. 100
- 2. 500
- 3. 1000
- 4. 200
+What was the first Android version specifically optimized for tablets?
+ 1. Honeycomb
+ 2. Marshmellow
+ 3. Froyo
+ 4. Eclair
 
 <details>
   <summary>Answer</summary>
-  200
+  Honeycomb
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **1 days  2 hours 18 minutes** since this server shutdown
+Its been **1 days  2 hours 19 minutes** since this server shutdown
