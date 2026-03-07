@@ -4,16 +4,16 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What does a female snake use for support? A co-Bra!
+‘Put the cat out’ … ‘I didn’t realize it was on fire
 
 
 ## Daily Trivia
 
 What was the first company to use the term &quot;Golden Master&quot;?
- 1. Google
- 2. IBM
- 3. Apple
- 4. Microsoft
+ 1. Apple
+ 2. Microsoft
+ 3. IBM
+ 4. Google
 
 <details>
   <summary>Answer</summary>
