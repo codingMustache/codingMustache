@@ -4,27 +4,25 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the house go to the doctor? It was having window panes.
+What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand...
 
-## Jellyfin 
-
-Unable to fetch watching status
+## Jellyfin
 
 
 ## Daily Trivia
 
-In any programming language, what is the most common way to iterate through an array?
- 1. &#039;For&#039; loops
- 2. &#039;If&#039; Statements
- 3. &#039;Do-while&#039; loops
- 4. &#039;While&#039; loops
+How long is an IPv6 address?
+ 1. 32 bits
+ 2. 64 bits
+ 3. 128 bytes
+ 4. 128 bits
 
 <details>
   <summary>Answer</summary>
-  &#039;For&#039; loops
+  128 bits
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **1 days1 hours 20 minutes** since this server shutdown
+Its been **1 days1 hours 21 minutes** since this server shutdown
