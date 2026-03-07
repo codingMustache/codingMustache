@@ -4,22 +4,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand...
+Toasters were the first form of pop-up notifications.
 
-## Jellyfin
+## Jellyfin 
+
+Unable to fetch watching status
 
 
 ## Daily Trivia
 
-How long is an IPv6 address?
- 1. 32 bits
- 2. 64 bits
- 3. 128 bytes
- 4. 128 bits
+What does the &quot;MP&quot; stand for in MP3?
+ 1. Multi Pass
+ 2. Music Player
+ 3. Moving Picture
+ 4. Micro Point
 
 <details>
   <summary>Answer</summary>
-  128 bits
+  Moving Picture
 </details>
 
 
