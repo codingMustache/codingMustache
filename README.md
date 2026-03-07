@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Yesterday I confused the words "jacuzzi" and "yakuza". Now I'm in hot water with the Japanese mafia.
+It doesn't matter how much you push the envelope. It will still be stationary.
 
 ## Jellyfin 
 
@@ -13,15 +13,15 @@ Unable to fetch watching status
 
 ## Daily Trivia
 
-The C programming language was created by this American computer scientist. 
- 1. Dennis Ritchie
- 2. Tim Berners Lee
- 3. al-Khwārizmī
- 4. Willis Ware
+What does the term USB stand for?
+ 1. Unified Signal Bus
+ 2. Universal Simtex Blot
+ 3. Universal Serial Bus
+ 4. Unityped Semtex Backer
 
 <details>
   <summary>Answer</summary>
-  Dennis Ritchie
+  Universal Serial Bus
 </details>
 
 
