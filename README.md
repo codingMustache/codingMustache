@@ -4,27 +4,27 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Velcro… What a rip-off.
+What did Romans use to cut pizza before the rolling cutter was invented? Lil Caesars
 
 ## Jellyfin 
 
-I'm watching Jon Benjamin Has A Van Season 1
+ I'm not watching anything right now
 
 
 ## Daily Trivia
 
-Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
- 1. Overstock
- 2. eBay
- 3. Amazon
- 4. Shopify
+The numbering system with a radix of 16 is more commonly referred to as 
+ 1. Octal
+ 2. Duodecimal
+ 3. Hexidecimal
+ 4. Binary
 
 <details>
   <summary>Answer</summary>
-  Amazon
+  Hexidecimal
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **23 hours 52 minutes** since this server shutdown
+Its been **23 hours 55 minutes** since this server shutdown

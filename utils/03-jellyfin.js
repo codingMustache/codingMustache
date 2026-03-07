@@ -29,7 +29,7 @@ async function getWatchingStatus() {
 		const json = await req.json();
 
 		if (!json?.Items?.length) {
-			return "I'm not watching anything right now";
+			return "## Jellyfin \n\n I'm not watching anything right now";
 		}
 
 		const item = json.Items[0];
@@ -44,7 +44,7 @@ async function getWatchingStatus() {
 		return `## Jellyfin \n\nI'm watching ${title}`;
 	} catch (err) {
 		console.error(err);
-		return "Unable to fetch watching status";
+		return "## Jellyfin \n\nUnable to fetch watching status";
 	}
 }
 
