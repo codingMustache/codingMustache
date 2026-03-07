@@ -4,27 +4,25 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Bought a new jacket suit the other day and it burst into flames. Well, it was a blazer
+Why was the picture sent to prison? It was framed.
 
-## Jellyfin 
-
-I'm watching King Of The Hill Season 1
+I'm not watching anything right now
 
 
 ## Daily Trivia
 
-Which one of these is not an official development name for a Ubuntu release?
- 1. Wily Werewolf
- 2. Utopic Unicorn
- 3. Mystic Mansion
- 4. Trusty Tahr
+Which programming language was developed by Sun Microsystems in 1995?
+ 1. Python
+ 2. Solaris OS
+ 3. C++
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  Mystic Mansion
+  Java
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **10 hours 28 minutes** since this server shutdown
+Its been **10 hours 31 minutes** since this server shutdown
