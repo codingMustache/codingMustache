@@ -4,27 +4,27 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's blue and not very heavy?  Light blue.
+What is a vampire's favorite fruit? A blood orange.
 
 ## Jellyfin
 
-📺 I'm watching: Jon Benjamin Has A VanSomething went wrong with getting the Image, I'll fix it later.
+📺 I'm watching: Jon Benjamin Has A Van
 
 
 ## Daily Trivia
 
-.rs is the top-level domain for what country?
- 1. Serbia
- 2. Rwanda
- 3. Russia
- 4. Romania
+Lenovo acquired IBM&#039;s personal computer division, including the ThinkPad line of laptops and tablets, in what year?
+ 1. 2005
+ 2. 2008
+ 3. 2002
+ 4. 1999
 
 <details>
   <summary>Answer</summary>
-  Serbia
+  2005
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **1 days2 hours 3 minutes** since this server shutdown
+Its been **1 days2 hours 4 minutes** since this server shutdown
