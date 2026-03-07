@@ -4,25 +4,25 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the kid throw the clock out the window? He wanted to see time fly!
+What's brown and sticky? A stick.
 
 
 ## Daily Trivia
 
-Which programming language shares its name with an island in Indonesia?
- 1. C
- 2. Jakarta
- 3. Python
- 4. Java
+How many bits are commonly in a single byte?
+ 1. Six bits
+ 2. Twelve bits
+ 3.  Fifteen bits
+ 4. Eight bits
 
 <details>
   <summary>Answer</summary>
-  Java
+  Eight bits
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **10 hours 17 minutes** since this server shutdown
+Its been **10 hours 18 minutes** since this server shutdown
 
 I'm not watching anything right now
