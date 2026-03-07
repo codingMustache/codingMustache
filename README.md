@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-When does a joke become a dad joke? When it becomes apparent.
+R.I.P. boiled water. You will be mist.
 
 ## Jellyfin
 
@@ -15,15 +15,15 @@ When does a joke become a dad joke? When it becomes apparent.
 
 ## Daily Trivia
 
-Which programming language shares its name with an island in Indonesia?
- 1. C
- 2. Java
- 3. Python
- 4. Jakarta
+Who invented the &quot;Spanning Tree Protocol&quot;?
+ 1. Paul Vixie
+ 2. Vint Cerf
+ 3. Radia Perlman
+ 4. Michael Roberts
 
 <details>
   <summary>Answer</summary>
-  Java
+  Radia Perlman
 </details>
 
 
