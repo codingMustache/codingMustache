@@ -4,25 +4,26 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Whiteboards ... are remarkable.
+"Dad, I'm cold."
+"Go stand in the corner, I hear it's 90 degrees."
 
 I'm not watching anything right now
 
 
 ## Daily Trivia
 
-What was Bitcoin&#039;s block size limit in 2010?
- 1. 1 MB
- 2. 1 TB
- 3. 1 KB
- 4. 1GB
+In computing, what does MIDI stand for?
+ 1. Musical Instrument Data Interface
+ 2. Modular Interface of Digital Instruments
+ 3. Musical Interface of Digital Instruments
+ 4. Musical Instrument Digital Interface
 
 <details>
   <summary>Answer</summary>
-  1 MB
+  Musical Instrument Digital Interface
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **12 hours 10 minutes** since this server shutdown
+Its been **12 hours 40 minutes** since this server shutdown
