@@ -4,24 +4,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-This morning I was wondering where the sun was, but then it dawned on me.
+I'll tell you what often gets over looked... garden fences.
 
 ## Jellyfin
 
-📺 I'm watching: Jon Benjamin Has A VanSomething went wrong with getting the Image, I'll fix it later.
+📺 I'm watching: Jon Benjamin Has A Van
 
 
 ## Daily Trivia
 
-Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
- 1. Microsoft
- 2. Atari
- 3. Commodore
- 4. Apple
+Which kind of algorithm is Ron Rivest not famous for creating?
+ 1. Secret sharing scheme
+ 2. Hashing algorithm
+ 3. Asymmetric encryption
+ 4. Stream cipher
 
 <details>
   <summary>Answer</summary>
-  Apple
+  Secret sharing scheme
 </details>
 
 
