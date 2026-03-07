@@ -4,27 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Me: If humans lose the ability to hear high frequency volumes as they get older, can my 4 week old son hear a dog whistle?
-
-Doctor: No, humans can never hear that high of a frequency no matter what age they are.
-
-Me: Trick question... dogs can't whistle.
+Where does batman go to the bathroom? The batroom.
 
 
 ## Daily Trivia
 
-What does GHz stand for?
- 1. Gigahertz
- 2. Gigahatz
- 3. Gigahetz
- 4. Gigahotz
+Which of these programming languages is a low-level language?
+ 1. Assembly
+ 2. C#
+ 3. Python
+ 4. Pascal
 
 <details>
   <summary>Answer</summary>
-  Gigahertz
+  Assembly
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **8 hours 40 minutes** since this server shutdown
+Its been **9 hours 10 minutes** since this server shutdown
