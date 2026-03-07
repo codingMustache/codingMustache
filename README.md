@@ -4,27 +4,27 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are oranges the smartest fruit? Because they are made to concentrate. 
+Ben & Jerry's really need to improve their operation. The only way to get there is down a rocky road.
 
 ## Jellyfin 
 
-I'm watching Jon Benjamin Has A Van Season 1
+ I'm not watching anything right now
 
 
 ## Daily Trivia
 
-Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
- 1. Puma
- 2. Tiger
- 3. Leopard
- 4. Cheetah
+On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
+ 1. Dollar Sign
+ 2. Exclamation Mark
+ 3. Percent Sign
+ 4. Asterisk
 
 <details>
   <summary>Answer</summary>
-  Cheetah
+  Exclamation Mark
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **23 hours 56 minutes** since this server shutdown
+Its been **1 days40 minutes** since this server shutdown
