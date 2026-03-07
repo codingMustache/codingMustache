@@ -4,30 +4,27 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was Santa's little helper feeling depressed? Because he has low elf esteem.
-
+What did the beaver say to the tree? It's been nice gnawing you.
 
 ## Jellyfin
 
-📺 I'm watching: <strong>Fallout Season 1 Episode 5</strong>
-
-![movie poster](https://image.tmdb.org/t/p/w300_and_h300_face/c15BtJxCXMrISLVmysdsnZUPQft.jpg)
+📺 I'm watching: <strong>Fallout Season 1 Episode 5</strong>Something went wrong with getting the Image, I'll fix it later.
 
 
 ## Daily Trivia
 
-How many bytes are in a single Kibibyte?
- 1. 1240
- 2. 1024
- 3. 2400
- 4. 1000
+On Twitter, what was the original character limit for a Tweet?
+ 1. 120
+ 2. 160
+ 3. 100
+ 4. 140
 
 <details>
   <summary>Answer</summary>
-  1024
+  140
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **1 days  2 hours 31 minutes** since this server shutdown
+Its been **1 days  2 hours 35 minutes** since this server shutdown
