@@ -4,25 +4,25 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-"Dad, do you think it's going to snow this winter?" "I dont know, its all up in the air"
+What did the father tomato say to the baby tomato whilst on a family walk? Ketchup.
 
 I'm not watching anything right now
 
 
 ## Daily Trivia
 
-What is the most preferred image format used for logos in the Wikimedia database?
- 1. .gif
- 2. .jpeg
- 3. .svg
- 4. .png
+In computing terms, typically what does CLI stand for?
+ 1. Common Language Input
+ 2. Control Line Interface
+ 3. Common Language Interface
+ 4. Command Line Interface
 
 <details>
   <summary>Answer</summary>
-  .svg
+  Command Line Interface
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **23 hours 10 minutes** since this server shutdown
+Its been **23 hours 40 minutes** since this server shutdown
