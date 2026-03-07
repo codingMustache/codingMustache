@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I'd like to start a diet, but I've got too much on my plate right now.
+What do you call a fish wearing a bowtie? Sofishticated.
 
 ## Jellyfin
 
@@ -13,15 +13,15 @@ I'd like to start a diet, but I've got too much on my plate right now.
 
 ## Daily Trivia
 
-Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
- 1. Cherry MX Black
- 2. Cherry MX Red
- 3. Cherry MX Brown
- 4. Cherry MX Blue
+The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
+ 1. Sinclair Research
+ 2. Acorn Computers
+ 3. Amstrad PLC
+ 4. Commodore Business Machines
 
 <details>
   <summary>Answer</summary>
-  Cherry MX Blue
+  Acorn Computers
 </details>
 
 
