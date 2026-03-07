@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are snake races so exciting? They're always neck and neck.
+I bought shoes from a drug dealer once. I don't know what he laced them with, but I was tripping all day.
 
 ## Jellyfin
 
@@ -15,18 +15,18 @@ Why are snake races so exciting? They're always neck and neck.
 
 ## Daily Trivia
 
-.at is the top-level domain for what country?
- 1. Austria
- 2. Australia
- 3. Argentina
- 4. Angola
+How many bytes are in a single Kibibyte?
+ 1. 1000
+ 2. 2400
+ 3. 1240
+ 4. 1024
 
 <details>
   <summary>Answer</summary>
-  Austria
+  1024
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **1 days2 hours 14 minutes** since this server shutdown
+Its been **1 days  2 hours 15 minutes** since this server shutdown
