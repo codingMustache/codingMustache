@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a nervous javelin thrower? Shakespeare.
+What's the best thing about elevator jokes? They work on so many levels.
 
 ## Jellyfin
 
@@ -17,18 +17,18 @@ Something went wrong with getting the Image, I'll fix it later.
 
 ## Daily Trivia
 
-Whistler was the codename of this Microsoft Operating System.
- 1. Windows 95
- 2. Windows XP
- 3. Windows 7
- 4. Windows 2000
+In programming, the ternary operator is mostly defined with what symbol(s)?
+ 1. ?:
+ 2. ?
+ 3. ??
+ 4. if then
 
 <details>
   <summary>Answer</summary>
-  Windows XP
+  ?:
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **1 days  2 hours 58 minutes** since this server shutdown
+Its been **1 days  2 hours 59 minutes** since this server shutdown
