@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a fish wearing a bowtie? Sofishticated.
+How many bones are in the human hand? A handful of them.
 
 ## Jellyfin
 
@@ -13,15 +13,15 @@ What do you call a fish wearing a bowtie? Sofishticated.
 
 ## Daily Trivia
 
-The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
- 1. Sinclair Research
- 2. Acorn Computers
- 3. Amstrad PLC
- 4. Commodore Business Machines
+HTML is what type of language?
+ 1. Macro Language
+ 2. Programming Language
+ 3. Markup Language
+ 4. Scripting Language
 
 <details>
   <summary>Answer</summary>
-  Acorn Computers
+  Markup Language
 </details>
 
 
