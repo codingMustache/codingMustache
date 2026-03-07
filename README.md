@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Mountains aren't just funny, they are hill areas
+I been watching a channel on TV that is strictly just about origami — of course it is paper-view.
 
 
 ## Daily Trivia
 
-Australia, Japan, and Southeast Asia are in which ITU Region?
- 1. Region 1
- 2. Region 3
- 3. Region 2
- 4. Region 4
+The C programming language was created by this American computer scientist. 
+ 1. Dennis Ritchie
+ 2. Willis Ware
+ 3. al-Khwārizmī
+ 4. Tim Berners Lee
 
 <details>
   <summary>Answer</summary>
-  Region 3
+  Dennis Ritchie
 </details>
 
 
