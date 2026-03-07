@@ -4,11 +4,11 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-People are shocked to discover I have a police record but I love their greatest hits!
+The best time on a clock is 6:30--hands down.
 
 ## Jellyfin
 
-### I'm watching 📺 
+### I'm Watching 📺 
 <strong>Anthony Bourdain: Parts Unknown  Season 3 Episode 2</strong> 
 
  Las Vegas ⭐️ 7.75 
@@ -20,18 +20,18 @@ Bourdain travels across the globe to uncover little-known areas of the world and
 
 ## Daily Trivia
 
-What does the term GPU stand for?
- 1. Graphical Proprietary Unit
- 2. Graphite Producing Unit
- 3. Graphics Processing Unit
- 4. Gaming Processor Unit
+The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
+ 1. United States
+ 2. China (People&#039;s Republic of)
+ 3. Taiwan
+ 4. Germany
 
 <details>
   <summary>Answer</summary>
-  Graphics Processing Unit
+  Taiwan
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  3 hours 12 minutes</strong> since this server shutdown
+Its been <strong>1 days  3 hours 13 minutes</strong> since this server shutdown
