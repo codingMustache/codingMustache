@@ -4,11 +4,12 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the submarine industry? It really took a dive...
+What do you get when you cross a rabbit with a water hose? Hare spray.
 
 ## Jellyfin
 
-I'm watching: <strong>📺 Anthony Bourdain: Parts Unknown  Season 3 Episode 2</strong> 
+### I'm watching: 📺 
+<strong>Anthony Bourdain: Parts Unknown  Season 3 Episode 2</strong> 
 
  Las Vegas ⭐️ 7.75 
 
@@ -19,18 +20,18 @@ Bourdain travels across the globe to uncover little-known areas of the world and
 
 ## Daily Trivia
 
-What does the International System of Quantities refer 1024 bytes as?
- 1. Kylobyte
- 2. Kibibyte
- 3. Kelobyte
- 4. Kilobyte
+What major programming language does Unreal Engine 4 use?
+ 1. C++
+ 2. ECMAScript
+ 3. C#
+ 4. Assembly
 
 <details>
   <summary>Answer</summary>
-  Kibibyte
+  C++
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  3 hours 10 minutes</strong> since this server shutdown
+Its been <strong>1 days  3 hours 12 minutes</strong> since this server shutdown
