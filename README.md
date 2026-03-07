@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I'll tell you what often gets over looked... garden fences.
+"Dad, I'm hungry." Hello, Hungry. I'm Dad.
 
 ## Jellyfin
 
@@ -13,15 +13,15 @@ I'll tell you what often gets over looked... garden fences.
 
 ## Daily Trivia
 
-Which kind of algorithm is Ron Rivest not famous for creating?
- 1. Secret sharing scheme
- 2. Hashing algorithm
- 3. Asymmetric encryption
- 4. Stream cipher
+Which of the following is NOT a computer science algorithm?
+ 1. Bubble Sort
+ 2. Merge Sort
+ 3. Quick Sort
+ 4. Float Sort
 
 <details>
   <summary>Answer</summary>
-  Secret sharing scheme
+  Float Sort
 </details>
 
 
