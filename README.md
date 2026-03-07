@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What’s the longest word in the dictionary? Smiles. Because there’s a mile between the two S’s.
+Where do sheep go to get their hair cut? The baa-baa shop.
 
 ## Jellyfin
 
@@ -15,18 +15,18 @@ What’s the longest word in the dictionary? Smiles. Because there’s a mile be
 
 ## Daily Trivia
 
-Which of these people was NOT a founder of Apple Inc?
- 1. Jonathan Ive
- 2. Steve Wozniak
- 3. Ronald Wayne
- 4. Steve Jobs
+What does &quot;LCD&quot; stand for?
+ 1. Liquid Crystal Display
+ 2. Long Continuous Design
+ 3. Last Common Difference
+ 4. Language Control Design
 
 <details>
   <summary>Answer</summary>
-  Jonathan Ive
+  Liquid Crystal Display
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **1 days  2 hours 23 minutes** since this server shutdown
+Its been **1 days  2 hours 26 minutes** since this server shutdown
