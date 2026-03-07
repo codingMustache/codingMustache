@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It doesn't matter how much you push the envelope. It will still be stationary.
+Why don't eggs tell jokes? They'd crack each other up
 
 ## Jellyfin
 
@@ -15,18 +15,18 @@ It doesn't matter how much you push the envelope. It will still be stationary.
 
 ## Daily Trivia
 
-What does the Prt Sc button do?
- 1. Captures what&#039;s on the screen and copies it to your clipboard
- 2. Nothing
- 3. Closes all windows
- 4. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
+What is the most preferred image format used for logos in the Wikimedia database?
+ 1. .svg
+ 2. .png
+ 3. .jpeg
+ 4. .gif
 
 <details>
   <summary>Answer</summary>
-  Captures what&#039;s on the screen and copies it to your clipboard
+  .svg
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **1 days  2 hours 15 minutes** since this server shutdown
+Its been **1 days  2 hours 17 minutes** since this server shutdown
