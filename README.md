@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I bought shoes from a drug dealer once. I don't know what he laced them with, but I was tripping all day.
+It doesn't matter how much you push the envelope. It will still be stationary.
 
 ## Jellyfin
 
@@ -15,15 +15,15 @@ I bought shoes from a drug dealer once. I don't know what he laced them with, bu
 
 ## Daily Trivia
 
-How many bytes are in a single Kibibyte?
- 1. 1000
- 2. 2400
- 3. 1240
- 4. 1024
+What does the Prt Sc button do?
+ 1. Captures what&#039;s on the screen and copies it to your clipboard
+ 2. Nothing
+ 3. Closes all windows
+ 4. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
 
 <details>
   <summary>Answer</summary>
-  1024
+  Captures what&#039;s on the screen and copies it to your clipboard
 </details>
 
 
