@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I been watching a channel on TV that is strictly just about origami — of course it is paper-view.
+Why did the miner get fired from his job? He took it for granite...
 
 
 ## Daily Trivia
 
-The C programming language was created by this American computer scientist. 
- 1. Dennis Ritchie
- 2. Willis Ware
- 3. al-Khwārizmī
- 4. Tim Berners Lee
+In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
+ 1. absolute
+ 2. static
+ 3. relative
+ 4. center
 
 <details>
   <summary>Answer</summary>
-  Dennis Ritchie
+  center
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **** since this server shutdown
+Its been **4 hours 40 minutes** since this server shutdown
