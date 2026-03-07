@@ -4,25 +4,25 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why is it so windy inside an arena? All those fans.
+A farmer had 297 cows, when he rounded them up, he found he had 300
 
 I'm not watching anything right now
 
 
 ## Daily Trivia
 
-What kind of memory is used on memory cache?
- 1. DRAM
- 2. SRAM
- 3. ROM
- 4. Flash
+Which kind of algorithm is Ron Rivest not famous for creating?
+ 1. Secret sharing scheme
+ 2. Stream cipher
+ 3. Asymmetric encryption
+ 4. Hashing algorithm
 
 <details>
   <summary>Answer</summary>
-  SRAM
+  Secret sharing scheme
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **15 hours 10 minutes** since this server shutdown
+Its been **15 hours 40 minutes** since this server shutdown
