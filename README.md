@@ -4,27 +4,28 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a bear with no teeth? A gummy bear!
+What kind of pants do ghosts wear? Boo jeans.
 
 ## Jellyfin
 
 📺 I'm watching: Jon Benjamin Has A Van
+https://image.tmdb.org/t/p/w300_and_h300_face/3epRDwLQZxF2CB8PTRuTaprtTZx.jpg
 
 
 ## Daily Trivia
 
-What was Bitcoin&#039;s block size limit in 2010?
- 1. 1 KB
- 2. 1GB
- 3. 1 TB
- 4. 1 MB
+Which computer hardware device provides an interface for all other connected devices to communicate?
+ 1. Motherboard
+ 2. Random Access Memory
+ 3. Hard Disk Drive
+ 4. Central Processing Unit
 
 <details>
   <summary>Answer</summary>
-  1 MB
+  Motherboard
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **1 days2 hours 4 minutes** since this server shutdown
+Its been **1 days2 hours 6 minutes** since this server shutdown
