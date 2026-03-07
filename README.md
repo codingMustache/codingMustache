@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-"I'm sorry." "Hi sorry, I'm dad"
+What did the Dorito farmer say to the other Dorito farmer? Cool Ranch!
 
 ## Jellyfin 
 
@@ -13,18 +13,18 @@ I'm watching Curb Your Enthusiasm Season 1
 
 ## Daily Trivia
 
-Who invented the &quot;Spanning Tree Protocol&quot;?
- 1. Radia Perlman
- 2. Paul Vixie
- 3. Michael Roberts
- 4. Vint Cerf
+Which of these is not a key value of Agile software development?
+ 1. Individuals and interactions
+ 2. Responding to change
+ 3. Comprehensive documentation
+ 4. Customer collaboration
 
 <details>
   <summary>Answer</summary>
-  Radia Perlman
+  Comprehensive documentation
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **10 hours 32 minutes** since this server shutdown
+Its been **10 hours 36 minutes** since this server shutdown
