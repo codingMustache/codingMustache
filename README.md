@@ -4,25 +4,25 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Don't trust atoms. They make up everything.
+What’s the longest word in the dictionary? Smiles. Because there’s a mile between the two S’s.
 
 
 ## Daily Trivia
 
-Unix Time is defined as the number of seconds that have elapsed since when?
- 1. Midnight, January 1, 1970
- 2. Midnight, July 4, 1980
- 3. Midnight on the creator of Unix&#039;s birthday
- 4. Midnight, July 4, 1976
+How many bits make up the significand portion of a single precision floating point number?
+ 1. 23
+ 2. 15
+ 3. 53
+ 4. 8
 
 <details>
   <summary>Answer</summary>
-  Midnight, January 1, 1970
+  23
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **10 hours 8 minutes** since this server shutdown
+Its been **10 hours 10 minutes** since this server shutdown
 
 Unable to fetch watching status
