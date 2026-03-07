@@ -4,27 +4,27 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the beaver say to the tree? It's been nice gnawing you.
+Bought a new jacket suit the other day and it burst into flames. Well, it was a blazer
 
 ## Jellyfin 
 
-I'm watching King Of The Hill
+I'm watching King Of The Hill Season 1
 
 
 ## Daily Trivia
 
-Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
- 1. Skipjack
- 2. Nautilus
- 3. Clipper Chip
- 4. Enigma Machine
+Which one of these is not an official development name for a Ubuntu release?
+ 1. Wily Werewolf
+ 2. Utopic Unicorn
+ 3. Mystic Mansion
+ 4. Trusty Tahr
 
 <details>
   <summary>Answer</summary>
-  Clipper Chip
+  Mystic Mansion
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **10 hours 24 minutes** since this server shutdown
+Its been **10 hours 28 minutes** since this server shutdown
