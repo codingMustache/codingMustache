@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where does astronauts hangout after work? At the spacebar.
+A termite walks into a bar and asks “Is the bar tender here?”
 
 ## Jellyfin
 
@@ -13,18 +13,18 @@ Where does astronauts hangout after work? At the spacebar.
 
 ## Daily Trivia
 
-Which programming language was developed by Sun Microsystems in 1995?
- 1. Python
- 2. Solaris OS
- 3. C++
- 4. Java
+In computing terms, typically what does CLI stand for?
+ 1. Command Line Interface
+ 2. Common Language Interface
+ 3. Control Line Interface
+ 4. Common Language Input
 
 <details>
   <summary>Answer</summary>
-  Java
+  Command Line Interface
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **1 days2 hours ** since this server shutdown
+Its been **1 days2 hours 2 minutes** since this server shutdown
