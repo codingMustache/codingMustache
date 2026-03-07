@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I’m only familiar with 25 letters in the English language. I don’t know why.
+What kind of bagel can fly? A plain bagel.
 
 
 ## Daily Trivia
 
-The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
- 1. Micronesia
- 2. Marshall Islands
- 3. Tuvalu
- 4. Fiji
+What does the term GPU stand for?
+ 1. Graphical Proprietary Unit
+ 2. Graphite Producing Unit
+ 3. Graphics Processing Unit
+ 4. Gaming Processor Unit
 
 <details>
   <summary>Answer</summary>
-  Micronesia
+  Graphics Processing Unit
 </details>
 
 
@@ -25,4 +25,4 @@ The internet domain .fm is the country-code top-level domain for which Pacific O
 
 Its been **10 hours 21 minutes** since this server shutdown
 
-I'm not watching anything right now
+I'm watching King Of The Hill
