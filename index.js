@@ -27,7 +27,7 @@ try {
 	const msg = `Profile README update: ${new Date().toISOString()}`;
 
 	execSync(`git pull`);
-	execSync(`git add ${readMe} .`);
+	execSync(`git add ${readMe}`);
 	execSync(`git commit -m "${msg}"`);
 	execSync("git push");
 } catch (e) {
