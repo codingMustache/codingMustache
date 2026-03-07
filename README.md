@@ -4,27 +4,27 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Can a kangaroo jump higher than the Empire State Building? Of course. The Empire State Building can't jump.
+What's blue and not very heavy?  Light blue.
 
 ## Jellyfin
 
-📺 I'm watching: Jon Benjamin Has A Van
+📺 I'm watching: Jon Benjamin Has A VanSomething went wrong with getting the Image, I'll fix it later.
 
 
 ## Daily Trivia
 
-On Twitter, what was the original character limit for a Tweet?
- 1. 100
- 2. 140
- 3. 160
- 4. 120
+.rs is the top-level domain for what country?
+ 1. Serbia
+ 2. Rwanda
+ 3. Russia
+ 4. Romania
 
 <details>
   <summary>Answer</summary>
-  140
+  Serbia
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **1 days2 hours 2 minutes** since this server shutdown
+Its been **1 days2 hours 3 minutes** since this server shutdown
