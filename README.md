@@ -4,29 +4,29 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A man walked in to a bar with some asphalt on his arm. He said “Two beers please, one for me and one for the road.”
+What do you call a fly without wings? A walk.
 
 ## Jellyfin
 
-📺 I'm watching: <strong>Jon Benjamin Has A Van Season 1 Episode 10</strong>
+📺 I'm watching: <strong>Fallout Season 1 Episode 5</strong>
 
-![movie poster](https://image.tmdb.org/t/p/w300_and_h300_face/3epRDwLQZxF2CB8PTRuTaprtTZx.jpg)
+![movie poster](https://image.tmdb.org/t/p/w300_and_h300_face/c15BtJxCXMrISLVmysdsnZUPQft.jpg)
 
 
 ## Daily Trivia
 
-Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
- 1. Four Years
- 2. Two Years
- 3. Year
- 4. Eight Years
+On Twitter, what was the original character limit for a Tweet?
+ 1. 140
+ 2. 100
+ 3. 160
+ 4. 120
 
 <details>
   <summary>Answer</summary>
-  Year
+  140
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **1 days  2 hours 27 minutes** since this server shutdown
+Its been **1 days  2 hours 29 minutes** since this server shutdown
