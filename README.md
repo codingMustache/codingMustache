@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are basketball players messy eaters? Because they are always dribbling.
+How does a scientist freshen their breath? With experi-mints!
 
 ## Jellyfin
 
@@ -19,18 +19,18 @@ Bourdain travels across the globe to uncover little-known areas of the world and
 
 ## Daily Trivia
 
-What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
- 1. Network
- 2. Session
- 3. Data link
- 4. Transport
+While Apple was formed in California, in which western state was Microsoft founded?
+ 1. Washington
+ 2. Colorado
+ 3. Arizona
+ 4. New Mexico
 
 <details>
   <summary>Answer</summary>
-  Transport
+  New Mexico
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  3 hours 7 minutes</strong> since this server shutdown
+Its been <strong>1 days  3 hours 8 minutes</strong> since this server shutdown

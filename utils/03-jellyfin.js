@@ -11,10 +11,10 @@ const options = {
 const params = new URLSearchParams({
 	SortBy: "DatePlayed",
 	SortOrder: "Descending",
-	Limit: 1,
-	Filters: "IsPlayed",
+	includeExternalContent: true,
 	Recursive: true,
-	Fields: "UserData",
+	presetViews: '"tvshows"',
+	Limit: 1,
 });
 
 const url = new URL(
@@ -35,55 +35,50 @@ async function getWatchingStatus() {
 		}
 
 		const item = json.Items[0];
-		const title = item?.SeriesName ?? item?.Name;
-		if (item.SeriesName) {
-			stringBuilder =
-				stringBuilder +
-				`📺 I'm watching: <strong>${title} ${item.SeasonName} Episode ${item.IndexNumber}</strong>`;
-		} else if (item.Name) {
-			stringBuilder = stringBuilder + `🎥 I'm watching: **${title}**`;
-		}
+		stringBuilder =
+			stringBuilder +
+			(item.Type == "Episode"
+				? `I'm watching: <strong>📺 ${item?.SeriesName}  ${item.SeasonName} Episode ${item.IndexNumber}</strong> \n\n ${item.Name}`
+				: item?.Name
+					? `🎥 I'm watching: **${item.Name}**`
+					: "");
 
-		if (title.length > 0) {
-			try {
-				const tmdb_url = new URL(
-					`https://api.themoviedb.org/3/search/tv`,
-				);
-				const tmdb_options = {
-					method: "GET",
-					headers: {
-						Authorization: `Bearer ${process.env.TMBDB_API_KEY}`,
-						Accept: "application/json",
-					},
-				};
-				const tmdb_params = new URLSearchParams({
-					limit: "1",
-					query: title,
-				});
-				tmdb_url.search = tmdb_params.toString();
+		if (item.SeriesName.length > 0 || item.Name.length > 0) {
+			const tmdb_url = new URL(
+				`https://api.themoviedb.org/3/search/tv`,
+			);
+			const tmdb_options = {
+				method: "GET",
+				headers: {
+					Authorization: `Bearer ${process.env.TMBDB_API_KEY}`,
+					Accept: "application/json",
+				},
+			};
+			const tmdb_params = new URLSearchParams({
+				limit: "1",
+				query: item?.SeriesName ?? item.Name,
+			});
+			tmdb_url.search = tmdb_params.toString();
 
-				const req = await fetch(tmdb_url.toString(), tmdb_options);
-				const json = await req.json();
-				const result = json.results[0].poster_path;
-				console.log(result);
-				// get img path
-				const tmdbBaseImgPath = `https://image.tmdb.org/t/p/w300_and_h300_face${result}`;
-				if (result) {
-					stringBuilder =
-						stringBuilder +
-						`\n\n![movie poster](${tmdbBaseImgPath})`;
-				}
-			} catch (err) {
-				console.error(`error reaching tmdb: ${err}`);
+			const req = await fetch(tmdb_url.toString(), tmdb_options);
+			const json = await req.json();
+			const { poster_path, overview, original_name, vote_average } =
+				json.results[0];
+			console.log(overview);
+			if (poster_path && overview && original_name && vote_average) {
+				const tmdbImgSrc = `https://image.tmdb.org/t/p/w300_and_h300_face${poster_path}`;
 				stringBuilder =
 					stringBuilder +
-					`Something went wrong with getting the Image, I'll fix it later.`;
+					` ⭐️ ${vote_average} \n\n${overview} \n\n![movie poster](${tmdbImgSrc})`;
 			}
 		}
 	} catch (err) {
-		console.error(`error reaching jellyfin: ${err}`);
-		return stringBuilder;
+		console.error(`error reaching tmdb: ${err}`);
+		stringBuilder =
+			stringBuilder +
+			`\n\nSomething went wrong with getting the Image, I'll fix it later.`;
 	}
+
 	return stringBuilder;
 }
 
