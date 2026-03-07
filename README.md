@@ -4,8 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-"Dad, I'm cold."
-"Go stand in the corner, I hear it's 90 degrees."
+What has a bed that you can’t sleep in? A river.
 
 ## Jellyfin
 
@@ -14,15 +13,15 @@ I'm not watching anything right nowI'm not watching anything, right now.
 
 ## Daily Trivia
 
-CMOS is tech used for constructing integrated circuits. What does CMOS stand for?
- 1. Complementary metal&ndash;oxide&ndash;semiconductor
- 2. Complementary magnetic-ohms-semiconductor
- 3. Computer-made operating system
- 4. Computer-made oscillating static
+The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
+ 1. HD Graphics 500
+ 2. HD Graphics 7000
+ 3. HD Graphics 600
+ 4. HD Graphics 700 
 
 <details>
   <summary>Answer</summary>
-  Complementary metal&ndash;oxide&ndash;semiconductor
+  HD Graphics 500
 </details>
 
 
