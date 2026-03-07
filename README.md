@@ -4,23 +4,25 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What’s the difference between an African elephant and an Indian elephant? About 5000 miles.
+I asked my date to go to the gym the other day. They never showed up. That's when I knew we wouldn't work out.
 
 
 ## Daily Trivia
 
-What kind of memory is used on memory cache?
- 1. SRAM
- 2. Flash
- 3. ROM
- 4. DRAM
+Which computer hardware device provides an interface for all other connected devices to communicate?
+ 1. Central Processing Unit
+ 2. Hard Disk Drive
+ 3. Motherboard
+ 4. Random Access Memory
 
 <details>
   <summary>Answer</summary>
-  SRAM
+  Motherboard
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **9 hours 40 minutes** since this server shutdown
+Its been **10 hours 3 minutes** since this server shutdown
+
+Unable to fetch watching status
