@@ -4,27 +4,27 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do bees go to the bathroom?  The BP station.
+Where does astronauts hangout after work? At the spacebar.
 
 ## Jellyfin
 
-
+📺 I'm watching: Jon Benjamin Has A Van
 
 
 ## Daily Trivia
 
-Who is the founder of Palantir?
- 1. Peter Thiel
- 2. Mark Zuckerberg
- 3. Marc Benioff
- 4. Jack Dorsey
+Which programming language was developed by Sun Microsystems in 1995?
+ 1. Python
+ 2. Solaris OS
+ 3. C++
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  Peter Thiel
+  Java
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **1 days1 hours 59 minutes** since this server shutdown
+Its been **1 days2 hours ** since this server shutdown
