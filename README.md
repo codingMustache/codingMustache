@@ -4,25 +4,25 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I don't trust stairs. They're always up to something.
+Why didn’t the skeleton cross the road? Because he had no guts.
 
 I'm not watching anything right now
 
 
 ## Daily Trivia
 
-When Gmail first launched, how much storage did it provide for your email?
- 1. 1GB
- 2. 5GB
- 3. 512MB
- 4. Unlimited
+In networking, what does OSPF stand for?
+ 1. Order Sense Ping Find
+ 2. Open Signal Path Finder
+ 3. Open Shortest Path First
+ 4. Order State Part First
 
 <details>
   <summary>Answer</summary>
-  1GB
+  Open Shortest Path First
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **18 hours 40 minutes** since this server shutdown
+Its been **19 hours 10 minutes** since this server shutdown
