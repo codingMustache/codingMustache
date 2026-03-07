@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-They tried to make a diamond shaped like a duck. It quacked under the pressure.
+When does a joke become a dad joke? When it becomes apparent.
 
 ## Jellyfin
 
@@ -15,15 +15,15 @@ They tried to make a diamond shaped like a duck. It quacked under the pressure.
 
 ## Daily Trivia
 
-What does CPU stand for?
- 1. Central Process Unit
- 2. Computer Personal Unit
- 3. Central Processor Unit
- 4. Central Processing Unit
+Which programming language shares its name with an island in Indonesia?
+ 1. C
+ 2. Java
+ 3. Python
+ 4. Jakarta
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  Java
 </details>
 
 
