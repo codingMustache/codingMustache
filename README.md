@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do sheep go to get their hair cut? The baa-baa shop.
+Have you heard about the film "Constipation", you probably haven't because it's not out yet.
 
 ## Jellyfin
 
@@ -15,15 +15,15 @@ Where do sheep go to get their hair cut? The baa-baa shop.
 
 ## Daily Trivia
 
-What does &quot;LCD&quot; stand for?
- 1. Liquid Crystal Display
- 2. Long Continuous Design
- 3. Last Common Difference
- 4. Language Control Design
+What is the maximum value of a 32-bit signed binary integer?
+ 1. 2,147,483,647
+ 2. 9,223,372,036,854,775,807
+ 3. 2048
+ 4. 255
 
 <details>
   <summary>Answer</summary>
-  Liquid Crystal Display
+  2,147,483,647
 </details>
 
 
