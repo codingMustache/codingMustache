@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the beaver say to the tree? It's been nice gnawing you.
+What do you get hanging from Apple trees? Sore arms.
 
 ## Jellyfin
 
@@ -13,18 +13,18 @@ What did the beaver say to the tree? It's been nice gnawing you.
 
 ## Daily Trivia
 
-On Twitter, what was the original character limit for a Tweet?
- 1. 120
- 2. 160
- 3. 100
- 4. 140
+Which programming language shares its name with an island in Indonesia?
+ 1. Python
+ 2. C
+ 3. Jakarta
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  140
+  Java
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **1 days  2 hours 35 minutes** since this server shutdown
+Its been **1 days  2 hours 36 minutes** since this server shutdown
