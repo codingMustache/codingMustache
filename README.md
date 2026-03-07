@@ -4,13 +4,13 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Dad I’m hungry’ … ‘Hi hungry I’m dad
+If two vegans are having an argument, is it still considered beef?
 
 ## Jellyfin
 
 📺 I'm watching: <strong>Fallout Season 1 Episode 5</strong>
 
-Fallout 
+Fallout ⭐️8.128 
 
 The story of haves and have-nots in a world in which there's almost nothing left to have. 200 years after the apocalypse, the gentle denizens of luxury fallout shelters are forced to return to the irradiated hellscape their ancestors left behind — and are shocked to discover an incredibly complex, gleefully weird, and highly violent universe waiting for them. 
 
@@ -19,18 +19,18 @@ The story of haves and have-nots in a world in which there's almost nothing left
 
 ## Daily Trivia
 
-On which computer hardware device is the BIOS chip located?
- 1. Motherboard
- 2. Hard Disk Drive
- 3. Central Processing Unit
- 4. Graphics Processing Unit
+The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
+ 1. United States
+ 2. Germany
+ 3. China (People&#039;s Republic of)
+ 4. Taiwan
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  Taiwan
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **1 days  2 hours 40 minutes** since this server shutdown
+Its been **1 days  2 hours 41 minutes** since this server shutdown
