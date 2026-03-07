@@ -17,5 +17,8 @@
         "url": "https://github.com/codingMustache/codingMustache/issues",
         "email": "bug@codingMusatche.dev"
     },
-    "homepage": "https://github.com/codingMustache/codingMustache"
+    "homepage": "https://github.com/codingMustache/codingMustache",
+    "dependencies": {
+        "dotenv": "^17.3.1"
+    }
 }
