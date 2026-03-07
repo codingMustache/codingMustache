@@ -4,25 +4,25 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do birds fly south for the winter? Because it's too far to walk.
+I don't trust stairs. They're always up to something.
 
 I'm not watching anything right now
 
 
 ## Daily Trivia
 
-What does the computer software acronym JVM stand for?
- 1. Java Vendor Machine
- 2. Java Visual Machine
- 3. Just Virtual Machine
- 4. Java Virtual Machine
+When Gmail first launched, how much storage did it provide for your email?
+ 1. 1GB
+ 2. 5GB
+ 3. 512MB
+ 4. Unlimited
 
 <details>
   <summary>Answer</summary>
-  Java Virtual Machine
+  1GB
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **18 hours 10 minutes** since this server shutdown
+Its been **18 hours 40 minutes** since this server shutdown
