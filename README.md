@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the calculator say to the student? You can count on me.
+Why did the chicken get a penalty? For fowl play.
 
 ## Jellyfin
 
@@ -13,18 +13,18 @@ I'm not watching anything right now
 
 ## Daily Trivia
 
-On which computer hardware device is the BIOS chip located?
- 1. Motherboard
- 2. Hard Disk Drive
- 3. Central Processing Unit
- 4. Graphics Processing Unit
+What does GHz stand for?
+ 1. Gigahotz
+ 2. Gigahetz
+ 3. Gigahatz
+ 4. Gigahertz
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  Gigahertz
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **1 days1 hours 34 minutes** since this server shutdown
+Its been **1 days1 hours 36 minutes** since this server shutdown
