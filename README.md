@@ -4,25 +4,27 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the father tomato say to the baby tomato whilst on a family walk? Ketchup.
+Velcro… What a rip-off.
 
-I'm not watching anything right now
+## Jellyfin 
+
+I'm watching Jon Benjamin Has A Van Season 1
 
 
 ## Daily Trivia
 
-In computing terms, typically what does CLI stand for?
- 1. Common Language Input
- 2. Control Line Interface
- 3. Common Language Interface
- 4. Command Line Interface
+Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
+ 1. Overstock
+ 2. eBay
+ 3. Amazon
+ 4. Shopify
 
 <details>
   <summary>Answer</summary>
-  Command Line Interface
+  Amazon
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **23 hours 40 minutes** since this server shutdown
+Its been **23 hours 52 minutes** since this server shutdown
