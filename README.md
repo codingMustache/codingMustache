@@ -4,25 +4,26 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a group of disorganized cats? A cat-tastrophe.
+What is the best way to carve?
+Whittle by whittle.
 
 I'm not watching anything right now
 
 
 ## Daily Trivia
 
-Which of these people was NOT a founder of Apple Inc?
- 1. Ronald Wayne
- 2. Steve Jobs
- 3. Steve Wozniak
- 4. Jonathan Ive
+Which RAID array type is associated with data mirroring?
+ 1. RAID 10
+ 2. RAID 5
+ 3. RAID 1
+ 4. RAID 0
 
 <details>
   <summary>Answer</summary>
-  Jonathan Ive
+  RAID 1
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **20 hours 40 minutes** since this server shutdown
+Its been **21 hours 10 minutes** since this server shutdown
