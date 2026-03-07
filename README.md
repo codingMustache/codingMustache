@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why does Norway have barcodes on their battleships? So when they get back to port, they can Scandinavian.
+What’s the longest word in the dictionary? Smiles. Because there’s a mile between the two S’s.
 
 ## Jellyfin
 
@@ -15,18 +15,18 @@ Why does Norway have barcodes on their battleships? So when they get back to por
 
 ## Daily Trivia
 
-What does the term GPU stand for?
- 1. Graphical Proprietary Unit
- 2. Graphics Processing Unit
- 3. Graphite Producing Unit
- 4. Gaming Processor Unit
+Which of these people was NOT a founder of Apple Inc?
+ 1. Jonathan Ive
+ 2. Steve Wozniak
+ 3. Ronald Wayne
+ 4. Steve Jobs
 
 <details>
   <summary>Answer</summary>
-  Graphics Processing Unit
+  Jonathan Ive
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **1 days  2 hours 21 minutes** since this server shutdown
+Its been **1 days  2 hours 23 minutes** since this server shutdown
