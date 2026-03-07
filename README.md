@@ -4,7 +4,8 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a fly without wings? A walk.
+Why was Santa's little helper feeling depressed? Because he has low elf esteem.
+
 
 ## Jellyfin
 
@@ -15,18 +16,18 @@ What do you call a fly without wings? A walk.
 
 ## Daily Trivia
 
-On Twitter, what was the original character limit for a Tweet?
- 1. 140
- 2. 100
- 3. 160
- 4. 120
+How many bytes are in a single Kibibyte?
+ 1. 1240
+ 2. 1024
+ 3. 2400
+ 4. 1000
 
 <details>
   <summary>Answer</summary>
-  140
+  1024
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **1 days  2 hours 29 minutes** since this server shutdown
+Its been **1 days  2 hours 31 minutes** since this server shutdown
