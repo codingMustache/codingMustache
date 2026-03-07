@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Ben & Jerry's really need to improve their operation. The only way to get there is down a rocky road.
+What is a tornado's favorite game to play? Twister!
 
 ## Jellyfin 
 
@@ -13,18 +13,18 @@ Ben & Jerry's really need to improve their operation. The only way to get there 
 
 ## Daily Trivia
 
-On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
- 1. Dollar Sign
- 2. Exclamation Mark
- 3. Percent Sign
- 4. Asterisk
+What is the most preferred image format used for logos in the Wikimedia database?
+ 1. .png
+ 2. .jpeg
+ 3. .gif
+ 4. .svg
 
 <details>
   <summary>Answer</summary>
-  Exclamation Mark
+  .svg
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **1 days40 minutes** since this server shutdown
+Its been **1 days1 hours 10 minutes** since this server shutdown
