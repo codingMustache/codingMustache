@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-At the boxing match, the dad got into the popcorn line and the line for hot dogs, but he wanted to stay out of the punchline.
+Why are giraffes so slow to apologize? Because it takes them a long time to swallow their pride.
 
 ## Jellyfin
 
@@ -13,18 +13,18 @@ At the boxing match, the dad got into the popcorn line and the line for hot dogs
 
 ## Daily Trivia
 
-What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
- 1. Coffee Lake
- 2. Broadwell
- 3. Skylake
- 4. Sandy Bridge
+This mobile OS held the largest market share in 2012.
+ 1. BlackBerry
+ 2. Android
+ 3. iOS
+ 4. Symbian
 
 <details>
   <summary>Answer</summary>
-  Coffee Lake
+  iOS
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **1 days1 hours 54 minutes** since this server shutdown
+Its been **1 days1 hours 58 minutes** since this server shutdown
