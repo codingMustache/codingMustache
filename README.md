@@ -4,24 +4,26 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What biscuit does a short person like? Shortbread. 
+If I could name myself after any Egyptian god, I'd be Set.
 
 ## Jellyfin
 
-🎥 I'm watching: **28 Days/Weeks/Years Later Collection**Something went wrong with getting the Image, I'll fix it later.
+📺 I'm watching: <strong>Jon Benjamin Has A Van Season 1 Episode 10</strong>
+
+![movie poster](https://image.tmdb.org/t/p/w300_and_h300_face/3epRDwLQZxF2CB8PTRuTaprtTZx.jpg)
 
 
 ## Daily Trivia
 
-In computing terms, typically what does CLI stand for?
- 1. Control Line Interface
- 2. Common Language Input
- 3. Command Line Interface
- 4. Common Language Interface
+Approximately how many Apple I personal computers were created?
+ 1. 100
+ 2. 500
+ 3. 1000
+ 4. 200
 
 <details>
   <summary>Answer</summary>
-  Command Line Interface
+  200
 </details>
 
 
