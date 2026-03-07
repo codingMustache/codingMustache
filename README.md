@@ -4,26 +4,26 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A beekeeper was indicted after he confessed to years of stealing at work. They charged him with emBEEzlement
+which flower is most fierce? Dandelion
 
 ## Jellyfin
 
-📺 I'm watching: **Jon Benjamin Has A Van**
+📺 I'm watching: **Jon Benjamin Has A Van Season 1**
 
 ![movie poster](https://image.tmdb.org/t/p/w300_and_h300_face/3epRDwLQZxF2CB8PTRuTaprtTZx.jpg)
 
 
 ## Daily Trivia
 
-The teapot often seen in many 3D modeling applications is called what?
- 1. 3D Teapot
- 2. Pixar Teapot
- 3. Utah Teapot
- 4. Tennessee Teapot
+Which of these programming languages is a low-level language?
+ 1. Assembly
+ 2. Pascal
+ 3. C#
+ 4. Python
 
 <details>
   <summary>Answer</summary>
-  Utah Teapot
+  Assembly
 </details>
 
 
