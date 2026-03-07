@@ -4,25 +4,25 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of magic do cows believe in? MOODOO.
+Don't trust atoms. They make up everything.
 
 
 ## Daily Trivia
 
-What was the name given to Android 4.3?
- 1. Lollipop
- 2. Nutella
- 3. Froyo
- 4. Jelly Bean
+Unix Time is defined as the number of seconds that have elapsed since when?
+ 1. Midnight, January 1, 1970
+ 2. Midnight, July 4, 1980
+ 3. Midnight on the creator of Unix&#039;s birthday
+ 4. Midnight, July 4, 1976
 
 <details>
   <summary>Answer</summary>
-  Jelly Bean
+  Midnight, January 1, 1970
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **10 hours 7 minutes** since this server shutdown
+Its been **10 hours 8 minutes** since this server shutdown
 
 Unable to fetch watching status
