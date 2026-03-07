@@ -4,25 +4,25 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I was so proud when I finished the puzzle in six months, when on the side it said three to four years.
+Why is it so windy inside an arena? All those fans.
 
 I'm not watching anything right now
 
 
 ## Daily Trivia
 
-What was the name of the image that features as the default background wallpaper for Windows XP?
- 1. Azul
- 2. Red moon desert
- 3. Bliss
- 4. Tulips
+What kind of memory is used on memory cache?
+ 1. DRAM
+ 2. SRAM
+ 3. ROM
+ 4. Flash
 
 <details>
   <summary>Answer</summary>
-  Bliss
+  SRAM
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **14 hours 40 minutes** since this server shutdown
+Its been **15 hours 10 minutes** since this server shutdown
