@@ -4,25 +4,25 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I knew i shouldn’t have ate that seafood. Because now i’m feeling a little… Eel
+What kind of magic do cows believe in? MOODOO.
 
 
 ## Daily Trivia
 
-What is largely considered the precursor to the USB format?
- 1. PS/2
- 2. FireWire
- 3. PCIe
- 4. SVGA
+What was the name given to Android 4.3?
+ 1. Lollipop
+ 2. Nutella
+ 3. Froyo
+ 4. Jelly Bean
 
 <details>
   <summary>Answer</summary>
-  PS/2
+  Jelly Bean
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **10 hours 6 minutes** since this server shutdown
+Its been **10 hours 7 minutes** since this server shutdown
 
 Unable to fetch watching status
