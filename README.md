@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What’s the advantage of living in Switzerland? Well, the flag is a big plus.
+Mountains aren't just funny, they are hill areas
 
 
 ## Daily Trivia
 
-The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
- 1. HD Graphics 500
- 2. HD Graphics 7000
- 3. HD Graphics 600
- 4. HD Graphics 700 
+Australia, Japan, and Southeast Asia are in which ITU Region?
+ 1. Region 1
+ 2. Region 3
+ 3. Region 2
+ 4. Region 4
 
 <details>
   <summary>Answer</summary>
-  HD Graphics 500
+  Region 3
 </details>
 
 
