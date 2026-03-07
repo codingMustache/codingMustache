@@ -4,27 +4,25 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It's difficult to say what my wife does, she sells sea shells by the sea shore.
+I was going to get a brain transplant, but I changed my mind
 
-## Jellyfin 
-
-I'm watching Curb Your Enthusiasm Season 1
+I'm not watching anything right now
 
 
 ## Daily Trivia
 
-How long is an IPv6 address?
- 1. 64 bits
- 2. 128 bits
- 3. 32 bits
- 4. 128 bytes
+When did the online streaming service &quot;Mixer&quot; launch?
+ 1. 2016
+ 2. 2013
+ 3. 2009
+ 4. 2011
 
 <details>
   <summary>Answer</summary>
-  128 bits
+  2016
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **10 hours 40 minutes** since this server shutdown
+Its been **11 hours 10 minutes** since this server shutdown
