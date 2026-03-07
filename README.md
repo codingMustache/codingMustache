@@ -4,25 +4,25 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why is there always a gate around cemeteries? Because people are always dying to get in.
+I knew i shouldn’t have ate that seafood. Because now i’m feeling a little… Eel
 
 
 ## Daily Trivia
 
-This mobile OS held the largest market share in 2012.
- 1. Android
- 2. BlackBerry
- 3. Symbian
- 4. iOS
+What is largely considered the precursor to the USB format?
+ 1. PS/2
+ 2. FireWire
+ 3. PCIe
+ 4. SVGA
 
 <details>
   <summary>Answer</summary>
-  iOS
+  PS/2
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **10 hours 5 minutes** since this server shutdown
+Its been **10 hours 6 minutes** since this server shutdown
 
 Unable to fetch watching status
