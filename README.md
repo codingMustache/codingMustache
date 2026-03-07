@@ -4,26 +4,27 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was Santa's little helper feeling depressed? Because he has low elf esteem.
+What did the beaver say to the tree? It's been nice gnawing you.
 
+## Jellyfin 
+
+I'm watching King Of The Hill
 
 
 ## Daily Trivia
 
-What does the &quot;MP&quot; stand for in MP3?
- 1. Moving Picture
- 2. Multi Pass
- 3. Music Player
- 4. Micro Point
+Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
+ 1. Skipjack
+ 2. Nautilus
+ 3. Clipper Chip
+ 4. Enigma Machine
 
 <details>
   <summary>Answer</summary>
-  Moving Picture
+  Clipper Chip
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **10 hours 23 minutes** since this server shutdown
-
-I'm watching King Of The Hill
+Its been **10 hours 24 minutes** since this server shutdown
