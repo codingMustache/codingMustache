@@ -4,11 +4,13 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do young cows eat lunch? In the calf-ateria.
+Dad I’m hungry’ … ‘Hi hungry I’m dad
 
 ## Jellyfin
 
 📺 I'm watching: <strong>Fallout Season 1 Episode 5</strong>
+
+Fallout 
 
 The story of haves and have-nots in a world in which there's almost nothing left to have. 200 years after the apocalypse, the gentle denizens of luxury fallout shelters are forced to return to the irradiated hellscape their ancestors left behind — and are shocked to discover an incredibly complex, gleefully weird, and highly violent universe waiting for them. 
 
@@ -17,15 +19,15 @@ The story of haves and have-nots in a world in which there's almost nothing left
 
 ## Daily Trivia
 
-According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:
- 1. AB&#039; + AB
- 2. A&#039;B&#039;
- 3. A&#039;B + B&#039;A
- 4. A&#039; + B&#039;
+On which computer hardware device is the BIOS chip located?
+ 1. Motherboard
+ 2. Hard Disk Drive
+ 3. Central Processing Unit
+ 4. Graphics Processing Unit
 
 <details>
   <summary>Answer</summary>
-  A&#039; + B&#039;
+  Motherboard
 </details>
 
 
