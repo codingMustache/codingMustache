@@ -4,25 +4,25 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's brown and sticky? A stick.
+I’m only familiar with 25 letters in the English language. I don’t know why.
 
 
 ## Daily Trivia
 
-How many bits are commonly in a single byte?
- 1. Six bits
- 2. Twelve bits
- 3.  Fifteen bits
- 4. Eight bits
+The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
+ 1. Micronesia
+ 2. Marshall Islands
+ 3. Tuvalu
+ 4. Fiji
 
 <details>
   <summary>Answer</summary>
-  Eight bits
+  Micronesia
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **10 hours 18 minutes** since this server shutdown
+Its been **10 hours 21 minutes** since this server shutdown
 
 I'm not watching anything right now
