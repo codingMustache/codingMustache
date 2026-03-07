@@ -4,25 +4,25 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Last night me and my girlfriend watched three DVDs back to back. Luckily I was the one facing the TV.
+What does a female snake use for support? A co-Bra!
 
 
 ## Daily Trivia
 
-What does the International System of Quantities refer 1024 bytes as?
- 1. Kibibyte
- 2. Kylobyte
- 3. Kelobyte
- 4. Kilobyte
+What was the first company to use the term &quot;Golden Master&quot;?
+ 1. Google
+ 2. IBM
+ 3. Apple
+ 4. Microsoft
 
 <details>
   <summary>Answer</summary>
-  Kibibyte
+  Apple
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **10 hours 15 minutes** since this server shutdown
+Its been **10 hours 16 minutes** since this server shutdown
 
-Unable to fetch watching status
+I'm not watching anything right now
