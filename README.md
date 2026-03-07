@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was the picture sent to prison? It was framed.
+Conjunctivitis.com – now that’s a site for sore eyes.
 
 
 ## Daily Trivia
 
-All of the following programs are classified as raster graphics editors EXCEPT:
- 1. GIMP
- 2. Paint.NET
- 3. Adobe Photoshop
- 4. Inkscape
+Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
+ 1. Puma
+ 2. Tiger
+ 3. Cheetah
+ 4. Leopard
 
 <details>
   <summary>Answer</summary>
-  Inkscape
+  Cheetah
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **7 hours 10 minutes** since this server shutdown
+Its been **7 hours 40 minutes** since this server shutdown
