@@ -4,20 +4,20 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was the shirt happy to hang around the tank top? Because it was armless
+Last night me and my girlfriend watched three DVDs back to back. Luckily I was the one facing the TV.
 
 
 ## Daily Trivia
 
-What does the acronym CDN stand for in terms of networking?
- 1. Content Delivery Network
- 2. Compressed Data Network
- 3. Computational Data Network
- 4. Content Distribution Network
+What does the International System of Quantities refer 1024 bytes as?
+ 1. Kibibyte
+ 2. Kylobyte
+ 3. Kelobyte
+ 4. Kilobyte
 
 <details>
   <summary>Answer</summary>
-  Content Delivery Network
+  Kibibyte
 </details>
 
 
