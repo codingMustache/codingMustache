@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How does Darth Vader like his toast? On the dark side.
+They tried to make a diamond shaped like a duck. It quacked under the pressure.
 
 ## Jellyfin
 
@@ -15,15 +15,15 @@ How does Darth Vader like his toast? On the dark side.
 
 ## Daily Trivia
 
-What does the &#039;S&#039; in the RSA encryption algorithm stand for?
- 1. Stable
- 2. Secure
- 3. Shamir
- 4. Schottky
+What does CPU stand for?
+ 1. Central Process Unit
+ 2. Computer Personal Unit
+ 3. Central Processor Unit
+ 4. Central Processing Unit
 
 <details>
   <summary>Answer</summary>
-  Shamir
+  Central Processing Unit
 </details>
 
 
