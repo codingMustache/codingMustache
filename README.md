@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Conjunctivitis.com – now that’s a site for sore eyes.
+Who is the coolest Doctor in the hospital? The hip Doctor!
 
 
 ## Daily Trivia
 
-Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
- 1. Puma
- 2. Tiger
- 3. Cheetah
- 4. Leopard
+Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
+ 1. Two Years
+ 2. Eight Years
+ 3. Four Years
+ 4. Year
 
 <details>
   <summary>Answer</summary>
-  Cheetah
+  Year
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **7 hours 40 minutes** since this server shutdown
+Its been **8 hours 10 minutes** since this server shutdown
