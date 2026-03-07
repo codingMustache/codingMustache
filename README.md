@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where does batman go to the bathroom? The batroom.
+What’s the difference between an African elephant and an Indian elephant? About 5000 miles.
 
 
 ## Daily Trivia
 
-Which of these programming languages is a low-level language?
- 1. Assembly
- 2. C#
- 3. Python
- 4. Pascal
+What kind of memory is used on memory cache?
+ 1. SRAM
+ 2. Flash
+ 3. ROM
+ 4. DRAM
 
 <details>
   <summary>Answer</summary>
-  Assembly
+  SRAM
 </details>
 
 
 ## Home Server Up-Time
 
-Its been **9 hours 10 minutes** since this server shutdown
+Its been **9 hours 40 minutes** since this server shutdown
