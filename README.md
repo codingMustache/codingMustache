@@ -17,23 +17,23 @@ Special guests include Patton Oswalt, David Cross, Jon Glaser, Eric Wareheim, Ti
 
 ## Joke of the Day
 
-What do you call a snake who builds houses? A boa constructor!
+Frankenstein enters a bodybuilding competition and finds he has seriously misunderstood the objective.
 
 
 ## Daily Trivia
 
-The name of technology company HP stands for what?
- 1. Howard Packmann
- 2. Hewlett-Packard
- 3. Husker-Pollosk
- 4. Hellman-Pohl
+When Gmail first launched, how much storage did it provide for your email?
+ 1. 1GB
+ 2. Unlimited
+ 3. 512MB
+ 4. 5GB
 
 <details>
   <summary>Answer</summary>
-  Hewlett-Packard
+  1GB
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  2 hours 40 minutes</strong> since this server shutdown
+Its been <strong>2 days  3 hours 10 minutes</strong> since this server shutdown
