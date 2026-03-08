@@ -17,23 +17,23 @@ Special guests include Patton Oswalt, David Cross, Jon Glaser, Eric Wareheim, Ti
 
 ## Joke of the Day
 
-What's black and white and read all over? The newspaper.
+How do the trees get on the internet? They log on.
 
 
 ## Daily Trivia
 
-Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
- 1. Cherry MX Blue
- 2. Cherry MX Black
- 3. Cherry MX Red
- 4. Cherry MX Brown
+America Online (AOL) started out as which of these online service providers?
+ 1. CompuServe
+ 2. Quantum Link
+ 3. Prodigy
+ 4. GEnie
 
 <details>
   <summary>Answer</summary>
-  Cherry MX Blue
+  Quantum Link
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  16 hours 40 minutes</strong> since this server shutdown
+Its been <strong>1 days  17 hours 10 minutes</strong> since this server shutdown
