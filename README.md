@@ -5,9 +5,9 @@ Hello I'm Jorge and I love making things for the internet
 ## Jellyfin
 
 ### I'm Watching 📺 
-<strong>The Walking Dead  Season 5 Episode 16</strong> 
+<strong>The Walking Dead  Season 6 Episode 1</strong> 
 
- Conquer ⭐️ 8.09 
+ First Time Again ⭐️ 8.09 
 
 Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way. 
 
@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-What do vegetarian zombies eat? Grrrrrainnnnnssss.
+What kind of bagel can fly? A plain bagel.
 
 
 ## Daily Trivia
 
-America Online (AOL) started out as which of these online service providers?
- 1. CompuServe
- 2. Prodigy
- 3. GEnie
- 4. Quantum Link
+How fast is USB 3.1 Gen 2 theoretically?
+ 1. 5 Gb/s
+ 2. 8 Gb/s
+ 3. 1 Gb/s
+ 4. 10 Gb/s
 
 <details>
   <summary>Answer</summary>
-  Quantum Link
+  10 Gb/s
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  8 hours 40 minutes</strong> since this server shutdown
+Its been <strong>1 days  9 hours 10 minutes</strong> since this server shutdown
