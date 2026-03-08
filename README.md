@@ -17,23 +17,23 @@ Special guests include Patton Oswalt, David Cross, Jon Glaser, Eric Wareheim, Ti
 
 ## Joke of the Day
 
-I was wondering why the frisbee was getting bigger, then it hit me.
+"Dad, I'm hungry." Hello, Hungry. I'm Dad.
 
 
 ## Daily Trivia
 
-Which of these programming languages is a low-level language?
- 1. Python
- 2. C#
- 3. Pascal
- 4. Assembly
+What is the maximum value of a 32-bit signed binary integer?
+ 1. 2048
+ 2. 9,223,372,036,854,775,807
+ 3. 2,147,483,647
+ 4. 255
 
 <details>
   <summary>Answer</summary>
-  Assembly
+  2,147,483,647
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  20 hours 10 minutes</strong> since this server shutdown
+Its been <strong>1 days  20 hours 40 minutes</strong> since this server shutdown
