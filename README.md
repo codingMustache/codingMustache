@@ -5,9 +5,9 @@ Hello I'm Jorge and I love making things for the internet
 ## Jellyfin
 
 ### I'm Watching 📺 
-<strong>The Walking Dead  Season 5 Episode 15</strong> 
+<strong>The Walking Dead  Season 5 Episode 16</strong> 
 
- Try ⭐️ 8.09 
+ Conquer ⭐️ 8.09 
 
 Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way. 
 
@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-Did you hear about the guy whose whole left side was cut off? He's all right now.
+Where does Fonzie like to go for lunch? Chick-Fil-Eyyyyyyyy.
 
 
 ## Daily Trivia
 
-What does CPU stand for?
- 1. Central Processing Unit
- 2. Central Processor Unit
- 3. Computer Personal Unit
- 4. Central Process Unit
+When did the online streaming service &quot;Mixer&quot; launch?
+ 1. 2013
+ 2. 2009
+ 3. 2011
+ 4. 2016
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  2016
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  7 hours 40 minutes</strong> since this server shutdown
+Its been <strong>1 days  8 hours 10 minutes</strong> since this server shutdown
