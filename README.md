@@ -17,23 +17,23 @@ Special guests include Patton Oswalt, David Cross, Jon Glaser, Eric Wareheim, Ti
 
 ## Joke of the Day
 
-How do the trees get on the internet? They log on.
+A man walked in to a bar with some asphalt on his arm. He said “Two beers please, one for me and one for the road.”
 
 
 ## Daily Trivia
 
-America Online (AOL) started out as which of these online service providers?
- 1. CompuServe
- 2. Quantum Link
- 3. Prodigy
- 4. GEnie
+While Apple was formed in California, in which western state was Microsoft founded?
+ 1. Washington
+ 2. Colorado
+ 3. Arizona
+ 4. New Mexico
 
 <details>
   <summary>Answer</summary>
-  Quantum Link
+  New Mexico
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  17 hours 10 minutes</strong> since this server shutdown
+Its been <strong>1 days  17 hours 40 minutes</strong> since this server shutdown
