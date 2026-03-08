@@ -17,23 +17,23 @@ Special guests include Patton Oswalt, David Cross, Jon Glaser, Eric Wareheim, Ti
 
 ## Joke of the Day
 
-Why was the big cat disqualified from the race? Because it was a cheetah.
+I was wondering why the frisbee was getting bigger, then it hit me.
 
 
 ## Daily Trivia
 
-How many bytes are in a single Kibibyte?
- 1. 1024
- 2. 1000
- 3. 2400
- 4. 1240
+Which of these programming languages is a low-level language?
+ 1. Python
+ 2. C#
+ 3. Pascal
+ 4. Assembly
 
 <details>
   <summary>Answer</summary>
-  1024
+  Assembly
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  19 hours 40 minutes</strong> since this server shutdown
+Its been <strong>1 days  20 hours 10 minutes</strong> since this server shutdown
