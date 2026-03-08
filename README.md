@@ -15,23 +15,23 @@ Bourdain travels across the globe to uncover little-known areas of the world and
 
 ## Joke of the Day
 
-What is worse then finding a worm in your Apple? Finding half a worm in your Apple.
+A man walked in to a bar with some asphalt on his arm. He said “Two beers please, one for me and one for the road.”
 
 
 ## Daily Trivia
 
-What is the name of Layer 7 of the OSI model?
- 1. Session
- 2. Network
- 3. Present
- 4. Application
+What was the name given to Android 4.3?
+ 1. Lollipop
+ 2. Nutella
+ 3. Froyo
+ 4. Jelly Bean
 
 <details>
   <summary>Answer</summary>
-  Application
+  Jelly Bean
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  6 hours 10 minutes</strong> since this server shutdown
+Its been <strong>1 days  6 hours 40 minutes</strong> since this server shutdown
