@@ -15,23 +15,23 @@ Bourdain travels across the globe to uncover little-known areas of the world and
 
 ## Joke of the Day
 
-Why does it take longer to get from 1st to 2nd base, than it does to get from 2nd to 3rd base? Because there’s a Shortstop in between!
+What is worse then finding a worm in your Apple? Finding half a worm in your Apple.
 
 
 ## Daily Trivia
 
-The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
- 1. HD Graphics 500
- 2. HD Graphics 7000
- 3. HD Graphics 600
- 4. HD Graphics 700 
+What is the name of Layer 7 of the OSI model?
+ 1. Session
+ 2. Network
+ 3. Present
+ 4. Application
 
 <details>
   <summary>Answer</summary>
-  HD Graphics 500
+  Application
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  5 hours 40 minutes</strong> since this server shutdown
+Its been <strong>1 days  6 hours 10 minutes</strong> since this server shutdown
