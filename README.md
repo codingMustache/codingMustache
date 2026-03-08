@@ -17,23 +17,23 @@ Special guests include Patton Oswalt, David Cross, Jon Glaser, Eric Wareheim, Ti
 
 ## Joke of the Day
 
-Why did the belt go to prison? He held up a pair of pants!
+Geology rocks, but Geography is where it's at!
 
 
 ## Daily Trivia
 
-What is the maximum value of a 32-bit signed binary integer?
- 1. 2,147,483,647
- 2. 9,223,372,036,854,775,807
- 3. 2048
- 4. 255
+Which of these people was NOT a founder of Apple Inc?
+ 1. Ronald Wayne
+ 2. Jonathan Ive
+ 3. Steve Jobs
+ 4. Steve Wozniak
 
 <details>
   <summary>Answer</summary>
-  2,147,483,647
+  Jonathan Ive
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  21 hours 40 minutes</strong> since this server shutdown
+Its been <strong>1 days  22 hours 10 minutes</strong> since this server shutdown
