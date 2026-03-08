@@ -5,33 +5,33 @@ Hello I'm Jorge and I love making things for the internet
 ## Jellyfin
 
 ### I'm Watching 📺 
-<strong>Anthony Bourdain: Parts Unknown  Season 3 Episode 5</strong> 
+<strong>The Walking Dead  Season 5 Episode 15</strong> 
 
- Russia ⭐️ 7.75 
+ Try ⭐️ 8.09 
 
-Bourdain travels across the globe to uncover little-known areas of the world and celebrate diverse cultures by exploring food and dining rituals. Known for his curiosity, candor, and acerbic wit, Bourdain takes viewers off the beaten path of tourist destinations – including some war-torn parts of the world – and meets with a variety of local citizens to offer a window into their lifestyles, and occasionally communes with an internationally lauded chef on his journeys. 
+Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way. 
 
-![movie poster](https://image.tmdb.org/t/p/w300_and_h300_face/qg7lcydNf8DBVFIFK3XEuccv1jf.jpg)
+![movie poster](https://image.tmdb.org/t/p/w300_and_h300_face/ng3cMtxYKt1OSQYqFlnKWnVsqNO.jpg)
 
 ## Joke of the Day
 
-I thought about going on an all-almond diet. But that's just nuts.
+Did you hear about the guy whose whole left side was cut off? He's all right now.
 
 
 ## Daily Trivia
 
-Who invented the &quot;Spanning Tree Protocol&quot;?
- 1. Vint Cerf
- 2. Paul Vixie
- 3. Michael Roberts
- 4. Radia Perlman
+What does CPU stand for?
+ 1. Central Processing Unit
+ 2. Central Processor Unit
+ 3. Computer Personal Unit
+ 4. Central Process Unit
 
 <details>
   <summary>Answer</summary>
-  Radia Perlman
+  Central Processing Unit
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  7 hours 10 minutes</strong> since this server shutdown
+Its been <strong>1 days  7 hours 40 minutes</strong> since this server shutdown
