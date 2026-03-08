@@ -17,23 +17,23 @@ Special guests include Patton Oswalt, David Cross, Jon Glaser, Eric Wareheim, Ti
 
 ## Joke of the Day
 
-It takes guts to be an organ donor.
+What do you call two guys hanging out by your window? Kurt & Rod.
 
 
 ## Daily Trivia
 
-If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
- 1. JavaScript
- 2. Binary
- 3. C++
- 4. Python
+Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
+ 1. Amazon
+ 2. Overstock
+ 3. eBay
+ 4. Shopify
 
 <details>
   <summary>Answer</summary>
-  Binary
+  Amazon
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  3 hours 40 minutes</strong> since this server shutdown
+Its been <strong>2 days  4 hours 10 minutes</strong> since this server shutdown
