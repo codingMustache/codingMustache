@@ -17,23 +17,23 @@ Special guests include Patton Oswalt, David Cross, Jon Glaser, Eric Wareheim, Ti
 
 ## Joke of the Day
 
-How do you make a water bed more bouncy. You use Spring Water
+Why do fish live in salt water? Because pepper makes them sneeze!
 
 
 ## Daily Trivia
 
-The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
- 1. Taiwan
- 2. United States
- 3. Germany
- 4. China (People&#039;s Republic of)
+Which programming language shares its name with an island in Indonesia?
+ 1. Java
+ 2. Jakarta
+ 3. C
+ 4. Python
 
 <details>
   <summary>Answer</summary>
-  Taiwan
+  Java
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  18 hours 10 minutes</strong> since this server shutdown
+Its been <strong>1 days  18 hours 40 minutes</strong> since this server shutdown
