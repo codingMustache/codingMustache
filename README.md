@@ -17,23 +17,23 @@ Special guests include Patton Oswalt, David Cross, Jon Glaser, Eric Wareheim, Ti
 
 ## Joke of the Day
 
-Why did the kid cross the playground? To get to the other slide.
+What did the Zen Buddist say to the hotdog vendor? Make me one with everything.
 
 
 ## Daily Trivia
 
-What is the maximum value of a 32-bit signed binary integer?
- 1. 255
- 2. 2048
- 3. 9,223,372,036,854,775,807
- 4. 2,147,483,647
+Which of the following is a personal computer made by the Japanese company Fujitsu?
+ 1. FM-7
+ 2. Xmillennium 
+ 3. PC-9801
+ 4. MSX
 
 <details>
   <summary>Answer</summary>
-  2,147,483,647
+  FM-7
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  13 hours 10 minutes</strong> since this server shutdown
+Its been <strong>1 days  14 hours 40 minutes</strong> since this server shutdown
