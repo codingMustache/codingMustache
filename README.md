@@ -15,23 +15,23 @@ Bourdain travels across the globe to uncover little-known areas of the world and
 
 ## Joke of the Day
 
-How do you find Will Smith in the snow?  Look for fresh prints.
+Just read a few facts about frogs. They were ribbiting.
 
 
 ## Daily Trivia
 
-What does the computer software acronym JVM stand for?
- 1. Java Virtual Machine
- 2. Java Visual Machine
- 3. Java Vendor Machine
- 4. Just Virtual Machine
+How many cores does the Intel i7-6950X have?
+ 1. 4
+ 2. 12
+ 3. 8
+ 4. 10
 
 <details>
   <summary>Answer</summary>
-  Java Virtual Machine
+  10
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  3 hours 15 minutes</strong> since this server shutdown
+Its been <strong>1 days  3 hours 40 minutes</strong> since this server shutdown
