@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-What's the best thing about elevator jokes? They work on so many levels.
+Why did the scarecrow win an award? Because he was outstanding in his field.
 
 
 ## Daily Trivia
 
-Which of these is not a layer in the OSI model for data communications?
- 1. Physical Layer
- 2. Connection Layer
- 3. Transport Layer
- 4. Application Layer
+What internet protocol was documented in RFC 1459?
+ 1. IRC
+ 2. FTP
+ 3. HTTPS
+ 4. HTTP
 
 <details>
   <summary>Answer</summary>
-  Connection Layer
+  IRC
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  10 hours 10 minutes</strong> since this server shutdown
+Its been <strong>1 days  10 hours 40 minutes</strong> since this server shutdown
