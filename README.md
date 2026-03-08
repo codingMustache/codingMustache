@@ -17,23 +17,23 @@ Special guests include Patton Oswalt, David Cross, Jon Glaser, Eric Wareheim, Ti
 
 ## Joke of the Day
 
-Why do fish live in salt water? Because pepper makes them sneeze!
+What is this movie about? It is about 2 hours long.
 
 
 ## Daily Trivia
 
-Which programming language shares its name with an island in Indonesia?
- 1. Java
- 2. Jakarta
- 3. C
- 4. Python
+In computing, what does LAN stand for?
+ 1. Local Area Network
+ 2. Land Address Navigation
+ 3. Light Access Node
+ 4. Long Antenna Node
 
 <details>
   <summary>Answer</summary>
-  Java
+  Local Area Network
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  18 hours 40 minutes</strong> since this server shutdown
+Its been <strong>1 days  19 hours 10 minutes</strong> since this server shutdown
