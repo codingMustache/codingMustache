@@ -17,23 +17,25 @@ Special guests include Patton Oswalt, David Cross, Jon Glaser, Eric Wareheim, Ti
 
 ## Joke of the Day
 
-I really want to buy one of those supermarket checkout dividers, but the cashier keeps putting it back.
+Never Trust Someone With Graph Paper...
+
+They're always plotting something.
 
 
 ## Daily Trivia
 
-Which data structure does FILO apply to?
- 1. Stack
- 2. Tree
- 3. Heap
- 4. Queue
+This mobile OS held the largest market share in 2012.
+ 1. Android
+ 2. iOS
+ 3. BlackBerry
+ 4. Symbian
 
 <details>
   <summary>Answer</summary>
-  Stack
+  iOS
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  23 hours 40 minutes</strong> since this server shutdown
+Its been <strong>2 days 10 minutes</strong> since this server shutdown
