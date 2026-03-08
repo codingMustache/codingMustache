@@ -15,23 +15,23 @@ Bourdain travels across the globe to uncover little-known areas of the world and
 
 ## Joke of the Day
 
-A man walked in to a bar with some asphalt on his arm. He said “Two beers please, one for me and one for the road.”
+I thought about going on an all-almond diet. But that's just nuts.
 
 
 ## Daily Trivia
 
-What was the name given to Android 4.3?
- 1. Lollipop
- 2. Nutella
- 3. Froyo
- 4. Jelly Bean
+Who invented the &quot;Spanning Tree Protocol&quot;?
+ 1. Vint Cerf
+ 2. Paul Vixie
+ 3. Michael Roberts
+ 4. Radia Perlman
 
 <details>
   <summary>Answer</summary>
-  Jelly Bean
+  Radia Perlman
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  6 hours 40 minutes</strong> since this server shutdown
+Its been <strong>1 days  7 hours 10 minutes</strong> since this server shutdown
