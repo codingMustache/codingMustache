@@ -5,9 +5,9 @@ Hello I'm Jorge and I love making things for the internet
 ## Jellyfin
 
 ### I'm Watching 📺 
-<strong>Jon Benjamin Has A Van  Season 1 Episode 5</strong> 
+<strong>Jon Benjamin Has A Van  Season 1 Episode 6</strong> 
 
- Road Rage ⭐️ 7.25 
+ Suicide ⭐️ 7.25 
 
 Jon Benjamin Has a Van is a live-action television comedy series that aired in the summer of 2011 on Comedy Central. The series stars Jon Benjamin as a reporter who tours around in a van to deliver uninteresting news to the viewers and to unsuspecting people while utilizing scripted scenes for narrative reasons. The series' cancellation was announced in April 2012.
 
@@ -17,23 +17,23 @@ Special guests include Patton Oswalt, David Cross, Jon Glaser, Eric Wareheim, Ti
 
 ## Joke of the Day
 
-I boiled a funny bone last night and had a laughing stock
+What's the difference between a hippo and a zippo? One is really heavy, the other is a little lighter.
 
 
 ## Daily Trivia
 
-Which operating system was released first?
- 1. Mac OS
- 2. OS/2
- 3. Linux
- 4. Windows
+What amount of bits commonly equals one byte?
+ 1. 2
+ 2. 1
+ 3. 64
+ 4. 8
 
 <details>
   <summary>Answer</summary>
-  Mac OS
+  8
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  12 hours 10 minutes</strong> since this server shutdown
+Its been <strong>1 days  12 hours 40 minutes</strong> since this server shutdown
