@@ -15,23 +15,25 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-What kind of bagel can fly? A plain bagel.
+What was the pumpkin’s favorite sport?
+
+Squash.
 
 
 ## Daily Trivia
 
-How fast is USB 3.1 Gen 2 theoretically?
- 1. 5 Gb/s
- 2. 8 Gb/s
- 3. 1 Gb/s
- 4. 10 Gb/s
+In networking, what does OSPF stand for?
+ 1. Order State Part First
+ 2. Open Shortest Path First
+ 3. Order Sense Ping Find
+ 4. Open Signal Path Finder
 
 <details>
   <summary>Answer</summary>
-  10 Gb/s
+  Open Shortest Path First
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  9 hours 10 minutes</strong> since this server shutdown
+Its been <strong>1 days  9 hours 40 minutes</strong> since this server shutdown
