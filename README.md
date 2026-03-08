@@ -17,23 +17,23 @@ Special guests include Patton Oswalt, David Cross, Jon Glaser, Eric Wareheim, Ti
 
 ## Joke of the Day
 
-I invented a new word! Plagiarism!
+Why did the belt go to prison? He held up a pair of pants!
 
 
 ## Daily Trivia
 
-What was the name given to Android 4.3?
- 1. Nutella
- 2. Jelly Bean
- 3. Lollipop
- 4. Froyo
+What is the maximum value of a 32-bit signed binary integer?
+ 1. 2,147,483,647
+ 2. 9,223,372,036,854,775,807
+ 3. 2048
+ 4. 255
 
 <details>
   <summary>Answer</summary>
-  Jelly Bean
+  2,147,483,647
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  21 hours 10 minutes</strong> since this server shutdown
+Its been <strong>1 days  21 hours 40 minutes</strong> since this server shutdown
