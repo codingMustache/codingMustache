@@ -17,23 +17,23 @@ Special guests include Patton Oswalt, David Cross, Jon Glaser, Eric Wareheim, Ti
 
 ## Joke of the Day
 
-Did you know Albert Einstein was a real person? All this time, I thought he was just a theoretical physicist!
+Hear about the new restaurant called Karma? There’s no menu: You get what you deserve.
 
 
 ## Daily Trivia
 
-Who invented the &quot;Spanning Tree Protocol&quot;?
- 1. Paul Vixie
- 2. Vint Cerf
- 3. Radia Perlman
- 4. Michael Roberts
+What is the name of the default theme that is installed with Windows XP?
+ 1. Whistler
+ 2. Neptune
+ 3. Bliss
+ 4. Luna
 
 <details>
   <summary>Answer</summary>
-  Radia Perlman
+  Luna
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  22 hours 40 minutes</strong> since this server shutdown
+Its been <strong>1 days  23 hours 10 minutes</strong> since this server shutdown
