@@ -17,25 +17,23 @@ Special guests include Patton Oswalt, David Cross, Jon Glaser, Eric Wareheim, Ti
 
 ## Joke of the Day
 
-Never Trust Someone With Graph Paper...
-
-They're always plotting something.
+What is the leading cause of dry skin? Towels
 
 
 ## Daily Trivia
 
-This mobile OS held the largest market share in 2012.
- 1. Android
- 2. iOS
- 3. BlackBerry
- 4. Symbian
+On which day did the World Wide Web go online?
+ 1. December 20, 1990
+ 2. November 24, 1995
+ 3. November 12, 1990
+ 4. December 17, 1996
 
 <details>
   <summary>Answer</summary>
-  iOS
+  December 20, 1990
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days 10 minutes</strong> since this server shutdown
+Its been <strong>2 days 40 minutes</strong> since this server shutdown
