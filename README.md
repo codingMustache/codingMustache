@@ -17,23 +17,23 @@ Special guests include Patton Oswalt, David Cross, Jon Glaser, Eric Wareheim, Ti
 
 ## Joke of the Day
 
-What concert costs only 45 cents? 50 cent featuring Nickelback.
+What do you call a snake who builds houses? A boa constructor!
 
 
 ## Daily Trivia
 
-Generally, which component of a computer draws the most power?
- 1. Hard Drive
- 2. Processor
- 3. Video Card
- 4. Power Supply
+The name of technology company HP stands for what?
+ 1. Howard Packmann
+ 2. Hewlett-Packard
+ 3. Husker-Pollosk
+ 4. Hellman-Pohl
 
 <details>
   <summary>Answer</summary>
-  Video Card
+  Hewlett-Packard
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  2 hours 10 minutes</strong> since this server shutdown
+Its been <strong>2 days  2 hours 40 minutes</strong> since this server shutdown
