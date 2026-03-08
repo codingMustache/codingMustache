@@ -17,23 +17,23 @@ Special guests include Patton Oswalt, David Cross, Jon Glaser, Eric Wareheim, Ti
 
 ## Joke of the Day
 
-Frankenstein enters a bodybuilding competition and finds he has seriously misunderstood the objective.
+It takes guts to be an organ donor.
 
 
 ## Daily Trivia
 
-When Gmail first launched, how much storage did it provide for your email?
- 1. 1GB
- 2. Unlimited
- 3. 512MB
- 4. 5GB
+If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
+ 1. JavaScript
+ 2. Binary
+ 3. C++
+ 4. Python
 
 <details>
   <summary>Answer</summary>
-  1GB
+  Binary
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  3 hours 10 minutes</strong> since this server shutdown
+Its been <strong>2 days  3 hours 40 minutes</strong> since this server shutdown
