@@ -17,23 +17,23 @@ Special guests include Patton Oswalt, David Cross, Jon Glaser, Eric Wareheim, Ti
 
 ## Joke of the Day
 
-Geology rocks, but Geography is where it's at!
+Did you know Albert Einstein was a real person? All this time, I thought he was just a theoretical physicist!
 
 
 ## Daily Trivia
 
-Which of these people was NOT a founder of Apple Inc?
- 1. Ronald Wayne
- 2. Jonathan Ive
- 3. Steve Jobs
- 4. Steve Wozniak
+Who invented the &quot;Spanning Tree Protocol&quot;?
+ 1. Paul Vixie
+ 2. Vint Cerf
+ 3. Radia Perlman
+ 4. Michael Roberts
 
 <details>
   <summary>Answer</summary>
-  Jonathan Ive
+  Radia Perlman
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  22 hours 10 minutes</strong> since this server shutdown
+Its been <strong>1 days  22 hours 40 minutes</strong> since this server shutdown
