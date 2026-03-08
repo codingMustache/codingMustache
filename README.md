@@ -15,25 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-What was the pumpkin’s favorite sport?
-
-Squash.
+What's the best thing about elevator jokes? They work on so many levels.
 
 
 ## Daily Trivia
 
-In networking, what does OSPF stand for?
- 1. Order State Part First
- 2. Open Shortest Path First
- 3. Order Sense Ping Find
- 4. Open Signal Path Finder
+Which of these is not a layer in the OSI model for data communications?
+ 1. Physical Layer
+ 2. Connection Layer
+ 3. Transport Layer
+ 4. Application Layer
 
 <details>
   <summary>Answer</summary>
-  Open Shortest Path First
+  Connection Layer
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  9 hours 40 minutes</strong> since this server shutdown
+Its been <strong>1 days  10 hours 10 minutes</strong> since this server shutdown
