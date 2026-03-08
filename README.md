@@ -17,23 +17,23 @@ Special guests include Patton Oswalt, David Cross, Jon Glaser, Eric Wareheim, Ti
 
 ## Joke of the Day
 
-What do you call a duck that gets all A's? A wise quacker.
+"I'm sorry." "Hi sorry, I'm dad"
 
 
 ## Daily Trivia
 
-The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
- 1. Sinclair Research
- 2. Acorn Computers
- 3. Amstrad PLC
- 4. Commodore Business Machines
+What port does HTTP run on?
+ 1. 53
+ 2. 443
+ 3. 80
+ 4. 23
 
 <details>
   <summary>Answer</summary>
-  Acorn Computers
+  80
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  15 hours 40 minutes</strong> since this server shutdown
+Its been <strong>1 days  16 hours 10 minutes</strong> since this server shutdown
