@@ -17,23 +17,23 @@ Special guests include Patton Oswalt, David Cross, Jon Glaser, Eric Wareheim, Ti
 
 ## Joke of the Day
 
-"I'm sorry." "Hi sorry, I'm dad"
+What's black and white and read all over? The newspaper.
 
 
 ## Daily Trivia
 
-What port does HTTP run on?
- 1. 53
- 2. 443
- 3. 80
- 4. 23
+Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
+ 1. Cherry MX Blue
+ 2. Cherry MX Black
+ 3. Cherry MX Red
+ 4. Cherry MX Brown
 
 <details>
   <summary>Answer</summary>
-  80
+  Cherry MX Blue
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  16 hours 10 minutes</strong> since this server shutdown
+Its been <strong>1 days  16 hours 40 minutes</strong> since this server shutdown
