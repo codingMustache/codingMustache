@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-Where does Fonzie like to go for lunch? Chick-Fil-Eyyyyyyyy.
+What do vegetarian zombies eat? Grrrrrainnnnnssss.
 
 
 ## Daily Trivia
 
-When did the online streaming service &quot;Mixer&quot; launch?
- 1. 2013
- 2. 2009
- 3. 2011
- 4. 2016
+America Online (AOL) started out as which of these online service providers?
+ 1. CompuServe
+ 2. Prodigy
+ 3. GEnie
+ 4. Quantum Link
 
 <details>
   <summary>Answer</summary>
-  2016
+  Quantum Link
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  8 hours 10 minutes</strong> since this server shutdown
+Its been <strong>1 days  8 hours 40 minutes</strong> since this server shutdown
