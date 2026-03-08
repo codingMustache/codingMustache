@@ -5,9 +5,9 @@ Hello I'm Jorge and I love making things for the internet
 ## Jellyfin
 
 ### I'm Watching 📺 
-<strong>Jon Benjamin Has A Van  Season 1 Episode 2</strong> 
+<strong>Jon Benjamin Has A Van  Season 1 Episode 3</strong> 
 
- Little Italy ⭐️ 7.25 
+ Star Door ⭐️ 7.25 
 
 Jon Benjamin Has a Van is a live-action television comedy series that aired in the summer of 2011 on Comedy Central. The series stars Jon Benjamin as a reporter who tours around in a van to deliver uninteresting news to the viewers and to unsuspecting people while utilizing scripted scenes for narrative reasons. The series' cancellation was announced in April 2012.
 
@@ -17,23 +17,23 @@ Special guests include Patton Oswalt, David Cross, Jon Glaser, Eric Wareheim, Ti
 
 ## Joke of the Day
 
-Chances are if you' ve seen one shopping center, you've seen a mall.
+Somebody stole my Microsoft Office and they're going to pay - you have my Word.
 
 
 ## Daily Trivia
 
-Dutch computer scientist Mark Overmars is known for creating which game development engine?
- 1. Stencyl
- 2. Construct
- 3. Torque 2D
- 4. Game Maker
+Which RAID array type is associated with data mirroring?
+ 1. RAID 5
+ 2. RAID 10
+ 3. RAID 0
+ 4. RAID 1
 
 <details>
   <summary>Answer</summary>
-  Game Maker
+  RAID 1
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  11 hours 10 minutes</strong> since this server shutdown
+Its been <strong>1 days  11 hours 40 minutes</strong> since this server shutdown
