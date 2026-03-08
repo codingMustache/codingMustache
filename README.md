@@ -15,23 +15,23 @@ Bourdain travels across the globe to uncover little-known areas of the world and
 
 ## Joke of the Day
 
-Why did the m&m go to school? Because it wanted to be a Smartie!
+What did the big flower say to the littler flower? Hi, bud!
 
 
 ## Daily Trivia
 
-What vulnerability ranked #1 on the OWASP Top 10 in 2013?
- 1. Broken Authentication
- 2. Cross-Site Scripting
- 3. Insecure Direct Object References
- 4. Injection 
+The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
+ 1. HD Graphics 7000
+ 2. HD Graphics 500
+ 3. HD Graphics 700 
+ 4. HD Graphics 600
 
 <details>
   <summary>Answer</summary>
-  Injection 
+  HD Graphics 500
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  4 hours 40 minutes</strong> since this server shutdown
+Its been <strong>1 days  5 hours 10 minutes</strong> since this server shutdown
