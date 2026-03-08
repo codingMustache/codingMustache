@@ -17,23 +17,23 @@ Special guests include Patton Oswalt, David Cross, Jon Glaser, Eric Wareheim, Ti
 
 ## Joke of the Day
 
-What is this movie about? It is about 2 hours long.
+Why was the big cat disqualified from the race? Because it was a cheetah.
 
 
 ## Daily Trivia
 
-In computing, what does LAN stand for?
- 1. Local Area Network
- 2. Land Address Navigation
- 3. Light Access Node
- 4. Long Antenna Node
+How many bytes are in a single Kibibyte?
+ 1. 1024
+ 2. 1000
+ 3. 2400
+ 4. 1240
 
 <details>
   <summary>Answer</summary>
-  Local Area Network
+  1024
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  19 hours 10 minutes</strong> since this server shutdown
+Its been <strong>1 days  19 hours 40 minutes</strong> since this server shutdown
