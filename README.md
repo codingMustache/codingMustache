@@ -17,23 +17,23 @@ Special guests include Patton Oswalt, David Cross, Jon Glaser, Eric Wareheim, Ti
 
 ## Joke of the Day
 
-What did the Buffalo say to his little boy when he dropped him off at school? Bison.
+What concert costs only 45 cents? 50 cent featuring Nickelback.
 
 
 ## Daily Trivia
 
-What does RAID stand for?
- 1. Rapid Access for Indexed Devices
- 2. Range of Applications with Identical Designs
- 3. Redundant Array of Independent Disks
- 4. Randomized Abstract Identification Description
+Generally, which component of a computer draws the most power?
+ 1. Hard Drive
+ 2. Processor
+ 3. Video Card
+ 4. Power Supply
 
 <details>
   <summary>Answer</summary>
-  Redundant Array of Independent Disks
+  Video Card
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  1 hours 40 minutes</strong> since this server shutdown
+Its been <strong>2 days  2 hours 10 minutes</strong> since this server shutdown
