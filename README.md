@@ -17,23 +17,23 @@ Special guests include Patton Oswalt, David Cross, Jon Glaser, Eric Wareheim, Ti
 
 ## Joke of the Day
 
-Hear about the new restaurant called Karma? There’s no menu: You get what you deserve.
+I really want to buy one of those supermarket checkout dividers, but the cashier keeps putting it back.
 
 
 ## Daily Trivia
 
-What is the name of the default theme that is installed with Windows XP?
- 1. Whistler
- 2. Neptune
- 3. Bliss
- 4. Luna
+Which data structure does FILO apply to?
+ 1. Stack
+ 2. Tree
+ 3. Heap
+ 4. Queue
 
 <details>
   <summary>Answer</summary>
-  Luna
+  Stack
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  23 hours 10 minutes</strong> since this server shutdown
+Its been <strong>1 days  23 hours 40 minutes</strong> since this server shutdown
