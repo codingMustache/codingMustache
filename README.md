@@ -17,23 +17,23 @@ Special guests include Patton Oswalt, David Cross, Jon Glaser, Eric Wareheim, Ti
 
 ## Joke of the Day
 
-What is the leading cause of dry skin? Towels
+What did the Buffalo say to his little boy when he dropped him off at school? Bison.
 
 
 ## Daily Trivia
 
-In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
- 1. printf(&quot;Hello World&quot;)
- 2. echo &quot;Hello World&quot;
- 3. console.log(&quot;Hello World&quot;)
- 4. print(&quot;Hello World&quot;)
+What does RAID stand for?
+ 1. Rapid Access for Indexed Devices
+ 2. Range of Applications with Identical Designs
+ 3. Redundant Array of Independent Disks
+ 4. Randomized Abstract Identification Description
 
 <details>
   <summary>Answer</summary>
-  print(&quot;Hello World&quot;)
+  Redundant Array of Independent Disks
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  1 hours 10 minutes</strong> since this server shutdown
+Its been <strong>2 days  1 hours 40 minutes</strong> since this server shutdown
