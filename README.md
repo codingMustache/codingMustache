@@ -15,23 +15,23 @@ Set in Texas, this animated series follows the life of propane salesman Hank Hil
 
 ## Joke of the Day
 
-Did you know you should always take an extra pair of pants golfing? Just in case you get a hole in one.
+What’s brown and sounds like a bell? Dung!
 
 
 ## Daily Trivia
 
-The teapot often seen in many 3D modeling applications is called what?
- 1. Tennessee Teapot
- 2. Pixar Teapot
- 3. Utah Teapot
- 4. 3D Teapot
+Approximately how many Apple I personal computers were created?
+ 1. 100
+ 2. 1000
+ 3. 200
+ 4. 500
 
 <details>
   <summary>Answer</summary>
-  Utah Teapot
+  200
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  1 hours 40 minutes</strong> since this server shutdown
+Its been <strong>3 days  2 hours 10 minutes</strong> since this server shutdown
