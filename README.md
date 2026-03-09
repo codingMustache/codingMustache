@@ -10,23 +10,23 @@ Something went wrong with getting the Image, I'll fix it later.
 
 ## Joke of the Day
 
-Doctor you've got you help me, I'm addicted to twitter. Doctor: I don't follow you.
+Why does Superman get invited to dinners? Because he is a Supperhero.
 
 
 ## Daily Trivia
 
-In programming, the ternary operator is mostly defined with what symbol(s)?
- 1. ??
- 2. ?:
- 3. ?
- 4. if then
+The name of technology company HP stands for what?
+ 1. Hewlett-Packard
+ 2. Howard Packmann
+ 3. Hellman-Pohl
+ 4. Husker-Pollosk
 
 <details>
   <summary>Answer</summary>
-  ?:
+  Hewlett-Packard
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  19 hours 10 minutes</strong> since this server shutdown
+Its been <strong>2 days  19 hours 40 minutes</strong> since this server shutdown
