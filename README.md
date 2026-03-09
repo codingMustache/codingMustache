@@ -15,23 +15,23 @@ Set in Texas, this animated series follows the life of propane salesman Hank Hil
 
 ## Joke of the Day
 
-A man tried to sell me a coffin today. I told him that's the last thing I need.
+A man got hit in the head with a can of Coke, but he was alright because it was a soft drink.
 
 
 ## Daily Trivia
 
-What was the first company to use the term &quot;Golden Master&quot;?
- 1. IBM
- 2. Microsoft
- 3. Apple
- 4. Google
+In web design, what does CSS stand for?
+ 1. Counter Strike: Source
+ 2. Corrective Style Sheet
+ 3. Computer Style Sheet
+ 4. Cascading Style Sheet
 
 <details>
   <summary>Answer</summary>
-  Apple
+  Cascading Style Sheet
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  3 hours 10 minutes</strong> since this server shutdown
+Its been <strong>3 days  3 hours 40 minutes</strong> since this server shutdown
