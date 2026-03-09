@@ -10,27 +10,23 @@ Something went wrong with getting the Image, I'll fix it later.
 
 ## Joke of the Day
 
-A panda walks into a bar and says to the bartender “I’ll have a Scotch and . . . . . . . . . . . . . . Coke thank you”. 
-
-“Sure thing” the bartender replies and asks “but what’s with the big pause?” 
-
-The panda holds up his hands and says “I was born with them”
+How do you make Lady Gaga cry? Poker face. 
 
 
 ## Daily Trivia
 
-How many bits are commonly in a single byte?
- 1.  Fifteen bits
- 2. Six bits
- 3. Eight bits
- 4. Twelve bits
+Which of these programming languages is a low-level language?
+ 1. C#
+ 2. Python
+ 3. Pascal
+ 4. Assembly
 
 <details>
   <summary>Answer</summary>
-  Eight bits
+  Assembly
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  16 hours 10 minutes</strong> since this server shutdown
+Its been <strong>2 days  16 hours 40 minutes</strong> since this server shutdown
