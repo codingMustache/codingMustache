@@ -10,23 +10,23 @@ Something went wrong with getting the Image, I'll fix it later.
 
 ## Joke of the Day
 
-What do you get when you cross a snowman with a vampire? Frostbite.
+When my wife told me to stop impersonating a flamingo, I had to put my foot down.
 
 
 ## Daily Trivia
 
-The teapot often seen in many 3D modeling applications is called what?
- 1. 3D Teapot
- 2. Pixar Teapot
- 3. Tennessee Teapot
- 4. Utah Teapot
+What major programming language does Unreal Engine 4 use?
+ 1. Assembly
+ 2. C#
+ 3. C++
+ 4. ECMAScript
 
 <details>
   <summary>Answer</summary>
-  Utah Teapot
+  C++
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  17 hours 40 minutes</strong> since this server shutdown
+Its been <strong>2 days  18 hours 10 minutes</strong> since this server shutdown
