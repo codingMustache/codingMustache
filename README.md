@@ -15,23 +15,25 @@ Set in Texas, this animated series follows the life of propane salesman Hank Hil
 
 ## Joke of the Day
 
-A man got hit in the head with a can of Coke, but he was alright because it was a soft drink.
+What's large, grey, and doesn't matter?
+An irrelephant.
+
 
 
 ## Daily Trivia
 
-In web design, what does CSS stand for?
- 1. Counter Strike: Source
- 2. Corrective Style Sheet
- 3. Computer Style Sheet
- 4. Cascading Style Sheet
+In computing terms, typically what does CLI stand for?
+ 1. Control Line Interface
+ 2. Common Language Input
+ 3. Command Line Interface
+ 4. Common Language Interface
 
 <details>
   <summary>Answer</summary>
-  Cascading Style Sheet
+  Command Line Interface
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  3 hours 40 minutes</strong> since this server shutdown
+Its been <strong>3 days  4 hours 10 minutes</strong> since this server shutdown
