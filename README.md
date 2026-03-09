@@ -15,24 +15,24 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-What do you call a monkey in a mine field? A babooooom!
-
+"Dad, I'm cold."
+"Go stand in the corner, I hear it's 90 degrees."
 
 
 ## Daily Trivia
 
-What does the term USB stand for?
- 1. Unityped Semtex Backer
- 2. Universal Serial Bus
- 3. Universal Simtex Blot
- 4. Unified Signal Bus
+What is the name of the process that sends one qubit of information using two bits of classical information?
+ 1. Quantum Teleportation
+ 2. Quantum Programming
+ 3. Quantum Entanglement
+ 4. Super Dense Coding
 
 <details>
   <summary>Answer</summary>
-  Universal Serial Bus
+  Quantum Teleportation
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  6 hours 10 minutes</strong> since this server shutdown
+Its been <strong>2 days  6 hours 40 minutes</strong> since this server shutdown
