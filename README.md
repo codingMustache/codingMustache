@@ -10,23 +10,23 @@ Something went wrong with getting the Image, I'll fix it later.
 
 ## Joke of the Day
 
-Why are fish so smart? Because they live in schools!
+What do you get when you cross a snowman with a vampire? Frostbite.
 
 
 ## Daily Trivia
 
-What does the computer software acronym JVM stand for?
- 1. Just Virtual Machine
- 2. Java Vendor Machine
- 3. Java Visual Machine
- 4. Java Virtual Machine
+The teapot often seen in many 3D modeling applications is called what?
+ 1. 3D Teapot
+ 2. Pixar Teapot
+ 3. Tennessee Teapot
+ 4. Utah Teapot
 
 <details>
   <summary>Answer</summary>
-  Java Virtual Machine
+  Utah Teapot
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  17 hours 10 minutes</strong> since this server shutdown
+Its been <strong>2 days  17 hours 40 minutes</strong> since this server shutdown
