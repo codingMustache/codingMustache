@@ -10,24 +10,23 @@ Something went wrong with getting the Image, I'll fix it later.
 
 ## Joke of the Day
 
-What is the best way to carve?
-Whittle by whittle.
+I was thinking about moving to Moscow but there is no point Russian into things.
 
 
 ## Daily Trivia
 
-Which of the following is a personal computer made by the Japanese company Fujitsu?
- 1. Xmillennium 
- 2. MSX
- 3. FM-7
- 4. PC-9801
+The C programming language was created by this American computer scientist. 
+ 1. Willis Ware
+ 2. al-Khwārizmī
+ 3. Tim Berners Lee
+ 4. Dennis Ritchie
 
 <details>
   <summary>Answer</summary>
-  FM-7
+  Dennis Ritchie
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  11 hours 10 minutes</strong> since this server shutdown
+Its been <strong>2 days  11 hours 40 minutes</strong> since this server shutdown
