@@ -15,23 +15,23 @@ Set in Texas, this animated series follows the life of propane salesman Hank Hil
 
 ## Joke of the Day
 
-What’s brown and sounds like a bell? Dung!
+What did celery say when he broke up with his girlfriend? She wasn't right for me, so I really don't carrot all.
 
 
 ## Daily Trivia
 
-Approximately how many Apple I personal computers were created?
- 1. 100
- 2. 1000
- 3. 200
- 4. 500
+The numbering system with a radix of 16 is more commonly referred to as 
+ 1. Binary
+ 2. Duodecimal
+ 3. Octal
+ 4. Hexidecimal
 
 <details>
   <summary>Answer</summary>
-  200
+  Hexidecimal
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  2 hours 10 minutes</strong> since this server shutdown
+Its been <strong>3 days  2 hours 40 minutes</strong> since this server shutdown
