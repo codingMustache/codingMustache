@@ -10,23 +10,24 @@ Something went wrong with getting the Image, I'll fix it later.
 
 ## Joke of the Day
 
-The word queue is ironic. It's just q with a bunch of silent letters waiting in line.
+What is the best way to carve?
+Whittle by whittle.
 
 
 ## Daily Trivia
 
-What is the name of the process that sends one qubit of information using two bits of classical information?
- 1. Quantum Programming
- 2. Quantum Entanglement
- 3. Super Dense Coding
- 4. Quantum Teleportation
+Which of the following is a personal computer made by the Japanese company Fujitsu?
+ 1. Xmillennium 
+ 2. MSX
+ 3. FM-7
+ 4. PC-9801
 
 <details>
   <summary>Answer</summary>
-  Quantum Teleportation
+  FM-7
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  10 hours 40 minutes</strong> since this server shutdown
+Its been <strong>2 days  11 hours 10 minutes</strong> since this server shutdown
