@@ -10,15 +10,15 @@ Something went wrong with getting the Image, I'll fix it later.
 
 ## Joke of the Day
 
-Why did the burglar hang his mugshot on the wall? To prove that he was framed!
+How come a man driving a train got struck by lightning? He was a good conductor.
 
 
 ## Daily Trivia
 
 What is the name of the process that sends one qubit of information using two bits of classical information?
- 1. Super Dense Coding
- 2. Quantum Teleportation
- 3. Quantum Entanglement
+ 1. Quantum Entanglement
+ 2. Super Dense Coding
+ 3. Quantum Teleportation
  4. Quantum Programming
 
 <details>
@@ -29,4 +29,4 @@ What is the name of the process that sends one qubit of information using two bi
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  12 hours 40 minutes</strong> since this server shutdown
+Its been <strong>2 days  13 hours 10 minutes</strong> since this server shutdown
