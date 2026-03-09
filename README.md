@@ -10,23 +10,23 @@ Something went wrong with getting the Image, I'll fix it later.
 
 ## Joke of the Day
 
-What do you call a dad that has fallen through the ice? A Popsicle.
+I went on a date last night with a girl from the zoo. It was great. She’s a keeper.
 
 
 ## Daily Trivia
 
-.rs is the top-level domain for what country?
- 1. Romania
- 2. Serbia
- 3. Russia
- 4. Rwanda
+HTML is what type of language?
+ 1. Programming Language
+ 2. Macro Language
+ 3. Scripting Language
+ 4. Markup Language
 
 <details>
   <summary>Answer</summary>
-  Serbia
+  Markup Language
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  14 hours 10 minutes</strong> since this server shutdown
+Its been <strong>2 days  14 hours 40 minutes</strong> since this server shutdown
