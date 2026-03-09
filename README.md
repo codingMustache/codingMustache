@@ -15,23 +15,23 @@ Set in Texas, this animated series follows the life of propane salesman Hank Hil
 
 ## Joke of the Day
 
-What do you get when you cross a pig and a pineapple? A porky pine
+What is the leading cause of dry skin? Towels
 
 
 ## Daily Trivia
 
-In networking, what does OSPF stand for?
- 1. Order State Part First
- 2. Order Sense Ping Find
- 3. Open Signal Path Finder
- 4. Open Shortest Path First
+HTML is what type of language?
+ 1. Macro Language
+ 2. Programming Language
+ 3. Scripting Language
+ 4. Markup Language
 
 <details>
   <summary>Answer</summary>
-  Open Shortest Path First
+  Markup Language
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days 40 minutes</strong> since this server shutdown
+Its been <strong>3 days  1 hours 10 minutes</strong> since this server shutdown
