@@ -15,23 +15,23 @@ Set in Texas, this animated series follows the life of propane salesman Hank Hil
 
 ## Joke of the Day
 
-I am so good at sleeping I can do it with my eyes closed!
+People who don't eat gluten are really going against the grain.
 
 
 ## Daily Trivia
 
-What is the name of Layer 7 of the OSI model?
- 1. Network
- 2. Application
- 3. Session
- 4. Present
+Who invented the &quot;Spanning Tree Protocol&quot;?
+ 1. Radia Perlman
+ 2. Michael Roberts
+ 3. Vint Cerf
+ 4. Paul Vixie
 
 <details>
   <summary>Answer</summary>
-  Application
+  Radia Perlman
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  23 hours 10 minutes</strong> since this server shutdown
+Its been <strong>2 days  23 hours 40 minutes</strong> since this server shutdown
