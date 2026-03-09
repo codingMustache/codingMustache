@@ -15,23 +15,23 @@ Set in Texas, this animated series follows the life of propane salesman Hank Hil
 
 ## Joke of the Day
 
-What did celery say when he broke up with his girlfriend? She wasn't right for me, so I really don't carrot all.
+A man tried to sell me a coffin today. I told him that's the last thing I need.
 
 
 ## Daily Trivia
 
-The numbering system with a radix of 16 is more commonly referred to as 
- 1. Binary
- 2. Duodecimal
- 3. Octal
- 4. Hexidecimal
+What was the first company to use the term &quot;Golden Master&quot;?
+ 1. IBM
+ 2. Microsoft
+ 3. Apple
+ 4. Google
 
 <details>
   <summary>Answer</summary>
-  Hexidecimal
+  Apple
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  2 hours 40 minutes</strong> since this server shutdown
+Its been <strong>3 days  3 hours 10 minutes</strong> since this server shutdown
