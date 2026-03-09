@@ -10,23 +10,23 @@ Something went wrong with getting the Image, I'll fix it later.
 
 ## Joke of the Day
 
-New atoms frequently lose electrons when they fail to keep an ion them.
+Why did the burglar hang his mugshot on the wall? To prove that he was framed!
 
 
 ## Daily Trivia
 
-On which day did the World Wide Web go online?
- 1. December 17, 1996
- 2. November 12, 1990
- 3. November 24, 1995
- 4. December 20, 1990
+What is the name of the process that sends one qubit of information using two bits of classical information?
+ 1. Super Dense Coding
+ 2. Quantum Teleportation
+ 3. Quantum Entanglement
+ 4. Quantum Programming
 
 <details>
   <summary>Answer</summary>
-  December 20, 1990
+  Quantum Teleportation
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  12 hours 10 minutes</strong> since this server shutdown
+Its been <strong>2 days  12 hours 40 minutes</strong> since this server shutdown
