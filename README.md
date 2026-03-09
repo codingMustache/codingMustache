@@ -15,23 +15,23 @@ Set in Texas, this animated series follows the life of propane salesman Hank Hil
 
 ## Joke of the Day
 
-What is the leading cause of dry skin? Towels
+Did you know you should always take an extra pair of pants golfing? Just in case you get a hole in one.
 
 
 ## Daily Trivia
 
-HTML is what type of language?
- 1. Macro Language
- 2. Programming Language
- 3. Scripting Language
- 4. Markup Language
+The teapot often seen in many 3D modeling applications is called what?
+ 1. Tennessee Teapot
+ 2. Pixar Teapot
+ 3. Utah Teapot
+ 4. 3D Teapot
 
 <details>
   <summary>Answer</summary>
-  Markup Language
+  Utah Teapot
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  1 hours 10 minutes</strong> since this server shutdown
+Its been <strong>3 days  1 hours 40 minutes</strong> since this server shutdown
