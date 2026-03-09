@@ -10,23 +10,23 @@ Something went wrong with getting the Image, I'll fix it later.
 
 ## Joke of the Day
 
-Why did the man run around his bed? Because he was trying to catch up on his sleep!
+Doctor you've got you help me, I'm addicted to twitter. Doctor: I don't follow you.
 
 
 ## Daily Trivia
 
-In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
- 1. Green
- 2. Blue
- 3. Yellow
- 4. Red
+In programming, the ternary operator is mostly defined with what symbol(s)?
+ 1. ??
+ 2. ?:
+ 3. ?
+ 4. if then
 
 <details>
   <summary>Answer</summary>
-  Green
+  ?:
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  18 hours 40 minutes</strong> since this server shutdown
+Its been <strong>2 days  19 hours 10 minutes</strong> since this server shutdown
