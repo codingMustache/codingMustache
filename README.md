@@ -10,23 +10,23 @@ Something went wrong with getting the Image, I'll fix it later.
 
 ## Joke of the Day
 
-Why did Dracula lie in the wrong coffin? He made a grave mistake.
+Two muffins were sitting in an oven, and the first looks over to the second, and says, “man, it’s really hot in here”. The second looks over at the first with a surprised look, and answers, “WHOA, a talking muffin!”
 
 
 ## Daily Trivia
 
-Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
- 1. Corrupted Blood
- 2. Heartbleed
- 3. Shellshock
- 4. Shellscript
+CMOS is tech used for constructing integrated circuits. What does CMOS stand for?
+ 1. Computer-made oscillating static
+ 2. Computer-made operating system
+ 3. Complementary metal&ndash;oxide&ndash;semiconductor
+ 4. Complementary magnetic-ohms-semiconductor
 
 <details>
   <summary>Answer</summary>
-  Heartbleed
+  Complementary metal&ndash;oxide&ndash;semiconductor
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  20 hours 10 minutes</strong> since this server shutdown
+Its been <strong>2 days  20 hours 40 minutes</strong> since this server shutdown
