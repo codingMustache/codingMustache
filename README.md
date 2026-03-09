@@ -10,23 +10,23 @@ Something went wrong with getting the Image, I'll fix it later.
 
 ## Joke of the Day
 
-I was thinking about moving to Moscow but there is no point Russian into things.
+New atoms frequently lose electrons when they fail to keep an ion them.
 
 
 ## Daily Trivia
 
-The C programming language was created by this American computer scientist. 
- 1. Willis Ware
- 2. al-Khwārizmī
- 3. Tim Berners Lee
- 4. Dennis Ritchie
+On which day did the World Wide Web go online?
+ 1. December 17, 1996
+ 2. November 12, 1990
+ 3. November 24, 1995
+ 4. December 20, 1990
 
 <details>
   <summary>Answer</summary>
-  Dennis Ritchie
+  December 20, 1990
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  11 hours 40 minutes</strong> since this server shutdown
+Its been <strong>2 days  12 hours 10 minutes</strong> since this server shutdown
