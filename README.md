@@ -10,23 +10,23 @@ Something went wrong with getting the Image, I'll fix it later.
 
 ## Joke of the Day
 
-When my wife told me to stop impersonating a flamingo, I had to put my foot down.
+Why did the man run around his bed? Because he was trying to catch up on his sleep!
 
 
 ## Daily Trivia
 
-What major programming language does Unreal Engine 4 use?
- 1. Assembly
- 2. C#
- 3. C++
- 4. ECMAScript
+In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
+ 1. Green
+ 2. Blue
+ 3. Yellow
+ 4. Red
 
 <details>
   <summary>Answer</summary>
-  C++
+  Green
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  18 hours 10 minutes</strong> since this server shutdown
+Its been <strong>2 days  18 hours 40 minutes</strong> since this server shutdown
