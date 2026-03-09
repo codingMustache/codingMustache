@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-My friend said to me: "What rhymes with orange" I said: "no it doesn't"
+A ghost walks into a bar and asks for a glass of vodka but the bar tender says, “sorry we don’t serve spirits”
 
 
 ## Daily Trivia
 
-What does GHz stand for?
- 1. Gigahotz
- 2. Gigahatz
- 3. Gigahetz
- 4. Gigahertz
+What does the acronym CDN stand for in terms of networking?
+ 1. Content Delivery Network
+ 2. Compressed Data Network
+ 3. Computational Data Network
+ 4. Content Distribution Network
 
 <details>
   <summary>Answer</summary>
-  Gigahertz
+  Content Delivery Network
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  7 hours 40 minutes</strong> since this server shutdown
+Its been <strong>2 days  8 hours 10 minutes</strong> since this server shutdown
