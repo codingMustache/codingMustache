@@ -10,23 +10,23 @@ Something went wrong with getting the Image, I'll fix it later.
 
 ## Joke of the Day
 
-I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take.
+What do you call a dad that has fallen through the ice? A Popsicle.
 
 
 ## Daily Trivia
 
-What is the number of keys on a standard Windows Keyboard?
- 1. 76
- 2. 94
- 3. 64
- 4. 104
+.rs is the top-level domain for what country?
+ 1. Romania
+ 2. Serbia
+ 3. Russia
+ 4. Rwanda
 
 <details>
   <summary>Answer</summary>
-  104
+  Serbia
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  13 hours 40 minutes</strong> since this server shutdown
+Its been <strong>2 days  14 hours 10 minutes</strong> since this server shutdown
