@@ -10,23 +10,23 @@ Something went wrong with getting the Image, I'll fix it later.
 
 ## Joke of the Day
 
-I went on a date last night with a girl from the zoo. It was great. She’s a keeper.
+What do you call a pig that knows karate? A pork chop!
 
 
 ## Daily Trivia
 
-HTML is what type of language?
- 1. Programming Language
- 2. Macro Language
- 3. Scripting Language
- 4. Markup Language
+Unix Time is defined as the number of seconds that have elapsed since when?
+ 1. Midnight, July 4, 1980
+ 2. Midnight, January 1, 1970
+ 3. Midnight on the creator of Unix&#039;s birthday
+ 4. Midnight, July 4, 1976
 
 <details>
   <summary>Answer</summary>
-  Markup Language
+  Midnight, January 1, 1970
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  14 hours 40 minutes</strong> since this server shutdown
+Its been <strong>2 days  15 hours 10 minutes</strong> since this server shutdown
