@@ -5,35 +5,33 @@ Hello I'm Jorge and I love making things for the internet
 ## Jellyfin
 
 ### I'm Watching 📺 
-<strong>Jon Benjamin Has A Van  Season 1 Episode 8</strong> 
+<strong>The Walking Dead  Season 6 Episode 1</strong> 
 
- The Curse ⭐️ 7.25 
+ First Time Again ⭐️ 8.08 
 
-Jon Benjamin Has a Van is a live-action television comedy series that aired in the summer of 2011 on Comedy Central. The series stars Jon Benjamin as a reporter who tours around in a van to deliver uninteresting news to the viewers and to unsuspecting people while utilizing scripted scenes for narrative reasons. The series' cancellation was announced in April 2012.
+Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way. 
 
-Special guests include Patton Oswalt, David Cross, Jon Glaser, Eric Wareheim, Tim Heidecker, Matt Walsh, Ian Roberts, Jay Johnston, Bob Odenkirk, Chloé Dumas, Jerry Minor, Andy Richter, Larry Murphy, Rich Fulcher, Chris Parnell, Brendon Small, and Metallica guitarist Kirk Hammett. 
-
-![movie poster](https://image.tmdb.org/t/p/w300_and_h300_face/3epRDwLQZxF2CB8PTRuTaprtTZx.jpg)
+![movie poster](https://image.tmdb.org/t/p/w300_and_h300_face/ng3cMtxYKt1OSQYqFlnKWnVsqNO.jpg)
 
 ## Joke of the Day
 
-What did the fish say when it swam into a wall? Damn!
+Hear about the new restaurant called Karma? There’s no menu: You get what you deserve.
 
 
 ## Daily Trivia
 
-What amount of bits commonly equals one byte?
- 1. 8
- 2. 2
- 3. 1
- 4. 64
+HTML is what type of language?
+ 1. Scripting Language
+ 2. Programming Language
+ 3. Markup Language
+ 4. Macro Language
 
 <details>
   <summary>Answer</summary>
-  8
+  Markup Language
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  5 hours 10 minutes</strong> since this server shutdown
+Its been <strong>2 days  5 hours 40 minutes</strong> since this server shutdown
