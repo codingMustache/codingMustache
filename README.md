@@ -15,23 +15,23 @@ Set in Texas, this animated series follows the life of propane salesman Hank Hil
 
 ## Joke of the Day
 
-People who don't eat gluten are really going against the grain.
+Why do bananas have to put on sunscreen before they go to the beach? Because they might peel!
 
 
 ## Daily Trivia
 
-Who invented the &quot;Spanning Tree Protocol&quot;?
- 1. Radia Perlman
- 2. Michael Roberts
- 3. Vint Cerf
- 4. Paul Vixie
+Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
+ 1. 44.1 kHz
+ 2. 20.5 kHz
+ 3. 1.5 MHz
+ 4. 32.0 kHz
 
 <details>
   <summary>Answer</summary>
-  Radia Perlman
+  44.1 kHz
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  23 hours 40 minutes</strong> since this server shutdown
+Its been <strong>3 days 10 minutes</strong> since this server shutdown
