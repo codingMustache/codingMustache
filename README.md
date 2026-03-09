@@ -10,23 +10,23 @@ Something went wrong with getting the Image, I'll fix it later.
 
 ## Joke of the Day
 
-What's the difference between a guitar and a fish? You can tune a guitar but you can't "tuna" fish!
+Why do we tell actors to “break a leg?” Because every play has a cast.
 
 
 ## Daily Trivia
 
-How many Hz does the video standard PAL support?
- 1. 50
- 2. 25
- 3. 60
- 4. 59
+The name of technology company HP stands for what?
+ 1. Hewlett-Packard
+ 2. Husker-Pollosk
+ 3. Hellman-Pohl
+ 4. Howard Packmann
 
 <details>
   <summary>Answer</summary>
-  50
+  Hewlett-Packard
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  21 hours 10 minutes</strong> since this server shutdown
+Its been <strong>2 days  21 hours 40 minutes</strong> since this server shutdown
