@@ -15,23 +15,24 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-Hear about the new restaurant called Karma? There’s no menu: You get what you deserve.
+What do you call a monkey in a mine field? A babooooom!
+
 
 
 ## Daily Trivia
 
-HTML is what type of language?
- 1. Scripting Language
- 2. Programming Language
- 3. Markup Language
- 4. Macro Language
+What does the term USB stand for?
+ 1. Unityped Semtex Backer
+ 2. Universal Serial Bus
+ 3. Universal Simtex Blot
+ 4. Unified Signal Bus
 
 <details>
   <summary>Answer</summary>
-  Markup Language
+  Universal Serial Bus
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  5 hours 40 minutes</strong> since this server shutdown
+Its been <strong>2 days  6 hours 10 minutes</strong> since this server shutdown
