@@ -10,23 +10,23 @@ Something went wrong with getting the Image, I'll fix it later.
 
 ## Joke of the Day
 
-How do you make Lady Gaga cry? Poker face. 
+Why are fish so smart? Because they live in schools!
 
 
 ## Daily Trivia
 
-Which of these programming languages is a low-level language?
- 1. C#
- 2. Python
- 3. Pascal
- 4. Assembly
+What does the computer software acronym JVM stand for?
+ 1. Just Virtual Machine
+ 2. Java Vendor Machine
+ 3. Java Visual Machine
+ 4. Java Virtual Machine
 
 <details>
   <summary>Answer</summary>
-  Assembly
+  Java Virtual Machine
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  16 hours 40 minutes</strong> since this server shutdown
+Its been <strong>2 days  17 hours 10 minutes</strong> since this server shutdown
