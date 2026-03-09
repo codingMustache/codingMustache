@@ -10,23 +10,24 @@ Something went wrong with getting the Image, I'll fix it later.
 
 ## Joke of the Day
 
-What do you call a pig that knows karate? A pork chop!
+A weasel walks into a bar. The bartender says, "Wow, I've never served a weasel before. What can I get for you?"
+"Pop," goes the weasel.
 
 
 ## Daily Trivia
 
-Unix Time is defined as the number of seconds that have elapsed since when?
- 1. Midnight, July 4, 1980
- 2. Midnight, January 1, 1970
- 3. Midnight on the creator of Unix&#039;s birthday
- 4. Midnight, July 4, 1976
+The acronym &quot;RIP&quot; stands for which of these?
+ 1. Routing Information Protocol
+ 2. Routine Inspection Protocol
+ 3. Regular Interval Processes
+ 4. Runtime Instance Processes
 
 <details>
   <summary>Answer</summary>
-  Midnight, January 1, 1970
+  Routing Information Protocol
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  15 hours 10 minutes</strong> since this server shutdown
+Its been <strong>2 days  15 hours 40 minutes</strong> since this server shutdown
