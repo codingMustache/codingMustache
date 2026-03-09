@@ -17,23 +17,23 @@ Special guests include Patton Oswalt, David Cross, Jon Glaser, Eric Wareheim, Ti
 
 ## Joke of the Day
 
-What do you call a fly without wings? A walk.
+What did the fish say when it swam into a wall? Damn!
 
 
 ## Daily Trivia
 
-In computing, what does MIDI stand for?
- 1. Musical Instrument Digital Interface
- 2. Musical Instrument Data Interface
- 3. Modular Interface of Digital Instruments
- 4. Musical Interface of Digital Instruments
+What amount of bits commonly equals one byte?
+ 1. 8
+ 2. 2
+ 3. 1
+ 4. 64
 
 <details>
   <summary>Answer</summary>
-  Musical Instrument Digital Interface
+  8
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  4 hours 40 minutes</strong> since this server shutdown
+Its been <strong>2 days  5 hours 10 minutes</strong> since this server shutdown
