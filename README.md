@@ -5,9 +5,9 @@ Hello I'm Jorge and I love making things for the internet
 ## Jellyfin
 
 ### I'm Watching 📺 
-<strong>King Of The Hill  Season 7 Episode 1</strong> 
+<strong>King Of The Hill  Season 7 Episode 2</strong> 
 
- Get Your Freak Off ⭐️ 7.38 
+ The Fat And The Furious ⭐️ 7.38 
 
 Set in Texas, this animated series follows the life of propane salesman Hank Hill, who lives with his overly confident substitute Spanish teacher wife Peggy, wannabe comedian son Bobby, and naive niece Luanne. Hank has conservative views about God, family, and country, but his values and ethics are often challenged by the situations he, his family, and his beer-drinking neighbors/buddies find themselves in. 
 
@@ -15,23 +15,23 @@ Set in Texas, this animated series follows the life of propane salesman Hank Hil
 
 ## Joke of the Day
 
-So, I heard this pun about cows, but it’s kinda offensive so I won’t say it. I don’t want there to be any beef between us. 
+Is there a hole in your shoe? No… Then how’d you get your foot in it?
 
 
 ## Daily Trivia
 
-HTML is what type of language?
- 1. Macro Language
- 2. Programming Language
- 3. Scripting Language
- 4. Markup Language
+What was the first commerically available computer processor?
+ 1. Intel 4004
+ 2. AMD AM386
+ 3. TMS 1000
+ 4. Intel 486SX
 
 <details>
   <summary>Answer</summary>
-  Markup Language
+  Intel 4004
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  22 hours 10 minutes</strong> since this server shutdown
+Its been <strong>2 days  22 hours 40 minutes</strong> since this server shutdown
