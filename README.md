@@ -15,23 +15,23 @@ Set in Texas, this animated series follows the life of propane salesman Hank Hil
 
 ## Joke of the Day
 
-Why is the new Kindle screen textured to look like paper? So you feel write at home.
+Sore throats are a pain in the neck!
 
 
 ## Daily Trivia
 
-Which of these is not a key value of Agile software development?
- 1. Responding to change
- 2. Customer collaboration
- 3. Individuals and interactions
- 4. Comprehensive documentation
+What major programming language does Unreal Engine 4 use?
+ 1. C++
+ 2. ECMAScript
+ 3. C#
+ 4. Assembly
 
 <details>
   <summary>Answer</summary>
-  Comprehensive documentation
+  C++
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  5 hours 10 minutes</strong> since this server shutdown
+Its been <strong>3 days  5 hours 40 minutes</strong> since this server shutdown
