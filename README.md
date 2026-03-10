@@ -5,35 +5,34 @@ Hello I'm Jorge and I love making things for the internet
 ## Jellyfin
 
 ### I'm Watching 📺 
-<strong>Black Jesus  Season 1 Episode 8</strong> 
+<strong>Aqua TV Show Show  Season Unknown Episode undefined</strong> 
 
- Love Thy Enemy, Part 2 ⭐️ 5.70 
+ Freda ⭐️ 7.54 
 
-A TV series finds Jesus living in present day Compton, CA on a daily mission to spread love and kindness throughout the neighborhood with the help of his small but loyal group of downtrodden followers. 
+The surreal adventures of three anthropomorphic fast food items: Master Shake, Frylock and Meatwad, and their human nextdoor neighbor, Carl Brutananadilewski. 
 
-![movie poster](https://image.tmdb.org/t/p/w300_and_h300_face/4bc5xzWZZvUrbZD5oCQfvGz8Gak.jpg)
+![movie poster](https://image.tmdb.org/t/p/w300_and_h300_face/jCWOkfMLsT2sGHadCkmR65MWtJu.jpg)
 
 ## Joke of the Day
 
- I never wanted to believe that my Dad was stealing from his job as a road worker. But when I got home, all the signs were there.
-
-
+Why don't you find hippopotamuses hiding in trees?
+They're really good at it.
 
 
 ## Daily Trivia
 
-In computing terms, typically what does CLI stand for?
- 1. Command Line Interface
- 2. Common Language Input
- 3. Control Line Interface
- 4. Common Language Interface
+In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
+ 1. console.log(&quot;Hello World&quot;)
+ 2. echo &quot;Hello World&quot;
+ 3. printf(&quot;Hello World&quot;)
+ 4. print(&quot;Hello World&quot;)
 
 <details>
   <summary>Answer</summary>
-  Command Line Interface
+  print(&quot;Hello World&quot;)
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  22 hours 10 minutes</strong> since this server shutdown
+Its been <strong>3 days  22 hours 40 minutes</strong> since this server shutdown
