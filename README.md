@@ -15,24 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-Why was Santa's little helper feeling depressed? Because he has low elf esteem.
-
+I have the heart of a lion... and a lifetime ban from the San Diego Zoo.
 
 
 ## Daily Trivia
 
-The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
- 1. Taiwan
- 2. China (People&#039;s Republic of)
- 3. Germany
- 4. United States
+Who is the original author of the realtime physics engine called PhysX?
+ 1. Ageia
+ 2. Nvidia
+ 3. AMD
+ 4. NovodeX
 
 <details>
   <summary>Answer</summary>
-  Taiwan
+  NovodeX
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  14 hours 10 minutes</strong> since this server shutdown
+Its been <strong>3 days  14 hours 40 minutes</strong> since this server shutdown
