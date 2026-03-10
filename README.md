@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-I heard there was a new store called Moderation. They have everything there
+What do you do on a remote island? Try and find the TV island it belongs to.
 
 
 ## Daily Trivia
 
-Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
- 1. Shellshock
- 2. Corrupted Blood
- 3. Shellscript
- 4. Heartbleed
+Which computer language would you associate Django framework with?
+ 1. Python
+ 2. Java
+ 3. C++
+ 4. C#
 
 <details>
   <summary>Answer</summary>
-  Heartbleed
+  Python
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  20 hours 40 minutes</strong> since this server shutdown
+Its been <strong>3 days  21 hours 10 minutes</strong> since this server shutdown
