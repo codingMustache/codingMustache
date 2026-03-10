@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-I've got a joke about vegetables for you... but it's a bit corny.
+I’m only familiar with 25 letters in the English language. I don’t know why.
 
 
 ## Daily Trivia
 
-What five letter word is the motto of the IBM Computer company?
- 1. Click
- 2. Logic
- 3. Pixel
- 4. Think
+Which RAID array type is associated with data mirroring?
+ 1. RAID 0
+ 2. RAID 10
+ 3. RAID 1
+ 4. RAID 5
 
 <details>
   <summary>Answer</summary>
-  Think
+  RAID 1
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  18 hours 40 minutes</strong> since this server shutdown
+Its been <strong>3 days  19 hours 10 minutes</strong> since this server shutdown
