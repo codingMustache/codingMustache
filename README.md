@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-My sister bet me $15 that I couldn't build a car out of spaghetti. You should have seen the look on her face as I drove pasta.
+I've got a joke about vegetables for you... but it's a bit corny.
 
 
 ## Daily Trivia
 
-The name of technology company HP stands for what?
- 1. Hellman-Pohl
- 2. Hewlett-Packard
- 3. Howard Packmann
- 4. Husker-Pollosk
+What five letter word is the motto of the IBM Computer company?
+ 1. Click
+ 2. Logic
+ 3. Pixel
+ 4. Think
 
 <details>
   <summary>Answer</summary>
-  Hewlett-Packard
+  Think
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  18 hours 10 minutes</strong> since this server shutdown
+Its been <strong>3 days  18 hours 40 minutes</strong> since this server shutdown
