@@ -5,33 +5,33 @@ Hello I'm Jorge and I love making things for the internet
 ## Jellyfin
 
 ### I'm Watching 📺 
-<strong>King Of The Hill  Season 7 Episode 3</strong> 
+<strong>The Walking Dead  Season 6 Episode 5</strong> 
 
- Bad Girls, Bad Girls, Whatcha Gonna Do ⭐️ 7.38 
+ Now ⭐️ 8.08 
 
-Set in Texas, this animated series follows the life of propane salesman Hank Hill, who lives with his overly confident substitute Spanish teacher wife Peggy, wannabe comedian son Bobby, and naive niece Luanne. Hank has conservative views about God, family, and country, but his values and ethics are often challenged by the situations he, his family, and his beer-drinking neighbors/buddies find themselves in. 
+Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way. 
 
-![movie poster](https://image.tmdb.org/t/p/w300_and_h300_face/e2xyMapmYgv4AuSoSDv9Y4pQlD6.jpg)
+![movie poster](https://image.tmdb.org/t/p/w300_and_h300_face/ng3cMtxYKt1OSQYqFlnKWnVsqNO.jpg)
 
 ## Joke of the Day
 
-Sore throats are a pain in the neck!
+What do you call a bear with no teeth? A gummy bear!
 
 
 ## Daily Trivia
 
-What major programming language does Unreal Engine 4 use?
- 1. C++
- 2. ECMAScript
- 3. C#
- 4. Assembly
+What does &quot;LCD&quot; stand for?
+ 1. Language Control Design
+ 2. Last Common Difference
+ 3. Long Continuous Design
+ 4. Liquid Crystal Display
 
 <details>
   <summary>Answer</summary>
-  C++
+  Liquid Crystal Display
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  5 hours 40 minutes</strong> since this server shutdown
+Its been <strong>3 days  6 hours 10 minutes</strong> since this server shutdown
