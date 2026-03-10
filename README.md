@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-Want to hear a chimney joke? Got stacks of em! First one's on the house
+I heard there was a new store called Moderation. They have everything there
 
 
 ## Daily Trivia
 
-Which of the following languages is used as a scripting language in the Unity 3D game engine?
- 1. C++
- 2. Objective-C
- 3. C#
- 4. Java
+Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
+ 1. Shellshock
+ 2. Corrupted Blood
+ 3. Shellscript
+ 4. Heartbleed
 
 <details>
   <summary>Answer</summary>
-  C#
+  Heartbleed
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  20 hours 10 minutes</strong> since this server shutdown
+Its been <strong>3 days  20 hours 40 minutes</strong> since this server shutdown
