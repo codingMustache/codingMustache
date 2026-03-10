@@ -15,23 +15,23 @@ The surreal adventures of three anthropomorphic fast food items: Master Shake, F
 
 ## Joke of the Day
 
-A Skeleton walked into a bar he said I need a beer and a mop
+I used to hate facial hair, but then it grew on me.
 
 
 ## Daily Trivia
 
-The programming language &#039;Swift&#039; was created to replace what other programming language?
- 1. Objective-C
- 2. C#
- 3. Ruby
- 4. C++
+What is the commonly used keyboard shortcut for the &#039;Copy&#039; function on Windows OS?
+ 1. Ctrl + X
+ 2. Alt + C
+ 3. Ctrl + C
+ 4. Alt + X
 
 <details>
   <summary>Answer</summary>
-  Objective-C
+  Ctrl + C
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days 10 minutes</strong> since this server shutdown
+Its been <strong>4 days 40 minutes</strong> since this server shutdown
