@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-What kind of music do planets listen to? Nep-tunes.
+My cat was just sick on the carpet, I don’t think it’s feline well.
 
 
 ## Daily Trivia
 
-What was the name of the security vulnerability found in Bash in 2014?
- 1. Heartbleed
- 2. Stagefright
- 3. Shellshock
- 4. Bashbug
+Which RAID array type is associated with data mirroring?
+ 1. RAID 0
+ 2. RAID 10
+ 3. RAID 1
+ 4. RAID 5
 
 <details>
   <summary>Answer</summary>
-  Shellshock
+  RAID 1
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  16 hours 40 minutes</strong> since this server shutdown
+Its been <strong>3 days  17 hours 10 minutes</strong> since this server shutdown
