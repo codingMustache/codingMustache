@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-What's the difference between a poorly dressed man on a tricycle and a well dressed man on a bicycle? Attire.
+Want to hear a chimney joke? Got stacks of em! First one's on the house
 
 
 ## Daily Trivia
 
-Who invented the &quot;Spanning Tree Protocol&quot;?
- 1. Michael Roberts
- 2. Vint Cerf
- 3. Radia Perlman
- 4. Paul Vixie
+Which of the following languages is used as a scripting language in the Unity 3D game engine?
+ 1. C++
+ 2. Objective-C
+ 3. C#
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  Radia Perlman
+  C#
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  19 hours 40 minutes</strong> since this server shutdown
+Its been <strong>3 days  20 hours 10 minutes</strong> since this server shutdown
