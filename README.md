@@ -15,23 +15,24 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-Is the pool safe for diving? It deep ends.
+Q: What did the spaghetti say to the other spaghetti?
+A: Pasta la vista, baby!
 
 
 ## Daily Trivia
 
-Which of the following physical typologies are used with Ethernet Networks?
- 1. Ring
- 2. Star
- 3. Mesh
- 4. Hex
+Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
+ 1. JavaScript
+ 2. Python
+ 3. PHP
+ 4. C#
 
 <details>
   <summary>Answer</summary>
-  Star
+  JavaScript
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  7 hours 10 minutes</strong> since this server shutdown
+Its been <strong>3 days  7 hours 40 minutes</strong> since this server shutdown
