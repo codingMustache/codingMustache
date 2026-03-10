@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-Why didn’t the orange win the race? It ran out of juice.
+My sister bet me $15 that I couldn't build a car out of spaghetti. You should have seen the look on her face as I drove pasta.
 
 
 ## Daily Trivia
 
-Unix Time is defined as the number of seconds that have elapsed since when?
- 1. Midnight on the creator of Unix&#039;s birthday
- 2. Midnight, January 1, 1970
- 3. Midnight, July 4, 1980
- 4. Midnight, July 4, 1976
+The name of technology company HP stands for what?
+ 1. Hellman-Pohl
+ 2. Hewlett-Packard
+ 3. Howard Packmann
+ 4. Husker-Pollosk
 
 <details>
   <summary>Answer</summary>
-  Midnight, January 1, 1970
+  Hewlett-Packard
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  17 hours 40 minutes</strong> since this server shutdown
+Its been <strong>3 days  18 hours 10 minutes</strong> since this server shutdown
