@@ -15,24 +15,23 @@ The surreal adventures of three anthropomorphic fast food items: Master Shake, F
 
 ## Joke of the Day
 
-Why don't you find hippopotamuses hiding in trees?
-They're really good at it.
+Do you want a brief explanation of what an acorn is? In a nutshell, it's an oak tree.
 
 
 ## Daily Trivia
 
-In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
- 1. console.log(&quot;Hello World&quot;)
- 2. echo &quot;Hello World&quot;
- 3. printf(&quot;Hello World&quot;)
- 4. print(&quot;Hello World&quot;)
+CMOS is tech used for constructing integrated circuits. What does CMOS stand for?
+ 1. Complementary metal&ndash;oxide&ndash;semiconductor
+ 2. Computer-made oscillating static
+ 3. Computer-made operating system
+ 4. Complementary magnetic-ohms-semiconductor
 
 <details>
   <summary>Answer</summary>
-  print(&quot;Hello World&quot;)
+  Complementary metal&ndash;oxide&ndash;semiconductor
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  22 hours 40 minutes</strong> since this server shutdown
+Its been <strong>3 days  23 hours 10 minutes</strong> since this server shutdown
