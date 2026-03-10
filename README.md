@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-The word queue is ironic. It's just q with a bunch of silent letters waiting in line.
+A man walks into a bar and orders helicopter flavor chips. The barman replies “sorry mate we only do plain”
 
 
 ## Daily Trivia
 
-What programming language was GitHub written in?
- 1. Ruby
- 2. Lua
- 3. Python
- 4. JavaScript
+What was the name given to Android 4.3?
+ 1. Lollipop
+ 2. Nutella
+ 3. Froyo
+ 4. Jelly Bean
 
 <details>
   <summary>Answer</summary>
-  Ruby
+  Jelly Bean
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  11 hours 10 minutes</strong> since this server shutdown
+Its been <strong>3 days  11 hours 40 minutes</strong> since this server shutdown
