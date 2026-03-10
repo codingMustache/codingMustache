@@ -15,23 +15,24 @@ The surreal adventures of three anthropomorphic fast food items: Master Shake, F
 
 ## Joke of the Day
 
-I used to hate facial hair, but then it grew on me.
+What do you get when you cross a bee and a sheep? A bah-humbug.
+
 
 
 ## Daily Trivia
 
-What is the commonly used keyboard shortcut for the &#039;Copy&#039; function on Windows OS?
- 1. Ctrl + X
- 2. Alt + C
- 3. Ctrl + C
- 4. Alt + X
+What was Bitcoin&#039;s block size limit in 2010?
+ 1. 1 MB
+ 2. 1 TB
+ 3. 1 KB
+ 4. 1GB
 
 <details>
   <summary>Answer</summary>
-  Ctrl + C
+  1 MB
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days 40 minutes</strong> since this server shutdown
+Its been <strong>4 days  1 hours 10 minutes</strong> since this server shutdown
