@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-What do you call a pile of cats?  A Meowtain.
+Why is it a bad idea to iron your four-leaf clover? Cause you shouldn't press your luck.
 
 
 ## Daily Trivia
 
-What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
- 1. Session
- 2. Data link
- 3. Network
- 4. Transport
+Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
+ 1. 32.0 kHz
+ 2. 1.5 MHz
+ 3. 44.1 kHz
+ 4. 20.5 kHz
 
 <details>
   <summary>Answer</summary>
-  Transport
+  44.1 kHz
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  3 hours 40 minutes</strong> since this server shutdown
+Its been <strong>4 days  4 hours 10 minutes</strong> since this server shutdown
