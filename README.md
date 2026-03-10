@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-Can a kangaroo jump higher than the Empire State Building? Of course. The Empire State Building can't jump.
+What do you call a pile of cats?  A Meowtain.
 
 
 ## Daily Trivia
 
-Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
- 1. 32.0 kHz
- 2. 44.1 kHz
- 3. 20.5 kHz
- 4. 1.5 MHz
+What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
+ 1. Session
+ 2. Data link
+ 3. Network
+ 4. Transport
 
 <details>
   <summary>Answer</summary>
-  44.1 kHz
+  Transport
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  3 hours 10 minutes</strong> since this server shutdown
+Its been <strong>4 days  3 hours 40 minutes</strong> since this server shutdown
