@@ -15,23 +15,23 @@ Set in Texas, this animated series follows the life of propane salesman Hank Hil
 
 ## Joke of the Day
 
-What did the drummer name her twin daughters? Anna One, Anna Two...
+Why is the new Kindle screen textured to look like paper? So you feel write at home.
 
 
 ## Daily Trivia
 
-What is largely considered the precursor to the USB format?
- 1. FireWire
- 2. PCIe
- 3. SVGA
- 4. PS/2
+Which of these is not a key value of Agile software development?
+ 1. Responding to change
+ 2. Customer collaboration
+ 3. Individuals and interactions
+ 4. Comprehensive documentation
 
 <details>
   <summary>Answer</summary>
-  PS/2
+  Comprehensive documentation
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  4 hours 40 minutes</strong> since this server shutdown
+Its been <strong>3 days  5 hours 10 minutes</strong> since this server shutdown
