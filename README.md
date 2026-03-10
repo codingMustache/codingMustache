@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-How come a man driving a train got struck by lightning? He was a good conductor.
+The rotation of earth really makes my day.
 
 
 ## Daily Trivia
 
-How many values can a single byte represent?
- 1. 256
- 2. 1024
- 3. 1
- 4. 8
+What does the &quot;MP&quot; stand for in MP3?
+ 1. Moving Picture
+ 2. Music Player
+ 3. Multi Pass
+ 4. Micro Point
 
 <details>
   <summary>Answer</summary>
-  256
+  Moving Picture
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  12 hours 10 minutes</strong> since this server shutdown
+Its been <strong>3 days  12 hours 40 minutes</strong> since this server shutdown
