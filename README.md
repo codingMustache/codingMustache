@@ -15,24 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-Q: What did the spaghetti say to the other spaghetti?
-A: Pasta la vista, baby!
+How come a man driving a train got struck by lightning? He was a good conductor.
 
 
 ## Daily Trivia
 
-Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
- 1. JavaScript
- 2. Python
- 3. PHP
- 4. C#
+When was the programming language &quot;C#&quot; released?
+ 1. 2000
+ 2. 1999
+ 3. 1998
+ 4. 2001
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  2000
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  7 hours 40 minutes</strong> since this server shutdown
+Its been <strong>3 days  8 hours 10 minutes</strong> since this server shutdown
