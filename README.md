@@ -5,33 +5,33 @@ Hello I'm Jorge and I love making things for the internet
 ## Jellyfin
 
 ### I'm Watching 📺 
-<strong>Aqua TV Show Show  Season Unknown Episode undefined</strong> 
+<strong>The Walking Dead  Season 6 Episode 8</strong> 
 
- Freda ⭐️ 7.54 
+ Start To Finish ⭐️ 8.08 
 
-The surreal adventures of three anthropomorphic fast food items: Master Shake, Frylock and Meatwad, and their human nextdoor neighbor, Carl Brutananadilewski. 
+Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way. 
 
-![movie poster](https://image.tmdb.org/t/p/w300_and_h300_face/jCWOkfMLsT2sGHadCkmR65MWtJu.jpg)
+![movie poster](https://image.tmdb.org/t/p/w300_and_h300_face/ng3cMtxYKt1OSQYqFlnKWnVsqNO.jpg)
 
 ## Joke of the Day
 
-A man walks into a bar and orders helicopter flavor chips. The barman replies “sorry mate we only do plain”
+I'll tell you what often gets over looked... garden fences.
 
 
 ## Daily Trivia
 
-What does the acronym CDN stand for in terms of networking?
- 1. Content Delivery Network
- 2. Compressed Data Network
- 3. Computational Data Network
- 4. Content Distribution Network
+What is the code name for the mobile operating system Android 7.0?
+ 1. Ice Cream Sandwich
+ 2. Jelly Bean
+ 3. Marshmallow
+ 4. Nougat
 
 <details>
   <summary>Answer</summary>
-  Content Delivery Network
+  Nougat
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  2 hours 10 minutes</strong> since this server shutdown
+Its been <strong>4 days  2 hours 40 minutes</strong> since this server shutdown
