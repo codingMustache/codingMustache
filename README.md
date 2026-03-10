@@ -15,25 +15,23 @@ Set in Texas, this animated series follows the life of propane salesman Hank Hil
 
 ## Joke of the Day
 
-What's large, grey, and doesn't matter?
-An irrelephant.
-
+What did the drummer name her twin daughters? Anna One, Anna Two...
 
 
 ## Daily Trivia
 
-In computing terms, typically what does CLI stand for?
- 1. Control Line Interface
- 2. Common Language Input
- 3. Command Line Interface
- 4. Common Language Interface
+What is largely considered the precursor to the USB format?
+ 1. FireWire
+ 2. PCIe
+ 3. SVGA
+ 4. PS/2
 
 <details>
   <summary>Answer</summary>
-  Command Line Interface
+  PS/2
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  4 hours 10 minutes</strong> since this server shutdown
+Its been <strong>3 days  4 hours 40 minutes</strong> since this server shutdown
