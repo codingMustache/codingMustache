@@ -15,24 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-Why did the cookie cry?
-Because his mother was a wafer so long
+The word queue is ironic. It's just q with a bunch of silent letters waiting in line.
 
 
 ## Daily Trivia
 
-What is the most preferred image format used for logos in the Wikimedia database?
- 1. .gif
- 2. .jpeg
- 3. .svg
- 4. .png
+What programming language was GitHub written in?
+ 1. Ruby
+ 2. Lua
+ 3. Python
+ 4. JavaScript
 
 <details>
   <summary>Answer</summary>
-  .svg
+  Ruby
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  10 hours 40 minutes</strong> since this server shutdown
+Its been <strong>3 days  11 hours 10 minutes</strong> since this server shutdown
