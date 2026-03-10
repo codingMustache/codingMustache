@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-I went to the doctor today and he told me I had type A blood but it was a type O.
+No matter how kind you are, German children are kinder.
 
 
 ## Daily Trivia
 
-On which computer hardware device is the BIOS chip located?
- 1. Hard Disk Drive
- 2. Graphics Processing Unit
- 3. Central Processing Unit
- 4. Motherboard
+In web design, what does CSS stand for?
+ 1. Corrective Style Sheet
+ 2. Counter Strike: Source
+ 3. Cascading Style Sheet
+ 4. Computer Style Sheet
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  Cascading Style Sheet
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  15 hours 40 minutes</strong> since this server shutdown
+Its been <strong>3 days  16 hours 10 minutes</strong> since this server shutdown
