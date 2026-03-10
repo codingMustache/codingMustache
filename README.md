@@ -15,23 +15,23 @@ The surreal adventures of three anthropomorphic fast food items: Master Shake, F
 
 ## Joke of the Day
 
-What do you call someone with no nose? Nobody knows.
+A man walks into a bar and orders helicopter flavor chips. The barman replies “sorry mate we only do plain”
 
 
 ## Daily Trivia
 
-What does the computer software acronym JVM stand for?
- 1. Java Visual Machine
- 2. Just Virtual Machine
- 3. Java Virtual Machine
- 4. Java Vendor Machine
+What does the acronym CDN stand for in terms of networking?
+ 1. Content Delivery Network
+ 2. Compressed Data Network
+ 3. Computational Data Network
+ 4. Content Distribution Network
 
 <details>
   <summary>Answer</summary>
-  Java Virtual Machine
+  Content Delivery Network
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  1 hours 40 minutes</strong> since this server shutdown
+Its been <strong>4 days  2 hours 10 minutes</strong> since this server shutdown
