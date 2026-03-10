@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-The rotation of earth really makes my day.
+How do you know if there’s an elephant under your bed? Your head hits the ceiling!
 
 
 ## Daily Trivia
 
-What does the &quot;MP&quot; stand for in MP3?
- 1. Moving Picture
- 2. Music Player
- 3. Multi Pass
- 4. Micro Point
+What does AD stand for in relation to Windows Operating Systems? 
+ 1. Automated Database
+ 2. Active Directory
+ 3. Alternative Drive
+ 4. Active Department
 
 <details>
   <summary>Answer</summary>
-  Moving Picture
+  Active Directory
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  12 hours 40 minutes</strong> since this server shutdown
+Its been <strong>3 days  13 hours 10 minutes</strong> since this server shutdown
