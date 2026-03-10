@@ -5,9 +5,9 @@ Hello I'm Jorge and I love making things for the internet
 ## Jellyfin
 
 ### I'm Watching 📺 
-<strong>The Walking Dead  Season 6 Episode 6</strong> 
+<strong>The Walking Dead  Season 6 Episode 7</strong> 
 
- Always Accountable ⭐️ 8.08 
+ Heads Up ⭐️ 8.08 
 
 Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way. 
 
@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-How come a man driving a train got struck by lightning? He was a good conductor.
+I am terrified of elevators. I’m going to start taking steps to avoid them.
 
 
 ## Daily Trivia
 
-When was the programming language &quot;C#&quot; released?
- 1. 2000
- 2. 1999
- 3. 1998
- 4. 2001
+Which of these is not a key value of Agile software development?
+ 1. Individuals and interactions
+ 2. Comprehensive documentation
+ 3. Customer collaboration
+ 4. Responding to change
 
 <details>
   <summary>Answer</summary>
-  2000
+  Comprehensive documentation
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  8 hours 10 minutes</strong> since this server shutdown
+Its been <strong>3 days  8 hours 40 minutes</strong> since this server shutdown
