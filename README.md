@@ -15,23 +15,23 @@ The surreal adventures of three anthropomorphic fast food items: Master Shake, F
 
 ## Joke of the Day
 
-There’s a new type of broom out, it’s sweeping the nation.
+A Skeleton walked into a bar he said I need a beer and a mop
 
 
 ## Daily Trivia
 
-How long is an IPv6 address?
- 1. 128 bytes
- 2. 128 bits
- 3. 64 bits
- 4. 32 bits
+The programming language &#039;Swift&#039; was created to replace what other programming language?
+ 1. Objective-C
+ 2. C#
+ 3. Ruby
+ 4. C++
 
 <details>
   <summary>Answer</summary>
-  128 bits
+  Objective-C
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  23 hours 40 minutes</strong> since this server shutdown
+Its been <strong>4 days 10 minutes</strong> since this server shutdown
