@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-What did the beaver say to the tree? It's been nice gnawing you.
+I went to the doctor today and he told me I had type A blood but it was a type O.
 
 
 ## Daily Trivia
 
-What is the domain name for the country Tuvalu?
- 1. .tv
- 2. .tl
- 3. .tt
- 4. .tu
+On which computer hardware device is the BIOS chip located?
+ 1. Hard Disk Drive
+ 2. Graphics Processing Unit
+ 3. Central Processing Unit
+ 4. Motherboard
 
 <details>
   <summary>Answer</summary>
-  .tv
+  Motherboard
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  15 hours 10 minutes</strong> since this server shutdown
+Its been <strong>3 days  15 hours 40 minutes</strong> since this server shutdown
