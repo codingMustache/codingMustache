@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-Egyptians claimed to invent the guitar, but they were such lyres.﻿
+Why did the clown have neck pain? - Because he slept funny
 
 
 ## Daily Trivia
 
-How many bits are commonly in a single byte?
- 1. Six bits
- 2. Twelve bits
- 3. Eight bits
- 4.  Fifteen bits
+What is the most preferred image format used for logos in the Wikimedia database?
+ 1. .svg
+ 2. .jpeg
+ 3. .gif
+ 4. .png
 
 <details>
   <summary>Answer</summary>
-  Eight bits
+  .svg
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  9 hours 40 minutes</strong> since this server shutdown
+Its been <strong>3 days  10 hours 10 minutes</strong> since this server shutdown
