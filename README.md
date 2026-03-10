@@ -5,9 +5,9 @@ Hello I'm Jorge and I love making things for the internet
 ## Jellyfin
 
 ### I'm Watching 📺 
-<strong>The Walking Dead  Season 6 Episode 7</strong> 
+<strong>The Walking Dead  Season 6 Episode 8</strong> 
 
- Heads Up ⭐️ 8.08 
+ Start To Finish ⭐️ 8.10 
 
 Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way. 
 
@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-To the guy who invented zero... thanks for nothing.
+Egyptians claimed to invent the guitar, but they were such lyres.﻿
 
 
 ## Daily Trivia
 
-In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
- 1. &lt;scroll&gt;&lt;/scroll&gt;
- 2. &lt;move&gt;&lt;/move&gt;
- 3. &lt;slide&gt;&lt;/slide&gt;
- 4. &lt;marquee&gt;&lt;/marquee&gt;
+How many bits are commonly in a single byte?
+ 1. Six bits
+ 2. Twelve bits
+ 3. Eight bits
+ 4.  Fifteen bits
 
 <details>
   <summary>Answer</summary>
-  &lt;marquee&gt;&lt;/marquee&gt;
+  Eight bits
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  9 hours 10 minutes</strong> since this server shutdown
+Its been <strong>3 days  9 hours 40 minutes</strong> since this server shutdown
