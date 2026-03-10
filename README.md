@@ -15,24 +15,23 @@ The surreal adventures of three anthropomorphic fast food items: Master Shake, F
 
 ## Joke of the Day
 
-What do you get when you cross a bee and a sheep? A bah-humbug.
-
+What do you call someone with no nose? Nobody knows.
 
 
 ## Daily Trivia
 
-What was Bitcoin&#039;s block size limit in 2010?
- 1. 1 MB
- 2. 1 TB
- 3. 1 KB
- 4. 1GB
+What does the computer software acronym JVM stand for?
+ 1. Java Visual Machine
+ 2. Just Virtual Machine
+ 3. Java Virtual Machine
+ 4. Java Vendor Machine
 
 <details>
   <summary>Answer</summary>
-  1 MB
+  Java Virtual Machine
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  1 hours 10 minutes</strong> since this server shutdown
+Its been <strong>4 days  1 hours 40 minutes</strong> since this server shutdown
