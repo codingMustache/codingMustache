@@ -7,7 +7,7 @@ Hello I'm Jorge and I love making things for the internet
 ### I'm Watching 📺 
 <strong>The Walking Dead  Season 6 Episode 8</strong> 
 
- Start To Finish ⭐️ 8.10 
+ Start To Finish ⭐️ 8.08 
 
 Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way. 
 
@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-My cat was just sick on the carpet, I don’t think it’s feline well.
+Why didn’t the orange win the race? It ran out of juice.
 
 
 ## Daily Trivia
 
-Which RAID array type is associated with data mirroring?
- 1. RAID 0
- 2. RAID 10
- 3. RAID 1
- 4. RAID 5
+Unix Time is defined as the number of seconds that have elapsed since when?
+ 1. Midnight on the creator of Unix&#039;s birthday
+ 2. Midnight, January 1, 1970
+ 3. Midnight, July 4, 1980
+ 4. Midnight, July 4, 1976
 
 <details>
   <summary>Answer</summary>
-  RAID 1
+  Midnight, January 1, 1970
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  17 hours 10 minutes</strong> since this server shutdown
+Its been <strong>3 days  17 hours 40 minutes</strong> since this server shutdown
