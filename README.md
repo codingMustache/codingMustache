@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-I have the heart of a lion... and a lifetime ban from the San Diego Zoo.
+What did the beaver say to the tree? It's been nice gnawing you.
 
 
 ## Daily Trivia
 
-Who is the original author of the realtime physics engine called PhysX?
- 1. Ageia
- 2. Nvidia
- 3. AMD
- 4. NovodeX
+What is the domain name for the country Tuvalu?
+ 1. .tv
+ 2. .tl
+ 3. .tt
+ 4. .tu
 
 <details>
   <summary>Answer</summary>
-  NovodeX
+  .tv
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  14 hours 40 minutes</strong> since this server shutdown
+Its been <strong>3 days  15 hours 10 minutes</strong> since this server shutdown
