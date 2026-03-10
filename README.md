@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-How do you know if there’s an elephant under your bed? Your head hits the ceiling!
+When you have a bladder infection, urine trouble.
 
 
 ## Daily Trivia
 
-What does AD stand for in relation to Windows Operating Systems? 
- 1. Automated Database
- 2. Active Directory
- 3. Alternative Drive
- 4. Active Department
+How many kilobytes in one gigabyte (in decimal)?
+ 1. 1024
+ 2. 1000
+ 3. 1048576
+ 4. 1000000
 
 <details>
   <summary>Answer</summary>
-  Active Directory
+  1000000
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  13 hours 10 minutes</strong> since this server shutdown
+Its been <strong>3 days  13 hours 40 minutes</strong> since this server shutdown
