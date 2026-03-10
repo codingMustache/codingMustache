@@ -15,23 +15,24 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-When you have a bladder infection, urine trouble.
+Why was Santa's little helper feeling depressed? Because he has low elf esteem.
+
 
 
 ## Daily Trivia
 
-How many kilobytes in one gigabyte (in decimal)?
- 1. 1024
- 2. 1000
- 3. 1048576
- 4. 1000000
+The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
+ 1. Taiwan
+ 2. China (People&#039;s Republic of)
+ 3. Germany
+ 4. United States
 
 <details>
   <summary>Answer</summary>
-  1000000
+  Taiwan
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  13 hours 40 minutes</strong> since this server shutdown
+Its been <strong>3 days  14 hours 10 minutes</strong> since this server shutdown
