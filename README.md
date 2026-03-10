@@ -15,15 +15,16 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-Why did the clown have neck pain? - Because he slept funny
+Why did the cookie cry?
+Because his mother was a wafer so long
 
 
 ## Daily Trivia
 
 What is the most preferred image format used for logos in the Wikimedia database?
- 1. .svg
+ 1. .gif
  2. .jpeg
- 3. .gif
+ 3. .svg
  4. .png
 
 <details>
@@ -34,4 +35,4 @@ What is the most preferred image format used for logos in the Wikimedia database
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  10 hours 10 minutes</strong> since this server shutdown
+Its been <strong>3 days  10 hours 40 minutes</strong> since this server shutdown
