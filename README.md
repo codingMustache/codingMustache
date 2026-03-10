@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-Why can’t you hear a pterodactyl go to the bathroom? The p is silent.
+Is the pool safe for diving? It deep ends.
 
 
 ## Daily Trivia
 
-What is the name of Layer 7 of the OSI model?
- 1. Present
- 2. Session
- 3. Application
- 4. Network
+Which of the following physical typologies are used with Ethernet Networks?
+ 1. Ring
+ 2. Star
+ 3. Mesh
+ 4. Hex
 
 <details>
   <summary>Answer</summary>
-  Application
+  Star
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  6 hours 40 minutes</strong> since this server shutdown
+Its been <strong>3 days  7 hours 10 minutes</strong> since this server shutdown
