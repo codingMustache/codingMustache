@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-I’m only familiar with 25 letters in the English language. I don’t know why.
+What's the difference between a poorly dressed man on a tricycle and a well dressed man on a bicycle? Attire.
 
 
 ## Daily Trivia
 
-Which RAID array type is associated with data mirroring?
- 1. RAID 0
- 2. RAID 10
- 3. RAID 1
- 4. RAID 5
+Who invented the &quot;Spanning Tree Protocol&quot;?
+ 1. Michael Roberts
+ 2. Vint Cerf
+ 3. Radia Perlman
+ 4. Paul Vixie
 
 <details>
   <summary>Answer</summary>
-  RAID 1
+  Radia Perlman
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  19 hours 10 minutes</strong> since this server shutdown
+Its been <strong>3 days  19 hours 40 minutes</strong> since this server shutdown
