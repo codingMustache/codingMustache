@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-No matter how kind you are, German children are kinder.
+What kind of music do planets listen to? Nep-tunes.
 
 
 ## Daily Trivia
 
-In web design, what does CSS stand for?
- 1. Corrective Style Sheet
- 2. Counter Strike: Source
- 3. Cascading Style Sheet
- 4. Computer Style Sheet
+What was the name of the security vulnerability found in Bash in 2014?
+ 1. Heartbleed
+ 2. Stagefright
+ 3. Shellshock
+ 4. Bashbug
 
 <details>
   <summary>Answer</summary>
-  Cascading Style Sheet
+  Shellshock
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  16 hours 10 minutes</strong> since this server shutdown
+Its been <strong>3 days  16 hours 40 minutes</strong> since this server shutdown
