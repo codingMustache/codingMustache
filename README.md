@@ -15,23 +15,25 @@ A TV series finds Jesus living in present day Compton, CA on a daily mission to 
 
 ## Joke of the Day
 
-I'd like to start a diet, but I've got too much on my plate right now.
+ I never wanted to believe that my Dad was stealing from his job as a road worker. But when I got home, all the signs were there.
+
+
 
 
 ## Daily Trivia
 
-In programming, the ternary operator is mostly defined with what symbol(s)?
- 1. ??
- 2. if then
- 3. ?:
- 4. ?
+In computing terms, typically what does CLI stand for?
+ 1. Command Line Interface
+ 2. Common Language Input
+ 3. Control Line Interface
+ 4. Common Language Interface
 
 <details>
   <summary>Answer</summary>
-  ?:
+  Command Line Interface
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  21 hours 40 minutes</strong> since this server shutdown
+Its been <strong>3 days  22 hours 10 minutes</strong> since this server shutdown
