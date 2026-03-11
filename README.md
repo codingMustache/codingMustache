@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-What is this movie about? It is about 2 hours long.
+Why do cows not have toes? They lactose!
 
 
 ## Daily Trivia
 
-Australia, Japan, and Southeast Asia are in which ITU Region?
- 1. Region 1
- 2. Region 3
- 3. Region 4
- 4. Region 2
+In networking, what does OSPF stand for?
+ 1. Open Shortest Path First
+ 2. Order State Part First
+ 3. Order Sense Ping Find
+ 4. Open Signal Path Finder
 
 <details>
   <summary>Answer</summary>
-  Region 3
+  Open Shortest Path First
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  17 hours 40 minutes</strong> since this server shutdown
+Its been <strong>4 days  18 hours 10 minutes</strong> since this server shutdown
