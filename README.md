@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-To be Frank, I'd have to change my name.
+The biggest knight at King Arthur's round table was Sir Cumference. He acquired his size from eating too much pi.
 
 
 ## Daily Trivia
 
-In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
- 1. &lt;move&gt;&lt;/move&gt;
- 2. &lt;scroll&gt;&lt;/scroll&gt;
- 3. &lt;marquee&gt;&lt;/marquee&gt;
- 4. &lt;slide&gt;&lt;/slide&gt;
+Which of the following is NOT a computer science algorithm?
+ 1. Bubble Sort
+ 2. Merge Sort
+ 3. Float Sort
+ 4. Quick Sort
 
 <details>
   <summary>Answer</summary>
-  &lt;marquee&gt;&lt;/marquee&gt;
+  Float Sort
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  13 hours 40 minutes</strong> since this server shutdown
+Its been <strong>4 days  14 hours 10 minutes</strong> since this server shutdown
