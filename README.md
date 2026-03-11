@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-Someone asked me, what's the ninth letter of the alphabet? It was a complete guess, but I was right.
+What kind of dinosaur loves to sleep? A stega-snore-us.
 
 
 ## Daily Trivia
 
-Which of the following is the oldest of these computers by release date?
- 1. Commodore 64
- 2. ZX Spectrum
- 3. Apple 3
- 4. TRS-80
+What is the domain name for the country Tuvalu?
+ 1. .tv
+ 2. .tu
+ 3. .tt
+ 4. .tl
 
 <details>
   <summary>Answer</summary>
-  TRS-80
+  .tv
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days 40 minutes</strong> since this server shutdown
+Its been <strong>5 days  1 hours 10 minutes</strong> since this server shutdown
