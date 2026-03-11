@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-Why is it always hot in the corner of a room? Because a corner is 90 degrees.
+I just read a book about Stockholm syndrome. It was pretty bad at first, but by the end I liked it.
 
 
 ## Daily Trivia
 
-How many bytes are in a single Kibibyte?
- 1. 2400
- 2. 1000
- 3. 1240
- 4. 1024
+How long is an IPv6 address?
+ 1. 128 bytes
+ 2. 64 bits
+ 3. 32 bits
+ 4. 128 bits
 
 <details>
   <summary>Answer</summary>
-  1024
+  128 bits
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  4 hours 40 minutes</strong> since this server shutdown
+Its been <strong>4 days  5 hours 10 minutes</strong> since this server shutdown
