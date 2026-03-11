@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-A man tried to sell me a coffin today. I told him that's the last thing I need.
+My new thesaurus is terrible. In fact, it's so bad, I'd say it's terrible.
 
 
 ## Daily Trivia
 
-In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
- 1. &lt;marquee&gt;&lt;/marquee&gt;
- 2. &lt;slide&gt;&lt;/slide&gt;
- 3. &lt;move&gt;&lt;/move&gt;
- 4. &lt;scroll&gt;&lt;/scroll&gt;
+How many values can a single byte represent?
+ 1. 1024
+ 2. 1
+ 3. 8
+ 4. 256
 
 <details>
   <summary>Answer</summary>
-  &lt;marquee&gt;&lt;/marquee&gt;
+  256
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  20 hours 10 minutes</strong> since this server shutdown
+Its been <strong>4 days  20 hours 40 minutes</strong> since this server shutdown
