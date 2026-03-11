@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-I had a pair of racing snails. I removed their shells to make them more aerodynamic, but they became sluggish.
+Why did the kid throw the clock out the window? He wanted to see time fly!
 
 
 ## Daily Trivia
 
-Australia, Japan, and Southeast Asia are in which ITU Region?
- 1. Region 1
- 2. Region 2
- 3. Region 4
- 4. Region 3
+Which of the following is NOT a computer science algorithm?
+ 1. Quick Sort
+ 2. Merge Sort
+ 3. Bubble Sort
+ 4. Float Sort
 
 <details>
   <summary>Answer</summary>
-  Region 3
+  Float Sort
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  21 hours 10 minutes</strong> since this server shutdown
+Its been <strong>4 days  21 hours 40 minutes</strong> since this server shutdown
