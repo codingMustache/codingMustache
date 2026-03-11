@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-Just read a few facts about frogs. They were ribbiting.
+What is this movie about? It is about 2 hours long.
 
 
 ## Daily Trivia
 
-Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
- 1. Shopify
- 2. Overstock
- 3. Amazon
- 4. eBay
+Australia, Japan, and Southeast Asia are in which ITU Region?
+ 1. Region 1
+ 2. Region 3
+ 3. Region 4
+ 4. Region 2
 
 <details>
   <summary>Answer</summary>
-  Amazon
+  Region 3
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  17 hours 10 minutes</strong> since this server shutdown
+Its been <strong>4 days  17 hours 40 minutes</strong> since this server shutdown
