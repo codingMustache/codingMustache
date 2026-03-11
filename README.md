@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-Do I enjoy making courthouse puns? Guilty
+If you want a job in the moisturizer industry, the best advice I can give is to apply daily.
 
 
 ## Daily Trivia
 
-How many kilobytes in one gigabyte (in decimal)?
- 1. 1048576
- 2. 1000000
- 3. 1000
- 4. 1024
+What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
+ 1. Coffee Lake
+ 2. Skylake
+ 3. Sandy Bridge
+ 4. Broadwell
 
 <details>
   <summary>Answer</summary>
-  1000000
+  Coffee Lake
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  12 hours 10 minutes</strong> since this server shutdown
+Its been <strong>4 days  12 hours 40 minutes</strong> since this server shutdown
