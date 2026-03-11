@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-Why did the kid throw the clock out the window? He wanted to see time fly!
+I asked a frenchman if he played video games. He said "Wii"
 
 
 ## Daily Trivia
 
-Which of the following is NOT a computer science algorithm?
- 1. Quick Sort
- 2. Merge Sort
- 3. Bubble Sort
- 4. Float Sort
+What internet protocol was documented in RFC 1459?
+ 1. HTTPS
+ 2. HTTP
+ 3. FTP
+ 4. IRC
 
 <details>
   <summary>Answer</summary>
-  Float Sort
+  IRC
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  21 hours 40 minutes</strong> since this server shutdown
+Its been <strong>4 days  22 hours 10 minutes</strong> since this server shutdown
