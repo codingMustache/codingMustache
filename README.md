@@ -15,23 +15,24 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-Why was the robot angry? Because someone kept pressing his buttons!
+"Dad, I'm cold."
+"Go stand in the corner, I hear it's 90 degrees."
 
 
 ## Daily Trivia
 
-Which of the following languages is used as a scripting language in the Unity 3D game engine?
- 1. Java
- 2. C++
- 3. Objective-C
- 4. C#
+What does CPU stand for?
+ 1. Central Processing Unit
+ 2. Central Process Unit
+ 3. Computer Personal Unit
+ 4. Central Processor Unit
 
 <details>
   <summary>Answer</summary>
-  C#
+  Central Processing Unit
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  18 hours 40 minutes</strong> since this server shutdown
+Its been <strong>4 days  19 hours 10 minutes</strong> since this server shutdown
