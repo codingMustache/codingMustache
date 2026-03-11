@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-What's brown and sticky? A stick.
+What's the best thing about elevator jokes? They work on so many levels.
 
 
 ## Daily Trivia
 
-Which programming language was developed by Sun Microsystems in 1995?
- 1. Python
- 2. Solaris OS
- 3. Java
- 4. C++
+In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
+ 1. center
+ 2. relative
+ 3. static
+ 4. absolute
 
 <details>
   <summary>Answer</summary>
-  Java
+  center
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  8 hours 10 minutes</strong> since this server shutdown
+Its been <strong>4 days  8 hours 40 minutes</strong> since this server shutdown
