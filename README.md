@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-Why did the tomato blush? Because it saw the salad dressing.
+Where did you learn to make ice cream? Sunday school.
 
 
 ## Daily Trivia
 
-The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
- 1. Acorn Computers
- 2. Sinclair Research
- 3. Commodore Business Machines
- 4. Amstrad PLC
+What does LTS stand for in the software market?
+ 1. Ludicrous Turbo Speed
+ 2. Long Taco Service
+ 3. Long Term Support
+ 4. Ludicrous Transfer Speed
 
 <details>
   <summary>Answer</summary>
-  Acorn Computers
+  Long Term Support
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  10 hours 40 minutes</strong> since this server shutdown
+Its been <strong>4 days  11 hours 10 minutes</strong> since this server shutdown
