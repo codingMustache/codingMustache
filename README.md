@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-I saw my husband trip and fall while carrying a laundry basket full of ironed clothes. I watched it all unfold.
+No matter how kind you are, German children are kinder.
 
 
 ## Daily Trivia
 
-In the server hosting industry IaaS stands for...
- 1. Infrastructure as a Service
- 2. Infrastructure as a Server
- 3. Internet and a Server
- 4. Internet as a Service
+What does the acronym CDN stand for in terms of networking?
+ 1. Content Distribution Network
+ 2. Computational Data Network
+ 3. Compressed Data Network
+ 4. Content Delivery Network
 
 <details>
   <summary>Answer</summary>
-  Infrastructure as a Service
+  Content Delivery Network
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  6 hours 40 minutes</strong> since this server shutdown
+Its been <strong>4 days  7 hours 10 minutes</strong> since this server shutdown
