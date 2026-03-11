@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-Every night at 11:11, I make a wish that someone will come fix my broken clock.
+When I left school, I passed every one of my exams with the exception of Greek Mythology. It always was my achilles elbow
 
 
 ## Daily Trivia
 
-Which of the following computer components can be built using only NAND gates?
- 1. CPU
- 2. Register
- 3. ALU
- 4. RAM
+What was the name given to Android 4.3?
+ 1. Nutella
+ 2. Jelly Bean
+ 3. Lollipop
+ 4. Froyo
 
 <details>
   <summary>Answer</summary>
-  ALU
+  Jelly Bean
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  23 hours 40 minutes</strong> since this server shutdown
+Its been <strong>5 days 10 minutes</strong> since this server shutdown
