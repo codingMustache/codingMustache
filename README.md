@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-Don't tell secrets in corn fields. Too many ears around.
+Do I enjoy making courthouse puns? Guilty
 
 
 ## Daily Trivia
 
-What does the International System of Quantities refer 1024 bytes as?
- 1. Kelobyte
- 2. Kilobyte
- 3. Kibibyte
- 4. Kylobyte
+How many kilobytes in one gigabyte (in decimal)?
+ 1. 1048576
+ 2. 1000000
+ 3. 1000
+ 4. 1024
 
 <details>
   <summary>Answer</summary>
-  Kibibyte
+  1000000
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  11 hours 40 minutes</strong> since this server shutdown
+Its been <strong>4 days  12 hours 10 minutes</strong> since this server shutdown
