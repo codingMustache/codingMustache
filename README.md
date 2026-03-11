@@ -15,24 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-"Dad, I'm cold."
-"Go stand in the corner, I hear it's 90 degrees."
+What is the leading cause of dry skin? Towels
 
 
 ## Daily Trivia
 
-What does CPU stand for?
- 1. Central Processing Unit
- 2. Central Process Unit
- 3. Computer Personal Unit
- 4. Central Processor Unit
+What does the &quot;MP&quot; stand for in MP3?
+ 1. Micro Point
+ 2. Multi Pass
+ 3. Moving Picture
+ 4. Music Player
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  Moving Picture
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  19 hours 10 minutes</strong> since this server shutdown
+Its been <strong>4 days  19 hours 40 minutes</strong> since this server shutdown
