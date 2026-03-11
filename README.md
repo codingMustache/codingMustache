@@ -15,7 +15,7 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-In the news a courtroom artist was arrested today, I'm not surprised, he always seemed sketchy.
+This morning I was wondering where the sun was, but then it dawned on me.
 
 
 ## Daily Trivia
@@ -23,8 +23,8 @@ In the news a courtroom artist was arrested today, I'm not surprised, he always 
 The numbering system with a radix of 16 is more commonly referred to as 
  1. Binary
  2. Duodecimal
- 3. Hexidecimal
- 4. Octal
+ 3. Octal
+ 4. Hexidecimal
 
 <details>
   <summary>Answer</summary>
@@ -34,4 +34,4 @@ The numbering system with a radix of 16 is more commonly referred to as
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  14 hours 40 minutes</strong> since this server shutdown
+Its been <strong>4 days  15 hours 10 minutes</strong> since this server shutdown
