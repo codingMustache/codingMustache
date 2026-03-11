@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-I asked a frenchman if he played video games. He said "Wii"
+I wear a stethoscope so that in a medical emergency I can teach people a valuable lesson about assumptions.
 
 
 ## Daily Trivia
 
-What internet protocol was documented in RFC 1459?
- 1. HTTPS
- 2. HTTP
- 3. FTP
- 4. IRC
+Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
+ 1. Cheetah
+ 2. Leopard
+ 3. Tiger
+ 4. Puma
 
 <details>
   <summary>Answer</summary>
-  IRC
+  Cheetah
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  22 hours 10 minutes</strong> since this server shutdown
+Its been <strong>4 days  22 hours 40 minutes</strong> since this server shutdown
