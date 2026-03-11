@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-What kind of dinosaur loves to sleep? A stega-snore-us.
+What did Michael Jackson name his denim store?    Billy Jeans!
 
 
 ## Daily Trivia
 
-What is the domain name for the country Tuvalu?
- 1. .tv
- 2. .tu
- 3. .tt
- 4. .tl
+Which programming language shares its name with an island in Indonesia?
+ 1. Python
+ 2. Jakarta
+ 3. Java
+ 4. C
 
 <details>
   <summary>Answer</summary>
-  .tv
+  Java
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  1 hours 10 minutes</strong> since this server shutdown
+Its been <strong>5 days  1 hours 40 minutes</strong> since this server shutdown
