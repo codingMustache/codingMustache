@@ -5,9 +5,9 @@ Hello I'm Jorge and I love making things for the internet
 ## Jellyfin
 
 ### I'm Watching 📺 
-<strong>The Walking Dead  Season 6 Episode 8</strong> 
+<strong>The Walking Dead  Season 6 Episode 9</strong> 
 
- Start To Finish ⭐️ 8.08 
+ No Way Out ⭐️ 8.08 
 
 Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way. 
 
@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-Why is it a bad idea to iron your four-leaf clover? Cause you shouldn't press your luck.
+Why is it always hot in the corner of a room? Because a corner is 90 degrees.
 
 
 ## Daily Trivia
 
-Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
- 1. 32.0 kHz
- 2. 1.5 MHz
- 3. 44.1 kHz
- 4. 20.5 kHz
+How many bytes are in a single Kibibyte?
+ 1. 2400
+ 2. 1000
+ 3. 1240
+ 4. 1024
 
 <details>
   <summary>Answer</summary>
-  44.1 kHz
+  1024
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  4 hours 10 minutes</strong> since this server shutdown
+Its been <strong>4 days  4 hours 40 minutes</strong> since this server shutdown
