@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-Did you hear about the kidnapping at school? It's ok, he woke up.
+What did Romans use to cut pizza before the rolling cutter was invented? Lil Caesars
 
 
 ## Daily Trivia
 
-Nvidia&#039;s headquarters are based in which Silicon Valley city?
- 1. Cupertino
- 2. Santa Clara
- 3. Palo Alto
- 4. Mountain View
+How many cores does the Intel i7-6950X have?
+ 1. 10
+ 2. 4
+ 3. 8
+ 4. 12
 
 <details>
   <summary>Answer</summary>
-  Santa Clara
+  10
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  2 hours 10 minutes</strong> since this server shutdown
+Its been <strong>5 days  2 hours 40 minutes</strong> since this server shutdown
