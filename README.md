@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-A red and a blue ship have just collided in the Caribbean. Apparently the survivors are marooned.
+To be Frank, I'd have to change my name.
 
 
 ## Daily Trivia
 
-In computing, what does MIDI stand for?
- 1. Musical Instrument Data Interface
- 2. Musical Instrument Digital Interface
- 3. Modular Interface of Digital Instruments
- 4. Musical Interface of Digital Instruments
+In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
+ 1. &lt;move&gt;&lt;/move&gt;
+ 2. &lt;scroll&gt;&lt;/scroll&gt;
+ 3. &lt;marquee&gt;&lt;/marquee&gt;
+ 4. &lt;slide&gt;&lt;/slide&gt;
 
 <details>
   <summary>Answer</summary>
-  Musical Instrument Digital Interface
+  &lt;marquee&gt;&lt;/marquee&gt;
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  13 hours 10 minutes</strong> since this server shutdown
+Its been <strong>4 days  13 hours 40 minutes</strong> since this server shutdown
