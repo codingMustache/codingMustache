@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-What did Michael Jackson name his denim store?    Billy Jeans!
+Did you hear about the kidnapping at school? It's ok, he woke up.
 
 
 ## Daily Trivia
 
-Which programming language shares its name with an island in Indonesia?
- 1. Python
- 2. Jakarta
- 3. Java
- 4. C
+Nvidia&#039;s headquarters are based in which Silicon Valley city?
+ 1. Cupertino
+ 2. Santa Clara
+ 3. Palo Alto
+ 4. Mountain View
 
 <details>
   <summary>Answer</summary>
-  Java
+  Santa Clara
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  1 hours 40 minutes</strong> since this server shutdown
+Its been <strong>5 days  2 hours 10 minutes</strong> since this server shutdown
