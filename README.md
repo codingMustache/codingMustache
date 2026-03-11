@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-I asked my date to go to the gym the other day. They never showed up. That's when I knew we wouldn't work out.
+Every night at 11:11, I make a wish that someone will come fix my broken clock.
 
 
 ## Daily Trivia
 
-According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:
- 1. A&#039; + B&#039;
- 2. A&#039;B&#039;
- 3. A&#039;B + B&#039;A
- 4. AB&#039; + AB
+Which of the following computer components can be built using only NAND gates?
+ 1. CPU
+ 2. Register
+ 3. ALU
+ 4. RAM
 
 <details>
   <summary>Answer</summary>
-  A&#039; + B&#039;
+  ALU
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  23 hours 10 minutes</strong> since this server shutdown
+Its been <strong>4 days  23 hours 40 minutes</strong> since this server shutdown
