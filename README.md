@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-What type of music do balloons hate? Pop music!
+When people are sad, I sometimes let them colour in my tattoos. Sometimes all they need is a shoulder to crayon.
 
 
 ## Daily Trivia
 
-The acronym &quot;RIP&quot; stands for which of these?
- 1. Routine Inspection Protocol
- 2. Regular Interval Processes
- 3. Runtime Instance Processes
- 4. Routing Information Protocol
+What was the name of the first Bulgarian personal computer?
+ 1. IMKO-1
+ 2. IZOT 1030
+ 3. Pravetz 8D
+ 4. Pravetz 82
 
 <details>
   <summary>Answer</summary>
-  Routing Information Protocol
+  IMKO-1
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  5 hours 40 minutes</strong> since this server shutdown
+Its been <strong>4 days  6 hours 10 minutes</strong> since this server shutdown
