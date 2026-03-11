@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-Where did you learn to make ice cream? Sunday school.
+Don't tell secrets in corn fields. Too many ears around.
 
 
 ## Daily Trivia
 
-What does LTS stand for in the software market?
- 1. Ludicrous Turbo Speed
- 2. Long Taco Service
- 3. Long Term Support
- 4. Ludicrous Transfer Speed
+What does the International System of Quantities refer 1024 bytes as?
+ 1. Kelobyte
+ 2. Kilobyte
+ 3. Kibibyte
+ 4. Kylobyte
 
 <details>
   <summary>Answer</summary>
-  Long Term Support
+  Kibibyte
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  11 hours 10 minutes</strong> since this server shutdown
+Its been <strong>4 days  11 hours 40 minutes</strong> since this server shutdown
