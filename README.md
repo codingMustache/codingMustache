@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-Can a kangaroo jump higher than the Empire State Building? Of course. The Empire State Building can't jump.
+Coffee has a tough time at my house, every morning it gets mugged.
 
 
 ## Daily Trivia
 
-What port does HTTP run on?
- 1. 23
- 2. 443
- 3. 80
- 4. 53
+HTML is what type of language?
+ 1. Scripting Language
+ 2. Programming Language
+ 3. Markup Language
+ 4. Macro Language
 
 <details>
   <summary>Answer</summary>
-  80
+  Markup Language
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  9 hours 40 minutes</strong> since this server shutdown
+Its been <strong>4 days  10 hours 10 minutes</strong> since this server shutdown
