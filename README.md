@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-Coffee has a tough time at my house, every morning it gets mugged.
+Why did the tomato blush? Because it saw the salad dressing.
 
 
 ## Daily Trivia
 
-HTML is what type of language?
- 1. Scripting Language
- 2. Programming Language
- 3. Markup Language
- 4. Macro Language
+The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
+ 1. Acorn Computers
+ 2. Sinclair Research
+ 3. Commodore Business Machines
+ 4. Amstrad PLC
 
 <details>
   <summary>Answer</summary>
-  Markup Language
+  Acorn Computers
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  10 hours 10 minutes</strong> since this server shutdown
+Its been <strong>4 days  10 hours 40 minutes</strong> since this server shutdown
