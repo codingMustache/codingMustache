@@ -5,9 +5,9 @@ Hello I'm Jorge and I love making things for the internet
 ## Jellyfin
 
 ### I'm Watching 📺 
-<strong>The Walking Dead  Season 6 Episode 12</strong> 
+<strong>The Walking Dead  Season 6 Episode 13</strong> 
 
- Not Tomorrow Yet ⭐️ 8.08 
+ The Same Boat ⭐️ 8.08 
 
 Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way. 
 
@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-How many bones are in the human hand? A handful of them.
+Why do bananas have to put on sunscreen before they go to the beach? Because they might peel!
 
 
 ## Daily Trivia
 
-What does the computer software acronym JVM stand for?
- 1. Java Virtual Machine
- 2. Just Virtual Machine
- 3. Java Visual Machine
- 4. Java Vendor Machine
+CMOS is tech used for constructing integrated circuits. What does CMOS stand for?
+ 1. Complementary magnetic-ohms-semiconductor
+ 2. Computer-made operating system
+ 3. Computer-made oscillating static
+ 4. Complementary metal&ndash;oxide&ndash;semiconductor
 
 <details>
   <summary>Answer</summary>
-  Java Virtual Machine
+  Complementary metal&ndash;oxide&ndash;semiconductor
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  3 hours 10 minutes</strong> since this server shutdown
+Its been <strong>5 days  3 hours 40 minutes</strong> since this server shutdown
