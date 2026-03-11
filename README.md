@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-If you think swimming with dolphins is expensive, you should try swimming with sharks--it cost me an arm and a leg!
+Just read a few facts about frogs. They were ribbiting.
 
 
 ## Daily Trivia
 
-What does RAID stand for?
- 1. Redundant Array of Independent Disks
- 2. Randomized Abstract Identification Description
- 3. Range of Applications with Identical Designs
- 4. Rapid Access for Indexed Devices
+Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
+ 1. Shopify
+ 2. Overstock
+ 3. Amazon
+ 4. eBay
 
 <details>
   <summary>Answer</summary>
-  Redundant Array of Independent Disks
+  Amazon
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  16 hours 40 minutes</strong> since this server shutdown
+Its been <strong>4 days  17 hours 10 minutes</strong> since this server shutdown
