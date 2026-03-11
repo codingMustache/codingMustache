@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-If you want a job in the moisturizer industry, the best advice I can give is to apply daily.
+A red and a blue ship have just collided in the Caribbean. Apparently the survivors are marooned.
 
 
 ## Daily Trivia
 
-What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
- 1. Coffee Lake
- 2. Skylake
- 3. Sandy Bridge
- 4. Broadwell
+In computing, what does MIDI stand for?
+ 1. Musical Instrument Data Interface
+ 2. Musical Instrument Digital Interface
+ 3. Modular Interface of Digital Instruments
+ 4. Musical Interface of Digital Instruments
 
 <details>
   <summary>Answer</summary>
-  Coffee Lake
+  Musical Instrument Digital Interface
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  12 hours 40 minutes</strong> since this server shutdown
+Its been <strong>4 days  13 hours 10 minutes</strong> since this server shutdown
