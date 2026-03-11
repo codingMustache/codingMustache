@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-Why do cows not have toes? They lactose!
+Why was the robot angry? Because someone kept pressing his buttons!
 
 
 ## Daily Trivia
 
-In networking, what does OSPF stand for?
- 1. Open Shortest Path First
- 2. Order State Part First
- 3. Order Sense Ping Find
- 4. Open Signal Path Finder
+Which of the following languages is used as a scripting language in the Unity 3D game engine?
+ 1. Java
+ 2. C++
+ 3. Objective-C
+ 4. C#
 
 <details>
   <summary>Answer</summary>
-  Open Shortest Path First
+  C#
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  18 hours 10 minutes</strong> since this server shutdown
+Its been <strong>4 days  18 hours 40 minutes</strong> since this server shutdown
