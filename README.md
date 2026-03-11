@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-New atoms frequently lose electrons when they fail to keep an ion them.
+Can a kangaroo jump higher than the Empire State Building? Of course. The Empire State Building can't jump.
 
 
 ## Daily Trivia
 
-In any programming language, what is the most common way to iterate through an array?
- 1. &#039;For&#039; loops
- 2. &#039;While&#039; loops
- 3. &#039;Do-while&#039; loops
- 4. &#039;If&#039; Statements
+What port does HTTP run on?
+ 1. 23
+ 2. 443
+ 3. 80
+ 4. 53
 
 <details>
   <summary>Answer</summary>
-  &#039;For&#039; loops
+  80
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  9 hours 10 minutes</strong> since this server shutdown
+Its been <strong>4 days  9 hours 40 minutes</strong> since this server shutdown
