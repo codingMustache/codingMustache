@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-Why do bananas have to put on sunscreen before they go to the beach? Because they might peel!
+What’s Forest Gump’s Facebook password? 1forest1
 
 
 ## Daily Trivia
 
-CMOS is tech used for constructing integrated circuits. What does CMOS stand for?
- 1. Complementary magnetic-ohms-semiconductor
- 2. Computer-made operating system
- 3. Computer-made oscillating static
- 4. Complementary metal&ndash;oxide&ndash;semiconductor
+Dutch computer scientist Mark Overmars is known for creating which game development engine?
+ 1. Stencyl
+ 2. Construct
+ 3. Torque 2D
+ 4. Game Maker
 
 <details>
   <summary>Answer</summary>
-  Complementary metal&ndash;oxide&ndash;semiconductor
+  Game Maker
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  3 hours 40 minutes</strong> since this server shutdown
+Its been <strong>5 days  4 hours 10 minutes</strong> since this server shutdown
