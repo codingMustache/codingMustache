@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-When I left school, I passed every one of my exams with the exception of Greek Mythology. It always was my achilles elbow
+Someone asked me, what's the ninth letter of the alphabet? It was a complete guess, but I was right.
 
 
 ## Daily Trivia
 
-What was the name given to Android 4.3?
- 1. Nutella
- 2. Jelly Bean
- 3. Lollipop
- 4. Froyo
+Which of the following is the oldest of these computers by release date?
+ 1. Commodore 64
+ 2. ZX Spectrum
+ 3. Apple 3
+ 4. TRS-80
 
 <details>
   <summary>Answer</summary>
-  Jelly Bean
+  TRS-80
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days 10 minutes</strong> since this server shutdown
+Its been <strong>5 days 40 minutes</strong> since this server shutdown
