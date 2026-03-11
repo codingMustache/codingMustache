@@ -5,9 +5,9 @@ Hello I'm Jorge and I love making things for the internet
 ## Jellyfin
 
 ### I'm Watching 📺 
-<strong>The Walking Dead  Season 6 Episode 9</strong> 
+<strong>The Walking Dead  Season 6 Episode 10</strong> 
 
- No Way Out ⭐️ 8.08 
+ The Next World ⭐️ 8.08 
 
 Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way. 
 
@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-I just read a book about Stockholm syndrome. It was pretty bad at first, but by the end I liked it.
+What type of music do balloons hate? Pop music!
 
 
 ## Daily Trivia
 
-How long is an IPv6 address?
- 1. 128 bytes
- 2. 64 bits
- 3. 32 bits
- 4. 128 bits
+The acronym &quot;RIP&quot; stands for which of these?
+ 1. Routine Inspection Protocol
+ 2. Regular Interval Processes
+ 3. Runtime Instance Processes
+ 4. Routing Information Protocol
 
 <details>
   <summary>Answer</summary>
-  128 bits
+  Routing Information Protocol
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  5 hours 10 minutes</strong> since this server shutdown
+Its been <strong>4 days  5 hours 40 minutes</strong> since this server shutdown
