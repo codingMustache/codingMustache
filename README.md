@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-My new thesaurus is terrible. In fact, it's so bad, I'd say it's terrible.
+I had a pair of racing snails. I removed their shells to make them more aerodynamic, but they became sluggish.
 
 
 ## Daily Trivia
 
-How many values can a single byte represent?
- 1. 1024
- 2. 1
- 3. 8
- 4. 256
+Australia, Japan, and Southeast Asia are in which ITU Region?
+ 1. Region 1
+ 2. Region 2
+ 3. Region 4
+ 4. Region 3
 
 <details>
   <summary>Answer</summary>
-  256
+  Region 3
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  20 hours 40 minutes</strong> since this server shutdown
+Its been <strong>4 days  21 hours 10 minutes</strong> since this server shutdown
