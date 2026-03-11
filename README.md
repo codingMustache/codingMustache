@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-How can you tell a vampire has a cold? They start coffin.
+I’ve just been reading a book about anti-gravity, it’s impossible to put down!
 
 
 ## Daily Trivia
 
-HTML is what type of language?
- 1. Markup Language
- 2. Scripting Language
- 3. Programming Language
- 4. Macro Language
+Nvidia&#039;s headquarters are based in which Silicon Valley city?
+ 1. Palo Alto
+ 2. Cupertino
+ 3. Santa Clara
+ 4. Mountain View
 
 <details>
   <summary>Answer</summary>
-  Markup Language
+  Santa Clara
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  15 hours 40 minutes</strong> since this server shutdown
+Its been <strong>4 days  16 hours 10 minutes</strong> since this server shutdown
