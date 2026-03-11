@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-What's the best thing about elevator jokes? They work on so many levels.
+New atoms frequently lose electrons when they fail to keep an ion them.
 
 
 ## Daily Trivia
 
-In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
- 1. center
- 2. relative
- 3. static
- 4. absolute
+In any programming language, what is the most common way to iterate through an array?
+ 1. &#039;For&#039; loops
+ 2. &#039;While&#039; loops
+ 3. &#039;Do-while&#039; loops
+ 4. &#039;If&#039; Statements
 
 <details>
   <summary>Answer</summary>
-  center
+  &#039;For&#039; loops
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  8 hours 40 minutes</strong> since this server shutdown
+Its been <strong>4 days  9 hours 10 minutes</strong> since this server shutdown
