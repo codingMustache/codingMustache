@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-How many kids with ADD does it take to change a lightbulb? Let's go ride bikes!
+I'm practicing for a bug-eating contest and I've got butterflies in my stomach.
 
 
 ## Daily Trivia
 
-While Apple was formed in California, in which western state was Microsoft founded?
- 1. Washington
- 2. Arizona
- 3. New Mexico
- 4. Colorado
+What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
+ 1. ADPCM Sampler
+ 2. Programmable Sound Generator (PSG)
+ 3. PCM Sampler
+ 4. FM Synthesizer
 
 <details>
   <summary>Answer</summary>
-  New Mexico
+  ADPCM Sampler
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  11 hours 10 minutes</strong> since this server shutdown
+Its been <strong>5 days  11 hours 40 minutes</strong> since this server shutdown
