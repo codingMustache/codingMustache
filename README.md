@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-What’s the difference between an African elephant and an Indian elephant? About 5000 miles.
+How many bones are in the human hand? A handful of them.
 
 
 ## Daily Trivia
 
-On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
- 1. Asterisk
- 2. Dollar Sign
- 3. Percent Sign
- 4. Exclamation Mark
+What was the first Android version specifically optimized for tablets?
+ 1. Honeycomb
+ 2. Eclair
+ 3. Froyo
+ 4. Marshmellow
 
 <details>
   <summary>Answer</summary>
-  Exclamation Mark
+  Honeycomb
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  13 hours 40 minutes</strong> since this server shutdown
+Its been <strong>5 days  14 hours 10 minutes</strong> since this server shutdown
