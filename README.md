@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-What do you call an Argentinian with a rubber toe? Roberto
+How many kids with ADD does it take to change a lightbulb? Let's go ride bikes!
 
 
 ## Daily Trivia
 
-What vulnerability ranked #1 on the OWASP Top 10 in 2013?
- 1. Broken Authentication
- 2. Cross-Site Scripting
- 3. Insecure Direct Object References
- 4. Injection 
+While Apple was formed in California, in which western state was Microsoft founded?
+ 1. Washington
+ 2. Arizona
+ 3. New Mexico
+ 4. Colorado
 
 <details>
   <summary>Answer</summary>
-  Injection 
+  New Mexico
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  10 hours 40 minutes</strong> since this server shutdown
+Its been <strong>5 days  11 hours 10 minutes</strong> since this server shutdown
