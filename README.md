@@ -10,23 +10,23 @@ Something went wrong with getting the Image, I'll fix it later.
 
 ## Joke of the Day
 
-I thought about going on an all-almond diet. But that's just nuts.
+“Doctor, I’ve broken my arm in several places” Doctor “Well don’t go to those places.”
 
 
 ## Daily Trivia
 
-What was the name given to Android 4.3?
- 1. Froyo
- 2. Jelly Bean
- 3. Nutella
- 4. Lollipop
+On Twitter, what was the original character limit for a Tweet?
+ 1. 100
+ 2. 160
+ 3. 120
+ 4. 140
 
 <details>
   <summary>Answer</summary>
-  Jelly Bean
+  140
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  2 hours 10 minutes</strong> since this server shutdown
+Its been <strong>6 days  2 hours 40 minutes</strong> since this server shutdown
