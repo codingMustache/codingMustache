@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-Waking up this morning was an eye-opening experience.
+Did you hear about the cheese who saved the world? It was Legend-dairy!
 
 
 ## Daily Trivia
 
-What was Bitcoin&#039;s block size limit in 2010?
- 1. 1 MB
- 2. 1 TB
- 3. 1 KB
- 4. 1GB
+What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
+ 1. Heat Vent
+ 2. Temperature Decipator
+ 3. Heat Sink
+ 4. CPU Vent
 
 <details>
   <summary>Answer</summary>
-  1 MB
+  Heat Sink
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  17 hours 10 minutes</strong> since this server shutdown
+Its been <strong>5 days  17 hours 40 minutes</strong> since this server shutdown
