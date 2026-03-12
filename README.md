@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-Do I enjoy making courthouse puns? Guilty
+If at first you don't succeed, sky diving is not for you!
 
 
 ## Daily Trivia
 
-Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
- 1. Skipjack
- 2. Clipper Chip
- 3. Nautilus
- 4. Enigma Machine
+What was the name of the image that features as the default background wallpaper for Windows XP?
+ 1. Red moon desert
+ 2. Bliss
+ 3. Azul
+ 4. Tulips
 
 <details>
   <summary>Answer</summary>
-  Clipper Chip
+  Bliss
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  16 hours 10 minutes</strong> since this server shutdown
+Its been <strong>5 days  16 hours 40 minutes</strong> since this server shutdown
