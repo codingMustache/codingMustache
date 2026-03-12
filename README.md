@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-How does Darth Vader like his toast? On the dark side.
+What’s the longest word in the dictionary? Smiles. Because there’s a mile between the two S’s.
 
 
 ## Daily Trivia
 
-When Gmail first launched, how much storage did it provide for your email?
- 1. 1GB
- 2. 512MB
- 3. 5GB
- 4. Unlimited
+In programming, the ternary operator is mostly defined with what symbol(s)?
+ 1. ?
+ 2. if then
+ 3. ??
+ 4. ?:
 
 <details>
   <summary>Answer</summary>
-  1GB
+  ?:
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  20 hours 40 minutes</strong> since this server shutdown
+Its been <strong>5 days  21 hours 10 minutes</strong> since this server shutdown
