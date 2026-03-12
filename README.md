@@ -15,15 +15,15 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-To the person who stole my anti-depressant pills: I hope you're happy now.
+What’s the difference between an African elephant and an Indian elephant? About 5000 miles.
 
 
 ## Daily Trivia
 
 On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
- 1. Dollar Sign
- 2. Percent Sign
- 3. Asterisk
+ 1. Asterisk
+ 2. Dollar Sign
+ 3. Percent Sign
  4. Exclamation Mark
 
 <details>
@@ -34,4 +34,4 @@ On a standard American QWERTY keyboard, what symbol will you enter if you hold t
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  13 hours 10 minutes</strong> since this server shutdown
+Its been <strong>5 days  13 hours 40 minutes</strong> since this server shutdown
