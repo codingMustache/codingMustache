@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-What is a witch's favorite subject in school? Spelling!
+Why was ten scared of seven? Because seven ate nine.
 
 
 ## Daily Trivia
 
-This mobile OS held the largest market share in 2012.
- 1. Android
- 2. BlackBerry
- 3. Symbian
- 4. iOS
+What port does HTTP run on?
+ 1. 53
+ 2. 443
+ 3. 23
+ 4. 80
 
 <details>
   <summary>Answer</summary>
-  iOS
+  80
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  23 hours 10 minutes</strong> since this server shutdown
+Its been <strong>5 days  23 hours 40 minutes</strong> since this server shutdown
