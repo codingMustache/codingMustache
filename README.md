@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-Why was ten scared of seven? Because seven ate nine.
+Why is the ocean always blue? Because the shore never waves back.
 
 
 ## Daily Trivia
 
-What port does HTTP run on?
- 1. 53
- 2. 443
- 3. 23
- 4. 80
+In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
+ 1. Public
+ 2. Private
+ 3. Final
+ 4. Static
 
 <details>
   <summary>Answer</summary>
-  80
+  Final
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  23 hours 40 minutes</strong> since this server shutdown
+Its been <strong>6 days 10 minutes</strong> since this server shutdown
