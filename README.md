@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-Two peanuts were walking down the street. One was a salted
+A ghost walks into a bar and asks for a glass of vodka but the bar tender says, “sorry we don’t serve spirits”
 
 
 ## Daily Trivia
 
-The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
- 1. Taiwan
- 2. China (People&#039;s Republic of)
- 3. Germany
- 4. United States
+On which computer hardware device is the BIOS chip located?
+ 1. Motherboard
+ 2. Graphics Processing Unit
+ 3. Central Processing Unit
+ 4. Hard Disk Drive
 
 <details>
   <summary>Answer</summary>
-  Taiwan
+  Motherboard
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  12 hours 10 minutes</strong> since this server shutdown
+Its been <strong>5 days  12 hours 40 minutes</strong> since this server shutdown
