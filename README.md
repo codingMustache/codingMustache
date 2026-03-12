@@ -20,18 +20,18 @@ What lies at the bottom of the ocean and twitches? A nervous wreck.
 
 ## Daily Trivia
 
-Generally, which component of a computer draws the most power?
- 1. Processor
- 2. Hard Drive
- 3. Power Supply
- 4. Video Card
+Approximately how many Apple I personal computers were created?
+ 1. 200
+ 2. 1000
+ 3. 500
+ 4. 100
 
 <details>
   <summary>Answer</summary>
-  Video Card
+  200
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  21 hours 40 minutes</strong> since this server shutdown
+Its been <strong>5 days  22 hours 10 minutes</strong> since this server shutdown
