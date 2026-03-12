@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-"Why do seagulls fly over the ocean?" "Because if they flew over the bay, we'd call them bagels."
+Why don't sharks eat clowns?  Because they taste funny.
 
 
 ## Daily Trivia
 
-Dutch computer scientist Mark Overmars is known for creating which game development engine?
- 1. Stencyl
- 2. Construct
- 3. Torque 2D
- 4. Game Maker
+On which day did the World Wide Web go online?
+ 1. November 12, 1990
+ 2. December 17, 1996
+ 3. December 20, 1990
+ 4. November 24, 1995
 
 <details>
   <summary>Answer</summary>
-  Game Maker
+  December 20, 1990
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  5 hours 10 minutes</strong> since this server shutdown
+Its been <strong>5 days  5 hours 40 minutes</strong> since this server shutdown
