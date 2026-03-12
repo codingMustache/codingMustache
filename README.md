@@ -10,23 +10,23 @@ Something went wrong with getting the Image, I'll fix it later.
 
 ## Joke of the Day
 
-New atoms frequently lose electrons when they fail to keep an ion them.
+What biscuit does a short person like? Shortbread. 
 
 
 ## Daily Trivia
 
-Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
- 1. Cherry MX Red
- 2. Cherry MX Brown
- 3. Cherry MX Blue
- 4. Cherry MX Black
+Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
+ 1. JavaScript
+ 2. PHP
+ 3. Python
+ 4. C#
 
 <details>
   <summary>Answer</summary>
-  Cherry MX Blue
+  JavaScript
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  3 hours 40 minutes</strong> since this server shutdown
+Its been <strong>6 days  4 hours 10 minutes</strong> since this server shutdown
