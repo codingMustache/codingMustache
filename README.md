@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-What lies at the bottom of the ocean and twitches? A nervous wreck.
+What's the difference between a poorly dressed man on a tricycle and a well dressed man on a bicycle? Attire.
 
 
 ## Daily Trivia
 
-Approximately how many Apple I personal computers were created?
- 1. 200
- 2. 1000
- 3. 500
- 4. 100
+Which of the following computer components can be built using only NAND gates?
+ 1. ALU
+ 2. Register
+ 3. RAM
+ 4. CPU
 
 <details>
   <summary>Answer</summary>
-  200
+  ALU
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  22 hours 10 minutes</strong> since this server shutdown
+Its been <strong>5 days  22 hours 40 minutes</strong> since this server shutdown
