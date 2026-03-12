@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-Why did the house go to the doctor? It was having window panes.
+How many kids with ADD does it take to change a lightbulb? Let's go ride bikes!
 
 
 ## Daily Trivia
 
-Which programming language was developed by Sun Microsystems in 1995?
- 1. Python
- 2. Java
- 3. Solaris OS
- 4. C++
+What was the name given to Android 4.3?
+ 1. Froyo
+ 2. Jelly Bean
+ 3. Lollipop
+ 4. Nutella
 
 <details>
   <summary>Answer</summary>
-  Java
+  Jelly Bean
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  19 hours 40 minutes</strong> since this server shutdown
+Its been <strong>5 days  20 hours 10 minutes</strong> since this server shutdown
