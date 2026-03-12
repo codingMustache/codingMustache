@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-How many bones are in the human hand? A handful of them.
+Someone broke into my house last night and stole my limbo trophy. How low can you go?
 
 
 ## Daily Trivia
 
-What was the first Android version specifically optimized for tablets?
- 1. Honeycomb
- 2. Eclair
- 3. Froyo
- 4. Marshmellow
+What does CPU stand for?
+ 1. Central Processor Unit
+ 2. Central Processing Unit
+ 3. Central Process Unit
+ 4. Computer Personal Unit
 
 <details>
   <summary>Answer</summary>
-  Honeycomb
+  Central Processing Unit
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  14 hours 10 minutes</strong> since this server shutdown
+Its been <strong>5 days  14 hours 40 minutes</strong> since this server shutdown
