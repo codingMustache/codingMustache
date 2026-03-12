@@ -5,9 +5,9 @@ Hello I'm Jorge and I love making things for the internet
 ## Jellyfin
 
 ### I'm Watching 📺 
-<strong>The Walking Dead  Season 6 Episode 15</strong> 
+<strong>The Walking Dead  Season 6 Episode 16</strong> 
 
- East ⭐️ 8.08 
+ Last Day On Earth ⭐️ 8.08 
 
 Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way. 
 
@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-I dreamed about drowning in an ocean made out of orange soda last night. It took me a while to work out it was just a Fanta sea.
+Did you know that protons have mass? I didn't even know they were catholic.
 
 
 ## Daily Trivia
 
-The Harvard architecture for micro-controllers added which additional bus?
- 1. Data
- 2. Instruction
- 3. Address
- 4. Control
+In computing, what does LAN stand for?
+ 1. Light Access Node
+ 2. Long Antenna Node
+ 3. Land Address Navigation
+ 4. Local Area Network
 
 <details>
   <summary>Answer</summary>
-  Instruction
+  Local Area Network
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  8 hours 10 minutes</strong> since this server shutdown
+Its been <strong>5 days  8 hours 40 minutes</strong> since this server shutdown
