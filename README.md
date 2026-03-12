@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-I’m reading a book on the history of glue – can’t put it down.
+What do you call an Argentinian with a rubber toe? Roberto
 
 
 ## Daily Trivia
 
-The name of technology company HP stands for what?
- 1. Hewlett-Packard
- 2. Hellman-Pohl
- 3. Husker-Pollosk
- 4. Howard Packmann
+What vulnerability ranked #1 on the OWASP Top 10 in 2013?
+ 1. Broken Authentication
+ 2. Cross-Site Scripting
+ 3. Insecure Direct Object References
+ 4. Injection 
 
 <details>
   <summary>Answer</summary>
-  Hewlett-Packard
+  Injection 
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  10 hours 10 minutes</strong> since this server shutdown
+Its been <strong>5 days  10 hours 40 minutes</strong> since this server shutdown
