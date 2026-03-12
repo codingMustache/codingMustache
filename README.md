@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-Why is the ocean always blue? Because the shore never waves back.
+Someone asked me to name two structures that hold water. I said "Well dam"
 
 
 ## Daily Trivia
 
-In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
- 1. Public
- 2. Private
- 3. Final
- 4. Static
+What was the name of the security vulnerability found in Bash in 2014?
+ 1. Heartbleed
+ 2. Stagefright
+ 3. Shellshock
+ 4. Bashbug
 
 <details>
   <summary>Answer</summary>
-  Final
+  Shellshock
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days 10 minutes</strong> since this server shutdown
+Its been <strong>6 days 40 minutes</strong> since this server shutdown
