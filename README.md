@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-How many kids with ADD does it take to change a lightbulb? Let's go ride bikes!
+How does Darth Vader like his toast? On the dark side.
 
 
 ## Daily Trivia
 
-What was the name given to Android 4.3?
- 1. Froyo
- 2. Jelly Bean
- 3. Lollipop
- 4. Nutella
+When Gmail first launched, how much storage did it provide for your email?
+ 1. 1GB
+ 2. 512MB
+ 3. 5GB
+ 4. Unlimited
 
 <details>
   <summary>Answer</summary>
-  Jelly Bean
+  1GB
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  20 hours 10 minutes</strong> since this server shutdown
+Its been <strong>5 days  20 hours 40 minutes</strong> since this server shutdown
