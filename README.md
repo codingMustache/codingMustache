@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-I'm practicing for a bug-eating contest and I've got butterflies in my stomach.
+Two peanuts were walking down the street. One was a salted
 
 
 ## Daily Trivia
 
-What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
- 1. ADPCM Sampler
- 2. Programmable Sound Generator (PSG)
- 3. PCM Sampler
- 4. FM Synthesizer
+The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
+ 1. Taiwan
+ 2. China (People&#039;s Republic of)
+ 3. Germany
+ 4. United States
 
 <details>
   <summary>Answer</summary>
-  ADPCM Sampler
+  Taiwan
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  11 hours 40 minutes</strong> since this server shutdown
+Its been <strong>5 days  12 hours 10 minutes</strong> since this server shutdown
