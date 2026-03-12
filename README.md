@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-What's the difference between a poorly dressed man on a tricycle and a well dressed man on a bicycle? Attire.
+What is a witch's favorite subject in school? Spelling!
 
 
 ## Daily Trivia
 
-Which of the following computer components can be built using only NAND gates?
- 1. ALU
- 2. Register
- 3. RAM
- 4. CPU
+This mobile OS held the largest market share in 2012.
+ 1. Android
+ 2. BlackBerry
+ 3. Symbian
+ 4. iOS
 
 <details>
   <summary>Answer</summary>
-  ALU
+  iOS
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  22 hours 40 minutes</strong> since this server shutdown
+Its been <strong>5 days  23 hours 10 minutes</strong> since this server shutdown
