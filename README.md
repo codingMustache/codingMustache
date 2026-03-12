@@ -15,24 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-What is the least spoken language in the world?
-Sign Language
+which flower is most fierce? Dandelion
 
 
 ## Daily Trivia
 
-What does the acronym CDN stand for in terms of networking?
- 1. Computational Data Network
- 2. Compressed Data Network
- 3. Content Delivery Network
- 4. Content Distribution Network
+What did the name of the Tor Anonymity Network orignially stand for?
+ 1. The Only Router
+ 2. The Orange Router
+ 3. The Onion Router
+ 4. The Ominous Router
 
 <details>
   <summary>Answer</summary>
-  Content Delivery Network
+  The Onion Router
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  15 hours 10 minutes</strong> since this server shutdown
+Its been <strong>5 days  15 hours 40 minutes</strong> since this server shutdown
