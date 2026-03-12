@@ -5,9 +5,9 @@ Hello I'm Jorge and I love making things for the internet
 ## Jellyfin
 
 ### I'm Watching 📺 
-<strong>The Walking Dead  Season 6 Episode 14</strong> 
+<strong>The Walking Dead  Season 6 Episode 15</strong> 
 
- Twice As Far ⭐️ 8.08 
+ East ⭐️ 8.08 
 
 Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way. 
 
@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-Why does Norway have barcodes on their battleships? So when they get back to port, they can Scandinavian.
+I used to work in a shoe recycling shop. It was sole destroying.
 
 
 ## Daily Trivia
 
-What is the commonly used keyboard shortcut for the &#039;Copy&#039; function on Windows OS?
- 1. Alt + X
- 2. Ctrl + X
- 3. Ctrl + C
- 4. Alt + C
+How many values can a single byte represent?
+ 1. 1024
+ 2. 8
+ 3. 256
+ 4. 1
 
 <details>
   <summary>Answer</summary>
-  Ctrl + C
+  256
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  6 hours 40 minutes</strong> since this server shutdown
+Its been <strong>5 days  7 hours 10 minutes</strong> since this server shutdown
