@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-What do you call your friend who stands in a hole? Phil.
+Why does Norway have barcodes on their battleships? So when they get back to port, they can Scandinavian.
 
 
 ## Daily Trivia
 
-What is the name of the default theme that is installed with Windows XP?
- 1. Luna
- 2. Bliss
- 3. Whistler
- 4. Neptune
+What is the commonly used keyboard shortcut for the &#039;Copy&#039; function on Windows OS?
+ 1. Alt + X
+ 2. Ctrl + X
+ 3. Ctrl + C
+ 4. Alt + C
 
 <details>
   <summary>Answer</summary>
-  Luna
+  Ctrl + C
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  6 hours 10 minutes</strong> since this server shutdown
+Its been <strong>5 days  6 hours 40 minutes</strong> since this server shutdown
