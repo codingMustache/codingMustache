@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-Is the pool safe for diving? It deep ends.
+Why did the house go to the doctor? It was having window panes.
 
 
 ## Daily Trivia
 
-When Gmail first launched, how much storage did it provide for your email?
- 1. Unlimited
- 2. 5GB
- 3. 512MB
- 4. 1GB
+Which programming language was developed by Sun Microsystems in 1995?
+ 1. Python
+ 2. Java
+ 3. Solaris OS
+ 4. C++
 
 <details>
   <summary>Answer</summary>
-  1GB
+  Java
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  19 hours 10 minutes</strong> since this server shutdown
+Its been <strong>5 days  19 hours 40 minutes</strong> since this server shutdown
