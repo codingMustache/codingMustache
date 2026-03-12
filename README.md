@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-Did you know that protons have mass? I didn't even know they were catholic.
+Why are basketball players messy eaters? Because they are always dribbling.
 
 
 ## Daily Trivia
 
-In computing, what does LAN stand for?
- 1. Light Access Node
- 2. Long Antenna Node
- 3. Land Address Navigation
- 4. Local Area Network
+HTML is what type of language?
+ 1. Programming Language
+ 2. Scripting Language
+ 3. Markup Language
+ 4. Macro Language
 
 <details>
   <summary>Answer</summary>
-  Local Area Network
+  Markup Language
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  8 hours 40 minutes</strong> since this server shutdown
+Its been <strong>5 days  9 hours 10 minutes</strong> since this server shutdown
