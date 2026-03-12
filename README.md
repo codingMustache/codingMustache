@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-Why does Waldo only wear stripes? Because he doesn't want to be spotted.
+I dreamed about drowning in an ocean made out of orange soda last night. It took me a while to work out it was just a Fanta sea.
 
 
 ## Daily Trivia
 
-Who invented the &quot;Spanning Tree Protocol&quot;?
- 1. Radia Perlman
- 2. Paul Vixie
- 3. Michael Roberts
- 4. Vint Cerf
+The Harvard architecture for micro-controllers added which additional bus?
+ 1. Data
+ 2. Instruction
+ 3. Address
+ 4. Control
 
 <details>
   <summary>Answer</summary>
-  Radia Perlman
+  Instruction
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  7 hours 40 minutes</strong> since this server shutdown
+Its been <strong>5 days  8 hours 10 minutes</strong> since this server shutdown
