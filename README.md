@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-Did you hear about the guy whose whole left side was cut off? He's all right now.
+"Why do seagulls fly over the ocean?" "Because if they flew over the bay, we'd call them bagels."
 
 
 ## Daily Trivia
 
-What kind of memory is used on memory cache?
- 1. Flash
- 2. ROM
- 3. DRAM
- 4. SRAM
+Dutch computer scientist Mark Overmars is known for creating which game development engine?
+ 1. Stencyl
+ 2. Construct
+ 3. Torque 2D
+ 4. Game Maker
 
 <details>
   <summary>Answer</summary>
-  SRAM
+  Game Maker
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  4 hours 40 minutes</strong> since this server shutdown
+Its been <strong>5 days  5 hours 10 minutes</strong> since this server shutdown
