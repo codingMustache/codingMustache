@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-What do prisoners use to call each other? Cell phones.
+Is the pool safe for diving? It deep ends.
 
 
 ## Daily Trivia
 
-Dutch computer scientist Mark Overmars is known for creating which game development engine?
- 1. Stencyl
- 2. Game Maker
- 3. Construct
- 4. Torque 2D
+When Gmail first launched, how much storage did it provide for your email?
+ 1. Unlimited
+ 2. 5GB
+ 3. 512MB
+ 4. 1GB
 
 <details>
   <summary>Answer</summary>
-  Game Maker
+  1GB
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  18 hours 40 minutes</strong> since this server shutdown
+Its been <strong>5 days  19 hours 10 minutes</strong> since this server shutdown
