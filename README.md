@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-Someone asked me to name two structures that hold water. I said "Well dam"
+Can February march? No, but April may.
 
 
 ## Daily Trivia
 
-What was the name of the security vulnerability found in Bash in 2014?
- 1. Heartbleed
- 2. Stagefright
- 3. Shellshock
- 4. Bashbug
+HTML is what type of language?
+ 1. Macro Language
+ 2. Scripting Language
+ 3. Markup Language
+ 4. Programming Language
 
 <details>
   <summary>Answer</summary>
-  Shellshock
+  Markup Language
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days 40 minutes</strong> since this server shutdown
+Its been <strong>6 days  1 hours 10 minutes</strong> since this server shutdown
