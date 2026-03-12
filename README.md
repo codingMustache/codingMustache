@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-Just read a few facts about frogs. They were ribbiting.
+What do prisoners use to call each other? Cell phones.
 
 
 ## Daily Trivia
 
-When did the online streaming service &quot;Mixer&quot; launch?
- 1. 2016
- 2. 2011
- 3. 2009
- 4. 2013
+Dutch computer scientist Mark Overmars is known for creating which game development engine?
+ 1. Stencyl
+ 2. Game Maker
+ 3. Construct
+ 4. Torque 2D
 
 <details>
   <summary>Answer</summary>
-  2016
+  Game Maker
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  18 hours 10 minutes</strong> since this server shutdown
+Its been <strong>5 days  18 hours 40 minutes</strong> since this server shutdown
