@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-What’s the longest word in the dictionary? Smiles. Because there’s a mile between the two S’s.
+What lies at the bottom of the ocean and twitches? A nervous wreck.
 
 
 ## Daily Trivia
 
-In programming, the ternary operator is mostly defined with what symbol(s)?
- 1. ?
- 2. if then
- 3. ??
- 4. ?:
+Generally, which component of a computer draws the most power?
+ 1. Processor
+ 2. Hard Drive
+ 3. Power Supply
+ 4. Video Card
 
 <details>
   <summary>Answer</summary>
-  ?:
+  Video Card
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  21 hours 10 minutes</strong> since this server shutdown
+Its been <strong>5 days  21 hours 40 minutes</strong> since this server shutdown
