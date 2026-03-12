@@ -15,23 +15,24 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-Someone broke into my house last night and stole my limbo trophy. How low can you go?
+What is the least spoken language in the world?
+Sign Language
 
 
 ## Daily Trivia
 
-What does CPU stand for?
- 1. Central Processor Unit
- 2. Central Processing Unit
- 3. Central Process Unit
- 4. Computer Personal Unit
+What does the acronym CDN stand for in terms of networking?
+ 1. Computational Data Network
+ 2. Compressed Data Network
+ 3. Content Delivery Network
+ 4. Content Distribution Network
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  Content Delivery Network
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  14 hours 40 minutes</strong> since this server shutdown
+Its been <strong>5 days  15 hours 10 minutes</strong> since this server shutdown
