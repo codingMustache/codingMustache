@@ -4,34 +4,29 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Jellyfin
 
-### I'm Watching 📺 
-<strong>The Walking Dead  Season 7 Episode 1</strong> 
 
- The Day Will Come When You Won't Be ⭐️ 8.08 
 
-Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way. 
-
-![movie poster](https://image.tmdb.org/t/p/w300_and_h300_face/ng3cMtxYKt1OSQYqFlnKWnVsqNO.jpg)
+Something went wrong with getting the Image, I'll fix it later.
 
 ## Joke of the Day
 
-Can February march? No, but April may.
+What did the 0 say to the 8? Nice belt.
 
 
 ## Daily Trivia
 
-HTML is what type of language?
- 1. Macro Language
- 2. Scripting Language
- 3. Markup Language
- 4. Programming Language
+When did the online streaming service &quot;Mixer&quot; launch?
+ 1. 2013
+ 2. 2009
+ 3. 2011
+ 4. 2016
 
 <details>
   <summary>Answer</summary>
-  Markup Language
+  2016
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  1 hours 10 minutes</strong> since this server shutdown
+Its been <strong>6 days  1 hours 40 minutes</strong> since this server shutdown
