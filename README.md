@@ -10,23 +10,23 @@ Something went wrong with getting the Image, I'll fix it later.
 
 ## Joke of the Day
 
-“Doctor, I’ve broken my arm in several places” Doctor “Well don’t go to those places.”
+I went to the store to pick up eight cans of sprite... when I got home I realized I'd only picked seven up
 
 
 ## Daily Trivia
 
-On Twitter, what was the original character limit for a Tweet?
- 1. 100
- 2. 160
- 3. 120
- 4. 140
+What is the main CPU is the Sega Mega Drive / Sega Genesis?
+ 1. Intel 8088
+ 2. Yamaha YM2612
+ 3. Zilog Z80
+ 4. Motorola 68000
 
 <details>
   <summary>Answer</summary>
-  140
+  Motorola 68000
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  2 hours 40 minutes</strong> since this server shutdown
+Its been <strong>6 days  3 hours 10 minutes</strong> since this server shutdown
