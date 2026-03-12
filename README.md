@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-Did you hear about the cheese who saved the world? It was Legend-dairy!
+Just read a few facts about frogs. They were ribbiting.
 
 
 ## Daily Trivia
 
-What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
- 1. Heat Vent
- 2. Temperature Decipator
- 3. Heat Sink
- 4. CPU Vent
+When did the online streaming service &quot;Mixer&quot; launch?
+ 1. 2016
+ 2. 2011
+ 3. 2009
+ 4. 2013
 
 <details>
   <summary>Answer</summary>
-  Heat Sink
+  2016
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  17 hours 40 minutes</strong> since this server shutdown
+Its been <strong>5 days  18 hours 10 minutes</strong> since this server shutdown
