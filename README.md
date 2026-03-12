@@ -10,23 +10,23 @@ Something went wrong with getting the Image, I'll fix it later.
 
 ## Joke of the Day
 
-What did the 0 say to the 8? Nice belt.
+I thought about going on an all-almond diet. But that's just nuts.
 
 
 ## Daily Trivia
 
-When did the online streaming service &quot;Mixer&quot; launch?
- 1. 2013
- 2. 2009
- 3. 2011
- 4. 2016
+What was the name given to Android 4.3?
+ 1. Froyo
+ 2. Jelly Bean
+ 3. Nutella
+ 4. Lollipop
 
 <details>
   <summary>Answer</summary>
-  2016
+  Jelly Bean
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  1 hours 40 minutes</strong> since this server shutdown
+Its been <strong>6 days  2 hours 10 minutes</strong> since this server shutdown
