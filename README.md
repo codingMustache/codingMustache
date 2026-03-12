@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-I used to work in a shoe recycling shop. It was sole destroying.
+Why does Waldo only wear stripes? Because he doesn't want to be spotted.
 
 
 ## Daily Trivia
 
-How many values can a single byte represent?
- 1. 1024
- 2. 8
- 3. 256
- 4. 1
+Who invented the &quot;Spanning Tree Protocol&quot;?
+ 1. Radia Perlman
+ 2. Paul Vixie
+ 3. Michael Roberts
+ 4. Vint Cerf
 
 <details>
   <summary>Answer</summary>
-  256
+  Radia Perlman
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  7 hours 10 minutes</strong> since this server shutdown
+Its been <strong>5 days  7 hours 40 minutes</strong> since this server shutdown
