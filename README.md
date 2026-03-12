@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-A ghost walks into a bar and asks for a glass of vodka but the bar tender says, “sorry we don’t serve spirits”
+To the person who stole my anti-depressant pills: I hope you're happy now.
 
 
 ## Daily Trivia
 
-On which computer hardware device is the BIOS chip located?
- 1. Motherboard
- 2. Graphics Processing Unit
- 3. Central Processing Unit
- 4. Hard Disk Drive
+On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
+ 1. Dollar Sign
+ 2. Percent Sign
+ 3. Asterisk
+ 4. Exclamation Mark
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  Exclamation Mark
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  12 hours 40 minutes</strong> since this server shutdown
+Its been <strong>5 days  13 hours 10 minutes</strong> since this server shutdown
