@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-What happens when you anger a brain surgeon? They will give you a piece of your mind.
+I’m reading a book on the history of glue – can’t put it down.
 
 
 ## Daily Trivia
 
-Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
- 1. Cherry MX Blue
- 2. Cherry MX Brown
- 3. Cherry MX Black
- 4. Cherry MX Red
+The name of technology company HP stands for what?
+ 1. Hewlett-Packard
+ 2. Hellman-Pohl
+ 3. Husker-Pollosk
+ 4. Howard Packmann
 
 <details>
   <summary>Answer</summary>
-  Cherry MX Blue
+  Hewlett-Packard
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  9 hours 40 minutes</strong> since this server shutdown
+Its been <strong>5 days  10 hours 10 minutes</strong> since this server shutdown
