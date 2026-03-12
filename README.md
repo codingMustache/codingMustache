@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-If at first you don't succeed, sky diving is not for you!
+Waking up this morning was an eye-opening experience.
 
 
 ## Daily Trivia
 
-What was the name of the image that features as the default background wallpaper for Windows XP?
- 1. Red moon desert
- 2. Bliss
- 3. Azul
- 4. Tulips
+What was Bitcoin&#039;s block size limit in 2010?
+ 1. 1 MB
+ 2. 1 TB
+ 3. 1 KB
+ 4. 1GB
 
 <details>
   <summary>Answer</summary>
-  Bliss
+  1 MB
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  16 hours 40 minutes</strong> since this server shutdown
+Its been <strong>5 days  17 hours 10 minutes</strong> since this server shutdown
