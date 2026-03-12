@@ -15,23 +15,23 @@ Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic worl
 
 ## Joke of the Day
 
-which flower is most fierce? Dandelion
+Do I enjoy making courthouse puns? Guilty
 
 
 ## Daily Trivia
 
-What did the name of the Tor Anonymity Network orignially stand for?
- 1. The Only Router
- 2. The Orange Router
- 3. The Onion Router
- 4. The Ominous Router
+Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
+ 1. Skipjack
+ 2. Clipper Chip
+ 3. Nautilus
+ 4. Enigma Machine
 
 <details>
   <summary>Answer</summary>
-  The Onion Router
+  Clipper Chip
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  15 hours 40 minutes</strong> since this server shutdown
+Its been <strong>5 days  16 hours 10 minutes</strong> since this server shutdown
