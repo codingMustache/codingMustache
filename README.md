@@ -10,23 +10,23 @@ Something went wrong with getting the Image, I'll fix it later.
 
 ## Joke of the Day
 
-Why don’t skeletons ever go trick or treating? Because they have nobody to go with.
+Yesterday, I accidentally swallowed some food coloring. The doctor says I’m okay, but I feel like I’ve dyed a little inside.
 
 
 ## Daily Trivia
 
-What is the main CPU is the Sega Mega Drive / Sega Genesis?
- 1. Zilog Z80
- 2. Yamaha YM2612
- 3. Motorola 68000
- 4. Intel 8088
+What was the name of the image that features as the default background wallpaper for Windows XP?
+ 1. Tulips
+ 2. Bliss
+ 3. Azul
+ 4. Red moon desert
 
 <details>
   <summary>Answer</summary>
-  Motorola 68000
+  Bliss
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  12 hours 40 minutes</strong> since this server shutdown
+Its been <strong>6 days  13 hours 10 minutes</strong> since this server shutdown
