@@ -10,23 +10,23 @@ Something went wrong with getting the Image, I'll fix it later.
 
 ## Joke of the Day
 
-I thought about going on an all-almond diet. But that's just nuts.
+Bad at golf? Join the club.
 
 
 ## Daily Trivia
 
-Which of the following computer components can be built using only NAND gates?
- 1. Register
- 2. RAM
- 3. CPU
- 4. ALU
+What is the name of the process that sends one qubit of information using two bits of classical information?
+ 1. Quantum Teleportation
+ 2. Super Dense Coding
+ 3. Quantum Entanglement
+ 4. Quantum Programming
 
 <details>
   <summary>Answer</summary>
-  ALU
+  Quantum Teleportation
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  6 hours 40 minutes</strong> since this server shutdown
+Its been <strong>6 days  7 hours 10 minutes</strong> since this server shutdown
