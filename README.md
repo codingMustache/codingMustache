@@ -2,28 +2,22 @@
 
 Hello I'm Jorge and I love making things for the internet
 
-## Jellyfin
-
-
-
-Something went wrong with getting the Image, I'll fix it later.
-
 ## Joke of the Day
 
-When Dad drops a pea off of his plate ‘oh dear I’ve pee’d on the table!
+Recent survey revealed 6 out of 7 dwarf's aren't happy.
 
 
 ## Daily Trivia
 
-In computing terms, typically what does CLI stand for?
- 1. Control Line Interface
- 2. Common Language Input
- 3. Command Line Interface
- 4. Common Language Interface
+In any programming language, what is the most common way to iterate through an array?
+ 1. &#039;For&#039; loops
+ 2. &#039;While&#039; loops
+ 3. &#039;Do-while&#039; loops
+ 4. &#039;If&#039; Statements
 
 <details>
   <summary>Answer</summary>
-  Command Line Interface
+  &#039;For&#039; loops
 </details>
 
 
