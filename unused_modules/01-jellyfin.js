@@ -27,6 +27,7 @@ async function getWatchingStatus() {
 	try {
 		const req = await fetch(url.toString(), options);
 
+		console.log(req);
 		const json = await req.json();
 
 		if (!json?.Items?.length) {
