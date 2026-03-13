@@ -2,22 +2,28 @@
 
 Hello I'm Jorge and I love making things for the internet
 
+## Jellyfin
+
+
+
+Something went wrong with getting the Image, I'll fix it later.
+
 ## Joke of the Day
 
-What do computers and air conditioners have in common? They both become useless when you open windows.
+Someone asked me to name two structures that hold water. I said "Well dam"
 
 
 ## Daily Trivia
 
-What internet protocol was documented in RFC 1459?
- 1. HTTP
- 2. HTTPS
- 3. FTP
- 4. IRC
+According to the International System of Units, how many bytes are in a kilobyte of RAM?
+ 1. 512
+ 2. 1000
+ 3. 1024
+ 4. 500
 
 <details>
   <summary>Answer</summary>
-  IRC
+  1000
 </details>
 
 
