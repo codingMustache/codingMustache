@@ -10,23 +10,23 @@ Something went wrong with getting the Image, I'll fix it later.
 
 ## Joke of the Day
 
-Today a girl said she recognized me from vegetarian club, but I’m sure I’ve never met herbivore.
+What happens to a frog's car when it breaks down? It gets toad.
 
 
 ## Daily Trivia
 
-How many bits are commonly in a single byte?
- 1. Six bits
- 2. Twelve bits
- 3.  Fifteen bits
- 4. Eight bits
+In web design, what does CSS stand for?
+ 1. Computer Style Sheet
+ 2. Corrective Style Sheet
+ 3. Counter Strike: Source
+ 4. Cascading Style Sheet
 
 <details>
   <summary>Answer</summary>
-  Eight bits
+  Cascading Style Sheet
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  5 hours 40 minutes</strong> since this server shutdown
+Its been <strong>6 days  6 hours 10 minutes</strong> since this server shutdown
