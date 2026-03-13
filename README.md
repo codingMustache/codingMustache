@@ -10,20 +10,20 @@ Something went wrong with getting the Image, I'll fix it later.
 
 ## Joke of the Day
 
-What is the hardest part about sky diving? The ground.
+Want to hear a chimney joke? Got stacks of em! First one's on the house
 
 
 ## Daily Trivia
 
-What does CPU stand for?
- 1. Central Process Unit
- 2. Computer Personal Unit
- 3. Central Processor Unit
- 4. Central Processing Unit
+What amount of bits commonly equals one byte?
+ 1. 8
+ 2. 64
+ 3. 2
+ 4. 1
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  8
 </details>
 
 
