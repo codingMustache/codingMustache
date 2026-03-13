@@ -10,23 +10,23 @@ Something went wrong with getting the Image, I'll fix it later.
 
 ## Joke of the Day
 
-I was going to learn how to juggle, but I didn't have the balls.
+Why do bananas have to put on sunscreen before they go to the beach? Because they might peel!
 
 
 ## Daily Trivia
 
-Lenovo acquired IBM&#039;s personal computer division, including the ThinkPad line of laptops and tablets, in what year?
- 1. 2008
- 2. 1999
- 3. 2005
- 4. 2002
+According to the International System of Units, how many bytes are in a kilobyte of RAM?
+ 1. 512
+ 2. 1024
+ 3. 500
+ 4. 1000
 
 <details>
   <summary>Answer</summary>
-  2005
+  1000
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  10 hours 10 minutes</strong> since this server shutdown
+Its been <strong>6 days  10 hours 40 minutes</strong> since this server shutdown
