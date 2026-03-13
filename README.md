@@ -10,23 +10,25 @@ Something went wrong with getting the Image, I'll fix it later.
 
 ## Joke of the Day
 
-I’ve just been reading a book about anti-gravity, it’s impossible to put down!
+Why do pumpkins sit on people’s porches?
+
+They have no hands to knock on the door.
 
 
 ## Daily Trivia
 
-The programming language &#039;Swift&#039; was created to replace what other programming language?
- 1. C#
- 2. Ruby
- 3. C++
- 4. Objective-C
+How many cores does the Intel i7-6950X have?
+ 1. 4
+ 2. 8
+ 3. 12
+ 4. 10
 
 <details>
   <summary>Answer</summary>
-  Objective-C
+  10
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  8 hours 10 minutes</strong> since this server shutdown
+Its been <strong>6 days  8 hours 40 minutes</strong> since this server shutdown
