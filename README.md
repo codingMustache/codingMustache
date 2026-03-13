@@ -10,23 +10,23 @@ Something went wrong with getting the Image, I'll fix it later.
 
 ## Joke of the Day
 
-What happens to a frog's car when it breaks down? It gets toad.
+I thought about going on an all-almond diet. But that's just nuts.
 
 
 ## Daily Trivia
 
-In web design, what does CSS stand for?
- 1. Computer Style Sheet
- 2. Corrective Style Sheet
- 3. Counter Strike: Source
- 4. Cascading Style Sheet
+Which of the following computer components can be built using only NAND gates?
+ 1. Register
+ 2. RAM
+ 3. CPU
+ 4. ALU
 
 <details>
   <summary>Answer</summary>
-  Cascading Style Sheet
+  ALU
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  6 hours 10 minutes</strong> since this server shutdown
+Its been <strong>6 days  6 hours 40 minutes</strong> since this server shutdown
