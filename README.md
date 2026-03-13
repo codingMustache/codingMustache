@@ -10,23 +10,23 @@ Something went wrong with getting the Image, I'll fix it later.
 
 ## Joke of the Day
 
-What biscuit does a short person like? Shortbread. 
+What kind of dog lives in a particle accelerator? A Fermilabrador Retriever.
 
 
 ## Daily Trivia
 
-Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
- 1. JavaScript
- 2. PHP
- 3. Python
- 4. C#
+What does the Prt Sc button do?
+ 1. Nothing
+ 2. Closes all windows
+ 3. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
+ 4. Captures what&#039;s on the screen and copies it to your clipboard
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  Captures what&#039;s on the screen and copies it to your clipboard
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  4 hours 10 minutes</strong> since this server shutdown
+Its been <strong>6 days  4 hours 40 minutes</strong> since this server shutdown
