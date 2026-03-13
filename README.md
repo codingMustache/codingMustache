@@ -10,23 +10,23 @@ Something went wrong with getting the Image, I'll fix it later.
 
 ## Joke of the Day
 
-Bad at golf? Join the club.
+What do you call a criminal going down the stairs? Condescending
 
 
 ## Daily Trivia
 
-What is the name of the process that sends one qubit of information using two bits of classical information?
- 1. Quantum Teleportation
- 2. Super Dense Coding
- 3. Quantum Entanglement
- 4. Quantum Programming
+In computing, what does MIDI stand for?
+ 1. Musical Instrument Digital Interface
+ 2. Musical Instrument Data Interface
+ 3. Modular Interface of Digital Instruments
+ 4. Musical Interface of Digital Instruments
 
 <details>
   <summary>Answer</summary>
-  Quantum Teleportation
+  Musical Instrument Digital Interface
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  7 hours 10 minutes</strong> since this server shutdown
+Its been <strong>6 days  7 hours 40 minutes</strong> since this server shutdown
