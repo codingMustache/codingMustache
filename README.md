@@ -10,23 +10,23 @@ Something went wrong with getting the Image, I'll fix it later.
 
 ## Joke of the Day
 
-What's a ninja's favorite type of shoes? Sneakers!
+People saying 'boo! to their friends has risen by 85% in the last year.... That's a frightening statistic.
 
 
 ## Daily Trivia
 
-If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
- 1. JavaScript
- 2. C++
- 3. Binary
- 4. Python
+When Gmail first launched, how much storage did it provide for your email?
+ 1. 1GB
+ 2. 5GB
+ 3. Unlimited
+ 4. 512MB
 
 <details>
   <summary>Answer</summary>
-  Binary
+  1GB
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  17 hours 40 minutes</strong> since this server shutdown
+Its been <strong>6 days  18 hours 10 minutes</strong> since this server shutdown
