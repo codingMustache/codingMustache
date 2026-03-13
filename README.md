@@ -10,23 +10,23 @@ Something went wrong with getting the Image, I'll fix it later.
 
 ## Joke of the Day
 
-Someone asked me to name two structures that hold water. I said "Well dam"
+When Dad drops a pea off of his plate ‘oh dear I’ve pee’d on the table!
 
 
 ## Daily Trivia
 
-According to the International System of Units, how many bytes are in a kilobyte of RAM?
- 1. 512
- 2. 1000
- 3. 1024
- 4. 500
+In computing terms, typically what does CLI stand for?
+ 1. Control Line Interface
+ 2. Common Language Input
+ 3. Command Line Interface
+ 4. Common Language Interface
 
 <details>
   <summary>Answer</summary>
-  1000
+  Command Line Interface
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 3 hours 53 minutes</strong> since this server shutdown
+Its been <strong> 4 hours 6 minutes</strong> since this server shutdown
