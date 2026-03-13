@@ -2,31 +2,25 @@
 
 Hello I'm Jorge and I love making things for the internet
 
-## Jellyfin
-
-
-
-Something went wrong with getting the Image, I'll fix it later.
-
 ## Joke of the Day
 
-What did Michael Jackson name his denim store?    Billy Jeans!
+I have the heart of a lion... and a lifetime ban from the San Diego Zoo.
 
 
 ## Daily Trivia
 
-What is the name of the process that sends one qubit of information using two bits of classical information?
- 1. Quantum Programming
- 2. Quantum Entanglement
- 3. Super Dense Coding
- 4. Quantum Teleportation
+Approximately how many Apple I personal computers were created?
+ 1. 1000
+ 2. 200
+ 3. 500
+ 4. 100
 
 <details>
   <summary>Answer</summary>
-  Quantum Teleportation
+  200
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>14 minutes</strong> since this server shutdown
+Its been <strong>23 minutes</strong> since this server shutdown
