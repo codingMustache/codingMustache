@@ -10,23 +10,23 @@ Something went wrong with getting the Image, I'll fix it later.
 
 ## Joke of the Day
 
-Why can't your nose be 12 inches long? Because then it'd be a foot!
+Today a girl said she recognized me from vegetarian club, but I’m sure I’ve never met herbivore.
 
 
 ## Daily Trivia
 
-Which of the following languages is used as a scripting language in the Unity 3D game engine?
- 1. Java
- 2. C++
- 3. Objective-C
- 4. C#
+How many bits are commonly in a single byte?
+ 1. Six bits
+ 2. Twelve bits
+ 3.  Fifteen bits
+ 4. Eight bits
 
 <details>
   <summary>Answer</summary>
-  C#
+  Eight bits
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  5 hours 10 minutes</strong> since this server shutdown
+Its been <strong>6 days  5 hours 40 minutes</strong> since this server shutdown
