@@ -10,23 +10,23 @@ Something went wrong with getting the Image, I'll fix it later.
 
 ## Joke of the Day
 
-Yesterday, I accidentally swallowed some food coloring. The doctor says I’m okay, but I feel like I’ve dyed a little inside.
+What did the Dorito farmer say to the other Dorito farmer? Cool Ranch!
 
 
 ## Daily Trivia
 
-What was the name of the image that features as the default background wallpaper for Windows XP?
- 1. Tulips
- 2. Bliss
- 3. Azul
- 4. Red moon desert
+What kind of memory is used on memory cache?
+ 1. SRAM
+ 2. Flash
+ 3. DRAM
+ 4. ROM
 
 <details>
   <summary>Answer</summary>
-  Bliss
+  SRAM
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  13 hours 10 minutes</strong> since this server shutdown
+Its been <strong>6 days  13 hours 40 minutes</strong> since this server shutdown
