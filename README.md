@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Today a man knocked on my door and asked for a small donation towards the local swimming pool. I gave him a glass of water.
+Why are ghosts bad liars? Because you can see right through them!
 
 
 ## Daily Trivia
 
-What is the number of keys on a standard Windows Keyboard?
- 1. 64
- 2. 94
- 3. 76
- 4. 104
+What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
+ 1. Session
+ 2. Data link
+ 3. Transport
+ 4. Network
 
 <details>
   <summary>Answer</summary>
-  104
+  Transport
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 2 hours 53 minutes</strong> since this server shutdown
+Its been <strong> 3 hours 23 minutes</strong> since this server shutdown
