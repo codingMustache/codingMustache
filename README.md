@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are ghosts bad liars? Because you can see right through them!
+What do computers and air conditioners have in common? They both become useless when you open windows.
 
 
 ## Daily Trivia
 
-What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
- 1. Session
- 2. Data link
- 3. Transport
- 4. Network
+What internet protocol was documented in RFC 1459?
+ 1. HTTP
+ 2. HTTPS
+ 3. FTP
+ 4. IRC
 
 <details>
   <summary>Answer</summary>
-  Transport
+  IRC
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 3 hours 23 minutes</strong> since this server shutdown
+Its been <strong> 3 hours 53 minutes</strong> since this server shutdown
