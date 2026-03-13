@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a cow with two legs? Lean beef.
+What has ears but cannot hear? A field of corn.
 
 
 ## Daily Trivia
 
-While Apple was formed in California, in which western state was Microsoft founded?
- 1. Colorado
- 2. Arizona
- 3. Washington
- 4. New Mexico
+On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
+ 1. Dollar Sign
+ 2. Percent Sign
+ 3. Asterisk
+ 4. Exclamation Mark
 
 <details>
   <summary>Answer</summary>
-  New Mexico
+  Exclamation Mark
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 5 hours 23 minutes</strong> since this server shutdown
+Its been <strong> 5 hours 53 minutes</strong> since this server shutdown
