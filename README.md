@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did Dracula lie in the wrong coffin? He made a grave mistake.
+I went to the zoo the other day, there was only one dog in it. It was a shitzu.
 
 
 ## Daily Trivia
 
-What does GHz stand for?
- 1. Gigahotz
- 2. Gigahetz
- 3. Gigahertz
- 4. Gigahatz
+What does the term GPU stand for?
+ 1. Graphics Processing Unit
+ 2. Graphical Proprietary Unit
+ 3. Graphite Producing Unit
+ 4. Gaming Processor Unit
 
 <details>
   <summary>Answer</summary>
-  Gigahertz
+  Graphics Processing Unit
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 4 hours 23 minutes</strong> since this server shutdown
+Its been <strong> 4 hours 53 minutes</strong> since this server shutdown
