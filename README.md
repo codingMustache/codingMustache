@@ -10,23 +10,23 @@ Something went wrong with getting the Image, I'll fix it later.
 
 ## Joke of the Day
 
-Why doesn't the Chimney-Sweep call out sick from work? Because he's used to working with a flue.
+How do you make a hankie dance? Put a little boogie in it.
 
 
 ## Daily Trivia
 
-Australia, Japan, and Southeast Asia are in which ITU Region?
- 1. Region 3
- 2. Region 4
- 3. Region 1
- 4. Region 2
+The acronym &quot;RIP&quot; stands for which of these?
+ 1. Regular Interval Processes
+ 2. Runtime Instance Processes
+ 3. Routing Information Protocol
+ 4. Routine Inspection Protocol
 
 <details>
   <summary>Answer</summary>
-  Region 3
+  Routing Information Protocol
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  15 hours 40 minutes</strong> since this server shutdown
+Its been <strong>6 days  16 hours 10 minutes</strong> since this server shutdown
