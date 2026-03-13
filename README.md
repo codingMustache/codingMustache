@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why does Norway have barcodes on their battleships? So when they get back to port, they can Scandinavian.
+Why doesn't the Chimney-Sweep call out sick from work? Because he's used to working with a flue.
 
 
 ## Daily Trivia
 
-What does the term USB stand for?
- 1. Universal Simtex Blot
- 2. Unityped Semtex Backer
- 3. Unified Signal Bus
- 4. Universal Serial Bus
+What major programming language does Unreal Engine 4 use?
+ 1. Assembly
+ 2. C#
+ 3. C++
+ 4. ECMAScript
 
 <details>
   <summary>Answer</summary>
-  Universal Serial Bus
+  C++
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>53 minutes</strong> since this server shutdown
+Its been <strong> 1 hours 23 minutes</strong> since this server shutdown
