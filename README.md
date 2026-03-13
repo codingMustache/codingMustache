@@ -10,23 +10,23 @@ Something went wrong with getting the Image, I'll fix it later.
 
 ## Joke of the Day
 
-Where’s the bin? Dad: I haven’t been anywhere!
+What do you call cheese by itself? Provolone.
 
 
 ## Daily Trivia
 
-What is known as &quot;the brain&quot; of the Computer?
- 1. Motherboard
- 2. Graphics Processing Unit
- 3. Keyboard
- 4. Central Processing Unit
+Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
+ 1. Year
+ 2. Eight Years
+ 3. Two Years
+ 4. Four Years
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  Year
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  21 hours 40 minutes</strong> since this server shutdown
+Its been <strong>6 days  22 hours 8 minutes</strong> since this server shutdown
