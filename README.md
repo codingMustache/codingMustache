@@ -10,23 +10,23 @@ Something went wrong with getting the Image, I'll fix it later.
 
 ## Joke of the Day
 
-A dad washes his car with his son. But after a while, the son says, "why can't you just use a sponge?"
+R.I.P. boiled water. You will be mist.
 
 
 ## Daily Trivia
 
-Which of the following computer components can be built using only NAND gates?
- 1. Register
- 2. ALU
- 3. RAM
- 4. CPU
+Which of the following is NOT a computer science algorithm?
+ 1. Float Sort
+ 2. Quick Sort
+ 3. Merge Sort
+ 4. Bubble Sort
 
 <details>
   <summary>Answer</summary>
-  ALU
+  Float Sort
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  9 hours 10 minutes</strong> since this server shutdown
+Its been <strong>6 days  9 hours 40 minutes</strong> since this server shutdown
