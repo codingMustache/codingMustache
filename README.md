@@ -10,23 +10,23 @@ Something went wrong with getting the Image, I'll fix it later.
 
 ## Joke of the Day
 
-What did one snowman say to the other snow man? Do you smell carrot?
+Where’s the bin? Dad: I haven’t been anywhere!
 
 
 ## Daily Trivia
 
-How many cores does the Intel i7-6950X have?
- 1. 10
- 2. 8
- 3. 12
- 4. 4
+What is known as &quot;the brain&quot; of the Computer?
+ 1. Motherboard
+ 2. Graphics Processing Unit
+ 3. Keyboard
+ 4. Central Processing Unit
 
 <details>
   <summary>Answer</summary>
-  10
+  Central Processing Unit
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  21 hours 10 minutes</strong> since this server shutdown
+Its been <strong>6 days  21 hours 40 minutes</strong> since this server shutdown
