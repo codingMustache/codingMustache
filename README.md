@@ -10,23 +10,23 @@ Something went wrong with getting the Image, I'll fix it later.
 
 ## Joke of the Day
 
-What do you call cheese by itself? Provolone.
+What do you call an Argentinian with a rubber toe? Roberto
 
 
 ## Daily Trivia
 
-Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
- 1. Year
- 2. Eight Years
- 3. Two Years
- 4. Four Years
+The programming language &#039;Swift&#039; was created to replace what other programming language?
+ 1. Objective-C
+ 2. C#
+ 3. C++
+ 4. Ruby
 
 <details>
   <summary>Answer</summary>
-  Year
+  Objective-C
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  22 hours 8 minutes</strong> since this server shutdown
+Its been <strong>6 days  22 hours 10 minutes</strong> since this server shutdown
