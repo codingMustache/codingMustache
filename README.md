@@ -10,23 +10,25 @@ Something went wrong with getting the Image, I'll fix it later.
 
 ## Joke of the Day
 
-What did the calculator say to the student? You can count on me.
+ I never wanted to believe that my Dad was stealing from his job as a road worker. But when I got home, all the signs were there.
+
+
 
 
 ## Daily Trivia
 
-Which computer hardware device provides an interface for all other connected devices to communicate?
- 1. Central Processing Unit
- 2. Hard Disk Drive
- 3. Motherboard
- 4. Random Access Memory
+Nvidia&#039;s headquarters are based in which Silicon Valley city?
+ 1. Cupertino
+ 2. Santa Clara
+ 3. Palo Alto
+ 4. Mountain View
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  Santa Clara
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  18 hours 40 minutes</strong> since this server shutdown
+Its been <strong>6 days  19 hours 10 minutes</strong> since this server shutdown
