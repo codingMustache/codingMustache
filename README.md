@@ -10,23 +10,23 @@ Something went wrong with getting the Image, I'll fix it later.
 
 ## Joke of the Day
 
-Somebody stole my Microsoft Office and they're going to pay - you have my Word.
+My boss told me to have a good day... so I went home.
 
 
 ## Daily Trivia
 
-Which SQL keyword is used to fetch data from a database?
- 1. VALUES
- 2. EXEC
- 3. SELECT
- 4. INDEX
+Which programming language was developed by Sun Microsystems in 1995?
+ 1. Solaris OS
+ 2. Java
+ 3. Python
+ 4. C++
 
 <details>
   <summary>Answer</summary>
-  SELECT
+  Java
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  16 hours 40 minutes</strong> since this server shutdown
+Its been <strong>6 days  17 hours 10 minutes</strong> since this server shutdown
