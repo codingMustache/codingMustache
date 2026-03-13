@@ -10,23 +10,23 @@ Something went wrong with getting the Image, I'll fix it later.
 
 ## Joke of the Day
 
-How do you make a hankie dance? Put a little boogie in it.
+Somebody stole my Microsoft Office and they're going to pay - you have my Word.
 
 
 ## Daily Trivia
 
-The acronym &quot;RIP&quot; stands for which of these?
- 1. Regular Interval Processes
- 2. Runtime Instance Processes
- 3. Routing Information Protocol
- 4. Routine Inspection Protocol
+Which SQL keyword is used to fetch data from a database?
+ 1. VALUES
+ 2. EXEC
+ 3. SELECT
+ 4. INDEX
 
 <details>
   <summary>Answer</summary>
-  Routing Information Protocol
+  SELECT
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  16 hours 10 minutes</strong> since this server shutdown
+Its been <strong>6 days  16 hours 40 minutes</strong> since this server shutdown
