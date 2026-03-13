@@ -10,23 +10,23 @@ Something went wrong with getting the Image, I'll fix it later.
 
 ## Joke of the Day
 
-What is the tallest building in the world? The library – it’s got the most stories!
+My sister bet me $15 that I couldn't build a car out of spaghetti. You should have seen the look on her face as I drove pasta.
 
 
 ## Daily Trivia
 
-Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
- 1. Cherry MX Blue
- 2. Cherry MX Brown
- 3. Cherry MX Red
- 4. Cherry MX Black
+The teapot often seen in many 3D modeling applications is called what?
+ 1. Pixar Teapot
+ 2. 3D Teapot
+ 3. Tennessee Teapot
+ 4. Utah Teapot
 
 <details>
   <summary>Answer</summary>
-  Cherry MX Blue
+  Utah Teapot
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  11 hours 40 minutes</strong> since this server shutdown
+Its been <strong>6 days  12 hours 10 minutes</strong> since this server shutdown
