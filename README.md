@@ -10,20 +10,20 @@ Something went wrong with getting the Image, I'll fix it later.
 
 ## Joke of the Day
 
-I'm practicing for a bug-eating contest and I've got butterflies in my stomach.
+Did you hear that David lost his ID in prague? Now we just have to call him Dav.
 
 
 ## Daily Trivia
 
-Which of the following is NOT a computer science algorithm?
- 1. Bubble Sort
- 2. Merge Sort
- 3. Quick Sort
- 4. Float Sort
+In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
+ 1. Green
+ 2. Yellow
+ 3. Red
+ 4. Blue
 
 <details>
   <summary>Answer</summary>
-  Float Sort
+  Green
 </details>
 
 
