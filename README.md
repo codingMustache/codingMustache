@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I bought shoes from a drug dealer once. I don't know what he laced them with, but I was tripping all day.
+Ever wondered why bees hum? It's because they don't know the words.
 
 
 ## Daily Trivia
 
-Which of these programming languages is a low-level language?
- 1. C#
- 2. Python
- 3. Pascal
- 4. Assembly
+Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
+ 1. Atari
+ 2. Commodore
+ 3. Microsoft
+ 4. Apple
 
 <details>
   <summary>Answer</summary>
-  Assembly
+  Apple
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 9 hours 53 minutes</strong> since this server shutdown
+Its been <strong> 10 hours 23 minutes</strong> since this server shutdown
