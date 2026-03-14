@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Archaeology really is a career in ruins.
+What do you call a dad that has fallen through the ice? A Popsicle.
 
 
 ## Daily Trivia
 
-Which of these people was NOT a founder of Apple Inc?
- 1. Steve Wozniak
- 2. Ronald Wayne
- 3. Jonathan Ive
- 4. Steve Jobs
+Laserjet and inkjet printers are both examples of what type of printer?
+ 1. Impact printer
+ 2. Daisywheel printer
+ 3. Non-impact printer
+ 4. Dot matrix printer
 
 <details>
   <summary>Answer</summary>
-  Jonathan Ive
+  Non-impact printer
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 21 hours 23 minutes</strong> since this server shutdown
+Its been <strong> 21 hours 53 minutes</strong> since this server shutdown
