@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I’ve deleted the phone numbers of all the Germans I know from my mobile phone. Now it’s Hans free.
+Coffee has a tough time at my house, every morning it gets mugged.
 
 
 ## Daily Trivia
 
-What does LTS stand for in the software market?
- 1. Long Term Support
- 2. Ludicrous Transfer Speed
- 3. Ludicrous Turbo Speed
- 4. Long Taco Service
+If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
+ 1. JavaScript
+ 2. Binary
+ 3. Python
+ 4. C++
 
 <details>
   <summary>Answer</summary>
-  Long Term Support
+  Binary
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 23 hours 53 minutes</strong> since this server shutdown
+Its been <strong>1 days 23 minutes</strong> since this server shutdown
