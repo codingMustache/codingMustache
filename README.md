@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I was just looking at my ceiling. Not sure if it’s the best ceiling in the world, but it’s definitely up there.
+What has three letters and starts with gas? A Car.
 
 
 ## Daily Trivia
 
-Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
- 1. 44.1 kHz
- 2. 20.5 kHz
- 3. 1.5 MHz
- 4. 32.0 kHz
+What does AD stand for in relation to Windows Operating Systems? 
+ 1. Active Department
+ 2. Alternative Drive
+ 3. Automated Database
+ 4. Active Directory
 
 <details>
   <summary>Answer</summary>
-  44.1 kHz
+  Active Directory
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  2 hours 23 minutes</strong> since this server shutdown
+Its been <strong>1 days  2 hours 53 minutes</strong> since this server shutdown
