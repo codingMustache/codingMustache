@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What has ears but cannot hear? A field of corn.
+Why do mathematicians hate the U.S.? Because it's indivisible.
 
 
 ## Daily Trivia
 
-On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
- 1. Dollar Sign
- 2. Percent Sign
- 3. Asterisk
- 4. Exclamation Mark
+What did the name of the Tor Anonymity Network orignially stand for?
+ 1. The Onion Router
+ 2. The Only Router
+ 3. The Orange Router
+ 4. The Ominous Router
 
 <details>
   <summary>Answer</summary>
-  Exclamation Mark
+  The Onion Router
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 5 hours 53 minutes</strong> since this server shutdown
+Its been <strong> 6 hours 23 minutes</strong> since this server shutdown
