@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a sheep with no legs? A cloud.
+Don’t interrupt someone working intently on a puzzle. Chances are, you’ll hear some crosswords.
 
 
 ## Daily Trivia
 
-Which data structure does FILO apply to?
- 1. Heap
- 2. Queue
- 3. Stack
- 4. Tree
+What port does HTTP run on?
+ 1. 443
+ 2. 80
+ 3. 53
+ 4. 23
 
 <details>
   <summary>Answer</summary>
-  Stack
+  80
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 8 hours 53 minutes</strong> since this server shutdown
+Its been <strong> 9 hours 23 minutes</strong> since this server shutdown
