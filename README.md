@@ -4,23 +4,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where does batman go to the bathroom? The batroom.
+What do you get when you cross a bee and a sheep? A bah-humbug.
+
 
 
 ## Daily Trivia
 
-What was the name given to Android 4.3?
- 1. Lollipop
- 2. Nutella
- 3. Froyo
- 4. Jelly Bean
+What amount of bits commonly equals one byte?
+ 1. 1
+ 2. 2
+ 3. 64
+ 4. 8
 
 <details>
   <summary>Answer</summary>
-  Jelly Bean
+  8
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 13 hours 53 minutes</strong> since this server shutdown
+Its been <strong> 14 hours 23 minutes</strong> since this server shutdown
