@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What has three letters and starts with gas? A Car.
+I wanted to be a tailor but I didn't suit the job
 
 
 ## Daily Trivia
 
-What does AD stand for in relation to Windows Operating Systems? 
- 1. Active Department
- 2. Alternative Drive
- 3. Automated Database
- 4. Active Directory
+How fast is USB 3.1 Gen 2 theoretically?
+ 1. 10 Gb/s
+ 2. 1 Gb/s
+ 3. 8 Gb/s
+ 4. 5 Gb/s
 
 <details>
   <summary>Answer</summary>
-  Active Directory
+  10 Gb/s
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  2 hours 53 minutes</strong> since this server shutdown
+Its been <strong>1 days  3 hours 23 minutes</strong> since this server shutdown
