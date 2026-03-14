@@ -10,20 +10,20 @@ Something went wrong with getting the Image, I'll fix it later.
 
 ## Joke of the Day
 
-I'm practicing for a bug-eating contest and I've got butterflies in my stomach.
+R.I.P. boiled water. You will be mist.
 
 
 ## Daily Trivia
 
-In computing terms, typically what does CLI stand for?
- 1. Common Language Interface
- 2. Control Line Interface
- 3. Command Line Interface
- 4. Common Language Input
+What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
+ 1. Transport
+ 2. Session
+ 3. Data link
+ 4. Network
 
 <details>
   <summary>Answer</summary>
-  Command Line Interface
+  Transport
 </details>
 
 
