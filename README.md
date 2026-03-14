@@ -4,24 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you get when you cross a bee and a sheep? A bah-humbug.
-
+Did you hear about the Mexican train killer? He had loco motives
 
 
 ## Daily Trivia
 
-What amount of bits commonly equals one byte?
- 1. 1
- 2. 2
- 3. 64
- 4. 8
+What is the name of the default theme that is installed with Windows XP?
+ 1. Luna
+ 2. Neptune
+ 3. Whistler
+ 4. Bliss
 
 <details>
   <summary>Answer</summary>
-  8
+  Luna
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 14 hours 23 minutes</strong> since this server shutdown
+Its been <strong> 14 hours 53 minutes</strong> since this server shutdown
