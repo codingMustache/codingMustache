@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the tree go to the dentist? It needed a root canal.
+How many apples grow on a tree? All of them!
 
 
 ## Daily Trivia
 
-Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
- 1. eBay
- 2. Overstock
- 3. Shopify
- 4. Amazon
+The numbering system with a radix of 16 is more commonly referred to as 
+ 1. Octal
+ 2. Hexidecimal
+ 3. Binary
+ 4. Duodecimal
 
 <details>
   <summary>Answer</summary>
-  Amazon
+  Hexidecimal
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 17 hours 23 minutes</strong> since this server shutdown
+Its been <strong> 17 hours 53 minutes</strong> since this server shutdown
