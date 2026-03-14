@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do mathematicians hate the U.S.? Because it's indivisible.
+Why do wizards clean their teeth three times a day? To prevent bat breath!
 
 
 ## Daily Trivia
 
-What did the name of the Tor Anonymity Network orignially stand for?
- 1. The Onion Router
- 2. The Only Router
- 3. The Orange Router
- 4. The Ominous Router
+What does the computer software acronym JVM stand for?
+ 1. Java Virtual Machine
+ 2. Java Vendor Machine
+ 3. Java Visual Machine
+ 4. Just Virtual Machine
 
 <details>
   <summary>Answer</summary>
-  The Onion Router
+  Java Virtual Machine
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 6 hours 23 minutes</strong> since this server shutdown
+Its been <strong> 6 hours 53 minutes</strong> since this server shutdown
