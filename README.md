@@ -10,23 +10,23 @@ Something went wrong with getting the Image, I'll fix it later.
 
 ## Joke of the Day
 
-R.I.P. boiled water. You will be mist.
+“Hold on, I have something in my shoe”  “I’m pretty sure it’s a foot”
 
 
 ## Daily Trivia
 
-What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
- 1. Transport
- 2. Session
- 3. Data link
- 4. Network
+What does LTS stand for in the software market?
+ 1. Long Taco Service
+ 2. Long Term Support
+ 3. Ludicrous Transfer Speed
+ 4. Ludicrous Turbo Speed
 
 <details>
   <summary>Answer</summary>
-  Transport
+  Long Term Support
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  5 hours 8 minutes</strong> since this server shutdown
+Its been <strong>1 days  5 hours 9 minutes</strong> since this server shutdown
