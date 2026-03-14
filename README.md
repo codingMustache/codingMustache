@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A man tried to sell me a coffin today. I told him that's the last thing I need.
+Where did you learn to make ice cream? Sunday school.
 
 
 ## Daily Trivia
 
-The programming language &#039;Swift&#039; was created to replace what other programming language?
- 1. Objective-C
+Which programming language was developed by Sun Microsystems in 1995?
+ 1. Java
  2. C++
- 3. Ruby
- 4. C#
+ 3. Solaris OS
+ 4. Python
 
 <details>
   <summary>Answer</summary>
-  Objective-C
+  Java
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 19 hours 53 minutes</strong> since this server shutdown
+Its been <strong> 20 hours 23 minutes</strong> since this server shutdown
