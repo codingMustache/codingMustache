@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do wizards clean their teeth three times a day? To prevent bat breath!
+Which is the fastest growing city in the world? Dublin'
 
 
 ## Daily Trivia
 
-What does the computer software acronym JVM stand for?
- 1. Java Virtual Machine
- 2. Java Vendor Machine
- 3. Java Visual Machine
- 4. Just Virtual Machine
+What was the name of the image that features as the default background wallpaper for Windows XP?
+ 1. Bliss
+ 2. Tulips
+ 3. Red moon desert
+ 4. Azul
 
 <details>
   <summary>Answer</summary>
-  Java Virtual Machine
+  Bliss
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 6 hours 53 minutes</strong> since this server shutdown
+Its been <strong> 7 hours 23 minutes</strong> since this server shutdown
