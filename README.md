@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the Mexican train killer? He had loco motives
+Why do bees hum? Because they don't know the words.
 
 
 ## Daily Trivia
 
-What is the name of the default theme that is installed with Windows XP?
- 1. Luna
- 2. Neptune
- 3. Whistler
- 4. Bliss
+HTML is what type of language?
+ 1. Markup Language
+ 2. Macro Language
+ 3. Programming Language
+ 4. Scripting Language
 
 <details>
   <summary>Answer</summary>
-  Luna
+  Markup Language
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 14 hours 53 minutes</strong> since this server shutdown
+Its been <strong> 15 hours 23 minutes</strong> since this server shutdown
