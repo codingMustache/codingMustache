@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I'd like to start a diet, but I've got too much on my plate right now.
+What’s the advantage of living in Switzerland? Well, the flag is a big plus.
 
 
 ## Daily Trivia
 
-What is the maximum value of a 32-bit signed binary integer?
- 1. 255
- 2. 2048
- 3. 9,223,372,036,854,775,807
- 4. 2,147,483,647
+What does LTS stand for in the software market?
+ 1. Long Term Support
+ 2. Ludicrous Turbo Speed
+ 3. Ludicrous Transfer Speed
+ 4. Long Taco Service
 
 <details>
   <summary>Answer</summary>
-  2,147,483,647
+  Long Term Support
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 11 hours 53 minutes</strong> since this server shutdown
+Its been <strong> 12 hours 23 minutes</strong> since this server shutdown
