@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-You can't trust a ladder. It will always let you down
+A man tried to sell me a coffin today. I told him that's the last thing I need.
 
 
 ## Daily Trivia
 
-When did the online streaming service &quot;Mixer&quot; launch?
- 1. 2011
- 2. 2009
- 3. 2013
- 4. 2016
+The programming language &#039;Swift&#039; was created to replace what other programming language?
+ 1. Objective-C
+ 2. C++
+ 3. Ruby
+ 4. C#
 
 <details>
   <summary>Answer</summary>
-  2016
+  Objective-C
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 19 hours 23 minutes</strong> since this server shutdown
+Its been <strong> 19 hours 53 minutes</strong> since this server shutdown
