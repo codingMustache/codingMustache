@@ -10,23 +10,23 @@ Something went wrong with getting the Image, I'll fix it later.
 
 ## Joke of the Day
 
-Did you hear that David lost his ID in prague? Now we just have to call him Dav.
+What do you call a troublesome Canadian high schooler? A poutine.
 
 
 ## Daily Trivia
 
-In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
- 1. Green
- 2. Yellow
- 3. Red
- 4. Blue
+Which computer hardware device provides an interface for all other connected devices to communicate?
+ 1. Central Processing Unit
+ 2. Hard Disk Drive
+ 3. Random Access Memory
+ 4. Motherboard
 
 <details>
   <summary>Answer</summary>
-  Green
+  Motherboard
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  5 hours 4 minutes</strong> since this server shutdown
+Its been <strong>1 days  5 hours 7 minutes</strong> since this server shutdown
