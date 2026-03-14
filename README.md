@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do bees hum? Because they don't know the words.
+A magician was driving down the street and then he turned into a driveway.
 
 
 ## Daily Trivia
 
-HTML is what type of language?
- 1. Markup Language
- 2. Macro Language
- 3. Programming Language
- 4. Scripting Language
+Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
+ 1. Cherry MX Brown
+ 2. Cherry MX Blue
+ 3. Cherry MX Red
+ 4. Cherry MX Black
 
 <details>
   <summary>Answer</summary>
-  Markup Language
+  Cherry MX Blue
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 15 hours 23 minutes</strong> since this server shutdown
+Its been <strong> 15 hours 53 minutes</strong> since this server shutdown
