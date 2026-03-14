@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why is no one friends with Dracula? Because he's a pain in the neck.
+You can't trust a ladder. It will always let you down
 
 
 ## Daily Trivia
 
-What internet protocol was documented in RFC 1459?
- 1. IRC
- 2. FTP
- 3. HTTPS
- 4. HTTP
+When did the online streaming service &quot;Mixer&quot; launch?
+ 1. 2011
+ 2. 2009
+ 3. 2013
+ 4. 2016
 
 <details>
   <summary>Answer</summary>
-  IRC
+  2016
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 18 hours 53 minutes</strong> since this server shutdown
+Its been <strong> 19 hours 23 minutes</strong> since this server shutdown
