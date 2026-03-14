@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I knew i shouldn’t have ate that seafood. Because now i’m feeling a little… Eel
+Did you hear about the runner who was criticized? He just took it in stride
 
 
 ## Daily Trivia
 
-Which of the following is the oldest of these computers by release date?
- 1. Commodore 64
- 2. ZX Spectrum
- 3. Apple 3
- 4. TRS-80
+In programming, the ternary operator is mostly defined with what symbol(s)?
+ 1. ?
+ 2. ?:
+ 3. if then
+ 4. ??
 
 <details>
   <summary>Answer</summary>
-  TRS-80
+  ?:
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 10 hours 53 minutes</strong> since this server shutdown
+Its been <strong> 11 hours 23 minutes</strong> since this server shutdown
