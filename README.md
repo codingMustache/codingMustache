@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do bears have hairy coats? Fur protection.
+Why are mummys scared of vacation? They're afraid to unwind.
 
 
 ## Daily Trivia
 
-On which day did the World Wide Web go online?
- 1. November 24, 1995
- 2. November 12, 1990
- 3. December 17, 1996
- 4. December 20, 1990
+America Online (AOL) started out as which of these online service providers?
+ 1. CompuServe
+ 2. Prodigy
+ 3. Quantum Link
+ 4. GEnie
 
 <details>
   <summary>Answer</summary>
-  December 20, 1990
+  Quantum Link
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 12 hours 53 minutes</strong> since this server shutdown
+Its been <strong> 13 hours 23 minutes</strong> since this server shutdown
