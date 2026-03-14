@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Americans can't switch from pounds to kilograms overnight. That would cause mass confusion.
+Why did the tree go to the dentist? It needed a root canal.
 
 
 ## Daily Trivia
 
-What does AD stand for in relation to Windows Operating Systems? 
- 1. Alternative Drive
- 2. Active Department
- 3. Active Directory
- 4. Automated Database
+Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
+ 1. eBay
+ 2. Overstock
+ 3. Shopify
+ 4. Amazon
 
 <details>
   <summary>Answer</summary>
-  Active Directory
+  Amazon
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 16 hours 53 minutes</strong> since this server shutdown
+Its been <strong> 17 hours 23 minutes</strong> since this server shutdown
