@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many apples grow on a tree? All of them!
+Why did the teddy bear say “no” to dessert? Because she was stuffed.
 
 
 ## Daily Trivia
 
-The numbering system with a radix of 16 is more commonly referred to as 
- 1. Octal
- 2. Hexidecimal
- 3. Binary
- 4. Duodecimal
+The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
+ 1. HD Graphics 500
+ 2. HD Graphics 7000
+ 3. HD Graphics 600
+ 4. HD Graphics 700 
 
 <details>
   <summary>Answer</summary>
-  Hexidecimal
+  HD Graphics 500
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 17 hours 53 minutes</strong> since this server shutdown
+Its been <strong> 18 hours 23 minutes</strong> since this server shutdown
