@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Nurse: Doctor, there's a patient that says he's invisible. Doctor: Well, tell him I can't see him right now!
+What do you call a sheep with no legs? A cloud.
 
 
 ## Daily Trivia
 
-What does the term MIME stand for, in regards to computing?
- 1. Mail Interleave Method Exchange
- 2. Multipurpose Interleave Mail Exchange
- 3. Multipurpose Internet Mail Extensions
- 4. Mail Internet Mail Exchange
+Which data structure does FILO apply to?
+ 1. Heap
+ 2. Queue
+ 3. Stack
+ 4. Tree
 
 <details>
   <summary>Answer</summary>
-  Multipurpose Internet Mail Extensions
+  Stack
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 8 hours 23 minutes</strong> since this server shutdown
+Its been <strong> 8 hours 53 minutes</strong> since this server shutdown
