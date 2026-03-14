@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What’s the advantage of living in Switzerland? Well, the flag is a big plus.
+Why do bears have hairy coats? Fur protection.
 
 
 ## Daily Trivia
 
-What does LTS stand for in the software market?
- 1. Long Term Support
- 2. Ludicrous Turbo Speed
- 3. Ludicrous Transfer Speed
- 4. Long Taco Service
+On which day did the World Wide Web go online?
+ 1. November 24, 1995
+ 2. November 12, 1990
+ 3. December 17, 1996
+ 4. December 20, 1990
 
 <details>
   <summary>Answer</summary>
-  Long Term Support
+  December 20, 1990
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 12 hours 23 minutes</strong> since this server shutdown
+Its been <strong> 12 hours 53 minutes</strong> since this server shutdown
