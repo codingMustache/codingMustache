@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I had a rough day, and then somebody went and ripped the front and back pages from my dictionary. It just goes from bad to worse.
+Nurse: Doctor, there's a patient that says he's invisible. Doctor: Well, tell him I can't see him right now!
 
 
 ## Daily Trivia
 
-What does LTS stand for in the software market?
- 1. Long Taco Service
- 2. Ludicrous Transfer Speed
- 3. Long Term Support
- 4. Ludicrous Turbo Speed
+What does the term MIME stand for, in regards to computing?
+ 1. Mail Interleave Method Exchange
+ 2. Multipurpose Interleave Mail Exchange
+ 3. Multipurpose Internet Mail Extensions
+ 4. Mail Internet Mail Exchange
 
 <details>
   <summary>Answer</summary>
-  Long Term Support
+  Multipurpose Internet Mail Extensions
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 7 hours 53 minutes</strong> since this server shutdown
+Its been <strong> 8 hours 23 minutes</strong> since this server shutdown
