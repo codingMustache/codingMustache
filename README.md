@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-If you’re struggling to think of what to get someone for Christmas. Get them a fridge and watch their face light up when they open it.
+Did you hear the news? FedEx and UPS are merging. They’re going to go by the name Fed-Up from now on.
 
 
 ## Daily Trivia
 
-How many cores does the Intel i7-6950X have?
- 1. 10
- 2. 12
- 3. 8
- 4. 4
+America Online (AOL) started out as which of these online service providers?
+ 1. GEnie
+ 2. Prodigy
+ 3. Quantum Link
+ 4. CompuServe
 
 <details>
   <summary>Answer</summary>
-  10
+  Quantum Link
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  4 hours 23 minutes</strong> since this server shutdown
+Its been <strong>1 days  4 hours 53 minutes</strong> since this server shutdown
