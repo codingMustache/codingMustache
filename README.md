@@ -10,23 +10,23 @@ Something went wrong with getting the Image, I'll fix it later.
 
 ## Joke of the Day
 
-What do you call a troublesome Canadian high schooler? A poutine.
+I'm practicing for a bug-eating contest and I've got butterflies in my stomach.
 
 
 ## Daily Trivia
 
-Which computer hardware device provides an interface for all other connected devices to communicate?
- 1. Central Processing Unit
- 2. Hard Disk Drive
- 3. Random Access Memory
- 4. Motherboard
+In computing terms, typically what does CLI stand for?
+ 1. Common Language Interface
+ 2. Control Line Interface
+ 3. Command Line Interface
+ 4. Common Language Input
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  Command Line Interface
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  5 hours 7 minutes</strong> since this server shutdown
+Its been <strong>1 days  5 hours 8 minutes</strong> since this server shutdown
