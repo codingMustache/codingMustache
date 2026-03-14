@@ -4,23 +4,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a dad that has fallen through the ice? A Popsicle.
+Can I watch the TV? Dad: Yes, but don’t turn it on.
 
 
 ## Daily Trivia
 
-Laserjet and inkjet printers are both examples of what type of printer?
- 1. Impact printer
- 2. Daisywheel printer
- 3. Non-impact printer
- 4. Dot matrix printer
+Which SQL keyword is used to fetch data from a database?
+ 1. VALUES
+ 2. SELECT
+ 3. INDEX
+ 4. EXEC
 
 <details>
   <summary>Answer</summary>
-  Non-impact printer
+  SELECT
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 21 hours 53 minutes</strong> since this server shutdown
+Its been <strong> 22 hours 23 minutes</strong> since this server shutdown
