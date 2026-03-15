@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## 📺 Now Watching
 
-### Star Trek: Deep Space Nine — S07E01 Image In The Sand
+### Star Trek: Deep Space Nine — S07E02 Shadows And Symbols
 
 ![Star Trek: Deep Space Nine](https://image.tmdb.org/t/p/w300_and_h300_face/vE6138ykaEXQkCSEHyuBIgfGlUZ.jpg)
 
@@ -15,23 +15,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do mathematicians hate the U.S.? Because it's indivisible.
+Last night me and my girlfriend watched three DVDs back to back. Luckily I was the one facing the TV.
 
 
 ## Daily Trivia
 
-What port does HTTP run on?
- 1. 23
- 2. 80
- 3. 443
- 4. 53
+The teapot often seen in many 3D modeling applications is called what?
+ 1. Utah Teapot
+ 2. Pixar Teapot
+ 3. Tennessee Teapot
+ 4. 3D Teapot
 
 <details>
   <summary>Answer</summary>
-  80
+  Utah Teapot
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  12 hours 53 minutes</strong> since this server shutdown
+Its been <strong>1 days  13 hours 23 minutes</strong> since this server shutdown
