@@ -15,23 +15,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Coffee has a tough time at my house, every morning it gets mugged.
+Do I enjoy making courthouse puns? Guilty
 
 
 ## Daily Trivia
 
-What was the name of the security vulnerability found in Bash in 2014?
- 1. Shellshock
- 2. Heartbleed
- 3. Bashbug
- 4. Stagefright
+What is the number of keys on a standard Windows Keyboard?
+ 1. 76
+ 2. 94
+ 3. 64
+ 4. 104
 
 <details>
   <summary>Answer</summary>
-  Shellshock
+  104
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  19 hours 23 minutes</strong> since this server shutdown
+Its been <strong>1 days  19 hours 53 minutes</strong> since this server shutdown
