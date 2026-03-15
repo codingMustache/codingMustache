@@ -15,23 +15,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Shout out to my grandma, that's the only way she can hear.
+Why are oranges the smartest fruit? Because they are made to concentrate. 
 
 
 ## Daily Trivia
 
-Which kind of algorithm is Ron Rivest not famous for creating?
- 1. Secret sharing scheme
- 2. Stream cipher
- 3. Asymmetric encryption
- 4. Hashing algorithm
+In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
+ 1. Green
+ 2. Yellow
+ 3. Blue
+ 4. Red
 
 <details>
   <summary>Answer</summary>
-  Secret sharing scheme
+  Green
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  21 hours 23 minutes</strong> since this server shutdown
+Its been <strong>1 days  21 hours 53 minutes</strong> since this server shutdown
