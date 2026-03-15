@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A beekeeper was indicted after he confessed to years of stealing at work. They charged him with emBEEzlement
+I was shocked when I was diagnosed as colorblind... It came out of the purple.
 
 
 ## Daily Trivia
 
-While Apple was formed in California, in which western state was Microsoft founded?
- 1. Colorado
- 2. New Mexico
- 3. Arizona
- 4. Washington
+What port does HTTP run on?
+ 1. 53
+ 2. 443
+ 3. 23
+ 4. 80
 
 <details>
   <summary>Answer</summary>
-  New Mexico
+  80
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  4 hours 23 minutes</strong> since this server shutdown
+Its been <strong>2 days  4 hours 53 minutes</strong> since this server shutdown
