@@ -15,23 +15,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I am so good at sleeping I can do it with my eyes closed!
+Why didn’t the orange win the race? It ran out of juice.
 
 
 ## Daily Trivia
 
-What does the Prt Sc button do?
- 1. Captures what&#039;s on the screen and copies it to your clipboard
- 2. Closes all windows
- 3. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
- 4. Nothing
+On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
+ 1. Exclamation Mark
+ 2. Asterisk
+ 3. Percent Sign
+ 4. Dollar Sign
 
 <details>
   <summary>Answer</summary>
-  Captures what&#039;s on the screen and copies it to your clipboard
+  Exclamation Mark
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  22 hours 53 minutes</strong> since this server shutdown
+Its been <strong>1 days  23 hours 23 minutes</strong> since this server shutdown
