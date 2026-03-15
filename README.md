@@ -15,24 +15,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A weasel walks into a bar. The bartender says, "Wow, I've never served a weasel before. What can I get for you?"
-"Pop," goes the weasel.
+What does a clock do when it's hungry? It goes back four seconds!
 
 
 ## Daily Trivia
 
-What major programming language does Unreal Engine 4 use?
- 1. C++
- 2. C#
- 3. Assembly
- 4. ECMAScript
+How many cores does the Intel i7-6950X have?
+ 1. 12
+ 2. 8
+ 3. 10
+ 4. 4
 
 <details>
   <summary>Answer</summary>
-  C++
+  10
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  8 hours 56 minutes</strong> since this server shutdown
+Its been <strong>1 days  9 hours 23 minutes</strong> since this server shutdown
