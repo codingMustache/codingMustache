@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I went to a Foo Fighters Concert once... It was Everlong...
+If I could name myself after any Egyptian god, I'd be Set.
 
 
 ## Daily Trivia
 
-Lenovo acquired IBM&#039;s personal computer division, including the ThinkPad line of laptops and tablets, in what year?
- 1. 2002
- 2. 2005
- 3. 2008
- 4. 1999
+Which computer hardware device provides an interface for all other connected devices to communicate?
+ 1. Central Processing Unit
+ 2. Hard Disk Drive
+ 3. Random Access Memory
+ 4. Motherboard
 
 <details>
   <summary>Answer</summary>
-  2005
+  Motherboard
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  2 hours 53 minutes</strong> since this server shutdown
+Its been <strong>2 days  3 hours 23 minutes</strong> since this server shutdown
