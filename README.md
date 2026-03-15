@@ -15,23 +15,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-People are shocked to discover I have a police record but I love their greatest hits!
+What did the 0 say to the 8? Nice belt.
 
 
 ## Daily Trivia
 
-The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
- 1. Germany
- 2. Taiwan
- 3. United States
- 4. China (People&#039;s Republic of)
+In any programming language, what is the most common way to iterate through an array?
+ 1. &#039;For&#039; loops
+ 2. &#039;If&#039; Statements
+ 3. &#039;Do-while&#039; loops
+ 4. &#039;While&#039; loops
 
 <details>
   <summary>Answer</summary>
-  Taiwan
+  &#039;For&#039; loops
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  16 hours 23 minutes</strong> since this server shutdown
+Its been <strong>1 days  16 hours 53 minutes</strong> since this server shutdown
