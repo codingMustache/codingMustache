@@ -15,23 +15,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are oranges the smartest fruit? Because they are made to concentrate. 
+Sore throats are a pain in the neck!
 
 
 ## Daily Trivia
 
-In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
- 1. Green
- 2. Yellow
- 3. Blue
- 4. Red
+What is known as &quot;the brain&quot; of the Computer?
+ 1. Graphics Processing Unit
+ 2. Central Processing Unit
+ 3. Motherboard
+ 4. Keyboard
 
 <details>
   <summary>Answer</summary>
-  Green
+  Central Processing Unit
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  21 hours 53 minutes</strong> since this server shutdown
+Its been <strong>1 days  22 hours 23 minutes</strong> since this server shutdown
