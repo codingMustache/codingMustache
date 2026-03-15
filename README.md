@@ -15,23 +15,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I really want to buy one of those supermarket checkout dividers, but the cashier keeps putting it back.
+Today a girl said she recognized me from vegetarian club, but I’m sure I’ve never met herbivore.
 
 
 ## Daily Trivia
 
-What programming language was GitHub written in?
- 1. Ruby
- 2. JavaScript
- 3. Lua
- 4. Python
+If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
+ 1. Binary
+ 2. Python
+ 3. C++
+ 4. JavaScript
 
 <details>
   <summary>Answer</summary>
-  Ruby
+  Binary
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  11 hours 23 minutes</strong> since this server shutdown
+Its been <strong>1 days  11 hours 53 minutes</strong> since this server shutdown
