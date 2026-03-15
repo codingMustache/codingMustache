@@ -1,24 +1,27 @@
 {
-    "name": "dreadme",
-    "version": "1.0.0",
-    "description": "github profile dynamic read me. Meant to be trigered with a cron job",
-    "main": "index.js",
-    "type": "module",
-    "scripts": {
-        "start": "node index.js"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/codingMustache/codingMustache.git"
-    },
-    "author": "codingMustache",
-    "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/codingMustache/codingMustache/issues",
-        "email": "bug@codingMusatche.dev"
-    },
-    "homepage": "https://github.com/codingMustache/codingMustache",
-    "dependencies": {
-        "dotenv": "^17.3.1"
-    }
+	"name": "dreadme",
+	"version": "1.0.0",
+	"description": "github profile dynamic read me. Meant to be trigered with a cron job",
+	"main": "src/index.js",
+	"type": "module",
+	"scripts": {
+		"start": "node src/index.ts"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/codingMustache/codingMustache.git"
+	},
+	"author": "codingMustache",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/codingMustache/codingMustache/issues",
+		"email": "bug@codingMusatche.dev"
+	},
+	"homepage": "https://github.com/codingMustache/codingMustache",
+	"dependencies": {
+		"dotenv": "^17.3.1"
+	},
+	"devDependencies": {
+		"@types/node": "^25.5.0"
+	}
 }
