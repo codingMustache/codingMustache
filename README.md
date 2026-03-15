@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-If I could name myself after any Egyptian god, I'd be Set.
+What did the left eye say to the right eye? Between us, something smells!
 
 
 ## Daily Trivia
 
-Which computer hardware device provides an interface for all other connected devices to communicate?
- 1. Central Processing Unit
- 2. Hard Disk Drive
- 3. Random Access Memory
- 4. Motherboard
+Which computer language would you associate Django framework with?
+ 1. Python
+ 2. C++
+ 3. C#
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  Python
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  3 hours 23 minutes</strong> since this server shutdown
+Its been <strong>2 days  3 hours 53 minutes</strong> since this server shutdown
