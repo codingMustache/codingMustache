@@ -15,23 +15,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you steal a coat? You jacket.
+Did you know the first French fries weren't actually cooked in France? They were cooked in Greece.
 
 
 ## Daily Trivia
 
-What is the most preferred image format used for logos in the Wikimedia database?
- 1. .svg
- 2. .gif
- 3. .jpeg
- 4. .png
+In programming, the ternary operator is mostly defined with what symbol(s)?
+ 1. ?
+ 2. if then
+ 3. ??
+ 4. ?:
 
 <details>
   <summary>Answer</summary>
-  .svg
+  ?:
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  13 hours 53 minutes</strong> since this server shutdown
+Its been <strong>1 days  14 hours 23 minutes</strong> since this server shutdown
