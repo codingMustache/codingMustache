@@ -2,31 +2,37 @@
 
 Hello I'm Jorge and I love making things for the internet
 
-## Jellyfin
+## 📺 Now Watching
 
+### Anthony Bourdain: Parts Unknown — S03E05 Russia
 
+![Anthony Bourdain: Parts Unknown](https://image.tmdb.org/t/p/w300_and_h300_face/qg7lcydNf8DBVFIFK3XEuccv1jf.jpg)
 
-Something went wrong with getting the Image, I'll fix it later.
+> Bourdain travels across the globe to uncover little-known areas of the world and celebrate diverse cultures by exploring food and dining rituals. Known for his curiosity, candor, and acerbic wit, Bourdain takes viewers off the beaten path of tourist destinations – including some war-torn parts of the world – and meets with a variety of local citizens to offer a window into their lifestyles, and occasionally communes with an internationally lauded chef on his journeys.
+
+**Rating:** ⭐ 7.75 / 10
+
 
 ## Joke of the Day
 
-“Hold on, I have something in my shoe”  “I’m pretty sure it’s a foot”
+A weasel walks into a bar. The bartender says, "Wow, I've never served a weasel before. What can I get for you?"
+"Pop," goes the weasel.
 
 
 ## Daily Trivia
 
-What does LTS stand for in the software market?
- 1. Long Taco Service
- 2. Long Term Support
- 3. Ludicrous Transfer Speed
- 4. Ludicrous Turbo Speed
+What major programming language does Unreal Engine 4 use?
+ 1. C++
+ 2. C#
+ 3. Assembly
+ 4. ECMAScript
 
 <details>
   <summary>Answer</summary>
-  Long Term Support
+  C++
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  5 hours 9 minutes</strong> since this server shutdown
+Its been <strong>1 days  8 hours 56 minutes</strong> since this server shutdown
