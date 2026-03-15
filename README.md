@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Every morning when I go out, I get hit by bicycle. Every morning!  It's a vicious cycle.
+What do you call a magician who has lost their magic? Ian.
 
 
 ## Daily Trivia
 
-Lenovo acquired IBM&#039;s personal computer division, including the ThinkPad line of laptops and tablets, in what year?
- 1. 1999
- 2. 2002
- 3. 2008
- 4. 2005
+In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
+ 1. print(&quot;Hello World&quot;)
+ 2. console.log(&quot;Hello World&quot;)
+ 3. echo &quot;Hello World&quot;
+ 4. printf(&quot;Hello World&quot;)
 
 <details>
   <summary>Answer</summary>
-  2005
+  print(&quot;Hello World&quot;)
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  5 hours 23 minutes</strong> since this server shutdown
+Its been <strong>2 days  5 hours 53 minutes</strong> since this server shutdown
