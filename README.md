@@ -15,23 +15,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why does Waldo only wear stripes? Because he doesn't want to be spotted.
+How many kids with ADD does it take to change a lightbulb? Let's go ride bikes!
 
 
 ## Daily Trivia
 
-How many Hz does the video standard PAL support?
- 1. 50
- 2. 25
- 3. 60
- 4. 59
+What was the name of the image that features as the default background wallpaper for Windows XP?
+ 1. Azul
+ 2. Red moon desert
+ 3. Tulips
+ 4. Bliss
 
 <details>
   <summary>Answer</summary>
-  50
+  Bliss
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  9 hours 53 minutes</strong> since this server shutdown
+Its been <strong>1 days  10 hours 23 minutes</strong> since this server shutdown
