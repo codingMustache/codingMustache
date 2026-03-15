@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did one plate say to the other plate? Dinner is on me!
+How was the snow globe feeling after the storm? A little shaken.
 
 
 ## Daily Trivia
 
-In computing terms, typically what does CLI stand for?
- 1. Common Language Input
- 2. Control Line Interface
- 3. Common Language Interface
- 4. Command Line Interface
+Generally, which component of a computer draws the most power?
+ 1. Power Supply
+ 2. Video Card
+ 3. Processor
+ 4. Hard Drive
 
 <details>
   <summary>Answer</summary>
-  Command Line Interface
+  Video Card
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  2 hours 10 minutes</strong> since this server shutdown
+Its been <strong>2 days  2 hours 23 minutes</strong> since this server shutdown
