@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How was the snow globe feeling after the storm? A little shaken.
+I went to a Foo Fighters Concert once... It was Everlong...
 
 
 ## Daily Trivia
 
-Generally, which component of a computer draws the most power?
- 1. Power Supply
- 2. Video Card
- 3. Processor
- 4. Hard Drive
+Lenovo acquired IBM&#039;s personal computer division, including the ThinkPad line of laptops and tablets, in what year?
+ 1. 2002
+ 2. 2005
+ 3. 2008
+ 4. 1999
 
 <details>
   <summary>Answer</summary>
-  Video Card
+  2005
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  2 hours 23 minutes</strong> since this server shutdown
+Its been <strong>2 days  2 hours 53 minutes</strong> since this server shutdown
