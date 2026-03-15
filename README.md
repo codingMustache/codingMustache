@@ -15,23 +15,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How does a penguin build it’s house? Igloos it together.
+Why do mathematicians hate the U.S.? Because it's indivisible.
 
 
 ## Daily Trivia
 
-On Twitter, what was the original character limit for a Tweet?
- 1. 160
- 2. 140
- 3. 120
- 4. 100
+What port does HTTP run on?
+ 1. 23
+ 2. 80
+ 3. 443
+ 4. 53
 
 <details>
   <summary>Answer</summary>
-  140
+  80
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  12 hours 23 minutes</strong> since this server shutdown
+Its been <strong>1 days  12 hours 53 minutes</strong> since this server shutdown
