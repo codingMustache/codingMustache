@@ -15,23 +15,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take.
+Coffee has a tough time at my house, every morning it gets mugged.
 
 
 ## Daily Trivia
 
-Which operating system was released first?
- 1. Mac OS
- 2. OS/2
- 3. Linux
- 4. Windows
+What was the name of the security vulnerability found in Bash in 2014?
+ 1. Shellshock
+ 2. Heartbleed
+ 3. Bashbug
+ 4. Stagefright
 
 <details>
   <summary>Answer</summary>
-  Mac OS
+  Shellshock
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  18 hours 53 minutes</strong> since this server shutdown
+Its been <strong>1 days  19 hours 23 minutes</strong> since this server shutdown
