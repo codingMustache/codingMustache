@@ -15,23 +15,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Hear about the new restaurant called Karma? There’s no menu: You get what you deserve.
+What type of music do balloons hate? Pop music!
 
 
 ## Daily Trivia
 
-Which of these people was NOT a founder of Apple Inc?
- 1. Steve Jobs
- 2. Ronald Wayne
- 3. Steve Wozniak
- 4. Jonathan Ive
+Which of these programming languages is a low-level language?
+ 1. Assembly
+ 2. Pascal
+ 3. C#
+ 4. Python
 
 <details>
   <summary>Answer</summary>
-  Jonathan Ive
+  Assembly
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  17 hours 53 minutes</strong> since this server shutdown
+Its been <strong>1 days  18 hours 23 minutes</strong> since this server shutdown
