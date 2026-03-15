@@ -15,23 +15,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What type of music do balloons hate? Pop music!
+I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take.
 
 
 ## Daily Trivia
 
-Which of these programming languages is a low-level language?
- 1. Assembly
- 2. Pascal
- 3. C#
- 4. Python
+Which operating system was released first?
+ 1. Mac OS
+ 2. OS/2
+ 3. Linux
+ 4. Windows
 
 <details>
   <summary>Answer</summary>
-  Assembly
+  Mac OS
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  18 hours 23 minutes</strong> since this server shutdown
+Its been <strong>1 days  18 hours 53 minutes</strong> since this server shutdown
