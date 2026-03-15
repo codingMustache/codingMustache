@@ -4,7 +4,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## 📺 Now Watching
 
-### Star Trek: Deep Space Nine — S07E02 Shadows And Symbols
+### Star Trek: Deep Space Nine — S07E03 Afterimage
 
 ![Star Trek: Deep Space Nine](https://image.tmdb.org/t/p/w300_and_h300_face/vE6138ykaEXQkCSEHyuBIgfGlUZ.jpg)
 
@@ -15,23 +15,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Last night me and my girlfriend watched three DVDs back to back. Luckily I was the one facing the TV.
+How do you steal a coat? You jacket.
 
 
 ## Daily Trivia
 
-The teapot often seen in many 3D modeling applications is called what?
- 1. Utah Teapot
- 2. Pixar Teapot
- 3. Tennessee Teapot
- 4. 3D Teapot
+What is the most preferred image format used for logos in the Wikimedia database?
+ 1. .svg
+ 2. .gif
+ 3. .jpeg
+ 4. .png
 
 <details>
   <summary>Answer</summary>
-  Utah Teapot
+  .svg
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  13 hours 23 minutes</strong> since this server shutdown
+Its been <strong>1 days  13 hours 53 minutes</strong> since this server shutdown
