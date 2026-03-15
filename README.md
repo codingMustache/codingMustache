@@ -15,23 +15,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was the shirt happy to hang around the tank top? Because it was armless
+Hear about the new restaurant called Karma? There’s no menu: You get what you deserve.
 
 
 ## Daily Trivia
 
-While Apple was formed in California, in which western state was Microsoft founded?
- 1. Colorado
- 2. Washington
- 3. New Mexico
- 4. Arizona
+Which of these people was NOT a founder of Apple Inc?
+ 1. Steve Jobs
+ 2. Ronald Wayne
+ 3. Steve Wozniak
+ 4. Jonathan Ive
 
 <details>
   <summary>Answer</summary>
-  New Mexico
+  Jonathan Ive
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  17 hours 23 minutes</strong> since this server shutdown
+Its been <strong>1 days  17 hours 53 minutes</strong> since this server shutdown
