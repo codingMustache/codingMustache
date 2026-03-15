@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the left eye say to the right eye? Between us, something smells!
+A beekeeper was indicted after he confessed to years of stealing at work. They charged him with emBEEzlement
 
 
 ## Daily Trivia
 
-Which computer language would you associate Django framework with?
- 1. Python
- 2. C++
- 3. C#
- 4. Java
+While Apple was formed in California, in which western state was Microsoft founded?
+ 1. Colorado
+ 2. New Mexico
+ 3. Arizona
+ 4. Washington
 
 <details>
   <summary>Answer</summary>
-  Python
+  New Mexico
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  3 hours 53 minutes</strong> since this server shutdown
+Its been <strong>2 days  4 hours 23 minutes</strong> since this server shutdown
