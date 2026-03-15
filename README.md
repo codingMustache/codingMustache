@@ -15,23 +15,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why didn’t the orange win the race? It ran out of juice.
+Cosmetic surgery used to be such a taboo subject.
+Now you can talk about Botox and nobody raises an eyebrow.
 
 
 ## Daily Trivia
 
-On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
- 1. Exclamation Mark
- 2. Asterisk
- 3. Percent Sign
- 4. Dollar Sign
+In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
+ 1. Green
+ 2. Yellow
+ 3. Blue
+ 4. Red
 
 <details>
   <summary>Answer</summary>
-  Exclamation Mark
+  Green
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  23 hours 23 minutes</strong> since this server shutdown
+Its been <strong>1 days  23 hours 53 minutes</strong> since this server shutdown
