@@ -15,23 +15,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What does a clock do when it's hungry? It goes back four seconds!
+Why does Waldo only wear stripes? Because he doesn't want to be spotted.
 
 
 ## Daily Trivia
 
-How many cores does the Intel i7-6950X have?
- 1. 12
- 2. 8
- 3. 10
- 4. 4
+How many Hz does the video standard PAL support?
+ 1. 50
+ 2. 25
+ 3. 60
+ 4. 59
 
 <details>
   <summary>Answer</summary>
-  10
+  50
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  9 hours 23 minutes</strong> since this server shutdown
+Its been <strong>1 days  9 hours 53 minutes</strong> since this server shutdown
