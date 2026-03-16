@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Yesterday a clown held a door open for me. I thought it was a nice jester.
+What did one wall say to the other wall? I'll meet you at the corner!
 
 
 ## Daily Trivia
 
-Which programming language was developed by Sun Microsystems in 1995?
- 1. C++
- 2. Java
- 3. Python
- 4. Solaris OS
+Which of these is not a key value of Agile software development?
+ 1. Individuals and interactions
+ 2. Customer collaboration
+ 3. Responding to change
+ 4. Comprehensive documentation
 
 <details>
   <summary>Answer</summary>
-  Java
+  Comprehensive documentation
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  10 hours 53 minutes</strong> since this server shutdown
+Its been <strong>2 days  11 hours 23 minutes</strong> since this server shutdown
