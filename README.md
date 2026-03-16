@@ -7,36 +7,35 @@ Hello I'm Jorge and I love making things for the internet
 <table>
   <tr>
     <td valign="top" width="75%">
-      <h3>The Bourne Supremacy</h3>
+      <h3>The Bourne Ultimatum</h3>
       <p>undefined</p>
       <p>⭐ <strong>undefined</strong> / 10</p>
     </td>
     <td valign="top" align="right">
-      <img src="undefined" alt="The Bourne Supremacy" width="150px"/>
+      <img src="undefined" alt="The Bourne Ultimatum" width="150px"/>
     </td>
   </tr>
 </table>
 
 ## Joke of the Day
 
-I fear for the calendar, its days are numbered.
-
+A steak pun is a rare medium well done.
 
 
 ## Daily Trivia
 
-While Apple was formed in California, in which western state was Microsoft founded?
- 1. Arizona
- 2. New Mexico
- 3. Colorado
- 4. Washington
+Which of the following computer components can be built using only NAND gates?
+ 1. ALU
+ 2. Register
+ 3. RAM
+ 4. CPU
 
 <details>
   <summary>Answer</summary>
-  New Mexico
+  ALU
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  7 hours 53 minutes</strong> since this server shutdown
+Its been <strong>2 days  8 hours 23 minutes</strong> since this server shutdown
