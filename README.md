@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are mummys scared of vacation? They're afraid to unwind.
+If you want a job in the moisturizer industry, the best advice I can give is to apply daily.
 
 
 ## Daily Trivia
 
-What five letter word is the motto of the IBM Computer company?
- 1. Think
- 2. Pixel
- 3. Logic
- 4. Click
+What is the commonly used keyboard shortcut for the &#039;Copy&#039; function on Windows OS?
+ 1. Alt + X
+ 2. Ctrl + C
+ 3. Alt + C
+ 4. Ctrl + X
 
 <details>
   <summary>Answer</summary>
-  Think
+  Ctrl + C
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  3 hours 53 minutes</strong> since this server shutdown
+Its been <strong>3 days  4 hours 23 minutes</strong> since this server shutdown
