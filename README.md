@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did one wall say to the other wall? I'll meet you at the corner!
+What do you call a beehive without the b's? An eehive.
 
 
 ## Daily Trivia
 
-Which of these is not a key value of Agile software development?
- 1. Individuals and interactions
- 2. Customer collaboration
- 3. Responding to change
- 4. Comprehensive documentation
+What did the name of the Tor Anonymity Network orignially stand for?
+ 1. The Ominous Router
+ 2. The Only Router
+ 3. The Orange Router
+ 4. The Onion Router
 
 <details>
   <summary>Answer</summary>
-  Comprehensive documentation
+  The Onion Router
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  11 hours 23 minutes</strong> since this server shutdown
+Its been <strong>2 days  11 hours 53 minutes</strong> since this server shutdown
