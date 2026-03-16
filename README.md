@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Doctor you've got you help me, I'm addicted to twitter. Doctor: I don't follow you.
+How does a penguin build it’s house? Igloos it together.
 
 
 ## Daily Trivia
 
-.rs is the top-level domain for what country?
- 1. Rwanda
- 2. Russia
- 3. Romania
- 4. Serbia
+What does the Prt Sc button do?
+ 1. Nothing
+ 2. Captures what&#039;s on the screen and copies it to your clipboard
+ 3. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
+ 4. Closes all windows
 
 <details>
   <summary>Answer</summary>
-  Serbia
+  Captures what&#039;s on the screen and copies it to your clipboard
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days 53 minutes</strong> since this server shutdown
+Its been <strong>3 days  1 hours 23 minutes</strong> since this server shutdown
