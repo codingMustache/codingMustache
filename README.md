@@ -7,35 +7,35 @@ Hello I'm Jorge and I love making things for the internet
 <table>
   <tr>
     <td valign="top" width="75%">
-      <h3>The Bourne Ultimatum</h3>
+      <h3>ONE PIECE S02E01 THE BEGINNING AND THE END</h3>
       <p>undefined</p>
       <p>⭐ <strong>undefined</strong> / 10</p>
     </td>
     <td valign="top" align="right">
-      <img src="undefined" alt="The Bourne Ultimatum" width="150px"/>
+      <img src="undefined" alt="ONE PIECE S02E01 THE BEGINNING AND THE END" width="150px"/>
     </td>
   </tr>
 </table>
 
 ## Joke of the Day
 
-What do you call a beehive without the b's? An eehive.
+What type of music do balloons hate? Pop music!
 
 
 ## Daily Trivia
 
-What did the name of the Tor Anonymity Network orignially stand for?
- 1. The Ominous Router
- 2. The Only Router
- 3. The Orange Router
- 4. The Onion Router
+Which data structure does FILO apply to?
+ 1. Queue
+ 2. Heap
+ 3. Tree
+ 4. Stack
 
 <details>
   <summary>Answer</summary>
-  The Onion Router
+  Stack
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  11 hours 53 minutes</strong> since this server shutdown
+Its been <strong>2 days  12 hours 23 minutes</strong> since this server shutdown
