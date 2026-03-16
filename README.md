@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Whoever invented the knock-knock joke should get a no bell prize.
+What are the strongest days of the week? Saturday and Sunday...the rest are weekdays.
 
 
 ## Daily Trivia
 
-Which programming language shares its name with an island in Indonesia?
- 1. Jakarta
- 2. Java
- 3. C
- 4. Python
+Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
+ 1. Python
+ 2. JavaScript
+ 3. PHP
+ 4. C#
 
 <details>
   <summary>Answer</summary>
-  Java
+  JavaScript
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  2 hours 23 minutes</strong> since this server shutdown
+Its been <strong>3 days  2 hours 53 minutes</strong> since this server shutdown
