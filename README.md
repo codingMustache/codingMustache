@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-For Valentine's day, I decided to get my wife some beads for an abacus.  It's the little things that count.
+Want to hear my pizza joke? Never mind, it's too cheesy.
 
 
 ## Daily Trivia
 
-Which data structure does FILO apply to?
- 1. Stack
- 2. Queue
- 3. Heap
- 4. Tree
+What is the maximum value of a 32-bit signed binary integer?
+ 1. 2048
+ 2. 255
+ 3. 9,223,372,036,854,775,807
+ 4. 2,147,483,647
 
 <details>
   <summary>Answer</summary>
-  Stack
+  2,147,483,647
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  21 hours 23 minutes</strong> since this server shutdown
+Its been <strong>2 days  21 hours 53 minutes</strong> since this server shutdown
