@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How does a penguin build it’s house? Igloos it together.
+I met this girl on a dating site and, I don't know, we just clicked.
 
 
 ## Daily Trivia
 
-What does the Prt Sc button do?
- 1. Nothing
- 2. Captures what&#039;s on the screen and copies it to your clipboard
- 3. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
- 4. Closes all windows
+What is the maximum value of a 32-bit signed binary integer?
+ 1. 255
+ 2. 2048
+ 3. 9,223,372,036,854,775,807
+ 4. 2,147,483,647
 
 <details>
   <summary>Answer</summary>
-  Captures what&#039;s on the screen and copies it to your clipboard
+  2,147,483,647
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  1 hours 23 minutes</strong> since this server shutdown
+Its been <strong>3 days  1 hours 53 minutes</strong> since this server shutdown
