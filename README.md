@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Man, I really love my furniture... me and my recliner go way back.
+There's not really any training for garbagemen. They just pick things up as they go.
 
 
 ## Daily Trivia
 
-When Gmail first launched, how much storage did it provide for your email?
- 1. 512MB
- 2. Unlimited
- 3. 1GB
- 4. 5GB
+When was the programming language &quot;C#&quot; released?
+ 1. 2000
+ 2. 2001
+ 3. 1999
+ 4. 1998
 
 <details>
   <summary>Answer</summary>
-  1GB
+  2000
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  5 hours 23 minutes</strong> since this server shutdown
+Its been <strong>3 days  5 hours 53 minutes</strong> since this server shutdown
