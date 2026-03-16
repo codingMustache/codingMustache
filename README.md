@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Want to hear my pizza joke? Never mind, it's too cheesy.
+When does a joke become a dad joke? When it becomes apparent.
 
 
 ## Daily Trivia
 
-What is the maximum value of a 32-bit signed binary integer?
- 1. 2048
- 2. 255
- 3. 9,223,372,036,854,775,807
- 4. 2,147,483,647
+What was the first Android version specifically optimized for tablets?
+ 1. Froyo
+ 2. Honeycomb
+ 3. Eclair
+ 4. Marshmellow
 
 <details>
   <summary>Answer</summary>
-  2,147,483,647
+  Honeycomb
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  21 hours 53 minutes</strong> since this server shutdown
+Its been <strong>2 days  22 hours 23 minutes</strong> since this server shutdown
