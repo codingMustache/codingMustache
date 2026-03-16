@@ -7,35 +7,35 @@ Hello I'm Jorge and I love making things for the internet
 <table>
   <tr>
     <td valign="top" width="75%">
-      <h3>The Bourne Ultimatum</h3>
+      <h3>ONE PIECE S02E01 THE BEGINNING AND THE END</h3>
       <p>undefined</p>
       <p>⭐ <strong>undefined</strong> / 10</p>
     </td>
     <td valign="top" align="right">
-      <img src="undefined" alt="The Bourne Ultimatum" width="150px"/>
+      <img src="undefined" alt="ONE PIECE S02E01 THE BEGINNING AND THE END" width="150px"/>
     </td>
   </tr>
 </table>
 
 ## Joke of the Day
 
-When does a joke become a dad joke? When it becomes apparent.
+Why did the scarecrow win an award? Because he was outstanding in his field.
 
 
 ## Daily Trivia
 
-What was the first Android version specifically optimized for tablets?
- 1. Froyo
- 2. Honeycomb
- 3. Eclair
- 4. Marshmellow
+What port does HTTP run on?
+ 1. 53
+ 2. 23
+ 3. 443
+ 4. 80
 
 <details>
   <summary>Answer</summary>
-  Honeycomb
+  80
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  22 hours 23 minutes</strong> since this server shutdown
+Its been <strong>2 days  22 hours 53 minutes</strong> since this server shutdown
