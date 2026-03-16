@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the difference between roast beef and pea soup. Anyone can roast beef, but nobody can pee soup.
+For Valentine's day, I decided to get my wife some beads for an abacus.  It's the little things that count.
 
 
 ## Daily Trivia
 
-Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
- 1. Enigma Machine
- 2. Skipjack
- 3. Nautilus
- 4. Clipper Chip
+Which data structure does FILO apply to?
+ 1. Stack
+ 2. Queue
+ 3. Heap
+ 4. Tree
 
 <details>
   <summary>Answer</summary>
-  Clipper Chip
+  Stack
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  20 hours 53 minutes</strong> since this server shutdown
+Its been <strong>2 days  21 hours 23 minutes</strong> since this server shutdown
