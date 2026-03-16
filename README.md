@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My boss told me to have a good day. So I went home...
+Why did the man put his money in the freezer? He wanted cold hard cash!
 
 
 ## Daily Trivia
 
-How fast is USB 3.1 Gen 2 theoretically?
- 1. 5 Gb/s
- 2. 10 Gb/s
- 3. 8 Gb/s
- 4. 1 Gb/s
+What is the code name for the mobile operating system Android 7.0?
+ 1. Marshmallow
+ 2. Jelly Bean
+ 3. Nougat
+ 4. Ice Cream Sandwich
 
 <details>
   <summary>Answer</summary>
-  10 Gb/s
+  Nougat
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  18 hours 23 minutes</strong> since this server shutdown
+Its been <strong>2 days  18 hours 53 minutes</strong> since this server shutdown
