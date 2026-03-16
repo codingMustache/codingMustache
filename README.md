@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do rabbits go after they get married? On a bunny-moon.
+They say Dodger Stadium can hold up to fifty-six thousand people, but that is just a ballpark figure.
 
 
 ## Daily Trivia
 
-What is the main CPU is the Sega Mega Drive / Sega Genesis?
- 1. Yamaha YM2612
- 2. Motorola 68000
- 3. Intel 8088
- 4. Zilog Z80
+When was the programming language &quot;C#&quot; released?
+ 1. 1998
+ 2. 2000
+ 3. 1999
+ 4. 2001
 
 <details>
   <summary>Answer</summary>
-  Motorola 68000
+  2000
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  6 hours 23 minutes</strong> since this server shutdown
+Its been <strong>2 days  6 hours 53 minutes</strong> since this server shutdown
