@@ -19,23 +19,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The best time on a clock is 6:30--hands down.
+I fear for the calendar, its days are numbered.
+
 
 
 ## Daily Trivia
 
-In web design, what does CSS stand for?
- 1. Computer Style Sheet
- 2. Corrective Style Sheet
- 3. Cascading Style Sheet
- 4. Counter Strike: Source
+While Apple was formed in California, in which western state was Microsoft founded?
+ 1. Arizona
+ 2. New Mexico
+ 3. Colorado
+ 4. Washington
 
 <details>
   <summary>Answer</summary>
-  Cascading Style Sheet
+  New Mexico
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  7 hours 23 minutes</strong> since this server shutdown
+Its been <strong>2 days  7 hours 53 minutes</strong> since this server shutdown
