@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A steak pun is a rare medium well done.
+What's black and white and read all over? The newspaper.
 
 
 ## Daily Trivia
 
-Which of the following computer components can be built using only NAND gates?
- 1. ALU
- 2. Register
- 3. RAM
- 4. CPU
+In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
+ 1. static
+ 2. absolute
+ 3. relative
+ 4. center
 
 <details>
   <summary>Answer</summary>
-  ALU
+  center
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  8 hours 23 minutes</strong> since this server shutdown
+Its been <strong>2 days  8 hours 53 minutes</strong> since this server shutdown
