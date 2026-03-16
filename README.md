@@ -7,35 +7,35 @@ Hello I'm Jorge and I love making things for the internet
 <table>
   <tr>
     <td valign="top" width="75%">
-      <h3>ONE PIECE S02E01 THE BEGINNING AND THE END</h3>
+      <h3>The Bourne Ultimatum</h3>
       <p>undefined</p>
       <p>⭐ <strong>undefined</strong> / 10</p>
     </td>
     <td valign="top" align="right">
-      <img src="undefined" alt="ONE PIECE S02E01 THE BEGINNING AND THE END" width="150px"/>
+      <img src="undefined" alt="The Bourne Ultimatum" width="150px"/>
     </td>
   </tr>
 </table>
 
 ## Joke of the Day
 
-Why is Peter Pan always flying? Because he Neverlands.
+What's the difference between roast beef and pea soup. Anyone can roast beef, but nobody can pee soup.
 
 
 ## Daily Trivia
 
-What was the first company to use the term &quot;Golden Master&quot;?
- 1. Apple
- 2. Microsoft
- 3. IBM
- 4. Google
+Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
+ 1. Enigma Machine
+ 2. Skipjack
+ 3. Nautilus
+ 4. Clipper Chip
 
 <details>
   <summary>Answer</summary>
-  Apple
+  Clipper Chip
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  20 hours 23 minutes</strong> since this server shutdown
+Its been <strong>2 days  20 hours 53 minutes</strong> since this server shutdown
