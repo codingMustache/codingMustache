@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you make a hankie dance? Put a little boogie in it.
+What did the ocean say to the shore? Nothing, it just waved.
 
 
 ## Daily Trivia
 
-What does the term MIME stand for, in regards to computing?
- 1. Mail Interleave Method Exchange
- 2. Mail Internet Mail Exchange
- 3. Multipurpose Interleave Mail Exchange
- 4. Multipurpose Internet Mail Extensions
+What does the acronym CDN stand for in terms of networking?
+ 1. Compressed Data Network
+ 2. Content Delivery Network
+ 3. Computational Data Network
+ 4. Content Distribution Network
 
 <details>
   <summary>Answer</summary>
-  Multipurpose Internet Mail Extensions
+  Content Delivery Network
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  15 hours 53 minutes</strong> since this server shutdown
+Its been <strong>2 days  16 hours 23 minutes</strong> since this server shutdown
