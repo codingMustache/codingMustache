@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was the shirt happy to hang around the tank top? Because it was armless
+My boss told me to have a good day. So I went home...
 
 
 ## Daily Trivia
 
-Which programming language was developed by Sun Microsystems in 1995?
- 1. Python
- 2. Java
- 3. Solaris OS
- 4. C++
+How fast is USB 3.1 Gen 2 theoretically?
+ 1. 5 Gb/s
+ 2. 10 Gb/s
+ 3. 8 Gb/s
+ 4. 1 Gb/s
 
 <details>
   <summary>Answer</summary>
-  Java
+  10 Gb/s
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  17 hours 53 minutes</strong> since this server shutdown
+Its been <strong>2 days  18 hours 23 minutes</strong> since this server shutdown
