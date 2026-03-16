@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A girl once asked me what my heart desired, apparently blood, oxygen and neural messages were all wrong answers
+I boiled a funny bone last night and had a laughing stock
 
 
 ## Daily Trivia
 
-What was the name of the first Bulgarian personal computer?
- 1. Pravetz 8D
- 2. IZOT 1030
- 3. IMKO-1
- 4. Pravetz 82
+While Apple was formed in California, in which western state was Microsoft founded?
+ 1. Colorado
+ 2. Washington
+ 3. Arizona
+ 4. New Mexico
 
 <details>
   <summary>Answer</summary>
-  IMKO-1
+  New Mexico
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  9 hours 23 minutes</strong> since this server shutdown
+Its been <strong>2 days  9 hours 53 minutes</strong> since this server shutdown
