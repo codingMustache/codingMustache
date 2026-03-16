@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why is there always a gate around cemeteries? Because people are always dying to get in.
+I’ve got this disease where I can’t stop making airport puns. The doctor says it terminal.
 
 
 ## Daily Trivia
 
-Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
- 1. 44.1 kHz
- 2. 20.5 kHz
- 3. 1.5 MHz
- 4. 32.0 kHz
+In computing terms, typically what does CLI stand for?
+ 1. Common Language Input
+ 2. Control Line Interface
+ 3. Common Language Interface
+ 4. Command Line Interface
 
 <details>
   <summary>Answer</summary>
-  44.1 kHz
+  Command Line Interface
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  16 hours 53 minutes</strong> since this server shutdown
+Its been <strong>2 days  17 hours 23 minutes</strong> since this server shutdown
