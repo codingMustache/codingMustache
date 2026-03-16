@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the difference between a poorly dressed man on a tricycle and a well dressed man on a bicycle? Attire.
+Why is Peter Pan always flying? Because he Neverlands.
 
 
 ## Daily Trivia
 
-Which programming language shares its name with an island in Indonesia?
- 1. Python
- 2. C
- 3. Jakarta
- 4. Java
+What was the first company to use the term &quot;Golden Master&quot;?
+ 1. Apple
+ 2. Microsoft
+ 3. IBM
+ 4. Google
 
 <details>
   <summary>Answer</summary>
-  Java
+  Apple
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  19 hours 53 minutes</strong> since this server shutdown
+Its been <strong>2 days  20 hours 23 minutes</strong> since this server shutdown
