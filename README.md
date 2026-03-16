@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did Yoda say when he saw himself in 4K? "HDMI"
+How do you make a hankie dance? Put a little boogie in it.
 
 
 ## Daily Trivia
 
-What port does HTTP run on?
- 1. 443
- 2. 53
- 3. 80
- 4. 23
+What does the term MIME stand for, in regards to computing?
+ 1. Mail Interleave Method Exchange
+ 2. Mail Internet Mail Exchange
+ 3. Multipurpose Interleave Mail Exchange
+ 4. Multipurpose Internet Mail Extensions
 
 <details>
   <summary>Answer</summary>
-  80
+  Multipurpose Internet Mail Extensions
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  15 hours 23 minutes</strong> since this server shutdown
+Its been <strong>2 days  15 hours 53 minutes</strong> since this server shutdown
