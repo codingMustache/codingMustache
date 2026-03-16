@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the ocean say to the shore? Nothing, it just waved.
+Why is there always a gate around cemeteries? Because people are always dying to get in.
 
 
 ## Daily Trivia
 
-What does the acronym CDN stand for in terms of networking?
- 1. Compressed Data Network
- 2. Content Delivery Network
- 3. Computational Data Network
- 4. Content Distribution Network
+Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
+ 1. 44.1 kHz
+ 2. 20.5 kHz
+ 3. 1.5 MHz
+ 4. 32.0 kHz
 
 <details>
   <summary>Answer</summary>
-  Content Delivery Network
+  44.1 kHz
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  16 hours 23 minutes</strong> since this server shutdown
+Its been <strong>2 days  16 hours 53 minutes</strong> since this server shutdown
