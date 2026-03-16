@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I boiled a funny bone last night and had a laughing stock
+My sister bet me $15 that I couldn't build a car out of spaghetti. You should have seen the look on her face as I drove pasta.
 
 
 ## Daily Trivia
 
-While Apple was formed in California, in which western state was Microsoft founded?
- 1. Colorado
- 2. Washington
- 3. Arizona
- 4. New Mexico
+How many bits make up the significand portion of a single precision floating point number?
+ 1. 8
+ 2. 23
+ 3. 15
+ 4. 53
 
 <details>
   <summary>Answer</summary>
-  New Mexico
+  23
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  9 hours 53 minutes</strong> since this server shutdown
+Its been <strong>2 days  10 hours 23 minutes</strong> since this server shutdown
