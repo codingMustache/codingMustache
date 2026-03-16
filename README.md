@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-They say Dodger Stadium can hold up to fifty-six thousand people, but that is just a ballpark figure.
+The best time on a clock is 6:30--hands down.
 
 
 ## Daily Trivia
 
-When was the programming language &quot;C#&quot; released?
- 1. 1998
- 2. 2000
- 3. 1999
- 4. 2001
+In web design, what does CSS stand for?
+ 1. Computer Style Sheet
+ 2. Corrective Style Sheet
+ 3. Cascading Style Sheet
+ 4. Counter Strike: Source
 
 <details>
   <summary>Answer</summary>
-  2000
+  Cascading Style Sheet
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  6 hours 53 minutes</strong> since this server shutdown
+Its been <strong>2 days  7 hours 23 minutes</strong> since this server shutdown
