@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What has three letters and starts with gas? A Car.
+What's the difference between a rooster and a crow? A rooster can crow but a crow cannot rooster.
 
 
 ## Daily Trivia
 
-What is the name of Layer 7 of the OSI model?
- 1. Application
- 2. Present
- 3. Network
- 4. Session
+If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
+ 1. C++
+ 2. JavaScript
+ 3. Python
+ 4. Binary
 
 <details>
   <summary>Answer</summary>
-  Application
+  Binary
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  13 hours 23 minutes</strong> since this server shutdown
+Its been <strong>2 days  13 hours 53 minutes</strong> since this server shutdown
