@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-“My Dog has no nose.” “How does he smell?” “Awful”
+What has three letters and starts with gas? A Car.
 
 
 ## Daily Trivia
 
-Which operating system was released first?
- 1. Windows
- 2. Linux
- 3. OS/2
- 4. Mac OS
+What is the name of Layer 7 of the OSI model?
+ 1. Application
+ 2. Present
+ 3. Network
+ 4. Session
 
 <details>
   <summary>Answer</summary>
-  Mac OS
+  Application
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  12 hours 53 minutes</strong> since this server shutdown
+Its been <strong>2 days  13 hours 23 minutes</strong> since this server shutdown
