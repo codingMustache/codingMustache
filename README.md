@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many hipsters does it take to change a lightbulb? Oh, it's a really obscure number. You've probably never heard of it.
+What do birds give out on Halloween? Tweets.
 
 
 ## Daily Trivia
 
-What was the first Android version specifically optimized for tablets?
- 1. Marshmellow
- 2. Eclair
- 3. Honeycomb
- 4. Froyo
+What is the domain name for the country Tuvalu?
+ 1. .tu
+ 2. .tt
+ 3. .tl
+ 4. .tv
 
 <details>
   <summary>Answer</summary>
-  Honeycomb
+  .tv
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  23 hours 23 minutes</strong> since this server shutdown
+Its been <strong>2 days  23 hours 53 minutes</strong> since this server shutdown
