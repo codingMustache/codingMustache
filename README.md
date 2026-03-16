@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the difference between a rooster and a crow? A rooster can crow but a crow cannot rooster.
+What's the difference between a guitar and a fish? You can tune a guitar but you can't "tuna" fish!
 
 
 ## Daily Trivia
 
-If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
- 1. C++
- 2. JavaScript
- 3. Python
- 4. Binary
+Dutch computer scientist Mark Overmars is known for creating which game development engine?
+ 1. Game Maker
+ 2. Stencyl
+ 3. Construct
+ 4. Torque 2D
 
 <details>
   <summary>Answer</summary>
-  Binary
+  Game Maker
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  13 hours 53 minutes</strong> since this server shutdown
+Its been <strong>2 days  14 hours 23 minutes</strong> since this server shutdown
