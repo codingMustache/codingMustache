@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-If you want a job in the moisturizer industry, the best advice I can give is to apply daily.
+What do you call a criminal going down the stairs? Condescending
 
 
 ## Daily Trivia
 
-What is the commonly used keyboard shortcut for the &#039;Copy&#039; function on Windows OS?
- 1. Alt + X
- 2. Ctrl + C
- 3. Alt + C
- 4. Ctrl + X
+Which of the following languages is used as a scripting language in the Unity 3D game engine?
+ 1. C++
+ 2. C#
+ 3. Java
+ 4. Objective-C
 
 <details>
   <summary>Answer</summary>
-  Ctrl + C
+  C#
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  4 hours 23 minutes</strong> since this server shutdown
+Its been <strong>3 days  4 hours 53 minutes</strong> since this server shutdown
