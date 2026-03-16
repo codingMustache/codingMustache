@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I met this girl on a dating site and, I don't know, we just clicked.
+Whoever invented the knock-knock joke should get a no bell prize.
 
 
 ## Daily Trivia
 
-What is the maximum value of a 32-bit signed binary integer?
- 1. 255
- 2. 2048
- 3. 9,223,372,036,854,775,807
- 4. 2,147,483,647
+Which programming language shares its name with an island in Indonesia?
+ 1. Jakarta
+ 2. Java
+ 3. C
+ 4. Python
 
 <details>
   <summary>Answer</summary>
-  2,147,483,647
+  Java
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  1 hours 53 minutes</strong> since this server shutdown
+Its been <strong>3 days  2 hours 23 minutes</strong> since this server shutdown
