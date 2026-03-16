@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a criminal going down the stairs? Condescending
+Man, I really love my furniture... me and my recliner go way back.
 
 
 ## Daily Trivia
 
-Which of the following languages is used as a scripting language in the Unity 3D game engine?
- 1. C++
- 2. C#
- 3. Java
- 4. Objective-C
+When Gmail first launched, how much storage did it provide for your email?
+ 1. 512MB
+ 2. Unlimited
+ 3. 1GB
+ 4. 5GB
 
 <details>
   <summary>Answer</summary>
-  C#
+  1GB
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  4 hours 53 minutes</strong> since this server shutdown
+Its been <strong>3 days  5 hours 23 minutes</strong> since this server shutdown
