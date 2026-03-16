@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-“Hold on, I have something in my shoe”  “I’m pretty sure it’s a foot”
+What did Yoda say when he saw himself in 4K? "HDMI"
 
 
 ## Daily Trivia
 
-What does RAID stand for?
- 1. Rapid Access for Indexed Devices
- 2. Range of Applications with Identical Designs
- 3. Randomized Abstract Identification Description
- 4. Redundant Array of Independent Disks
+What port does HTTP run on?
+ 1. 443
+ 2. 53
+ 3. 80
+ 4. 23
 
 <details>
   <summary>Answer</summary>
-  Redundant Array of Independent Disks
+  80
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  14 hours 53 minutes</strong> since this server shutdown
+Its been <strong>2 days  15 hours 23 minutes</strong> since this server shutdown
