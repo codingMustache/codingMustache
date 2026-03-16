@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I’ve got this disease where I can’t stop making airport puns. The doctor says it terminal.
+Why was the shirt happy to hang around the tank top? Because it was armless
 
 
 ## Daily Trivia
 
-In computing terms, typically what does CLI stand for?
- 1. Common Language Input
- 2. Control Line Interface
- 3. Common Language Interface
- 4. Command Line Interface
+Which programming language was developed by Sun Microsystems in 1995?
+ 1. Python
+ 2. Java
+ 3. Solaris OS
+ 4. C++
 
 <details>
   <summary>Answer</summary>
-  Command Line Interface
+  Java
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  17 hours 23 minutes</strong> since this server shutdown
+Its been <strong>2 days  17 hours 53 minutes</strong> since this server shutdown
