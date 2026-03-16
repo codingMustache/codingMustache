@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What type of music do balloons hate? Pop music!
+“My Dog has no nose.” “How does he smell?” “Awful”
 
 
 ## Daily Trivia
 
-Which data structure does FILO apply to?
- 1. Queue
- 2. Heap
- 3. Tree
- 4. Stack
+Which operating system was released first?
+ 1. Windows
+ 2. Linux
+ 3. OS/2
+ 4. Mac OS
 
 <details>
   <summary>Answer</summary>
-  Stack
+  Mac OS
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  12 hours 23 minutes</strong> since this server shutdown
+Its been <strong>2 days  12 hours 53 minutes</strong> since this server shutdown
