@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What time did the man go to the dentist? Tooth hurt-y.
+Why are mummys scared of vacation? They're afraid to unwind.
 
 
 ## Daily Trivia
 
-What does the &#039;S&#039; in the RSA encryption algorithm stand for?
- 1. Shamir
- 2. Stable
- 3. Schottky
- 4. Secure
+What five letter word is the motto of the IBM Computer company?
+ 1. Think
+ 2. Pixel
+ 3. Logic
+ 4. Click
 
 <details>
   <summary>Answer</summary>
-  Shamir
+  Think
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  3 hours 23 minutes</strong> since this server shutdown
+Its been <strong>3 days  3 hours 53 minutes</strong> since this server shutdown
