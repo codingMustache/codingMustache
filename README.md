@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What are the strongest days of the week? Saturday and Sunday...the rest are weekdays.
+What time did the man go to the dentist? Tooth hurt-y.
 
 
 ## Daily Trivia
 
-Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
- 1. Python
- 2. JavaScript
- 3. PHP
- 4. C#
+What does the &#039;S&#039; in the RSA encryption algorithm stand for?
+ 1. Shamir
+ 2. Stable
+ 3. Schottky
+ 4. Secure
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  Shamir
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  2 hours 53 minutes</strong> since this server shutdown
+Its been <strong>3 days  3 hours 23 minutes</strong> since this server shutdown
