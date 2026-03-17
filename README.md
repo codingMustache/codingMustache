@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a pig with three eyes? Piiig
+I boiled a funny bone last night and had a laughing stock
 
 
 ## Daily Trivia
 
-On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
- 1. Dollar Sign
- 2. Percent Sign
- 3. Asterisk
- 4. Exclamation Mark
+Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
+ 1. Heartbleed
+ 2. Shellscript
+ 3. Corrupted Blood
+ 4. Shellshock
 
 <details>
   <summary>Answer</summary>
-  Exclamation Mark
+  Heartbleed
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  6 hours 23 minutes</strong> since this server shutdown
+Its been <strong>3 days  6 hours 53 minutes</strong> since this server shutdown
