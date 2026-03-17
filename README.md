@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-There's not really any training for garbagemen. They just pick things up as they go.
+What do you call a pig with three eyes? Piiig
 
 
 ## Daily Trivia
 
-When was the programming language &quot;C#&quot; released?
- 1. 2000
- 2. 2001
- 3. 1999
- 4. 1998
+On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
+ 1. Dollar Sign
+ 2. Percent Sign
+ 3. Asterisk
+ 4. Exclamation Mark
 
 <details>
   <summary>Answer</summary>
-  2000
+  Exclamation Mark
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  5 hours 53 minutes</strong> since this server shutdown
+Its been <strong>3 days  6 hours 23 minutes</strong> since this server shutdown
