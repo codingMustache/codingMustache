@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why didn't the number 4 get into the nightclub? Because he is 2 square.
+What do you call a crowd of chess players bragging about their wins in a hotel lobby? Chess nuts boasting in an open foyer.
 
 
 ## Daily Trivia
 
-How many values can a single byte represent?
- 1. 1024
- 2. 1
- 3. 256
- 4. 8
+All of the following programs are classified as raster graphics editors EXCEPT:
+ 1. Adobe Photoshop
+ 2. Inkscape
+ 3. GIMP
+ 4. Paint.NET
 
 <details>
   <summary>Answer</summary>
-  256
+  Inkscape
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  22 hours 53 minutes</strong> since this server shutdown
+Its been <strong>3 days  23 hours 23 minutes</strong> since this server shutdown
