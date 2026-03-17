@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Whenever the cashier at the grocery store asks my dad if he would like the milk in a bag he replies, ‘No, just leave it in the carton!’
+Why can’t you hear a pterodactyl go to the bathroom? The p is silent.
 
 
 ## Daily Trivia
 
-Which of these names was an actual codename for a cancelled Microsoft project?
- 1. Saturn
- 2. Pollux
- 3. Enceladus
- 4. Neptune
+The teapot often seen in many 3D modeling applications is called what?
+ 1. Pixar Teapot
+ 2. 3D Teapot
+ 3. Tennessee Teapot
+ 4. Utah Teapot
 
 <details>
   <summary>Answer</summary>
-  Neptune
+  Utah Teapot
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  12 hours 53 minutes</strong> since this server shutdown
+Its been <strong>3 days  13 hours 23 minutes</strong> since this server shutdown
