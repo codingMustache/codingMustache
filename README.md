@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What’s E.T. short for? He’s only got little legs.
+What did the big flower say to the littler flower? Hi, bud!
 
 
 ## Daily Trivia
 
-If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
- 1. C++
- 2. Binary
- 3. JavaScript
- 4. Python
+Lenovo acquired IBM&#039;s personal computer division, including the ThinkPad line of laptops and tablets, in what year?
+ 1. 1999
+ 2. 2002
+ 3. 2008
+ 4. 2005
 
 <details>
   <summary>Answer</summary>
-  Binary
+  2005
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days 53 minutes</strong> since this server shutdown
+Its been <strong>4 days  1 hours 23 minutes</strong> since this server shutdown
