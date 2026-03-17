@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you get a baby alien to sleep?  You rocket.
+I really want to buy one of those supermarket checkout dividers, but the cashier keeps putting it back.
 
 
 ## Daily Trivia
 
-In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
- 1. &lt;marquee&gt;&lt;/marquee&gt;
- 2. &lt;slide&gt;&lt;/slide&gt;
- 3. &lt;move&gt;&lt;/move&gt;
- 4. &lt;scroll&gt;&lt;/scroll&gt;
+Which of the following computer components can be built using only NAND gates?
+ 1. ALU
+ 2. Register
+ 3. RAM
+ 4. CPU
 
 <details>
   <summary>Answer</summary>
-  &lt;marquee&gt;&lt;/marquee&gt;
+  ALU
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  2 hours 53 minutes</strong> since this server shutdown
+Its been <strong>4 days  3 hours 23 minutes</strong> since this server shutdown
