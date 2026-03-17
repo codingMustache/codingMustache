@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Thanks for explaining the word "many" to me. It means a lot.
+Where do rabbits go after they get married? On a bunny-moon.
 
 
 ## Daily Trivia
 
-What does &quot;LCD&quot; stand for?
- 1. Liquid Crystal Display
- 2. Long Continuous Design
- 3. Last Common Difference
- 4. Language Control Design
+How many bits make up the significand portion of a single precision floating point number?
+ 1. 23
+ 2. 8
+ 3. 53
+ 4. 15
 
 <details>
   <summary>Answer</summary>
-  Liquid Crystal Display
+  23
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  20 hours 53 minutes</strong> since this server shutdown
+Its been <strong>3 days  21 hours 23 minutes</strong> since this server shutdown
