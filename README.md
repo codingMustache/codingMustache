@@ -16,34 +16,34 @@ Hello I'm Jorge and I love making things for the internet
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://image.tmdb.org/t/p/w300_and_h300_face/jCWOkfMLsT2sGHadCkmR65MWtJu.jpg" alt="Aqua Teen Hunger Force" width="100%" height="auto"/></td>
-      <td><strong>Aqua Teen Hunger Force</strong></td>
-      <td><code>S01E03</code> <em>Bus Of The Undead</em></td>
-      <td>⭐ 7.54 / 10</td>
-      <td>The surreal adventures of three anthropomorphic fast food items: Master Shake, Frylock and Meatwad, and their human nextdoor neighbor, Carl Brutananadilewski.</td>
+      <td><img src="https://image.tmdb.org/t/p/w300_and_h300_face/ng3cMtxYKt1OSQYqFlnKWnVsqNO.jpg" alt="The Walking Dead" width="100%" height="auto"/></td>
+      <td><strong>The Walking Dead</strong></td>
+      <td><code>S07E07</code> <em>Sing Me A Song</em></td>
+      <td>⭐ 8.08 / 10</td>
+      <td>Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way.</td>
     </tr>
   </tbody>
 </table>
 
 ## Joke of the Day
 
-I boiled a funny bone last night and had a laughing stock
+Past, present, and future walked into a bar.... It was tense.
 
 
 ## Daily Trivia
 
-Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
- 1. Heartbleed
- 2. Shellscript
- 3. Corrupted Blood
- 4. Shellshock
+What was the name of the image that features as the default background wallpaper for Windows XP?
+ 1. Bliss
+ 2. Azul
+ 3. Red moon desert
+ 4. Tulips
 
 <details>
   <summary>Answer</summary>
-  Heartbleed
+  Bliss
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  6 hours 53 minutes</strong> since this server shutdown
+Its been <strong>3 days  7 hours 23 minutes</strong> since this server shutdown
