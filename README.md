@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What animal is always at a game of cricket? A bat.
+Want to hear my pizza joke? Never mind, it's too cheesy.
 
 
 ## Daily Trivia
 
-Which of the following computer components can be built using only NAND gates?
- 1. RAM
- 2. ALU
- 3. CPU
- 4. Register
+Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
+ 1. C#
+ 2. Python
+ 3. PHP
+ 4. JavaScript
 
 <details>
   <summary>Answer</summary>
-  ALU
+  JavaScript
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  21 hours 53 minutes</strong> since this server shutdown
+Its been <strong>3 days  22 hours 23 minutes</strong> since this server shutdown
