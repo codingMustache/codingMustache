@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What lies at the bottom of the ocean and twitches? A nervous wreck.
+Yesterday, I accidentally swallowed some food coloring. The doctor says I’m okay, but I feel like I’ve dyed a little inside.
 
 
 ## Daily Trivia
 
-In programming, what do you call functions with the same name but different implementations?
- 1. Abstracting
- 2. Overriding
- 3. Inheriting
- 4. Overloading
+Which of these is not a layer in the OSI model for data communications?
+ 1. Connection Layer
+ 2. Transport Layer
+ 3. Physical Layer
+ 4. Application Layer
 
 <details>
   <summary>Answer</summary>
-  Overloading
+  Connection Layer
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  13 hours 53 minutes</strong> since this server shutdown
+Its been <strong>3 days  14 hours 23 minutes</strong> since this server shutdown
