@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Want to hear my pizza joke? Never mind, it's too cheesy.
+Why didn't the number 4 get into the nightclub? Because he is 2 square.
 
 
 ## Daily Trivia
 
-Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
- 1. C#
- 2. Python
- 3. PHP
- 4. JavaScript
+How many values can a single byte represent?
+ 1. 1024
+ 2. 1
+ 3. 256
+ 4. 8
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  256
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  22 hours 23 minutes</strong> since this server shutdown
+Its been <strong>3 days  22 hours 53 minutes</strong> since this server shutdown
