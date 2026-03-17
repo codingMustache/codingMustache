@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the big flower say to the littler flower? Hi, bud!
+I went on a date last night with a girl from the zoo. It was great. She’s a keeper.
 
 
 ## Daily Trivia
 
-Lenovo acquired IBM&#039;s personal computer division, including the ThinkPad line of laptops and tablets, in what year?
- 1. 1999
- 2. 2002
- 3. 2008
- 4. 2005
+What does the &quot;MP&quot; stand for in MP3?
+ 1. Micro Point
+ 2. Moving Picture
+ 3. Multi Pass
+ 4. Music Player
 
 <details>
   <summary>Answer</summary>
-  2005
+  Moving Picture
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  1 hours 23 minutes</strong> since this server shutdown
+Its been <strong>4 days  1 hours 53 minutes</strong> since this server shutdown
