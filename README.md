@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear the one about the guy with the broken hearing aid? Neither did he.
+What’s E.T. short for? He’s only got little legs.
 
 
 ## Daily Trivia
 
-According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:
- 1. A&#039;B + B&#039;A
- 2. A&#039; + B&#039;
- 3. A&#039;B&#039;
- 4. AB&#039; + AB
+If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
+ 1. C++
+ 2. Binary
+ 3. JavaScript
+ 4. Python
 
 <details>
   <summary>Answer</summary>
-  A&#039; + B&#039;
+  Binary
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days 23 minutes</strong> since this server shutdown
+Its been <strong>4 days 53 minutes</strong> since this server shutdown
