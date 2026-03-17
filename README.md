@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you know that protons have mass? I didn't even know they were catholic.
+I got a reversible jacket for Christmas, I can't wait to see how it turns out.
 
 
 ## Daily Trivia
 
-The C programming language was created by this American computer scientist. 
- 1. Tim Berners Lee
- 2. Dennis Ritchie
- 3. Willis Ware
- 4. al-Khwārizmī
+The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
+ 1. Tuvalu
+ 2. Fiji
+ 3. Marshall Islands
+ 4. Micronesia
 
 <details>
   <summary>Answer</summary>
-  Dennis Ritchie
+  Micronesia
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  16 hours 23 minutes</strong> since this server shutdown
+Its been <strong>3 days  16 hours 53 minutes</strong> since this server shutdown
