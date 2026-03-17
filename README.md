@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What musical instrument is found in the bathroom? A tuba toothpaste.
+Why is no one friends with Dracula? Because he's a pain in the neck.
 
 
 ## Daily Trivia
 
-What does the term USB stand for?
- 1. Unified Signal Bus
- 2. Unityped Semtex Backer
- 3. Universal Simtex Blot
- 4. Universal Serial Bus
+In computing, what does LAN stand for?
+ 1. Long Antenna Node
+ 2. Light Access Node
+ 3. Land Address Navigation
+ 4. Local Area Network
 
 <details>
   <summary>Answer</summary>
-  Universal Serial Bus
+  Local Area Network
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  17 hours 23 minutes</strong> since this server shutdown
+Its been <strong>3 days  17 hours 53 minutes</strong> since this server shutdown
