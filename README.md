@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I really want to buy one of those supermarket checkout dividers, but the cashier keeps putting it back.
+Why did the tree go to the dentist? It needed a root canal.
 
 
 ## Daily Trivia
 
-Which of the following computer components can be built using only NAND gates?
- 1. ALU
- 2. Register
- 3. RAM
- 4. CPU
+Laserjet and inkjet printers are both examples of what type of printer?
+ 1. Impact printer
+ 2. Daisywheel printer
+ 3. Dot matrix printer
+ 4. Non-impact printer
 
 <details>
   <summary>Answer</summary>
-  ALU
+  Non-impact printer
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  3 hours 23 minutes</strong> since this server shutdown
+Its been <strong>4 days  3 hours 53 minutes</strong> since this server shutdown
