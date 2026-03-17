@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the shy pebble wish for? That she was a little boulder.
+What’s E.T. short for? He’s only got little legs.
 
 
 ## Daily Trivia
 
-The name of technology company HP stands for what?
- 1. Hellman-Pohl
- 2. Hewlett-Packard
- 3. Husker-Pollosk
- 4. Howard Packmann
+What does GHz stand for?
+ 1. Gigahertz
+ 2. Gigahetz
+ 3. Gigahatz
+ 4. Gigahotz
 
 <details>
   <summary>Answer</summary>
-  Hewlett-Packard
+  Gigahertz
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  10 hours 23 minutes</strong> since this server shutdown
+Its been <strong>3 days  10 hours 53 minutes</strong> since this server shutdown
