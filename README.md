@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was the big cat disqualified from the race? Because it was a cheetah.
+Whenever the cashier at the grocery store asks my dad if he would like the milk in a bag he replies, ‘No, just leave it in the carton!’
 
 
 ## Daily Trivia
 
-In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
- 1. printf(&quot;Hello World&quot;)
- 2. print(&quot;Hello World&quot;)
- 3. echo &quot;Hello World&quot;
- 4. console.log(&quot;Hello World&quot;)
+Which of these names was an actual codename for a cancelled Microsoft project?
+ 1. Saturn
+ 2. Pollux
+ 3. Enceladus
+ 4. Neptune
 
 <details>
   <summary>Answer</summary>
-  print(&quot;Hello World&quot;)
+  Neptune
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  12 hours 23 minutes</strong> since this server shutdown
+Its been <strong>3 days  12 hours 53 minutes</strong> since this server shutdown
