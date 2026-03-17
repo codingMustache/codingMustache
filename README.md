@@ -27,23 +27,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What’s E.T. short for? He’s only got little legs.
+What do you call a monkey in a mine field? A babooooom!
+
 
 
 ## Daily Trivia
 
-What does GHz stand for?
- 1. Gigahertz
- 2. Gigahetz
- 3. Gigahatz
- 4. Gigahotz
+What is the main CPU is the Sega Mega Drive / Sega Genesis?
+ 1. Motorola 68000
+ 2. Yamaha YM2612
+ 3. Intel 8088
+ 4. Zilog Z80
 
 <details>
   <summary>Answer</summary>
-  Gigahertz
+  Motorola 68000
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  10 hours 53 minutes</strong> since this server shutdown
+Its been <strong>3 days  11 hours 23 minutes</strong> since this server shutdown
