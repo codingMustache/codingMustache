@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why is no one friends with Dracula? Because he's a pain in the neck.
+Ben & Jerry's really need to improve their operation. The only way to get there is down a rocky road.
 
 
 ## Daily Trivia
 
-In computing, what does LAN stand for?
- 1. Long Antenna Node
- 2. Light Access Node
- 3. Land Address Navigation
- 4. Local Area Network
+What does AD stand for in relation to Windows Operating Systems? 
+ 1. Active Directory
+ 2. Active Department
+ 3. Automated Database
+ 4. Alternative Drive
 
 <details>
   <summary>Answer</summary>
-  Local Area Network
+  Active Directory
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  17 hours 53 minutes</strong> since this server shutdown
+Its been <strong>3 days  18 hours 23 minutes</strong> since this server shutdown
