@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The rotation of earth really makes my day.
+Did you know that protons have mass? I didn't even know they were catholic.
 
 
 ## Daily Trivia
 
-America Online (AOL) started out as which of these online service providers?
- 1. Quantum Link
- 2. GEnie
- 3. Prodigy
- 4. CompuServe
+The C programming language was created by this American computer scientist. 
+ 1. Tim Berners Lee
+ 2. Dennis Ritchie
+ 3. Willis Ware
+ 4. al-Khwārizmī
 
 <details>
   <summary>Answer</summary>
-  Quantum Link
+  Dennis Ritchie
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  15 hours 53 minutes</strong> since this server shutdown
+Its been <strong>3 days  16 hours 23 minutes</strong> since this server shutdown
