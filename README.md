@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why can’t you hear a pterodactyl go to the bathroom? The p is silent.
+What lies at the bottom of the ocean and twitches? A nervous wreck.
 
 
 ## Daily Trivia
 
-The teapot often seen in many 3D modeling applications is called what?
- 1. Pixar Teapot
- 2. 3D Teapot
- 3. Tennessee Teapot
- 4. Utah Teapot
+In programming, what do you call functions with the same name but different implementations?
+ 1. Abstracting
+ 2. Overriding
+ 3. Inheriting
+ 4. Overloading
 
 <details>
   <summary>Answer</summary>
-  Utah Teapot
+  Overloading
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  13 hours 23 minutes</strong> since this server shutdown
+Its been <strong>3 days  13 hours 53 minutes</strong> since this server shutdown
