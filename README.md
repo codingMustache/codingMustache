@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A man walks into a bar and orders helicopter flavor chips. The barman replies “sorry mate we only do plain”
+The rotation of earth really makes my day.
 
 
 ## Daily Trivia
 
-How many cores does the Intel i7-6950X have?
- 1. 10
- 2. 4
- 3. 8
- 4. 12
+America Online (AOL) started out as which of these online service providers?
+ 1. Quantum Link
+ 2. GEnie
+ 3. Prodigy
+ 4. CompuServe
 
 <details>
   <summary>Answer</summary>
-  10
+  Quantum Link
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  15 hours 23 minutes</strong> since this server shutdown
+Its been <strong>3 days  15 hours 53 minutes</strong> since this server shutdown
