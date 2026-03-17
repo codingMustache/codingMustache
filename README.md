@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Two fish are in a tank, one turns to the other and says, "how do you drive this thing?"
+Did you hear the one about the giant pickle?  He was kind of a big dill.
 
 
 ## Daily Trivia
 
-Laserjet and inkjet printers are both examples of what type of printer?
- 1. Non-impact printer
- 2. Impact printer
- 3. Daisywheel printer
- 4. Dot matrix printer
+Which of these programming languages is a low-level language?
+ 1. C#
+ 2. Python
+ 3. Assembly
+ 4. Pascal
 
 <details>
   <summary>Answer</summary>
-  Non-impact printer
+  Assembly
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  9 hours 23 minutes</strong> since this server shutdown
+Its been <strong>3 days  9 hours 53 minutes</strong> since this server shutdown
