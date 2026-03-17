@@ -27,23 +27,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Yesterday, I accidentally swallowed some food coloring. The doctor says I’m okay, but I feel like I’ve dyed a little inside.
+Where do cats write notes?
+Scratch Paper!
 
 
 ## Daily Trivia
 
-Which of these is not a layer in the OSI model for data communications?
- 1. Connection Layer
- 2. Transport Layer
- 3. Physical Layer
- 4. Application Layer
+How many bits make up the significand portion of a single precision floating point number?
+ 1. 23
+ 2. 8
+ 3. 53
+ 4. 15
 
 <details>
   <summary>Answer</summary>
-  Connection Layer
+  23
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  14 hours 23 minutes</strong> since this server shutdown
+Its been <strong>3 days  14 hours 53 minutes</strong> since this server shutdown
