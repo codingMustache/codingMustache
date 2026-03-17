@@ -27,24 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do cats write notes?
-Scratch Paper!
+A man walks into a bar and orders helicopter flavor chips. The barman replies “sorry mate we only do plain”
 
 
 ## Daily Trivia
 
-How many bits make up the significand portion of a single precision floating point number?
- 1. 23
- 2. 8
- 3. 53
- 4. 15
+How many cores does the Intel i7-6950X have?
+ 1. 10
+ 2. 4
+ 3. 8
+ 4. 12
 
 <details>
   <summary>Answer</summary>
-  23
+  10
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  14 hours 53 minutes</strong> since this server shutdown
+Its been <strong>3 days  15 hours 23 minutes</strong> since this server shutdown
