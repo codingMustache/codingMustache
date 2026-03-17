@@ -18,7 +18,7 @@ Hello I'm Jorge and I love making things for the internet
     <tr>
       <td><img src="https://image.tmdb.org/t/p/w300_and_h300_face/ng3cMtxYKt1OSQYqFlnKWnVsqNO.jpg" alt="The Walking Dead" width="100%" height="auto"/></td>
       <td><strong>The Walking Dead</strong></td>
-      <td><code>S07E09</code> <em>Rock In The Road</em></td>
+      <td><code>S07E10</code> <em>New Best Friends</em></td>
       <td>⭐ 8.08 / 10</td>
       <td>Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way.</td>
     </tr>
@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear the one about the giant pickle?  He was kind of a big dill.
+What did the shy pebble wish for? That she was a little boulder.
 
 
 ## Daily Trivia
 
-Which of these programming languages is a low-level language?
- 1. C#
- 2. Python
- 3. Assembly
- 4. Pascal
+The name of technology company HP stands for what?
+ 1. Hellman-Pohl
+ 2. Hewlett-Packard
+ 3. Husker-Pollosk
+ 4. Howard Packmann
 
 <details>
   <summary>Answer</summary>
-  Assembly
+  Hewlett-Packard
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  9 hours 53 minutes</strong> since this server shutdown
+Its been <strong>3 days  10 hours 23 minutes</strong> since this server shutdown
