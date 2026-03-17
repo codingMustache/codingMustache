@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I got a reversible jacket for Christmas, I can't wait to see how it turns out.
+What musical instrument is found in the bathroom? A tuba toothpaste.
 
 
 ## Daily Trivia
 
-The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
- 1. Tuvalu
- 2. Fiji
- 3. Marshall Islands
- 4. Micronesia
+What does the term USB stand for?
+ 1. Unified Signal Bus
+ 2. Unityped Semtex Backer
+ 3. Universal Simtex Blot
+ 4. Universal Serial Bus
 
 <details>
   <summary>Answer</summary>
-  Micronesia
+  Universal Serial Bus
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  16 hours 53 minutes</strong> since this server shutdown
+Its been <strong>3 days  17 hours 23 minutes</strong> since this server shutdown
