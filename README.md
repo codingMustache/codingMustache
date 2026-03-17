@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do rabbits go after they get married? On a bunny-moon.
+What animal is always at a game of cricket? A bat.
 
 
 ## Daily Trivia
 
-How many bits make up the significand portion of a single precision floating point number?
- 1. 23
- 2. 8
- 3. 53
- 4. 15
+Which of the following computer components can be built using only NAND gates?
+ 1. RAM
+ 2. ALU
+ 3. CPU
+ 4. Register
 
 <details>
   <summary>Answer</summary>
-  23
+  ALU
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  21 hours 23 minutes</strong> since this server shutdown
+Its been <strong>3 days  21 hours 53 minutes</strong> since this server shutdown
