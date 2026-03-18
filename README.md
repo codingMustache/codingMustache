@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's orange and sounds like a parrot? A Carrot.
+What do you call an Argentinian with a rubber toe? Roberto
 
 
 ## Daily Trivia
 
-If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
- 1. JavaScript
- 2. Binary
- 3. Python
- 4. C++
+How many Hz does the video standard PAL support?
+ 1. 59
+ 2. 60
+ 3. 25
+ 4. 50
 
 <details>
   <summary>Answer</summary>
-  Binary
+  50
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  12 hours 53 minutes</strong> since this server shutdown
+Its been <strong>4 days  13 hours 23 minutes</strong> since this server shutdown
