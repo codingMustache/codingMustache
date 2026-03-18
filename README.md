@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call your friend who stands in a hole? Phil.
+Do you know where you can get chicken broth in bulk? The stock market.
 
 
 ## Daily Trivia
 
-Which programming language shares its name with an island in Indonesia?
- 1. Java
- 2. Jakarta
- 3. C
- 4. Python
+The programming language &#039;Swift&#039; was created to replace what other programming language?
+ 1. Ruby
+ 2. C++
+ 3. Objective-C
+ 4. C#
 
 <details>
   <summary>Answer</summary>
-  Java
+  Objective-C
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  4 hours 53 minutes</strong> since this server shutdown
+Its been <strong>5 days  5 hours 23 minutes</strong> since this server shutdown
