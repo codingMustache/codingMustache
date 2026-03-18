@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How come a man driving a train got struck by lightning? He was a good conductor.
+How much does a hipster weigh? An instagram.
 
 
 ## Daily Trivia
 
-Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
- 1. Apple
- 2. Commodore
- 3. Atari
- 4. Microsoft
+This mobile OS held the largest market share in 2012.
+ 1. Symbian
+ 2. Android
+ 3. iOS
+ 4. BlackBerry
 
 <details>
   <summary>Answer</summary>
-  Apple
+  iOS
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  17 hours 23 minutes</strong> since this server shutdown
+Its been <strong>4 days  17 hours 53 minutes</strong> since this server shutdown
