@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why does Han Solo like gum? It's chewy!
+How does a French skeleton say hello? Bone-jour.
 
 
 ## Daily Trivia
 
-How many values can a single byte represent?
- 1. 256
- 2. 1
- 3. 1024
- 4. 8
+Which of the following is NOT a computer science algorithm?
+ 1. Quick Sort
+ 2. Float Sort
+ 3. Bubble Sort
+ 4. Merge Sort
 
 <details>
   <summary>Answer</summary>
-  256
+  Float Sort
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  10 hours 53 minutes</strong> since this server shutdown
+Its been <strong>4 days  11 hours 23 minutes</strong> since this server shutdown
