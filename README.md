@@ -19,23 +19,25 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-If two vegans are having an argument, is it still considered beef?
+What is the difference between ignorance and apathy?
+
+I don't know and I don't care.
 
 
 ## Daily Trivia
 
-Which operating system was released first?
- 1. Windows
- 2. Linux
- 3. OS/2
- 4. Mac OS
+What was Bitcoin&#039;s block size limit in 2010?
+ 1. 1 TB
+ 2. 1GB
+ 3. 1 KB
+ 4. 1 MB
 
 <details>
   <summary>Answer</summary>
-  Mac OS
+  1 MB
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  22 hours 23 minutes</strong> since this server shutdown
+Its been <strong>4 days  22 hours 53 minutes</strong> since this server shutdown
