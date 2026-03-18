@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Don’t interrupt someone working intently on a puzzle. Chances are, you’ll hear some crosswords.
+Why does Han Solo like gum? It's chewy!
 
 
 ## Daily Trivia
 
-What internet protocol was documented in RFC 1459?
- 1. IRC
- 2. HTTPS
- 3. HTTP
- 4. FTP
+How many values can a single byte represent?
+ 1. 256
+ 2. 1
+ 3. 1024
+ 4. 8
 
 <details>
   <summary>Answer</summary>
-  IRC
+  256
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  10 hours 23 minutes</strong> since this server shutdown
+Its been <strong>4 days  10 hours 53 minutes</strong> since this server shutdown
