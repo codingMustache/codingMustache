@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I’ve deleted the phone numbers of all the Germans I know from my mobile phone. Now it’s Hans free.
+What do you call a bee that lives in America? A USB.
 
 
 ## Daily Trivia
 
-Which of the following computer components can be built using only NAND gates?
- 1. CPU
- 2. RAM
- 3. Register
- 4. ALU
+The Windows OS was delevoped by which company?
+ 1. Apple
+ 2. Nokia
+ 3. IBM
+ 4. Microsoft
 
 <details>
   <summary>Answer</summary>
-  ALU
+  Microsoft
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  14 hours 23 minutes</strong> since this server shutdown
+Its been <strong>4 days  14 hours 53 minutes</strong> since this server shutdown
