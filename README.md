@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a gorilla wearing headphones? Anything you'd like, it can't hear you.
+This morning I was wondering where the sun was, but then it dawned on me.
 
 
 ## Daily Trivia
 
-In any programming language, what is the most common way to iterate through an array?
- 1. &#039;Do-while&#039; loops
- 2. &#039;While&#039; loops
- 3. &#039;For&#039; loops
- 4. &#039;If&#039; Statements
+Which kind of algorithm is Ron Rivest not famous for creating?
+ 1. Hashing algorithm
+ 2. Asymmetric encryption
+ 3. Stream cipher
+ 4. Secret sharing scheme
 
 <details>
   <summary>Answer</summary>
-  &#039;For&#039; loops
+  Secret sharing scheme
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  6 hours 53 minutes</strong> since this server shutdown
+Its been <strong>4 days  7 hours 23 minutes</strong> since this server shutdown
