@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Want to hear a joke about construction? Nah, I'm still working on it.
+I invented a new word! Plagiarism!
 
 
 ## Daily Trivia
 
-In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
- 1. echo &quot;Hello World&quot;
- 2. printf(&quot;Hello World&quot;)
- 3. console.log(&quot;Hello World&quot;)
- 4. print(&quot;Hello World&quot;)
+According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:
+ 1. AB&#039; + AB
+ 2. A&#039; + B&#039;
+ 3. A&#039;B&#039;
+ 4. A&#039;B + B&#039;A
 
 <details>
   <summary>Answer</summary>
-  print(&quot;Hello World&quot;)
+  A&#039; + B&#039;
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  20 hours 53 minutes</strong> since this server shutdown
+Its been <strong>4 days  21 hours 23 minutes</strong> since this server shutdown
