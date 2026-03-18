@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-When I left school, I passed every one of my exams with the exception of Greek Mythology. It always was my achilles elbow
+How do you fix a damaged jack-o-lantern? You use a pumpkin patch.
 
 
 ## Daily Trivia
 
-What was the name of the first Bulgarian personal computer?
- 1. Pravetz 82
- 2. IMKO-1
- 3. Pravetz 8D
- 4. IZOT 1030
+What does the acronym CDN stand for in terms of networking?
+ 1. Computational Data Network
+ 2. Content Distribution Network
+ 3. Compressed Data Network
+ 4. Content Delivery Network
 
 <details>
   <summary>Answer</summary>
-  IMKO-1
+  Content Delivery Network
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  3 hours 23 minutes</strong> since this server shutdown
+Its been <strong>5 days  3 hours 53 minutes</strong> since this server shutdown
