@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-This morning I was wondering where the sun was, but then it dawned on me.
+Why couldn't the lifeguard save the hippie? He was too far out, man.
 
 
 ## Daily Trivia
 
-Which kind of algorithm is Ron Rivest not famous for creating?
- 1. Hashing algorithm
- 2. Asymmetric encryption
- 3. Stream cipher
- 4. Secret sharing scheme
+The Windows OS was delevoped by which company?
+ 1. Nokia
+ 2. Apple
+ 3. Microsoft
+ 4. IBM
 
 <details>
   <summary>Answer</summary>
-  Secret sharing scheme
+  Microsoft
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  7 hours 23 minutes</strong> since this server shutdown
+Its been <strong>4 days  7 hours 53 minutes</strong> since this server shutdown
