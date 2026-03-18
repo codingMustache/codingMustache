@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It was so cold yesterday my computer froze. My own fault though, I left too many windows open.
+If you think swimming with dolphins is expensive, you should try swimming with sharks--it cost me an arm and a leg!
 
 
 ## Daily Trivia
 
-What does the International System of Quantities refer 1024 bytes as?
- 1. Kibibyte
- 2. Kelobyte
- 3. Kilobyte
- 4. Kylobyte
+According to the International System of Units, how many bytes are in a kilobyte of RAM?
+ 1. 1000
+ 2. 500
+ 3. 1024
+ 4. 512
 
 <details>
   <summary>Answer</summary>
-  Kibibyte
+  1000
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  1 hours 23 minutes</strong> since this server shutdown
+Its been <strong>5 days  1 hours 53 minutes</strong> since this server shutdown
