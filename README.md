@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why don't skeletons ride roller coasters? They don't have the stomach for it.
+When I left school, I passed every one of my exams with the exception of Greek Mythology. It always was my achilles elbow
 
 
 ## Daily Trivia
 
-Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
- 1. Year
- 2. Eight Years
- 3. Two Years
- 4. Four Years
+What was the name of the first Bulgarian personal computer?
+ 1. Pravetz 82
+ 2. IMKO-1
+ 3. Pravetz 8D
+ 4. IZOT 1030
 
 <details>
   <summary>Answer</summary>
-  Year
+  IMKO-1
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  2 hours 53 minutes</strong> since this server shutdown
+Its been <strong>5 days  3 hours 23 minutes</strong> since this server shutdown
