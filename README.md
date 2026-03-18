@@ -19,25 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is the difference between ignorance and apathy?
-
-I don't know and I don't care.
+What do you call a female snake. misssssssss 
 
 
 ## Daily Trivia
 
-What was Bitcoin&#039;s block size limit in 2010?
- 1. 1 TB
- 2. 1GB
- 3. 1 KB
- 4. 1 MB
+In computing, what does MIDI stand for?
+ 1. Musical Instrument Digital Interface
+ 2. Musical Instrument Data Interface
+ 3. Modular Interface of Digital Instruments
+ 4. Musical Interface of Digital Instruments
 
 <details>
   <summary>Answer</summary>
-  1 MB
+  Musical Instrument Digital Interface
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  22 hours 53 minutes</strong> since this server shutdown
+Its been <strong>4 days  23 hours 23 minutes</strong> since this server shutdown
