@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a bee that lives in America? A USB.
+At the boxing match, the dad got into the popcorn line and the line for hot dogs, but he wanted to stay out of the punchline.
 
 
 ## Daily Trivia
 
-The Windows OS was delevoped by which company?
- 1. Apple
- 2. Nokia
- 3. IBM
- 4. Microsoft
+In programming, what do you call functions with the same name but different implementations?
+ 1. Overloading
+ 2. Inheriting
+ 3. Abstracting
+ 4. Overriding
 
 <details>
   <summary>Answer</summary>
-  Microsoft
+  Overloading
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  14 hours 53 minutes</strong> since this server shutdown
+Its been <strong>4 days  15 hours 23 minutes</strong> since this server shutdown
