@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many tickles does it take to tickle an octopus? Ten-tickles!
+My wife said I was immature. So I told her to get out of my fort.
 
 
 ## Daily Trivia
 
-Which SQL keyword is used to fetch data from a database?
- 1. INDEX
- 2. VALUES
- 3. EXEC
- 4. SELECT
+Which of these is not a layer in the OSI model for data communications?
+ 1. Connection Layer
+ 2. Application Layer
+ 3. Physical Layer
+ 4. Transport Layer
 
 <details>
   <summary>Answer</summary>
-  SELECT
+  Connection Layer
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  18 hours 23 minutes</strong> since this server shutdown
+Its been <strong>4 days  18 hours 53 minutes</strong> since this server shutdown
