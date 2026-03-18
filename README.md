@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My wife said I was immature. So I told her to get out of my fort.
+A Sandwich walks into a bar, the bartender says “Sorry, we don’t serve food here”
 
 
 ## Daily Trivia
 
-Which of these is not a layer in the OSI model for data communications?
- 1. Connection Layer
- 2. Application Layer
- 3. Physical Layer
- 4. Transport Layer
+What is the commonly used keyboard shortcut for the &#039;Copy&#039; function on Windows OS?
+ 1. Ctrl + X
+ 2. Ctrl + C
+ 3. Alt + X
+ 4. Alt + C
 
 <details>
   <summary>Answer</summary>
-  Connection Layer
+  Ctrl + C
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  18 hours 53 minutes</strong> since this server shutdown
+Its been <strong>4 days  19 hours 23 minutes</strong> since this server shutdown
