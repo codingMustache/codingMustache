@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How much does a hipster weigh? An instagram.
+How many tickles does it take to tickle an octopus? Ten-tickles!
 
 
 ## Daily Trivia
 
-This mobile OS held the largest market share in 2012.
- 1. Symbian
- 2. Android
- 3. iOS
- 4. BlackBerry
+Which SQL keyword is used to fetch data from a database?
+ 1. INDEX
+ 2. VALUES
+ 3. EXEC
+ 4. SELECT
 
 <details>
   <summary>Answer</summary>
-  iOS
+  SELECT
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  17 hours 53 minutes</strong> since this server shutdown
+Its been <strong>4 days  18 hours 23 minutes</strong> since this server shutdown
