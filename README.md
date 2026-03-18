@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What’s the longest word in the dictionary? Smiles. Because there’s a mile between the two S’s.
+No matter how kind you are, German children are kinder.
 
 
 ## Daily Trivia
 
-Which computer language would you associate Django framework with?
- 1. Python
- 2. Java
- 3. C++
- 4. C#
+What does &quot;LCD&quot; stand for?
+ 1. Liquid Crystal Display
+ 2. Language Control Design
+ 3. Last Common Difference
+ 4. Long Continuous Design
 
 <details>
   <summary>Answer</summary>
-  Python
+  Liquid Crystal Display
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  5 hours 53 minutes</strong> since this server shutdown
+Its been <strong>4 days  6 hours 23 minutes</strong> since this server shutdown
