@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A Sandwich walks into a bar, the bartender says “Sorry, we don’t serve food here”
+Bought a new jacket suit the other day and it burst into flames. Well, it was a blazer
 
 
 ## Daily Trivia
 
-What is the commonly used keyboard shortcut for the &#039;Copy&#039; function on Windows OS?
- 1. Ctrl + X
- 2. Ctrl + C
- 3. Alt + X
- 4. Alt + C
+What is largely considered the precursor to the USB format?
+ 1. SVGA
+ 2. PCIe
+ 3. FireWire
+ 4. PS/2
 
 <details>
   <summary>Answer</summary>
-  Ctrl + C
+  PS/2
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  19 hours 23 minutes</strong> since this server shutdown
+Its been <strong>4 days  19 hours 53 minutes</strong> since this server shutdown
