@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-No matter how kind you are, German children are kinder.
+What do you call a gorilla wearing headphones? Anything you'd like, it can't hear you.
 
 
 ## Daily Trivia
 
-What does &quot;LCD&quot; stand for?
- 1. Liquid Crystal Display
- 2. Language Control Design
- 3. Last Common Difference
- 4. Long Continuous Design
+In any programming language, what is the most common way to iterate through an array?
+ 1. &#039;Do-while&#039; loops
+ 2. &#039;While&#039; loops
+ 3. &#039;For&#039; loops
+ 4. &#039;If&#039; Statements
 
 <details>
   <summary>Answer</summary>
-  Liquid Crystal Display
+  &#039;For&#039; loops
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  6 hours 23 minutes</strong> since this server shutdown
+Its been <strong>4 days  6 hours 53 minutes</strong> since this server shutdown
