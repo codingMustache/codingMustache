@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why can’t you hear a pterodactyl go to the bathroom? The p is silent.
+I'd like to start a diet, but I've got too much on my plate right now.
 
 
 ## Daily Trivia
 
-What is the name of the default theme that is installed with Windows XP?
- 1. Neptune
- 2. Luna
- 3. Bliss
- 4. Whistler
+Which programming language was developed by Sun Microsystems in 1995?
+ 1. C++
+ 2. Java
+ 3. Python
+ 4. Solaris OS
 
 <details>
   <summary>Answer</summary>
-  Luna
+  Java
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  16 hours 23 minutes</strong> since this server shutdown
+Its been <strong>4 days  16 hours 53 minutes</strong> since this server shutdown
