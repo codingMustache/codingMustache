@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How does a French skeleton say hello? Bone-jour.
+If two vegans are having an argument, is it still considered beef?
 
 
 ## Daily Trivia
 
-Which of the following is NOT a computer science algorithm?
- 1. Quick Sort
- 2. Float Sort
- 3. Bubble Sort
- 4. Merge Sort
+What is the domain name for the country Tuvalu?
+ 1. .tu
+ 2. .tt
+ 3. .tl
+ 4. .tv
 
 <details>
   <summary>Answer</summary>
-  Float Sort
+  .tv
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  11 hours 23 minutes</strong> since this server shutdown
+Its been <strong>4 days  11 hours 53 minutes</strong> since this server shutdown
