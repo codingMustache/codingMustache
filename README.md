@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I dreamed about drowning in an ocean made out of orange soda last night. It took me a while to work out it was just a Fanta sea.
+If you think swimming with dolphins is expensive, you should try swimming with sharks--it cost me an arm and a leg!
 
 
 ## Daily Trivia
 
-What was the first company to use the term &quot;Golden Master&quot;?
- 1. Apple
- 2. IBM
- 3. Microsoft
- 4. Google
+Which of the following is NOT a computer science algorithm?
+ 1. Merge Sort
+ 2. Quick Sort
+ 3. Bubble Sort
+ 4. Float Sort
 
 <details>
   <summary>Answer</summary>
-  Apple
+  Float Sort
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  8 hours 53 minutes</strong> since this server shutdown
+Its been <strong>4 days  9 hours 23 minutes</strong> since this server shutdown
