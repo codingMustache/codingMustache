@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the mountain climber name his son? Cliff.
+If two vegans are having an argument, is it still considered beef?
 
 
 ## Daily Trivia
 
-What does the acronym CDN stand for in terms of networking?
- 1. Content Delivery Network
- 2. Content Distribution Network
- 3. Compressed Data Network
- 4. Computational Data Network
+Which operating system was released first?
+ 1. Windows
+ 2. Linux
+ 3. OS/2
+ 4. Mac OS
 
 <details>
   <summary>Answer</summary>
-  Content Delivery Network
+  Mac OS
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  21 hours 53 minutes</strong> since this server shutdown
+Its been <strong>4 days  22 hours 23 minutes</strong> since this server shutdown
