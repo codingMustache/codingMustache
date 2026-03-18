@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Two peanuts were walking down the street. One was a salted
+I thought about going on an all-almond diet. But that's just nuts.
 
 
 ## Daily Trivia
 
-Nvidia&#039;s headquarters are based in which Silicon Valley city?
- 1. Palo Alto
- 2. Cupertino
- 3. Mountain View
- 4. Santa Clara
+Which programming language was developed by Sun Microsystems in 1995?
+ 1. Java
+ 2. C++
+ 3. Solaris OS
+ 4. Python
 
 <details>
   <summary>Answer</summary>
-  Santa Clara
+  Java
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  23 hours 53 minutes</strong> since this server shutdown
+Its been <strong>5 days 23 minutes</strong> since this server shutdown
