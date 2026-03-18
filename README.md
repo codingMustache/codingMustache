@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did one plate say to the other plate? Dinner is on me!
+What do you call your friend who stands in a hole? Phil.
 
 
 ## Daily Trivia
 
-How many bits make up the significand portion of a single precision floating point number?
- 1. 15
- 2. 23
- 3. 53
- 4. 8
+Which programming language shares its name with an island in Indonesia?
+ 1. Java
+ 2. Jakarta
+ 3. C
+ 4. Python
 
 <details>
   <summary>Answer</summary>
-  23
+  Java
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  4 hours 23 minutes</strong> since this server shutdown
+Its been <strong>5 days  4 hours 53 minutes</strong> since this server shutdown
