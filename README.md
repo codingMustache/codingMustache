@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's brown and sticky? A stick.
+Why can’t you hear a pterodactyl go to the bathroom? The p is silent.
 
 
 ## Daily Trivia
 
-Unix Time is defined as the number of seconds that have elapsed since when?
- 1. Midnight on the creator of Unix&#039;s birthday
- 2. Midnight, July 4, 1980
- 3. Midnight, July 4, 1976
- 4. Midnight, January 1, 1970
+What is the name of the default theme that is installed with Windows XP?
+ 1. Neptune
+ 2. Luna
+ 3. Bliss
+ 4. Whistler
 
 <details>
   <summary>Answer</summary>
-  Midnight, January 1, 1970
+  Luna
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  15 hours 53 minutes</strong> since this server shutdown
+Its been <strong>4 days  16 hours 23 minutes</strong> since this server shutdown
