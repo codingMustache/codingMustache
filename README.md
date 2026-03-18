@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I'd like to start a diet, but I've got too much on my plate right now.
+How come a man driving a train got struck by lightning? He was a good conductor.
 
 
 ## Daily Trivia
 
-Which programming language was developed by Sun Microsystems in 1995?
- 1. C++
- 2. Java
- 3. Python
- 4. Solaris OS
+Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
+ 1. Apple
+ 2. Commodore
+ 3. Atari
+ 4. Microsoft
 
 <details>
   <summary>Answer</summary>
-  Java
+  Apple
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  16 hours 53 minutes</strong> since this server shutdown
+Its been <strong>4 days  17 hours 23 minutes</strong> since this server shutdown
