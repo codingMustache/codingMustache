@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-At the boxing match, the dad got into the popcorn line and the line for hot dogs, but he wanted to stay out of the punchline.
+What's brown and sticky? A stick.
 
 
 ## Daily Trivia
 
-In programming, what do you call functions with the same name but different implementations?
- 1. Overloading
- 2. Inheriting
- 3. Abstracting
- 4. Overriding
+Unix Time is defined as the number of seconds that have elapsed since when?
+ 1. Midnight on the creator of Unix&#039;s birthday
+ 2. Midnight, July 4, 1980
+ 3. Midnight, July 4, 1976
+ 4. Midnight, January 1, 1970
 
 <details>
   <summary>Answer</summary>
-  Overloading
+  Midnight, January 1, 1970
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  15 hours 23 minutes</strong> since this server shutdown
+Its been <strong>4 days  15 hours 53 minutes</strong> since this server shutdown
