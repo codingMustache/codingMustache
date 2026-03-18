@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call an Argentinian with a rubber toe? Roberto
+I wear a stethoscope so that in a medical emergency I can teach people a valuable lesson about assumptions.
 
 
 ## Daily Trivia
 
-How many Hz does the video standard PAL support?
- 1. 59
- 2. 60
- 3. 25
- 4. 50
+How long is an IPv6 address?
+ 1. 128 bits
+ 2. 128 bytes
+ 3. 64 bits
+ 4. 32 bits
 
 <details>
   <summary>Answer</summary>
-  50
+  128 bits
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  13 hours 23 minutes</strong> since this server shutdown
+Its been <strong>4 days  13 hours 53 minutes</strong> since this server shutdown
