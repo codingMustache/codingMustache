@@ -24,18 +24,18 @@ It was so cold yesterday my computer froze. My own fault though, I left too many
 
 ## Daily Trivia
 
-Which SQL keyword is used to fetch data from a database?
- 1. SELECT
- 2. INDEX
- 3. VALUES
- 4. EXEC
+What does the International System of Quantities refer 1024 bytes as?
+ 1. Kibibyte
+ 2. Kelobyte
+ 3. Kilobyte
+ 4. Kylobyte
 
 <details>
   <summary>Answer</summary>
-  SELECT
+  Kibibyte
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days 53 minutes</strong> since this server shutdown
+Its been <strong>5 days  1 hours 23 minutes</strong> since this server shutdown
