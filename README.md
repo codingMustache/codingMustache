@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I invented a new word! Plagiarism!
+What did the mountain climber name his son? Cliff.
 
 
 ## Daily Trivia
 
-According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:
- 1. AB&#039; + AB
- 2. A&#039; + B&#039;
- 3. A&#039;B&#039;
- 4. A&#039;B + B&#039;A
+What does the acronym CDN stand for in terms of networking?
+ 1. Content Delivery Network
+ 2. Content Distribution Network
+ 3. Compressed Data Network
+ 4. Computational Data Network
 
 <details>
   <summary>Answer</summary>
-  A&#039; + B&#039;
+  Content Delivery Network
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  21 hours 23 minutes</strong> since this server shutdown
+Its been <strong>4 days  21 hours 53 minutes</strong> since this server shutdown
