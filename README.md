@@ -27,16 +27,16 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-If two vegans are having an argument, is it still considered beef?
+My boss told me to have a good day... so I went home.
 
 
 ## Daily Trivia
 
 What is the domain name for the country Tuvalu?
- 1. .tu
- 2. .tt
- 3. .tl
- 4. .tv
+ 1. .tv
+ 2. .tl
+ 3. .tt
+ 4. .tu
 
 <details>
   <summary>Answer</summary>
@@ -46,4 +46,4 @@ What is the domain name for the country Tuvalu?
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  11 hours 53 minutes</strong> since this server shutdown
+Its been <strong>4 days  12 hours 23 minutes</strong> since this server shutdown
