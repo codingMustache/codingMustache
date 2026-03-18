@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I thought about going on an all-almond diet. But that's just nuts.
+It was so cold yesterday my computer froze. My own fault though, I left too many windows open.
 
 
 ## Daily Trivia
 
-Which programming language was developed by Sun Microsystems in 1995?
- 1. Java
- 2. C++
- 3. Solaris OS
- 4. Python
+Which SQL keyword is used to fetch data from a database?
+ 1. SELECT
+ 2. INDEX
+ 3. VALUES
+ 4. EXEC
 
 <details>
   <summary>Answer</summary>
-  Java
+  SELECT
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days 23 minutes</strong> since this server shutdown
+Its been <strong>5 days 53 minutes</strong> since this server shutdown
