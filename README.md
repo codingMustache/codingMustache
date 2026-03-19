@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do robots eat guacamole? With computer chips.
+What's the worst thing about ancient history class? The teachers tend to Babylon.
 
 
 ## Daily Trivia
 
-What does LTS stand for in the software market?
- 1. Long Taco Service
- 2. Ludicrous Turbo Speed
- 3. Ludicrous Transfer Speed
- 4. Long Term Support
+Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
+ 1. Heartbleed
+ 2. Shellscript
+ 3. Corrupted Blood
+ 4. Shellshock
 
 <details>
   <summary>Answer</summary>
-  Long Term Support
+  Heartbleed
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  2 hours 53 minutes</strong> since this server shutdown
+Its been <strong>6 days  3 hours 23 minutes</strong> since this server shutdown
