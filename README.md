@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was the robot angry? Because someone kept pressing his buttons!
+Why can't eggs have love? They will break up too soon.
 
 
 ## Daily Trivia
 
-What does the term GPU stand for?
- 1. Graphite Producing Unit
- 2. Graphics Processing Unit
- 3. Gaming Processor Unit
- 4. Graphical Proprietary Unit
+The teapot often seen in many 3D modeling applications is called what?
+ 1. 3D Teapot
+ 2. Utah Teapot
+ 3. Pixar Teapot
+ 4. Tennessee Teapot
 
 <details>
   <summary>Answer</summary>
-  Graphics Processing Unit
+  Utah Teapot
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  22 hours 53 minutes</strong> since this server shutdown
+Its been <strong>5 days  23 hours 23 minutes</strong> since this server shutdown
