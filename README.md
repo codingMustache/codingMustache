@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What’s brown and sounds like a bell? Dung!
+I wear a stethoscope so that in a medical emergency I can teach people a valuable lesson about assumptions.
 
 
 ## Daily Trivia
 
-The numbering system with a radix of 16 is more commonly referred to as 
- 1. Duodecimal
- 2. Binary
- 3. Hexidecimal
- 4. Octal
+In programming, what do you call functions with the same name but different implementations?
+ 1. Overloading
+ 2. Overriding
+ 3. Abstracting
+ 4. Inheriting
 
 <details>
   <summary>Answer</summary>
-  Hexidecimal
+  Overloading
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  16 hours 53 minutes</strong> since this server shutdown
+Its been <strong>5 days  17 hours 23 minutes</strong> since this server shutdown
