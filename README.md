@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How does the moon cut his hair? Eclipse it.
+A police officer caught two kids playing with a firework and a car battery. He charged one and let the other one off.
 
 
 ## Daily Trivia
 
-What does the International System of Quantities refer 1024 bytes as?
- 1. Kibibyte
- 2. Kilobyte
- 3. Kylobyte
- 4. Kelobyte
+Who invented the &quot;Spanning Tree Protocol&quot;?
+ 1. Paul Vixie
+ 2. Vint Cerf
+ 3. Michael Roberts
+ 4. Radia Perlman
 
 <details>
   <summary>Answer</summary>
-  Kibibyte
+  Radia Perlman
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  19 hours 53 minutes</strong> since this server shutdown
+Its been <strong>5 days  20 hours 23 minutes</strong> since this server shutdown
