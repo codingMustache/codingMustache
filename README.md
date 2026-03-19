@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you get hanging from Apple trees? Sore arms.
+What do you call a cow with two legs? Lean beef.
 
 
 ## Daily Trivia
 
-What programming language was GitHub written in?
- 1. Ruby
- 2. Lua
- 3. Python
- 4. JavaScript
+Which of these programming languages is a low-level language?
+ 1. Assembly
+ 2. Pascal
+ 3. C#
+ 4. Python
 
 <details>
   <summary>Answer</summary>
-  Ruby
+  Assembly
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  20 hours 53 minutes</strong> since this server shutdown
+Its been <strong>5 days  21 hours 23 minutes</strong> since this server shutdown
