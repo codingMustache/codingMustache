@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to think I was indecisive, but now I'm not sure.
+Why do bears have hairy coats? Fur protection.
 
 
 ## Daily Trivia
 
-What was the name of the first Bulgarian personal computer?
- 1. Pravetz 82
- 2. Pravetz 8D
- 3. IZOT 1030
- 4. IMKO-1
+What does the Prt Sc button do?
+ 1. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
+ 2. Captures what&#039;s on the screen and copies it to your clipboard
+ 3. Nothing
+ 4. Closes all windows
 
 <details>
   <summary>Answer</summary>
-  IMKO-1
+  Captures what&#039;s on the screen and copies it to your clipboard
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  9 hours 53 minutes</strong> since this server shutdown
+Its been <strong>5 days  10 hours 23 minutes</strong> since this server shutdown
