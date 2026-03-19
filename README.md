@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-"What time is it?" I don't know... it keeps changing.
+How does the moon cut his hair? Eclipse it.
 
 
 ## Daily Trivia
 
-What is the commonly used keyboard shortcut for the &#039;Copy&#039; function on Windows OS?
- 1. Alt + C
- 2. Ctrl + X
- 3. Alt + X
- 4. Ctrl + C
+What does the International System of Quantities refer 1024 bytes as?
+ 1. Kibibyte
+ 2. Kilobyte
+ 3. Kylobyte
+ 4. Kelobyte
 
 <details>
   <summary>Answer</summary>
-  Ctrl + C
+  Kibibyte
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  19 hours 23 minutes</strong> since this server shutdown
+Its been <strong>5 days  19 hours 53 minutes</strong> since this server shutdown
