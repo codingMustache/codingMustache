@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Have you heard of the band 1023MB? They haven't got a gig yet.
+What’s brown and sounds like a bell? Dung!
 
 
 ## Daily Trivia
 
-CMOS is tech used for constructing integrated circuits. What does CMOS stand for?
- 1. Complementary metal&ndash;oxide&ndash;semiconductor
- 2. Complementary magnetic-ohms-semiconductor
- 3. Computer-made operating system
- 4. Computer-made oscillating static
+The numbering system with a radix of 16 is more commonly referred to as 
+ 1. Duodecimal
+ 2. Binary
+ 3. Hexidecimal
+ 4. Octal
 
 <details>
   <summary>Answer</summary>
-  Complementary metal&ndash;oxide&ndash;semiconductor
+  Hexidecimal
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  16 hours 23 minutes</strong> since this server shutdown
+Its been <strong>5 days  16 hours 53 minutes</strong> since this server shutdown
