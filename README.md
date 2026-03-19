@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the Red light say to the Green light? Don't look at me I'm changing!
+The shovel was a ground-breaking invention.
 
 
 ## Daily Trivia
 
-What programming language was GitHub written in?
- 1. Lua
- 2. Ruby
- 3. Python
- 4. JavaScript
+What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
+ 1. Session
+ 2. Data link
+ 3. Network
+ 4. Transport
 
 <details>
   <summary>Answer</summary>
-  Ruby
+  Transport
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  21 hours 53 minutes</strong> since this server shutdown
+Its been <strong>5 days  22 hours 23 minutes</strong> since this server shutdown
