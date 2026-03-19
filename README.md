@@ -2,40 +2,27 @@
 
 Hello I'm Jorge and I love making things for the internet
 
-## 🎬 Now Watching
 
-<table>
-  <tr>
-    <td valign="top" width="75%">
-      <h3>The Alabama Solution</h3>
-      <p>undefined</p>
-      <p>⭐ <strong>undefined</strong> / 10</p>
-    </td>
-    <td valign="top" align="right">
-      <img src="undefined" alt="The Alabama Solution" width="150px"/>
-    </td>
-  </tr>
-</table>
 
 ## Joke of the Day
 
-Yesterday I confused the words "jacuzzi" and "yakuza". Now I'm in hot water with the Japanese mafia.
+Why did the belt go to prison? He held up a pair of pants!
 
 
 ## Daily Trivia
 
-What is the name of the process that sends one qubit of information using two bits of classical information?
- 1. Quantum Programming
- 2. Quantum Entanglement
- 3. Super Dense Coding
- 4. Quantum Teleportation
+How many bytes are in a single Kibibyte?
+ 1. 1240
+ 2. 1000
+ 3. 2400
+ 4. 1024
 
 <details>
   <summary>Answer</summary>
-  Quantum Teleportation
+  1024
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  23 hours 53 minutes</strong> since this server shutdown
+Its been <strong>6 days 23 minutes</strong> since this server shutdown
