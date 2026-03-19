@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the teddy bear say “no” to dessert? Because she was stuffed.
+Why did the octopus beat the shark in a fight? Because it was well armed.
 
 
 ## Daily Trivia
 
-What is the main CPU is the Sega Mega Drive / Sega Genesis?
- 1. Yamaha YM2612
- 2. Zilog Z80
- 3. Intel 8088
- 4. Motorola 68000
+When Gmail first launched, how much storage did it provide for your email?
+ 1. Unlimited
+ 2. 512MB
+ 3. 1GB
+ 4. 5GB
 
 <details>
   <summary>Answer</summary>
-  Motorola 68000
+  1GB
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  1 hours 53 minutes</strong> since this server shutdown
+Its been <strong>6 days  2 hours 23 minutes</strong> since this server shutdown
