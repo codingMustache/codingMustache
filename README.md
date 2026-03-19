@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to be a banker, but I lost interest.
+Why are fish so smart? Because they live in schools!
 
 
 ## Daily Trivia
 
-Which one of these is not an official development name for a Ubuntu release?
- 1. Mystic Mansion
- 2. Trusty Tahr
- 3. Utopic Unicorn
- 4. Wily Werewolf
+Whistler was the codename of this Microsoft Operating System.
+ 1. Windows 2000
+ 2. Windows 7
+ 3. Windows 95
+ 4. Windows XP
 
 <details>
   <summary>Answer</summary>
-  Mystic Mansion
+  Windows XP
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  4 hours 23 minutes</strong> since this server shutdown
+Its been <strong>6 days  4 hours 53 minutes</strong> since this server shutdown
