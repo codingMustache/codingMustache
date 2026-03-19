@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Camping is intense.
+How do you know if there’s an elephant under your bed? Your head hits the ceiling!
 
 
 ## Daily Trivia
 
-The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
- 1. Micronesia
- 2. Marshall Islands
- 3. Tuvalu
- 4. Fiji
+In the server hosting industry IaaS stands for...
+ 1. Internet as a Service
+ 2. Internet and a Server
+ 3. Infrastructure as a Service
+ 4. Infrastructure as a Server
 
 <details>
   <summary>Answer</summary>
-  Micronesia
+  Infrastructure as a Service
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  6 hours 23 minutes</strong> since this server shutdown
+Its been <strong>5 days  6 hours 53 minutes</strong> since this server shutdown
