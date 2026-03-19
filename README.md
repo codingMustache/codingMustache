@@ -19,24 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My friend keeps telling me "Cheer up. You aren't stuck in a deep hole in the ground, filled with water."
-I know he means well.
+Why is it always hot in the corner of a room? Because a corner is 90 degrees.
 
 
 ## Daily Trivia
 
-Which computer language would you associate Django framework with?
- 1. Java
- 2. C++
- 3. C#
- 4. Python
+This mobile OS held the largest market share in 2012.
+ 1. Symbian
+ 2. iOS
+ 3. Android
+ 4. BlackBerry
 
 <details>
   <summary>Answer</summary>
-  Python
+  iOS
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  17 hours 53 minutes</strong> since this server shutdown
+Its been <strong>5 days  18 hours 23 minutes</strong> since this server shutdown
