@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are fish so smart? Because they live in schools!
+Waking up this morning was an eye-opening experience.
 
 
 ## Daily Trivia
 
-Whistler was the codename of this Microsoft Operating System.
- 1. Windows 2000
- 2. Windows 7
- 3. Windows 95
- 4. Windows XP
+What is the domain name for the country Tuvalu?
+ 1. .tv
+ 2. .tu
+ 3. .tt
+ 4. .tl
 
 <details>
   <summary>Answer</summary>
-  Windows XP
+  .tv
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  4 hours 53 minutes</strong> since this server shutdown
+Its been <strong>6 days  5 hours 23 minutes</strong> since this server shutdown
