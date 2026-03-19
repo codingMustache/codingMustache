@@ -19,23 +19,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I wear a stethoscope so that in a medical emergency I can teach people a valuable lesson about assumptions.
+My friend keeps telling me "Cheer up. You aren't stuck in a deep hole in the ground, filled with water."
+I know he means well.
 
 
 ## Daily Trivia
 
-In programming, what do you call functions with the same name but different implementations?
- 1. Overloading
- 2. Overriding
- 3. Abstracting
- 4. Inheriting
+Which computer language would you associate Django framework with?
+ 1. Java
+ 2. C++
+ 3. C#
+ 4. Python
 
 <details>
   <summary>Answer</summary>
-  Overloading
+  Python
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  17 hours 23 minutes</strong> since this server shutdown
+Its been <strong>5 days  17 hours 53 minutes</strong> since this server shutdown
