@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the belt go to prison? He held up a pair of pants!
+What musical instrument is found in the bathroom? A tuba toothpaste.
 
 
 ## Daily Trivia
 
-How many bytes are in a single Kibibyte?
- 1. 1240
- 2. 1000
- 3. 2400
- 4. 1024
+If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
+ 1. JavaScript
+ 2. C++
+ 3. Python
+ 4. Binary
 
 <details>
   <summary>Answer</summary>
-  1024
+  Binary
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days 23 minutes</strong> since this server shutdown
+Its been <strong>6 days 53 minutes</strong> since this server shutdown
