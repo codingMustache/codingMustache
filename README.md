@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a cow with two legs? Lean beef.
+What did the Red light say to the Green light? Don't look at me I'm changing!
 
 
 ## Daily Trivia
 
-Which of these programming languages is a low-level language?
- 1. Assembly
- 2. Pascal
- 3. C#
- 4. Python
+What programming language was GitHub written in?
+ 1. Lua
+ 2. Ruby
+ 3. Python
+ 4. JavaScript
 
 <details>
   <summary>Answer</summary>
-  Assembly
+  Ruby
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  21 hours 23 minutes</strong> since this server shutdown
+Its been <strong>5 days  21 hours 53 minutes</strong> since this server shutdown
