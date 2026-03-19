@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It’s hard to explain puns to kleptomaniacs, because they take everything literally.
+A termite walks into a bar and asks “Is the bar tender here?”
 
 
 ## Daily Trivia
 
-What does AD stand for in relation to Windows Operating Systems? 
- 1. Active Directory
- 2. Alternative Drive
- 3. Automated Database
- 4. Active Department
+What was Bitcoin&#039;s block size limit in 2010?
+ 1. 1 MB
+ 2. 1GB
+ 3. 1 KB
+ 4. 1 TB
 
 <details>
   <summary>Answer</summary>
-  Active Directory
+  1 MB
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  11 hours 23 minutes</strong> since this server shutdown
+Its been <strong>5 days  11 hours 53 minutes</strong> since this server shutdown
