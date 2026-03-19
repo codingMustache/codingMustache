@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What musical instrument is found in the bathroom? A tuba toothpaste.
+In the news a courtroom artist was arrested today, I'm not surprised, he always seemed sketchy.
 
 
 ## Daily Trivia
 
-If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
- 1. JavaScript
- 2. C++
- 3. Python
- 4. Binary
+What was the first commerically available computer processor?
+ 1. AMD AM386
+ 2. Intel 486SX
+ 3. Intel 4004
+ 4. TMS 1000
 
 <details>
   <summary>Answer</summary>
-  Binary
+  Intel 4004
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days 53 minutes</strong> since this server shutdown
+Its been <strong>6 days  1 hours 23 minutes</strong> since this server shutdown
