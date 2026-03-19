@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the Dorito farmer say to the other Dorito farmer? Cool Ranch!
+What do you call a careful wolf? Aware wolf.
 
 
 ## Daily Trivia
 
-Which of the following computer components can be built using only NAND gates?
- 1. ALU
- 2. CPU
- 3. Register
- 4. RAM
+What is the name of Layer 7 of the OSI model?
+ 1. Session
+ 2. Network
+ 3. Present
+ 4. Application
 
 <details>
   <summary>Answer</summary>
-  ALU
+  Application
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  15 hours 23 minutes</strong> since this server shutdown
+Its been <strong>5 days  15 hours 53 minutes</strong> since this server shutdown
