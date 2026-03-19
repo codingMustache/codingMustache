@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why can't eggs have love? They will break up too soon.
+Yesterday I confused the words "jacuzzi" and "yakuza". Now I'm in hot water with the Japanese mafia.
 
 
 ## Daily Trivia
 
-The teapot often seen in many 3D modeling applications is called what?
- 1. 3D Teapot
- 2. Utah Teapot
- 3. Pixar Teapot
- 4. Tennessee Teapot
+What is the name of the process that sends one qubit of information using two bits of classical information?
+ 1. Quantum Programming
+ 2. Quantum Entanglement
+ 3. Super Dense Coding
+ 4. Quantum Teleportation
 
 <details>
   <summary>Answer</summary>
-  Utah Teapot
+  Quantum Teleportation
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  23 hours 23 minutes</strong> since this server shutdown
+Its been <strong>5 days  23 hours 53 minutes</strong> since this server shutdown
