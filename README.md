@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A police officer caught two kids playing with a firework and a car battery. He charged one and let the other one off.
+What do you get hanging from Apple trees? Sore arms.
 
 
 ## Daily Trivia
 
-Who invented the &quot;Spanning Tree Protocol&quot;?
- 1. Paul Vixie
- 2. Vint Cerf
- 3. Michael Roberts
- 4. Radia Perlman
+What programming language was GitHub written in?
+ 1. Ruby
+ 2. Lua
+ 3. Python
+ 4. JavaScript
 
 <details>
   <summary>Answer</summary>
-  Radia Perlman
+  Ruby
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  20 hours 23 minutes</strong> since this server shutdown
+Its been <strong>5 days  20 hours 53 minutes</strong> since this server shutdown
