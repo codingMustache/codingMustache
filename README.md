@@ -19,16 +19,16 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Astronomers got tired watching the moon go around the earth for 24 hours. They decided to call it a day.
+I wish I could clean mirrors for a living. It's just something I can see myself doing.
 
 
 ## Daily Trivia
 
 What does RAID stand for?
- 1. Rapid Access for Indexed Devices
- 2. Range of Applications with Identical Designs
- 3. Randomized Abstract Identification Description
- 4. Redundant Array of Independent Disks
+ 1. Randomized Abstract Identification Description
+ 2. Redundant Array of Independent Disks
+ 3. Rapid Access for Indexed Devices
+ 4. Range of Applications with Identical Designs
 
 <details>
   <summary>Answer</summary>
@@ -38,4 +38,4 @@ What does RAID stand for?
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  13 hours 23 minutes</strong> since this server shutdown
+Its been <strong>5 days  13 hours 53 minutes</strong> since this server shutdown
