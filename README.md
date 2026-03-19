@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is a vampire's favorite fruit? A blood orange.
+Camping is intense.
 
 
 ## Daily Trivia
 
-What is the name of Layer 7 of the OSI model?
- 1. Application
- 2. Present
- 3. Network
- 4. Session
+The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
+ 1. Micronesia
+ 2. Marshall Islands
+ 3. Tuvalu
+ 4. Fiji
 
 <details>
   <summary>Answer</summary>
-  Application
+  Micronesia
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  5 hours 53 minutes</strong> since this server shutdown
+Its been <strong>5 days  6 hours 23 minutes</strong> since this server shutdown
