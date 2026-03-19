@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the worst thing about ancient history class? The teachers tend to Babylon.
+So, I heard this pun about cows, but it’s kinda offensive so I won’t say it. I don’t want there to be any beef between us. 
 
 
 ## Daily Trivia
 
-Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
- 1. Heartbleed
- 2. Shellscript
- 3. Corrupted Blood
- 4. Shellshock
+In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
+ 1. static
+ 2. absolute
+ 3. relative
+ 4. center
 
 <details>
   <summary>Answer</summary>
-  Heartbleed
+  center
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  3 hours 23 minutes</strong> since this server shutdown
+Its been <strong>6 days  3 hours 53 minutes</strong> since this server shutdown
