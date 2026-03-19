@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why is the ocean always blue? Because the shore never waves back.
+I used to think I was indecisive, but now I'm not sure.
 
 
 ## Daily Trivia
 
-Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
- 1. Shellshock
- 2. Heartbleed
- 3. Corrupted Blood
- 4. Shellscript
+What was the name of the first Bulgarian personal computer?
+ 1. Pravetz 82
+ 2. Pravetz 8D
+ 3. IZOT 1030
+ 4. IMKO-1
 
 <details>
   <summary>Answer</summary>
-  Heartbleed
+  IMKO-1
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  9 hours 23 minutes</strong> since this server shutdown
+Its been <strong>5 days  9 hours 53 minutes</strong> since this server shutdown
