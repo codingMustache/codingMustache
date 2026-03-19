@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a careful wolf? Aware wolf.
+Have you heard of the band 1023MB? They haven't got a gig yet.
 
 
 ## Daily Trivia
 
-What is the name of Layer 7 of the OSI model?
- 1. Session
- 2. Network
- 3. Present
- 4. Application
+CMOS is tech used for constructing integrated circuits. What does CMOS stand for?
+ 1. Complementary metal&ndash;oxide&ndash;semiconductor
+ 2. Complementary magnetic-ohms-semiconductor
+ 3. Computer-made operating system
+ 4. Computer-made oscillating static
 
 <details>
   <summary>Answer</summary>
-  Application
+  Complementary metal&ndash;oxide&ndash;semiconductor
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  15 hours 53 minutes</strong> since this server shutdown
+Its been <strong>5 days  16 hours 23 minutes</strong> since this server shutdown
