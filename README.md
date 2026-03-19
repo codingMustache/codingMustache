@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A termite walks into a bar and asks “Is the bar tender here?”
+What are the strongest days of the week? Saturday and Sunday...the rest are weekdays.
 
 
 ## Daily Trivia
 
-What was Bitcoin&#039;s block size limit in 2010?
- 1. 1 MB
- 2. 1GB
- 3. 1 KB
- 4. 1 TB
+Australia, Japan, and Southeast Asia are in which ITU Region?
+ 1. Region 1
+ 2. Region 2
+ 3. Region 4
+ 4. Region 3
 
 <details>
   <summary>Answer</summary>
-  1 MB
+  Region 3
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  11 hours 53 minutes</strong> since this server shutdown
+Its been <strong>5 days  12 hours 23 minutes</strong> since this server shutdown
