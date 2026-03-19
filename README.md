@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I wanted to be a tailor but I didn't suit the job
+It’s hard to explain puns to kleptomaniacs, because they take everything literally.
 
 
 ## Daily Trivia
 
-Which SQL keyword is used to fetch data from a database?
- 1. EXEC
- 2. VALUES
- 3. INDEX
- 4. SELECT
+What does AD stand for in relation to Windows Operating Systems? 
+ 1. Active Directory
+ 2. Alternative Drive
+ 3. Automated Database
+ 4. Active Department
 
 <details>
   <summary>Answer</summary>
-  SELECT
+  Active Directory
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  10 hours 53 minutes</strong> since this server shutdown
+Its been <strong>5 days  11 hours 23 minutes</strong> since this server shutdown
