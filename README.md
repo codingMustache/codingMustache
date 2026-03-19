@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the fish say when it swam into a wall? Damn!
+Somebody stole my Microsoft Office and they're going to pay - you have my Word.
 
 
 ## Daily Trivia
 
-When did the online streaming service &quot;Mixer&quot; launch?
- 1. 2016
- 2. 2011
- 3. 2009
- 4. 2013
+The teapot often seen in many 3D modeling applications is called what?
+ 1. Utah Teapot
+ 2. Pixar Teapot
+ 3. 3D Teapot
+ 4. Tennessee Teapot
 
 <details>
   <summary>Answer</summary>
-  2016
+  Utah Teapot
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  14 hours 23 minutes</strong> since this server shutdown
+Its been <strong>5 days  14 hours 53 minutes</strong> since this server shutdown
