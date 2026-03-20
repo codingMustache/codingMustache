@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why don’t seagulls fly over the bay? Because then they’d be bay-gulls!
+Ben & Jerry's really need to improve their operation. The only way to get there is down a rocky road.
 
 
 ## Daily Trivia
 
-Australia, Japan, and Southeast Asia are in which ITU Region?
- 1. Region 3
- 2. Region 4
- 3. Region 2
- 4. Region 1
+What does GHz stand for?
+ 1. Gigahotz
+ 2. Gigahetz
+ 3. Gigahatz
+ 4. Gigahertz
 
 <details>
   <summary>Answer</summary>
-  Region 3
+  Gigahertz
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  6 hours 23 minutes</strong> since this server shutdown
+Its been <strong>6 days  6 hours 53 minutes</strong> since this server shutdown
