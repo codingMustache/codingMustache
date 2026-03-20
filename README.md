@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My friend said to me: "What rhymes with orange" I said: "no it doesn't"
+What's brown and sticky? A stick.
 
 
 ## Daily Trivia
 
-Dutch computer scientist Mark Overmars is known for creating which game development engine?
- 1. Game Maker
- 2. Stencyl
- 3. Construct
- 4. Torque 2D
+Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
+ 1. Skipjack
+ 2. Enigma Machine
+ 3. Nautilus
+ 4. Clipper Chip
 
 <details>
   <summary>Answer</summary>
-  Game Maker
+  Clipper Chip
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  18 hours 53 minutes</strong> since this server shutdown
+Its been <strong>6 days  19 hours 23 minutes</strong> since this server shutdown
