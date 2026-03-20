@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you know if there’s an elephant under your bed? Your head hits the ceiling!
+A man walks into a bar and orders helicopter flavor chips. The barman replies “sorry mate we only do plain”
 
 
 ## Daily Trivia
 
-This mobile OS held the largest market share in 2012.
- 1. BlackBerry
- 2. Android
- 3. iOS
- 4. Symbian
+Who is the original author of the realtime physics engine called PhysX?
+ 1. Ageia
+ 2. Nvidia
+ 3. AMD
+ 4. NovodeX
 
 <details>
   <summary>Answer</summary>
-  iOS
+  NovodeX
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  4 hours 23 minutes</strong> since this server shutdown
+Its been <strong>7 days  4 hours 53 minutes</strong> since this server shutdown
