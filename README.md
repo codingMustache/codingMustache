@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where does batman go to the bathroom? The batroom.
+How does Darth Vader like his toast? On the dark side.
 
 
 ## Daily Trivia
 
-What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
- 1. Heat Sink
- 2. CPU Vent
- 3. Heat Vent
- 4. Temperature Decipator
+Which data structure does FILO apply to?
+ 1. Heap
+ 2. Stack
+ 3. Queue
+ 4. Tree
 
 <details>
   <summary>Answer</summary>
-  Heat Sink
+  Stack
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  14 hours 23 minutes</strong> since this server shutdown
+Its been <strong>6 days  14 hours 53 minutes</strong> since this server shutdown
