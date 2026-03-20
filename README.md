@@ -6,24 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is the best way to carve?
-Whittle by whittle.
+I have kleptomania, but when it gets bad, I take something for it.
 
 
 ## Daily Trivia
 
-In computing, what does MIDI stand for?
- 1. Musical Interface of Digital Instruments
- 2. Modular Interface of Digital Instruments
- 3. Musical Instrument Data Interface
- 4. Musical Instrument Digital Interface
+While Apple was formed in California, in which western state was Microsoft founded?
+ 1. New Mexico
+ 2. Washington
+ 3. Arizona
+ 4. Colorado
 
 <details>
   <summary>Answer</summary>
-  Musical Instrument Digital Interface
+  New Mexico
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  20 hours 53 minutes</strong> since this server shutdown
+Its been <strong>6 days  21 hours 23 minutes</strong> since this server shutdown
