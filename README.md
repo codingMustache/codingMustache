@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the teddy bear say “no” to dessert? Because she was stuffed.
+There’s a new type of broom out, it’s sweeping the nation.
 
 
 ## Daily Trivia
 
-In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
- 1. static
- 2. absolute
- 3. relative
- 4. center
+What is the name of Layer 7 of the OSI model?
+ 1. Present
+ 2. Network
+ 3. Session
+ 4. Application
 
 <details>
   <summary>Answer</summary>
-  center
+  Application
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  11 hours 23 minutes</strong> since this server shutdown
+Its been <strong>6 days  11 hours 53 minutes</strong> since this server shutdown
