@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What has three letters and starts with gas? A Car.
+Did you hear about the new restaurant on the moon? The food is great, but there’s just no atmosphere.
 
 
 ## Daily Trivia
 
-What does GHz stand for?
- 1. Gigahotz
- 2. Gigahetz
- 3. Gigahatz
- 4. Gigahertz
+Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
+ 1. Clipper Chip
+ 2. Skipjack
+ 3. Enigma Machine
+ 4. Nautilus
 
 <details>
   <summary>Answer</summary>
-  Gigahertz
+  Clipper Chip
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  22 hours 53 minutes</strong> since this server shutdown
+Its been <strong>6 days  23 hours 23 minutes</strong> since this server shutdown
