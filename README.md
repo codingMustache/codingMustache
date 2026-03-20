@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the new restaurant on the moon? The food is great, but there’s just no atmosphere.
+Why did the tomato blush? Because it saw the salad dressing.
 
 
 ## Daily Trivia
 
-Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
- 1. Clipper Chip
- 2. Skipjack
- 3. Enigma Machine
- 4. Nautilus
+What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
+ 1. Session
+ 2. Data link
+ 3. Network
+ 4. Transport
 
 <details>
   <summary>Answer</summary>
-  Clipper Chip
+  Transport
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  23 hours 23 minutes</strong> since this server shutdown
+Its been <strong>6 days  23 hours 53 minutes</strong> since this server shutdown
