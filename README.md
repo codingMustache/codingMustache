@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the tomato blush? Because it saw the salad dressing.
+What do you call two barracuda fish?  A Pairacuda!
 
 
 ## Daily Trivia
 
-What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
- 1. Session
- 2. Data link
- 3. Network
- 4. Transport
+Which operating system was released first?
+ 1. Windows
+ 2. Mac OS
+ 3. Linux
+ 4. OS/2
 
 <details>
   <summary>Answer</summary>
-  Transport
+  Mac OS
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  23 hours 53 minutes</strong> since this server shutdown
+Its been <strong>7 days 23 minutes</strong> since this server shutdown
