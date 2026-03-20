@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Shout out to my grandma, that's the only way she can hear.
+I used to hate facial hair, but then it grew on me.
 
 
 ## Daily Trivia
 
-What does the term GPU stand for?
- 1. Graphical Proprietary Unit
- 2. Graphics Processing Unit
- 3. Graphite Producing Unit
- 4. Gaming Processor Unit
+What was the name of the image that features as the default background wallpaper for Windows XP?
+ 1. Azul
+ 2. Red moon desert
+ 3. Bliss
+ 4. Tulips
 
 <details>
   <summary>Answer</summary>
-  Graphics Processing Unit
+  Bliss
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  16 hours 53 minutes</strong> since this server shutdown
+Its been <strong>6 days  17 hours 23 minutes</strong> since this server shutdown
