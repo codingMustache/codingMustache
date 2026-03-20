@@ -6,23 +6,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A man walks into a bar and orders helicopter flavor chips. The barman replies “sorry mate we only do plain”
+Why was Santa's little helper feeling depressed? Because he has low elf esteem.
+
 
 
 ## Daily Trivia
 
-Who is the original author of the realtime physics engine called PhysX?
- 1. Ageia
- 2. Nvidia
- 3. AMD
- 4. NovodeX
+If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
+ 1. Python
+ 2. C++
+ 3. Binary
+ 4. JavaScript
 
 <details>
   <summary>Answer</summary>
-  NovodeX
+  Binary
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  4 hours 53 minutes</strong> since this server shutdown
+Its been <strong>7 days  5 hours 23 minutes</strong> since this server shutdown
