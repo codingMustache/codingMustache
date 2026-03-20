@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My boss told me to have a good day. So I went home...
+A man walks into a bar and orders helicopter flavor chips. The barman replies “sorry mate we only do plain”
 
 
 ## Daily Trivia
 
-What does the acronym CDN stand for in terms of networking?
- 1. Compressed Data Network
- 2. Content Delivery Network
- 3. Computational Data Network
- 4. Content Distribution Network
+How many values can a single byte represent?
+ 1. 256
+ 2. 1024
+ 3. 1
+ 4. 8
 
 <details>
   <summary>Answer</summary>
-  Content Delivery Network
+  256
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  9 hours 53 minutes</strong> since this server shutdown
+Its been <strong>6 days  10 hours 23 minutes</strong> since this server shutdown
