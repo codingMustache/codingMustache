@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Have you heard of the band 1023MB? They haven't got a gig yet.
+How do you know if there’s an elephant under your bed? Your head hits the ceiling!
 
 
 ## Daily Trivia
 
-HTML is what type of language?
- 1. Scripting Language
- 2. Programming Language
- 3. Markup Language
- 4. Macro Language
+This mobile OS held the largest market share in 2012.
+ 1. BlackBerry
+ 2. Android
+ 3. iOS
+ 4. Symbian
 
 <details>
   <summary>Answer</summary>
-  Markup Language
+  iOS
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  3 hours 53 minutes</strong> since this server shutdown
+Its been <strong>7 days  4 hours 23 minutes</strong> since this server shutdown
