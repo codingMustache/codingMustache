@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why is the new Kindle screen textured to look like paper? So you feel write at home.
+What has three letters and starts with gas? A Car.
 
 
 ## Daily Trivia
 
-How many bits are commonly in a single byte?
- 1. Eight bits
- 2.  Fifteen bits
- 3. Twelve bits
- 4. Six bits
+The name of technology company HP stands for what?
+ 1. Howard Packmann
+ 2. Husker-Pollosk
+ 3. Hellman-Pohl
+ 4. Hewlett-Packard
 
 <details>
   <summary>Answer</summary>
-  Eight bits
+  Hewlett-Packard
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  1 hours 23 minutes</strong> since this server shutdown
+Its been <strong>7 days  1 hours 53 minutes</strong> since this server shutdown
