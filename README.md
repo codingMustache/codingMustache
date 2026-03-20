@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Remember, the best angle to approach a problem from is the "try" angle.
+It's only a murder of crows if there's probable caws.
 
 
 ## Daily Trivia
 
-What is the name of the default theme that is installed with Windows XP?
- 1. Bliss
- 2. Luna
- 3. Whistler
- 4. Neptune
+What programming language was GitHub written in?
+ 1. JavaScript
+ 2. Python
+ 3. Ruby
+ 4. Lua
 
 <details>
   <summary>Answer</summary>
-  Luna
+  Ruby
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  19 hours 53 minutes</strong> since this server shutdown
+Its been <strong>6 days  20 hours 23 minutes</strong> since this server shutdown
