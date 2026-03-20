@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do choirs keep buckets handy? So they can carry their tune
+What does a female snake use for support? A co-Bra!
 
 
 ## Daily Trivia
 
-What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
- 1. Session
- 2. Network
- 3. Transport
- 4. Data link
+What is largely considered the precursor to the USB format?
+ 1. SVGA
+ 2. PCIe
+ 3. FireWire
+ 4. PS/2
 
 <details>
   <summary>Answer</summary>
-  Transport
+  PS/2
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  21 hours 53 minutes</strong> since this server shutdown
+Its been <strong>6 days  22 hours 23 minutes</strong> since this server shutdown
