@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I can't take my dog to the pond anymore because the ducks keep attacking him. That's what I get for buying a pure bread dog.
+It’s hard to explain puns to kleptomaniacs, because they take everything literally.
 
 
 ## Daily Trivia
 
-What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
- 1. Data link
- 2. Transport
- 3. Session
- 4. Network
+Nvidia&#039;s headquarters are based in which Silicon Valley city?
+ 1. Santa Clara
+ 2. Mountain View
+ 3. Cupertino
+ 4. Palo Alto
 
 <details>
   <summary>Answer</summary>
-  Transport
+  Santa Clara
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  12 hours 23 minutes</strong> since this server shutdown
+Its been <strong>6 days  12 hours 53 minutes</strong> since this server shutdown
