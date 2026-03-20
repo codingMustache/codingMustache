@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I thought my wife was joking when she said she'd leave me if I didn't stop signing "I'm A Believer"... Then I saw her face.
+How do hens stay fit? They always egg-cercise!
 
 
 ## Daily Trivia
 
-The teapot often seen in many 3D modeling applications is called what?
- 1. Utah Teapot
- 2. Pixar Teapot
- 3. 3D Teapot
- 4. Tennessee Teapot
+On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
+ 1. Asterisk
+ 2. Percent Sign
+ 3. Exclamation Mark
+ 4. Dollar Sign
 
 <details>
   <summary>Answer</summary>
-  Utah Teapot
+  Exclamation Mark
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  2 hours 53 minutes</strong> since this server shutdown
+Its been <strong>7 days  3 hours 23 minutes</strong> since this server shutdown
