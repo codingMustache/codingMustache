@@ -6,24 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Q: What did the spaghetti say to the other spaghetti?
-A: Pasta la vista, baby!
+Archaeology really is a career in ruins.
 
 
 ## Daily Trivia
 
-Unix Time is defined as the number of seconds that have elapsed since when?
- 1. Midnight, July 4, 1980
- 2. Midnight on the creator of Unix&#039;s birthday
- 3. Midnight, July 4, 1976
- 4. Midnight, January 1, 1970
+Which of these names was an actual codename for a cancelled Microsoft project?
+ 1. Pollux
+ 2. Saturn
+ 3. Neptune
+ 4. Enceladus
 
 <details>
   <summary>Answer</summary>
-  Midnight, January 1, 1970
+  Neptune
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  13 hours 23 minutes</strong> since this server shutdown
+Its been <strong>6 days  13 hours 53 minutes</strong> since this server shutdown
