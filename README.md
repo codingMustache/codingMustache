@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Someone asked me, what's the ninth letter of the alphabet? It was a complete guess, but I was right.
+Why is the new Kindle screen textured to look like paper? So you feel write at home.
 
 
 ## Daily Trivia
 
-What five letter word is the motto of the IBM Computer company?
- 1. Click
- 2. Logic
- 3. Pixel
- 4. Think
+How many bits are commonly in a single byte?
+ 1. Eight bits
+ 2.  Fifteen bits
+ 3. Twelve bits
+ 4. Six bits
 
 <details>
   <summary>Answer</summary>
-  Think
+  Eight bits
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days 53 minutes</strong> since this server shutdown
+Its been <strong>7 days  1 hours 23 minutes</strong> since this server shutdown
