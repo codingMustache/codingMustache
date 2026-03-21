@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Two guys walked into a bar, the third one ducked.
+What do you call a boy who stopped digging holes? Douglas.
 
 
 ## Daily Trivia
 
-What was the name of the first Bulgarian personal computer?
- 1. IMKO-1
- 2. IZOT 1030
- 3. Pravetz 8D
- 4. Pravetz 82
+On which day did the World Wide Web go online?
+ 1. November 24, 1995
+ 2. December 17, 1996
+ 3. November 12, 1990
+ 4. December 20, 1990
 
 <details>
   <summary>Answer</summary>
-  IMKO-1
+  December 20, 1990
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  4 hours 34 minutes</strong> since this server shutdown
+Its been <strong>8 days  4 hours 53 minutes</strong> since this server shutdown
