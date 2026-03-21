@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many apples grow on a tree? All of them!
+My sister bet me $15 that I couldn't build a car out of spaghetti. You should have seen the look on her face as I drove pasta.
 
 
 ## Daily Trivia
 
-Generally, which component of a computer draws the most power?
- 1. Power Supply
- 2. Video Card
- 3. Processor
- 4. Hard Drive
+What is the maximum value of a 32-bit signed binary integer?
+ 1. 2,147,483,647
+ 2. 9,223,372,036,854,775,807
+ 3. 2048
+ 4. 255
 
 <details>
   <summary>Answer</summary>
-  Video Card
+  2,147,483,647
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  17 hours 53 minutes</strong> since this server shutdown
+Its been <strong>7 days  18 hours 23 minutes</strong> since this server shutdown
