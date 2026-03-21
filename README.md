@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you know Albert Einstein was a real person? All this time, I thought he was just a theoretical physicist!
+Camping is intense.
 
 
 ## Daily Trivia
 
-Which computer language would you associate Django framework with?
- 1. C#
- 2. C++
- 3. Java
- 4. Python
+Who invented the &quot;Spanning Tree Protocol&quot;?
+ 1. Radia Perlman
+ 2. Vint Cerf
+ 3. Michael Roberts
+ 4. Paul Vixie
 
 <details>
   <summary>Answer</summary>
-  Python
+  Radia Perlman
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  15 hours 23 minutes</strong> since this server shutdown
+Its been <strong>7 days  15 hours 53 minutes</strong> since this server shutdown
