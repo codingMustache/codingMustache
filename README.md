@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts.
+What do you call a fake noodle? An impasta.
 
 
 ## Daily Trivia
 
-What was the name of the security vulnerability found in Bash in 2014?
- 1. Heartbleed
- 2. Bashbug
- 3. Stagefright
- 4. Shellshock
+Dutch computer scientist Mark Overmars is known for creating which game development engine?
+ 1. Torque 2D
+ 2. Construct
+ 3. Game Maker
+ 4. Stencyl
 
 <details>
   <summary>Answer</summary>
-  Shellshock
+  Game Maker
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  19 hours 53 minutes</strong> since this server shutdown
+Its been <strong>7 days  20 hours 23 minutes</strong> since this server shutdown
