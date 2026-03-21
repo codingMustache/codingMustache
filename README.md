@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you get if you put a duck in a cement mixer? Quacks in the pavement.
+I adopted my dog from a blacksmith. As soon as we got home he made a bolt for the door.
 
 
 ## Daily Trivia
 
-What five letter word is the motto of the IBM Computer company?
- 1. Click
- 2. Logic
- 3. Think
- 4. Pixel
+What does LTS stand for in the software market?
+ 1. Ludicrous Turbo Speed
+ 2. Long Term Support
+ 3. Long Taco Service
+ 4. Ludicrous Transfer Speed
 
 <details>
   <summary>Answer</summary>
-  Think
+  Long Term Support
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  21 hours 23 minutes</strong> since this server shutdown
+Its been <strong>7 days  21 hours 53 minutes</strong> since this server shutdown
