@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did one snowman say to the other snow man? Do you smell carrot?
+Ever wondered why bees hum? It's because they don't know the words.
 
 
 ## Daily Trivia
 
-In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
- 1. console.log(&quot;Hello World&quot;)
- 2. print(&quot;Hello World&quot;)
- 3. echo &quot;Hello World&quot;
- 4. printf(&quot;Hello World&quot;)
+Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
+ 1. Puma
+ 2. Tiger
+ 3. Leopard
+ 4. Cheetah
 
 <details>
   <summary>Answer</summary>
-  print(&quot;Hello World&quot;)
+  Cheetah
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  16 hours 53 minutes</strong> since this server shutdown
+Its been <strong>7 days  17 hours 23 minutes</strong> since this server shutdown
