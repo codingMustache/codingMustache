@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I couldn't get a reservation at the library. They were completely booked.
+"I'm sorry." "Hi sorry, I'm dad"
 
 
 ## Daily Trivia
 
-Which of these names was an actual codename for a cancelled Microsoft project?
- 1. Pollux
- 2. Enceladus
- 3. Neptune
- 4. Saturn
+What does the term MIME stand for, in regards to computing?
+ 1. Mail Internet Mail Exchange
+ 2. Multipurpose Internet Mail Extensions
+ 3. Multipurpose Interleave Mail Exchange
+ 4. Mail Interleave Method Exchange
 
 <details>
   <summary>Answer</summary>
-  Neptune
+  Multipurpose Internet Mail Extensions
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  2 hours 53 minutes</strong> since this server shutdown
+Its been <strong>8 days  3 hours 23 minutes</strong> since this server shutdown
