@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Camping is intense.
+"Dad, I'm hungry." Hello, Hungry. I'm Dad.
 
 
 ## Daily Trivia
 
-Who invented the &quot;Spanning Tree Protocol&quot;?
- 1. Radia Perlman
- 2. Vint Cerf
- 3. Michael Roberts
- 4. Paul Vixie
+Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
+ 1. C#
+ 2. JavaScript
+ 3. Python
+ 4. PHP
 
 <details>
   <summary>Answer</summary>
-  Radia Perlman
+  JavaScript
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  15 hours 53 minutes</strong> since this server shutdown
+Its been <strong>7 days  16 hours 23 minutes</strong> since this server shutdown
