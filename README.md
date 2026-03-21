@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I saw my husband trip and fall while carrying a laundry basket full of ironed clothes. I watched it all unfold.
+Never take advice from electrons. They are always negative.
 
 
 ## Daily Trivia
 
-The programming language &#039;Swift&#039; was created to replace what other programming language?
- 1. C#
- 2. Ruby
- 3. C++
- 4. Objective-C
+Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
+ 1. Cherry MX Red
+ 2. Cherry MX Blue
+ 3. Cherry MX Brown
+ 4. Cherry MX Black
 
 <details>
   <summary>Answer</summary>
-  Objective-C
+  Cherry MX Blue
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  22 hours 23 minutes</strong> since this server shutdown
+Its been <strong>7 days  22 hours 53 minutes</strong> since this server shutdown
