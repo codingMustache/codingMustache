@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-There's not really any training for garbagemen. They just pick things up as they go.
+Have you heard about the owl sanctuary job opening? It’s all night shifts but they’re all a hoot over there.
 
 
 ## Daily Trivia
 
-When Gmail first launched, how much storage did it provide for your email?
- 1. 1GB
- 2. Unlimited
- 3. 5GB
- 4. 512MB
+Which of the following physical typologies are used with Ethernet Networks?
+ 1. Mesh
+ 2. Star
+ 3. Hex
+ 4. Ring
 
 <details>
   <summary>Answer</summary>
-  1GB
+  Star
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  11 hours 53 minutes</strong> since this server shutdown
+Its been <strong>7 days  12 hours 23 minutes</strong> since this server shutdown
