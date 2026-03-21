@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where does batman go to the bathroom? The batroom.
+I've started telling everyone about the benefits of eating dried grapes. It's all about raisin awareness.
 
 
 ## Daily Trivia
 
-The numbering system with a radix of 16 is more commonly referred to as 
- 1. Duodecimal
- 2. Hexidecimal
- 3. Octal
- 4. Binary
+What does CPU stand for?
+ 1. Central Processing Unit
+ 2. Central Processor Unit
+ 3. Computer Personal Unit
+ 4. Central Process Unit
 
 <details>
   <summary>Answer</summary>
-  Hexidecimal
+  Central Processing Unit
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  18 hours 53 minutes</strong> since this server shutdown
+Its been <strong>7 days  19 hours 23 minutes</strong> since this server shutdown
