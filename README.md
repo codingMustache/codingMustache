@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Can a kangaroo jump higher than the Empire State Building? Of course. The Empire State Building can't jump.
+Did you know Albert Einstein was a real person? All this time, I thought he was just a theoretical physicist!
 
 
 ## Daily Trivia
 
-What was the first commerically available computer processor?
- 1. AMD AM386
- 2. Intel 4004
- 3. TMS 1000
- 4. Intel 486SX
+Which computer language would you associate Django framework with?
+ 1. C#
+ 2. C++
+ 3. Java
+ 4. Python
 
 <details>
   <summary>Answer</summary>
-  Intel 4004
+  Python
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  14 hours 53 minutes</strong> since this server shutdown
+Its been <strong>7 days  15 hours 23 minutes</strong> since this server shutdown
