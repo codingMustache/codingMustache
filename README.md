@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why is it a bad idea to iron your four-leaf clover? Cause you shouldn't press your luck.
+A beekeeper was indicted after he confessed to years of stealing at work. They charged him with emBEEzlement
 
 
 ## Daily Trivia
 
-Which of these names was an actual codename for a cancelled Microsoft project?
- 1. Enceladus
- 2. Pollux
- 3. Saturn
- 4. Neptune
+What internet protocol was documented in RFC 1459?
+ 1. HTTP
+ 2. IRC
+ 3. HTTPS
+ 4. FTP
 
 <details>
   <summary>Answer</summary>
-  Neptune
+  IRC
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  1 hours 23 minutes</strong> since this server shutdown
+Its been <strong>8 days  1 hours 53 minutes</strong> since this server shutdown
