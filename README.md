@@ -18,7 +18,7 @@ Hello I'm Jorge and I love making things for the internet
     <tr>
       <td><img src="https://image.tmdb.org/t/p/w300_and_h300_face/fRu9zQFdWHjEVyHwnIYqm0LRoKA.jpg" alt="Broad City" width="100%" height="auto"/></td>
       <td><strong>Broad City</strong></td>
-      <td><code>S01E01</code> <em>What A Wonderful World</em></td>
+      <td><code>S01E02</code> <em>Pu$$y Weed</em></td>
       <td>⭐ 7.13 / 10</td>
       <td>Broad City follows two women throughout their daily lives in New York City, making the smallest and mundane events hysterical and disturbing to watch all at the same time.</td>
     </tr>
@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It's only a murder of crows if there's probable caws.
+Do you know where you can get chicken broth in bulk? The stock market.
 
 
 ## Daily Trivia
 
-What is the name of Layer 7 of the OSI model?
- 1. Network
- 2. Session
- 3. Application
- 4. Present
+When was the programming language &quot;C#&quot; released?
+ 1. 1998
+ 2. 1999
+ 3. 2001
+ 4. 2000
 
 <details>
   <summary>Answer</summary>
-  Application
+  2000
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  5 hours 23 minutes</strong> since this server shutdown
+Its been <strong>8 days  5 hours 53 minutes</strong> since this server shutdown
