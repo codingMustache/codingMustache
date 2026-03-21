@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why can’t you hear a pterodactyl go to the bathroom? The p is silent.
+Every machine in the coin factory broke down all of a sudden without explanation. It just doesn’t make any cents.
 
 
 ## Daily Trivia
 
-On which day did the World Wide Web go online?
- 1. November 24, 1995
- 2. December 20, 1990
- 3. November 12, 1990
- 4. December 17, 1996
+Which of these is not a key value of Agile software development?
+ 1. Responding to change
+ 2. Comprehensive documentation
+ 3. Customer collaboration
+ 4. Individuals and interactions
 
 <details>
   <summary>Answer</summary>
-  December 20, 1990
+  Comprehensive documentation
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  3 hours 53 minutes</strong> since this server shutdown
+Its been <strong>8 days  4 hours 23 minutes</strong> since this server shutdown
