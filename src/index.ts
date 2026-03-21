@@ -1,4 +1,4 @@
-import { handleAllGitactions } from "./utils/git-actions.ts";
+import { handleAllGitActions } from "./utils/git-actions.ts";
 import { handleReadMeRewrite } from "./utils/readme-rewrite.ts";
 
 try {
@@ -7,7 +7,7 @@ try {
 	console.error(e);
 }
 try {
-	await handleAllGitactions();
+	await handleAllGitActions();
 } catch (e) {
 	console.error(e);
 }

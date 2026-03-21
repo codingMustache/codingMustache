@@ -33,7 +33,7 @@ const GitHandler = {
 	},
 };
 
-export const handleAllGitactions = async () => {
+export const handleAllGitActions = async () => {
 	try {
 		await GitHandler.pullReadMe();
 		await GitHandler.addReadMe();
