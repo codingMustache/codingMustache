@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-If you want a job in the moisturizer industry, the best advice I can give is to apply daily.
+What do you call a careful wolf? Aware wolf.
 
 
 ## Daily Trivia
 
-How many bits are commonly in a single byte?
- 1.  Fifteen bits
- 2. Twelve bits
- 3. Six bits
- 4. Eight bits
+Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
+ 1. Two Years
+ 2. Four Years
+ 3. Eight Years
+ 4. Year
 
 <details>
   <summary>Answer</summary>
-  Eight bits
+  Year
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  9 hours 53 minutes</strong> since this server shutdown
+Its been <strong>7 days  10 hours 23 minutes</strong> since this server shutdown
