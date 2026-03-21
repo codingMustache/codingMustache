@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you tell the difference between a crocodile and an alligator? You will see one later and one in a while.
+There's not really any training for garbagemen. They just pick things up as they go.
 
 
 ## Daily Trivia
 
-If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
- 1. C++
- 2. Binary
- 3. JavaScript
- 4. Python
+When Gmail first launched, how much storage did it provide for your email?
+ 1. 1GB
+ 2. Unlimited
+ 3. 5GB
+ 4. 512MB
 
 <details>
   <summary>Answer</summary>
-  Binary
+  1GB
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  11 hours 23 minutes</strong> since this server shutdown
+Its been <strong>7 days  11 hours 53 minutes</strong> since this server shutdown
