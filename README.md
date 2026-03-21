@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-In my career as a lumberjack I cut down exactly 52,487 trees. I know because I kept a log.
+Why are pirates called pirates? Because they arrr!
 
 
 ## Daily Trivia
 
-What did the name of the Tor Anonymity Network orignially stand for?
- 1. The Onion Router
- 2. The Ominous Router
- 3. The Orange Router
- 4. The Only Router
+Laserjet and inkjet printers are both examples of what type of printer?
+ 1. Daisywheel printer
+ 2. Non-impact printer
+ 3. Dot matrix printer
+ 4. Impact printer
 
 <details>
   <summary>Answer</summary>
-  The Onion Router
+  Non-impact printer
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  8 hours 53 minutes</strong> since this server shutdown
+Its been <strong>7 days  9 hours 23 minutes</strong> since this server shutdown
