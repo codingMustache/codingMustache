@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A beekeeper was indicted after he confessed to years of stealing at work. They charged him with emBEEzlement
+I just broke my guitar. It's okay, I won't fret
 
 
 ## Daily Trivia
 
-What internet protocol was documented in RFC 1459?
- 1. HTTP
- 2. IRC
- 3. HTTPS
- 4. FTP
+How many kilobytes in one gigabyte (in decimal)?
+ 1. 1000000
+ 2. 1048576
+ 3. 1000
+ 4. 1024
 
 <details>
   <summary>Answer</summary>
-  IRC
+  1000000
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  1 hours 53 minutes</strong> since this server shutdown
+Its been <strong>8 days  2 hours 23 minutes</strong> since this server shutdown
