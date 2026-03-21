@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Never take advice from electrons. They are always negative.
+How do you make a water bed more bouncy. You use Spring Water
 
 
 ## Daily Trivia
 
-Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
- 1. Cherry MX Red
- 2. Cherry MX Blue
- 3. Cherry MX Brown
- 4. Cherry MX Black
+Which SQL keyword is used to fetch data from a database?
+ 1. EXEC
+ 2. SELECT
+ 3. INDEX
+ 4. VALUES
 
 <details>
   <summary>Answer</summary>
-  Cherry MX Blue
+  SELECT
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  22 hours 53 minutes</strong> since this server shutdown
+Its been <strong>7 days  23 hours 23 minutes</strong> since this server shutdown
