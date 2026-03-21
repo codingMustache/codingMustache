@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a fake noodle? An impasta.
+A boy dug three holes in the yard. When his mother saw, she exclaimed: "well, well, well"
 
 
 ## Daily Trivia
 
-Dutch computer scientist Mark Overmars is known for creating which game development engine?
- 1. Torque 2D
- 2. Construct
- 3. Game Maker
- 4. Stencyl
+How many bits make up the significand portion of a single precision floating point number?
+ 1. 53
+ 2. 15
+ 3. 8
+ 4. 23
 
 <details>
   <summary>Answer</summary>
-  Game Maker
+  23
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  20 hours 23 minutes</strong> since this server shutdown
+Its been <strong>7 days  20 hours 53 minutes</strong> since this server shutdown
