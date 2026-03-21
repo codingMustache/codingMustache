@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-"Dad, I'm hungry." Hello, Hungry. I'm Dad.
+What did one snowman say to the other snow man? Do you smell carrot?
 
 
 ## Daily Trivia
 
-Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
- 1. C#
- 2. JavaScript
- 3. Python
- 4. PHP
+In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
+ 1. console.log(&quot;Hello World&quot;)
+ 2. print(&quot;Hello World&quot;)
+ 3. echo &quot;Hello World&quot;
+ 4. printf(&quot;Hello World&quot;)
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  print(&quot;Hello World&quot;)
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  16 hours 23 minutes</strong> since this server shutdown
+Its been <strong>7 days  16 hours 53 minutes</strong> since this server shutdown
