@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are pirates called pirates? Because they arrr!
+If you want a job in the moisturizer industry, the best advice I can give is to apply daily.
 
 
 ## Daily Trivia
 
-Laserjet and inkjet printers are both examples of what type of printer?
- 1. Daisywheel printer
- 2. Non-impact printer
- 3. Dot matrix printer
- 4. Impact printer
+How many bits are commonly in a single byte?
+ 1.  Fifteen bits
+ 2. Twelve bits
+ 3. Six bits
+ 4. Eight bits
 
 <details>
   <summary>Answer</summary>
-  Non-impact printer
+  Eight bits
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  9 hours 23 minutes</strong> since this server shutdown
+Its been <strong>7 days  9 hours 53 minutes</strong> since this server shutdown
