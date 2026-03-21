@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why didn’t the orange win the race? It ran out of juice.
+What did the scarf say to the hat? You go on ahead, I am going to hang around a bit longer.
 
 
 ## Daily Trivia
 
-What does the Prt Sc button do?
- 1. Nothing
- 2. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
- 3. Closes all windows
- 4. Captures what&#039;s on the screen and copies it to your clipboard
+What does &quot;LCD&quot; stand for?
+ 1. Liquid Crystal Display
+ 2. Language Control Design
+ 3. Last Common Difference
+ 4. Long Continuous Design
 
 <details>
   <summary>Answer</summary>
-  Captures what&#039;s on the screen and copies it to your clipboard
+  Liquid Crystal Display
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  6 hours 53 minutes</strong> since this server shutdown
+Its been <strong>7 days  7 hours 23 minutes</strong> since this server shutdown
