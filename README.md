@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Ever wondered why bees hum? It's because they don't know the words.
+How many apples grow on a tree? All of them!
 
 
 ## Daily Trivia
 
-Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
- 1. Puma
- 2. Tiger
- 3. Leopard
- 4. Cheetah
+Generally, which component of a computer draws the most power?
+ 1. Power Supply
+ 2. Video Card
+ 3. Processor
+ 4. Hard Drive
 
 <details>
   <summary>Answer</summary>
-  Cheetah
+  Video Card
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  17 hours 23 minutes</strong> since this server shutdown
+Its been <strong>7 days  17 hours 53 minutes</strong> since this server shutdown
