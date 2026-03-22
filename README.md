@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do fish live in salt water? Because pepper makes them sneeze!
+When I left school, I passed every one of my exams with the exception of Greek Mythology. It always was my achilles elbow
 
 
 ## Daily Trivia
 
-Which kind of algorithm is Ron Rivest not famous for creating?
- 1. Secret sharing scheme
- 2. Stream cipher
- 3. Asymmetric encryption
- 4. Hashing algorithm
+What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
+ 1. ADPCM Sampler
+ 2. PCM Sampler
+ 3. FM Synthesizer
+ 4. Programmable Sound Generator (PSG)
 
 <details>
   <summary>Answer</summary>
-  Secret sharing scheme
+  ADPCM Sampler
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  16 hours 53 minutes</strong> since this server shutdown
+Its been <strong>8 days  17 hours 23 minutes</strong> since this server shutdown
