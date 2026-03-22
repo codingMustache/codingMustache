@@ -7,35 +7,35 @@ Hello I'm Jorge and I love making things for the internet
 <table>
   <tr>
     <td valign="top" width="75%">
-      <h3>Mortal Kombat</h3>
+      <h3>Is This Thing On?</h3>
       <p>undefined</p>
       <p>⭐ <strong>undefined</strong> / 10</p>
     </td>
     <td valign="top" align="right">
-      <img src="undefined" alt="Mortal Kombat" width="150px"/>
+      <img src="undefined" alt="Is This Thing On?" width="150px"/>
     </td>
   </tr>
 </table>
 
 ## Joke of the Day
 
-I decided to sell my Hoover… well it was just collecting dust.
+Why did the kid cross the playground? To get to the other slide.
 
 
 ## Daily Trivia
 
-Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
- 1. Microsoft
- 2. Atari
- 3. Apple
- 4. Commodore
+What was the name given to Android 4.3?
+ 1. Jelly Bean
+ 2. Lollipop
+ 3. Nutella
+ 4. Froyo
 
 <details>
   <summary>Answer</summary>
-  Apple
+  Jelly Bean
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  4 hours 53 minutes</strong> since this server shutdown
+Its been <strong>9 days  5 hours 23 minutes</strong> since this server shutdown
