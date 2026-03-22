@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-There's not really any training for garbagemen. They just pick things up as they go.
+My boss told me to have a good day. So I went home...
 
 
 ## Daily Trivia
 
-What amount of bits commonly equals one byte?
- 1. 1
- 2. 8
- 3. 2
- 4. 64
+What is the commonly used keyboard shortcut for the &#039;Copy&#039; function on Windows OS?
+ 1. Ctrl + C
+ 2. Alt + X
+ 3. Alt + C
+ 4. Ctrl + X
 
 <details>
   <summary>Answer</summary>
-  8
+  Ctrl + C
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  18 hours 23 minutes</strong> since this server shutdown
+Its been <strong>8 days  18 hours 53 minutes</strong> since this server shutdown
