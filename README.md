@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My boss told me to have a good day. So I went home...
+It's only a murder of crows if there's probable caws.
 
 
 ## Daily Trivia
 
-What is the commonly used keyboard shortcut for the &#039;Copy&#039; function on Windows OS?
- 1. Ctrl + C
- 2. Alt + X
- 3. Alt + C
- 4. Ctrl + X
+Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
+ 1. Year
+ 2. Eight Years
+ 3. Two Years
+ 4. Four Years
 
 <details>
   <summary>Answer</summary>
-  Ctrl + C
+  Year
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  18 hours 53 minutes</strong> since this server shutdown
+Its been <strong>8 days  19 hours 23 minutes</strong> since this server shutdown
