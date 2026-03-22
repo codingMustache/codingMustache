@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Is the pool safe for diving? It deep ends.
+I couldn't figure out how the seat belt worked. Then it just clicked.
 
 
 ## Daily Trivia
 
-Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
- 1. Cherry MX Blue
- 2. Cherry MX Black
- 3. Cherry MX Brown
- 4. Cherry MX Red
+How many values can a single byte represent?
+ 1. 1024
+ 2. 1
+ 3. 8
+ 4. 256
 
 <details>
   <summary>Answer</summary>
-  Cherry MX Blue
+  256
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  15 hours 53 minutes</strong> since this server shutdown
+Its been <strong>8 days  16 hours 23 minutes</strong> since this server shutdown
