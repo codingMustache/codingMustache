@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the kid cross the playground? To get to the other slide.
+I always wanted to look into why I procrastinate, but I keep putting it off. 
 
 
 ## Daily Trivia
 
-What was the name given to Android 4.3?
- 1. Jelly Bean
- 2. Lollipop
- 3. Nutella
- 4. Froyo
+What was the name of the first Bulgarian personal computer?
+ 1. Pravetz 82
+ 2. IMKO-1
+ 3. Pravetz 8D
+ 4. IZOT 1030
 
 <details>
   <summary>Answer</summary>
-  Jelly Bean
+  IMKO-1
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  5 hours 23 minutes</strong> since this server shutdown
+Its been <strong>9 days  5 hours 53 minutes</strong> since this server shutdown
