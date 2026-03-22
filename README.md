@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are basketball players messy eaters? Because they are always dribbling.
+Why did the cowboy have a weiner dog? Somebody told him to get a long little doggy.
 
 
 ## Daily Trivia
 
-What internet protocol was documented in RFC 1459?
- 1. HTTP
- 2. HTTPS
- 3. FTP
- 4. IRC
+Which of these people was NOT a founder of Apple Inc?
+ 1. Steve Wozniak
+ 2. Jonathan Ive
+ 3. Ronald Wayne
+ 4. Steve Jobs
 
 <details>
   <summary>Answer</summary>
-  IRC
+  Jonathan Ive
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  9 hours 23 minutes</strong> since this server shutdown
+Its been <strong>8 days  9 hours 53 minutes</strong> since this server shutdown
