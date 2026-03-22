@@ -27,23 +27,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Sore throats are a pain in the neck!
+What is red and smells like blue paint?
+Red paint!
 
 
 ## Daily Trivia
 
-How many kilobytes in one gigabyte (in decimal)?
- 1. 1000000
- 2. 1000
- 3. 1048576
- 4. 1024
+What is largely considered the precursor to the USB format?
+ 1. SVGA
+ 2. PCIe
+ 3. PS/2
+ 4. FireWire
 
 <details>
   <summary>Answer</summary>
-  1000000
+  PS/2
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days 23 minutes</strong> since this server shutdown
+Its been <strong>9 days 53 minutes</strong> since this server shutdown
