@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the house go to the doctor? It was having window panes.
+What do you call a bee that lives in America? A USB.
 
 
 ## Daily Trivia
 
-When was the programming language &quot;C#&quot; released?
- 1. 1999
- 2. 2000
- 3. 1998
- 4. 2001
+This mobile OS held the largest market share in 2012.
+ 1. Symbian
+ 2. BlackBerry
+ 3. Android
+ 4. iOS
 
 <details>
   <summary>Answer</summary>
-  2000
+  iOS
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  20 hours 53 minutes</strong> since this server shutdown
+Its been <strong>8 days  21 hours 23 minutes</strong> since this server shutdown
