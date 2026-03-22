@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor.
+Sgt.: Commissar! Commissar! The troops are revolting! Commissar: Well, you’re pretty repulsive yourself.
 
 
 ## Daily Trivia
 
-What amount of bits commonly equals one byte?
- 1. 1
- 2. 8
- 3. 2
- 4. 64
+What does the &#039;S&#039; in the RSA encryption algorithm stand for?
+ 1. Shamir
+ 2. Stable
+ 3. Schottky
+ 4. Secure
 
 <details>
   <summary>Answer</summary>
-  8
+  Shamir
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  1 hours 23 minutes</strong> since this server shutdown
+Its been <strong>9 days  1 hours 53 minutes</strong> since this server shutdown
