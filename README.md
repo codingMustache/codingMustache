@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to work for a soft drink can crusher. It was soda pressing.
+Sore throats are a pain in the neck!
 
 
 ## Daily Trivia
 
-Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
- 1. Amazon
- 2. eBay
- 3. Overstock
- 4. Shopify
+How many kilobytes in one gigabyte (in decimal)?
+ 1. 1000000
+ 2. 1000
+ 3. 1048576
+ 4. 1024
 
 <details>
   <summary>Answer</summary>
-  Amazon
+  1000000
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  23 hours 53 minutes</strong> since this server shutdown
+Its been <strong>9 days 23 minutes</strong> since this server shutdown
