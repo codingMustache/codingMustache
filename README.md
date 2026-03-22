@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Two satellites decided to get married. The wedding wasn't much, but the reception was incredible.
+Why did the banana go to the doctor? He was not "peeling" well.
 
 
 ## Daily Trivia
 
-The name of technology company HP stands for what?
- 1. Howard Packmann
- 2. Husker-Pollosk
- 3. Hewlett-Packard
- 4. Hellman-Pohl
+In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
+ 1. absolute
+ 2. static
+ 3. relative
+ 4. center
 
 <details>
   <summary>Answer</summary>
-  Hewlett-Packard
+  center
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  21 hours 53 minutes</strong> since this server shutdown
+Its been <strong>8 days  22 hours 23 minutes</strong> since this server shutdown
