@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the cowboy have a weiner dog? Somebody told him to get a long little doggy.
+What do you call a droid that takes the long way around? R2 detour.
 
 
 ## Daily Trivia
 
-Which of these people was NOT a founder of Apple Inc?
- 1. Steve Wozniak
- 2. Jonathan Ive
- 3. Ronald Wayne
- 4. Steve Jobs
+HTML is what type of language?
+ 1. Programming Language
+ 2. Markup Language
+ 3. Macro Language
+ 4. Scripting Language
 
 <details>
   <summary>Answer</summary>
-  Jonathan Ive
+  Markup Language
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  9 hours 53 minutes</strong> since this server shutdown
+Its been <strong>8 days  10 hours 23 minutes</strong> since this server shutdown
