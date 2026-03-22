@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the guy whose whole left side was cut off? He's all right now.
+Where do you learn to make banana splits? At sundae school.
 
 
 ## Daily Trivia
 
-In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
- 1. static
- 2. absolute
- 3. relative
- 4. center
+Who is the founder of Palantir?
+ 1. Mark Zuckerberg
+ 2. Marc Benioff
+ 3. Jack Dorsey
+ 4. Peter Thiel
 
 <details>
   <summary>Answer</summary>
-  center
+  Peter Thiel
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  3 hours 23 minutes</strong> since this server shutdown
+Its been <strong>9 days  3 hours 53 minutes</strong> since this server shutdown
