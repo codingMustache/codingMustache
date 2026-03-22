@@ -27,24 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is red and smells like blue paint?
-Red paint!
+Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor.
 
 
 ## Daily Trivia
 
-What is largely considered the precursor to the USB format?
- 1. SVGA
- 2. PCIe
- 3. PS/2
- 4. FireWire
+What amount of bits commonly equals one byte?
+ 1. 1
+ 2. 8
+ 3. 2
+ 4. 64
 
 <details>
   <summary>Answer</summary>
-  PS/2
+  8
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days 53 minutes</strong> since this server shutdown
+Its been <strong>9 days  1 hours 23 minutes</strong> since this server shutdown
