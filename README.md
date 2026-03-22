@@ -16,34 +16,34 @@ Hello I'm Jorge and I love making things for the internet
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://image.tmdb.org/t/p/w300_and_h300_face/ng3cMtxYKt1OSQYqFlnKWnVsqNO.jpg" alt="The Walking Dead" width="100%" height="auto"/></td>
-      <td><strong>The Walking Dead</strong></td>
-      <td><code>S08E06</code> <em>The King, The Widow, And Rick</em></td>
-      <td>⭐ 8.08 / 10</td>
-      <td>Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way.</td>
+      <td><img src="https://image.tmdb.org/t/p/w300_and_h300_face/fRu9zQFdWHjEVyHwnIYqm0LRoKA.jpg" alt="Broad City" width="100%" height="auto"/></td>
+      <td><strong>Broad City</strong></td>
+      <td><code>S02E03</code> <em>Wisdom Teeth</em></td>
+      <td>⭐ 7.1 / 10</td>
+      <td>Broad City follows two women throughout their daily lives in New York City, making the smallest and mundane events hysterical and disturbing to watch all at the same time.</td>
     </tr>
   </tbody>
 </table>
 
 ## Joke of the Day
 
-Why do nurses carry around red crayons? Sometimes they need to draw blood.
+I bought shoes from a drug dealer once. I don't know what he laced them with, but I was tripping all day.
 
 
 ## Daily Trivia
 
-The name of technology company HP stands for what?
- 1. Hewlett-Packard
- 2. Howard Packmann
- 3. Husker-Pollosk
- 4. Hellman-Pohl
+In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
+ 1. &lt;slide&gt;&lt;/slide&gt;
+ 2. &lt;scroll&gt;&lt;/scroll&gt;
+ 3. &lt;marquee&gt;&lt;/marquee&gt;
+ 4. &lt;move&gt;&lt;/move&gt;
 
 <details>
   <summary>Answer</summary>
-  Hewlett-Packard
+  &lt;marquee&gt;&lt;/marquee&gt;
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  11 hours 53 minutes</strong> since this server shutdown
+Its been <strong>8 days  12 hours 23 minutes</strong> since this server shutdown
