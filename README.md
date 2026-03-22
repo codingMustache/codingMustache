@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I’m on a whiskey diet. I’ve lost three days already.
+Why do nurses carry around red crayons? Sometimes they need to draw blood.
 
 
 ## Daily Trivia
 
-According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:
- 1. A&#039; + B&#039;
- 2. AB&#039; + AB
- 3. A&#039;B&#039;
- 4. A&#039;B + B&#039;A
+The name of technology company HP stands for what?
+ 1. Hewlett-Packard
+ 2. Howard Packmann
+ 3. Husker-Pollosk
+ 4. Hellman-Pohl
 
 <details>
   <summary>Answer</summary>
-  A&#039; + B&#039;
+  Hewlett-Packard
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  11 hours 23 minutes</strong> since this server shutdown
+Its been <strong>8 days  11 hours 53 minutes</strong> since this server shutdown
