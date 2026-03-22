@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do bees do after they are married? They go on a honeymoon.
+Why did the house go to the doctor? It was having window panes.
 
 
 ## Daily Trivia
 
-.at is the top-level domain for what country?
- 1. Austria
- 2. Angola
- 3. Australia
- 4. Argentina
+When was the programming language &quot;C#&quot; released?
+ 1. 1999
+ 2. 2000
+ 3. 1998
+ 4. 2001
 
 <details>
   <summary>Answer</summary>
-  Austria
+  2000
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  20 hours 23 minutes</strong> since this server shutdown
+Its been <strong>8 days  20 hours 53 minutes</strong> since this server shutdown
