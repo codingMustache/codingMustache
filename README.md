@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of tree fits in your hand? A palm tree!
+There's not really any training for garbagemen. They just pick things up as they go.
 
 
 ## Daily Trivia
 
-In computing terms, typically what does CLI stand for?
- 1. Common Language Interface
- 2. Control Line Interface
- 3. Command Line Interface
- 4. Common Language Input
+What amount of bits commonly equals one byte?
+ 1. 1
+ 2. 8
+ 3. 2
+ 4. 64
 
 <details>
   <summary>Answer</summary>
-  Command Line Interface
+  8
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  17 hours 53 minutes</strong> since this server shutdown
+Its been <strong>8 days  18 hours 23 minutes</strong> since this server shutdown
