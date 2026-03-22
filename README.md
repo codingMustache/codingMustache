@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It's only a murder of crows if there's probable caws.
+Why do nurses carry around red crayons? Sometimes they need to draw blood.
 
 
 ## Daily Trivia
 
-Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
- 1. Year
- 2. Eight Years
- 3. Two Years
- 4. Four Years
+What does LTS stand for in the software market?
+ 1. Long Term Support
+ 2. Ludicrous Turbo Speed
+ 3. Ludicrous Transfer Speed
+ 4. Long Taco Service
 
 <details>
   <summary>Answer</summary>
-  Year
+  Long Term Support
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  19 hours 23 minutes</strong> since this server shutdown
+Its been <strong>8 days  19 hours 53 minutes</strong> since this server shutdown
