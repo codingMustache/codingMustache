@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I’ve just been reading a book about anti-gravity, it’s impossible to put down!
+I used to work for a soft drink can crusher. It was soda pressing.
 
 
 ## Daily Trivia
 
-What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
- 1. Sandy Bridge
- 2. Skylake
- 3. Broadwell
- 4. Coffee Lake
+Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
+ 1. Amazon
+ 2. eBay
+ 3. Overstock
+ 4. Shopify
 
 <details>
   <summary>Answer</summary>
-  Coffee Lake
+  Amazon
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  23 hours 23 minutes</strong> since this server shutdown
+Its been <strong>8 days  23 hours 53 minutes</strong> since this server shutdown
