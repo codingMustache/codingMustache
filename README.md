@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a droid that takes the long way around? R2 detour.
+Why are fish easy to weigh? Because they have their own scales.
 
 
 ## Daily Trivia
 
-HTML is what type of language?
- 1. Programming Language
- 2. Markup Language
- 3. Macro Language
- 4. Scripting Language
+In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
+ 1. Final
+ 2. Public
+ 3. Private
+ 4. Static
 
 <details>
   <summary>Answer</summary>
-  Markup Language
+  Final
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  10 hours 23 minutes</strong> since this server shutdown
+Its been <strong>8 days  10 hours 53 minutes</strong> since this server shutdown
