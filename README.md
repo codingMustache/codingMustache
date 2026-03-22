@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Yesterday I confused the words "jacuzzi" and "yakuza". Now I'm in hot water with the Japanese mafia.
+"What time is it?" I don't know... it keeps changing.
 
 
 ## Daily Trivia
 
-What does the acronym CDN stand for in terms of networking?
- 1. Compressed Data Network
- 2. Content Delivery Network
- 3. Computational Data Network
- 4. Content Distribution Network
+What was Bitcoin&#039;s block size limit in 2010?
+ 1. 1 MB
+ 2. 1 TB
+ 3. 1 KB
+ 4. 1GB
 
 <details>
   <summary>Answer</summary>
-  Content Delivery Network
+  1 MB
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  2 hours 23 minutes</strong> since this server shutdown
+Its been <strong>9 days  2 hours 53 minutes</strong> since this server shutdown
