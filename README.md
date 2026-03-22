@@ -18,7 +18,7 @@ Hello I'm Jorge and I love making things for the internet
     <tr>
       <td><img src="https://image.tmdb.org/t/p/w300_and_h300_face/fRu9zQFdWHjEVyHwnIYqm0LRoKA.jpg" alt="Broad City" width="100%" height="auto"/></td>
       <td><strong>Broad City</strong></td>
-      <td><code>S01E03</code> <em>Working Girls</em></td>
+      <td><code>S01E05</code> <em>Fattest Asses</em></td>
       <td>⭐ 7.13 / 10</td>
       <td>Broad City follows two women throughout their daily lives in New York City, making the smallest and mundane events hysterical and disturbing to watch all at the same time.</td>
     </tr>
@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the kid cross the playground? To get to the other slide.
+Doctor you've got to help me, I'm addicted to Twitter. Doctor: I don't follow you.
 
 
 ## Daily Trivia
 
-What was the first company to use the term &quot;Golden Master&quot;?
- 1. Microsoft
- 2. Apple
- 3. IBM
- 4. Google
+What is the name of the default theme that is installed with Windows XP?
+ 1. Whistler
+ 2. Luna
+ 3. Bliss
+ 4. Neptune
 
 <details>
   <summary>Answer</summary>
-  Apple
+  Luna
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  6 hours 23 minutes</strong> since this server shutdown
+Its been <strong>8 days  6 hours 53 minutes</strong> since this server shutdown
