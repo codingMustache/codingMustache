@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do nurses carry around red crayons? Sometimes they need to draw blood.
+What do bees do after they are married? They go on a honeymoon.
 
 
 ## Daily Trivia
 
-What does LTS stand for in the software market?
- 1. Long Term Support
- 2. Ludicrous Turbo Speed
- 3. Ludicrous Transfer Speed
- 4. Long Taco Service
+.at is the top-level domain for what country?
+ 1. Austria
+ 2. Angola
+ 3. Australia
+ 4. Argentina
 
 <details>
   <summary>Answer</summary>
-  Long Term Support
+  Austria
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  19 hours 53 minutes</strong> since this server shutdown
+Its been <strong>8 days  20 hours 23 minutes</strong> since this server shutdown
