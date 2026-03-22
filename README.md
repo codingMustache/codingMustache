@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the banana go to the doctor? He was not "peeling" well.
+Do I enjoy making courthouse puns? Guilty
 
 
 ## Daily Trivia
 
-In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
- 1. absolute
- 2. static
- 3. relative
- 4. center
+What did the name of the Tor Anonymity Network orignially stand for?
+ 1. The Only Router
+ 2. The Orange Router
+ 3. The Ominous Router
+ 4. The Onion Router
 
 <details>
   <summary>Answer</summary>
-  center
+  The Onion Router
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  22 hours 23 minutes</strong> since this server shutdown
+Its been <strong>8 days  22 hours 53 minutes</strong> since this server shutdown
