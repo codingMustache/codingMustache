@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Do I enjoy making courthouse puns? Guilty
+I’ve just been reading a book about anti-gravity, it’s impossible to put down!
 
 
 ## Daily Trivia
 
-What did the name of the Tor Anonymity Network orignially stand for?
- 1. The Only Router
- 2. The Orange Router
- 3. The Ominous Router
- 4. The Onion Router
+What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
+ 1. Sandy Bridge
+ 2. Skylake
+ 3. Broadwell
+ 4. Coffee Lake
 
 <details>
   <summary>Answer</summary>
-  The Onion Router
+  Coffee Lake
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  22 hours 53 minutes</strong> since this server shutdown
+Its been <strong>8 days  23 hours 23 minutes</strong> since this server shutdown
