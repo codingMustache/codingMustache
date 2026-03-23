@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why is no one friends with Dracula? Because he's a pain in the neck.
+"What time is it?" I don't know... it keeps changing.
 
 
 ## Daily Trivia
 
-Dutch computer scientist Mark Overmars is known for creating which game development engine?
- 1. Game Maker
- 2. Stencyl
- 3. Construct
- 4. Torque 2D
+In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
+ 1. center
+ 2. absolute
+ 3. static
+ 4. relative
 
 <details>
   <summary>Answer</summary>
-  Game Maker
+  center
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  20 hours 53 minutes</strong> since this server shutdown
+Its been <strong>9 days  21 hours 23 minutes</strong> since this server shutdown
