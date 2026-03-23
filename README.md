@@ -27,25 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did Mozart kill all his chickens?
-Because when he asked them who the best composer was, they'd all say "Bach bach bach!"
-
+I was just looking at my ceiling. Not sure if it’s the best ceiling in the world, but it’s definitely up there.
 
 
 ## Daily Trivia
 
-On Twitter, what was the original character limit for a Tweet?
- 1. 120
- 2. 100
- 3. 140
- 4. 160
+Who invented the &quot;Spanning Tree Protocol&quot;?
+ 1. Paul Vixie
+ 2. Radia Perlman
+ 3. Vint Cerf
+ 4. Michael Roberts
 
 <details>
   <summary>Answer</summary>
-  140
+  Radia Perlman
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  19 hours 23 minutes</strong> since this server shutdown
+Its been <strong>9 days  19 hours 53 minutes</strong> since this server shutdown
