@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was the picture sent to prison? It was framed.
+To the guy who invented zero... thanks for nothing.
 
 
 ## Daily Trivia
 
-What does RAID stand for?
- 1. Redundant Array of Independent Disks
- 2. Randomized Abstract Identification Description
- 3. Range of Applications with Identical Designs
- 4. Rapid Access for Indexed Devices
+Which of these is not a layer in the OSI model for data communications?
+ 1. Connection Layer
+ 2. Physical Layer
+ 3. Transport Layer
+ 4. Application Layer
 
 <details>
   <summary>Answer</summary>
-  Redundant Array of Independent Disks
+  Connection Layer
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  17 hours 53 minutes</strong> since this server shutdown
+Its been <strong>9 days  18 hours 23 minutes</strong> since this server shutdown
