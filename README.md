@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are pirates called pirates? Because they arrr!
+What do you call a gorilla wearing headphones? Anything you'd like, it can't hear you.
 
 
 ## Daily Trivia
 
-What does the term GPU stand for?
- 1. Graphics Processing Unit
- 2. Graphite Producing Unit
- 3. Gaming Processor Unit
- 4. Graphical Proprietary Unit
+On which day did the World Wide Web go online?
+ 1. November 12, 1990
+ 2. December 17, 1996
+ 3. November 24, 1995
+ 4. December 20, 1990
 
 <details>
   <summary>Answer</summary>
-  Graphics Processing Unit
+  December 20, 1990
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  12 hours 23 minutes</strong> since this server shutdown
+Its been <strong>9 days  12 hours 53 minutes</strong> since this server shutdown
