@@ -27,23 +27,25 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-There are two types of people in this world, those who can extrapolate from incomplete data...
+Why did Mozart kill all his chickens?
+Because when he asked them who the best composer was, they'd all say "Bach bach bach!"
+
 
 
 ## Daily Trivia
 
-In networking, what does OSPF stand for?
- 1. Order State Part First
- 2. Open Shortest Path First
- 3. Open Signal Path Finder
- 4. Order Sense Ping Find
+On Twitter, what was the original character limit for a Tweet?
+ 1. 120
+ 2. 100
+ 3. 140
+ 4. 160
 
 <details>
   <summary>Answer</summary>
-  Open Shortest Path First
+  140
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  18 hours 53 minutes</strong> since this server shutdown
+Its been <strong>9 days  19 hours 23 minutes</strong> since this server shutdown
