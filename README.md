@@ -19,7 +19,7 @@ Hello I'm Jorge and I love making things for the internet
       <td><img src="https://image.tmdb.org/t/p/w300_and_h300_face/w7ri7byEYLdciSZOwWHj6TUAX7j.jpg" alt="Scrubs" width="100%" height="auto"/></td>
       <td><strong>Scrubs</strong></td>
       <td><code>S01E06</code> <em>My Bad</em></td>
-      <td>⭐ 7.86 / 10</td>
+      <td>⭐ 7.9 / 10</td>
       <td>In the unreal world of Sacred Heart Hospital, John "J.D." Dorian learns the ways of medicine, friendship and life.</td>
     </tr>
   </tbody>
@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you get if you put a duck in a cement mixer? Quacks in the pavement.
+A termite walks into a bar and asks “Is the bar tender here?”
 
 
 ## Daily Trivia
 
-The programming language &#039;Swift&#039; was created to replace what other programming language?
- 1. Ruby
- 2. C++
- 3. Objective-C
- 4. C#
+What kind of memory is used on memory cache?
+ 1. SRAM
+ 2. DRAM
+ 3. ROM
+ 4. Flash
 
 <details>
   <summary>Answer</summary>
-  Objective-C
+  SRAM
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days 23 minutes</strong> since this server shutdown
+Its been <strong>10 days 53 minutes</strong> since this server shutdown
