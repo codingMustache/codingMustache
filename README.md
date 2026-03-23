@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Geology rocks, but Geography is where it's at!
+Man, I really love my furniture... me and my recliner go way back.
 
 
 ## Daily Trivia
 
-How many values can a single byte represent?
- 1. 1024
- 2. 256
- 3. 1
- 4. 8
+Who is the original author of the realtime physics engine called PhysX?
+ 1. AMD
+ 2. NovodeX
+ 3. Nvidia
+ 4. Ageia
 
 <details>
   <summary>Answer</summary>
-  256
+  NovodeX
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  14 hours 53 minutes</strong> since this server shutdown
+Its been <strong>9 days  15 hours 23 minutes</strong> since this server shutdown
