@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why does a chicken coop only have two doors? Because if it had four doors it would be a chicken sedan.
+Sgt.: Commissar! Commissar! The troops are revolting! Commissar: Well, you’re pretty repulsive yourself.
 
 
 ## Daily Trivia
 
-What does GHz stand for?
- 1. Gigahetz
- 2. Gigahotz
- 3. Gigahertz
- 4. Gigahatz
+The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
+ 1. Commodore Business Machines
+ 2. Amstrad PLC
+ 3. Acorn Computers
+ 4. Sinclair Research
 
 <details>
   <summary>Answer</summary>
-  Gigahertz
+  Acorn Computers
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  4 hours 53 minutes</strong> since this server shutdown
+Its been <strong>10 days  5 hours 23 minutes</strong> since this server shutdown
