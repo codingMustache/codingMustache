@@ -27,23 +27,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Man, I really love my furniture... me and my recliner go way back.
+What is the least spoken language in the world?
+Sign Language
 
 
 ## Daily Trivia
 
-Who is the original author of the realtime physics engine called PhysX?
- 1. AMD
- 2. NovodeX
- 3. Nvidia
- 4. Ageia
+The teapot often seen in many 3D modeling applications is called what?
+ 1. Pixar Teapot
+ 2. 3D Teapot
+ 3. Tennessee Teapot
+ 4. Utah Teapot
 
 <details>
   <summary>Answer</summary>
-  NovodeX
+  Utah Teapot
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  15 hours 23 minutes</strong> since this server shutdown
+Its been <strong>9 days  15 hours 53 minutes</strong> since this server shutdown
