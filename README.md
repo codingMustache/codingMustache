@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I boiled a funny bone last night and had a laughing stock
+To be Frank, I'd have to change my name.
 
 
 ## Daily Trivia
 
-Laserjet and inkjet printers are both examples of what type of printer?
- 1. Non-impact printer
- 2. Dot matrix printer
- 3. Impact printer
- 4. Daisywheel printer
+What does RAID stand for?
+ 1. Redundant Array of Independent Disks
+ 2. Range of Applications with Identical Designs
+ 3. Rapid Access for Indexed Devices
+ 4. Randomized Abstract Identification Description
 
 <details>
   <summary>Answer</summary>
-  Non-impact printer
+  Redundant Array of Independent Disks
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  3 hours 23 minutes</strong> since this server shutdown
+Its been <strong>10 days  3 hours 53 minutes</strong> since this server shutdown
