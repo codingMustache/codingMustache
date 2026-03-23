@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why should you never trust a pig with a secret? Because it's bound to squeal.
+My new thesaurus is terrible. In fact, it's so bad, I'd say it's terrible.
 
 
 ## Daily Trivia
 
-What does the International System of Quantities refer 1024 bytes as?
- 1. Kibibyte
- 2. Kelobyte
- 3. Kilobyte
- 4. Kylobyte
+What was the first Android version specifically optimized for tablets?
+ 1. Eclair
+ 2. Froyo
+ 3. Honeycomb
+ 4. Marshmellow
 
 <details>
   <summary>Answer</summary>
-  Kibibyte
+  Honeycomb
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  8 hours 23 minutes</strong> since this server shutdown
+Its been <strong>9 days  8 hours 53 minutes</strong> since this server shutdown
