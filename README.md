@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the kid cross the playground? To get to the other slide.
+Why is no one friends with Dracula? Because he's a pain in the neck.
 
 
 ## Daily Trivia
 
-In networking, what does OSPF stand for?
- 1. Open Signal Path Finder
- 2. Open Shortest Path First
- 3. Order Sense Ping Find
- 4. Order State Part First
+Dutch computer scientist Mark Overmars is known for creating which game development engine?
+ 1. Game Maker
+ 2. Stencyl
+ 3. Construct
+ 4. Torque 2D
 
 <details>
   <summary>Answer</summary>
-  Open Shortest Path First
+  Game Maker
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  20 hours 23 minutes</strong> since this server shutdown
+Its been <strong>9 days  20 hours 53 minutes</strong> since this server shutdown
