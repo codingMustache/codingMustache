@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do bees have sticky hair? Because they use honey combs!
+Why should you never trust a pig with a secret? Because it's bound to squeal.
 
 
 ## Daily Trivia
 
-On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
- 1. Percent Sign
- 2. Dollar Sign
- 3. Asterisk
- 4. Exclamation Mark
+What does the International System of Quantities refer 1024 bytes as?
+ 1. Kibibyte
+ 2. Kelobyte
+ 3. Kilobyte
+ 4. Kylobyte
 
 <details>
   <summary>Answer</summary>
-  Exclamation Mark
+  Kibibyte
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  7 hours 53 minutes</strong> since this server shutdown
+Its been <strong>9 days  8 hours 23 minutes</strong> since this server shutdown
