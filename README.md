@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-To the guy who invented zero... thanks for nothing.
+There are two types of people in this world, those who can extrapolate from incomplete data...
 
 
 ## Daily Trivia
 
-Which of these is not a layer in the OSI model for data communications?
- 1. Connection Layer
- 2. Physical Layer
- 3. Transport Layer
- 4. Application Layer
+In networking, what does OSPF stand for?
+ 1. Order State Part First
+ 2. Open Shortest Path First
+ 3. Open Signal Path Finder
+ 4. Order Sense Ping Find
 
 <details>
   <summary>Answer</summary>
-  Connection Layer
+  Open Shortest Path First
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  18 hours 23 minutes</strong> since this server shutdown
+Its been <strong>9 days  18 hours 53 minutes</strong> since this server shutdown
