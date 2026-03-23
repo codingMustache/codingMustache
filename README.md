@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How come a man driving a train got struck by lightning? He was a good conductor.
+I couldn't figure out how the seat belt worked. Then it just clicked.
 
 
 ## Daily Trivia
 
-How many values can a single byte represent?
- 1. 8
- 2. 1
- 3. 1024
- 4. 256
+What does RAID stand for?
+ 1. Redundant Array of Independent Disks
+ 2. Rapid Access for Indexed Devices
+ 3. Randomized Abstract Identification Description
+ 4. Range of Applications with Identical Designs
 
 <details>
   <summary>Answer</summary>
-  256
+  Redundant Array of Independent Disks
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  9 hours 53 minutes</strong> since this server shutdown
+Its been <strong>9 days  10 hours 23 minutes</strong> since this server shutdown
