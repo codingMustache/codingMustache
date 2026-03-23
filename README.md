@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Sgt.: Commissar! Commissar! The troops are revolting! Commissar: Well, you’re pretty repulsive yourself.
+Without geometry life is pointless.
 
 
 ## Daily Trivia
 
-The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
- 1. Commodore Business Machines
- 2. Amstrad PLC
- 3. Acorn Computers
- 4. Sinclair Research
+In the server hosting industry IaaS stands for...
+ 1. Infrastructure as a Service
+ 2. Internet as a Service
+ 3. Internet and a Server
+ 4. Infrastructure as a Server
 
 <details>
   <summary>Answer</summary>
-  Acorn Computers
+  Infrastructure as a Service
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  5 hours 23 minutes</strong> since this server shutdown
+Its been <strong>10 days  5 hours 53 minutes</strong> since this server shutdown
