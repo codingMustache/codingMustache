@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the sentence fail the driving test? It never came to a full stop.
+Where do owls go to buy their baby clothes? The owlet malls.
 
 
 ## Daily Trivia
 
-What was the first company to use the term &quot;Golden Master&quot;?
- 1. Apple
- 2. Google
- 3. Microsoft
- 4. IBM
+What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
+ 1. Skylake
+ 2. Broadwell
+ 3. Sandy Bridge
+ 4. Coffee Lake
 
 <details>
   <summary>Answer</summary>
-  Apple
+  Coffee Lake
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  2 hours 23 minutes</strong> since this server shutdown
+Its been <strong>10 days  2 hours 53 minutes</strong> since this server shutdown
