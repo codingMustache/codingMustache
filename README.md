@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Breaking news! Energizer Bunny arrested – charged with battery.
+Have you ever heard of a music group called Cellophane? They mostly wrap.
 
 
 ## Daily Trivia
 
-Who is the original author of the realtime physics engine called PhysX?
- 1. AMD
- 2. Nvidia
- 3. Ageia
- 4. NovodeX
+What does the &quot;MP&quot; stand for in MP3?
+ 1. Music Player
+ 2. Multi Pass
+ 3. Micro Point
+ 4. Moving Picture
 
 <details>
   <summary>Answer</summary>
-  NovodeX
+  Moving Picture
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  6 hours 23 minutes</strong> since this server shutdown
+Its been <strong>9 days  6 hours 53 minutes</strong> since this server shutdown
