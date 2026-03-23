@@ -16,34 +16,34 @@ Hello I'm Jorge and I love making things for the internet
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://image.tmdb.org/t/p/w300_and_h300_face/ng3cMtxYKt1OSQYqFlnKWnVsqNO.jpg" alt="The Walking Dead" width="100%" height="auto"/></td>
-      <td><strong>The Walking Dead</strong></td>
-      <td><code>S08E07</code> <em>Time For After</em></td>
-      <td>⭐ 8.08 / 10</td>
-      <td>Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way.</td>
+      <td><img src="https://image.tmdb.org/t/p/w300_and_h300_face/w7ri7byEYLdciSZOwWHj6TUAX7j.jpg" alt="Scrubs" width="100%" height="auto"/></td>
+      <td><strong>Scrubs</strong></td>
+      <td><code>S01E01</code> <em>My First Day</em></td>
+      <td>⭐ 7.86 / 10</td>
+      <td>In the unreal world of Sacred Heart Hospital, John "J.D." Dorian learns the ways of medicine, friendship and life.</td>
     </tr>
   </tbody>
 </table>
 
 ## Joke of the Day
 
-A boy dug three holes in the yard. When his mother saw, she exclaimed: "well, well, well"
+What do you call a group of killer whales playing instruments? An Orca-stra.
 
 
 ## Daily Trivia
 
-America Online (AOL) started out as which of these online service providers?
- 1. CompuServe
- 2. Prodigy
- 3. GEnie
- 4. Quantum Link
+What is largely considered the precursor to the USB format?
+ 1. SVGA
+ 2. PS/2
+ 3. FireWire
+ 4. PCIe
 
 <details>
   <summary>Answer</summary>
-  Quantum Link
+  PS/2
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  21 hours 53 minutes</strong> since this server shutdown
+Its been <strong>9 days  22 hours 23 minutes</strong> since this server shutdown
