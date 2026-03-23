@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My new thesaurus is terrible. In fact, it's so bad, I'd say it's terrible.
+How do you organize a space party? You planet.
 
 
 ## Daily Trivia
 
-What was the first Android version specifically optimized for tablets?
- 1. Eclair
- 2. Froyo
- 3. Honeycomb
- 4. Marshmellow
+Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
+ 1. Enigma Machine
+ 2. Skipjack
+ 3. Nautilus
+ 4. Clipper Chip
 
 <details>
   <summary>Answer</summary>
-  Honeycomb
+  Clipper Chip
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  8 hours 53 minutes</strong> since this server shutdown
+Its been <strong>9 days  9 hours 23 minutes</strong> since this server shutdown
