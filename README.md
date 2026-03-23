@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A steak pun is a rare medium well done.
+Why are pirates called pirates? Because they arrr!
 
 
 ## Daily Trivia
 
-Which of these is not a layer in the OSI model for data communications?
- 1. Transport Layer
- 2. Application Layer
- 3. Physical Layer
- 4. Connection Layer
+What does the term GPU stand for?
+ 1. Graphics Processing Unit
+ 2. Graphite Producing Unit
+ 3. Gaming Processor Unit
+ 4. Graphical Proprietary Unit
 
 <details>
   <summary>Answer</summary>
-  Connection Layer
+  Graphics Processing Unit
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  11 hours 53 minutes</strong> since this server shutdown
+Its been <strong>9 days  12 hours 23 minutes</strong> since this server shutdown
