@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do owls go to buy their baby clothes? The owlet malls.
+I boiled a funny bone last night and had a laughing stock
 
 
 ## Daily Trivia
 
-What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
- 1. Skylake
- 2. Broadwell
- 3. Sandy Bridge
- 4. Coffee Lake
+Laserjet and inkjet printers are both examples of what type of printer?
+ 1. Non-impact printer
+ 2. Dot matrix printer
+ 3. Impact printer
+ 4. Daisywheel printer
 
 <details>
   <summary>Answer</summary>
-  Coffee Lake
+  Non-impact printer
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  2 hours 53 minutes</strong> since this server shutdown
+Its been <strong>10 days  3 hours 23 minutes</strong> since this server shutdown
