@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Which side of the chicken has more feathers? The outside.
+Why didn’t the orange win the race? It ran out of juice.
 
 
 ## Daily Trivia
 
-On which day did the World Wide Web go online?
- 1. November 12, 1990
- 2. December 17, 1996
- 3. December 20, 1990
- 4. November 24, 1995
+Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
+ 1. Cherry MX Blue
+ 2. Cherry MX Brown
+ 3. Cherry MX Red
+ 4. Cherry MX Black
 
 <details>
   <summary>Answer</summary>
-  December 20, 1990
+  Cherry MX Blue
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  1 hours 23 minutes</strong> since this server shutdown
+Its been <strong>10 days  1 hours 53 minutes</strong> since this server shutdown
