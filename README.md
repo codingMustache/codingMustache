@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-"What time is it?" I don't know... it keeps changing.
+A boy dug three holes in the yard. When his mother saw, she exclaimed: "well, well, well"
 
 
 ## Daily Trivia
 
-In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
- 1. center
- 2. absolute
- 3. static
- 4. relative
+America Online (AOL) started out as which of these online service providers?
+ 1. CompuServe
+ 2. Prodigy
+ 3. GEnie
+ 4. Quantum Link
 
 <details>
   <summary>Answer</summary>
-  center
+  Quantum Link
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  21 hours 23 minutes</strong> since this server shutdown
+Its been <strong>9 days  21 hours 53 minutes</strong> since this server shutdown
