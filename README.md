@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I couldn't figure out how the seat belt worked. Then it just clicked.
+Feeling pretty proud of myself. The Sesame Street puzzle I bought said 3-5 years, but I finished it in 18 months.
 
 
 ## Daily Trivia
 
-What does RAID stand for?
- 1. Redundant Array of Independent Disks
- 2. Rapid Access for Indexed Devices
- 3. Randomized Abstract Identification Description
- 4. Range of Applications with Identical Designs
+What vulnerability ranked #1 on the OWASP Top 10 in 2013?
+ 1. Broken Authentication
+ 2. Cross-Site Scripting
+ 3. Insecure Direct Object References
+ 4. Injection 
 
 <details>
   <summary>Answer</summary>
-  Redundant Array of Independent Disks
+  Injection 
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  10 hours 23 minutes</strong> since this server shutdown
+Its been <strong>9 days  10 hours 53 minutes</strong> since this server shutdown
