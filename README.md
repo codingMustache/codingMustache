@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a guy lying on your doorstep? Matt.
+A steak pun is a rare medium well done.
 
 
 ## Daily Trivia
 
-Which kind of algorithm is Ron Rivest not famous for creating?
- 1. Hashing algorithm
- 2. Asymmetric encryption
- 3. Stream cipher
- 4. Secret sharing scheme
+Which of these is not a layer in the OSI model for data communications?
+ 1. Transport Layer
+ 2. Application Layer
+ 3. Physical Layer
+ 4. Connection Layer
 
 <details>
   <summary>Answer</summary>
-  Secret sharing scheme
+  Connection Layer
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  11 hours 23 minutes</strong> since this server shutdown
+Its been <strong>9 days  11 hours 53 minutes</strong> since this server shutdown
