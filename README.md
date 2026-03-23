@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I’m reading a book on the history of glue – can’t put it down.
+Geology rocks, but Geography is where it's at!
 
 
 ## Daily Trivia
 
-Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
- 1. 44.1 kHz
- 2. 1.5 MHz
- 3. 32.0 kHz
- 4. 20.5 kHz
+How many values can a single byte represent?
+ 1. 1024
+ 2. 256
+ 3. 1
+ 4. 8
 
 <details>
   <summary>Answer</summary>
-  44.1 kHz
+  256
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  14 hours 23 minutes</strong> since this server shutdown
+Its been <strong>9 days  14 hours 53 minutes</strong> since this server shutdown
