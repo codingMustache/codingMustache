@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the difference between a poorly dressed man on a tricycle and a well dressed man on a bicycle? Attire.
+Why does a chicken coop only have two doors? Because if it had four doors it would be a chicken sedan.
 
 
 ## Daily Trivia
 
-In any programming language, what is the most common way to iterate through an array?
- 1. &#039;If&#039; Statements
- 2. &#039;Do-while&#039; loops
- 3. &#039;For&#039; loops
- 4. &#039;While&#039; loops
+What does GHz stand for?
+ 1. Gigahetz
+ 2. Gigahotz
+ 3. Gigahertz
+ 4. Gigahatz
 
 <details>
   <summary>Answer</summary>
-  &#039;For&#039; loops
+  Gigahertz
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  4 hours 23 minutes</strong> since this server shutdown
+Its been <strong>10 days  4 hours 53 minutes</strong> since this server shutdown
