@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Have you ever heard of a music group called Cellophane? They mostly wrap.
+What is the hardest part about sky diving? The ground.
 
 
 ## Daily Trivia
 
-What does the &quot;MP&quot; stand for in MP3?
- 1. Music Player
- 2. Multi Pass
- 3. Micro Point
- 4. Moving Picture
+What is the name of the process that sends one qubit of information using two bits of classical information?
+ 1. Super Dense Coding
+ 2. Quantum Entanglement
+ 3. Quantum Programming
+ 4. Quantum Teleportation
 
 <details>
   <summary>Answer</summary>
-  Moving Picture
+  Quantum Teleportation
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  6 hours 53 minutes</strong> since this server shutdown
+Its been <strong>9 days  7 hours 23 minutes</strong> since this server shutdown
