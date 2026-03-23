@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I broke my finger at work today, on the other hand I'm completely fine.
+I’m reading a book on the history of glue – can’t put it down.
 
 
 ## Daily Trivia
 
-Dutch computer scientist Mark Overmars is known for creating which game development engine?
- 1. Game Maker
- 2. Stencyl
- 3. Construct
- 4. Torque 2D
+Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
+ 1. 44.1 kHz
+ 2. 1.5 MHz
+ 3. 32.0 kHz
+ 4. 20.5 kHz
 
 <details>
   <summary>Answer</summary>
-  Game Maker
+  44.1 kHz
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  13 hours 53 minutes</strong> since this server shutdown
+Its been <strong>9 days  14 hours 23 minutes</strong> since this server shutdown
