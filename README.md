@@ -18,7 +18,7 @@ Hello I'm Jorge and I love making things for the internet
     <tr>
       <td><img src="https://image.tmdb.org/t/p/w300_and_h300_face/w7ri7byEYLdciSZOwWHj6TUAX7j.jpg" alt="Scrubs" width="100%" height="auto"/></td>
       <td><strong>Scrubs</strong></td>
-      <td><code>S01E01</code> <em>My First Day</em></td>
+      <td><code>S01E02</code> <em>My Mentor</em></td>
       <td>⭐ 7.86 / 10</td>
       <td>In the unreal world of Sacred Heart Hospital, John "J.D." Dorian learns the ways of medicine, friendship and life.</td>
     </tr>
@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a group of killer whales playing instruments? An Orca-stra.
+What do you call a nervous javelin thrower? Shakespeare.
 
 
 ## Daily Trivia
 
-What is largely considered the precursor to the USB format?
- 1. SVGA
- 2. PS/2
- 3. FireWire
- 4. PCIe
+All of the following programs are classified as raster graphics editors EXCEPT:
+ 1. Inkscape
+ 2. Paint.NET
+ 3. GIMP
+ 4. Adobe Photoshop
 
 <details>
   <summary>Answer</summary>
-  PS/2
+  Inkscape
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  22 hours 23 minutes</strong> since this server shutdown
+Its been <strong>9 days  22 hours 53 minutes</strong> since this server shutdown
