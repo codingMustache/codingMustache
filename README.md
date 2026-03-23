@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-To be Frank, I'd have to change my name.
+What's the difference between a poorly dressed man on a tricycle and a well dressed man on a bicycle? Attire.
 
 
 ## Daily Trivia
 
-What does RAID stand for?
- 1. Redundant Array of Independent Disks
- 2. Range of Applications with Identical Designs
- 3. Rapid Access for Indexed Devices
- 4. Randomized Abstract Identification Description
+In any programming language, what is the most common way to iterate through an array?
+ 1. &#039;If&#039; Statements
+ 2. &#039;Do-while&#039; loops
+ 3. &#039;For&#039; loops
+ 4. &#039;While&#039; loops
 
 <details>
   <summary>Answer</summary>
-  Redundant Array of Independent Disks
+  &#039;For&#039; loops
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  3 hours 53 minutes</strong> since this server shutdown
+Its been <strong>10 days  4 hours 23 minutes</strong> since this server shutdown
