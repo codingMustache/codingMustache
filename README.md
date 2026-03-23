@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I asked the surgeon if I could administer my own anesthetic, they said: go ahead, knock yourself out.
+I broke my finger at work today, on the other hand I'm completely fine.
 
 
 ## Daily Trivia
 
-Lenovo acquired IBM&#039;s personal computer division, including the ThinkPad line of laptops and tablets, in what year?
- 1. 2008
- 2. 2002
- 3. 1999
- 4. 2005
+Dutch computer scientist Mark Overmars is known for creating which game development engine?
+ 1. Game Maker
+ 2. Stencyl
+ 3. Construct
+ 4. Torque 2D
 
 <details>
   <summary>Answer</summary>
-  2005
+  Game Maker
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  13 hours 23 minutes</strong> since this server shutdown
+Its been <strong>9 days  13 hours 53 minutes</strong> since this server shutdown
