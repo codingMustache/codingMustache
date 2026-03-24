@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A cannibal is someone who is fed up with people.
+What is the hardest part about sky diving? The ground.
 
 
 ## Daily Trivia
 
-On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
- 1. Dollar Sign
- 2. Exclamation Mark
- 3. Percent Sign
- 4. Asterisk
+What programming language was GitHub written in?
+ 1. Lua
+ 2. Ruby
+ 3. Python
+ 4. JavaScript
 
 <details>
   <summary>Answer</summary>
-  Exclamation Mark
+  Ruby
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  19 hours 23 minutes</strong> since this server shutdown
+Its been <strong>10 days  19 hours 53 minutes</strong> since this server shutdown
