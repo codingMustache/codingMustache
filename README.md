@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is the hardest part about sky diving? The ground.
+Dad I’m hungry’ … ‘Hi hungry I’m dad
 
 
 ## Daily Trivia
 
-What programming language was GitHub written in?
- 1. Lua
- 2. Ruby
- 3. Python
- 4. JavaScript
+Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
+ 1. Enigma Machine
+ 2. Skipjack
+ 3. Nautilus
+ 4. Clipper Chip
 
 <details>
   <summary>Answer</summary>
-  Ruby
+  Clipper Chip
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  19 hours 53 minutes</strong> since this server shutdown
+Its been <strong>10 days  20 hours 23 minutes</strong> since this server shutdown
