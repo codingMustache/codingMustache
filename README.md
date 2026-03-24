@@ -16,34 +16,34 @@ Hello I'm Jorge and I love making things for the internet
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://image.tmdb.org/t/p/w300_and_h300_face/ng3cMtxYKt1OSQYqFlnKWnVsqNO.jpg" alt="The Walking Dead" width="100%" height="auto"/></td>
-      <td><strong>The Walking Dead</strong></td>
-      <td><code>S08E10</code> <em>The Lost and the Plunderers</em></td>
-      <td>⭐ 8.08 / 10</td>
-      <td>Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way.</td>
+      <td><img src="https://image.tmdb.org/t/p/w300_and_h300_face/e2xyMapmYgv4AuSoSDv9Y4pQlD6.jpg" alt="King of the Hill" width="100%" height="auto"/></td>
+      <td><strong>King of the Hill</strong></td>
+      <td><code>S04E08</code> <em>Not in My Back-hoe</em></td>
+      <td>⭐ 7.39 / 10</td>
+      <td>Set in Texas, this animated series follows the life of propane salesman Hank Hill, who lives with his overly confident substitute Spanish teacher wife Peggy, wannabe comedian son Bobby, and naive niece Luanne. Hank has conservative views about God, family, and country, but his values and ethics are often challenged by the situations he, his family, and his beer-drinking neighbors/buddies find themselves in.</td>
     </tr>
   </tbody>
 </table>
 
 ## Joke of the Day
 
-‘Put the cat out’ … ‘I didn’t realize it was on fire
+A girl once asked me what my heart desired, apparently blood, oxygen and neural messages were all wrong answers
 
 
 ## Daily Trivia
 
-What does the International System of Quantities refer 1024 bytes as?
- 1. Kylobyte
- 2. Kilobyte
- 3. Kelobyte
- 4. Kibibyte
+In programming, the ternary operator is mostly defined with what symbol(s)?
+ 1. ?:
+ 2. ?
+ 3. if then
+ 4. ??
 
 <details>
   <summary>Answer</summary>
-  Kibibyte
+  ?:
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  21 hours 53 minutes</strong> since this server shutdown
+Its been <strong>10 days  22 hours 23 minutes</strong> since this server shutdown
