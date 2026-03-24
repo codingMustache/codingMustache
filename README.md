@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What animal is always at a game of cricket? A bat.
+Got a new suit recently made entirely of living plants. I wasn’t sure at first, but it’s grown on me
 
 
 ## Daily Trivia
 
-How many Hz does the video standard PAL support?
- 1. 25
- 2. 50
- 3. 59
- 4. 60
+What was the name given to Android 4.3?
+ 1. Lollipop
+ 2. Nutella
+ 3. Froyo
+ 4. Jelly Bean
 
 <details>
   <summary>Answer</summary>
-  50
+  Jelly Bean
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  8 hours 53 minutes</strong> since this server shutdown
+Its been <strong>10 days  9 hours 23 minutes</strong> since this server shutdown
