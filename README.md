@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Is there a hole in your shoe? No… Then how’d you get your foot in it?
+Writing with a broken pencil is pointless.
 
 
 ## Daily Trivia
 
-Which of the following is a personal computer made by the Japanese company Fujitsu?
- 1. PC-9801
- 2. Xmillennium 
- 3. MSX
- 4. FM-7
+What is the maximum value of a 32-bit signed binary integer?
+ 1. 2048
+ 2. 9,223,372,036,854,775,807
+ 3. 255
+ 4. 2,147,483,647
 
 <details>
   <summary>Answer</summary>
-  FM-7
+  2,147,483,647
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  14 hours 53 minutes</strong> since this server shutdown
+Its been <strong>10 days  15 hours 23 minutes</strong> since this server shutdown
