@@ -18,7 +18,7 @@ Hello I'm Jorge and I love making things for the internet
     <tr>
       <td><img src="https://image.tmdb.org/t/p/w300_and_h300_face/e2xyMapmYgv4AuSoSDv9Y4pQlD6.jpg" alt="King of the Hill" width="100%" height="auto"/></td>
       <td><strong>King of the Hill</strong></td>
-      <td><code>S04E16</code> <em>Movin' On Up</em></td>
+      <td><code>S04E18</code> <em>Won't You Pimai Neighbor?</em></td>
       <td>⭐ 7.39 / 10</td>
       <td>Set in Texas, this animated series follows the life of propane salesman Hank Hill, who lives with his overly confident substitute Spanish teacher wife Peggy, wannabe comedian son Bobby, and naive niece Luanne. Hank has conservative views about God, family, and country, but his values and ethics are often challenged by the situations he, his family, and his beer-drinking neighbors/buddies find themselves in.</td>
     </tr>
@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do birds fly south for the winter? Because it's too far to walk.
+What do you call a snake who builds houses? A boa constructor!
 
 
 ## Daily Trivia
 
-Laserjet and inkjet printers are both examples of what type of printer?
- 1. Daisywheel printer
- 2. Impact printer
- 3. Non-impact printer
- 4. Dot matrix printer
+Which kind of algorithm is Ron Rivest not famous for creating?
+ 1. Hashing algorithm
+ 2. Asymmetric encryption
+ 3. Stream cipher
+ 4. Secret sharing scheme
 
 <details>
   <summary>Answer</summary>
-  Non-impact printer
+  Secret sharing scheme
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  1 hours 23 minutes</strong> since this server shutdown
+Its been <strong>11 days  1 hours 53 minutes</strong> since this server shutdown
