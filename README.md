@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Have you heard of the band 1023MB? They haven't got a gig yet.
+I used to work in a shoe recycling shop. It was sole destroying.
 
 
 ## Daily Trivia
 
-Nvidia&#039;s headquarters are based in which Silicon Valley city?
- 1. Palo Alto
- 2. Cupertino
- 3. Mountain View
- 4. Santa Clara
+Laserjet and inkjet printers are both examples of what type of printer?
+ 1. Impact printer
+ 2. Non-impact printer
+ 3. Daisywheel printer
+ 4. Dot matrix printer
 
 <details>
   <summary>Answer</summary>
-  Santa Clara
+  Non-impact printer
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  17 hours 53 minutes</strong> since this server shutdown
+Its been <strong>10 days  18 hours 23 minutes</strong> since this server shutdown
