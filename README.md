@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Two silk worms had a race. They ended up in a tie.
+Do I enjoy making courthouse puns? Guilty
 
 
 ## Daily Trivia
 
-On Twitter, what was the original character limit for a Tweet?
- 1. 100
- 2. 120
- 3. 160
- 4. 140
+Dutch computer scientist Mark Overmars is known for creating which game development engine?
+ 1. Game Maker
+ 2. Torque 2D
+ 3. Construct
+ 4. Stencyl
 
 <details>
   <summary>Answer</summary>
-  140
+  Game Maker
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  16 hours 23 minutes</strong> since this server shutdown
+Its been <strong>10 days  16 hours 53 minutes</strong> since this server shutdown
