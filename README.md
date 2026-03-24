@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I boiled a funny bone last night and had a laughing stock
+Two silk worms had a race. They ended up in a tie.
 
 
 ## Daily Trivia
 
-The name of technology company HP stands for what?
- 1. Husker-Pollosk
- 2. Howard Packmann
- 3. Hellman-Pohl
- 4. Hewlett-Packard
+On Twitter, what was the original character limit for a Tweet?
+ 1. 100
+ 2. 120
+ 3. 160
+ 4. 140
 
 <details>
   <summary>Answer</summary>
-  Hewlett-Packard
+  140
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  15 hours 53 minutes</strong> since this server shutdown
+Its been <strong>10 days  16 hours 23 minutes</strong> since this server shutdown
