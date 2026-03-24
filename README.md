@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The other day I was listening to a song about superglue, it’s been stuck in my head ever since.
+What did the grape do when he got stepped on? He let out a little wine.
 
 
 ## Daily Trivia
 
-When Gmail first launched, how much storage did it provide for your email?
- 1. Unlimited
- 2. 5GB
- 3. 512MB
- 4. 1GB
+How many kilobytes in one gigabyte (in decimal)?
+ 1. 1024
+ 2. 1000000
+ 3. 1048576
+ 4. 1000
 
 <details>
   <summary>Answer</summary>
-  1GB
+  1000000
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  6 hours 53 minutes</strong> since this server shutdown
+Its been <strong>10 days  7 hours 23 minutes</strong> since this server shutdown
