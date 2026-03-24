@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What has ears but cannot hear? A field of corn.
+Why does it take longer to get from 1st to 2nd base, than it does to get from 2nd to 3rd base? Because there’s a Shortstop in between!
 
 
 ## Daily Trivia
 
-What language does Node.js use?
- 1. Java Source
- 2. Java
- 3. Joomla Source Code
- 4. JavaScript
+What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
+ 1. Skylake
+ 2. Sandy Bridge
+ 3. Coffee Lake
+ 4. Broadwell
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  Coffee Lake
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  10 hours 53 minutes</strong> since this server shutdown
+Its been <strong>10 days  11 hours 23 minutes</strong> since this server shutdown
