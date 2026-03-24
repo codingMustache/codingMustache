@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-If you think swimming with dolphins is expensive, you should try swimming with sharks--it cost me an arm and a leg!
+I asked my date to go to the gym the other day. They never showed up. That's when I knew we wouldn't work out.
 
 
 ## Daily Trivia
 
-Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
- 1. 1.5 MHz
- 2. 44.1 kHz
- 3. 32.0 kHz
- 4. 20.5 kHz
+Which of the following is a personal computer made by the Japanese company Fujitsu?
+ 1. Xmillennium 
+ 2. FM-7
+ 3. PC-9801
+ 4. MSX
 
 <details>
   <summary>Answer</summary>
-  44.1 kHz
+  FM-7
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  13 hours 53 minutes</strong> since this server shutdown
+Its been <strong>10 days  14 hours 23 minutes</strong> since this server shutdown
