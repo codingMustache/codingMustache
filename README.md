@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Last night me and my girlfriend watched three DVDs back to back. Luckily I was the one facing the TV.
+What has ears but cannot hear? A field of corn.
 
 
 ## Daily Trivia
 
-The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
- 1. HD Graphics 500
- 2. HD Graphics 7000
- 3. HD Graphics 600
- 4. HD Graphics 700 
+What language does Node.js use?
+ 1. Java Source
+ 2. Java
+ 3. Joomla Source Code
+ 4. JavaScript
 
 <details>
   <summary>Answer</summary>
-  HD Graphics 500
+  JavaScript
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  10 hours 23 minutes</strong> since this server shutdown
+Its been <strong>10 days  10 hours 53 minutes</strong> since this server shutdown
