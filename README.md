@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I was shocked when I was diagnosed as colorblind... It came out of the purple.
+Have you heard of the band 1023MB? They haven't got a gig yet.
 
 
 ## Daily Trivia
 
-The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
- 1. HD Graphics 700 
- 2. HD Graphics 600
- 3. HD Graphics 7000
- 4. HD Graphics 500
+Nvidia&#039;s headquarters are based in which Silicon Valley city?
+ 1. Palo Alto
+ 2. Cupertino
+ 3. Mountain View
+ 4. Santa Clara
 
 <details>
   <summary>Answer</summary>
-  HD Graphics 500
+  Santa Clara
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  17 hours 23 minutes</strong> since this server shutdown
+Its been <strong>10 days  17 hours 53 minutes</strong> since this server shutdown
