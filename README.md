@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the chameleon who couldn't change color? They had a reptile dysfunction.
+What do you call a dictionary on drugs? High definition.
 
 
 ## Daily Trivia
 
-What does the Prt Sc button do?
- 1. Nothing
- 2. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
- 3. Captures what&#039;s on the screen and copies it to your clipboard
- 4. Closes all windows
+According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:
+ 1. A&#039;B + B&#039;A
+ 2. A&#039;B&#039;
+ 3. AB&#039; + AB
+ 4. A&#039; + B&#039;
 
 <details>
   <summary>Answer</summary>
-  Captures what&#039;s on the screen and copies it to your clipboard
+  A&#039; + B&#039;
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  20 hours 53 minutes</strong> since this server shutdown
+Its been <strong>10 days  21 hours 23 minutes</strong> since this server shutdown
