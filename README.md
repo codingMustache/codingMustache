@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I adopted my dog from a blacksmith. As soon as we got home he made a bolt for the door.
+Where do owls go to buy their baby clothes? The owlet malls.
 
 
 ## Daily Trivia
 
-What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
- 1. Coffee Lake
- 2. Broadwell
- 3. Skylake
- 4. Sandy Bridge
+The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
+ 1. Taiwan
+ 2. United States
+ 3. Germany
+ 4. China (People&#039;s Republic of)
 
 <details>
   <summary>Answer</summary>
-  Coffee Lake
+  Taiwan
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  2 hours 23 minutes</strong> since this server shutdown
+Its been <strong>11 days  2 hours 53 minutes</strong> since this server shutdown
