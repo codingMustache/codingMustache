@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Dad I’m hungry’ … ‘Hi hungry I’m dad
+Did you hear about the chameleon who couldn't change color? They had a reptile dysfunction.
 
 
 ## Daily Trivia
 
-Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
- 1. Enigma Machine
- 2. Skipjack
- 3. Nautilus
- 4. Clipper Chip
+What does the Prt Sc button do?
+ 1. Nothing
+ 2. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
+ 3. Captures what&#039;s on the screen and copies it to your clipboard
+ 4. Closes all windows
 
 <details>
   <summary>Answer</summary>
-  Clipper Chip
+  Captures what&#039;s on the screen and copies it to your clipboard
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  20 hours 23 minutes</strong> since this server shutdown
+Its been <strong>10 days  20 hours 53 minutes</strong> since this server shutdown
