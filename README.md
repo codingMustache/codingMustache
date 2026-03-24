@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are graveyards so noisy? Because of all the coffin.
+If you think swimming with dolphins is expensive, you should try swimming with sharks--it cost me an arm and a leg!
 
 
 ## Daily Trivia
 
-Which operating system was released first?
- 1. OS/2
- 2. Linux
- 3. Mac OS
- 4. Windows
+Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
+ 1. 1.5 MHz
+ 2. 44.1 kHz
+ 3. 32.0 kHz
+ 4. 20.5 kHz
 
 <details>
   <summary>Answer</summary>
-  Mac OS
+  44.1 kHz
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  13 hours 23 minutes</strong> since this server shutdown
+Its been <strong>10 days  13 hours 53 minutes</strong> since this server shutdown
