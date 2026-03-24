@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the cookie cry? It was feeling crumby.
+What do you get if you put a duck in a cement mixer? Quacks in the pavement.
 
 
 ## Daily Trivia
 
-The acronym &quot;RIP&quot; stands for which of these?
- 1. Routing Information Protocol
- 2. Routine Inspection Protocol
- 3. Regular Interval Processes
- 4. Runtime Instance Processes
+Which of the following is NOT a computer science algorithm?
+ 1. Float Sort
+ 2. Quick Sort
+ 3. Bubble Sort
+ 4. Merge Sort
 
 <details>
   <summary>Answer</summary>
-  Routing Information Protocol
+  Float Sort
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  11 hours 53 minutes</strong> since this server shutdown
+Its been <strong>10 days  12 hours 23 minutes</strong> since this server shutdown
