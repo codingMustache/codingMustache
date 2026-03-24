@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a dictionary on drugs? High definition.
+‘Put the cat out’ … ‘I didn’t realize it was on fire
 
 
 ## Daily Trivia
 
-According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:
- 1. A&#039;B + B&#039;A
- 2. A&#039;B&#039;
- 3. AB&#039; + AB
- 4. A&#039; + B&#039;
+What does the International System of Quantities refer 1024 bytes as?
+ 1. Kylobyte
+ 2. Kilobyte
+ 3. Kelobyte
+ 4. Kibibyte
 
 <details>
   <summary>Answer</summary>
-  A&#039; + B&#039;
+  Kibibyte
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  21 hours 23 minutes</strong> since this server shutdown
+Its been <strong>10 days  21 hours 53 minutes</strong> since this server shutdown
