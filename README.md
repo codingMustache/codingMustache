@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do owls go to buy their baby clothes? The owlet malls.
+Child: Dad, make me a sandwich. Dad: Poof! You're a sandwich.
 
 
 ## Daily Trivia
 
-The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
- 1. Taiwan
- 2. United States
- 3. Germany
- 4. China (People&#039;s Republic of)
+Generally, which component of a computer draws the most power?
+ 1. Processor
+ 2. Hard Drive
+ 3. Video Card
+ 4. Power Supply
 
 <details>
   <summary>Answer</summary>
-  Taiwan
+  Video Card
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  2 hours 53 minutes</strong> since this server shutdown
+Its been <strong>11 days  3 hours 23 minutes</strong> since this server shutdown
