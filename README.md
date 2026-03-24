@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to work in a shoe recycling shop. It was sole destroying.
+What are the strongest days of the week? Saturday and Sunday...the rest are weekdays.
 
 
 ## Daily Trivia
 
-Laserjet and inkjet printers are both examples of what type of printer?
- 1. Impact printer
- 2. Non-impact printer
- 3. Daisywheel printer
- 4. Dot matrix printer
+Which of the following computer components can be built using only NAND gates?
+ 1. Register
+ 2. RAM
+ 3. CPU
+ 4. ALU
 
 <details>
   <summary>Answer</summary>
-  Non-impact printer
+  ALU
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  18 hours 23 minutes</strong> since this server shutdown
+Its been <strong>10 days  18 hours 53 minutes</strong> since this server shutdown
