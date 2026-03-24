@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Do I enjoy making courthouse puns? Guilty
+I was shocked when I was diagnosed as colorblind... It came out of the purple.
 
 
 ## Daily Trivia
 
-Dutch computer scientist Mark Overmars is known for creating which game development engine?
- 1. Game Maker
- 2. Torque 2D
- 3. Construct
- 4. Stencyl
+The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
+ 1. HD Graphics 700 
+ 2. HD Graphics 600
+ 3. HD Graphics 7000
+ 4. HD Graphics 500
 
 <details>
   <summary>Answer</summary>
-  Game Maker
+  HD Graphics 500
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  16 hours 53 minutes</strong> since this server shutdown
+Its been <strong>10 days  17 hours 23 minutes</strong> since this server shutdown
