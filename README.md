@@ -18,7 +18,7 @@ Hello I'm Jorge and I love making things for the internet
     <tr>
       <td><img src="https://image.tmdb.org/t/p/w300_and_h300_face/w7ri7byEYLdciSZOwWHj6TUAX7j.jpg" alt="Scrubs" width="100%" height="auto"/></td>
       <td><strong>Scrubs</strong></td>
-      <td><code>S01E06</code> <em>My Bad</em></td>
+      <td><code>S01E07</code> <em>My Super Ego</em></td>
       <td>⭐ 7.9 / 10</td>
       <td>In the unreal world of Sacred Heart Hospital, John "J.D." Dorian learns the ways of medicine, friendship and life.</td>
     </tr>
@@ -27,23 +27,25 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Without geometry life is pointless.
+What's large, grey, and doesn't matter?
+An irrelephant.
+
 
 
 ## Daily Trivia
 
-In the server hosting industry IaaS stands for...
- 1. Infrastructure as a Service
- 2. Internet as a Service
- 3. Internet and a Server
- 4. Infrastructure as a Server
+What port does HTTP run on?
+ 1. 443
+ 2. 53
+ 3. 23
+ 4. 80
 
 <details>
   <summary>Answer</summary>
-  Infrastructure as a Service
+  80
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  5 hours 53 minutes</strong> since this server shutdown
+Its been <strong>10 days  6 hours 23 minutes</strong> since this server shutdown
