@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you get if you cross a turkey with a ghost? A poultry-geist!
+When I left school, I passed every one of my exams with the exception of Greek Mythology. It always was my achilles elbow
 
 
 ## Daily Trivia
 
-Which SQL keyword is used to fetch data from a database?
- 1. INDEX
- 2. VALUES
- 3. EXEC
- 4. SELECT
+All of the following programs are classified as raster graphics editors EXCEPT:
+ 1. Paint.NET
+ 2. Inkscape
+ 3. GIMP
+ 4. Adobe Photoshop
 
 <details>
   <summary>Answer</summary>
-  SELECT
+  Inkscape
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  5 hours 23 minutes</strong> since this server shutdown
+Its been <strong>11 days  5 hours 53 minutes</strong> since this server shutdown
