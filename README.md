@@ -27,16 +27,16 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I asked my date to go to the gym the other day. They never showed up. That's when I knew we wouldn't work out.
+Is there a hole in your shoe? No… Then how’d you get your foot in it?
 
 
 ## Daily Trivia
 
 Which of the following is a personal computer made by the Japanese company Fujitsu?
- 1. Xmillennium 
- 2. FM-7
- 3. PC-9801
- 4. MSX
+ 1. PC-9801
+ 2. Xmillennium 
+ 3. MSX
+ 4. FM-7
 
 <details>
   <summary>Answer</summary>
@@ -46,4 +46,4 @@ Which of the following is a personal computer made by the Japanese company Fujit
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  14 hours 23 minutes</strong> since this server shutdown
+Its been <strong>10 days  14 hours 53 minutes</strong> since this server shutdown
