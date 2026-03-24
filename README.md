@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What are the strongest days of the week? Saturday and Sunday...the rest are weekdays.
+A cannibal is someone who is fed up with people.
 
 
 ## Daily Trivia
 
-Which of the following computer components can be built using only NAND gates?
- 1. Register
- 2. RAM
- 3. CPU
- 4. ALU
+On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
+ 1. Dollar Sign
+ 2. Exclamation Mark
+ 3. Percent Sign
+ 4. Asterisk
 
 <details>
   <summary>Answer</summary>
-  ALU
+  Exclamation Mark
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  18 hours 53 minutes</strong> since this server shutdown
+Its been <strong>10 days  19 hours 23 minutes</strong> since this server shutdown
