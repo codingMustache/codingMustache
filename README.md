@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I couldn't figure out how the seat belt worked. Then it just clicked.
+To the person who stole my anti-depressant pills: I hope you're happy now.
 
 
 ## Daily Trivia
 
-How many Hz does the video standard PAL support?
- 1. 59
- 2. 60
- 3. 50
- 4. 25
+On Twitter, what was the original character limit for a Tweet?
+ 1. 120
+ 2. 160
+ 3. 100
+ 4. 140
 
 <details>
   <summary>Answer</summary>
-  50
+  140
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  6 hours 53 minutes</strong> since this server shutdown
+Its been <strong>11 days  7 hours 23 minutes</strong> since this server shutdown
