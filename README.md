@@ -27,24 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is the least spoken language in the world?
-Sign Language
+What animal is always at a game of cricket? A bat.
 
 
 ## Daily Trivia
 
-Whistler was the codename of this Microsoft Operating System.
- 1. Windows 2000
- 2. Windows 95
- 3. Windows 7
- 4. Windows XP
+What does the acronym CDN stand for in terms of networking?
+ 1. Content Delivery Network
+ 2. Compressed Data Network
+ 3. Computational Data Network
+ 4. Content Distribution Network
 
 <details>
   <summary>Answer</summary>
-  Windows XP
+  Content Delivery Network
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  2 hours 53 minutes</strong> since this server shutdown
+Its been <strong>12 days  3 hours 23 minutes</strong> since this server shutdown
