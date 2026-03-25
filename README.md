@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A dad washes his car with his son. But after a while, the son says, "why can't you just use a sponge?"
+There's not really any training for garbagemen. They just pick things up as they go.
 
 
 ## Daily Trivia
 
-Which of the following languages is used as a scripting language in the Unity 3D game engine?
- 1. Java
- 2. C++
- 3. Objective-C
- 4. C#
+The programming language &#039;Swift&#039; was created to replace what other programming language?
+ 1. Objective-C
+ 2. Ruby
+ 3. C#
+ 4. C++
 
 <details>
   <summary>Answer</summary>
-  C#
+  Objective-C
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  9 hours 23 minutes</strong> since this server shutdown
+Its been <strong>11 days  9 hours 53 minutes</strong> since this server shutdown
