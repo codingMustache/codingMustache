@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I couldn't figure out how the seat belt worked. Then it just clicked.
+There’s a new type of broom out, it’s sweeping the nation.
 
 
 ## Daily Trivia
 
-How long is an IPv6 address?
- 1. 32 bits
- 2. 128 bytes
- 3. 64 bits
- 4. 128 bits
+What major programming language does Unreal Engine 4 use?
+ 1. ECMAScript
+ 2. C++
+ 3. C#
+ 4. Assembly
 
 <details>
   <summary>Answer</summary>
-  128 bits
+  C++
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days 23 minutes</strong> since this server shutdown
+Its been <strong>12 days 53 minutes</strong> since this server shutdown
