@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I burned 2000 calories today, I left my food in the oven for too long.
+I tried to write a chemistry joke, but could never get a reaction.
 
 
 ## Daily Trivia
 
-What was the name given to Android 4.3?
- 1. Jelly Bean
- 2. Froyo
- 3. Nutella
- 4. Lollipop
+In computing, what does LAN stand for?
+ 1. Local Area Network
+ 2. Land Address Navigation
+ 3. Light Access Node
+ 4. Long Antenna Node
 
 <details>
   <summary>Answer</summary>
-  Jelly Bean
+  Local Area Network
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  19 hours 23 minutes</strong> since this server shutdown
+Its been <strong>11 days  19 hours 53 minutes</strong> since this server shutdown
