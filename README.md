@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a cow with no legs? Ground beef.
+Two fish are in a tank, one turns to the other and says, "how do you drive this thing?"
 
 
 ## Daily Trivia
 
-Which of these programming languages is a low-level language?
- 1. Pascal
- 2. C#
- 3. Assembly
- 4. Python
+Which data structure does FILO apply to?
+ 1. Queue
+ 2. Tree
+ 3. Stack
+ 4. Heap
 
 <details>
   <summary>Answer</summary>
-  Assembly
+  Stack
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  13 hours 53 minutes</strong> since this server shutdown
+Its been <strong>11 days  14 hours 23 minutes</strong> since this server shutdown
