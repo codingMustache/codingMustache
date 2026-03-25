@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What animal is always at a game of cricket? A bat.
+What do you call a female snake. misssssssss 
 
 
 ## Daily Trivia
 
-What does the acronym CDN stand for in terms of networking?
- 1. Content Delivery Network
- 2. Compressed Data Network
- 3. Computational Data Network
- 4. Content Distribution Network
+What major programming language does Unreal Engine 4 use?
+ 1. C++
+ 2. C#
+ 3. Assembly
+ 4. ECMAScript
 
 <details>
   <summary>Answer</summary>
-  Content Delivery Network
+  C++
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  3 hours 23 minutes</strong> since this server shutdown
+Its been <strong>12 days  3 hours 53 minutes</strong> since this server shutdown
