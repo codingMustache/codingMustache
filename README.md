@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is the leading cause of dry skin? Towels
+I couldn't figure out how the seat belt worked. Then it just clicked.
 
 
 ## Daily Trivia
 
-In the server hosting industry IaaS stands for...
- 1. Infrastructure as a Service
- 2. Infrastructure as a Server
- 3. Internet and a Server
- 4. Internet as a Service
+How long is an IPv6 address?
+ 1. 32 bits
+ 2. 128 bytes
+ 3. 64 bits
+ 4. 128 bits
 
 <details>
   <summary>Answer</summary>
-  Infrastructure as a Service
+  128 bits
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  23 hours 53 minutes</strong> since this server shutdown
+Its been <strong>12 days 23 minutes</strong> since this server shutdown
