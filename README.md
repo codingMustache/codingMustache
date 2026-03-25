@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to be addicted to soap, but I'm clean now.
+I burned 2000 calories today, I left my food in the oven for too long.
 
 
 ## Daily Trivia
 
-Who invented the &quot;Spanning Tree Protocol&quot;?
- 1. Michael Roberts
- 2. Radia Perlman
- 3. Paul Vixie
- 4. Vint Cerf
+Dutch computer scientist Mark Overmars is known for creating which game development engine?
+ 1. Stencyl
+ 2. Construct
+ 3. Torque 2D
+ 4. Game Maker
 
 <details>
   <summary>Answer</summary>
-  Radia Perlman
+  Game Maker
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  22 hours 23 minutes</strong> since this server shutdown
+Its been <strong>11 days  22 hours 53 minutes</strong> since this server shutdown
