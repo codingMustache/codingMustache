@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a cow with two legs? Lean beef.
+What do you call a cow with no legs? Ground beef.
 
 
 ## Daily Trivia
 
-What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
- 1. PCM Sampler
- 2. FM Synthesizer
- 3. ADPCM Sampler
- 4. Programmable Sound Generator (PSG)
+Which of these programming languages is a low-level language?
+ 1. Pascal
+ 2. C#
+ 3. Assembly
+ 4. Python
 
 <details>
   <summary>Answer</summary>
-  ADPCM Sampler
+  Assembly
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  13 hours 23 minutes</strong> since this server shutdown
+Its been <strong>11 days  13 hours 53 minutes</strong> since this server shutdown
