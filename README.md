@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-When does a joke become a dad joke? When it becomes apparent.
+Have you heard about corduroy pillows?  They're making headlines!
 
 
 ## Daily Trivia
 
-What does the term MIME stand for, in regards to computing?
- 1. Multipurpose Internet Mail Extensions
- 2. Mail Internet Mail Exchange
- 3. Multipurpose Interleave Mail Exchange
- 4. Mail Interleave Method Exchange
+What is the maximum value of a 32-bit signed binary integer?
+ 1. 2,147,483,647
+ 2. 9,223,372,036,854,775,807
+ 3. 2048
+ 4. 255
 
 <details>
   <summary>Answer</summary>
-  Multipurpose Internet Mail Extensions
+  2,147,483,647
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  15 hours 53 minutes</strong> since this server shutdown
+Its been <strong>11 days  16 hours 23 minutes</strong> since this server shutdown
