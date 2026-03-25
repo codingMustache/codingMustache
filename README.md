@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Want to hear my pizza joke? Never mind, it's too cheesy.
+Archaeology really is a career in ruins.
 
 
 ## Daily Trivia
 
-The numbering system with a radix of 16 is more commonly referred to as 
- 1. Octal
- 2. Hexidecimal
- 3. Duodecimal
- 4. Binary
+What does the term USB stand for?
+ 1. Universal Serial Bus
+ 2. Unified Signal Bus
+ 3. Universal Simtex Blot
+ 4. Unityped Semtex Backer
 
 <details>
   <summary>Answer</summary>
-  Hexidecimal
+  Universal Serial Bus
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  5 hours 23 minutes</strong> since this server shutdown
+Its been <strong>12 days  5 hours 53 minutes</strong> since this server shutdown
