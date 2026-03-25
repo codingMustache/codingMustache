@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a fish with no eyes? A fsh.
+How many optometrists does it take to change a light bulb? 1 or 2? 1... or 2?
 
 
 ## Daily Trivia
 
-What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
- 1. Heat Sink
- 2. Heat Vent
- 3. Temperature Decipator
- 4. CPU Vent
+The programming language &#039;Swift&#039; was created to replace what other programming language?
+ 1. C#
+ 2. Ruby
+ 3. C++
+ 4. Objective-C
 
 <details>
   <summary>Answer</summary>
-  Heat Sink
+  Objective-C
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  14 hours 53 minutes</strong> since this server shutdown
+Its been <strong>11 days  15 hours 23 minutes</strong> since this server shutdown
