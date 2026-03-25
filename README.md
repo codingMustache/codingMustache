@@ -27,16 +27,16 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Writing with a broken pencil is pointless.
+I used to be addicted to soap, but I'm clean now.
 
 
 ## Daily Trivia
 
 Who invented the &quot;Spanning Tree Protocol&quot;?
- 1. Radia Perlman
- 2. Paul Vixie
- 3. Vint Cerf
- 4. Michael Roberts
+ 1. Michael Roberts
+ 2. Radia Perlman
+ 3. Paul Vixie
+ 4. Vint Cerf
 
 <details>
   <summary>Answer</summary>
@@ -46,4 +46,4 @@ Who invented the &quot;Spanning Tree Protocol&quot;?
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  21 hours 53 minutes</strong> since this server shutdown
+Its been <strong>11 days  22 hours 23 minutes</strong> since this server shutdown
