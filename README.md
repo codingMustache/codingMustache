@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Have you heard about corduroy pillows?  They're making headlines!
+How do you get two whales in a car? Start in England and drive West.
 
 
 ## Daily Trivia
 
-What is the maximum value of a 32-bit signed binary integer?
- 1. 2,147,483,647
- 2. 9,223,372,036,854,775,807
- 3. 2048
- 4. 255
+What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
+ 1. Broadwell
+ 2. Coffee Lake
+ 3. Sandy Bridge
+ 4. Skylake
 
 <details>
   <summary>Answer</summary>
-  2,147,483,647
+  Coffee Lake
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  16 hours 23 minutes</strong> since this server shutdown
+Its been <strong>11 days  16 hours 53 minutes</strong> since this server shutdown
