@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-We all know where the Big Apple is but does anyone know where the Minneapolis?
+What did the grape do when he got stepped on? He let out a little wine.
 
 
 ## Daily Trivia
 
-What was the name given to Android 4.3?
- 1. Froyo
- 2. Jelly Bean
- 3. Nutella
- 4. Lollipop
+On Twitter, what was the original character limit for a Tweet?
+ 1. 140
+ 2. 100
+ 3. 160
+ 4. 120
 
 <details>
   <summary>Answer</summary>
-  Jelly Bean
+  140
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  20 hours 23 minutes</strong> since this server shutdown
+Its been <strong>11 days  20 hours 53 minutes</strong> since this server shutdown
