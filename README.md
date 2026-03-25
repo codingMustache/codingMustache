@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-To the person who stole my anti-depressant pills: I hope you're happy now.
+Why does Waldo only wear stripes? Because he doesn't want to be spotted.
 
 
 ## Daily Trivia
 
-On Twitter, what was the original character limit for a Tweet?
- 1. 120
- 2. 160
- 3. 100
- 4. 140
+In programming, what do you call functions with the same name but different implementations?
+ 1. Overloading
+ 2. Inheriting
+ 3. Abstracting
+ 4. Overriding
 
 <details>
   <summary>Answer</summary>
-  140
+  Overloading
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  7 hours 23 minutes</strong> since this server shutdown
+Its been <strong>11 days  7 hours 53 minutes</strong> since this server shutdown
