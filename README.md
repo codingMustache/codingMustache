@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-People who don't eat gluten are really going against the grain.
+I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts.
 
 
 ## Daily Trivia
 
-What does the term MIME stand for, in regards to computing?
- 1. Multipurpose Internet Mail Extensions
- 2. Mail Interleave Method Exchange
- 3. Multipurpose Interleave Mail Exchange
- 4. Mail Internet Mail Exchange
+What is the name of Layer 7 of the OSI model?
+ 1. Session
+ 2. Network
+ 3. Present
+ 4. Application
 
 <details>
   <summary>Answer</summary>
-  Multipurpose Internet Mail Extensions
+  Application
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  4 hours 23 minutes</strong> since this server shutdown
+Its been <strong>12 days  4 hours 53 minutes</strong> since this server shutdown
