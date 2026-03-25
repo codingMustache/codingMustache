@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why does Superman get invited to dinners? Because he is a Supperhero.
+Where do young cows eat lunch? In the calf-ateria.
 
 
 ## Daily Trivia
 
-In networking, what does OSPF stand for?
- 1. Order Sense Ping Find
- 2. Order State Part First
- 3. Open Shortest Path First
- 4. Open Signal Path Finder
+What does the acronym CDN stand for in terms of networking?
+ 1. Content Distribution Network
+ 2. Computational Data Network
+ 3. Compressed Data Network
+ 4. Content Delivery Network
 
 <details>
   <summary>Answer</summary>
-  Open Shortest Path First
+  Content Delivery Network
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  1 hours 23 minutes</strong> since this server shutdown
+Its been <strong>12 days  1 hours 53 minutes</strong> since this server shutdown
