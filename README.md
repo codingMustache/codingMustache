@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you get two whales in a car? Start in England and drive West.
+How many South Americans does it take to change a lightbulb? A Brazilian
 
 
 ## Daily Trivia
 
-What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
- 1. Broadwell
- 2. Coffee Lake
- 3. Sandy Bridge
- 4. Skylake
+How many Hz does the video standard PAL support?
+ 1. 50
+ 2. 59
+ 3. 25
+ 4. 60
 
 <details>
   <summary>Answer</summary>
-  Coffee Lake
+  50
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  16 hours 53 minutes</strong> since this server shutdown
+Its been <strong>11 days  17 hours 23 minutes</strong> since this server shutdown
