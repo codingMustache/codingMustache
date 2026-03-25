@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Two fish are in a tank, one turns to the other and says, "how do you drive this thing?"
+What do you call a fish with no eyes? A fsh.
 
 
 ## Daily Trivia
 
-Which data structure does FILO apply to?
- 1. Queue
- 2. Tree
- 3. Stack
- 4. Heap
+What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
+ 1. Heat Sink
+ 2. Heat Vent
+ 3. Temperature Decipator
+ 4. CPU Vent
 
 <details>
   <summary>Answer</summary>
-  Stack
+  Heat Sink
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  14 hours 23 minutes</strong> since this server shutdown
+Its been <strong>11 days  14 hours 53 minutes</strong> since this server shutdown
