@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do wizards clean their teeth three times a day? To prevent bat breath!
+What is the leading cause of dry skin? Towels
 
 
 ## Daily Trivia
 
-How many bytes are in a single Kibibyte?
- 1. 1000
- 2. 1024
- 3. 2400
- 4. 1240
+In the server hosting industry IaaS stands for...
+ 1. Infrastructure as a Service
+ 2. Infrastructure as a Server
+ 3. Internet and a Server
+ 4. Internet as a Service
 
 <details>
   <summary>Answer</summary>
-  1024
+  Infrastructure as a Service
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  23 hours 23 minutes</strong> since this server shutdown
+Its been <strong>11 days  23 hours 53 minutes</strong> since this server shutdown
