@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts.
+Want to hear my pizza joke? Never mind, it's too cheesy.
 
 
 ## Daily Trivia
 
-What is the name of Layer 7 of the OSI model?
- 1. Session
- 2. Network
- 3. Present
- 4. Application
+The numbering system with a radix of 16 is more commonly referred to as 
+ 1. Octal
+ 2. Hexidecimal
+ 3. Duodecimal
+ 4. Binary
 
 <details>
   <summary>Answer</summary>
-  Application
+  Hexidecimal
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  4 hours 53 minutes</strong> since this server shutdown
+Its been <strong>12 days  5 hours 23 minutes</strong> since this server shutdown
