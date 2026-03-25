@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I burned 2000 calories today, I left my food in the oven for too long.
+Why do wizards clean their teeth three times a day? To prevent bat breath!
 
 
 ## Daily Trivia
 
-Dutch computer scientist Mark Overmars is known for creating which game development engine?
- 1. Stencyl
- 2. Construct
- 3. Torque 2D
- 4. Game Maker
+How many bytes are in a single Kibibyte?
+ 1. 1000
+ 2. 1024
+ 3. 2400
+ 4. 1240
 
 <details>
   <summary>Answer</summary>
-  Game Maker
+  1024
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  22 hours 53 minutes</strong> since this server shutdown
+Its been <strong>11 days  23 hours 23 minutes</strong> since this server shutdown
