@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I tried to write a chemistry joke, but could never get a reaction.
+We all know where the Big Apple is but does anyone know where the Minneapolis?
 
 
 ## Daily Trivia
 
-In computing, what does LAN stand for?
- 1. Local Area Network
- 2. Land Address Navigation
- 3. Light Access Node
- 4. Long Antenna Node
+What was the name given to Android 4.3?
+ 1. Froyo
+ 2. Jelly Bean
+ 3. Nutella
+ 4. Lollipop
 
 <details>
   <summary>Answer</summary>
-  Local Area Network
+  Jelly Bean
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  19 hours 53 minutes</strong> since this server shutdown
+Its been <strong>11 days  20 hours 23 minutes</strong> since this server shutdown
