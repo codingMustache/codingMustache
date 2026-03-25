@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Whenever the cashier at the grocery store asks my dad if he would like the milk in a bag he replies, ‘No, just leave it in the carton!’
+I burned 2000 calories today, I left my food in the oven for too long.
 
 
 ## Daily Trivia
 
-The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
- 1. HD Graphics 500
- 2. HD Graphics 7000
- 3. HD Graphics 600
- 4. HD Graphics 700 
+What was the name given to Android 4.3?
+ 1. Jelly Bean
+ 2. Froyo
+ 3. Nutella
+ 4. Lollipop
 
 <details>
   <summary>Answer</summary>
-  HD Graphics 500
+  Jelly Bean
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  18 hours 53 minutes</strong> since this server shutdown
+Its been <strong>11 days  19 hours 23 minutes</strong> since this server shutdown
