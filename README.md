@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the melons plan a big wedding? Because they cantaloupe!
+Whenever the cashier at the grocery store asks my dad if he would like the milk in a bag he replies, ‘No, just leave it in the carton!’
 
 
 ## Daily Trivia
 
-Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
- 1. Apple
- 2. Commodore
- 3. Atari
- 4. Microsoft
+The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
+ 1. HD Graphics 500
+ 2. HD Graphics 7000
+ 3. HD Graphics 600
+ 4. HD Graphics 700 
 
 <details>
   <summary>Answer</summary>
-  Apple
+  HD Graphics 500
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  18 hours 23 minutes</strong> since this server shutdown
+Its been <strong>11 days  18 hours 53 minutes</strong> since this server shutdown
