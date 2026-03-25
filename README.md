@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many optometrists does it take to change a light bulb? 1 or 2? 1... or 2?
+When does a joke become a dad joke? When it becomes apparent.
 
 
 ## Daily Trivia
 
-The programming language &#039;Swift&#039; was created to replace what other programming language?
- 1. C#
- 2. Ruby
- 3. C++
- 4. Objective-C
+What does the term MIME stand for, in regards to computing?
+ 1. Multipurpose Internet Mail Extensions
+ 2. Mail Internet Mail Exchange
+ 3. Multipurpose Interleave Mail Exchange
+ 4. Mail Interleave Method Exchange
 
 <details>
   <summary>Answer</summary>
-  Objective-C
+  Multipurpose Internet Mail Extensions
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  15 hours 23 minutes</strong> since this server shutdown
+Its been <strong>11 days  15 hours 53 minutes</strong> since this server shutdown
