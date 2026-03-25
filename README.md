@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-There’s a new type of broom out, it’s sweeping the nation.
+Why does Superman get invited to dinners? Because he is a Supperhero.
 
 
 ## Daily Trivia
 
-What major programming language does Unreal Engine 4 use?
- 1. ECMAScript
- 2. C++
- 3. C#
- 4. Assembly
+In networking, what does OSPF stand for?
+ 1. Order Sense Ping Find
+ 2. Order State Part First
+ 3. Open Shortest Path First
+ 4. Open Signal Path Finder
 
 <details>
   <summary>Answer</summary>
-  C++
+  Open Shortest Path First
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days 53 minutes</strong> since this server shutdown
+Its been <strong>12 days  1 hours 23 minutes</strong> since this server shutdown
