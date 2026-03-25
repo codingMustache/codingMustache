@@ -16,34 +16,34 @@ Hello I'm Jorge and I love making things for the internet
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://image.tmdb.org/t/p/w300_and_h300_face/e2xyMapmYgv4AuSoSDv9Y4pQlD6.jpg" alt="King of the Hill" width="100%" height="auto"/></td>
-      <td><strong>King of the Hill</strong></td>
-      <td><code>S05E01</code> <em>The Perils of Polling</em></td>
-      <td>⭐ 7.39 / 10</td>
-      <td>Set in Texas, this animated series follows the life of propane salesman Hank Hill, who lives with his overly confident substitute Spanish teacher wife Peggy, wannabe comedian son Bobby, and naive niece Luanne. Hank has conservative views about God, family, and country, but his values and ethics are often challenged by the situations he, his family, and his beer-drinking neighbors/buddies find themselves in.</td>
+      <td><img src="https://image.tmdb.org/t/p/w300_and_h300_face/ng3cMtxYKt1OSQYqFlnKWnVsqNO.jpg" alt="The Walking Dead" width="100%" height="auto"/></td>
+      <td><strong>The Walking Dead</strong></td>
+      <td><code>S08E11</code> <em>Dead or Alive Or</em></td>
+      <td>⭐ 8.1 / 10</td>
+      <td>Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way.</td>
     </tr>
   </tbody>
 </table>
 
 ## Joke of the Day
 
-Dad, can you put my shoes on? I don't think they'll fit me.
+I saw my husband trip and fall while carrying a laundry basket full of ironed clothes. I watched it all unfold.
 
 
 ## Daily Trivia
 
-What does AD stand for in relation to Windows Operating Systems? 
- 1. Alternative Drive
- 2. Automated Database
- 3. Active Department
- 4. Active Directory
+What was the name given to Android 4.3?
+ 1. Lollipop
+ 2. Nutella
+ 3. Froyo
+ 4. Jelly Bean
 
 <details>
   <summary>Answer</summary>
-  Active Directory
+  Jelly Bean
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  8 hours 23 minutes</strong> since this server shutdown
+Its been <strong>11 days  8 hours 53 minutes</strong> since this server shutdown
