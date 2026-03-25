@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It’s hard to explain puns to kleptomaniacs, because they take everything literally.
+Writing with a broken pencil is pointless.
 
 
 ## Daily Trivia
 
-What is the name of the process that sends one qubit of information using two bits of classical information?
- 1. Super Dense Coding
- 2. Quantum Entanglement
- 3. Quantum Programming
- 4. Quantum Teleportation
+Who invented the &quot;Spanning Tree Protocol&quot;?
+ 1. Radia Perlman
+ 2. Paul Vixie
+ 3. Vint Cerf
+ 4. Michael Roberts
 
 <details>
   <summary>Answer</summary>
-  Quantum Teleportation
+  Radia Perlman
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  21 hours 23 minutes</strong> since this server shutdown
+Its been <strong>11 days  21 hours 53 minutes</strong> since this server shutdown
