@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A cannibal is someone who is fed up with people.
+Why did the melons plan a big wedding? Because they cantaloupe!
 
 
 ## Daily Trivia
 
-In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
- 1. &lt;slide&gt;&lt;/slide&gt;
- 2. &lt;move&gt;&lt;/move&gt;
- 3. &lt;scroll&gt;&lt;/scroll&gt;
- 4. &lt;marquee&gt;&lt;/marquee&gt;
+Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
+ 1. Apple
+ 2. Commodore
+ 3. Atari
+ 4. Microsoft
 
 <details>
   <summary>Answer</summary>
-  &lt;marquee&gt;&lt;/marquee&gt;
+  Apple
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  17 hours 53 minutes</strong> since this server shutdown
+Its been <strong>11 days  18 hours 23 minutes</strong> since this server shutdown
