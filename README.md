@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do bees go to the bathroom?  The BP station.
+When will the little snake arrive? I don't know but he won't be long...
 
 
 ## Daily Trivia
 
-What is the number of keys on a standard Windows Keyboard?
- 1. 104
- 2. 76
- 3. 94
- 4. 64
+Which of the following is a personal computer made by the Japanese company Fujitsu?
+ 1. MSX
+ 2. PC-9801
+ 3. Xmillennium 
+ 4. FM-7
 
 <details>
   <summary>Answer</summary>
-  104
+  FM-7
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  17 hours 23 minutes</strong> since this server shutdown
+Its been <strong>12 days  17 hours 53 minutes</strong> since this server shutdown
