@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A woman is on trial for beating her husband to death with his guitar collection. Judge says, ‘First offender?’ She says, ‘No, first a Gibson! Then a Fender!’
+The other day I was listening to a song about superglue, it’s been stuck in my head ever since.
 
 
 ## Daily Trivia
 
-The programming language &#039;Swift&#039; was created to replace what other programming language?
- 1. C#
- 2. Ruby
- 3. C++
- 4. Objective-C
+What does the computer software acronym JVM stand for?
+ 1. Java Vendor Machine
+ 2. Java Virtual Machine
+ 3. Java Visual Machine
+ 4. Just Virtual Machine
 
 <details>
   <summary>Answer</summary>
-  Objective-C
+  Java Virtual Machine
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  1 hours 23 minutes</strong> since this server shutdown
+Its been <strong>13 days  1 hours 53 minutes</strong> since this server shutdown
