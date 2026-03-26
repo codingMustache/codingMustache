@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Two peanuts were walking down the street. One was a salted
+What did the ocean say to the shore? Nothing, it just waved.
 
 
 ## Daily Trivia
 
-While Apple was formed in California, in which western state was Microsoft founded?
- 1. New Mexico
- 2. Arizona
- 3. Washington
- 4. Colorado
+What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
+ 1. Sandy Bridge
+ 2. Coffee Lake
+ 3. Broadwell
+ 4. Skylake
 
 <details>
   <summary>Answer</summary>
-  New Mexico
+  Coffee Lake
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  14 hours 53 minutes</strong> since this server shutdown
+Its been <strong>12 days  15 hours 23 minutes</strong> since this server shutdown
