@@ -27,23 +27,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of award did the dentist receive? A little plaque.
+I fear for the calendar, its days are numbered.
+
 
 
 ## Daily Trivia
 
-Which of these names was an actual codename for a cancelled Microsoft project?
- 1. Neptune
- 2. Saturn
- 3. Pollux
- 4. Enceladus
+What was Bitcoin&#039;s block size limit in 2010?
+ 1. 1 MB
+ 2. 1 TB
+ 3. 1 KB
+ 4. 1GB
 
 <details>
   <summary>Answer</summary>
-  Neptune
+  1 MB
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  11 hours 53 minutes</strong> since this server shutdown
+Its been <strong>12 days  12 hours 23 minutes</strong> since this server shutdown
