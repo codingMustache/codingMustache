@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-If you’re struggling to think of what to get someone for Christmas. Get them a fridge and watch their face light up when they open it.
+What did the doctor say to the gingerbread man who broke his leg? Try icing it.
 
 
 ## Daily Trivia
 
-Which operating system was released first?
- 1. Linux
- 2. Mac OS
- 3. OS/2
- 4. Windows
+Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
+ 1. Microsoft
+ 2. Atari
+ 3. Commodore
+ 4. Apple
 
 <details>
   <summary>Answer</summary>
-  Mac OS
+  Apple
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  3 hours 53 minutes</strong> since this server shutdown
+Its been <strong>13 days  4 hours 23 minutes</strong> since this server shutdown
