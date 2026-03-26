@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the ocean say to the shore? Nothing, it just waved.
+Why did the burglar hang his mugshot on the wall? To prove that he was framed!
 
 
 ## Daily Trivia
 
-What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
- 1. Sandy Bridge
- 2. Coffee Lake
- 3. Broadwell
- 4. Skylake
+What does CPU stand for?
+ 1. Central Processor Unit
+ 2. Central Processing Unit
+ 3. Central Process Unit
+ 4. Computer Personal Unit
 
 <details>
   <summary>Answer</summary>
-  Coffee Lake
+  Central Processing Unit
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  15 hours 23 minutes</strong> since this server shutdown
+Its been <strong>12 days  15 hours 53 minutes</strong> since this server shutdown
