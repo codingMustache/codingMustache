@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the calculator say to the student? You can count on me.
+Where do bees go to the bathroom?  The BP station.
 
 
 ## Daily Trivia
 
-In networking, what does OSPF stand for?
- 1. Order State Part First
- 2. Order Sense Ping Find
- 3. Open Signal Path Finder
- 4. Open Shortest Path First
+What is the number of keys on a standard Windows Keyboard?
+ 1. 104
+ 2. 76
+ 3. 94
+ 4. 64
 
 <details>
   <summary>Answer</summary>
-  Open Shortest Path First
+  104
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  16 hours 53 minutes</strong> since this server shutdown
+Its been <strong>12 days  17 hours 23 minutes</strong> since this server shutdown
