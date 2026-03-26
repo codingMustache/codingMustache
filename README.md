@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I asked the surgeon if I could administer my own anesthetic, they said: go ahead, knock yourself out.
+How did Darth Vader know what Luke was getting for Christmas? He felt his presents.
 
 
 ## Daily Trivia
 
-In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
- 1. &lt;marquee&gt;&lt;/marquee&gt;
- 2. &lt;scroll&gt;&lt;/scroll&gt;
- 3. &lt;move&gt;&lt;/move&gt;
- 4. &lt;slide&gt;&lt;/slide&gt;
+What is the name of Layer 7 of the OSI model?
+ 1. Present
+ 2. Network
+ 3. Session
+ 4. Application
 
 <details>
   <summary>Answer</summary>
-  &lt;marquee&gt;&lt;/marquee&gt;
+  Application
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  18 hours 53 minutes</strong> since this server shutdown
+Its been <strong>12 days  19 hours 23 minutes</strong> since this server shutdown
