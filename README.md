@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A Skeleton walked into a bar he said I need a beer and a mop
+If you’re struggling to think of what to get someone for Christmas. Get them a fridge and watch their face light up when they open it.
 
 
 ## Daily Trivia
 
-Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
- 1. Apple
- 2. Commodore
- 3. Atari
- 4. Microsoft
+Which operating system was released first?
+ 1. Linux
+ 2. Mac OS
+ 3. OS/2
+ 4. Windows
 
 <details>
   <summary>Answer</summary>
-  Apple
+  Mac OS
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  3 hours 23 minutes</strong> since this server shutdown
+Its been <strong>13 days  3 hours 53 minutes</strong> since this server shutdown
