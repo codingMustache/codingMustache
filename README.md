@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What’s brown and sounds like a bell? Dung!
+Why do you never see elephants hiding in trees? Because they're so good at it.
 
 
 ## Daily Trivia
 
-What was the name of the image that features as the default background wallpaper for Windows XP?
- 1. Red moon desert
- 2. Azul
- 3. Bliss
- 4. Tulips
+What internet protocol was documented in RFC 1459?
+ 1. HTTP
+ 2. HTTPS
+ 3. FTP
+ 4. IRC
 
 <details>
   <summary>Answer</summary>
-  Bliss
+  IRC
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  19 hours 53 minutes</strong> since this server shutdown
+Its been <strong>12 days  20 hours 23 minutes</strong> since this server shutdown
