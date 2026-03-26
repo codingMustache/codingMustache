@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-When will the little snake arrive? I don't know but he won't be long...
+What did the fish say when it swam into a wall? Damn!
 
 
 ## Daily Trivia
 
-Which of the following is a personal computer made by the Japanese company Fujitsu?
- 1. MSX
- 2. PC-9801
- 3. Xmillennium 
- 4. FM-7
+How many kilobytes in one gigabyte (in decimal)?
+ 1. 1000
+ 2. 1000000
+ 3. 1024
+ 4. 1048576
 
 <details>
   <summary>Answer</summary>
-  FM-7
+  1000000
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  17 hours 53 minutes</strong> since this server shutdown
+Its been <strong>12 days  18 hours 23 minutes</strong> since this server shutdown
