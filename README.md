@@ -27,24 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Hostess: Do you have a preference of where you sit?
-Dad: Down.
+I once lost a banana at court but then I appealed. 
 
 
 ## Daily Trivia
 
-Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
- 1. Apple
- 2. Commodore
- 3. Atari
- 4. Microsoft
+Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
+ 1. Amazon
+ 2. Shopify
+ 3. Overstock
+ 4. eBay
 
 <details>
   <summary>Answer</summary>
-  Apple
+  Amazon
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  6 hours 23 minutes</strong> since this server shutdown
+Its been <strong>12 days  6 hours 53 minutes</strong> since this server shutdown
