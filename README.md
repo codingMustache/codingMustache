@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Two muffins were sitting in an oven, and the first looks over to the second, and says, “man, it’s really hot in here”. The second looks over at the first with a surprised look, and answers, “WHOA, a talking muffin!”
+Why did the scarecrow win an award? Because he was outstanding in his field.
 
 
 ## Daily Trivia
 
-What was Bitcoin&#039;s block size limit in 2010?
- 1. 1 MB
- 2. 1 TB
- 3. 1 KB
- 4. 1GB
+What is largely considered the precursor to the USB format?
+ 1. PS/2
+ 2. SVGA
+ 3. PCIe
+ 4. FireWire
 
 <details>
   <summary>Answer</summary>
-  1 MB
+  PS/2
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  12 hours 53 minutes</strong> since this server shutdown
+Its been <strong>12 days  13 hours 23 minutes</strong> since this server shutdown
