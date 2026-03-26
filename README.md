@@ -16,34 +16,34 @@ Hello I'm Jorge and I love making things for the internet
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://image.tmdb.org/t/p/w300_and_h300_face/gmcw8XDLWUA6Na6khKJdawhI41v.jpg" alt="Toast Of London" width="100%" height="auto"/></td>
-      <td><strong>Toast Of London</strong></td>
-      <td><code>S02E02</code> <em>Desperate Measures</em></td>
-      <td>⭐ 7.4 / 10</td>
-      <td>Steven Toast, an eccentric middle-aged actor with a chequered past, spends more time dealing with his problems off stage than performing on it.</td>
+      <td><img src="https://image.tmdb.org/t/p/w300_and_h300_face/ng3cMtxYKt1OSQYqFlnKWnVsqNO.jpg" alt="The Walking Dead" width="100%" height="auto"/></td>
+      <td><strong>The Walking Dead</strong></td>
+      <td><code>S08E13</code> <em>Do Not Send Us Astray</em></td>
+      <td>⭐ 8.08 / 10</td>
+      <td>Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way.</td>
     </tr>
   </tbody>
 </table>
 
 ## Joke of the Day
 
-Two fish are in a tank, one turns to the other and says, "how do you drive this thing?"
+What do you call a bear with no teeth? A gummy bear!
 
 
 ## Daily Trivia
 
-Which of these people was NOT a founder of Apple Inc?
- 1. Jonathan Ive
- 2. Steve Wozniak
- 3. Ronald Wayne
- 4. Steve Jobs
+Which RAID array type is associated with data mirroring?
+ 1. RAID 10
+ 2. RAID 1
+ 3. RAID 0
+ 4. RAID 5
 
 <details>
   <summary>Answer</summary>
-  Jonathan Ive
+  RAID 1
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  7 hours 23 minutes</strong> since this server shutdown
+Its been <strong>12 days  7 hours 53 minutes</strong> since this server shutdown
