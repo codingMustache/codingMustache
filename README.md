@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the scarecrow win an award? Because he was outstanding in his field.
+Do you want a brief explanation of what an acorn is? In a nutshell, it's an oak tree.
 
 
 ## Daily Trivia
 
-What is largely considered the precursor to the USB format?
- 1. PS/2
- 2. SVGA
- 3. PCIe
- 4. FireWire
+What does LTS stand for in the software market?
+ 1. Long Term Support
+ 2. Ludicrous Turbo Speed
+ 3. Long Taco Service
+ 4. Ludicrous Transfer Speed
 
 <details>
   <summary>Answer</summary>
-  PS/2
+  Long Term Support
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  13 hours 23 minutes</strong> since this server shutdown
+Its been <strong>12 days  13 hours 53 minutes</strong> since this server shutdown
