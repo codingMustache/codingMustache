@@ -27,23 +27,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Archaeology really is a career in ruins.
+Hostess: Do you have a preference of where you sit?
+Dad: Down.
 
 
 ## Daily Trivia
 
-What does the term USB stand for?
- 1. Universal Serial Bus
- 2. Unified Signal Bus
- 3. Universal Simtex Blot
- 4. Unityped Semtex Backer
+Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
+ 1. Apple
+ 2. Commodore
+ 3. Atari
+ 4. Microsoft
 
 <details>
   <summary>Answer</summary>
-  Universal Serial Bus
+  Apple
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  5 hours 53 minutes</strong> since this server shutdown
+Its been <strong>12 days  6 hours 23 minutes</strong> since this server shutdown
