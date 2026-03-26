@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My cat was just sick on the carpet, I don’t think it’s feline well.
+What do you call a pile of cats?  A Meowtain.
 
 
 ## Daily Trivia
 
-What is the name of the process that sends one qubit of information using two bits of classical information?
- 1. Quantum Programming
- 2. Quantum Entanglement
- 3. Super Dense Coding
- 4. Quantum Teleportation
+The acronym &quot;RIP&quot; stands for which of these?
+ 1. Runtime Instance Processes
+ 2. Regular Interval Processes
+ 3. Routine Inspection Protocol
+ 4. Routing Information Protocol
 
 <details>
   <summary>Answer</summary>
-  Quantum Teleportation
+  Routing Information Protocol
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  9 hours 53 minutes</strong> since this server shutdown
+Its been <strong>12 days  10 hours 23 minutes</strong> since this server shutdown
