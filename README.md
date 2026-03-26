@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The other day I was listening to a song about superglue, it’s been stuck in my head ever since.
+Where does Fonzie like to go for lunch? Chick-Fil-Eyyyyyyyy.
 
 
 ## Daily Trivia
 
-What does the computer software acronym JVM stand for?
- 1. Java Vendor Machine
- 2. Java Virtual Machine
- 3. Java Visual Machine
- 4. Just Virtual Machine
+What kind of memory is used on memory cache?
+ 1. ROM
+ 2. SRAM
+ 3. DRAM
+ 4. Flash
 
 <details>
   <summary>Answer</summary>
-  Java Virtual Machine
+  SRAM
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  1 hours 53 minutes</strong> since this server shutdown
+Its been <strong>13 days  2 hours 23 minutes</strong> since this server shutdown
