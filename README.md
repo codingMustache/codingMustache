@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the burglar hang his mugshot on the wall? To prove that he was framed!
+I just got fired from a florist, apparently I took too many leaves.
 
 
 ## Daily Trivia
 
-What does CPU stand for?
- 1. Central Processor Unit
- 2. Central Processing Unit
- 3. Central Process Unit
- 4. Computer Personal Unit
+In web design, what does CSS stand for?
+ 1. Counter Strike: Source
+ 2. Computer Style Sheet
+ 3. Cascading Style Sheet
+ 4. Corrective Style Sheet
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  Cascading Style Sheet
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  15 hours 53 minutes</strong> since this server shutdown
+Its been <strong>12 days  16 hours 23 minutes</strong> since this server shutdown
