@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later.
+Why do fish live in salt water? Because pepper makes them sneeze!
 
 
 ## Daily Trivia
 
-Which of these names was an actual codename for a cancelled Microsoft project?
- 1. Neptune
- 2. Saturn
- 3. Pollux
- 4. Enceladus
+Which of the following is a personal computer made by the Japanese company Fujitsu?
+ 1. Xmillennium 
+ 2. FM-7
+ 3. MSX
+ 4. PC-9801
 
 <details>
   <summary>Answer</summary>
-  Neptune
+  FM-7
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  4 hours 53 minutes</strong> since this server shutdown
+Its been <strong>13 days  5 hours 23 minutes</strong> since this server shutdown
