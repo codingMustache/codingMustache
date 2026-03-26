@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I just got fired from a florist, apparently I took too many leaves.
+What did the calculator say to the student? You can count on me.
 
 
 ## Daily Trivia
 
-In web design, what does CSS stand for?
- 1. Counter Strike: Source
- 2. Computer Style Sheet
- 3. Cascading Style Sheet
- 4. Corrective Style Sheet
+In networking, what does OSPF stand for?
+ 1. Order State Part First
+ 2. Order Sense Ping Find
+ 3. Open Signal Path Finder
+ 4. Open Shortest Path First
 
 <details>
   <summary>Answer</summary>
-  Cascading Style Sheet
+  Open Shortest Path First
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  16 hours 23 minutes</strong> since this server shutdown
+Its been <strong>12 days  16 hours 53 minutes</strong> since this server shutdown
