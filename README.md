@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Mountains aren't just funny, they are hill areas
+I wanted to be a tailor but I didn't suit the job
 
 
 ## Daily Trivia
 
-HTML is what type of language?
- 1. Macro Language
- 2. Programming Language
- 3. Scripting Language
- 4. Markup Language
+Which data structure does FILO apply to?
+ 1. Tree
+ 2. Queue
+ 3. Heap
+ 4. Stack
 
 <details>
   <summary>Answer</summary>
-  Markup Language
+  Stack
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  21 hours 53 minutes</strong> since this server shutdown
+Its been <strong>12 days  22 hours 23 minutes</strong> since this server shutdown
