@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do you never see elephants hiding in trees? Because they're so good at it.
+What do computers and air conditioners have in common? They both become useless when you open windows.
 
 
 ## Daily Trivia
 
-What internet protocol was documented in RFC 1459?
- 1. HTTP
- 2. HTTPS
- 3. FTP
- 4. IRC
+What does GHz stand for?
+ 1. Gigahertz
+ 2. Gigahetz
+ 3. Gigahatz
+ 4. Gigahotz
 
 <details>
   <summary>Answer</summary>
-  IRC
+  Gigahertz
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  20 hours 23 minutes</strong> since this server shutdown
+Its been <strong>12 days  20 hours 53 minutes</strong> since this server shutdown
