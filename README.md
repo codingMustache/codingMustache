@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do birds fly south for the winter? Because it's too far to walk.
+Two peanuts were walking down the street. One was a salted
 
 
 ## Daily Trivia
 
-Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
- 1. Four Years
- 2. Two Years
- 3. Eight Years
- 4. Year
+While Apple was formed in California, in which western state was Microsoft founded?
+ 1. New Mexico
+ 2. Arizona
+ 3. Washington
+ 4. Colorado
 
 <details>
   <summary>Answer</summary>
-  Year
+  New Mexico
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  14 hours 23 minutes</strong> since this server shutdown
+Its been <strong>12 days  14 hours 53 minutes</strong> since this server shutdown
