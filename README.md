@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I once lost a banana at court but then I appealed. 
+Two fish are in a tank, one turns to the other and says, "how do you drive this thing?"
 
 
 ## Daily Trivia
 
-Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
- 1. Amazon
- 2. Shopify
- 3. Overstock
- 4. eBay
+Which of these people was NOT a founder of Apple Inc?
+ 1. Jonathan Ive
+ 2. Steve Wozniak
+ 3. Ronald Wayne
+ 4. Steve Jobs
 
 <details>
   <summary>Answer</summary>
-  Amazon
+  Jonathan Ive
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  6 hours 53 minutes</strong> since this server shutdown
+Its been <strong>12 days  7 hours 23 minutes</strong> since this server shutdown
