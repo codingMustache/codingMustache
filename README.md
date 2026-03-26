@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Do you want a brief explanation of what an acorn is? In a nutshell, it's an oak tree.
+Why do birds fly south for the winter? Because it's too far to walk.
 
 
 ## Daily Trivia
 
-What does LTS stand for in the software market?
- 1. Long Term Support
- 2. Ludicrous Turbo Speed
- 3. Long Taco Service
- 4. Ludicrous Transfer Speed
+Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
+ 1. Four Years
+ 2. Two Years
+ 3. Eight Years
+ 4. Year
 
 <details>
   <summary>Answer</summary>
-  Long Term Support
+  Year
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  13 hours 53 minutes</strong> since this server shutdown
+Its been <strong>12 days  14 hours 23 minutes</strong> since this server shutdown
