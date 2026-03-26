@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a bear with no teeth? A gummy bear!
+I gave my friend 10 puns hoping that one of them would make him laugh. Sadly, no pun in ten did.
 
 
 ## Daily Trivia
 
-Which RAID array type is associated with data mirroring?
- 1. RAID 10
- 2. RAID 1
- 3. RAID 0
- 4. RAID 5
+Which of these is not a key value of Agile software development?
+ 1. Individuals and interactions
+ 2. Responding to change
+ 3. Customer collaboration
+ 4. Comprehensive documentation
 
 <details>
   <summary>Answer</summary>
-  RAID 1
+  Comprehensive documentation
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  7 hours 53 minutes</strong> since this server shutdown
+Its been <strong>12 days  8 hours 23 minutes</strong> since this server shutdown
