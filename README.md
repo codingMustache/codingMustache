@@ -27,8 +27,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I fear for the calendar, its days are numbered.
-
+Two muffins were sitting in an oven, and the first looks over to the second, and says, “man, it’s really hot in here”. The second looks over at the first with a surprised look, and answers, “WHOA, a talking muffin!”
 
 
 ## Daily Trivia
@@ -47,4 +46,4 @@ What was Bitcoin&#039;s block size limit in 2010?
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  12 hours 23 minutes</strong> since this server shutdown
+Its been <strong>12 days  12 hours 53 minutes</strong> since this server shutdown
