@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the doctor say to the gingerbread man who broke his leg? Try icing it.
+I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later.
 
 
 ## Daily Trivia
 
-Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
- 1. Microsoft
- 2. Atari
- 3. Commodore
- 4. Apple
+Which of these names was an actual codename for a cancelled Microsoft project?
+ 1. Neptune
+ 2. Saturn
+ 3. Pollux
+ 4. Enceladus
 
 <details>
   <summary>Answer</summary>
-  Apple
+  Neptune
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  4 hours 23 minutes</strong> since this server shutdown
+Its been <strong>13 days  4 hours 53 minutes</strong> since this server shutdown
