@@ -16,9 +16,9 @@ Hello I'm Jorge and I love making things for the internet
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://image.tmdb.org/t/p/w300_and_h300_face/ng3cMtxYKt1OSQYqFlnKWnVsqNO.jpg" alt="The Walking Dead" width="100%" height="auto"/></td>
+      <td><img src="https://image.tmdb.org/t/p/w300_and_h300_face/s3OIDrCErUjthsnPPreY7XktQXB.jpg" alt="The Walking Dead" width="100%" height="auto"/></td>
       <td><strong>The Walking Dead</strong></td>
-      <td><code>S08E14</code> <em>Still Gotta Mean Something</em></td>
+      <td><code>S08E15</code> <em>Worth</em></td>
       <td>⭐ 8.08 / 10</td>
       <td>Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way.</td>
     </tr>
@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a group of disorganized cats? A cat-tastrophe.
+My cat was just sick on the carpet, I don’t think it’s feline well.
 
 
 ## Daily Trivia
 
-Which data structure does FILO apply to?
- 1. Queue
- 2. Tree
- 3. Stack
- 4. Heap
+What is the name of the process that sends one qubit of information using two bits of classical information?
+ 1. Quantum Programming
+ 2. Quantum Entanglement
+ 3. Super Dense Coding
+ 4. Quantum Teleportation
 
 <details>
   <summary>Answer</summary>
-  Stack
+  Quantum Teleportation
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  9 hours 23 minutes</strong> since this server shutdown
+Its been <strong>12 days  9 hours 53 minutes</strong> since this server shutdown
