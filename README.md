@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where does Fonzie like to go for lunch? Chick-Fil-Eyyyyyyyy.
+What do you call an elephant that doesn’t matter? An irrelephant.
 
 
 ## Daily Trivia
 
-What kind of memory is used on memory cache?
- 1. ROM
- 2. SRAM
- 3. DRAM
- 4. Flash
+America Online (AOL) started out as which of these online service providers?
+ 1. Quantum Link
+ 2. Prodigy
+ 3. CompuServe
+ 4. GEnie
 
 <details>
   <summary>Answer</summary>
-  SRAM
+  Quantum Link
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  2 hours 23 minutes</strong> since this server shutdown
+Its been <strong>13 days  2 hours 53 minutes</strong> since this server shutdown
