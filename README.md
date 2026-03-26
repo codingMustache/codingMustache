@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do fish live in salt water? Because pepper makes them sneeze!
+I cut my finger cutting cheese. I know it may be a cheesy story but I feel grate now.
 
 
 ## Daily Trivia
 
-Which of the following is a personal computer made by the Japanese company Fujitsu?
- 1. Xmillennium 
- 2. FM-7
- 3. MSX
- 4. PC-9801
+Which operating system was released first?
+ 1. OS/2
+ 2. Linux
+ 3. Mac OS
+ 4. Windows
 
 <details>
   <summary>Answer</summary>
-  FM-7
+  Mac OS
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  5 hours 23 minutes</strong> since this server shutdown
+Its been <strong>13 days  5 hours 53 minutes</strong> since this server shutdown
