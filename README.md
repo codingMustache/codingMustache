@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The rotation of earth really makes my day.
+A woman is on trial for beating her husband to death with his guitar collection. Judge says, ‘First offender?’ She says, ‘No, first a Gibson! Then a Fender!’
 
 
 ## Daily Trivia
 
-What does GHz stand for?
- 1. Gigahatz
- 2. Gigahertz
- 3. Gigahetz
- 4. Gigahotz
+The programming language &#039;Swift&#039; was created to replace what other programming language?
+ 1. C#
+ 2. Ruby
+ 3. C++
+ 4. Objective-C
 
 <details>
   <summary>Answer</summary>
-  Gigahertz
+  Objective-C
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days 53 minutes</strong> since this server shutdown
+Its been <strong>13 days  1 hours 23 minutes</strong> since this server shutdown
