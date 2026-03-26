@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How did Darth Vader know what Luke was getting for Christmas? He felt his presents.
+What’s brown and sounds like a bell? Dung!
 
 
 ## Daily Trivia
 
-What is the name of Layer 7 of the OSI model?
- 1. Present
- 2. Network
- 3. Session
- 4. Application
+What was the name of the image that features as the default background wallpaper for Windows XP?
+ 1. Red moon desert
+ 2. Azul
+ 3. Bliss
+ 4. Tulips
 
 <details>
   <summary>Answer</summary>
-  Application
+  Bliss
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  19 hours 23 minutes</strong> since this server shutdown
+Its been <strong>12 days  19 hours 53 minutes</strong> since this server shutdown
