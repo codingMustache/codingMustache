@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear the one about the giant pickle?  He was kind of a big dill.
+what happens when you cross a sheep with a kangaroo ? A woolly jumper!
 
 
 ## Daily Trivia
 
-The Windows OS was delevoped by which company?
- 1. Nokia
- 2. Apple
- 3. IBM
- 4. Microsoft
+What is largely considered the precursor to the USB format?
+ 1. FireWire
+ 2. PS/2
+ 3. SVGA
+ 4. PCIe
 
 <details>
   <summary>Answer</summary>
-  Microsoft
+  PS/2
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>14 days  1 hours 23 minutes</strong> since this server shutdown
+Its been <strong>14 days  1 hours 53 minutes</strong> since this server shutdown
