@@ -27,23 +27,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did Dracula lie in the wrong coffin? He made a grave mistake.
+Why did the cookie cry?
+Because his mother was a wafer so long
 
 
 ## Daily Trivia
 
-Which of the following computer components can be built using only NAND gates?
- 1. CPU
- 2. ALU
- 3. RAM
- 4. Register
+What five letter word is the motto of the IBM Computer company?
+ 1. Think
+ 2. Logic
+ 3. Click
+ 4. Pixel
 
 <details>
   <summary>Answer</summary>
-  ALU
+  Think
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>14 days  4 hours 53 minutes</strong> since this server shutdown
+Its been <strong>14 days  5 hours 23 minutes</strong> since this server shutdown
