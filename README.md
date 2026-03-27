@@ -27,23 +27,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is bread's favorite number?  Leaven.
+What is the best way to carve?
+Whittle by whittle.
 
 
 ## Daily Trivia
 
-In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
- 1. printf(&quot;Hello World&quot;)
- 2. echo &quot;Hello World&quot;
- 3. print(&quot;Hello World&quot;)
- 4. console.log(&quot;Hello World&quot;)
+What does the term GPU stand for?
+ 1. Gaming Processor Unit
+ 2. Graphics Processing Unit
+ 3. Graphite Producing Unit
+ 4. Graphical Proprietary Unit
 
 <details>
   <summary>Answer</summary>
-  print(&quot;Hello World&quot;)
+  Graphics Processing Unit
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  18 hours 53 minutes</strong> since this server shutdown
+Its been <strong>13 days  19 hours 23 minutes</strong> since this server shutdown
