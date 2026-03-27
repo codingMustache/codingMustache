@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It doesn't matter how much you push the envelope. It will still be stationary.
+I really want to buy one of those supermarket checkout dividers, but the cashier keeps putting it back.
 
 
 ## Daily Trivia
 
-The C programming language was created by this American computer scientist. 
- 1. Tim Berners Lee
- 2. Dennis Ritchie
- 3. al-Khwārizmī
- 4. Willis Ware
+In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
+ 1. Yellow
+ 2. Blue
+ 3. Green
+ 4. Red
 
 <details>
   <summary>Answer</summary>
-  Dennis Ritchie
+  Green
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  13 hours 53 minutes</strong> since this server shutdown
+Its been <strong>13 days  14 hours 23 minutes</strong> since this server shutdown
