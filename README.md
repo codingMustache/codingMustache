@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many kids with ADD does it take to change a lightbulb? Let's go ride bikes!
+“Hold on, I have something in my shoe”  “I’m pretty sure it’s a foot”
 
 
 ## Daily Trivia
 
-Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
- 1. C#
- 2. JavaScript
- 3. Python
- 4. PHP
+What port does HTTP run on?
+ 1. 80
+ 2. 53
+ 3. 443
+ 4. 23
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  80
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>14 days  3 hours 23 minutes</strong> since this server shutdown
+Its been <strong>14 days  3 hours 53 minutes</strong> since this server shutdown
