@@ -27,23 +27,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did one nut say as he chased another nut?  I'm a cashew!
+Hostess: Do you have a preference of where you sit?
+Dad: Down.
 
 
 ## Daily Trivia
 
-Which of these people was NOT a founder of Apple Inc?
- 1. Steve Wozniak
- 2. Steve Jobs
- 3. Ronald Wayne
- 4. Jonathan Ive
+How many cores does the Intel i7-6950X have?
+ 1. 10
+ 2. 8
+ 3. 12
+ 4. 4
 
 <details>
   <summary>Answer</summary>
-  Jonathan Ive
+  10
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  22 hours 23 minutes</strong> since this server shutdown
+Its been <strong>13 days  22 hours 53 minutes</strong> since this server shutdown
