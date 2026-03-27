@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I really want to buy one of those supermarket checkout dividers, but the cashier keeps putting it back.
+Who is the coolest Doctor in the hospital? The hip Doctor!
 
 
 ## Daily Trivia
 
-In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
- 1. Yellow
- 2. Blue
- 3. Green
- 4. Red
+What is known as &quot;the brain&quot; of the Computer?
+ 1. Central Processing Unit
+ 2. Keyboard
+ 3. Graphics Processing Unit
+ 4. Motherboard
 
 <details>
   <summary>Answer</summary>
-  Green
+  Central Processing Unit
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  14 hours 23 minutes</strong> since this server shutdown
+Its been <strong>13 days  14 hours 53 minutes</strong> since this server shutdown
