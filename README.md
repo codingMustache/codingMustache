@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Nurse: Doctor, there's a patient that says he's invisible. Doctor: Well, tell him I can't see him right now!
+What kind of music do planets listen to? Nep-tunes.
 
 
 ## Daily Trivia
 
-How many bytes are in a single Kibibyte?
- 1. 2400
- 2. 1000
- 3. 1240
- 4. 1024
+In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
+ 1. console.log(&quot;Hello World&quot;)
+ 2. echo &quot;Hello World&quot;
+ 3. printf(&quot;Hello World&quot;)
+ 4. print(&quot;Hello World&quot;)
 
 <details>
   <summary>Answer</summary>
-  1024
+  print(&quot;Hello World&quot;)
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>14 days  2 hours 23 minutes</strong> since this server shutdown
+Its been <strong>14 days  2 hours 53 minutes</strong> since this server shutdown
