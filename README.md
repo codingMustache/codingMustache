@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What happens to a frog's car when it breaks down? It gets toad.
+I wear a stethoscope so that in a medical emergency I can teach people a valuable lesson about assumptions.
 
 
 ## Daily Trivia
 
-How many bits are commonly in a single byte?
- 1. Six bits
- 2. Twelve bits
- 3.  Fifteen bits
- 4. Eight bits
+The name of technology company HP stands for what?
+ 1. Howard Packmann
+ 2. Hewlett-Packard
+ 3. Hellman-Pohl
+ 4. Husker-Pollosk
 
 <details>
   <summary>Answer</summary>
-  Eight bits
+  Hewlett-Packard
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  6 hours 53 minutes</strong> since this server shutdown
+Its been <strong>13 days  7 hours 23 minutes</strong> since this server shutdown
