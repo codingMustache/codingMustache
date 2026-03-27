@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear the one about the giant pickle?  He was kind of a big dill.
+What is a vampire's favorite fruit? A blood orange.
 
 
 ## Daily Trivia
 
-Laserjet and inkjet printers are both examples of what type of printer?
- 1. Daisywheel printer
- 2. Impact printer
- 3. Dot matrix printer
- 4. Non-impact printer
+CMOS is tech used for constructing integrated circuits. What does CMOS stand for?
+ 1. Computer-made oscillating static
+ 2. Computer-made operating system
+ 3. Complementary magnetic-ohms-semiconductor
+ 4. Complementary metal&ndash;oxide&ndash;semiconductor
 
 <details>
   <summary>Answer</summary>
-  Non-impact printer
+  Complementary metal&ndash;oxide&ndash;semiconductor
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  8 hours 23 minutes</strong> since this server shutdown
+Its been <strong>13 days  8 hours 53 minutes</strong> since this server shutdown
