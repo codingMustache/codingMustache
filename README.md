@@ -27,24 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Hostess: Do you have a preference of where you sit?
-Dad: Down.
+Some people say that comedians who tell one too many light bulb jokes soon burn out, but they don't know watt they are talking about. They're not that bright.
 
 
 ## Daily Trivia
 
-How many cores does the Intel i7-6950X have?
- 1. 10
- 2. 8
- 3. 12
- 4. 4
+The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
+ 1. Fiji
+ 2. Tuvalu
+ 3. Marshall Islands
+ 4. Micronesia
 
 <details>
   <summary>Answer</summary>
-  10
+  Micronesia
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  22 hours 53 minutes</strong> since this server shutdown
+Its been <strong>13 days  23 hours 23 minutes</strong> since this server shutdown
