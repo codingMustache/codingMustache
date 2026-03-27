@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Don't trust atoms. They make up everything.
+"I'll call you later." Don't call me later, call me Dad.
 
 
 ## Daily Trivia
 
-What was the name of the first Bulgarian personal computer?
- 1. Pravetz 82
- 2. Pravetz 8D
- 3. IZOT 1030
- 4. IMKO-1
+The Windows OS was delevoped by which company?
+ 1. Microsoft
+ 2. Apple
+ 3. Nokia
+ 4. IBM
 
 <details>
   <summary>Answer</summary>
-  IMKO-1
+  Microsoft
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  17 hours 53 minutes</strong> since this server shutdown
+Its been <strong>13 days  18 hours 23 minutes</strong> since this server shutdown
