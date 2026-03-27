@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to work for a soft drink can crusher. It was soda pressing.
+Did you hear the one about the giant pickle?  He was kind of a big dill.
 
 
 ## Daily Trivia
 
-What does the term USB stand for?
- 1. Universal Serial Bus
- 2. Unityped Semtex Backer
- 3. Unified Signal Bus
- 4. Universal Simtex Blot
+The Windows OS was delevoped by which company?
+ 1. Nokia
+ 2. Apple
+ 3. IBM
+ 4. Microsoft
 
 <details>
   <summary>Answer</summary>
-  Universal Serial Bus
+  Microsoft
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>14 days 53 minutes</strong> since this server shutdown
+Its been <strong>14 days  1 hours 23 minutes</strong> since this server shutdown
