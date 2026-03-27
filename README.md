@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand...
+What do you call a pile of cats?  A Meowtain.
 
 
 ## Daily Trivia
 
-In computing terms, typically what does CLI stand for?
- 1. Command Line Interface
- 2. Common Language Interface
- 3. Control Line Interface
- 4. Common Language Input
+While Apple was formed in California, in which western state was Microsoft founded?
+ 1. Colorado
+ 2. Washington
+ 3. New Mexico
+ 4. Arizona
 
 <details>
   <summary>Answer</summary>
-  Command Line Interface
+  New Mexico
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  20 hours 23 minutes</strong> since this server shutdown
+Its been <strong>13 days  20 hours 53 minutes</strong> since this server shutdown
