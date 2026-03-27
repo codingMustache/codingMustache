@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I tried taking some high resolution photos of local farmland, but they all turned out a bit grainy.
+Why didn’t the skeleton cross the road? Because he had no guts.
 
 
 ## Daily Trivia
 
-Which of these people was NOT a founder of Apple Inc?
- 1. Jonathan Ive
- 2. Steve Wozniak
- 3. Ronald Wayne
- 4. Steve Jobs
+What is the name of the default theme that is installed with Windows XP?
+ 1. Luna
+ 2. Whistler
+ 3. Bliss
+ 4. Neptune
 
 <details>
   <summary>Answer</summary>
-  Jonathan Ive
+  Luna
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  15 hours 53 minutes</strong> since this server shutdown
+Its been <strong>13 days  16 hours 23 minutes</strong> since this server shutdown
