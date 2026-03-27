@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I wear a stethoscope so that in a medical emergency I can teach people a valuable lesson about assumptions.
+“My Dog has no nose.” “How does he smell?” “Awful”
 
 
 ## Daily Trivia
 
-The name of technology company HP stands for what?
- 1. Howard Packmann
- 2. Hewlett-Packard
- 3. Hellman-Pohl
- 4. Husker-Pollosk
+How many kilobytes in one gigabyte (in decimal)?
+ 1. 1000000
+ 2. 1024
+ 3. 1000
+ 4. 1048576
 
 <details>
   <summary>Answer</summary>
-  Hewlett-Packard
+  1000000
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  7 hours 23 minutes</strong> since this server shutdown
+Its been <strong>13 days  7 hours 53 minutes</strong> since this server shutdown
