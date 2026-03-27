@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of music do planets listen to? Nep-tunes.
+How many kids with ADD does it take to change a lightbulb? Let's go ride bikes!
 
 
 ## Daily Trivia
 
-In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
- 1. console.log(&quot;Hello World&quot;)
- 2. echo &quot;Hello World&quot;
- 3. printf(&quot;Hello World&quot;)
- 4. print(&quot;Hello World&quot;)
+Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
+ 1. C#
+ 2. JavaScript
+ 3. Python
+ 4. PHP
 
 <details>
   <summary>Answer</summary>
-  print(&quot;Hello World&quot;)
+  JavaScript
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>14 days  2 hours 53 minutes</strong> since this server shutdown
+Its been <strong>14 days  3 hours 23 minutes</strong> since this server shutdown
