@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-what happens when you cross a sheep with a kangaroo ? A woolly jumper!
+Nurse: Doctor, there's a patient that says he's invisible. Doctor: Well, tell him I can't see him right now!
 
 
 ## Daily Trivia
 
-What is largely considered the precursor to the USB format?
- 1. FireWire
- 2. PS/2
- 3. SVGA
- 4. PCIe
+How many bytes are in a single Kibibyte?
+ 1. 2400
+ 2. 1000
+ 3. 1240
+ 4. 1024
 
 <details>
   <summary>Answer</summary>
-  PS/2
+  1024
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>14 days  1 hours 53 minutes</strong> since this server shutdown
+Its been <strong>14 days  2 hours 23 minutes</strong> since this server shutdown
