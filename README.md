@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a bear with no teeth? A gummy bear!
+My wife told me to rub the herbs on the meat for better flavor. That's sage advice.
 
 
 ## Daily Trivia
 
-In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
- 1. console.log(&quot;Hello World&quot;)
- 2. echo &quot;Hello World&quot;
- 3. printf(&quot;Hello World&quot;)
- 4. print(&quot;Hello World&quot;)
+Which of these programming languages is a low-level language?
+ 1. Python
+ 2. Assembly
+ 3. C#
+ 4. Pascal
 
 <details>
   <summary>Answer</summary>
-  print(&quot;Hello World&quot;)
+  Assembly
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  12 hours 53 minutes</strong> since this server shutdown
+Its been <strong>13 days  13 hours 23 minutes</strong> since this server shutdown
