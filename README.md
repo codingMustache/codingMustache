@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Who is the coolest Doctor in the hospital? The hip Doctor!
+How come the stadium got hot after the game? Because all of the fans left.
 
 
 ## Daily Trivia
 
-What is known as &quot;the brain&quot; of the Computer?
- 1. Central Processing Unit
- 2. Keyboard
- 3. Graphics Processing Unit
- 4. Motherboard
+What language does Node.js use?
+ 1. Java
+ 2. Java Source
+ 3. Joomla Source Code
+ 4. JavaScript
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  JavaScript
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  14 hours 53 minutes</strong> since this server shutdown
+Its been <strong>13 days  15 hours 23 minutes</strong> since this server shutdown
