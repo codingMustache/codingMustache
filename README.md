@@ -27,25 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Doctor: Do you want to hear the good news or the bad news?
-Patient: Good news please.
-Doctor: we're naming a disease after you.
+Why did Dracula lie in the wrong coffin? He made a grave mistake.
 
 
 ## Daily Trivia
 
-What does the computer software acronym JVM stand for?
- 1. Java Vendor Machine
- 2. Java Visual Machine
- 3. Just Virtual Machine
- 4. Java Virtual Machine
+Which of the following computer components can be built using only NAND gates?
+ 1. CPU
+ 2. ALU
+ 3. RAM
+ 4. Register
 
 <details>
   <summary>Answer</summary>
-  Java Virtual Machine
+  ALU
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>14 days  4 hours 23 minutes</strong> since this server shutdown
+Its been <strong>14 days  4 hours 53 minutes</strong> since this server shutdown
