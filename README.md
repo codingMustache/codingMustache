@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the A go to the bathroom and come out as an E? Because he had a vowel movement.
+What’s brown and sounds like a bell? Dung!
 
 
 ## Daily Trivia
 
-Unix Time is defined as the number of seconds that have elapsed since when?
- 1. Midnight, July 4, 1976
- 2. Midnight, January 1, 1970
- 3. Midnight on the creator of Unix&#039;s birthday
- 4. Midnight, July 4, 1980
+Which programming language was developed by Sun Microsystems in 1995?
+ 1. Java
+ 2. Solaris OS
+ 3. Python
+ 4. C++
 
 <details>
   <summary>Answer</summary>
-  Midnight, January 1, 1970
+  Java
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  21 hours 23 minutes</strong> since this server shutdown
+Its been <strong>13 days  21 hours 53 minutes</strong> since this server shutdown
