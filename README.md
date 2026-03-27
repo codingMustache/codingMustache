@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why didn’t the orange win the race? It ran out of juice.
+So, I heard this pun about cows, but it’s kinda offensive so I won’t say it. I don’t want there to be any beef between us. 
 
 
 ## Daily Trivia
 
-In the server hosting industry IaaS stands for...
- 1. Infrastructure as a Service
- 2. Infrastructure as a Server
- 3. Internet as a Service
- 4. Internet and a Server
+What does RAID stand for?
+ 1. Rapid Access for Indexed Devices
+ 2. Range of Applications with Identical Designs
+ 3. Randomized Abstract Identification Description
+ 4. Redundant Array of Independent Disks
 
 <details>
   <summary>Answer</summary>
-  Infrastructure as a Service
+  Redundant Array of Independent Disks
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  23 hours 53 minutes</strong> since this server shutdown
+Its been <strong>14 days 23 minutes</strong> since this server shutdown
