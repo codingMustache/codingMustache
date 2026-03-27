@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Some people say that comedians who tell one too many light bulb jokes soon burn out, but they don't know watt they are talking about. They're not that bright.
+Why didn’t the orange win the race? It ran out of juice.
 
 
 ## Daily Trivia
 
-The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
- 1. Fiji
- 2. Tuvalu
- 3. Marshall Islands
- 4. Micronesia
+In the server hosting industry IaaS stands for...
+ 1. Infrastructure as a Service
+ 2. Infrastructure as a Server
+ 3. Internet as a Service
+ 4. Internet and a Server
 
 <details>
   <summary>Answer</summary>
-  Micronesia
+  Infrastructure as a Service
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  23 hours 23 minutes</strong> since this server shutdown
+Its been <strong>13 days  23 hours 53 minutes</strong> since this server shutdown
