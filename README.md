@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The urge to sing the Lion King song is just a whim away.
+I've just written a song about a tortilla. Well, it is more of a rap really.
 
 
 ## Daily Trivia
 
-In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
- 1. console.log(&quot;Hello World&quot;)
- 2. echo &quot;Hello World&quot;
- 3. printf(&quot;Hello World&quot;)
- 4. print(&quot;Hello World&quot;)
+What port does HTTP run on?
+ 1. 53
+ 2. 23
+ 3. 80
+ 4. 443
 
 <details>
   <summary>Answer</summary>
-  print(&quot;Hello World&quot;)
+  80
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  9 hours 23 minutes</strong> since this server shutdown
+Its been <strong>13 days  9 hours 53 minutes</strong> since this server shutdown
