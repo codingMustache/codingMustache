@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My wife told me to rub the herbs on the meat for better flavor. That's sage advice.
+It doesn't matter how much you push the envelope. It will still be stationary.
 
 
 ## Daily Trivia
 
-Which of these programming languages is a low-level language?
- 1. Python
- 2. Assembly
- 3. C#
- 4. Pascal
+The C programming language was created by this American computer scientist. 
+ 1. Tim Berners Lee
+ 2. Dennis Ritchie
+ 3. al-Khwārizmī
+ 4. Willis Ware
 
 <details>
   <summary>Answer</summary>
-  Assembly
+  Dennis Ritchie
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  13 hours 23 minutes</strong> since this server shutdown
+Its been <strong>13 days  13 hours 53 minutes</strong> since this server shutdown
