@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I've just written a song about a tortilla. Well, it is more of a rap really.
+Why did the chicken get a penalty? For fowl play.
 
 
 ## Daily Trivia
 
-What port does HTTP run on?
- 1. 53
- 2. 23
- 3. 80
- 4. 443
+Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
+ 1. eBay
+ 2. Amazon
+ 3. Overstock
+ 4. Shopify
 
 <details>
   <summary>Answer</summary>
-  80
+  Amazon
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  9 hours 53 minutes</strong> since this server shutdown
+Its been <strong>13 days  10 hours 23 minutes</strong> since this server shutdown
