@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-"I'll call you later." Don't call me later, call me Dad.
+What is bread's favorite number?  Leaven.
 
 
 ## Daily Trivia
 
-The Windows OS was delevoped by which company?
- 1. Microsoft
- 2. Apple
- 3. Nokia
- 4. IBM
+In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
+ 1. printf(&quot;Hello World&quot;)
+ 2. echo &quot;Hello World&quot;
+ 3. print(&quot;Hello World&quot;)
+ 4. console.log(&quot;Hello World&quot;)
 
 <details>
   <summary>Answer</summary>
-  Microsoft
+  print(&quot;Hello World&quot;)
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  18 hours 23 minutes</strong> since this server shutdown
+Its been <strong>13 days  18 hours 53 minutes</strong> since this server shutdown
