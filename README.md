@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What’s brown and sounds like a bell? Dung!
+What did one nut say as he chased another nut?  I'm a cashew!
 
 
 ## Daily Trivia
 
-Which programming language was developed by Sun Microsystems in 1995?
- 1. Java
- 2. Solaris OS
- 3. Python
- 4. C++
+Which of these people was NOT a founder of Apple Inc?
+ 1. Steve Wozniak
+ 2. Steve Jobs
+ 3. Ronald Wayne
+ 4. Jonathan Ive
 
 <details>
   <summary>Answer</summary>
-  Java
+  Jonathan Ive
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  21 hours 53 minutes</strong> since this server shutdown
+Its been <strong>13 days  22 hours 23 minutes</strong> since this server shutdown
