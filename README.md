@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-“My Dog has no nose.” “How does he smell?” “Awful”
+Did you hear the one about the giant pickle?  He was kind of a big dill.
 
 
 ## Daily Trivia
 
-How many kilobytes in one gigabyte (in decimal)?
- 1. 1000000
- 2. 1024
- 3. 1000
- 4. 1048576
+Laserjet and inkjet printers are both examples of what type of printer?
+ 1. Daisywheel printer
+ 2. Impact printer
+ 3. Dot matrix printer
+ 4. Non-impact printer
 
 <details>
   <summary>Answer</summary>
-  1000000
+  Non-impact printer
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  7 hours 53 minutes</strong> since this server shutdown
+Its been <strong>13 days  8 hours 23 minutes</strong> since this server shutdown
