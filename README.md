@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you make a hankie dance? Put a little boogie in it.
+What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand...
 
 
 ## Daily Trivia
 
-Which operating system was released first?
- 1. Windows
- 2. OS/2
- 3. Mac OS
- 4. Linux
+In computing terms, typically what does CLI stand for?
+ 1. Command Line Interface
+ 2. Common Language Interface
+ 3. Control Line Interface
+ 4. Common Language Input
 
 <details>
   <summary>Answer</summary>
-  Mac OS
+  Command Line Interface
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  19 hours 53 minutes</strong> since this server shutdown
+Its been <strong>13 days  20 hours 23 minutes</strong> since this server shutdown
