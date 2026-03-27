@@ -27,23 +27,25 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's brown and sticky? A stick.
+Where was the Declaration of Independence signed?
+
+At the bottom! 
 
 
 ## Daily Trivia
 
-America Online (AOL) started out as which of these online service providers?
- 1. Quantum Link
- 2. GEnie
- 3. Prodigy
- 4. CompuServe
+What was the first company to use the term &quot;Golden Master&quot;?
+ 1. Microsoft
+ 2. Google
+ 3. IBM
+ 4. Apple
 
 <details>
   <summary>Answer</summary>
-  Quantum Link
+  Apple
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  16 hours 53 minutes</strong> since this server shutdown
+Its been <strong>13 days  17 hours 23 minutes</strong> since this server shutdown
