@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why didn’t the skeleton cross the road? Because he had no guts.
+What's brown and sticky? A stick.
 
 
 ## Daily Trivia
 
-What is the name of the default theme that is installed with Windows XP?
- 1. Luna
- 2. Whistler
- 3. Bliss
- 4. Neptune
+America Online (AOL) started out as which of these online service providers?
+ 1. Quantum Link
+ 2. GEnie
+ 3. Prodigy
+ 4. CompuServe
 
 <details>
   <summary>Answer</summary>
-  Luna
+  Quantum Link
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  16 hours 23 minutes</strong> since this server shutdown
+Its been <strong>13 days  16 hours 53 minutes</strong> since this server shutdown
