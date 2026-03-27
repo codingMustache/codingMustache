@@ -16,35 +16,34 @@ Hello I'm Jorge and I love making things for the internet
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://image.tmdb.org/t/p/w300_and_h300_face/4aSD7ssvpkmNqOxenPiWaLpq4vg.jpg" alt="Garth Marenghi's Darkplace" width="100%" height="auto"/></td>
-      <td><strong>Garth Marenghi's Darkplace</strong></td>
-      <td><code>S01E04</code> <em>The Apes Of Wrath</em></td>
-      <td>⭐ 8 / 10</td>
-      <td>When the Hellmouth opens beneath Darkplace Hospital in downtown Romford, kiddy doctor, Vietnam veteran and ex-warlock Dr. Rick Dagless M.D. is the only man who can close it. Joined by best buddy Dr. Lucien Sanchez, fiery hospital boss Thornton Reed, and woman Liz Asher, Dagless must fight the forces of Darkness while dealing with the burden of day-to-day admin. From the chilling pen of best-selling horror writer Garth Marenghi comes this lost masterpiece of televisual terror. Dare you enter Garth's Darkplace?</td>
+      <td><img src="https://image.tmdb.org/t/p/w300_and_h300_face/jCWOkfMLsT2sGHadCkmR65MWtJu.jpg" alt="Aqua Teen Hunger Force" width="100%" height="auto"/></td>
+      <td><strong>Aqua Teen Hunger Force</strong></td>
+      <td><code>S01E06</code> <em>Space Conflict From Beyond Pluto</em></td>
+      <td>⭐ 7.54 / 10</td>
+      <td>The surreal adventures of three anthropomorphic fast food items: Master Shake, Frylock and Meatwad, and their human nextdoor neighbor, Carl Brutananadilewski.</td>
     </tr>
   </tbody>
 </table>
 
 ## Joke of the Day
 
-Why did the cookie cry?
-Because his mother was a wafer so long
+An apple a day keeps the bullies away. If you throw it hard enough.
 
 
 ## Daily Trivia
 
-What five letter word is the motto of the IBM Computer company?
- 1. Think
- 2. Logic
- 3. Click
- 4. Pixel
+How many bits make up the significand portion of a single precision floating point number?
+ 1. 23
+ 2. 15
+ 3. 53
+ 4. 8
 
 <details>
   <summary>Answer</summary>
-  Think
+  23
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>14 days  5 hours 23 minutes</strong> since this server shutdown
+Its been <strong>14 days  5 hours 53 minutes</strong> since this server shutdown
