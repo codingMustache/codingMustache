@@ -27,25 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did Mozart kill all his chickens?
-Because when he asked them who the best composer was, they'd all say "Bach bach bach!"
-
+Why is it so windy inside an arena? All those fans.
 
 
 ## Daily Trivia
 
-If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
- 1. Python
- 2. C++
- 3. Binary
- 4. JavaScript
+What was the first company to use the term &quot;Golden Master&quot;?
+ 1. Apple
+ 2. Google
+ 3. Microsoft
+ 4. IBM
 
 <details>
   <summary>Answer</summary>
-  Binary
+  Apple
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>14 days  17 hours 23 minutes</strong> since this server shutdown
+Its been <strong>14 days  17 hours 53 minutes</strong> since this server shutdown
