@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Chances are if you' ve seen one shopping center, you've seen a mall.
+Did you hear the one about the giant pickle?  He was kind of a big dill.
 
 
 ## Daily Trivia
 
-Which of these names was an actual codename for a cancelled Microsoft project?
- 1. Enceladus
- 2. Neptune
- 3. Pollux
- 4. Saturn
+Which of the following is NOT a computer science algorithm?
+ 1. Quick Sort
+ 2. Float Sort
+ 3. Merge Sort
+ 4. Bubble Sort
 
 <details>
   <summary>Answer</summary>
-  Neptune
+  Float Sort
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>14 days  15 hours 53 minutes</strong> since this server shutdown
+Its been <strong>14 days  16 hours 23 minutes</strong> since this server shutdown
