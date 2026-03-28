@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A Skeleton walked into a bar he said I need a beer and a mop
+what do you call a dog that can do magic tricks? a labracadabrador
 
 
 ## Daily Trivia
 
-What is known as &quot;the brain&quot; of the Computer?
- 1. Motherboard
- 2. Graphics Processing Unit
- 3. Keyboard
- 4. Central Processing Unit
+How many Hz does the video standard PAL support?
+ 1. 60
+ 2. 50
+ 3. 59
+ 4. 25
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  50
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>14 days  12 hours 23 minutes</strong> since this server shutdown
+Its been <strong>14 days  12 hours 53 minutes</strong> since this server shutdown
