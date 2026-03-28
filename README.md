@@ -27,23 +27,25 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It's difficult to say what my wife does, she sells sea shells by the sea shore.
+Never Trust Someone With Graph Paper...
+
+They're always plotting something.
 
 
 ## Daily Trivia
 
-Which RAID array type is associated with data mirroring?
- 1. RAID 0
- 2. RAID 10
- 3. RAID 5
- 4. RAID 1
+Unix Time is defined as the number of seconds that have elapsed since when?
+ 1. Midnight, July 4, 1976
+ 2. Midnight on the creator of Unix&#039;s birthday
+ 3. Midnight, July 4, 1980
+ 4. Midnight, January 1, 1970
 
 <details>
   <summary>Answer</summary>
-  RAID 1
+  Midnight, January 1, 1970
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>14 days  23 hours 23 minutes</strong> since this server shutdown
+Its been <strong>14 days  23 hours 53 minutes</strong> since this server shutdown
