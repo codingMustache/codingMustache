@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The biggest knight at King Arthur's round table was Sir Cumference. He acquired his size from eating too much pi.
+Chances are if you' ve seen one shopping center, you've seen a mall.
 
 
 ## Daily Trivia
 
-How many cores does the Intel i7-6950X have?
- 1. 4
- 2. 8
- 3. 12
- 4. 10
+Which of these names was an actual codename for a cancelled Microsoft project?
+ 1. Enceladus
+ 2. Neptune
+ 3. Pollux
+ 4. Saturn
 
 <details>
   <summary>Answer</summary>
-  10
+  Neptune
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>14 days  15 hours 23 minutes</strong> since this server shutdown
+Its been <strong>14 days  15 hours 53 minutes</strong> since this server shutdown
