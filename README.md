@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you fix a damaged jack-o-lantern? You use a pumpkin patch.
+The biggest knight at King Arthur's round table was Sir Cumference. He acquired his size from eating too much pi.
 
 
 ## Daily Trivia
 
-In any programming language, what is the most common way to iterate through an array?
- 1. &#039;While&#039; loops
- 2. &#039;If&#039; Statements
- 3. &#039;Do-while&#039; loops
- 4. &#039;For&#039; loops
+How many cores does the Intel i7-6950X have?
+ 1. 4
+ 2. 8
+ 3. 12
+ 4. 10
 
 <details>
   <summary>Answer</summary>
-  &#039;For&#039; loops
+  10
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>14 days  14 hours 53 minutes</strong> since this server shutdown
+Its been <strong>14 days  15 hours 23 minutes</strong> since this server shutdown
