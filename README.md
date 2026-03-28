@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-They say Dodger Stadium can hold up to fifty-six thousand people, but that is just a ballpark figure.
+A woman is on trial for beating her husband to death with his guitar collection. Judge says, ‘First offender?’ She says, ‘No, first a Gibson! Then a Fender!’
 
 
 ## Daily Trivia
 
-According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:
- 1. A&#039;B + B&#039;A
- 2. A&#039;B&#039;
- 3. A&#039; + B&#039;
- 4. AB&#039; + AB
+In any programming language, what is the most common way to iterate through an array?
+ 1. &#039;Do-while&#039; loops
+ 2. &#039;While&#039; loops
+ 3. &#039;For&#039; loops
+ 4. &#039;If&#039; Statements
 
 <details>
   <summary>Answer</summary>
-  A&#039; + B&#039;
+  &#039;For&#039; loops
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>14 days  20 hours 23 minutes</strong> since this server shutdown
+Its been <strong>14 days  20 hours 53 minutes</strong> since this server shutdown
