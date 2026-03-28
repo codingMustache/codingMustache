@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear the one about the giant pickle?  He was kind of a big dill.
+Where did you learn to make ice cream? Sunday school.
 
 
 ## Daily Trivia
 
-Which of the following is NOT a computer science algorithm?
- 1. Quick Sort
- 2. Float Sort
- 3. Merge Sort
- 4. Bubble Sort
+What amount of bits commonly equals one byte?
+ 1. 2
+ 2. 8
+ 3. 64
+ 4. 1
 
 <details>
   <summary>Answer</summary>
-  Float Sort
+  8
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>14 days  16 hours 23 minutes</strong> since this server shutdown
+Its been <strong>14 days  16 hours 53 minutes</strong> since this server shutdown
