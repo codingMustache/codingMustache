@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It doesn't matter how much you push the envelope. It will still be stationary.
+What do you call a boomerang that won't come back? A stick.
 
 
 ## Daily Trivia
 
-The programming language &#039;Swift&#039; was created to replace what other programming language?
- 1. Ruby
- 2. Objective-C
- 3. C#
- 4. C++
+Whistler was the codename of this Microsoft Operating System.
+ 1. Windows XP
+ 2. Windows 2000
+ 3. Windows 7
+ 4. Windows 95
 
 <details>
   <summary>Answer</summary>
-  Objective-C
+  Windows XP
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>14 days  21 hours 23 minutes</strong> since this server shutdown
+Its been <strong>14 days  21 hours 53 minutes</strong> since this server shutdown
