@@ -27,25 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is the difference between ignorance and apathy?
-
-I don't know and I don't care.
+A quick shoutout to all of the sidewalks out there... Thanks for keeping me off the streets.
 
 
 ## Daily Trivia
 
-Laserjet and inkjet printers are both examples of what type of printer?
- 1. Impact printer
- 2. Daisywheel printer
- 3. Non-impact printer
- 4. Dot matrix printer
+The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
+ 1. United States
+ 2. Taiwan
+ 3. Germany
+ 4. China (People&#039;s Republic of)
 
 <details>
   <summary>Answer</summary>
-  Non-impact printer
+  Taiwan
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>14 days  18 hours 53 minutes</strong> since this server shutdown
+Its been <strong>14 days  19 hours 23 minutes</strong> since this server shutdown
