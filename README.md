@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the barber win the race? He took a short cut.
+What do you get when you cross a pig and a pineapple? A porky pine
 
 
 ## Daily Trivia
 
-Approximately how many Apple I personal computers were created?
- 1. 500
- 2. 1000
- 3. 200
- 4. 100
+Which of these programming languages is a low-level language?
+ 1. Python
+ 2. Assembly
+ 3. C#
+ 4. Pascal
 
 <details>
   <summary>Answer</summary>
-  200
+  Assembly
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>14 days  11 hours 23 minutes</strong> since this server shutdown
+Its been <strong>14 days  11 hours 53 minutes</strong> since this server shutdown
