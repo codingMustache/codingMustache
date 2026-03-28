@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-When I left school, I passed every one of my exams with the exception of Greek Mythology. It always was my achilles elbow
+My dog used to chase people on a bike a lot. It got so bad I had to take his bike away.
 
 
 ## Daily Trivia
 
-Which of these is not a layer in the OSI model for data communications?
- 1. Physical Layer
- 2. Application Layer
- 3. Connection Layer
- 4. Transport Layer
+What is the name of Layer 7 of the OSI model?
+ 1. Application
+ 2. Present
+ 3. Network
+ 4. Session
 
 <details>
   <summary>Answer</summary>
-  Connection Layer
+  Application
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>14 days  22 hours 23 minutes</strong> since this server shutdown
+Its been <strong>14 days  22 hours 53 minutes</strong> since this server shutdown
