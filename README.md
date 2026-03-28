@@ -27,23 +27,25 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A man walked in to a bar with some asphalt on his arm. He said “Two beers please, one for me and one for the road.”
+What is the difference between ignorance and apathy?
+
+I don't know and I don't care.
 
 
 ## Daily Trivia
 
-What is the code name for the mobile operating system Android 7.0?
- 1. Marshmallow
- 2. Jelly Bean
- 3. Nougat
- 4. Ice Cream Sandwich
+Laserjet and inkjet printers are both examples of what type of printer?
+ 1. Impact printer
+ 2. Daisywheel printer
+ 3. Non-impact printer
+ 4. Dot matrix printer
 
 <details>
   <summary>Answer</summary>
-  Nougat
+  Non-impact printer
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>14 days  18 hours 23 minutes</strong> since this server shutdown
+Its been <strong>14 days  18 hours 53 minutes</strong> since this server shutdown
