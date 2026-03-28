@@ -27,23 +27,25 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where did you learn to make ice cream? Sunday school.
+Why did Mozart kill all his chickens?
+Because when he asked them who the best composer was, they'd all say "Bach bach bach!"
+
 
 
 ## Daily Trivia
 
-What amount of bits commonly equals one byte?
- 1. 2
- 2. 8
- 3. 64
- 4. 1
+If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
+ 1. Python
+ 2. C++
+ 3. Binary
+ 4. JavaScript
 
 <details>
   <summary>Answer</summary>
-  8
+  Binary
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>14 days  16 hours 53 minutes</strong> since this server shutdown
+Its been <strong>14 days  17 hours 23 minutes</strong> since this server shutdown
