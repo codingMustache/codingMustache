@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do bears have hairy coats? Fur protection.
+If I could name myself after any Egyptian god, I'd be Set.
 
 
 ## Daily Trivia
 
-The Windows OS was delevoped by which company?
- 1. Apple
- 2. Microsoft
- 3. Nokia
- 4. IBM
+Approximately how many Apple I personal computers were created?
+ 1. 1000
+ 2. 500
+ 3. 200
+ 4. 100
 
 <details>
   <summary>Answer</summary>
-  Microsoft
+  200
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>14 days  6 hours 53 minutes</strong> since this server shutdown
+Its been <strong>14 days  7 hours 23 minutes</strong> since this server shutdown
