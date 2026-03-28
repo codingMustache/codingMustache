@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-If I could name myself after any Egyptian god, I'd be Set.
+I went to the zoo the other day, there was only one dog in it. It was a shitzu.
 
 
 ## Daily Trivia
 
-Approximately how many Apple I personal computers were created?
- 1. 1000
- 2. 500
- 3. 200
- 4. 100
+What amount of bits commonly equals one byte?
+ 1. 8
+ 2. 64
+ 3. 2
+ 4. 1
 
 <details>
   <summary>Answer</summary>
-  200
+  8
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>14 days  7 hours 23 minutes</strong> since this server shutdown
+Its been <strong>14 days  7 hours 53 minutes</strong> since this server shutdown
