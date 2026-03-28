@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a boomerang that won't come back? A stick.
+When I left school, I passed every one of my exams with the exception of Greek Mythology. It always was my achilles elbow
 
 
 ## Daily Trivia
 
-Whistler was the codename of this Microsoft Operating System.
- 1. Windows XP
- 2. Windows 2000
- 3. Windows 7
- 4. Windows 95
+Which of these is not a layer in the OSI model for data communications?
+ 1. Physical Layer
+ 2. Application Layer
+ 3. Connection Layer
+ 4. Transport Layer
 
 <details>
   <summary>Answer</summary>
-  Windows XP
+  Connection Layer
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>14 days  21 hours 53 minutes</strong> since this server shutdown
+Its been <strong>14 days  22 hours 23 minutes</strong> since this server shutdown
