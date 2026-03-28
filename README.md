@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call an old snowman? Water.
+Why did the barber win the race? He took a short cut.
 
 
 ## Daily Trivia
 
-How many values can a single byte represent?
- 1. 8
- 2. 1
- 3. 1024
- 4. 256
+Approximately how many Apple I personal computers were created?
+ 1. 500
+ 2. 1000
+ 3. 200
+ 4. 100
 
 <details>
   <summary>Answer</summary>
-  256
+  200
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>14 days  10 hours 53 minutes</strong> since this server shutdown
+Its been <strong>14 days  11 hours 23 minutes</strong> since this server shutdown
