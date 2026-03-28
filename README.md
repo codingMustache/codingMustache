@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I got fired from a florist, apparently I took too many leaves.
+They say Dodger Stadium can hold up to fifty-six thousand people, but that is just a ballpark figure.
 
 
 ## Daily Trivia
 
-The name of technology company HP stands for what?
- 1. Hewlett-Packard
- 2. Hellman-Pohl
- 3. Husker-Pollosk
- 4. Howard Packmann
+According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:
+ 1. A&#039;B + B&#039;A
+ 2. A&#039;B&#039;
+ 3. A&#039; + B&#039;
+ 4. AB&#039; + AB
 
 <details>
   <summary>Answer</summary>
-  Hewlett-Packard
+  A&#039; + B&#039;
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>14 days  19 hours 53 minutes</strong> since this server shutdown
+Its been <strong>14 days  20 hours 23 minutes</strong> since this server shutdown
