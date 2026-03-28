@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why couldn't the lifeguard save the hippie? He was too far out, man.
+What do Alexander the Great and Winnie the Pooh have in common? Same middle name.
 
 
 ## Daily Trivia
 
-On which computer hardware device is the BIOS chip located?
- 1. Hard Disk Drive
- 2. Central Processing Unit
- 3. Graphics Processing Unit
- 4. Motherboard
+What programming language was GitHub written in?
+ 1. JavaScript
+ 2. Lua
+ 3. Python
+ 4. Ruby
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  Ruby
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>14 days  13 hours 23 minutes</strong> since this server shutdown
+Its been <strong>14 days  13 hours 53 minutes</strong> since this server shutdown
