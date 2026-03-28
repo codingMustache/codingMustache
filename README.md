@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It's been months since I bought the book "how to scam people online". It still hasn't turned up.
+How do you fix a damaged jack-o-lantern? You use a pumpkin patch.
 
 
 ## Daily Trivia
 
-How fast is USB 3.1 Gen 2 theoretically?
- 1. 10 Gb/s
- 2. 5 Gb/s
- 3. 8 Gb/s
- 4. 1 Gb/s
+In any programming language, what is the most common way to iterate through an array?
+ 1. &#039;While&#039; loops
+ 2. &#039;If&#039; Statements
+ 3. &#039;Do-while&#039; loops
+ 4. &#039;For&#039; loops
 
 <details>
   <summary>Answer</summary>
-  10 Gb/s
+  &#039;For&#039; loops
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>14 days  14 hours 23 minutes</strong> since this server shutdown
+Its been <strong>14 days  14 hours 53 minutes</strong> since this server shutdown
