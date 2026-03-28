@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-what do you call a dog that can do magic tricks? a labracadabrador
+Why couldn't the lifeguard save the hippie? He was too far out, man.
 
 
 ## Daily Trivia
 
-How many Hz does the video standard PAL support?
- 1. 60
- 2. 50
- 3. 59
- 4. 25
+On which computer hardware device is the BIOS chip located?
+ 1. Hard Disk Drive
+ 2. Central Processing Unit
+ 3. Graphics Processing Unit
+ 4. Motherboard
 
 <details>
   <summary>Answer</summary>
-  50
+  Motherboard
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>14 days  12 hours 53 minutes</strong> since this server shutdown
+Its been <strong>14 days  13 hours 23 minutes</strong> since this server shutdown
