@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My dog used to chase people on a bike a lot. It got so bad I had to take his bike away.
+It's difficult to say what my wife does, she sells sea shells by the sea shore.
 
 
 ## Daily Trivia
 
-What is the name of Layer 7 of the OSI model?
- 1. Application
- 2. Present
- 3. Network
- 4. Session
+Which RAID array type is associated with data mirroring?
+ 1. RAID 0
+ 2. RAID 10
+ 3. RAID 5
+ 4. RAID 1
 
 <details>
   <summary>Answer</summary>
-  Application
+  RAID 1
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>14 days  22 hours 53 minutes</strong> since this server shutdown
+Its been <strong>14 days  23 hours 23 minutes</strong> since this server shutdown
