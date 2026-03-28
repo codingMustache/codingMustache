@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A quick shoutout to all of the sidewalks out there... Thanks for keeping me off the streets.
+I got fired from a florist, apparently I took too many leaves.
 
 
 ## Daily Trivia
 
-The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
- 1. United States
- 2. Taiwan
- 3. Germany
- 4. China (People&#039;s Republic of)
+The name of technology company HP stands for what?
+ 1. Hewlett-Packard
+ 2. Hellman-Pohl
+ 3. Husker-Pollosk
+ 4. Howard Packmann
 
 <details>
   <summary>Answer</summary>
-  Taiwan
+  Hewlett-Packard
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>14 days  19 hours 23 minutes</strong> since this server shutdown
+Its been <strong>14 days  19 hours 53 minutes</strong> since this server shutdown
