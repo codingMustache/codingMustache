@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the girl smear peanut butter on the road? To go with the traffic jam.
+What do you call an old snowman? Water.
 
 
 ## Daily Trivia
 
-The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
- 1. HD Graphics 700 
- 2. HD Graphics 600
- 3. HD Graphics 500
- 4. HD Graphics 7000
+How many values can a single byte represent?
+ 1. 8
+ 2. 1
+ 3. 1024
+ 4. 256
 
 <details>
   <summary>Answer</summary>
-  HD Graphics 500
+  256
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>14 days  10 hours 23 minutes</strong> since this server shutdown
+Its been <strong>14 days  10 hours 53 minutes</strong> since this server shutdown
