@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A woman is on trial for beating her husband to death with his guitar collection. Judge says, ‘First offender?’ She says, ‘No, first a Gibson! Then a Fender!’
+It doesn't matter how much you push the envelope. It will still be stationary.
 
 
 ## Daily Trivia
 
-In any programming language, what is the most common way to iterate through an array?
- 1. &#039;Do-while&#039; loops
- 2. &#039;While&#039; loops
- 3. &#039;For&#039; loops
- 4. &#039;If&#039; Statements
+The programming language &#039;Swift&#039; was created to replace what other programming language?
+ 1. Ruby
+ 2. Objective-C
+ 3. C#
+ 4. C++
 
 <details>
   <summary>Answer</summary>
-  &#039;For&#039; loops
+  Objective-C
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>14 days  20 hours 53 minutes</strong> since this server shutdown
+Its been <strong>14 days  21 hours 23 minutes</strong> since this server shutdown
