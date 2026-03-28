@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do Alexander the Great and Winnie the Pooh have in common? Same middle name.
+It's been months since I bought the book "how to scam people online". It still hasn't turned up.
 
 
 ## Daily Trivia
 
-What programming language was GitHub written in?
- 1. JavaScript
- 2. Lua
- 3. Python
- 4. Ruby
+How fast is USB 3.1 Gen 2 theoretically?
+ 1. 10 Gb/s
+ 2. 5 Gb/s
+ 3. 8 Gb/s
+ 4. 1 Gb/s
 
 <details>
   <summary>Answer</summary>
-  Ruby
+  10 Gb/s
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>14 days  13 hours 53 minutes</strong> since this server shutdown
+Its been <strong>14 days  14 hours 23 minutes</strong> since this server shutdown
