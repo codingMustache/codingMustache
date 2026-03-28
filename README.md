@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you get when you cross a pig and a pineapple? A porky pine
+A Skeleton walked into a bar he said I need a beer and a mop
 
 
 ## Daily Trivia
 
-Which of these programming languages is a low-level language?
- 1. Python
- 2. Assembly
- 3. C#
- 4. Pascal
+What is known as &quot;the brain&quot; of the Computer?
+ 1. Motherboard
+ 2. Graphics Processing Unit
+ 3. Keyboard
+ 4. Central Processing Unit
 
 <details>
   <summary>Answer</summary>
-  Assembly
+  Central Processing Unit
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>14 days  11 hours 53 minutes</strong> since this server shutdown
+Its been <strong>14 days  12 hours 23 minutes</strong> since this server shutdown
