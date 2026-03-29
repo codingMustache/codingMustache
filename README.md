@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-As I get older, I think of all the people I lost along the way. Maybe a career as a tour guide wasn't such a good idea.
+How can you tell a vampire has a cold? They start coffin.
 
 
 ## Daily Trivia
 
-Which kind of algorithm is Ron Rivest not famous for creating?
- 1. Hashing algorithm
- 2. Asymmetric encryption
- 3. Stream cipher
- 4. Secret sharing scheme
+What is the domain name for the country Tuvalu?
+ 1. .tv
+ 2. .tu
+ 3. .tt
+ 4. .tl
 
 <details>
   <summary>Answer</summary>
-  Secret sharing scheme
+  .tv
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>15 days  10 hours 53 minutes</strong> since this server shutdown
+Its been <strong>15 days  11 hours 23 minutes</strong> since this server shutdown
