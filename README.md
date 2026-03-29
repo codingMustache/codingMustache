@@ -27,23 +27,25 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the m&m go to school? Because it wanted to be a Smartie!
+I used to work at a stationery store.  But, I didn't feel like I was going anywhere.
+
+So, I got a job at a travel agency.  Now, I know I'll be going places.
 
 
 ## Daily Trivia
 
-Which of the following computer components can be built using only NAND gates?
- 1. ALU
- 2. Register
- 3. RAM
- 4. CPU
+What is the number of keys on a standard Windows Keyboard?
+ 1. 104
+ 2. 64
+ 3. 94
+ 4. 76
 
 <details>
   <summary>Answer</summary>
-  ALU
+  104
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>15 days  5 hours 53 minutes</strong> since this server shutdown
+Its been <strong>15 days  6 hours 23 minutes</strong> since this server shutdown
