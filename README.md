@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-When does a joke become a dad joke? When it becomes apparent.
+I hate perforated lines, they're tearable.
 
 
 ## Daily Trivia
 
-How many bits are commonly in a single byte?
- 1. Six bits
- 2. Twelve bits
- 3.  Fifteen bits
- 4. Eight bits
+What is known as &quot;the brain&quot; of the Computer?
+ 1. Graphics Processing Unit
+ 2. Keyboard
+ 3. Motherboard
+ 4. Central Processing Unit
 
 <details>
   <summary>Answer</summary>
-  Eight bits
+  Central Processing Unit
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>15 days  8 hours 53 minutes</strong> since this server shutdown
+Its been <strong>15 days  9 hours 23 minutes</strong> since this server shutdown
