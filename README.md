@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Just read a few facts about frogs. They were ribbiting.
+Past, present, and future walked into a bar.... It was tense.
 
 
 ## Daily Trivia
 
-The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
- 1. Taiwan
- 2. United States
- 3. Germany
- 4. China (People&#039;s Republic of)
+On Twitter, what was the original character limit for a Tweet?
+ 1. 140
+ 2. 100
+ 3. 120
+ 4. 160
 
 <details>
   <summary>Answer</summary>
-  Taiwan
+  140
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>15 days  12 hours 23 minutes</strong> since this server shutdown
+Its been <strong>15 days  12 hours 53 minutes</strong> since this server shutdown
