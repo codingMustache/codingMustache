@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I got an A on my origami assignment when I turned my paper into my teacher
+This morning I was wondering where the sun was, but then it dawned on me.
 
 
 ## Daily Trivia
 
-In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
- 1. &lt;slide&gt;&lt;/slide&gt;
- 2. &lt;move&gt;&lt;/move&gt;
- 3. &lt;marquee&gt;&lt;/marquee&gt;
- 4. &lt;scroll&gt;&lt;/scroll&gt;
+Australia, Japan, and Southeast Asia are in which ITU Region?
+ 1. Region 3
+ 2. Region 4
+ 3. Region 2
+ 4. Region 1
 
 <details>
   <summary>Answer</summary>
-  &lt;marquee&gt;&lt;/marquee&gt;
+  Region 3
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>15 days  14 hours 53 minutes</strong> since this server shutdown
+Its been <strong>15 days  15 hours 23 minutes</strong> since this server shutdown
