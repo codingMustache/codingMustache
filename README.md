@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the clown have neck pain? - Because he slept funny
+Where do hamburgers go to dance? The meat-ball.
 
 
 ## Daily Trivia
 
-How many bits make up the significand portion of a single precision floating point number?
- 1. 15
- 2. 53
- 3. 23
- 4. 8
+What was the first commerically available computer processor?
+ 1. AMD AM386
+ 2. TMS 1000
+ 3. Intel 486SX
+ 4. Intel 4004
 
 <details>
   <summary>Answer</summary>
-  23
+  Intel 4004
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>15 days  9 hours 53 minutes</strong> since this server shutdown
+Its been <strong>15 days  10 hours 23 minutes</strong> since this server shutdown
