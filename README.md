@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Who is the coolest Doctor in the hospital? The hip Doctor!
+How did Darth Vader know what Luke was getting for Christmas? He felt his presents.
 
 
 ## Daily Trivia
 
-Unix Time is defined as the number of seconds that have elapsed since when?
- 1. Midnight, July 4, 1976
- 2. Midnight on the creator of Unix&#039;s birthday
- 3. Midnight, January 1, 1970
- 4. Midnight, July 4, 1980
+Which data structure does FILO apply to?
+ 1. Queue
+ 2. Stack
+ 3. Tree
+ 4. Heap
 
 <details>
   <summary>Answer</summary>
-  Midnight, January 1, 1970
+  Stack
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 5 hours 35 minutes</strong> since this server shutdown
+Its been <strong> 6 hours 5 minutes</strong> since this server shutdown
