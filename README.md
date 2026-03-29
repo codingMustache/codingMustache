@@ -19,23 +19,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My wife said I was immature. So I told her to get out of my fort.
+Some people say that I never got over my obsession with Phil Collins.
+But take a look at me now.
 
 
 ## Daily Trivia
 
-What does the Prt Sc button do?
- 1. Closes all windows
- 2. Nothing
- 3. Captures what&#039;s on the screen and copies it to your clipboard
- 4. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
+Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
+ 1. Two Years
+ 2. Four Years
+ 3. Year
+ 4. Eight Years
 
 <details>
   <summary>Answer</summary>
-  Captures what&#039;s on the screen and copies it to your clipboard
+  Year
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>35 minutes</strong> since this server shutdown
+Its been <strong> 1 hours 5 minutes</strong> since this server shutdown
