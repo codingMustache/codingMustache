@@ -19,24 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Some people say that I never got over my obsession with Phil Collins.
-But take a look at me now.
+What did the Zen Buddist say to the hotdog vendor? Make me one with everything.
 
 
 ## Daily Trivia
 
-Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
- 1. Two Years
- 2. Four Years
- 3. Year
- 4. Eight Years
+.at is the top-level domain for what country?
+ 1. Angola
+ 2. Australia
+ 3. Austria
+ 4. Argentina
 
 <details>
   <summary>Answer</summary>
-  Year
+  Austria
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 1 hours 5 minutes</strong> since this server shutdown
+Its been <strong> 1 hours 35 minutes</strong> since this server shutdown
