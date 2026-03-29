@@ -29,23 +29,23 @@ At home, Jerri's father Guy is comatose, although he seems perfectly capable of 
 
 ## Joke of the Day
 
-What did the digital clock say to the grandfather clock? Look, no hands!
+Why did Sweden start painting barcodes on the sides of their battleships? So they could Scandinavian.
 
 
 ## Daily Trivia
 
-What does the International System of Quantities refer 1024 bytes as?
- 1. Kylobyte
- 2. Kilobyte
- 3. Kibibyte
- 4. Kelobyte
+What five letter word is the motto of the IBM Computer company?
+ 1. Logic
+ 2. Think
+ 3. Click
+ 4. Pixel
 
 <details>
   <summary>Answer</summary>
-  Kibibyte
+  Think
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 9 hours 5 minutes</strong> since this server shutdown
+Its been <strong> 9 hours 35 minutes</strong> since this server shutdown
