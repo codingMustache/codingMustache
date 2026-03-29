@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How much does a hipster weigh? An instagram.
+You can't run through a camp site. You can only ran, because it's past tents.
 
 
 ## Daily Trivia
 
-What language does Node.js use?
- 1. JavaScript
- 2. Joomla Source Code
- 3. Java Source
- 4. Java
+Which programming language shares its name with an island in Indonesia?
+ 1. C
+ 2. Jakarta
+ 3. Java
+ 4. Python
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  Java
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>15 days  18 hours 53 minutes</strong> since this server shutdown
+Its been <strong>15 days  19 hours 23 minutes</strong> since this server shutdown
