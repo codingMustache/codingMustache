@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Past, present, and future walked into a bar.... It was tense.
+I made a playlist for hiking. It has music from Peanuts, The Cranberries, and Eminem. I call it my Trail Mix.
 
 
 ## Daily Trivia
 
-On Twitter, what was the original character limit for a Tweet?
- 1. 140
- 2. 100
- 3. 120
- 4. 160
+What does the term MIME stand for, in regards to computing?
+ 1. Mail Interleave Method Exchange
+ 2. Multipurpose Internet Mail Extensions
+ 3. Mail Internet Mail Exchange
+ 4. Multipurpose Interleave Mail Exchange
 
 <details>
   <summary>Answer</summary>
-  140
+  Multipurpose Internet Mail Extensions
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>15 days  12 hours 53 minutes</strong> since this server shutdown
+Its been <strong>15 days  13 hours 23 minutes</strong> since this server shutdown
