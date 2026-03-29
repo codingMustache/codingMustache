@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I made a playlist for hiking. It has music from Peanuts, The Cranberries, and Eminem. I call it my Trail Mix.
+To the guy who invented zero... thanks for nothing.
 
 
 ## Daily Trivia
 
-What does the term MIME stand for, in regards to computing?
- 1. Mail Interleave Method Exchange
- 2. Multipurpose Internet Mail Extensions
- 3. Mail Internet Mail Exchange
- 4. Multipurpose Interleave Mail Exchange
+In programming, what do you call functions with the same name but different implementations?
+ 1. Abstracting
+ 2. Inheriting
+ 3. Overriding
+ 4. Overloading
 
 <details>
   <summary>Answer</summary>
-  Multipurpose Internet Mail Extensions
+  Overloading
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>15 days  13 hours 23 minutes</strong> since this server shutdown
+Its been <strong>15 days  13 hours 53 minutes</strong> since this server shutdown
