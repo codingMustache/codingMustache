@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I can't take my dog to the pond anymore because the ducks keep attacking him. That's what I get for buying a pure bread dog.
+Did you hear that the police have a warrant out on a midget psychic ripping people off? It reads “Small medium at large.”
 
 
 ## Daily Trivia
 
-The Windows OS was delevoped by which company?
+Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
  1. Apple
- 2. Nokia
- 3. IBM
+ 2. Commodore
+ 3. Atari
  4. Microsoft
 
 <details>
   <summary>Answer</summary>
-  Microsoft
+  Apple
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 7 hours 35 minutes</strong> since this server shutdown
+Its been <strong> 8 hours 5 minutes</strong> since this server shutdown
