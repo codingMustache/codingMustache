@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Bad at golf? Join the club.
+What did Yoda say when he saw himself in 4K? "HDMI"
 
 
 ## Daily Trivia
 
-Who invented the &quot;Spanning Tree Protocol&quot;?
- 1. Paul Vixie
- 2. Radia Perlman
- 3. Vint Cerf
- 4. Michael Roberts
+On which computer hardware device is the BIOS chip located?
+ 1. Graphics Processing Unit
+ 2. Motherboard
+ 3. Central Processing Unit
+ 4. Hard Disk Drive
 
 <details>
   <summary>Answer</summary>
-  Radia Perlman
+  Motherboard
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>15 days  16 hours 53 minutes</strong> since this server shutdown
+Its been <strong>15 days  17 hours 23 minutes</strong> since this server shutdown
