@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a pile of cats?  A Meowtain.
+Who is the coolest Doctor in the hospital? The hip Doctor!
 
 
 ## Daily Trivia
 
-In networking, what does OSPF stand for?
- 1. Open Signal Path Finder
- 2. Order Sense Ping Find
- 3. Order State Part First
- 4. Open Shortest Path First
+Unix Time is defined as the number of seconds that have elapsed since when?
+ 1. Midnight, July 4, 1976
+ 2. Midnight on the creator of Unix&#039;s birthday
+ 3. Midnight, January 1, 1970
+ 4. Midnight, July 4, 1980
 
 <details>
   <summary>Answer</summary>
-  Open Shortest Path First
+  Midnight, January 1, 1970
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 5 hours 5 minutes</strong> since this server shutdown
+Its been <strong> 5 hours 35 minutes</strong> since this server shutdown
