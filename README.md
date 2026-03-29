@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why didn't the number 4 get into the nightclub? Because he is 2 square.
+Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor.
 
 
 ## Daily Trivia
 
-What does the International System of Quantities refer 1024 bytes as?
- 1. Kelobyte
- 2. Kilobyte
- 3. Kylobyte
- 4. Kibibyte
+What does the acronym CDN stand for in terms of networking?
+ 1. Compressed Data Network
+ 2. Computational Data Network
+ 3. Content Delivery Network
+ 4. Content Distribution Network
 
 <details>
   <summary>Answer</summary>
-  Kibibyte
+  Content Delivery Network
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>15 days  7 hours 53 minutes</strong> since this server shutdown
+Its been <strong>15 days  8 hours 23 minutes</strong> since this server shutdown
