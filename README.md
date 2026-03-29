@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How did Darth Vader know what Luke was getting for Christmas? He felt his presents.
+My dentist is the best, he even has a little plaque!
 
 
 ## Daily Trivia
 
-Which data structure does FILO apply to?
- 1. Queue
- 2. Stack
- 3. Tree
- 4. Heap
+Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
+ 1. Skipjack
+ 2. Enigma Machine
+ 3. Clipper Chip
+ 4. Nautilus
 
 <details>
   <summary>Answer</summary>
-  Stack
+  Clipper Chip
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 6 hours 5 minutes</strong> since this server shutdown
+Its been <strong> 6 hours 35 minutes</strong> since this server shutdown
