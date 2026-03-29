@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the Zen Buddist say to the hotdog vendor? Make me one with everything.
+What do bees do after they are married? They go on a honeymoon.
 
 
 ## Daily Trivia
 
-.at is the top-level domain for what country?
- 1. Angola
- 2. Australia
- 3. Austria
- 4. Argentina
+Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
+ 1. Nautilus
+ 2. Clipper Chip
+ 3. Skipjack
+ 4. Enigma Machine
 
 <details>
   <summary>Answer</summary>
-  Austria
+  Clipper Chip
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 1 hours 35 minutes</strong> since this server shutdown
+Its been <strong> 2 hours 5 minutes</strong> since this server shutdown
