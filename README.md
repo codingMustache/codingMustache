@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did Yoda say when he saw himself in 4K? "HDMI"
+Why is the ocean always blue? Because the shore never waves back.
 
 
 ## Daily Trivia
 
-On which computer hardware device is the BIOS chip located?
- 1. Graphics Processing Unit
- 2. Motherboard
- 3. Central Processing Unit
- 4. Hard Disk Drive
+In programming, what do you call functions with the same name but different implementations?
+ 1. Abstracting
+ 2. Overriding
+ 3. Overloading
+ 4. Inheriting
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  Overloading
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>15 days  17 hours 23 minutes</strong> since this server shutdown
+Its been <strong>15 days  17 hours 53 minutes</strong> since this server shutdown
