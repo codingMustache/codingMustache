@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-You can't run through a camp site. You can only ran, because it's past tents.
+What did the mountain climber name his son? Cliff.
 
 
 ## Daily Trivia
 
-Which programming language shares its name with an island in Indonesia?
- 1. C
- 2. Jakarta
- 3. Java
- 4. Python
+How fast is USB 3.1 Gen 2 theoretically?
+ 1. 10 Gb/s
+ 2. 1 Gb/s
+ 3. 8 Gb/s
+ 4. 5 Gb/s
 
 <details>
   <summary>Answer</summary>
-  Java
+  10 Gb/s
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>15 days  19 hours 23 minutes</strong> since this server shutdown
+Its been <strong>5 minutes</strong> since this server shutdown
