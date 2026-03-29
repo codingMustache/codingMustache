@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are oranges the smartest fruit? Because they are made to concentrate. 
+Don't buy flowers at a monastery. Because only you can prevent florist friars.
 
 
 ## Daily Trivia
 
-Which of these people was NOT a founder of Apple Inc?
- 1. Steve Wozniak
- 2. Steve Jobs
- 3. Ronald Wayne
- 4. Jonathan Ive
+The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
+ 1. Taiwan
+ 2. China (People&#039;s Republic of)
+ 3. Germany
+ 4. United States
 
 <details>
   <summary>Answer</summary>
-  Jonathan Ive
+  Taiwan
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 3 hours 35 minutes</strong> since this server shutdown
+Its been <strong> 4 hours 5 minutes</strong> since this server shutdown
