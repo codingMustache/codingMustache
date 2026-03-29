@@ -18,7 +18,7 @@ Hello I'm Jorge and I love making things for the internet
     <tr>
       <td><img src="https://image.tmdb.org/t/p/w300_and_h300_face/wYQ9ugFYIj5zoIplo79YHf7v9Ed.jpg" alt="Strangers with Candy" width="100%" height="auto"/></td>
       <td><strong>Strangers with Candy</strong></td>
-      <td><code>S01E01</code> <em>Old Habits/New Beginnings</em></td>
+      <td><code>S01E02</code> <em>A Burden's Burden</em></td>
       <td>⭐ 7.6 / 10</td>
       <td>Jerri Blank is a former prostitute and junkie whore who returns to high school as a 46-year-old freshman at Flatpoint High. Jerri ran away from home and became 'a boozer, a user, and a loser' after dropping out as a teenager, supporting her drug habits through prostitution, stripping, and larceny. She has been to prison several times, the last time because she 'stole the TV'.
 
@@ -29,23 +29,23 @@ At home, Jerri's father Guy is comatose, although he seems perfectly capable of 
 
 ## Joke of the Day
 
-Why did Sweden start painting barcodes on the sides of their battleships? So they could Scandinavian.
+I once lost a banana at court but then I appealed. 
 
 
 ## Daily Trivia
 
-What five letter word is the motto of the IBM Computer company?
- 1. Logic
- 2. Think
- 3. Click
- 4. Pixel
+What language does Node.js use?
+ 1. Java
+ 2. Java Source
+ 3. JavaScript
+ 4. Joomla Source Code
 
 <details>
   <summary>Answer</summary>
-  Think
+  JavaScript
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 9 hours 35 minutes</strong> since this server shutdown
+Its been <strong> 10 hours 5 minutes</strong> since this server shutdown
