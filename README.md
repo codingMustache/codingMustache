@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why is the ocean always blue? Because the shore never waves back.
+What are the strongest days of the week? Saturday and Sunday...the rest are weekdays.
 
 
 ## Daily Trivia
 
-In programming, what do you call functions with the same name but different implementations?
- 1. Abstracting
- 2. Overriding
- 3. Overloading
- 4. Inheriting
+Who is the founder of Palantir?
+ 1. Peter Thiel
+ 2. Marc Benioff
+ 3. Mark Zuckerberg
+ 4. Jack Dorsey
 
 <details>
   <summary>Answer</summary>
-  Overloading
+  Peter Thiel
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>15 days  17 hours 53 minutes</strong> since this server shutdown
+Its been <strong>15 days  18 hours 23 minutes</strong> since this server shutdown
