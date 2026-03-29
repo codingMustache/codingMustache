@@ -19,25 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
- I never wanted to believe that my Dad was stealing from his job as a road worker. But when I got home, all the signs were there.
-
-
+I can't take my dog to the pond anymore because the ducks keep attacking him. That's what I get for buying a pure bread dog.
 
 
 ## Daily Trivia
 
-What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
- 1. Session
- 2. Transport
- 3. Network
- 4. Data link
+The Windows OS was delevoped by which company?
+ 1. Apple
+ 2. Nokia
+ 3. IBM
+ 4. Microsoft
 
 <details>
   <summary>Answer</summary>
-  Transport
+  Microsoft
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 7 hours 5 minutes</strong> since this server shutdown
+Its been <strong> 7 hours 35 minutes</strong> since this server shutdown
