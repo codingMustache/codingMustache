@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do prisoners use to call each other? Cell phones.
+Why are oranges the smartest fruit? Because they are made to concentrate. 
 
 
 ## Daily Trivia
 
-Dutch computer scientist Mark Overmars is known for creating which game development engine?
- 1. Stencyl
- 2. Torque 2D
- 3. Game Maker
- 4. Construct
+Which of these people was NOT a founder of Apple Inc?
+ 1. Steve Wozniak
+ 2. Steve Jobs
+ 3. Ronald Wayne
+ 4. Jonathan Ive
 
 <details>
   <summary>Answer</summary>
-  Game Maker
+  Jonathan Ive
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 3 hours 5 minutes</strong> since this server shutdown
+Its been <strong> 3 hours 35 minutes</strong> since this server shutdown
