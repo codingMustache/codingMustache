@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the new restaurant on the moon? The food is great, but there’s just no atmosphere.
+What do prisoners use to call each other? Cell phones.
 
 
 ## Daily Trivia
 
-HTML is what type of language?
- 1. Macro Language
- 2. Programming Language
- 3. Markup Language
- 4. Scripting Language
+Dutch computer scientist Mark Overmars is known for creating which game development engine?
+ 1. Stencyl
+ 2. Torque 2D
+ 3. Game Maker
+ 4. Construct
 
 <details>
   <summary>Answer</summary>
-  Markup Language
+  Game Maker
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 2 hours 35 minutes</strong> since this server shutdown
+Its been <strong> 3 hours 5 minutes</strong> since this server shutdown
