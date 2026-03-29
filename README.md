@@ -19,27 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A panda walks into a bar and says to the bartender “I’ll have a Scotch and . . . . . . . . . . . . . . Coke thank you”. 
-
-“Sure thing” the bartender replies and asks “but what’s with the big pause?” 
-
-The panda holds up his hands and says “I was born with them”
+I got an A on my origami assignment when I turned my paper into my teacher
 
 
 ## Daily Trivia
 
-While Apple was formed in California, in which western state was Microsoft founded?
- 1. New Mexico
- 2. Arizona
- 3. Colorado
- 4. Washington
+In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
+ 1. &lt;slide&gt;&lt;/slide&gt;
+ 2. &lt;move&gt;&lt;/move&gt;
+ 3. &lt;marquee&gt;&lt;/marquee&gt;
+ 4. &lt;scroll&gt;&lt;/scroll&gt;
 
 <details>
   <summary>Answer</summary>
-  New Mexico
+  &lt;marquee&gt;&lt;/marquee&gt;
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>15 days  14 hours 23 minutes</strong> since this server shutdown
+Its been <strong>15 days  14 hours 53 minutes</strong> since this server shutdown
