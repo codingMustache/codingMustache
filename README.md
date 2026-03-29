@@ -27,25 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to work at a stationery store.  But, I didn't feel like I was going anywhere.
-
-So, I got a job at a travel agency.  Now, I know I'll be going places.
+I'll tell you what often gets over looked... garden fences.
 
 
 ## Daily Trivia
 
-What is the number of keys on a standard Windows Keyboard?
- 1. 104
- 2. 64
- 3. 94
- 4. 76
+What language does Node.js use?
+ 1. Java
+ 2. Java Source
+ 3. Joomla Source Code
+ 4. JavaScript
 
 <details>
   <summary>Answer</summary>
-  104
+  JavaScript
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>15 days  6 hours 23 minutes</strong> since this server shutdown
+Its been <strong>15 days  6 hours 53 minutes</strong> since this server shutdown
