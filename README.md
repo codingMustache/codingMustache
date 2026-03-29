@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do bees do after they are married? They go on a honeymoon.
+Did you hear about the new restaurant on the moon? The food is great, but there’s just no atmosphere.
 
 
 ## Daily Trivia
 
-Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
- 1. Nautilus
- 2. Clipper Chip
- 3. Skipjack
- 4. Enigma Machine
+HTML is what type of language?
+ 1. Macro Language
+ 2. Programming Language
+ 3. Markup Language
+ 4. Scripting Language
 
 <details>
   <summary>Answer</summary>
-  Clipper Chip
+  Markup Language
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 2 hours 5 minutes</strong> since this server shutdown
+Its been <strong> 2 hours 35 minutes</strong> since this server shutdown
