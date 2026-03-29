@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I went to the store to pick up eight cans of sprite... when I got home I realized I'd only picked seven up
+Just read a few facts about frogs. They were ribbiting.
 
 
 ## Daily Trivia
 
-On which day did the World Wide Web go online?
- 1. November 12, 1990
- 2. December 17, 1996
- 3. December 20, 1990
- 4. November 24, 1995
+The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
+ 1. Taiwan
+ 2. United States
+ 3. Germany
+ 4. China (People&#039;s Republic of)
 
 <details>
   <summary>Answer</summary>
-  December 20, 1990
+  Taiwan
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>15 days  11 hours 53 minutes</strong> since this server shutdown
+Its been <strong>15 days  12 hours 23 minutes</strong> since this server shutdown
