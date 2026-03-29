@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Don't buy flowers at a monastery. Because only you can prevent florist friars.
+Why did the kid cross the playground? To get to the other slide.
 
 
 ## Daily Trivia
 
-The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
- 1. Taiwan
- 2. China (People&#039;s Republic of)
- 3. Germany
- 4. United States
+How fast is USB 3.1 Gen 2 theoretically?
+ 1. 1 Gb/s
+ 2. 8 Gb/s
+ 3. 10 Gb/s
+ 4. 5 Gb/s
 
 <details>
   <summary>Answer</summary>
-  Taiwan
+  10 Gb/s
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 4 hours 5 minutes</strong> since this server shutdown
+Its been <strong> 4 hours 35 minutes</strong> since this server shutdown
