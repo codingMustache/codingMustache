@@ -19,23 +19,25 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My dentist is the best, he even has a little plaque!
+ I never wanted to believe that my Dad was stealing from his job as a road worker. But when I got home, all the signs were there.
+
+
 
 
 ## Daily Trivia
 
-Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
- 1. Skipjack
- 2. Enigma Machine
- 3. Clipper Chip
- 4. Nautilus
+What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
+ 1. Session
+ 2. Transport
+ 3. Network
+ 4. Data link
 
 <details>
   <summary>Answer</summary>
-  Clipper Chip
+  Transport
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 6 hours 35 minutes</strong> since this server shutdown
+Its been <strong> 7 hours 5 minutes</strong> since this server shutdown
