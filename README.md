@@ -19,24 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I fear for the calendar, its days are numbered.
-
+What do you call a fish wearing a bowtie? Sofishticated.
 
 
 ## Daily Trivia
 
-What is known as &quot;the brain&quot; of the Computer?
- 1. Keyboard
- 2. Central Processing Unit
- 3. Graphics Processing Unit
- 4. Motherboard
+CMOS is tech used for constructing integrated circuits. What does CMOS stand for?
+ 1. Computer-made operating system
+ 2. Computer-made oscillating static
+ 3. Complementary magnetic-ohms-semiconductor
+ 4. Complementary metal&ndash;oxide&ndash;semiconductor
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  Complementary metal&ndash;oxide&ndash;semiconductor
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>15 days  15 hours 53 minutes</strong> since this server shutdown
+Its been <strong>15 days  16 hours 23 minutes</strong> since this server shutdown
