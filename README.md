@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the sentence fail the driving test? It never came to a full stop.
+Why didn't the number 4 get into the nightclub? Because he is 2 square.
 
 
 ## Daily Trivia
 
-Nvidia&#039;s headquarters are based in which Silicon Valley city?
- 1. Palo Alto
- 2. Santa Clara
- 3. Cupertino
- 4. Mountain View
+What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
+ 1. Heat Sink
+ 2. Heat Vent
+ 3. Temperature Decipator
+ 4. CPU Vent
 
 <details>
   <summary>Answer</summary>
-  Santa Clara
+  Heat Sink
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days 35 minutes</strong> since this server shutdown
+Its been <strong>1 days  1 hours 5 minutes</strong> since this server shutdown
