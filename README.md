@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you get a baby alien to sleep?  You rocket.
+As I get older, I think of all the people I lost along the way. Maybe a career as a tour guide wasn't such a good idea.
 
 
 ## Daily Trivia
 
-What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
- 1. FM Synthesizer
- 2. Programmable Sound Generator (PSG)
- 3. PCM Sampler
- 4. ADPCM Sampler
+.at is the top-level domain for what country?
+ 1. Austria
+ 2. Angola
+ 3. Australia
+ 4. Argentina
 
 <details>
   <summary>Answer</summary>
-  ADPCM Sampler
+  Austria
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  2 hours 35 minutes</strong> since this server shutdown
+Its been <strong>1 days  3 hours 5 minutes</strong> since this server shutdown
