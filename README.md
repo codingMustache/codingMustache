@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I'd like to start a diet, but I've got too much on my plate right now.
+Camping is intense.
 
 
 ## Daily Trivia
 
-Which of the following physical typologies are used with Ethernet Networks?
- 1. Mesh
- 2. Hex
- 3. Star
- 4. Ring
+What is the number of keys on a standard Windows Keyboard?
+ 1. 104
+ 2. 76
+ 3. 94
+ 4. 64
 
 <details>
   <summary>Answer</summary>
-  Star
+  104
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 13 hours 35 minutes</strong> since this server shutdown
+Its been <strong> 14 hours 5 minutes</strong> since this server shutdown
