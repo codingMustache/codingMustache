@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of award did the dentist receive? A little plaque.
+Breaking news! Energizer Bunny arrested – charged with battery.
 
 
 ## Daily Trivia
 
-What is the maximum value of a 32-bit signed binary integer?
- 1. 2,147,483,647
- 2. 255
- 3. 2048
- 4. 9,223,372,036,854,775,807
+What was the first Android version specifically optimized for tablets?
+ 1. Honeycomb
+ 2. Froyo
+ 3. Marshmellow
+ 4. Eclair
 
 <details>
   <summary>Answer</summary>
-  2,147,483,647
+  Honeycomb
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  3 hours 35 minutes</strong> since this server shutdown
+Its been <strong>1 days  4 hours 5 minutes</strong> since this server shutdown
