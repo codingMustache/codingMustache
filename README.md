@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I thought about going on an all-almond diet. But that's just nuts.
+What do you call a dad that has fallen through the ice? A Popsicle.
 
 
 ## Daily Trivia
 
-What does the Prt Sc button do?
- 1. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
- 2. Captures what&#039;s on the screen and copies it to your clipboard
- 3. Nothing
- 4. Closes all windows
+Which of the following computer components can be built using only NAND gates?
+ 1. RAM
+ 2. ALU
+ 3. Register
+ 4. CPU
 
 <details>
   <summary>Answer</summary>
-  Captures what&#039;s on the screen and copies it to your clipboard
+  ALU
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 22 hours 35 minutes</strong> since this server shutdown
+Its been <strong> 23 hours 5 minutes</strong> since this server shutdown
