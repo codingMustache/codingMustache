@@ -18,7 +18,7 @@ Hello I'm Jorge and I love making things for the internet
     <tr>
       <td><img src="https://image.tmdb.org/t/p/w300_and_h300_face/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg" alt="Seinfeld" width="100%" height="auto"/></td>
       <td><strong>Seinfeld</strong></td>
-      <td><code>S03E05</code> <em>The Library</em></td>
+      <td><code>S07E08</code> <em>The Pool Guy</em></td>
       <td>⭐ 8.26 / 10</td>
       <td>A stand-up comedian and his three offbeat friends weather the pitfalls and payoffs of life in New York City in the '90s. It's a show about nothing.</td>
     </tr>
@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do the trees get on the internet? They log on.
+What do you call a cow on a trampoline? A milk shake!
 
 
 ## Daily Trivia
 
-Which of these names was an actual codename for a cancelled Microsoft project?
- 1. Enceladus
- 2. Pollux
- 3. Saturn
- 4. Neptune
+What was the name given to Android 4.3?
+ 1. Nutella
+ 2. Froyo
+ 3. Lollipop
+ 4. Jelly Bean
 
 <details>
   <summary>Answer</summary>
-  Neptune
+  Jelly Bean
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 17 hours 35 minutes</strong> since this server shutdown
+Its been <strong> 18 hours 5 minutes</strong> since this server shutdown
