@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why didn't the number 4 get into the nightclub? Because he is 2 square.
+A man walked in to a bar with some asphalt on his arm. He said “Two beers please, one for me and one for the road.”
 
 
 ## Daily Trivia
 
-What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
- 1. Heat Sink
- 2. Heat Vent
- 3. Temperature Decipator
- 4. CPU Vent
+On which computer hardware device is the BIOS chip located?
+ 1. Motherboard
+ 2. Graphics Processing Unit
+ 3. Central Processing Unit
+ 4. Hard Disk Drive
 
 <details>
   <summary>Answer</summary>
-  Heat Sink
+  Motherboard
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  1 hours 5 minutes</strong> since this server shutdown
+Its been <strong>1 days  1 hours 35 minutes</strong> since this server shutdown
