@@ -29,23 +29,23 @@ At home, Jerri's father Guy is comatose, although he seems perfectly capable of 
 
 ## Joke of the Day
 
-Frankenstein enters a bodybuilding competition and finds he has seriously misunderstood the objective.
+Animal Fact #25: Most bobcats are not named bob.
 
 
 ## Daily Trivia
 
-Approximately how many Apple I personal computers were created?
- 1. 500
- 2. 1000
- 3. 100
- 4. 200
+If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
+ 1. JavaScript
+ 2. C++
+ 3. Python
+ 4. Binary
 
 <details>
   <summary>Answer</summary>
-  200
+  Binary
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 11 hours 5 minutes</strong> since this server shutdown
+Its been <strong> 11 hours 35 minutes</strong> since this server shutdown
