@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Camping is intense.
+People are shocked to discover I have a police record but I love their greatest hits!
 
 
 ## Daily Trivia
 
-What is the number of keys on a standard Windows Keyboard?
- 1. 104
- 2. 76
- 3. 94
- 4. 64
+The Harvard architecture for micro-controllers added which additional bus?
+ 1. Instruction
+ 2. Address
+ 3. Control
+ 4. Data
 
 <details>
   <summary>Answer</summary>
-  104
+  Instruction
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 14 hours 5 minutes</strong> since this server shutdown
+Its been <strong> 14 hours 35 minutes</strong> since this server shutdown
