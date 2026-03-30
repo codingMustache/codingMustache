@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you fix a damaged jack-o-lantern? You use a pumpkin patch.
+What did the Dorito farmer say to the other Dorito farmer? Cool Ranch!
 
 
 ## Daily Trivia
 
-What is the commonly used keyboard shortcut for the &#039;Copy&#039; function on Windows OS?
- 1. Ctrl + X
- 2. Alt + C
- 3. Alt + X
- 4. Ctrl + C
+In computing, what does LAN stand for?
+ 1. Local Area Network
+ 2. Long Antenna Node
+ 3. Light Access Node
+ 4. Land Address Navigation
 
 <details>
   <summary>Answer</summary>
-  Ctrl + C
+  Local Area Network
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  6 hours 5 minutes</strong> since this server shutdown
+Its been <strong>1 days  6 hours 35 minutes</strong> since this server shutdown
