@@ -2,50 +2,40 @@
 
 Hello I'm Jorge and I love making things for the internet
 
-## 📺 Now Watching
+## 🎬 Now Watching
 
 <table>
-  <thead>
-    <tr>
-      <th>🖼️</th>
-      <th>Series</th>
-      <th>Season / Episode</th>
-      <th>Rating</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><img src="https://image.tmdb.org/t/p/w300_and_h300_face/wYQ9ugFYIj5zoIplo79YHf7v9Ed.jpg" alt="Strangers with Candy" width="100%" height="auto"/></td>
-      <td><strong>Strangers with Candy</strong></td>
-      <td><code>S01E06</code> <em>Let Freedom Ring</em></td>
-      <td>⭐ 7.6 / 10</td>
-      <td>Jerri Blank is a former prostitute and junkie whore who returns to high school as a 46-year-old freshman at Flatpoint High. Jerri ran away from home and became 'a boozer, a user, and a loser' after dropping out as a teenager, supporting her drug habits through prostitution, stripping, and larceny. She has been to prison several times, the last time because she 'stole the TV'.
-
-At home, Jerri's father Guy is comatose, although he seems perfectly capable of amazing feats. Her stepmother Sara is vain and bitter, and stepbrother Derrick is a bullying jock. Jerri tries to do things the right way but always ends up learning the wrong lesson. Her hijinks often involve, either directly or indirectly, neurotic history teacher Chuck Noblet and his secret lover, sensitive art teacher Geoffrey Jellineck.</td>
-    </tr>
-  </tbody>
+  <tr>
+    <td valign="top" width="75%">
+      <h3>The Walking Dead S09E01 A New Beginning</h3>
+      <p>undefined</p>
+      <p>⭐ <strong>undefined</strong> / 10</p>
+    </td>
+    <td valign="top" align="right">
+      <img src="undefined" alt="The Walking Dead S09E01 A New Beginning" width="150px"/>
+    </td>
+  </tr>
 </table>
 
 ## Joke of the Day
 
-No matter how kind you are, German children are kinder.
+What kind of magic do cows believe in? MOODOO.
 
 
 ## Daily Trivia
 
-CMOS is tech used for constructing integrated circuits. What does CMOS stand for?
- 1. Complementary magnetic-ohms-semiconductor
- 2. Computer-made operating system
- 3. Computer-made oscillating static
- 4. Complementary metal&ndash;oxide&ndash;semiconductor
+Which data structure does FILO apply to?
+ 1. Queue
+ 2. Heap
+ 3. Tree
+ 4. Stack
 
 <details>
   <summary>Answer</summary>
-  Complementary metal&ndash;oxide&ndash;semiconductor
+  Stack
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 12 hours 5 minutes</strong> since this server shutdown
+Its been <strong> 12 hours 35 minutes</strong> since this server shutdown
