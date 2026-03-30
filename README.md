@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-As I get older, I think of all the people I lost along the way. Maybe a career as a tour guide wasn't such a good idea.
+What kind of award did the dentist receive? A little plaque.
 
 
 ## Daily Trivia
 
-.at is the top-level domain for what country?
- 1. Austria
- 2. Angola
- 3. Australia
- 4. Argentina
+What is the maximum value of a 32-bit signed binary integer?
+ 1. 2,147,483,647
+ 2. 255
+ 3. 2048
+ 4. 9,223,372,036,854,775,807
 
 <details>
   <summary>Answer</summary>
-  Austria
+  2,147,483,647
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  3 hours 5 minutes</strong> since this server shutdown
+Its been <strong>1 days  3 hours 35 minutes</strong> since this server shutdown
