@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-what do you call a dog that can do magic tricks? a labracadabrador
+What happens when you anger a brain surgeon? They will give you a piece of your mind.
 
 
 ## Daily Trivia
 
-What does the Prt Sc button do?
- 1. Nothing
- 2. Closes all windows
- 3. Captures what&#039;s on the screen and copies it to your clipboard
- 4. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
+America Online (AOL) started out as which of these online service providers?
+ 1. Quantum Link
+ 2. GEnie
+ 3. Prodigy
+ 4. CompuServe
 
 <details>
   <summary>Answer</summary>
-  Captures what&#039;s on the screen and copies it to your clipboard
+  Quantum Link
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 23 hours 35 minutes</strong> since this server shutdown
+Its been <strong>1 days 5 minutes</strong> since this server shutdown
