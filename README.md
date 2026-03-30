@@ -18,7 +18,7 @@ Hello I'm Jorge and I love making things for the internet
     <tr>
       <td><img src="https://image.tmdb.org/t/p/w300_and_h300_face/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg" alt="Seinfeld" width="100%" height="auto"/></td>
       <td><strong>Seinfeld</strong></td>
-      <td><code>S04E16</code> <em>The Shoes</em></td>
+      <td><code>S06E02</code> <em>The Big Salad</em></td>
       <td>⭐ 8.26 / 10</td>
       <td>A stand-up comedian and his three offbeat friends weather the pitfalls and payoffs of life in New York City in the '90s. It's a show about nothing.</td>
     </tr>
@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-We all know where the Big Apple is but does anyone know where the Minneapolis?
+Just watched a documentary about beavers… It was the best damn program I’ve ever seen.
 
 
 ## Daily Trivia
 
-What major programming language does Unreal Engine 4 use?
- 1. Assembly
- 2. C#
- 3. C++
- 4. ECMAScript
+What does the &quot;MP&quot; stand for in MP3?
+ 1. Micro Point
+ 2. Music Player
+ 3. Multi Pass
+ 4. Moving Picture
 
 <details>
   <summary>Answer</summary>
-  C++
+  Moving Picture
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 19 hours 5 minutes</strong> since this server shutdown
+Its been <strong> 19 hours 35 minutes</strong> since this server shutdown
