@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How does the moon cut his hair? Eclipse it.
+I had a pair of racing snails. I removed their shells to make them more aerodynamic, but they became sluggish.
 
 
 ## Daily Trivia
 
-On which computer hardware device is the BIOS chip located?
- 1. Motherboard
- 2. Graphics Processing Unit
- 3. Central Processing Unit
- 4. Hard Disk Drive
+How many values can a single byte represent?
+ 1. 8
+ 2. 1
+ 3. 1024
+ 4. 256
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  256
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  7 hours 5 minutes</strong> since this server shutdown
+Its been <strong>1 days  7 hours 35 minutes</strong> since this server shutdown
