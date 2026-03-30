@@ -29,23 +29,23 @@ At home, Jerri's father Guy is comatose, although he seems perfectly capable of 
 
 ## Joke of the Day
 
-I once lost a banana at court but then I appealed. 
+What does a pirate pay for his corn? A buccaneer!
 
 
 ## Daily Trivia
 
-What language does Node.js use?
- 1. Java
- 2. Java Source
- 3. JavaScript
- 4. Joomla Source Code
+The Harvard architecture for micro-controllers added which additional bus?
+ 1. Instruction
+ 2. Data
+ 3. Address
+ 4. Control
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  Instruction
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 10 hours 5 minutes</strong> since this server shutdown
+Its been <strong> 10 hours 35 minutes</strong> since this server shutdown
