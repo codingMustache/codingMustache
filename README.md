@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a dad that has fallen through the ice? A Popsicle.
+what do you call a dog that can do magic tricks? a labracadabrador
 
 
 ## Daily Trivia
 
-Which of the following computer components can be built using only NAND gates?
- 1. RAM
- 2. ALU
- 3. Register
- 4. CPU
+What does the Prt Sc button do?
+ 1. Nothing
+ 2. Closes all windows
+ 3. Captures what&#039;s on the screen and copies it to your clipboard
+ 4. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
 
 <details>
   <summary>Answer</summary>
-  ALU
+  Captures what&#039;s on the screen and copies it to your clipboard
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 23 hours 5 minutes</strong> since this server shutdown
+Its been <strong> 23 hours 35 minutes</strong> since this server shutdown
