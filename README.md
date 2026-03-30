@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Breaking news! Energizer Bunny arrested – charged with battery.
+My boss told me that he was going to fire the person with the worst posture. I have a hunch, it might be me.
 
 
 ## Daily Trivia
 
-What was the first Android version specifically optimized for tablets?
- 1. Honeycomb
- 2. Froyo
- 3. Marshmellow
- 4. Eclair
+How long is an IPv6 address?
+ 1. 128 bits
+ 2. 32 bits
+ 3. 64 bits
+ 4. 128 bytes
 
 <details>
   <summary>Answer</summary>
-  Honeycomb
+  128 bits
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  4 hours 5 minutes</strong> since this server shutdown
+Its been <strong>1 days  4 hours 35 minutes</strong> since this server shutdown
