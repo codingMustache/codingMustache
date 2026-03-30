@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you get hanging from Apple trees? Sore arms.
+Did you know crocodiles could grow up to 15 feet? But most just have 4.
 
 
 ## Daily Trivia
 
-CMOS is tech used for constructing integrated circuits. What does CMOS stand for?
- 1. Complementary metal&ndash;oxide&ndash;semiconductor
- 2. Complementary magnetic-ohms-semiconductor
- 3. Computer-made operating system
- 4. Computer-made oscillating static
+What kind of memory is used on memory cache?
+ 1. DRAM
+ 2. SRAM
+ 3. ROM
+ 4. Flash
 
 <details>
   <summary>Answer</summary>
-  Complementary metal&ndash;oxide&ndash;semiconductor
+  SRAM
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  9 hours 5 minutes</strong> since this server shutdown
+Its been <strong>1 days  9 hours 35 minutes</strong> since this server shutdown
