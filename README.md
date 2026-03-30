@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A man walked in to a bar with some asphalt on his arm. He said “Two beers please, one for me and one for the road.”
+New atoms frequently lose electrons when they fail to keep an ion them.
 
 
 ## Daily Trivia
 
-On which computer hardware device is the BIOS chip located?
- 1. Motherboard
- 2. Graphics Processing Unit
- 3. Central Processing Unit
- 4. Hard Disk Drive
+What is the maximum value of a 32-bit signed binary integer?
+ 1. 2,147,483,647
+ 2. 2048
+ 3. 255
+ 4. 9,223,372,036,854,775,807
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  2,147,483,647
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  1 hours 35 minutes</strong> since this server shutdown
+Its been <strong>1 days  2 hours 5 minutes</strong> since this server shutdown
