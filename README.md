@@ -18,7 +18,7 @@ Hello I'm Jorge and I love making things for the internet
     <tr>
       <td><img src="https://image.tmdb.org/t/p/w300_and_h300_face/wYQ9ugFYIj5zoIplo79YHf7v9Ed.jpg" alt="Strangers with Candy" width="100%" height="auto"/></td>
       <td><strong>Strangers with Candy</strong></td>
-      <td><code>S01E02</code> <em>A Burden's Burden</em></td>
+      <td><code>S01E06</code> <em>Let Freedom Ring</em></td>
       <td>⭐ 7.6 / 10</td>
       <td>Jerri Blank is a former prostitute and junkie whore who returns to high school as a 46-year-old freshman at Flatpoint High. Jerri ran away from home and became 'a boozer, a user, and a loser' after dropping out as a teenager, supporting her drug habits through prostitution, stripping, and larceny. She has been to prison several times, the last time because she 'stole the TV'.
 
@@ -29,23 +29,23 @@ At home, Jerri's father Guy is comatose, although he seems perfectly capable of 
 
 ## Joke of the Day
 
-What does a pirate pay for his corn? A buccaneer!
+Frankenstein enters a bodybuilding competition and finds he has seriously misunderstood the objective.
 
 
 ## Daily Trivia
 
-The Harvard architecture for micro-controllers added which additional bus?
- 1. Instruction
- 2. Data
- 3. Address
- 4. Control
+Approximately how many Apple I personal computers were created?
+ 1. 500
+ 2. 1000
+ 3. 100
+ 4. 200
 
 <details>
   <summary>Answer</summary>
-  Instruction
+  200
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 10 hours 35 minutes</strong> since this server shutdown
+Its been <strong> 11 hours 5 minutes</strong> since this server shutdown
