@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you know crocodiles could grow up to 15 feet? But most just have 4.
+At the boxing match, the dad got into the popcorn line and the line for hot dogs, but he wanted to stay out of the punchline.
 
 
 ## Daily Trivia
 
-What kind of memory is used on memory cache?
- 1. DRAM
- 2. SRAM
- 3. ROM
- 4. Flash
+What is largely considered the precursor to the USB format?
+ 1. PS/2
+ 2. FireWire
+ 3. PCIe
+ 4. SVGA
 
 <details>
   <summary>Answer</summary>
-  SRAM
+  PS/2
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  9 hours 35 minutes</strong> since this server shutdown
+Its been <strong>1 days  10 hours 5 minutes</strong> since this server shutdown
