@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What happens when you anger a brain surgeon? They will give you a piece of your mind.
+Why did the sentence fail the driving test? It never came to a full stop.
 
 
 ## Daily Trivia
 
-America Online (AOL) started out as which of these online service providers?
- 1. Quantum Link
- 2. GEnie
- 3. Prodigy
- 4. CompuServe
+Nvidia&#039;s headquarters are based in which Silicon Valley city?
+ 1. Palo Alto
+ 2. Santa Clara
+ 3. Cupertino
+ 4. Mountain View
 
 <details>
   <summary>Answer</summary>
-  Quantum Link
+  Santa Clara
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days 5 minutes</strong> since this server shutdown
+Its been <strong>1 days 35 minutes</strong> since this server shutdown
