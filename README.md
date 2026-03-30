@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the Dorito farmer say to the other Dorito farmer? Cool Ranch!
+How does the moon cut his hair? Eclipse it.
 
 
 ## Daily Trivia
 
-In computing, what does LAN stand for?
- 1. Local Area Network
- 2. Long Antenna Node
- 3. Light Access Node
- 4. Land Address Navigation
+On which computer hardware device is the BIOS chip located?
+ 1. Motherboard
+ 2. Graphics Processing Unit
+ 3. Central Processing Unit
+ 4. Hard Disk Drive
 
 <details>
   <summary>Answer</summary>
-  Local Area Network
+  Motherboard
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  6 hours 35 minutes</strong> since this server shutdown
+Its been <strong>1 days  7 hours 5 minutes</strong> since this server shutdown
