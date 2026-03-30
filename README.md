@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why doesn't the Chimney-Sweep call out sick from work? Because he's used to working with a flue.
+I'd like to start a diet, but I've got too much on my plate right now.
 
 
 ## Daily Trivia
 
-What port does HTTP run on?
- 1. 53
- 2. 443
- 3. 23
- 4. 80
+Which of the following physical typologies are used with Ethernet Networks?
+ 1. Mesh
+ 2. Hex
+ 3. Star
+ 4. Ring
 
 <details>
   <summary>Answer</summary>
-  80
+  Star
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 13 hours 5 minutes</strong> since this server shutdown
+Its been <strong> 13 hours 35 minutes</strong> since this server shutdown
