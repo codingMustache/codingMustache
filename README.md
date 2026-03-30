@@ -18,7 +18,7 @@ Hello I'm Jorge and I love making things for the internet
     <tr>
       <td><img src="https://image.tmdb.org/t/p/w300_and_h300_face/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg" alt="Seinfeld" width="100%" height="auto"/></td>
       <td><strong>Seinfeld</strong></td>
-      <td><code>S05E02</code> <em>The Puffy Shirt</em></td>
+      <td><code>S03E05</code> <em>The Library</em></td>
       <td>⭐ 8.26 / 10</td>
       <td>A stand-up comedian and his three offbeat friends weather the pitfalls and payoffs of life in New York City in the '90s. It's a show about nothing.</td>
     </tr>
@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-You know what they say about cliffhangers...
+How do the trees get on the internet? They log on.
 
 
 ## Daily Trivia
 
-How fast is USB 3.1 Gen 2 theoretically?
- 1. 8 Gb/s
- 2. 10 Gb/s
- 3. 5 Gb/s
- 4. 1 Gb/s
+Which of these names was an actual codename for a cancelled Microsoft project?
+ 1. Enceladus
+ 2. Pollux
+ 3. Saturn
+ 4. Neptune
 
 <details>
   <summary>Answer</summary>
-  10 Gb/s
+  Neptune
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 17 hours 5 minutes</strong> since this server shutdown
+Its been <strong> 17 hours 35 minutes</strong> since this server shutdown
