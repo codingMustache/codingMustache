@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the two thieves who stole a calendar? They each got six months.
+What's red and bad for your teeth? A Brick.
 
 
 ## Daily Trivia
 
-What is the most preferred image format used for logos in the Wikimedia database?
- 1. .gif
- 2. .png
- 3. .svg
- 4. .jpeg
+In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
+ 1. Final
+ 2. Public
+ 3. Private
+ 4. Static
 
 <details>
   <summary>Answer</summary>
-  .svg
+  Final
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  19 hours 5 minutes</strong> since this server shutdown
+Its been <strong>1 days  19 hours 35 minutes</strong> since this server shutdown
