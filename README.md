@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What don't watermelons get married? Because they cantaloupe.
+It's difficult to say what my wife does, she sells sea shells by the sea shore.
 
 
 ## Daily Trivia
 
-What language does Node.js use?
- 1. Java
- 2. Java Source
- 3. JavaScript
- 4. Joomla Source Code
+What did the name of the Tor Anonymity Network orignially stand for?
+ 1. The Only Router
+ 2. The Onion Router
+ 3. The Ominous Router
+ 4. The Orange Router
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  The Onion Router
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  16 hours 5 minutes</strong> since this server shutdown
+Its been <strong>1 days  16 hours 35 minutes</strong> since this server shutdown
