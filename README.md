@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's red and bad for your teeth? A Brick.
+Yesterday I confused the words "jacuzzi" and "yakuza". Now I'm in hot water with the Japanese mafia.
 
 
 ## Daily Trivia
 
-In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
- 1. Final
- 2. Public
- 3. Private
- 4. Static
+What kind of memory is used on memory cache?
+ 1. Flash
+ 2. SRAM
+ 3. ROM
+ 4. DRAM
 
 <details>
   <summary>Answer</summary>
-  Final
+  SRAM
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  19 hours 35 minutes</strong> since this server shutdown
+Its been <strong>1 days  20 hours 5 minutes</strong> since this server shutdown
