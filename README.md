@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-At the boxing match, the dad got into the popcorn line and the line for hot dogs, but he wanted to stay out of the punchline.
+Did you hear that David lost his ID in prague? Now we just have to call him Dav.
 
 
 ## Daily Trivia
 
-What is largely considered the precursor to the USB format?
- 1. PS/2
- 2. FireWire
- 3. PCIe
- 4. SVGA
+What does RAID stand for?
+ 1. Range of Applications with Identical Designs
+ 2. Redundant Array of Independent Disks
+ 3. Randomized Abstract Identification Description
+ 4. Rapid Access for Indexed Devices
 
 <details>
   <summary>Answer</summary>
-  PS/2
+  Redundant Array of Independent Disks
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  10 hours 5 minutes</strong> since this server shutdown
+Its been <strong>1 days  10 hours 35 minutes</strong> since this server shutdown
