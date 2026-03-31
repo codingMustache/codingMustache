@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you know the first French fries weren't actually cooked in France? They were cooked in Greece.
+I went to a book store and asked the saleswoman where the Self Help section was, she said if she told me it would defeat the purpose.
 
 
 ## Daily Trivia
 
-Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
- 1. 32.0 kHz
- 2. 1.5 MHz
- 3. 44.1 kHz
- 4. 20.5 kHz
+The acronym &quot;RIP&quot; stands for which of these?
+ 1. Runtime Instance Processes
+ 2. Routine Inspection Protocol
+ 3. Regular Interval Processes
+ 4. Routing Information Protocol
 
 <details>
   <summary>Answer</summary>
-  44.1 kHz
+  Routing Information Protocol
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  2 hours 5 minutes</strong> since this server shutdown
+Its been <strong>2 days  2 hours 35 minutes</strong> since this server shutdown
