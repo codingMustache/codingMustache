@@ -27,23 +27,25 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why don't skeletons ride roller coasters? They don't have the stomach for it.
+ I never wanted to believe that my Dad was stealing from his job as a road worker. But when I got home, all the signs were there.
+
+
 
 
 ## Daily Trivia
 
-How many Hz does the video standard PAL support?
- 1. 25
- 2. 60
- 3. 59
- 4. 50
+Who is the founder of Palantir?
+ 1. Marc Benioff
+ 2. Mark Zuckerberg
+ 3. Peter Thiel
+ 4. Jack Dorsey
 
 <details>
   <summary>Answer</summary>
-  50
+  Peter Thiel
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  22 hours 35 minutes</strong> since this server shutdown
+Its been <strong>1 days  23 hours 5 minutes</strong> since this server shutdown
