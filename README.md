@@ -18,7 +18,7 @@ Hello I'm Jorge and I love making things for the internet
     <tr>
       <td><img src="https://image.tmdb.org/t/p/w300_and_h300_face/wYQ9ugFYIj5zoIplo79YHf7v9Ed.jpg" alt="Strangers with Candy" width="100%" height="auto"/></td>
       <td><strong>Strangers with Candy</strong></td>
-      <td><code>S01E07</code> <em>Feather In The Storm</em></td>
+      <td><code>S01E08</code> <em>To Be Young, Gifted And Blank</em></td>
       <td>⭐ 7.46 / 10</td>
       <td>Jerri Blank is a former prostitute and junkie whore who returns to high school as a 46-year-old freshman at Flatpoint High. Jerri ran away from home and became 'a boozer, a user, and a loser' after dropping out as a teenager, supporting her drug habits through prostitution, stripping, and larceny. She has been to prison several times, the last time because she 'stole the TV'.
 
@@ -29,23 +29,23 @@ At home, Jerri's father Guy is comatose, although he seems perfectly capable of 
 
 ## Joke of the Day
 
-It's been months since I bought the book "how to scam people online". It still hasn't turned up.
+Why does it take longer to get from 1st to 2nd base, than it does to get from 2nd to 3rd base? Because there’s a Shortstop in between!
 
 
 ## Daily Trivia
 
-Approximately how many Apple I personal computers were created?
- 1. 1000
- 2. 500
- 3. 200
- 4. 100
+Which of these programming languages is a low-level language?
+ 1. Python
+ 2. C#
+ 3. Pascal
+ 4. Assembly
 
 <details>
   <summary>Answer</summary>
-  200
+  Assembly
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  5 hours 5 minutes</strong> since this server shutdown
+Its been <strong>2 days  5 hours 35 minutes</strong> since this server shutdown
