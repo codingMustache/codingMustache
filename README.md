@@ -29,23 +29,23 @@ At home, Jerri's father Guy is comatose, although he seems perfectly capable of 
 
 ## Joke of the Day
 
-How many South Americans does it take to change a lightbulb? A Brazilian
+Why is Peter Pan always flying? Because he Neverlands.
 
 
 ## Daily Trivia
 
-Generally, which component of a computer draws the most power?
- 1. Video Card
- 2. Power Supply
- 3. Processor
- 4. Hard Drive
+What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
+ 1. PCM Sampler
+ 2. Programmable Sound Generator (PSG)
+ 3. ADPCM Sampler
+ 4. FM Synthesizer
 
 <details>
   <summary>Answer</summary>
-  Video Card
+  ADPCM Sampler
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  7 hours 5 minutes</strong> since this server shutdown
+Its been <strong>2 days  7 hours 35 minutes</strong> since this server shutdown
