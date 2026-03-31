@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I went to a book store and asked the saleswoman where the Self Help section was, she said if she told me it would defeat the purpose.
+Bought a new jacket suit the other day and it burst into flames. Well, it was a blazer
 
 
 ## Daily Trivia
 
-The acronym &quot;RIP&quot; stands for which of these?
- 1. Runtime Instance Processes
- 2. Routine Inspection Protocol
- 3. Regular Interval Processes
- 4. Routing Information Protocol
+When was the programming language &quot;C#&quot; released?
+ 1. 1998
+ 2. 1999
+ 3. 2001
+ 4. 2000
 
 <details>
   <summary>Answer</summary>
-  Routing Information Protocol
+  2000
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  2 hours 35 minutes</strong> since this server shutdown
+Its been <strong>2 days  3 hours 5 minutes</strong> since this server shutdown
