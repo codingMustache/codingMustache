@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the worst thing about ancient history class? The teachers tend to Babylon.
+Did you hear the one about the guy with the broken hearing aid? Neither did he.
 
 
 ## Daily Trivia
 
-How many kilobytes in one gigabyte (in decimal)?
- 1. 1000000
- 2. 1048576
- 3. 1024
- 4. 1000
+What port does HTTP run on?
+ 1. 443
+ 2. 53
+ 3. 80
+ 4. 23
 
 <details>
   <summary>Answer</summary>
-  1000000
+  80
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  20 hours 35 minutes</strong> since this server shutdown
+Its been <strong>1 days  21 hours 5 minutes</strong> since this server shutdown
