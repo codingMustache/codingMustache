@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did one plate say to the other plate? Dinner is on me!
+What do you call a guy lying on your doorstep? Matt.
 
 
 ## Daily Trivia
 
-Which of the following languages is used as a scripting language in the Unity 3D game engine?
- 1. Java
- 2. C#
- 3. C++
- 4. Objective-C
+How many values can a single byte represent?
+ 1. 256
+ 2. 1024
+ 3. 1
+ 4. 8
 
 <details>
   <summary>Answer</summary>
-  C#
+  256
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  23 hours 35 minutes</strong> since this server shutdown
+Its been <strong>2 days 5 minutes</strong> since this server shutdown
