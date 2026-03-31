@@ -29,23 +29,23 @@ At home, Jerri's father Guy is comatose, although he seems perfectly capable of 
 
 ## Joke of the Day
 
-How are false teeth like stars? They come out at night!
+What do you call a cow with two legs? Lean beef.
 
 
 ## Daily Trivia
 
-Which one of these is not an official development name for a Ubuntu release?
- 1. Trusty Tahr
- 2. Utopic Unicorn
- 3. Wily Werewolf
- 4. Mystic Mansion
+What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
+ 1. Skylake
+ 2. Coffee Lake
+ 3. Sandy Bridge
+ 4. Broadwell
 
 <details>
   <summary>Answer</summary>
-  Mystic Mansion
+  Coffee Lake
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  8 hours 35 minutes</strong> since this server shutdown
+Its been <strong>2 days  9 hours 5 minutes</strong> since this server shutdown
