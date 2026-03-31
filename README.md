@@ -29,23 +29,23 @@ At home, Jerri's father Guy is comatose, although he seems perfectly capable of 
 
 ## Joke of the Day
 
-What did the ocean say to the beach? Thanks for all the sediment.
+How many South Americans does it take to change a lightbulb? A Brazilian
 
 
 ## Daily Trivia
 
-Which of the following computer components can be built using only NAND gates?
- 1. ALU
- 2. Register
- 3. RAM
- 4. CPU
+Generally, which component of a computer draws the most power?
+ 1. Video Card
+ 2. Power Supply
+ 3. Processor
+ 4. Hard Drive
 
 <details>
   <summary>Answer</summary>
-  ALU
+  Video Card
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  6 hours 35 minutes</strong> since this server shutdown
+Its been <strong>2 days  7 hours 5 minutes</strong> since this server shutdown
