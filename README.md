@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the Zen Buddist say to the hotdog vendor? Make me one with everything.
+Child: Dad, make me a sandwich. Dad: Poof! You're a sandwich.
 
 
 ## Daily Trivia
 
-What is the number of keys on a standard Windows Keyboard?
- 1. 104
- 2. 76
- 3. 94
- 4. 64
+The name of technology company HP stands for what?
+ 1. Hellman-Pohl
+ 2. Husker-Pollosk
+ 3. Howard Packmann
+ 4. Hewlett-Packard
 
 <details>
   <summary>Answer</summary>
-  104
+  Hewlett-Packard
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  12 hours 5 minutes</strong> since this server shutdown
+Its been <strong>1 days  12 hours 35 minutes</strong> since this server shutdown
