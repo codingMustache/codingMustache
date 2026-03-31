@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you get when you cross a chicken with a skunk? A fowl smell!
+For Valentine's day, I decided to get my wife some beads for an abacus.  It's the little things that count.
 
 
 ## Daily Trivia
 
-.rs is the top-level domain for what country?
- 1. Romania
- 2. Russia
- 3. Serbia
- 4. Rwanda
+What is the name of the default theme that is installed with Windows XP?
+ 1. Neptune
+ 2. Whistler
+ 3. Bliss
+ 4. Luna
 
 <details>
   <summary>Answer</summary>
-  Serbia
+  Luna
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  17 hours 5 minutes</strong> since this server shutdown
+Its been <strong>1 days  17 hours 35 minutes</strong> since this server shutdown
