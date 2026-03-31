@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Bought a new jacket suit the other day and it burst into flames. Well, it was a blazer
+How does a dyslexic poet write? Inverse.
 
 
 ## Daily Trivia
 
-When was the programming language &quot;C#&quot; released?
- 1. 1998
- 2. 1999
- 3. 2001
- 4. 2000
+Which of these is not a layer in the OSI model for data communications?
+ 1. Application Layer
+ 2. Transport Layer
+ 3. Connection Layer
+ 4. Physical Layer
 
 <details>
   <summary>Answer</summary>
-  2000
+  Connection Layer
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  3 hours 5 minutes</strong> since this server shutdown
+Its been <strong>2 days  3 hours 35 minutes</strong> since this server shutdown
