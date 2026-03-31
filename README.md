@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was the strawberry sad? Its parents were in a jam.
+Did you hear about the two thieves who stole a calendar? They each got six months.
 
 
 ## Daily Trivia
 
-How many bits make up the significand portion of a single precision floating point number?
- 1. 8
- 2. 23
- 3. 53
- 4. 15
+What is the most preferred image format used for logos in the Wikimedia database?
+ 1. .gif
+ 2. .png
+ 3. .svg
+ 4. .jpeg
 
 <details>
   <summary>Answer</summary>
-  23
+  .svg
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  18 hours 35 minutes</strong> since this server shutdown
+Its been <strong>1 days  19 hours 5 minutes</strong> since this server shutdown
