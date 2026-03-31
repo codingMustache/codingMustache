@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the worker get fired from the orange juice factory? Lack of concentration.
+Why was the strawberry sad? Its parents were in a jam.
 
 
 ## Daily Trivia
 
-Which programming language shares its name with an island in Indonesia?
- 1. Jakarta
- 2. Java
- 3. Python
- 4. C
+How many bits make up the significand portion of a single precision floating point number?
+ 1. 8
+ 2. 23
+ 3. 53
+ 4. 15
 
 <details>
   <summary>Answer</summary>
-  Java
+  23
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  18 hours 5 minutes</strong> since this server shutdown
+Its been <strong>1 days  18 hours 35 minutes</strong> since this server shutdown
