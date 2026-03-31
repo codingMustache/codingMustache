@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-For Valentine's day, I decided to get my wife some beads for an abacus.  It's the little things that count.
+Why did the worker get fired from the orange juice factory? Lack of concentration.
 
 
 ## Daily Trivia
 
-What is the name of the default theme that is installed with Windows XP?
- 1. Neptune
- 2. Whistler
- 3. Bliss
- 4. Luna
+Which programming language shares its name with an island in Indonesia?
+ 1. Jakarta
+ 2. Java
+ 3. Python
+ 4. C
 
 <details>
   <summary>Answer</summary>
-  Luna
+  Java
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  17 hours 35 minutes</strong> since this server shutdown
+Its been <strong>1 days  18 hours 5 minutes</strong> since this server shutdown
