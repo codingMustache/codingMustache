@@ -16,34 +16,36 @@ Hello I'm Jorge and I love making things for the internet
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://image.tmdb.org/t/p/w300_and_h300_face/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg" alt="Seinfeld" width="100%" height="auto"/></td>
-      <td><strong>Seinfeld</strong></td>
-      <td><code>S07E16</code> <em>The Shower Head</em></td>
-      <td>⭐ 8.26 / 10</td>
-      <td>A stand-up comedian and his three offbeat friends weather the pitfalls and payoffs of life in New York City in the '90s. It's a show about nothing.</td>
+      <td><img src="https://image.tmdb.org/t/p/w300_and_h300_face/wYQ9ugFYIj5zoIplo79YHf7v9Ed.jpg" alt="Strangers with Candy" width="100%" height="auto"/></td>
+      <td><strong>Strangers with Candy</strong></td>
+      <td><code>S01E07</code> <em>Feather In The Storm</em></td>
+      <td>⭐ 7.46 / 10</td>
+      <td>Jerri Blank is a former prostitute and junkie whore who returns to high school as a 46-year-old freshman at Flatpoint High. Jerri ran away from home and became 'a boozer, a user, and a loser' after dropping out as a teenager, supporting her drug habits through prostitution, stripping, and larceny. She has been to prison several times, the last time because she 'stole the TV'.
+
+At home, Jerri's father Guy is comatose, although he seems perfectly capable of amazing feats. Her stepmother Sara is vain and bitter, and stepbrother Derrick is a bullying jock. Jerri tries to do things the right way but always ends up learning the wrong lesson. Her hijinks often involve, either directly or indirectly, neurotic history teacher Chuck Noblet and his secret lover, sensitive art teacher Geoffrey Jellineck.</td>
     </tr>
   </tbody>
 </table>
 
 ## Joke of the Day
 
-Why did Sweden start painting barcodes on the sides of their battleships? So they could Scandinavian.
+It's been months since I bought the book "how to scam people online". It still hasn't turned up.
 
 
 ## Daily Trivia
 
-.rs is the top-level domain for what country?
- 1. Serbia
- 2. Rwanda
- 3. Russia
- 4. Romania
+Approximately how many Apple I personal computers were created?
+ 1. 1000
+ 2. 500
+ 3. 200
+ 4. 100
 
 <details>
   <summary>Answer</summary>
-  Serbia
+  200
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  4 hours 35 minutes</strong> since this server shutdown
+Its been <strong>2 days  5 hours 5 minutes</strong> since this server shutdown
