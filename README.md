@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What has ears but cannot hear? A field of corn.
+I was in an 80's band called the prevention. We were better than the cure.
 
 
 ## Daily Trivia
 
-The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
- 1. Fiji
- 2. Tuvalu
- 3. Micronesia
- 4. Marshall Islands
+What kind of memory is used on memory cache?
+ 1. SRAM
+ 2. Flash
+ 3. ROM
+ 4. DRAM
 
 <details>
   <summary>Answer</summary>
-  Micronesia
+  SRAM
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  21 hours 35 minutes</strong> since this server shutdown
+Its been <strong>1 days  22 hours 5 minutes</strong> since this server shutdown
