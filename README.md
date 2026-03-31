@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Two silk worms had a race. They ended up in a tie.
+You know that cemetery up the road? People are dying to get in there.
 
 
 ## Daily Trivia
 
-Approximately how many Apple I personal computers were created?
- 1. 100
- 2. 500
- 3. 1000
- 4. 200
+According to the International System of Units, how many bytes are in a kilobyte of RAM?
+ 1. 512
+ 2. 1024
+ 3. 500
+ 4. 1000
 
 <details>
   <summary>Answer</summary>
-  200
+  1000
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  13 hours 5 minutes</strong> since this server shutdown
+Its been <strong>1 days  13 hours 35 minutes</strong> since this server shutdown
