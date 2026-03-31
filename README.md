@@ -18,7 +18,7 @@ Hello I'm Jorge and I love making things for the internet
     <tr>
       <td><img src="https://image.tmdb.org/t/p/w300_and_h300_face/wYQ9ugFYIj5zoIplo79YHf7v9Ed.jpg" alt="Strangers with Candy" width="100%" height="auto"/></td>
       <td><strong>Strangers with Candy</strong></td>
-      <td><code>S01E10</code> <em>The Trip Back</em></td>
+      <td><code>S02E01</code> <em>The Virgin Jerri</em></td>
       <td>⭐ 7.46 / 10</td>
       <td>Jerri Blank is a former prostitute and junkie whore who returns to high school as a 46-year-old freshman at Flatpoint High. Jerri ran away from home and became 'a boozer, a user, and a loser' after dropping out as a teenager, supporting her drug habits through prostitution, stripping, and larceny. She has been to prison several times, the last time because she 'stole the TV'.
 
@@ -29,23 +29,23 @@ At home, Jerri's father Guy is comatose, although he seems perfectly capable of 
 
 ## Joke of the Day
 
-What do you call an eagle who can play the piano? Talonted!
+What did the ocean say to the beach? Thanks for all the sediment.
 
 
 ## Daily Trivia
 
-Laserjet and inkjet printers are both examples of what type of printer?
- 1. Dot matrix printer
- 2. Daisywheel printer
- 3. Impact printer
- 4. Non-impact printer
+Which of the following computer components can be built using only NAND gates?
+ 1. ALU
+ 2. Register
+ 3. RAM
+ 4. CPU
 
 <details>
   <summary>Answer</summary>
-  Non-impact printer
+  ALU
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  6 hours 5 minutes</strong> since this server shutdown
+Its been <strong>2 days  6 hours 35 minutes</strong> since this server shutdown
