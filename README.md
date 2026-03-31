@@ -29,23 +29,23 @@ At home, Jerri's father Guy is comatose, although he seems perfectly capable of 
 
 ## Joke of the Day
 
-Why is Peter Pan always flying? Because he Neverlands.
+I saw my husband trip and fall while carrying a laundry basket full of ironed clothes. I watched it all unfold.
 
 
 ## Daily Trivia
 
-What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
- 1. PCM Sampler
- 2. Programmable Sound Generator (PSG)
- 3. ADPCM Sampler
- 4. FM Synthesizer
+When did the online streaming service &quot;Mixer&quot; launch?
+ 1. 2009
+ 2. 2013
+ 3. 2016
+ 4. 2011
 
 <details>
   <summary>Answer</summary>
-  ADPCM Sampler
+  2016
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  7 hours 35 minutes</strong> since this server shutdown
+Its been <strong>2 days  8 hours 5 minutes</strong> since this server shutdown
