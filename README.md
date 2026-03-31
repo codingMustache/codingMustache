@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How does a dyslexic poet write? Inverse.
+How does a scientist freshen their breath? With experi-mints!
 
 
 ## Daily Trivia
 
-Which of these is not a layer in the OSI model for data communications?
- 1. Application Layer
- 2. Transport Layer
- 3. Connection Layer
- 4. Physical Layer
+What does the International System of Quantities refer 1024 bytes as?
+ 1. Kibibyte
+ 2. Kilobyte
+ 3. Kylobyte
+ 4. Kelobyte
 
 <details>
   <summary>Answer</summary>
-  Connection Layer
+  Kibibyte
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  3 hours 35 minutes</strong> since this server shutdown
+Its been <strong>2 days  4 hours 5 minutes</strong> since this server shutdown
