@@ -2,40 +2,48 @@
 
 Hello I'm Jorge and I love making things for the internet
 
-## 🎬 Now Watching
+## 📺 Now Watching
 
 <table>
-  <tr>
-    <td valign="top" width="75%">
-      <h3>The Walking Dead S09E04 The Obliged</h3>
-      <p>undefined</p>
-      <p>⭐ <strong>undefined</strong> / 10</p>
-    </td>
-    <td valign="top" align="right">
-      <img src="undefined" alt="The Walking Dead S09E04 The Obliged" width="150px"/>
-    </td>
-  </tr>
+  <thead>
+    <tr>
+      <th>🖼️</th>
+      <th>Series</th>
+      <th>Season / Episode</th>
+      <th>Rating</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="https://image.tmdb.org/t/p/w300_and_h300_face/s3OIDrCErUjthsnPPreY7XktQXB.jpg" alt="The Walking Dead" width="100%" height="auto"/></td>
+      <td><strong>The Walking Dead</strong></td>
+      <td><code>S08E03</code> <em>Monsters</em></td>
+      <td>⭐ 8.08 / 10</td>
+      <td>Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way.</td>
+    </tr>
+  </tbody>
 </table>
 
 ## Joke of the Day
 
-Child: Dad, make me a sandwich. Dad: Poof! You're a sandwich.
+Two silk worms had a race. They ended up in a tie.
 
 
 ## Daily Trivia
 
-The name of technology company HP stands for what?
- 1. Hellman-Pohl
- 2. Husker-Pollosk
- 3. Howard Packmann
- 4. Hewlett-Packard
+Approximately how many Apple I personal computers were created?
+ 1. 100
+ 2. 500
+ 3. 1000
+ 4. 200
 
 <details>
   <summary>Answer</summary>
-  Hewlett-Packard
+  200
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  12 hours 35 minutes</strong> since this server shutdown
+Its been <strong>1 days  13 hours 5 minutes</strong> since this server shutdown
