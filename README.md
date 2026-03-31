@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do Alexander the Great and Winnie the Pooh have in common? Same middle name.
+How do hens stay fit? They always egg-cercise!
 
 
 ## Daily Trivia
 
-What does the &#039;S&#039; in the RSA encryption algorithm stand for?
- 1. Stable
- 2. Shamir
- 3. Schottky
- 4. Secure
+What does the &quot;MP&quot; stand for in MP3?
+ 1. Moving Picture
+ 2. Micro Point
+ 3. Multi Pass
+ 4. Music Player
 
 <details>
   <summary>Answer</summary>
-  Shamir
+  Moving Picture
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  14 hours 35 minutes</strong> since this server shutdown
+Its been <strong>1 days  15 hours 5 minutes</strong> since this server shutdown
