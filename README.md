@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Never take advice from electrons. They are always negative.
+What is a witch's favorite subject in school? Spelling!
 
 
 ## Daily Trivia
 
-HTML is what type of language?
- 1. Programming Language
- 2. Markup Language
- 3. Macro Language
- 4. Scripting Language
+What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
+ 1. Skylake
+ 2. Sandy Bridge
+ 3. Broadwell
+ 4. Coffee Lake
 
 <details>
   <summary>Answer</summary>
-  Markup Language
+  Coffee Lake
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  9 hours 35 minutes</strong> since this server shutdown
+Its been <strong>2 days  10 hours 5 minutes</strong> since this server shutdown
