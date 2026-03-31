@@ -29,23 +29,23 @@ At home, Jerri's father Guy is comatose, although he seems perfectly capable of 
 
 ## Joke of the Day
 
-I saw my husband trip and fall while carrying a laundry basket full of ironed clothes. I watched it all unfold.
+How are false teeth like stars? They come out at night!
 
 
 ## Daily Trivia
 
-When did the online streaming service &quot;Mixer&quot; launch?
- 1. 2009
- 2. 2013
- 3. 2016
- 4. 2011
+Which one of these is not an official development name for a Ubuntu release?
+ 1. Trusty Tahr
+ 2. Utopic Unicorn
+ 3. Wily Werewolf
+ 4. Mystic Mansion
 
 <details>
   <summary>Answer</summary>
-  2016
+  Mystic Mansion
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  8 hours 5 minutes</strong> since this server shutdown
+Its been <strong>2 days  8 hours 35 minutes</strong> since this server shutdown
