@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why does Han Solo like gum? It's chewy!
+When do doctors get angry? When they run out of patients.
 
 
 ## Daily Trivia
 
-The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
- 1. HD Graphics 500
- 2. HD Graphics 7000
- 3. HD Graphics 600
- 4. HD Graphics 700 
+The Windows OS was delevoped by which company?
+ 1. Microsoft
+ 2. Apple
+ 3. Nokia
+ 4. IBM
 
 <details>
   <summary>Answer</summary>
-  HD Graphics 500
+  Microsoft
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  1 hours 5 minutes</strong> since this server shutdown
+Its been <strong>2 days  1 hours 35 minutes</strong> since this server shutdown
