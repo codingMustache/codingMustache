@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How does a scientist freshen their breath? With experi-mints!
+Why did Sweden start painting barcodes on the sides of their battleships? So they could Scandinavian.
 
 
 ## Daily Trivia
 
-What does the International System of Quantities refer 1024 bytes as?
- 1. Kibibyte
- 2. Kilobyte
- 3. Kylobyte
- 4. Kelobyte
+.rs is the top-level domain for what country?
+ 1. Serbia
+ 2. Rwanda
+ 3. Russia
+ 4. Romania
 
 <details>
   <summary>Answer</summary>
-  Kibibyte
+  Serbia
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  4 hours 5 minutes</strong> since this server shutdown
+Its been <strong>2 days  4 hours 35 minutes</strong> since this server shutdown
