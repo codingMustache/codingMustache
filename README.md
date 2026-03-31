@@ -2,50 +2,40 @@
 
 Hello I'm Jorge and I love making things for the internet
 
-## 📺 Now Watching
+## 🎬 Now Watching
 
 <table>
-  <thead>
-    <tr>
-      <th>🖼️</th>
-      <th>Series</th>
-      <th>Season / Episode</th>
-      <th>Rating</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><img src="https://image.tmdb.org/t/p/w300_and_h300_face/gmcw8XDLWUA6Na6khKJdawhI41v.jpg" alt="Toast Of London" width="100%" height="auto"/></td>
-      <td><strong>Toast Of London</strong></td>
-      <td><code>S03E01</code> <em>Over The Moon</em></td>
-      <td>⭐ 7.43 / 10</td>
-      <td>Steven Toast, an eccentric middle-aged actor with a chequered past, spends more time dealing with his problems off stage than performing on it.</td>
-    </tr>
-  </tbody>
+  <tr>
+    <td valign="top" width="75%">
+      <h3>The Walking Dead S09E02 The Bridge</h3>
+      <p>undefined</p>
+      <p>⭐ <strong>undefined</strong> / 10</p>
+    </td>
+    <td valign="top" align="right">
+      <img src="undefined" alt="The Walking Dead S09E02 The Bridge" width="150px"/>
+    </td>
+  </tr>
 </table>
 
 ## Joke of the Day
 
-What's large, grey, and doesn't matter?
-An irrelephant.
-
+How does Darth Vader like his toast? On the dark side.
 
 
 ## Daily Trivia
 
-In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
- 1. Red
- 2. Blue
- 3. Yellow
- 4. Green
+What does the term GPU stand for?
+ 1. Graphics Processing Unit
+ 2. Graphical Proprietary Unit
+ 3. Graphite Producing Unit
+ 4. Gaming Processor Unit
 
 <details>
   <summary>Answer</summary>
-  Green
+  Graphics Processing Unit
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  11 hours 5 minutes</strong> since this server shutdown
+Its been <strong>1 days  11 hours 35 minutes</strong> since this server shutdown
