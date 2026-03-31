@@ -27,25 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
- I never wanted to believe that my Dad was stealing from his job as a road worker. But when I got home, all the signs were there.
-
-
+What did one plate say to the other plate? Dinner is on me!
 
 
 ## Daily Trivia
 
-Who is the founder of Palantir?
- 1. Marc Benioff
- 2. Mark Zuckerberg
- 3. Peter Thiel
- 4. Jack Dorsey
+Which of the following languages is used as a scripting language in the Unity 3D game engine?
+ 1. Java
+ 2. C#
+ 3. C++
+ 4. Objective-C
 
 <details>
   <summary>Answer</summary>
-  Peter Thiel
+  C#
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  23 hours 5 minutes</strong> since this server shutdown
+Its been <strong>1 days  23 hours 35 minutes</strong> since this server shutdown
