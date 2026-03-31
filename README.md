@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Yesterday I confused the words "jacuzzi" and "yakuza". Now I'm in hot water with the Japanese mafia.
+What's the worst thing about ancient history class? The teachers tend to Babylon.
 
 
 ## Daily Trivia
 
-What kind of memory is used on memory cache?
- 1. Flash
- 2. SRAM
- 3. ROM
- 4. DRAM
+How many kilobytes in one gigabyte (in decimal)?
+ 1. 1000000
+ 2. 1048576
+ 3. 1024
+ 4. 1000
 
 <details>
   <summary>Answer</summary>
-  SRAM
+  1000000
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  20 hours 5 minutes</strong> since this server shutdown
+Its been <strong>1 days  20 hours 35 minutes</strong> since this server shutdown
