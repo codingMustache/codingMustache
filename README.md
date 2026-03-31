@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I was in an 80's band called the prevention. We were better than the cure.
+Why don't skeletons ride roller coasters? They don't have the stomach for it.
 
 
 ## Daily Trivia
 
-What kind of memory is used on memory cache?
- 1. SRAM
- 2. Flash
- 3. ROM
- 4. DRAM
+How many Hz does the video standard PAL support?
+ 1. 25
+ 2. 60
+ 3. 59
+ 4. 50
 
 <details>
   <summary>Answer</summary>
-  SRAM
+  50
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  22 hours 5 minutes</strong> since this server shutdown
+Its been <strong>1 days  22 hours 35 minutes</strong> since this server shutdown
