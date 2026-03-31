@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a guy lying on your doorstep? Matt.
+What do you call two barracuda fish?  A Pairacuda!
 
 
 ## Daily Trivia
 
-How many values can a single byte represent?
- 1. 256
- 2. 1024
- 3. 1
- 4. 8
+How many bits are commonly in a single byte?
+ 1. Eight bits
+ 2. Twelve bits
+ 3.  Fifteen bits
+ 4. Six bits
 
 <details>
   <summary>Answer</summary>
-  256
+  Eight bits
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days 5 minutes</strong> since this server shutdown
+Its been <strong>2 days 35 minutes</strong> since this server shutdown
