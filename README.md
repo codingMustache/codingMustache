@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It's difficult to say what my wife does, she sells sea shells by the sea shore.
+What do you get when you cross a chicken with a skunk? A fowl smell!
 
 
 ## Daily Trivia
 
-What did the name of the Tor Anonymity Network orignially stand for?
- 1. The Only Router
- 2. The Onion Router
- 3. The Ominous Router
- 4. The Orange Router
+.rs is the top-level domain for what country?
+ 1. Romania
+ 2. Russia
+ 3. Serbia
+ 4. Rwanda
 
 <details>
   <summary>Answer</summary>
-  The Onion Router
+  Serbia
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  16 hours 35 minutes</strong> since this server shutdown
+Its been <strong>1 days  17 hours 5 minutes</strong> since this server shutdown
