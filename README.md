@@ -27,23 +27,25 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My new thesaurus is terrible. In fact, it's so bad, I'd say it's terrible.
+What did the hat say to the scarf?
+You can hang around. I'll just go on ahead.
+
 
 
 ## Daily Trivia
 
-In programming, the ternary operator is mostly defined with what symbol(s)?
- 1. ??
- 2. ?
- 3. if then
- 4. ?:
+Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
+ 1. Corrupted Blood
+ 2. Shellshock
+ 3. Heartbleed
+ 4. Shellscript
 
 <details>
   <summary>Answer</summary>
-  ?:
+  Heartbleed
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  6 hours 35 minutes</strong> since this server shutdown
+Its been <strong>3 days  7 hours 5 minutes</strong> since this server shutdown
