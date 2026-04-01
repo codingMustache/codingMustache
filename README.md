@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is a witch's favorite subject in school? Spelling!
+Why did the tomato blush? Because it saw the salad dressing.
 
 
 ## Daily Trivia
 
-What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
- 1. Skylake
- 2. Sandy Bridge
- 3. Broadwell
- 4. Coffee Lake
+In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
+ 1. static
+ 2. center
+ 3. absolute
+ 4. relative
 
 <details>
   <summary>Answer</summary>
-  Coffee Lake
+  center
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  10 hours 5 minutes</strong> since this server shutdown
+Its been <strong>2 days  10 hours 35 minutes</strong> since this server shutdown
