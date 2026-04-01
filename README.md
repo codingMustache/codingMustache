@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I knew i shouldn’t have ate that seafood. Because now i’m feeling a little… Eel
+My new thesaurus is terrible. In fact, it's so bad, I'd say it's terrible.
 
 
 ## Daily Trivia
 
-What does &quot;LCD&quot; stand for?
- 1. Long Continuous Design
- 2. Liquid Crystal Display
- 3. Last Common Difference
- 4. Language Control Design
+In programming, the ternary operator is mostly defined with what symbol(s)?
+ 1. ??
+ 2. ?
+ 3. if then
+ 4. ?:
 
 <details>
   <summary>Answer</summary>
-  Liquid Crystal Display
+  ?:
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  6 hours 5 minutes</strong> since this server shutdown
+Its been <strong>3 days  6 hours 35 minutes</strong> since this server shutdown
