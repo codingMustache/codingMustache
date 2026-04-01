@@ -27,24 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you do when you see a space man?
-Park your car, man.
+Thanks for explaining the word "many" to me. It means a lot.
 
 
 ## Daily Trivia
 
-Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
- 1. Heartbleed
- 2. Shellshock
- 3. Corrupted Blood
- 4. Shellscript
+Nvidia&#039;s headquarters are based in which Silicon Valley city?
+ 1. Santa Clara
+ 2. Cupertino
+ 3. Palo Alto
+ 4. Mountain View
 
 <details>
   <summary>Answer</summary>
-  Heartbleed
+  Santa Clara
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  4 hours 5 minutes</strong> since this server shutdown
+Its been <strong>3 days  4 hours 35 minutes</strong> since this server shutdown
