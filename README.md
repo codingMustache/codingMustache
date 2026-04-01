@@ -27,25 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the hat say to the scarf?
-You can hang around. I'll just go on ahead.
-
+Dad I’m hungry’ … ‘Hi hungry I’m dad
 
 
 ## Daily Trivia
 
-Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
- 1. Corrupted Blood
- 2. Shellshock
- 3. Heartbleed
- 4. Shellscript
+How many bits are commonly in a single byte?
+ 1.  Fifteen bits
+ 2. Eight bits
+ 3. Twelve bits
+ 4. Six bits
 
 <details>
   <summary>Answer</summary>
-  Heartbleed
+  Eight bits
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  7 hours 5 minutes</strong> since this server shutdown
+Its been <strong>3 days  7 hours 35 minutes</strong> since this server shutdown
