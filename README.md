@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did celery say when he broke up with his girlfriend? She wasn't right for me, so I really don't carrot all.
+How are false teeth like stars? They come out at night!
 
 
 ## Daily Trivia
 
-Which one of these is not an official development name for a Ubuntu release?
- 1. Trusty Tahr
- 2. Mystic Mansion
- 3. Utopic Unicorn
- 4. Wily Werewolf
+Which of the following is NOT a computer science algorithm?
+ 1. Quick Sort
+ 2. Merge Sort
+ 3. Bubble Sort
+ 4. Float Sort
 
 <details>
   <summary>Answer</summary>
-  Mystic Mansion
+  Float Sort
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  17 hours 35 minutes</strong> since this server shutdown
+Its been <strong>2 days  18 hours 5 minutes</strong> since this server shutdown
