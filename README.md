@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the Red light say to the Green light? Don't look at me I'm changing!
+Why did the coffee file a police report? It got mugged.
 
 
 ## Daily Trivia
 
-What did the name of the Tor Anonymity Network orignially stand for?
- 1. The Onion Router
- 2. The Ominous Router
- 3. The Orange Router
- 4. The Only Router
+Which operating system was released first?
+ 1. OS/2
+ 2. Linux
+ 3. Mac OS
+ 4. Windows
 
 <details>
   <summary>Answer</summary>
-  The Onion Router
+  Mac OS
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  1 hours 5 minutes</strong> since this server shutdown
+Its been <strong>3 days  1 hours 35 minutes</strong> since this server shutdown
