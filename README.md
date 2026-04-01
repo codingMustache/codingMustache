@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-"Why do seagulls fly over the ocean?" "Because if they flew over the bay, we'd call them bagels."
+What did the doctor say to the gingerbread man who broke his leg? Try icing it.
 
 
 ## Daily Trivia
 
-Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
- 1. Commodore
- 2. Atari
- 3. Apple
- 4. Microsoft
+Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
+ 1. eBay
+ 2. Amazon
+ 3. Overstock
+ 4. Shopify
 
 <details>
   <summary>Answer</summary>
-  Apple
+  Amazon
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  21 hours 35 minutes</strong> since this server shutdown
+Its been <strong>2 days  22 hours 5 minutes</strong> since this server shutdown
