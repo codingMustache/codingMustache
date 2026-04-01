@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Two dyslexics walk into a bra.
+What kind of music do planets listen to? Nep-tunes.
 
 
 ## Daily Trivia
 
-Which computer language would you associate Django framework with?
- 1. Java
- 2. Python
- 3. C++
- 4. C#
+HTML is what type of language?
+ 1. Scripting Language
+ 2. Markup Language
+ 3. Programming Language
+ 4. Macro Language
 
 <details>
   <summary>Answer</summary>
-  Python
+  Markup Language
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  19 hours 5 minutes</strong> since this server shutdown
+Its been <strong>2 days  19 hours 35 minutes</strong> since this server shutdown
