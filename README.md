@@ -27,23 +27,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call two barracuda fish?  A Pairacuda!
+What do you do when you see a space man?
+Park your car, man.
 
 
 ## Daily Trivia
 
-The acronym &quot;RIP&quot; stands for which of these?
- 1. Runtime Instance Processes
- 2. Regular Interval Processes
- 3. Routine Inspection Protocol
- 4. Routing Information Protocol
+Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
+ 1. Heartbleed
+ 2. Shellshock
+ 3. Corrupted Blood
+ 4. Shellscript
 
 <details>
   <summary>Answer</summary>
-  Routing Information Protocol
+  Heartbleed
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  3 hours 35 minutes</strong> since this server shutdown
+Its been <strong>3 days  4 hours 5 minutes</strong> since this server shutdown
