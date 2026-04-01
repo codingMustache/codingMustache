@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did Sweden start painting barcodes on the sides of their battleships? So they could Scandinavian.
+Every night at 11:11, I make a wish that someone will come fix my broken clock.
 
 
 ## Daily Trivia
 
-Which data structure does FILO apply to?
- 1. Stack
- 2. Heap
- 3. Tree
- 4. Queue
+What did the name of the Tor Anonymity Network orignially stand for?
+ 1. The Orange Router
+ 2. The Ominous Router
+ 3. The Only Router
+ 4. The Onion Router
 
 <details>
   <summary>Answer</summary>
-  Stack
+  The Onion Router
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  2 hours 35 minutes</strong> since this server shutdown
+Its been <strong>3 days  3 hours 5 minutes</strong> since this server shutdown
