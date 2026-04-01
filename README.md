@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The urge to sing the Lion King song is just a whim away.
+Which side of the chicken has more feathers? The outside.
 
 
 ## Daily Trivia
 
-The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
- 1. Marshall Islands
- 2. Micronesia
- 3. Tuvalu
- 4. Fiji
+In computing terms, typically what does CLI stand for?
+ 1. Command Line Interface
+ 2. Common Language Input
+ 3. Control Line Interface
+ 4. Common Language Interface
 
 <details>
   <summary>Answer</summary>
-  Micronesia
+  Command Line Interface
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  9 hours 35 minutes</strong> since this server shutdown
+Its been <strong>3 days  10 hours 5 minutes</strong> since this server shutdown
