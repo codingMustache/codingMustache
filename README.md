@@ -19,23 +19,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the tomato blush? Because it saw the salad dressing.
+Why can't a bicycle stand on its own? It's two-tired.
 
 
 ## Daily Trivia
 
-In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
- 1. static
- 2. center
- 3. absolute
- 4. relative
+What is largely considered the precursor to the USB format?
+ 1. SVGA
+ 2. PS/2
+ 3. PCIe
+ 4. FireWire
 
 <details>
   <summary>Answer</summary>
-  center
+  PS/2
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  10 hours 35 minutes</strong> since this server shutdown
+Its been <strong>2 days  11 hours 5 minutes</strong> since this server shutdown
