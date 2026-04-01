@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The Swiss must've been pretty confident in their chances of victory if they included a corkscrew in their army knife.
+I have kleptomania, but when it gets bad, I take something for it.
 
 
 ## Daily Trivia
 
-Which one of these is not an official development name for a Ubuntu release?
- 1. Wily Werewolf
- 2. Utopic Unicorn
- 3. Mystic Mansion
- 4. Trusty Tahr
+When was the programming language &quot;C#&quot; released?
+ 1. 2001
+ 2. 1998
+ 3. 2000
+ 4. 1999
 
 <details>
   <summary>Answer</summary>
-  Mystic Mansion
+  2000
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  12 hours 5 minutes</strong> since this server shutdown
+Its been <strong>2 days  12 hours 35 minutes</strong> since this server shutdown
