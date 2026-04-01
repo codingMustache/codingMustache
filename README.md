@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is the tallest building in the world? The library – it’s got the most stories!
+My dentist is the best, he even has a little plaque!
 
 
 ## Daily Trivia
 
-In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
- 1. console.log(&quot;Hello World&quot;)
- 2. echo &quot;Hello World&quot;
- 3. printf(&quot;Hello World&quot;)
- 4. print(&quot;Hello World&quot;)
+Which computer language would you associate Django framework with?
+ 1. C#
+ 2. Python
+ 3. C++
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  print(&quot;Hello World&quot;)
+  Python
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  20 hours 35 minutes</strong> since this server shutdown
+Its been <strong>2 days  21 hours 5 minutes</strong> since this server shutdown
