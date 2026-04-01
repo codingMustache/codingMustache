@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Two muffins were sitting in an oven, and the first looks over to the second, and says, “man, it’s really hot in here”. The second looks over at the first with a surprised look, and answers, “WHOA, a talking muffin!”
+What is the tallest building in the world? The library – it’s got the most stories!
 
 
 ## Daily Trivia
 
-When did the online streaming service &quot;Mixer&quot; launch?
- 1. 2016
- 2. 2009
- 3. 2013
- 4. 2011
+In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
+ 1. console.log(&quot;Hello World&quot;)
+ 2. echo &quot;Hello World&quot;
+ 3. printf(&quot;Hello World&quot;)
+ 4. print(&quot;Hello World&quot;)
 
 <details>
   <summary>Answer</summary>
-  2016
+  print(&quot;Hello World&quot;)
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  20 hours 5 minutes</strong> since this server shutdown
+Its been <strong>2 days  20 hours 35 minutes</strong> since this server shutdown
