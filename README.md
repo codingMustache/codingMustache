@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I decided to sell my Hoover… well it was just collecting dust.
+Did you hear about the Mexican train killer? He had loco motives
 
 
 ## Daily Trivia
 
-The numbering system with a radix of 16 is more commonly referred to as 
- 1. Hexidecimal
- 2. Binary
- 3. Duodecimal
- 4. Octal
+Which of these is not a key value of Agile software development?
+ 1. Responding to change
+ 2. Customer collaboration
+ 3. Comprehensive documentation
+ 4. Individuals and interactions
 
 <details>
   <summary>Answer</summary>
-  Hexidecimal
+  Comprehensive documentation
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days 5 minutes</strong> since this server shutdown
+Its been <strong>3 days 35 minutes</strong> since this server shutdown
