@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the doctor say to the gingerbread man who broke his leg? Try icing it.
+What kind of pants do ghosts wear? Boo jeans.
 
 
 ## Daily Trivia
 
-Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
- 1. eBay
- 2. Amazon
- 3. Overstock
- 4. Shopify
+Approximately how many Apple I personal computers were created?
+ 1. 200
+ 2. 1000
+ 3. 500
+ 4. 100
 
 <details>
   <summary>Answer</summary>
-  Amazon
+  200
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  22 hours 5 minutes</strong> since this server shutdown
+Its been <strong>2 days  22 hours 35 minutes</strong> since this server shutdown
