@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-what do you call a dog that can do magic tricks? a labracadabrador
+I decided to sell my Hoover… well it was just collecting dust.
 
 
 ## Daily Trivia
 
-What does the &quot;MP&quot; stand for in MP3?
- 1. Moving Picture
- 2. Music Player
- 3. Multi Pass
- 4. Micro Point
+The numbering system with a radix of 16 is more commonly referred to as 
+ 1. Hexidecimal
+ 2. Binary
+ 3. Duodecimal
+ 4. Octal
 
 <details>
   <summary>Answer</summary>
-  Moving Picture
+  Hexidecimal
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  23 hours 35 minutes</strong> since this server shutdown
+Its been <strong>3 days 5 minutes</strong> since this server shutdown
