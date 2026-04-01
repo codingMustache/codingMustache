@@ -27,23 +27,25 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the coffee file a police report? It got mugged.
+Never Trust Someone With Graph Paper...
+
+They're always plotting something.
 
 
 ## Daily Trivia
 
-Which operating system was released first?
- 1. OS/2
- 2. Linux
- 3. Mac OS
- 4. Windows
+What does the term USB stand for?
+ 1. Universal Simtex Blot
+ 2. Unityped Semtex Backer
+ 3. Universal Serial Bus
+ 4. Unified Signal Bus
 
 <details>
   <summary>Answer</summary>
-  Mac OS
+  Universal Serial Bus
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  1 hours 35 minutes</strong> since this server shutdown
+Its been <strong>3 days  2 hours 5 minutes</strong> since this server shutdown
