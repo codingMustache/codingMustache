@@ -27,24 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a monkey in a mine field? A babooooom!
-
+I knew i shouldn’t have ate that seafood. Because now i’m feeling a little… Eel
 
 
 ## Daily Trivia
 
-What was the first company to use the term &quot;Golden Master&quot;?
- 1. IBM
- 2. Microsoft
- 3. Apple
- 4. Google
+What does &quot;LCD&quot; stand for?
+ 1. Long Continuous Design
+ 2. Liquid Crystal Display
+ 3. Last Common Difference
+ 4. Language Control Design
 
 <details>
   <summary>Answer</summary>
-  Apple
+  Liquid Crystal Display
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  5 hours 35 minutes</strong> since this server shutdown
+Its been <strong>3 days  6 hours 5 minutes</strong> since this server shutdown
