@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to be addicted to the hokey pokey, but I turned myself around.
+Every machine in the coin factory broke down all of a sudden without explanation. It just doesn’t make any cents.
 
 
 ## Daily Trivia
 
-What was the name of the security vulnerability found in Bash in 2014?
- 1. Shellshock
- 2. Bashbug
- 3. Heartbleed
- 4. Stagefright
+In computing, what does LAN stand for?
+ 1. Land Address Navigation
+ 2. Light Access Node
+ 3. Local Area Network
+ 4. Long Antenna Node
 
 <details>
   <summary>Answer</summary>
-  Shellshock
+  Local Area Network
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  13 hours 5 minutes</strong> since this server shutdown
+Its been <strong>2 days  13 hours 35 minutes</strong> since this server shutdown
