@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of music do planets listen to? Nep-tunes.
+Two muffins were sitting in an oven, and the first looks over to the second, and says, “man, it’s really hot in here”. The second looks over at the first with a surprised look, and answers, “WHOA, a talking muffin!”
 
 
 ## Daily Trivia
 
-HTML is what type of language?
- 1. Scripting Language
- 2. Markup Language
- 3. Programming Language
- 4. Macro Language
+When did the online streaming service &quot;Mixer&quot; launch?
+ 1. 2016
+ 2. 2009
+ 3. 2013
+ 4. 2011
 
 <details>
   <summary>Answer</summary>
-  Markup Language
+  2016
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  19 hours 35 minutes</strong> since this server shutdown
+Its been <strong>2 days  20 hours 5 minutes</strong> since this server shutdown
