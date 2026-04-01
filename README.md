@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Every night at 11:11, I make a wish that someone will come fix my broken clock.
+What do you call two barracuda fish?  A Pairacuda!
 
 
 ## Daily Trivia
 
-What did the name of the Tor Anonymity Network orignially stand for?
- 1. The Orange Router
- 2. The Ominous Router
- 3. The Only Router
- 4. The Onion Router
+The acronym &quot;RIP&quot; stands for which of these?
+ 1. Runtime Instance Processes
+ 2. Regular Interval Processes
+ 3. Routine Inspection Protocol
+ 4. Routing Information Protocol
 
 <details>
   <summary>Answer</summary>
-  The Onion Router
+  Routing Information Protocol
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  3 hours 5 minutes</strong> since this server shutdown
+Its been <strong>3 days  3 hours 35 minutes</strong> since this server shutdown
