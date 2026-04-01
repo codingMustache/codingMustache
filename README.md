@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the Mexican train killer? He had loco motives
+What did the Red light say to the Green light? Don't look at me I'm changing!
 
 
 ## Daily Trivia
 
-Which of these is not a key value of Agile software development?
- 1. Responding to change
- 2. Customer collaboration
- 3. Comprehensive documentation
- 4. Individuals and interactions
+What did the name of the Tor Anonymity Network orignially stand for?
+ 1. The Onion Router
+ 2. The Ominous Router
+ 3. The Orange Router
+ 4. The Only Router
 
 <details>
   <summary>Answer</summary>
-  Comprehensive documentation
+  The Onion Router
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days 35 minutes</strong> since this server shutdown
+Its been <strong>3 days  1 hours 5 minutes</strong> since this server shutdown
