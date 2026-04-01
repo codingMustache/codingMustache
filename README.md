@@ -27,23 +27,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are graveyards so noisy? Because of all the coffin.
+What do you call a monkey in a mine field? A babooooom!
+
 
 
 ## Daily Trivia
 
-Who invented the &quot;Spanning Tree Protocol&quot;?
- 1. Vint Cerf
- 2. Radia Perlman
- 3. Paul Vixie
- 4. Michael Roberts
+What was the first company to use the term &quot;Golden Master&quot;?
+ 1. IBM
+ 2. Microsoft
+ 3. Apple
+ 4. Google
 
 <details>
   <summary>Answer</summary>
-  Radia Perlman
+  Apple
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  5 hours 5 minutes</strong> since this server shutdown
+Its been <strong>3 days  5 hours 35 minutes</strong> since this server shutdown
