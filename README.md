@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My dentist is the best, he even has a little plaque!
+"Why do seagulls fly over the ocean?" "Because if they flew over the bay, we'd call them bagels."
 
 
 ## Daily Trivia
 
-Which computer language would you associate Django framework with?
- 1. C#
- 2. Python
- 3. C++
- 4. Java
+Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
+ 1. Commodore
+ 2. Atari
+ 3. Apple
+ 4. Microsoft
 
 <details>
   <summary>Answer</summary>
-  Python
+  Apple
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  21 hours 5 minutes</strong> since this server shutdown
+Its been <strong>2 days  21 hours 35 minutes</strong> since this server shutdown
