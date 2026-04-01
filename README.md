@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do robots eat guacamole? With computer chips.
+The urge to sing the Lion King song is just a whim away.
 
 
 ## Daily Trivia
 
-Which one of these is not an official development name for a Ubuntu release?
- 1. Mystic Mansion
- 2. Wily Werewolf
- 3. Utopic Unicorn
- 4. Trusty Tahr
+The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
+ 1. Marshall Islands
+ 2. Micronesia
+ 3. Tuvalu
+ 4. Fiji
 
 <details>
   <summary>Answer</summary>
-  Mystic Mansion
+  Micronesia
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  9 hours 5 minutes</strong> since this server shutdown
+Its been <strong>3 days  9 hours 35 minutes</strong> since this server shutdown
