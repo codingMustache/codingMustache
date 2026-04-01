@@ -27,25 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Never Trust Someone With Graph Paper...
-
-They're always plotting something.
+Why did Sweden start painting barcodes on the sides of their battleships? So they could Scandinavian.
 
 
 ## Daily Trivia
 
-What does the term USB stand for?
- 1. Universal Simtex Blot
- 2. Unityped Semtex Backer
- 3. Universal Serial Bus
- 4. Unified Signal Bus
+Which data structure does FILO apply to?
+ 1. Stack
+ 2. Heap
+ 3. Tree
+ 4. Queue
 
 <details>
   <summary>Answer</summary>
-  Universal Serial Bus
+  Stack
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  2 hours 5 minutes</strong> since this server shutdown
+Its been <strong>3 days  2 hours 35 minutes</strong> since this server shutdown
