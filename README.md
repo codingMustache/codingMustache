@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How does the moon cut his hair? Eclipse it.
+what do you call a dog that can do magic tricks? a labracadabrador
 
 
 ## Daily Trivia
 
-In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
- 1. Final
- 2. Public
- 3. Private
- 4. Static
+What does the &quot;MP&quot; stand for in MP3?
+ 1. Moving Picture
+ 2. Music Player
+ 3. Multi Pass
+ 4. Micro Point
 
 <details>
   <summary>Answer</summary>
-  Final
+  Moving Picture
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  23 hours 5 minutes</strong> since this server shutdown
+Its been <strong>2 days  23 hours 35 minutes</strong> since this server shutdown
