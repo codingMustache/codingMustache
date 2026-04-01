@@ -2,40 +2,48 @@
 
 Hello I'm Jorge and I love making things for the internet
 
-## 🎬 Now Watching
+## 📺 Now Watching
 
 <table>
-  <tr>
-    <td valign="top" width="75%">
-      <h3>The Perfect Neighbor</h3>
-      <p>undefined</p>
-      <p>⭐ <strong>undefined</strong> / 10</p>
-    </td>
-    <td valign="top" align="right">
-      <img src="undefined" alt="The Perfect Neighbor" width="150px"/>
-    </td>
-  </tr>
+  <thead>
+    <tr>
+      <th>🖼️</th>
+      <th>Series</th>
+      <th>Season / Episode</th>
+      <th>Rating</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="https://image.tmdb.org/t/p/w300_and_h300_face/s3OIDrCErUjthsnPPreY7XktQXB.jpg" alt="The Walking Dead" width="100%" height="auto"/></td>
+      <td><strong>The Walking Dead</strong></td>
+      <td><code>S09E05</code> <em>What Comes After</em></td>
+      <td>⭐ 8.08 / 10</td>
+      <td>Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way.</td>
+    </tr>
+  </tbody>
 </table>
 
 ## Joke of the Day
 
-Why can't a bicycle stand on its own? It's two-tired.
+Why does Superman get invited to dinners? Because he is a Supperhero.
 
 
 ## Daily Trivia
 
-What is largely considered the precursor to the USB format?
- 1. SVGA
- 2. PS/2
- 3. PCIe
- 4. FireWire
+Which of these programming languages is a low-level language?
+ 1. Assembly
+ 2. Python
+ 3. C#
+ 4. Pascal
 
 <details>
   <summary>Answer</summary>
-  PS/2
+  Assembly
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  11 hours 5 minutes</strong> since this server shutdown
+Its been <strong>2 days  11 hours 35 minutes</strong> since this server shutdown
