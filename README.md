@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of pants do ghosts wear? Boo jeans.
+How does the moon cut his hair? Eclipse it.
 
 
 ## Daily Trivia
 
-Approximately how many Apple I personal computers were created?
- 1. 200
- 2. 1000
- 3. 500
- 4. 100
+In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
+ 1. Final
+ 2. Public
+ 3. Private
+ 4. Static
 
 <details>
   <summary>Answer</summary>
-  200
+  Final
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  22 hours 35 minutes</strong> since this server shutdown
+Its been <strong>2 days  23 hours 5 minutes</strong> since this server shutdown
