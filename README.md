@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How are false teeth like stars? They come out at night!
+What kind of bagel can fly? A plain bagel.
 
 
 ## Daily Trivia
 
-Which of the following is NOT a computer science algorithm?
- 1. Quick Sort
- 2. Merge Sort
- 3. Bubble Sort
- 4. Float Sort
+The programming language &#039;Swift&#039; was created to replace what other programming language?
+ 1. C#
+ 2. Ruby
+ 3. C++
+ 4. Objective-C
 
 <details>
   <summary>Answer</summary>
-  Float Sort
+  Objective-C
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  18 hours 5 minutes</strong> since this server shutdown
+Its been <strong>2 days  18 hours 35 minutes</strong> since this server shutdown
