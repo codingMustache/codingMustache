@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of music do mummy's like? Rap
+What do you call a pig that knows karate? A pork chop!
 
 
 ## Daily Trivia
 
-What is the name of the default theme that is installed with Windows XP?
- 1. Whistler
- 2. Bliss
- 3. Neptune
- 4. Luna
+What is the maximum value of a 32-bit signed binary integer?
+ 1. 2,147,483,647
+ 2. 9,223,372,036,854,775,807
+ 3. 2048
+ 4. 255
 
 <details>
   <summary>Answer</summary>
-  Luna
+  2,147,483,647
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>24 minutes</strong> since this server shutdown
+Its been <strong>54 minutes</strong> since this server shutdown
