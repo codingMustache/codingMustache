@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What’s the difference between an African elephant and an Indian elephant? About 5000 miles.
+Did you hear about the two thieves who stole a calendar? They each got six months.
 
 
 ## Daily Trivia
 
-Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
- 1. Year
- 2. Eight Years
- 3. Two Years
- 4. Four Years
+In networking, what does OSPF stand for?
+ 1. Open Signal Path Finder
+ 2. Order State Part First
+ 3. Open Shortest Path First
+ 4. Order Sense Ping Find
 
 <details>
   <summary>Answer</summary>
-  Year
+  Open Shortest Path First
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 3 hours 24 minutes</strong> since this server shutdown
+Its been <strong> 3 hours 54 minutes</strong> since this server shutdown
