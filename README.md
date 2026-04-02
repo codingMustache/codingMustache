@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call an old snowman? Water.
+I made a belt out of watches once... It was a waist of time.
 
 
 ## Daily Trivia
 
-How long is an IPv6 address?
- 1. 128 bits
- 2. 128 bytes
- 3. 64 bits
- 4. 32 bits
+HTML is what type of language?
+ 1. Markup Language
+ 2. Macro Language
+ 3. Programming Language
+ 4. Scripting Language
 
 <details>
   <summary>Answer</summary>
-  128 bits
+  Markup Language
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 6 hours 24 minutes</strong> since this server shutdown
+Its been <strong> 6 hours 54 minutes</strong> since this server shutdown
