@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It's been months since I bought the book "how to scam people online". It still hasn't turned up.
+I was just looking at my ceiling. Not sure if it’s the best ceiling in the world, but it’s definitely up there.
 
 
 ## Daily Trivia
 
-Which of the following physical typologies are used with Ethernet Networks?
- 1. Mesh
- 2. Star
- 3. Ring
- 4. Hex
+.at is the top-level domain for what country?
+ 1. Angola
+ 2. Austria
+ 3. Argentina
+ 4. Australia
 
 <details>
   <summary>Answer</summary>
-  Star
+  Austria
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 7 hours 54 minutes</strong> since this server shutdown
+Its been <strong> 8 hours 24 minutes</strong> since this server shutdown
