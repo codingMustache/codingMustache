@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do we tell actors to “break a leg?” Because every play has a cast.
+How do you know if there’s an elephant under your bed? Your head hits the ceiling!
 
 
 ## Daily Trivia
 
-.at is the top-level domain for what country?
- 1. Argentina
- 2. Australia
- 3. Angola
- 4. Austria
+What language does Node.js use?
+ 1. Java
+ 2. Java Source
+ 3. Joomla Source Code
+ 4. JavaScript
 
 <details>
   <summary>Answer</summary>
-  Austria
+  JavaScript
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  15 hours 35 minutes</strong> since this server shutdown
+Its been <strong>3 days  16 hours 5 minutes</strong> since this server shutdown
