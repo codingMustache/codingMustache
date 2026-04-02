@@ -27,24 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Cosmetic surgery used to be such a taboo subject.
-Now you can talk about Botox and nobody raises an eyebrow.
+I couldn't get a reservation at the library. They were completely booked.
 
 
 ## Daily Trivia
 
-Approximately how many Apple I personal computers were created?
- 1. 100
- 2. 500
- 3. 1000
- 4. 200
+What was the name of the security vulnerability found in Bash in 2014?
+ 1. Heartbleed
+ 2. Bashbug
+ 3. Stagefright
+ 4. Shellshock
 
 <details>
   <summary>Answer</summary>
-  200
+  Shellshock
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  14 hours 5 minutes</strong> since this server shutdown
+Its been <strong>3 days  14 hours 35 minutes</strong> since this server shutdown
