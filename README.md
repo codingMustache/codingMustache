@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Breaking news! Energizer Bunny arrested – charged with battery.
+Ever wondered why bees hum? It's because they don't know the words.
 
 
 ## Daily Trivia
 
-In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
- 1. Red
- 2. Green
- 3. Blue
- 4. Yellow
+The C programming language was created by this American computer scientist. 
+ 1. al-Khwārizmī
+ 2. Dennis Ritchie
+ 3. Tim Berners Lee
+ 4. Willis Ware
 
 <details>
   <summary>Answer</summary>
-  Green
+  Dennis Ritchie
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 8 hours 54 minutes</strong> since this server shutdown
+Its been <strong> 9 hours 24 minutes</strong> since this server shutdown
