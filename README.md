@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A steak pun is a rare medium well done.
+Pie is $2.50 in Jamaica and $3.00 in The Bahamas. These are the pie-rates of the Caribbean.
 
 
 ## Daily Trivia
 
-The C programming language was created by this American computer scientist. 
- 1. Willis Ware
- 2. al-Khwārizmī
- 3. Dennis Ritchie
- 4. Tim Berners Lee
+All of the following programs are classified as raster graphics editors EXCEPT:
+ 1. GIMP
+ 2. Paint.NET
+ 3. Inkscape
+ 4. Adobe Photoshop
 
 <details>
   <summary>Answer</summary>
-  Dennis Ritchie
+  Inkscape
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  10 hours 35 minutes</strong> since this server shutdown
+Its been <strong>3 days  11 hours 5 minutes</strong> since this server shutdown
