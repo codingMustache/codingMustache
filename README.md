@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call someone with no nose? Nobody knows.
+What’s the difference between an African elephant and an Indian elephant? About 5000 miles.
 
 
 ## Daily Trivia
 
-What does RAID stand for?
- 1. Rapid Access for Indexed Devices
- 2. Range of Applications with Identical Designs
- 3. Randomized Abstract Identification Description
- 4. Redundant Array of Independent Disks
+Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
+ 1. Year
+ 2. Eight Years
+ 3. Two Years
+ 4. Four Years
 
 <details>
   <summary>Answer</summary>
-  Redundant Array of Independent Disks
+  Year
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 2 hours 54 minutes</strong> since this server shutdown
+Its been <strong> 3 hours 24 minutes</strong> since this server shutdown
