@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I couldn't get a reservation at the library. They were completely booked.
+A police officer caught two kids playing with a firework and a car battery. He charged one and let the other one off.
 
 
 ## Daily Trivia
 
-What was the name of the security vulnerability found in Bash in 2014?
- 1. Heartbleed
- 2. Bashbug
- 3. Stagefright
- 4. Shellshock
+The programming language &#039;Swift&#039; was created to replace what other programming language?
+ 1. C#
+ 2. Ruby
+ 3. Objective-C
+ 4. C++
 
 <details>
   <summary>Answer</summary>
-  Shellshock
+  Objective-C
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  14 hours 35 minutes</strong> since this server shutdown
+Its been <strong>3 days  15 hours 5 minutes</strong> since this server shutdown
