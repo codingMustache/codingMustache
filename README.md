@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I made a belt out of watches once... It was a waist of time.
+What do you call a pile of cats?  A Meowtain.
 
 
 ## Daily Trivia
 
-HTML is what type of language?
- 1. Markup Language
- 2. Macro Language
- 3. Programming Language
- 4. Scripting Language
+What was the first Android version specifically optimized for tablets?
+ 1. Eclair
+ 2. Froyo
+ 3. Marshmellow
+ 4. Honeycomb
 
 <details>
   <summary>Answer</summary>
-  Markup Language
+  Honeycomb
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 6 hours 54 minutes</strong> since this server shutdown
+Its been <strong> 7 hours 24 minutes</strong> since this server shutdown
