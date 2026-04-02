@@ -27,23 +27,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It doesn't matter how much you push the envelope. It will still be stationary.
+Cosmetic surgery used to be such a taboo subject.
+Now you can talk about Botox and nobody raises an eyebrow.
 
 
 ## Daily Trivia
 
-What is the code name for the mobile operating system Android 7.0?
- 1. Marshmallow
- 2. Ice Cream Sandwich
- 3. Nougat
- 4. Jelly Bean
+In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
+ 1. static
+ 2. absolute
+ 3. relative
+ 4. center
 
 <details>
   <summary>Answer</summary>
-  Nougat
+  center
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  20 hours 5 minutes</strong> since this server shutdown
+Its been <strong>3 days  20 hours 35 minutes</strong> since this server shutdown
