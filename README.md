@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the beaver say to the tree? It's been nice gnawing you.
+My dentist is the best, he even has a little plaque!
 
 
 ## Daily Trivia
 
-What does the term GPU stand for?
- 1. Graphical Proprietary Unit
- 2. Graphite Producing Unit
- 3. Graphics Processing Unit
- 4. Gaming Processor Unit
+Which of the following computer components can be built using only NAND gates?
+ 1. CPU
+ 2. ALU
+ 3. RAM
+ 4. Register
 
 <details>
   <summary>Answer</summary>
-  Graphics Processing Unit
+  ALU
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  22 hours 35 minutes</strong> since this server shutdown
+Its been <strong>3 days  23 hours 5 minutes</strong> since this server shutdown
