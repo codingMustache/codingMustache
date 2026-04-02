@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How does Darth Vader like his toast? On the dark side.
+Why are fish easy to weigh? Because they have their own scales.
 
 
 ## Daily Trivia
 
-The acronym &quot;RIP&quot; stands for which of these?
- 1. Routing Information Protocol
- 2. Regular Interval Processes
- 3. Runtime Instance Processes
- 4. Routine Inspection Protocol
+What was the name of the security vulnerability found in Bash in 2014?
+ 1. Bashbug
+ 2. Stagefright
+ 3. Heartbleed
+ 4. Shellshock
 
 <details>
   <summary>Answer</summary>
-  Routing Information Protocol
+  Shellshock
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  21 hours 35 minutes</strong> since this server shutdown
+Its been <strong>3 days  22 hours 5 minutes</strong> since this server shutdown
