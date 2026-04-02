@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I made a belt out of watches once... It was a waist of time.
+Past, present, and future walked into a bar.... It was tense.
 
 
 ## Daily Trivia
 
-What does the computer software acronym JVM stand for?
- 1. Java Vendor Machine
- 2. Java Visual Machine
- 3. Java Virtual Machine
- 4. Just Virtual Machine
+Australia, Japan, and Southeast Asia are in which ITU Region?
+ 1. Region 4
+ 2. Region 3
+ 3. Region 1
+ 4. Region 2
 
 <details>
   <summary>Answer</summary>
-  Java Virtual Machine
+  Region 3
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 5 hours 24 minutes</strong> since this server shutdown
+Its been <strong> 5 hours 54 minutes</strong> since this server shutdown
