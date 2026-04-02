@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you know if there’s an elephant under your bed? Your head hits the ceiling!
+What do you get when you cross a chicken with a skunk? A fowl smell!
 
 
 ## Daily Trivia
 
-What language does Node.js use?
- 1. Java
- 2. Java Source
- 3. Joomla Source Code
- 4. JavaScript
+Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
+ 1. Shellshock
+ 2. Corrupted Blood
+ 3. Heartbleed
+ 4. Shellscript
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  Heartbleed
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  16 hours 5 minutes</strong> since this server shutdown
+Its been <strong>3 days  16 hours 35 minutes</strong> since this server shutdown
