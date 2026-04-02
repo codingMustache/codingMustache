@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are fish easy to weigh? Because they have their own scales.
+What did the beaver say to the tree? It's been nice gnawing you.
 
 
 ## Daily Trivia
 
-What was the name of the security vulnerability found in Bash in 2014?
- 1. Bashbug
- 2. Stagefright
- 3. Heartbleed
- 4. Shellshock
+What does the term GPU stand for?
+ 1. Graphical Proprietary Unit
+ 2. Graphite Producing Unit
+ 3. Graphics Processing Unit
+ 4. Gaming Processor Unit
 
 <details>
   <summary>Answer</summary>
-  Shellshock
+  Graphics Processing Unit
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  22 hours 5 minutes</strong> since this server shutdown
+Its been <strong>3 days  22 hours 35 minutes</strong> since this server shutdown
