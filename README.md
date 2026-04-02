@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of magic do cows believe in? MOODOO.
+What kind of music do mummy's like? Rap
 
 
 ## Daily Trivia
 
-What major programming language does Unreal Engine 4 use?
- 1. C++
- 2. ECMAScript
- 3. C#
- 4. Assembly
+What is the name of the default theme that is installed with Windows XP?
+ 1. Whistler
+ 2. Bliss
+ 3. Neptune
+ 4. Luna
 
 <details>
   <summary>Answer</summary>
-  C++
+  Luna
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  23 hours 35 minutes</strong> since this server shutdown
+Its been <strong>24 minutes</strong> since this server shutdown
