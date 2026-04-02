@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Past, present, and future walked into a bar.... It was tense.
+Why do choirs keep buckets handy? So they can carry their tune
 
 
 ## Daily Trivia
 
-Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
- 1. Leopard
- 2. Tiger
- 3. Cheetah
- 4. Puma
+Which of the following languages is used as a scripting language in the Unity 3D game engine?
+ 1. C#
+ 2. Objective-C
+ 3. C++
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  Cheetah
+  C#
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 1 hours 54 minutes</strong> since this server shutdown
+Its been <strong> 2 hours 24 minutes</strong> since this server shutdown
