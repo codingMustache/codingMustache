@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-There's not really any training for garbagemen. They just pick things up as they go.
+I wanted to be a tailor but I didn't suit the job
 
 
 ## Daily Trivia
 
-In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
- 1. &lt;scroll&gt;&lt;/scroll&gt;
- 2. &lt;marquee&gt;&lt;/marquee&gt;
- 3. &lt;slide&gt;&lt;/slide&gt;
- 4. &lt;move&gt;&lt;/move&gt;
+What is the name of the process that sends one qubit of information using two bits of classical information?
+ 1. Super Dense Coding
+ 2. Quantum Entanglement
+ 3. Quantum Programming
+ 4. Quantum Teleportation
 
 <details>
   <summary>Answer</summary>
-  &lt;marquee&gt;&lt;/marquee&gt;
+  Quantum Teleportation
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  17 hours 5 minutes</strong> since this server shutdown
+Its been <strong>3 days  18 hours 5 minutes</strong> since this server shutdown
