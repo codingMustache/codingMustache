@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A police officer caught two kids playing with a firework and a car battery. He charged one and let the other one off.
+Why do we tell actors to “break a leg?” Because every play has a cast.
 
 
 ## Daily Trivia
 
-The programming language &#039;Swift&#039; was created to replace what other programming language?
- 1. C#
- 2. Ruby
- 3. Objective-C
- 4. C++
+.at is the top-level domain for what country?
+ 1. Argentina
+ 2. Australia
+ 3. Angola
+ 4. Austria
 
 <details>
   <summary>Answer</summary>
-  Objective-C
+  Austria
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  15 hours 5 minutes</strong> since this server shutdown
+Its been <strong>3 days  15 hours 35 minutes</strong> since this server shutdown
