@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I couldn't figure out how the seat belt worked. Then it just clicked.
+"I'm sorry." "Hi sorry, I'm dad"
 
 
 ## Daily Trivia
 
-How many bits make up the significand portion of a single precision floating point number?
- 1. 23
- 2. 8
- 3. 53
- 4. 15
+In networking, what does OSPF stand for?
+ 1. Order State Part First
+ 2. Open Shortest Path First
+ 3. Order Sense Ping Find
+ 4. Open Signal Path Finder
 
 <details>
   <summary>Answer</summary>
-  23
+  Open Shortest Path First
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 4 hours 24 minutes</strong> since this server shutdown
+Its been <strong> 4 hours 54 minutes</strong> since this server shutdown
