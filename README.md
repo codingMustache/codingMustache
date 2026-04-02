@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-"I'm sorry." "Hi sorry, I'm dad"
+I made a belt out of watches once... It was a waist of time.
 
 
 ## Daily Trivia
 
-In networking, what does OSPF stand for?
- 1. Order State Part First
- 2. Open Shortest Path First
- 3. Order Sense Ping Find
- 4. Open Signal Path Finder
+What does the computer software acronym JVM stand for?
+ 1. Java Vendor Machine
+ 2. Java Visual Machine
+ 3. Java Virtual Machine
+ 4. Just Virtual Machine
 
 <details>
   <summary>Answer</summary>
-  Open Shortest Path First
+  Java Virtual Machine
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 4 hours 54 minutes</strong> since this server shutdown
+Its been <strong> 5 hours 24 minutes</strong> since this server shutdown
