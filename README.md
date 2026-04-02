@@ -27,24 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My friend keeps telling me "Cheer up. You aren't stuck in a deep hole in the ground, filled with water."
-I know he means well.
+It's been months since I bought the book "how to scam people online". It still hasn't turned up.
 
 
 ## Daily Trivia
 
-If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
- 1. JavaScript
- 2. C++
- 3. Binary
- 4. Python
+What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
+ 1. Sandy Bridge
+ 2. Coffee Lake
+ 3. Skylake
+ 4. Broadwell
 
 <details>
   <summary>Answer</summary>
-  Binary
+  Coffee Lake
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  12 hours 35 minutes</strong> since this server shutdown
+Its been <strong>3 days  13 hours 5 minutes</strong> since this server shutdown
