@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How can you tell a vampire has a cold? They start coffin.
+It doesn't matter how much you push the envelope. It will still be stationary.
 
 
 ## Daily Trivia
 
-Which of the following is a personal computer made by the Japanese company Fujitsu?
- 1. Xmillennium 
- 2. PC-9801
- 3. FM-7
- 4. MSX
+What is the code name for the mobile operating system Android 7.0?
+ 1. Marshmallow
+ 2. Ice Cream Sandwich
+ 3. Nougat
+ 4. Jelly Bean
 
 <details>
   <summary>Answer</summary>
-  FM-7
+  Nougat
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  19 hours 35 minutes</strong> since this server shutdown
+Its been <strong>3 days  20 hours 5 minutes</strong> since this server shutdown
