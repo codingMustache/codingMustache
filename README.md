@@ -27,23 +27,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It's difficult to say what my wife does, she sells sea shells by the sea shore.
+My friend keeps telling me "Cheer up. You aren't stuck in a deep hole in the ground, filled with water."
+I know he means well.
 
 
 ## Daily Trivia
 
-America Online (AOL) started out as which of these online service providers?
- 1. Quantum Link
- 2. GEnie
- 3. Prodigy
- 4. CompuServe
+If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
+ 1. JavaScript
+ 2. C++
+ 3. Binary
+ 4. Python
 
 <details>
   <summary>Answer</summary>
-  Quantum Link
+  Binary
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  12 hours 5 minutes</strong> since this server shutdown
+Its been <strong>3 days  12 hours 35 minutes</strong> since this server shutdown
