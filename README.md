@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Never take advice from electrons. They are always negative.
+How can you tell a vampire has a cold? They start coffin.
 
 
 ## Daily Trivia
 
-Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
- 1. Puma
- 2. Tiger
- 3. Leopard
- 4. Cheetah
+Which of the following is a personal computer made by the Japanese company Fujitsu?
+ 1. Xmillennium 
+ 2. PC-9801
+ 3. FM-7
+ 4. MSX
 
 <details>
   <summary>Answer</summary>
-  Cheetah
+  FM-7
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  19 hours 5 minutes</strong> since this server shutdown
+Its been <strong>3 days  19 hours 35 minutes</strong> since this server shutdown
