@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where did you learn to make ice cream? Sunday school.
+Past, present, and future walked into a bar.... It was tense.
 
 
 ## Daily Trivia
 
-Which one of these is not an official development name for a Ubuntu release?
- 1. Trusty Tahr
- 2. Wily Werewolf
- 3. Mystic Mansion
- 4. Utopic Unicorn
+Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
+ 1. Leopard
+ 2. Tiger
+ 3. Cheetah
+ 4. Puma
 
 <details>
   <summary>Answer</summary>
-  Mystic Mansion
+  Cheetah
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 1 hours 24 minutes</strong> since this server shutdown
+Its been <strong> 1 hours 54 minutes</strong> since this server shutdown
