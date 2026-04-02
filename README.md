@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a pile of cats?  A Meowtain.
+It's been months since I bought the book "how to scam people online". It still hasn't turned up.
 
 
 ## Daily Trivia
 
-What was the first Android version specifically optimized for tablets?
- 1. Eclair
- 2. Froyo
- 3. Marshmellow
- 4. Honeycomb
+Which of the following physical typologies are used with Ethernet Networks?
+ 1. Mesh
+ 2. Star
+ 3. Ring
+ 4. Hex
 
 <details>
   <summary>Answer</summary>
-  Honeycomb
+  Star
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 7 hours 24 minutes</strong> since this server shutdown
+Its been <strong> 7 hours 54 minutes</strong> since this server shutdown
