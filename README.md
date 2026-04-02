@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Ever wondered why bees hum? It's because they don't know the words.
+How are false teeth like stars? They come out at night!
 
 
 ## Daily Trivia
 
-The C programming language was created by this American computer scientist. 
- 1. al-Khwārizmī
- 2. Dennis Ritchie
- 3. Tim Berners Lee
- 4. Willis Ware
+Which SQL keyword is used to fetch data from a database?
+ 1. EXEC
+ 2. VALUES
+ 3. INDEX
+ 4. SELECT
 
 <details>
   <summary>Answer</summary>
-  Dennis Ritchie
+  SELECT
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 9 hours 24 minutes</strong> since this server shutdown
+Its been <strong> 9 hours 54 minutes</strong> since this server shutdown
