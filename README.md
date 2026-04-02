@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My dentist is the best, he even has a little plaque!
+What kind of magic do cows believe in? MOODOO.
 
 
 ## Daily Trivia
 
-Which of the following computer components can be built using only NAND gates?
- 1. CPU
- 2. ALU
- 3. RAM
- 4. Register
+What major programming language does Unreal Engine 4 use?
+ 1. C++
+ 2. ECMAScript
+ 3. C#
+ 4. Assembly
 
 <details>
   <summary>Answer</summary>
-  ALU
+  C++
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  23 hours 5 minutes</strong> since this server shutdown
+Its been <strong>3 days  23 hours 35 minutes</strong> since this server shutdown
