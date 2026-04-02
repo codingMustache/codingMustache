@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do choirs keep buckets handy? So they can carry their tune
+What do you call someone with no nose? Nobody knows.
 
 
 ## Daily Trivia
 
-Which of the following languages is used as a scripting language in the Unity 3D game engine?
- 1. C#
- 2. Objective-C
- 3. C++
- 4. Java
+What does RAID stand for?
+ 1. Rapid Access for Indexed Devices
+ 2. Range of Applications with Identical Designs
+ 3. Randomized Abstract Identification Description
+ 4. Redundant Array of Independent Disks
 
 <details>
   <summary>Answer</summary>
-  C#
+  Redundant Array of Independent Disks
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 2 hours 24 minutes</strong> since this server shutdown
+Its been <strong> 2 hours 54 minutes</strong> since this server shutdown
