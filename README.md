@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Past, present, and future walked into a bar.... It was tense.
+What do you call an old snowman? Water.
 
 
 ## Daily Trivia
 
-Australia, Japan, and Southeast Asia are in which ITU Region?
- 1. Region 4
- 2. Region 3
- 3. Region 1
- 4. Region 2
+How long is an IPv6 address?
+ 1. 128 bits
+ 2. 128 bytes
+ 3. 64 bits
+ 4. 32 bits
 
 <details>
   <summary>Answer</summary>
-  Region 3
+  128 bits
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 5 hours 54 minutes</strong> since this server shutdown
+Its been <strong> 6 hours 24 minutes</strong> since this server shutdown
