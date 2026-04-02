@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the two thieves who stole a calendar? They each got six months.
+I couldn't figure out how the seat belt worked. Then it just clicked.
 
 
 ## Daily Trivia
 
-In networking, what does OSPF stand for?
- 1. Open Signal Path Finder
- 2. Order State Part First
- 3. Open Shortest Path First
- 4. Order Sense Ping Find
+How many bits make up the significand portion of a single precision floating point number?
+ 1. 23
+ 2. 8
+ 3. 53
+ 4. 15
 
 <details>
   <summary>Answer</summary>
-  Open Shortest Path First
+  23
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 3 hours 54 minutes</strong> since this server shutdown
+Its been <strong> 4 hours 24 minutes</strong> since this server shutdown
