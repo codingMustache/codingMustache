@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is a witch's favorite subject in school? Spelling!
+How does Darth Vader like his toast? On the dark side.
 
 
 ## Daily Trivia
 
-The name of technology company HP stands for what?
- 1. Howard Packmann
- 2. Hellman-Pohl
- 3. Husker-Pollosk
- 4. Hewlett-Packard
+The acronym &quot;RIP&quot; stands for which of these?
+ 1. Routing Information Protocol
+ 2. Regular Interval Processes
+ 3. Runtime Instance Processes
+ 4. Routine Inspection Protocol
 
 <details>
   <summary>Answer</summary>
-  Hewlett-Packard
+  Routing Information Protocol
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  21 hours 5 minutes</strong> since this server shutdown
+Its been <strong>3 days  21 hours 35 minutes</strong> since this server shutdown
