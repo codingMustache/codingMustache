@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How are false teeth like stars? They come out at night!
+What do you call a magician who has lost their magic? Ian.
 
 
 ## Daily Trivia
 
-Which SQL keyword is used to fetch data from a database?
- 1. EXEC
- 2. VALUES
- 3. INDEX
- 4. SELECT
+Which kind of algorithm is Ron Rivest not famous for creating?
+ 1. Asymmetric encryption
+ 2. Hashing algorithm
+ 3. Stream cipher
+ 4. Secret sharing scheme
 
 <details>
   <summary>Answer</summary>
-  SELECT
+  Secret sharing scheme
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 9 hours 54 minutes</strong> since this server shutdown
+Its been <strong> 10 hours 24 minutes</strong> since this server shutdown
