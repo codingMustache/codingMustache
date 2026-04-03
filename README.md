@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Doctor you've got to help me, I'm addicted to Twitter. Doctor: I don't follow you.
+I met this girl on a dating site and, I don't know, we just clicked.
 
 
 ## Daily Trivia
 
-Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
- 1. Two Years
- 2. Year
- 3. Eight Years
- 4. Four Years
+What does the &quot;MP&quot; stand for in MP3?
+ 1. Micro Point
+ 2. Multi Pass
+ 3. Moving Picture
+ 4. Music Player
 
 <details>
   <summary>Answer</summary>
-  Year
+  Moving Picture
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  5 hours 54 minutes</strong> since this server shutdown
+Its been <strong>1 days  6 hours 24 minutes</strong> since this server shutdown
