@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What does a female snake use for support? A co-Bra!
+I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts.
 
 
 ## Daily Trivia
 
-What does CPU stand for?
- 1. Central Process Unit
- 2. Computer Personal Unit
- 3. Central Processor Unit
- 4. Central Processing Unit
+Which of these people was NOT a founder of Apple Inc?
+ 1. Jonathan Ive
+ 2. Steve Wozniak
+ 3. Ronald Wayne
+ 4. Steve Jobs
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  Jonathan Ive
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  9 hours 54 minutes</strong> since this server shutdown
+Its been <strong>1 days  10 hours 24 minutes</strong> since this server shutdown
