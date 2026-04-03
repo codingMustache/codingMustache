@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I wish I could clean mirrors for a living. It's just something I can see myself doing.
+Why is there always a gate around cemeteries? Because people are always dying to get in.
 
 
 ## Daily Trivia
 
-Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
- 1. C#
- 2. Python
- 3. PHP
- 4. JavaScript
+In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
+ 1. Blue
+ 2. Green
+ 3. Yellow
+ 4. Red
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  Green
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 22 hours 24 minutes</strong> since this server shutdown
+Its been <strong> 22 hours 54 minutes</strong> since this server shutdown
