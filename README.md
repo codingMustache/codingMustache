@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It takes guts to be an organ donor.
+Why did the teddy bear say “no” to dessert? Because she was stuffed.
 
 
 ## Daily Trivia
 
-Which programming language shares its name with an island in Indonesia?
- 1. Python
- 2. Jakarta
- 3. C
- 4. Java
+What is largely considered the precursor to the USB format?
+ 1. SVGA
+ 2. PS/2
+ 3. PCIe
+ 4. FireWire
 
 <details>
   <summary>Answer</summary>
-  Java
+  PS/2
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 10 hours 54 minutes</strong> since this server shutdown
+Its been <strong> 11 hours 24 minutes</strong> since this server shutdown
