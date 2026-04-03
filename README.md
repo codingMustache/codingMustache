@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I really want to buy one of those supermarket checkout dividers, but the cashier keeps putting it back.
+What’s Forest Gump’s Facebook password? 1forest1
 
 
 ## Daily Trivia
 
-How fast is USB 3.1 Gen 2 theoretically?
- 1. 10 Gb/s
- 2. 1 Gb/s
- 3. 8 Gb/s
- 4. 5 Gb/s
+CMOS is tech used for constructing integrated circuits. What does CMOS stand for?
+ 1. Computer-made operating system
+ 2. Complementary magnetic-ohms-semiconductor
+ 3. Computer-made oscillating static
+ 4. Complementary metal&ndash;oxide&ndash;semiconductor
 
 <details>
   <summary>Answer</summary>
-  10 Gb/s
+  Complementary metal&ndash;oxide&ndash;semiconductor
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  7 hours 54 minutes</strong> since this server shutdown
+Its been <strong>1 days  8 hours 24 minutes</strong> since this server shutdown
