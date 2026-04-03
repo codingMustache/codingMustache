@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many apples grow on a tree? All of them!
+To the guy who invented zero... thanks for nothing.
 
 
 ## Daily Trivia
 
-In computing, what does LAN stand for?
- 1. Local Area Network
- 2. Light Access Node
- 3. Long Antenna Node
- 4. Land Address Navigation
+What does the term USB stand for?
+ 1. Universal Simtex Blot
+ 2. Unified Signal Bus
+ 3. Unityped Semtex Backer
+ 4. Universal Serial Bus
 
 <details>
   <summary>Answer</summary>
-  Local Area Network
+  Universal Serial Bus
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 15 hours 54 minutes</strong> since this server shutdown
+Its been <strong> 16 hours 24 minutes</strong> since this server shutdown
