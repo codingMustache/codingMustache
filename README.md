@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Camping is intense.
+What time did the man go to the dentist? Tooth hurt-y.
 
 
 ## Daily Trivia
 
-What is the number of keys on a standard Windows Keyboard?
- 1. 104
- 2. 76
- 3. 94
- 4. 64
+The acronym &quot;RIP&quot; stands for which of these?
+ 1. Routing Information Protocol
+ 2. Routine Inspection Protocol
+ 3. Regular Interval Processes
+ 4. Runtime Instance Processes
 
 <details>
   <summary>Answer</summary>
-  104
+  Routing Information Protocol
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 14 hours 24 minutes</strong> since this server shutdown
+Its been <strong> 14 hours 54 minutes</strong> since this server shutdown
