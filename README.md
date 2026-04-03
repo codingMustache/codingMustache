@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I tried taking some high resolution photos of local farmland, but they all turned out a bit grainy.
+You can't trust a ladder. It will always let you down
 
 
 ## Daily Trivia
 
-What was the name of the image that features as the default background wallpaper for Windows XP?
- 1. Azul
- 2. Red moon desert
- 3. Bliss
- 4. Tulips
+All of the following programs are classified as raster graphics editors EXCEPT:
+ 1. Paint.NET
+ 2. Inkscape
+ 3. GIMP
+ 4. Adobe Photoshop
 
 <details>
   <summary>Answer</summary>
-  Bliss
+  Inkscape
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days 24 minutes</strong> since this server shutdown
+Its been <strong>1 days 54 minutes</strong> since this server shutdown
