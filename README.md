@@ -27,25 +27,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many seconds are in a year?
-12.
-January 2nd, February 2nd, March 2nd, April 2nd.... etc
+What do you call a monkey in a mine field? A babooooom!
+
 
 
 ## Daily Trivia
 
-What five letter word is the motto of the IBM Computer company?
- 1. Think
- 2. Pixel
- 3. Logic
- 4. Click
+What is the commonly used keyboard shortcut for the &#039;Copy&#039; function on Windows OS?
+ 1. Ctrl + X
+ 2. Alt + C
+ 3. Alt + X
+ 4. Ctrl + C
 
 <details>
   <summary>Answer</summary>
-  Think
+  Ctrl + C
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 21 hours 24 minutes</strong> since this server shutdown
+Its been <strong> 21 hours 54 minutes</strong> since this server shutdown
