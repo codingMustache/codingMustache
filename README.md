@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What time did the man go to the dentist? Tooth hurt-y.
+How do you tell the difference between a crocodile and an alligator? You will see one later and one in a while.
 
 
 ## Daily Trivia
 
-The acronym &quot;RIP&quot; stands for which of these?
- 1. Routing Information Protocol
- 2. Routine Inspection Protocol
- 3. Regular Interval Processes
- 4. Runtime Instance Processes
+How many bits make up the significand portion of a single precision floating point number?
+ 1. 8
+ 2. 23
+ 3. 53
+ 4. 15
 
 <details>
   <summary>Answer</summary>
-  Routing Information Protocol
+  23
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 14 hours 54 minutes</strong> since this server shutdown
+Its been <strong> 15 hours 24 minutes</strong> since this server shutdown
