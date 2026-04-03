@@ -27,23 +27,25 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a fish wearing a bowtie? Sofishticated.
+Why did Mozart kill all his chickens?
+Because when he asked them who the best composer was, they'd all say "Bach bach bach!"
+
 
 
 ## Daily Trivia
 
-Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
- 1. Shopify
- 2. Amazon
- 3. eBay
- 4. Overstock
+Which of these people was NOT a founder of Apple Inc?
+ 1. Jonathan Ive
+ 2. Steve Wozniak
+ 3. Ronald Wayne
+ 4. Steve Jobs
 
 <details>
   <summary>Answer</summary>
-  Amazon
+  Jonathan Ive
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  4 hours 54 minutes</strong> since this server shutdown
+Its been <strong>1 days  5 hours 24 minutes</strong> since this server shutdown
