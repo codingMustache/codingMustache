@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My new thesaurus is terrible. In fact, it's so bad, I'd say it's terrible.
+I couldn't get a reservation at the library. They were completely booked.
 
 
 ## Daily Trivia
 
-On which computer hardware device is the BIOS chip located?
- 1. Hard Disk Drive
- 2. Motherboard
- 3. Central Processing Unit
- 4. Graphics Processing Unit
+How long is an IPv6 address?
+ 1. 32 bits
+ 2. 64 bits
+ 3. 128 bytes
+ 4. 128 bits
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  128 bits
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 16 hours 54 minutes</strong> since this server shutdown
+Its been <strong> 17 hours 24 minutes</strong> since this server shutdown
