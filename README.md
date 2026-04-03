@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I thought my wife was joking when she said she'd leave me if I didn't stop signing "I'm A Believer"... Then I saw her face.
+To the person who stole my anti-depressant pills: I hope you're happy now.
 
 
 ## Daily Trivia
 
-CMOS is tech used for constructing integrated circuits. What does CMOS stand for?
- 1. Computer-made oscillating static
- 2. Complementary metal&ndash;oxide&ndash;semiconductor
- 3. Computer-made operating system
- 4. Complementary magnetic-ohms-semiconductor
+Which of the following is the oldest of these computers by release date?
+ 1. TRS-80
+ 2. ZX Spectrum
+ 3. Apple 3
+ 4. Commodore 64
 
 <details>
   <summary>Answer</summary>
-  Complementary metal&ndash;oxide&ndash;semiconductor
+  TRS-80
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 19 hours 54 minutes</strong> since this server shutdown
+Its been <strong> 20 hours 24 minutes</strong> since this server shutdown
