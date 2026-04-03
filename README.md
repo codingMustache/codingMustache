@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you know you should always take an extra pair of pants golfing? Just in case you get a hole in one.
+Why can’t you hear a pterodactyl go to the bathroom? The p is silent.
 
 
 ## Daily Trivia
 
-In computing, what does MIDI stand for?
- 1. Musical Interface of Digital Instruments
- 2. Musical Instrument Digital Interface
- 3. Modular Interface of Digital Instruments
- 4. Musical Instrument Data Interface
+What was the first Android version specifically optimized for tablets?
+ 1. Eclair
+ 2. Froyo
+ 3. Marshmellow
+ 4. Honeycomb
 
 <details>
   <summary>Answer</summary>
-  Musical Instrument Digital Interface
+  Honeycomb
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 12 hours 24 minutes</strong> since this server shutdown
+Its been <strong> 12 hours 54 minutes</strong> since this server shutdown
