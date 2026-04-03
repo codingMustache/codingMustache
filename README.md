@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-You can't trust a ladder. It will always let you down
+A book just fell on my head. I only have my shelf to blame.
 
 
 ## Daily Trivia
 
-All of the following programs are classified as raster graphics editors EXCEPT:
- 1. Paint.NET
- 2. Inkscape
- 3. GIMP
- 4. Adobe Photoshop
+On which day did the World Wide Web go online?
+ 1. December 17, 1996
+ 2. November 12, 1990
+ 3. December 20, 1990
+ 4. November 24, 1995
 
 <details>
   <summary>Answer</summary>
-  Inkscape
+  December 20, 1990
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days 54 minutes</strong> since this server shutdown
+Its been <strong>1 days  1 hours 24 minutes</strong> since this server shutdown
