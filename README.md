@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Dad I’m hungry’ … ‘Hi hungry I’m dad
+I thought my wife was joking when she said she'd leave me if I didn't stop signing "I'm A Believer"... Then I saw her face.
 
 
 ## Daily Trivia
 
-The programming language &#039;Swift&#039; was created to replace what other programming language?
- 1. C#
- 2. Ruby
- 3. C++
- 4. Objective-C
+CMOS is tech used for constructing integrated circuits. What does CMOS stand for?
+ 1. Computer-made oscillating static
+ 2. Complementary metal&ndash;oxide&ndash;semiconductor
+ 3. Computer-made operating system
+ 4. Complementary magnetic-ohms-semiconductor
 
 <details>
   <summary>Answer</summary>
-  Objective-C
+  Complementary metal&ndash;oxide&ndash;semiconductor
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 19 hours 24 minutes</strong> since this server shutdown
+Its been <strong> 19 hours 54 minutes</strong> since this server shutdown
