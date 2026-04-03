@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the teddy bear say “no” to dessert? Because she was stuffed.
+As I suspected, someone has been adding soil to my garden. The plot thickens.
 
 
 ## Daily Trivia
 
-What is largely considered the precursor to the USB format?
- 1. SVGA
- 2. PS/2
- 3. PCIe
- 4. FireWire
+HTML is what type of language?
+ 1. Macro Language
+ 2. Markup Language
+ 3. Programming Language
+ 4. Scripting Language
 
 <details>
   <summary>Answer</summary>
-  PS/2
+  Markup Language
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 11 hours 24 minutes</strong> since this server shutdown
+Its been <strong> 11 hours 54 minutes</strong> since this server shutdown
