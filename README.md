@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Today a girl said she recognized me from vegetarian club, but I’m sure I’ve never met herbivore.
+Did you know you should always take an extra pair of pants golfing? Just in case you get a hole in one.
 
 
 ## Daily Trivia
 
-Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
- 1. eBay
- 2. Overstock
- 3. Amazon
- 4. Shopify
+The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
+ 1. Acorn Computers
+ 2. Amstrad PLC
+ 3. Sinclair Research
+ 4. Commodore Business Machines
 
 <details>
   <summary>Answer</summary>
-  Amazon
+  Acorn Computers
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  3 hours 24 minutes</strong> since this server shutdown
+Its been <strong>1 days  3 hours 54 minutes</strong> since this server shutdown
