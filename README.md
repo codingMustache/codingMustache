@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Want to hear a joke about construction? Nah, I'm still working on it.
+I really want to buy one of those supermarket checkout dividers, but the cashier keeps putting it back.
 
 
 ## Daily Trivia
 
-CMOS is tech used for constructing integrated circuits. What does CMOS stand for?
- 1. Complementary metal&ndash;oxide&ndash;semiconductor
- 2. Computer-made oscillating static
- 3. Computer-made operating system
- 4. Complementary magnetic-ohms-semiconductor
+How fast is USB 3.1 Gen 2 theoretically?
+ 1. 10 Gb/s
+ 2. 1 Gb/s
+ 3. 8 Gb/s
+ 4. 5 Gb/s
 
 <details>
   <summary>Answer</summary>
-  Complementary metal&ndash;oxide&ndash;semiconductor
+  10 Gb/s
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  7 hours 24 minutes</strong> since this server shutdown
+Its been <strong>1 days  7 hours 54 minutes</strong> since this server shutdown
