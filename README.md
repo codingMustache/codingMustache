@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to be addicted to soap, but I'm clean now.
+What do you call a fish wearing a bowtie? Sofishticated.
 
 
 ## Daily Trivia
 
-Lenovo acquired IBM&#039;s personal computer division, including the ThinkPad line of laptops and tablets, in what year?
- 1. 2005
- 2. 2008
- 3. 2002
- 4. 1999
+Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
+ 1. Shopify
+ 2. Amazon
+ 3. eBay
+ 4. Overstock
 
 <details>
   <summary>Answer</summary>
-  2005
+  Amazon
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  4 hours 24 minutes</strong> since this server shutdown
+Its been <strong>1 days  4 hours 54 minutes</strong> since this server shutdown
