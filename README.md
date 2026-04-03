@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a magician who has lost their magic? Ian.
+It takes guts to be an organ donor.
 
 
 ## Daily Trivia
 
-Which kind of algorithm is Ron Rivest not famous for creating?
- 1. Asymmetric encryption
- 2. Hashing algorithm
- 3. Stream cipher
- 4. Secret sharing scheme
+Which programming language shares its name with an island in Indonesia?
+ 1. Python
+ 2. Jakarta
+ 3. C
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  Secret sharing scheme
+  Java
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 10 hours 24 minutes</strong> since this server shutdown
+Its been <strong> 10 hours 54 minutes</strong> since this server shutdown
