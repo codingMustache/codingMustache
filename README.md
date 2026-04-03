@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call an alligator in a vest? An in-vest-igator!
+What’s Forest Gump’s Facebook password? 1forest1
 
 
 ## Daily Trivia
 
-Which of the following physical typologies are used with Ethernet Networks?
- 1. Mesh
- 2. Ring
- 3. Star
- 4. Hex
+What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
+ 1. Network
+ 2. Data link
+ 3. Transport
+ 4. Session
 
 <details>
   <summary>Answer</summary>
-  Star
+  Transport
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 17 hours 54 minutes</strong> since this server shutdown
+Its been <strong> 18 hours 24 minutes</strong> since this server shutdown
