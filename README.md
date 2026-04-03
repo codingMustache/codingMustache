@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why can’t you hear a pterodactyl go to the bathroom? The p is silent.
+I was shocked when I was diagnosed as colorblind... It came out of the purple.
 
 
 ## Daily Trivia
 
-What was the first Android version specifically optimized for tablets?
- 1. Eclair
- 2. Froyo
- 3. Marshmellow
- 4. Honeycomb
+The teapot often seen in many 3D modeling applications is called what?
+ 1. Pixar Teapot
+ 2. Utah Teapot
+ 3. 3D Teapot
+ 4. Tennessee Teapot
 
 <details>
   <summary>Answer</summary>
-  Honeycomb
+  Utah Teapot
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 12 hours 54 minutes</strong> since this server shutdown
+Its been <strong> 13 hours 24 minutes</strong> since this server shutdown
