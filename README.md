@@ -27,23 +27,25 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A book just fell on my head. I only have my shelf to blame.
+Why did Mozart kill all his chickens?
+Because when he asked them who the best composer was, they'd all say "Bach bach bach!"
+
 
 
 ## Daily Trivia
 
-On which day did the World Wide Web go online?
- 1. December 17, 1996
- 2. November 12, 1990
- 3. December 20, 1990
- 4. November 24, 1995
+The numbering system with a radix of 16 is more commonly referred to as 
+ 1. Hexidecimal
+ 2. Octal
+ 3. Duodecimal
+ 4. Binary
 
 <details>
   <summary>Answer</summary>
-  December 20, 1990
+  Hexidecimal
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  1 hours 24 minutes</strong> since this server shutdown
+Its been <strong>1 days  1 hours 54 minutes</strong> since this server shutdown
