@@ -27,25 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did Mozart kill all his chickens?
-Because when he asked them who the best composer was, they'd all say "Bach bach bach!"
-
+How many South Americans does it take to change a lightbulb? A Brazilian
 
 
 ## Daily Trivia
 
-The numbering system with a radix of 16 is more commonly referred to as 
- 1. Hexidecimal
- 2. Octal
- 3. Duodecimal
- 4. Binary
+CMOS is tech used for constructing integrated circuits. What does CMOS stand for?
+ 1. Computer-made oscillating static
+ 2. Complementary metal&ndash;oxide&ndash;semiconductor
+ 3. Computer-made operating system
+ 4. Complementary magnetic-ohms-semiconductor
 
 <details>
   <summary>Answer</summary>
-  Hexidecimal
+  Complementary metal&ndash;oxide&ndash;semiconductor
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  1 hours 54 minutes</strong> since this server shutdown
+Its been <strong>1 days  2 hours 24 minutes</strong> since this server shutdown
