@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-To the guy who invented zero... thanks for nothing.
+My new thesaurus is terrible. In fact, it's so bad, I'd say it's terrible.
 
 
 ## Daily Trivia
 
-What does the term USB stand for?
- 1. Universal Simtex Blot
- 2. Unified Signal Bus
- 3. Unityped Semtex Backer
- 4. Universal Serial Bus
+On which computer hardware device is the BIOS chip located?
+ 1. Hard Disk Drive
+ 2. Motherboard
+ 3. Central Processing Unit
+ 4. Graphics Processing Unit
 
 <details>
   <summary>Answer</summary>
-  Universal Serial Bus
+  Motherboard
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 16 hours 24 minutes</strong> since this server shutdown
+Its been <strong> 16 hours 54 minutes</strong> since this server shutdown
