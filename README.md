@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I tried taking some high resolution photos of local farmland, but they all turned out a bit grainy.
+Want to hear a joke about construction? Nah, I'm still working on it.
 
 
 ## Daily Trivia
 
-What is the number of keys on a standard Windows Keyboard?
- 1. 64
- 2. 94
- 3. 76
- 4. 104
+CMOS is tech used for constructing integrated circuits. What does CMOS stand for?
+ 1. Complementary metal&ndash;oxide&ndash;semiconductor
+ 2. Computer-made oscillating static
+ 3. Computer-made operating system
+ 4. Complementary magnetic-ohms-semiconductor
 
 <details>
   <summary>Answer</summary>
-  104
+  Complementary metal&ndash;oxide&ndash;semiconductor
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  6 hours 54 minutes</strong> since this server shutdown
+Its been <strong>1 days  7 hours 24 minutes</strong> since this server shutdown
