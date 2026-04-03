@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Yesterday I confused the words "jacuzzi" and "yakuza". Now I'm in hot water with the Japanese mafia.
+Dad I’m hungry’ … ‘Hi hungry I’m dad
 
 
 ## Daily Trivia
 
-What five letter word is the motto of the IBM Computer company?
- 1. Click
- 2. Think
- 3. Logic
- 4. Pixel
+The programming language &#039;Swift&#039; was created to replace what other programming language?
+ 1. C#
+ 2. Ruby
+ 3. C++
+ 4. Objective-C
 
 <details>
   <summary>Answer</summary>
-  Think
+  Objective-C
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 18 hours 54 minutes</strong> since this server shutdown
+Its been <strong> 19 hours 24 minutes</strong> since this server shutdown
