@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I couldn't get a reservation at the library. They were completely booked.
+What do you call an alligator in a vest? An in-vest-igator!
 
 
 ## Daily Trivia
 
-How long is an IPv6 address?
- 1. 32 bits
- 2. 64 bits
- 3. 128 bytes
- 4. 128 bits
+Which of the following physical typologies are used with Ethernet Networks?
+ 1. Mesh
+ 2. Ring
+ 3. Star
+ 4. Hex
 
 <details>
   <summary>Answer</summary>
-  128 bits
+  Star
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 17 hours 24 minutes</strong> since this server shutdown
+Its been <strong> 17 hours 54 minutes</strong> since this server shutdown
