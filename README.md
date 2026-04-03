@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I asked a frenchman if he played video games. He said "Wii"
+Camping is intense.
 
 
 ## Daily Trivia
 
-What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
- 1. Network
- 2. Data link
- 3. Transport
- 4. Session
+The acronym &quot;RIP&quot; stands for which of these?
+ 1. Runtime Instance Processes
+ 2. Routing Information Protocol
+ 3. Regular Interval Processes
+ 4. Routine Inspection Protocol
 
 <details>
   <summary>Answer</summary>
-  Transport
+  Routing Information Protocol
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 23 hours 24 minutes</strong> since this server shutdown
+Its been <strong> 23 hours 54 minutes</strong> since this server shutdown
