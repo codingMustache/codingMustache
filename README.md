@@ -16,34 +16,34 @@ Hello I'm Jorge and I love making things for the internet
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://image.tmdb.org/t/p/w300_and_h300_face/s3OIDrCErUjthsnPPreY7XktQXB.jpg" alt="The Walking Dead" width="100%" height="auto"/></td>
-      <td><strong>The Walking Dead</strong></td>
-      <td><code>S09E14</code> <em>Scars</em></td>
-      <td>⭐ 8.08 / 10</td>
-      <td>Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way.</td>
+      <td><img src="https://image.tmdb.org/t/p/w300_and_h300_face/ipiqT5uHeJudWy9ICSvuCby7NeI.jpg" alt="Jury Duty" width="100%" height="auto"/></td>
+      <td><strong>Jury Duty</strong></td>
+      <td><code>S01E07</code> <em>Deliberations</em></td>
+      <td>⭐ 7.63 / 10</td>
+      <td>The inner workings of an American jury trial through the eyes of one particular juror, Ronald Gladden. Gladden is unaware the entire case is fake, everyone except him is an actor and everything that happens — inside the courtroom and out — is carefully planned.</td>
     </tr>
   </tbody>
 </table>
 
 ## Joke of the Day
 
-What don't watermelons get married? Because they cantaloupe.
+Today a girl said she recognized me from vegetarian club, but I’m sure I’ve never met herbivore.
 
 
 ## Daily Trivia
 
-What was the name given to Android 4.3?
- 1. Jelly Bean
- 2. Lollipop
- 3. Nutella
- 4. Froyo
+Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
+ 1. eBay
+ 2. Overstock
+ 3. Amazon
+ 4. Shopify
 
 <details>
   <summary>Answer</summary>
-  Jelly Bean
+  Amazon
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  2 hours 54 minutes</strong> since this server shutdown
+Its been <strong>1 days  3 hours 24 minutes</strong> since this server shutdown
