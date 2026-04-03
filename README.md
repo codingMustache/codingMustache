@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you tell the difference between a crocodile and an alligator? You will see one later and one in a while.
+How many apples grow on a tree? All of them!
 
 
 ## Daily Trivia
 
-How many bits make up the significand portion of a single precision floating point number?
- 1. 8
- 2. 23
- 3. 53
- 4. 15
+In computing, what does LAN stand for?
+ 1. Local Area Network
+ 2. Light Access Node
+ 3. Long Antenna Node
+ 4. Land Address Navigation
 
 <details>
   <summary>Answer</summary>
-  23
+  Local Area Network
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 15 hours 24 minutes</strong> since this server shutdown
+Its been <strong> 15 hours 54 minutes</strong> since this server shutdown
