@@ -27,23 +27,25 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the bread factory burning down? They say the business is toast.
+How many seconds are in a year?
+12.
+January 2nd, February 2nd, March 2nd, April 2nd.... etc
 
 
 ## Daily Trivia
 
-Which of these names was an actual codename for a cancelled Microsoft project?
- 1. Neptune
- 2. Saturn
- 3. Pollux
- 4. Enceladus
+What five letter word is the motto of the IBM Computer company?
+ 1. Think
+ 2. Pixel
+ 3. Logic
+ 4. Click
 
 <details>
   <summary>Answer</summary>
-  Neptune
+  Think
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 20 hours 54 minutes</strong> since this server shutdown
+Its been <strong> 21 hours 24 minutes</strong> since this server shutdown
