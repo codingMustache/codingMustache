@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I met this girl on a dating site and, I don't know, we just clicked.
+I tried taking some high resolution photos of local farmland, but they all turned out a bit grainy.
 
 
 ## Daily Trivia
 
-What does the &quot;MP&quot; stand for in MP3?
- 1. Micro Point
- 2. Multi Pass
- 3. Moving Picture
- 4. Music Player
+What is the number of keys on a standard Windows Keyboard?
+ 1. 64
+ 2. 94
+ 3. 76
+ 4. 104
 
 <details>
   <summary>Answer</summary>
-  Moving Picture
+  104
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  6 hours 24 minutes</strong> since this server shutdown
+Its been <strong>1 days  6 hours 54 minutes</strong> since this server shutdown
