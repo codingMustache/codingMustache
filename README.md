@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do choirs keep buckets handy? So they can carry their tune
+What does a female snake use for support? A co-Bra!
 
 
 ## Daily Trivia
 
-On which computer hardware device is the BIOS chip located?
- 1. Hard Disk Drive
- 2. Central Processing Unit
- 3. Graphics Processing Unit
- 4. Motherboard
+What does CPU stand for?
+ 1. Central Process Unit
+ 2. Computer Personal Unit
+ 3. Central Processor Unit
+ 4. Central Processing Unit
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  Central Processing Unit
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  9 hours 24 minutes</strong> since this server shutdown
+Its been <strong>1 days  9 hours 54 minutes</strong> since this server shutdown
