@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you get when you cross a rabbit with a water hose? Hare spray.
+Why do choirs keep buckets handy? So they can carry their tune
 
 
 ## Daily Trivia
 
-Which one of these is not an official development name for a Ubuntu release?
- 1. Trusty Tahr
- 2. Utopic Unicorn
- 3. Wily Werewolf
- 4. Mystic Mansion
+On which computer hardware device is the BIOS chip located?
+ 1. Hard Disk Drive
+ 2. Central Processing Unit
+ 3. Graphics Processing Unit
+ 4. Motherboard
 
 <details>
   <summary>Answer</summary>
-  Mystic Mansion
+  Motherboard
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  8 hours 54 minutes</strong> since this server shutdown
+Its been <strong>1 days  9 hours 24 minutes</strong> since this server shutdown
