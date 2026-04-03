@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why is there always a gate around cemeteries? Because people are always dying to get in.
+I asked a frenchman if he played video games. He said "Wii"
 
 
 ## Daily Trivia
 
-In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
- 1. Blue
- 2. Green
- 3. Yellow
- 4. Red
+What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
+ 1. Network
+ 2. Data link
+ 3. Transport
+ 4. Session
 
 <details>
   <summary>Answer</summary>
-  Green
+  Transport
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 22 hours 54 minutes</strong> since this server shutdown
+Its been <strong> 23 hours 24 minutes</strong> since this server shutdown
