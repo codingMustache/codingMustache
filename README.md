@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Camping is intense.
+I tried taking some high resolution photos of local farmland, but they all turned out a bit grainy.
 
 
 ## Daily Trivia
 
-The acronym &quot;RIP&quot; stands for which of these?
- 1. Runtime Instance Processes
- 2. Routing Information Protocol
- 3. Regular Interval Processes
- 4. Routine Inspection Protocol
+What was the name of the image that features as the default background wallpaper for Windows XP?
+ 1. Azul
+ 2. Red moon desert
+ 3. Bliss
+ 4. Tulips
 
 <details>
   <summary>Answer</summary>
-  Routing Information Protocol
+  Bliss
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 23 hours 54 minutes</strong> since this server shutdown
+Its been <strong>1 days 24 minutes</strong> since this server shutdown
