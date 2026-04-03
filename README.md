@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What does an angry pepper do? It gets jalapeño face.
+Camping is intense.
 
 
 ## Daily Trivia
 
-Which of the following is the oldest of these computers by release date?
- 1. TRS-80
- 2. ZX Spectrum
- 3. Commodore 64
- 4. Apple 3
+What is the number of keys on a standard Windows Keyboard?
+ 1. 104
+ 2. 76
+ 3. 94
+ 4. 64
 
 <details>
   <summary>Answer</summary>
-  TRS-80
+  104
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 13 hours 54 minutes</strong> since this server shutdown
+Its been <strong> 14 hours 24 minutes</strong> since this server shutdown
