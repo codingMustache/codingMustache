@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What’s Forest Gump’s Facebook password? 1forest1
+Yesterday I confused the words "jacuzzi" and "yakuza". Now I'm in hot water with the Japanese mafia.
 
 
 ## Daily Trivia
 
-What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
- 1. Network
- 2. Data link
- 3. Transport
- 4. Session
+What five letter word is the motto of the IBM Computer company?
+ 1. Click
+ 2. Think
+ 3. Logic
+ 4. Pixel
 
 <details>
   <summary>Answer</summary>
-  Transport
+  Think
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 18 hours 24 minutes</strong> since this server shutdown
+Its been <strong> 18 hours 54 minutes</strong> since this server shutdown
