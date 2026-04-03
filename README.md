@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-To the person who stole my anti-depressant pills: I hope you're happy now.
+Did you hear about the bread factory burning down? They say the business is toast.
 
 
 ## Daily Trivia
 
-Which of the following is the oldest of these computers by release date?
- 1. TRS-80
- 2. ZX Spectrum
- 3. Apple 3
- 4. Commodore 64
+Which of these names was an actual codename for a cancelled Microsoft project?
+ 1. Neptune
+ 2. Saturn
+ 3. Pollux
+ 4. Enceladus
 
 <details>
   <summary>Answer</summary>
-  TRS-80
+  Neptune
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 20 hours 24 minutes</strong> since this server shutdown
+Its been <strong> 20 hours 54 minutes</strong> since this server shutdown
