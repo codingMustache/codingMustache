@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where did Captain Hook get his hook? From a second hand store.
+How many hipsters does it take to change a lightbulb? Oh, it's a really obscure number. You've probably never heard of it.
 
 
 ## Daily Trivia
 
-Whistler was the codename of this Microsoft Operating System.
- 1. Windows XP
- 2. Windows 95
- 3. Windows 7
- 4. Windows 2000
+In computing terms, typically what does CLI stand for?
+ 1. Command Line Interface
+ 2. Common Language Interface
+ 3. Control Line Interface
+ 4. Common Language Input
 
 <details>
   <summary>Answer</summary>
-  Windows XP
+  Command Line Interface
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  1 hours 24 minutes</strong> since this server shutdown
+Its been <strong>2 days  1 hours 54 minutes</strong> since this server shutdown
