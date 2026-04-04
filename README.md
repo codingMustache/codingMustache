@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of dinosaur loves to sleep? A stega-snore-us.
+What's orange and sounds like a parrot? A Carrot.
 
 
 ## Daily Trivia
 
-Which one of these is not an official development name for a Ubuntu release?
- 1. Wily Werewolf
- 2. Utopic Unicorn
- 3. Trusty Tahr
- 4. Mystic Mansion
+What is the commonly used keyboard shortcut for the &#039;Copy&#039; function on Windows OS?
+ 1. Alt + C
+ 2. Ctrl + X
+ 3. Ctrl + C
+ 4. Alt + X
 
 <details>
   <summary>Answer</summary>
-  Mystic Mansion
+  Ctrl + C
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  16 hours 54 minutes</strong> since this server shutdown
+Its been <strong>1 days  17 hours 24 minutes</strong> since this server shutdown
