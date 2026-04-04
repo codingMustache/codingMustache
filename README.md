@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why is Peter Pan always flying? Because he Neverlands.
+My cat was just sick on the carpet, I don’t think it’s feline well.
 
 
 ## Daily Trivia
 
-What is the maximum value of a 32-bit signed binary integer?
- 1. 2,147,483,647
- 2. 2048
- 3. 255
- 4. 9,223,372,036,854,775,807
+Which of the following is NOT a computer science algorithm?
+ 1. Float Sort
+ 2. Merge Sort
+ 3. Bubble Sort
+ 4. Quick Sort
 
 <details>
   <summary>Answer</summary>
-  2,147,483,647
+  Float Sort
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  19 hours 24 minutes</strong> since this server shutdown
+Its been <strong>1 days  19 hours 54 minutes</strong> since this server shutdown
