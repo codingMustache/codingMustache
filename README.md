@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Want to hear my pizza joke? Never mind, it's too cheesy.
+When you have a bladder infection, urine trouble.
 
 
 ## Daily Trivia
 
-Which of the following is the oldest of these computers by release date?
- 1. Apple 3
- 2. TRS-80
- 3. ZX Spectrum
- 4. Commodore 64
+Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
+ 1. Clipper Chip
+ 2. Nautilus
+ 3. Skipjack
+ 4. Enigma Machine
 
 <details>
   <summary>Answer</summary>
-  TRS-80
+  Clipper Chip
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  14 hours 24 minutes</strong> since this server shutdown
+Its been <strong>1 days  14 hours 54 minutes</strong> since this server shutdown
