@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-“Hold on, I have something in my shoe”  “I’m pretty sure it’s a foot”
+Want to hear my pizza joke? Never mind, it's too cheesy.
 
 
 ## Daily Trivia
 
-If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
- 1. JavaScript
- 2. C++
- 3. Binary
- 4. Python
+Which of the following is the oldest of these computers by release date?
+ 1. Apple 3
+ 2. TRS-80
+ 3. ZX Spectrum
+ 4. Commodore 64
 
 <details>
   <summary>Answer</summary>
-  Binary
+  TRS-80
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  13 hours 54 minutes</strong> since this server shutdown
+Its been <strong>1 days  14 hours 24 minutes</strong> since this server shutdown
