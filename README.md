@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Dermatologists are always in a hurry. They spend all day making rash decisions. 
+Why did the Clydesdale give the pony a glass of water?  Because he was a little horse!
 
 
 ## Daily Trivia
 
-What language does Node.js use?
- 1. Joomla Source Code
- 2. JavaScript
- 3. Java Source
- 4. Java
+What was the name of the image that features as the default background wallpaper for Windows XP?
+ 1. Red moon desert
+ 2. Azul
+ 3. Tulips
+ 4. Bliss
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  Bliss
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  18 hours 24 minutes</strong> since this server shutdown
+Its been <strong>1 days  18 hours 54 minutes</strong> since this server shutdown
