@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A quick shoutout to all of the sidewalks out there... Thanks for keeping me off the streets.
+I saw a documentary on TV last night about how they put ships together.  It was rivetting.
 
 
 ## Daily Trivia
 
-Who invented the &quot;Spanning Tree Protocol&quot;?
- 1. Radia Perlman
- 2. Michael Roberts
- 3. Vint Cerf
- 4. Paul Vixie
+What is the name of Layer 7 of the OSI model?
+ 1. Session
+ 2. Network
+ 3. Present
+ 4. Application
 
 <details>
   <summary>Answer</summary>
-  Radia Perlman
+  Application
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  23 hours 54 minutes</strong> since this server shutdown
+Its been <strong>2 days 24 minutes</strong> since this server shutdown
