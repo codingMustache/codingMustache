@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What are the strongest days of the week? Saturday and Sunday...the rest are weekdays.
+What do Alexander the Great and Winnie the Pooh have in common? Same middle name.
 
 
 ## Daily Trivia
 
-What was the first company to use the term &quot;Golden Master&quot;?
- 1. IBM
- 2. Google
- 3. Microsoft
- 4. Apple
+All of the following programs are classified as raster graphics editors EXCEPT:
+ 1. Adobe Photoshop
+ 2. GIMP
+ 3. Inkscape
+ 4. Paint.NET
 
 <details>
   <summary>Answer</summary>
-  Apple
+  Inkscape
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  3 hours 54 minutes</strong> since this server shutdown
+Its been <strong>2 days  4 hours 24 minutes</strong> since this server shutdown
