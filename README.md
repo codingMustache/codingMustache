@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The best time on a clock is 6:30--hands down.
+I accidentally took my cats meds last night. Don’t ask meow.
 
 
 ## Daily Trivia
 
-According to the International System of Units, how many bytes are in a kilobyte of RAM?
- 1. 512
- 2. 1000
- 3. 1024
- 4. 500
+What kind of memory is used on memory cache?
+ 1. DRAM
+ 2. ROM
+ 3. Flash
+ 4. SRAM
 
 <details>
   <summary>Answer</summary>
-  1000
+  SRAM
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  22 hours 24 minutes</strong> since this server shutdown
+Its been <strong>1 days  22 hours 54 minutes</strong> since this server shutdown
