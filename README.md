@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I knew i shouldn’t have ate that seafood. Because now i’m feeling a little… Eel
+"What time is it?" I don't know... it keeps changing.
 
 
 ## Daily Trivia
 
-What does GHz stand for?
- 1. Gigahertz
- 2. Gigahetz
- 3. Gigahotz
- 4. Gigahatz
+What amount of bits commonly equals one byte?
+ 1. 1
+ 2. 2
+ 3. 64
+ 4. 8
 
 <details>
   <summary>Answer</summary>
-  Gigahertz
+  8
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  6 hours 54 minutes</strong> since this server shutdown
+Its been <strong>2 days  7 hours 24 minutes</strong> since this server shutdown
