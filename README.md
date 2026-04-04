@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How does a French skeleton say hello? Bone-jour.
+What's the best thing about elevator jokes? They work on so many levels.
 
 
 ## Daily Trivia
 
-What did the name of the Tor Anonymity Network orignially stand for?
- 1. The Only Router
- 2. The Orange Router
- 3. The Ominous Router
- 4. The Onion Router
+What is the code name for the mobile operating system Android 7.0?
+ 1. Jelly Bean
+ 2. Ice Cream Sandwich
+ 3. Marshmallow
+ 4. Nougat
 
 <details>
   <summary>Answer</summary>
-  The Onion Router
+  Nougat
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  15 hours 54 minutes</strong> since this server shutdown
+Its been <strong>1 days  16 hours 24 minutes</strong> since this server shutdown
