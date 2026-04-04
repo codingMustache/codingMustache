@@ -18,7 +18,7 @@ Hello I'm Jorge and I love making things for the internet
     <tr>
       <td><img src="https://image.tmdb.org/t/p/w300_and_h300_face/3CRKP1KJvloaUB89eDOAdFv3Tok.jpg" alt="Jury Duty Presents: Company Retreat" width="100%" height="auto"/></td>
       <td><strong>Jury Duty Presents: Company Retreat</strong></td>
-      <td><code>S01E03</code> <em>Soft Launch</em></td>
+      <td><code>S01E04</code> <em>Accountability</em></td>
       <td>⭐ 5.4 / 10</td>
       <td>Anthony, a real temp, is hired at Rockin' Grandma's Hot Sauce (a fake company) for its annual retreat - the final one for the company's CEO Doug before retirement. Doug's son Dougie Jr. struggles to prove his leadership abilities while a polished private-equity team courts the company for acquisition.</td>
     </tr>
@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a snake who builds houses? A boa constructor!
+I knew i shouldn’t have ate that seafood. Because now i’m feeling a little… Eel
 
 
 ## Daily Trivia
 
-On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
- 1. Exclamation Mark
- 2. Asterisk
- 3. Percent Sign
- 4. Dollar Sign
+What does GHz stand for?
+ 1. Gigahertz
+ 2. Gigahetz
+ 3. Gigahotz
+ 4. Gigahatz
 
 <details>
   <summary>Answer</summary>
-  Exclamation Mark
+  Gigahertz
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  6 hours 24 minutes</strong> since this server shutdown
+Its been <strong>2 days  6 hours 54 minutes</strong> since this server shutdown
