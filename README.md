@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The biggest knight at King Arthur's round table was Sir Cumference. He acquired his size from eating too much pi.
+There are two types of people in this world, those who can extrapolate from incomplete data...
 
 
 ## Daily Trivia
 
-How many values can a single byte represent?
- 1. 1024
- 2. 256
- 3. 1
- 4. 8
+What does the term USB stand for?
+ 1. Unityped Semtex Backer
+ 2. Unified Signal Bus
+ 3. Universal Simtex Blot
+ 4. Universal Serial Bus
 
 <details>
   <summary>Answer</summary>
-  256
+  Universal Serial Bus
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  21 hours 24 minutes</strong> since this server shutdown
+Its been <strong>1 days  21 hours 54 minutes</strong> since this server shutdown
