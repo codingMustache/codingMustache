@@ -16,34 +16,34 @@ Hello I'm Jorge and I love making things for the internet
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://image.tmdb.org/t/p/w300_and_h300_face/ipiqT5uHeJudWy9ICSvuCby7NeI.jpg" alt="Jury Duty" width="100%" height="auto"/></td>
-      <td><strong>Jury Duty</strong></td>
-      <td><code>S01E08</code> <em>The Verdict</em></td>
-      <td>⭐ 7.63 / 10</td>
-      <td>The inner workings of an American jury trial through the eyes of one particular juror, Ronald Gladden. Gladden is unaware the entire case is fake, everyone except him is an actor and everything that happens — inside the courtroom and out — is carefully planned.</td>
+      <td><img src="https://image.tmdb.org/t/p/w300_and_h300_face/s3OIDrCErUjthsnPPreY7XktQXB.jpg" alt="The Walking Dead" width="100%" height="auto"/></td>
+      <td><strong>The Walking Dead</strong></td>
+      <td><code>S09E15</code> <em>The Calm Before</em></td>
+      <td>⭐ 8.08 / 10</td>
+      <td>Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way.</td>
     </tr>
   </tbody>
 </table>
 
 ## Joke of the Day
 
-Have you heard about the film "Constipation", you probably haven't because it's not out yet.
+Remember, the best angle to approach a problem from is the "try" angle.
 
 
 ## Daily Trivia
 
-What was the name of the first Bulgarian personal computer?
- 1. IMKO-1
- 2. Pravetz 82
- 3. Pravetz 8D
- 4. IZOT 1030
+What is the main CPU is the Sega Mega Drive / Sega Genesis?
+ 1. Motorola 68000
+ 2. Intel 8088
+ 3. Yamaha YM2612
+ 4. Zilog Z80
 
 <details>
   <summary>Answer</summary>
-  IMKO-1
+  Motorola 68000
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  12 hours 24 minutes</strong> since this server shutdown
+Its been <strong>1 days  12 hours 54 minutes</strong> since this server shutdown
