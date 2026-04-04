@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The Swiss must've been pretty confident in their chances of victory if they included a corkscrew in their army knife.
+How does a French skeleton say hello? Bone-jour.
 
 
 ## Daily Trivia
 
-What was Bitcoin&#039;s block size limit in 2010?
- 1. 1 KB
- 2. 1 MB
- 3. 1GB
- 4. 1 TB
+What did the name of the Tor Anonymity Network orignially stand for?
+ 1. The Only Router
+ 2. The Orange Router
+ 3. The Ominous Router
+ 4. The Onion Router
 
 <details>
   <summary>Answer</summary>
-  1 MB
+  The Onion Router
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  15 hours 24 minutes</strong> since this server shutdown
+Its been <strong>1 days  15 hours 54 minutes</strong> since this server shutdown
