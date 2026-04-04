@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Geology rocks, but Geography is where it's at!
+I broke my finger at work today, on the other hand I'm completely fine.
 
 
 ## Daily Trivia
 
-Which RAID array type is associated with data mirroring?
- 1. RAID 1
- 2. RAID 5
- 3. RAID 10
- 4. RAID 0
+In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
+ 1. Red
+ 2. Blue
+ 3. Yellow
+ 4. Green
 
 <details>
   <summary>Answer</summary>
-  RAID 1
+  Green
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  20 hours 24 minutes</strong> since this server shutdown
+Its been <strong>1 days  20 hours 54 minutes</strong> since this server shutdown
