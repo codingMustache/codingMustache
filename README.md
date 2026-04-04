@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-There are two types of people in this world, those who can extrapolate from incomplete data...
+The best time on a clock is 6:30--hands down.
 
 
 ## Daily Trivia
 
-What does the term USB stand for?
- 1. Unityped Semtex Backer
- 2. Unified Signal Bus
- 3. Universal Simtex Blot
- 4. Universal Serial Bus
+According to the International System of Units, how many bytes are in a kilobyte of RAM?
+ 1. 512
+ 2. 1000
+ 3. 1024
+ 4. 500
 
 <details>
   <summary>Answer</summary>
-  Universal Serial Bus
+  1000
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  21 hours 54 minutes</strong> since this server shutdown
+Its been <strong>1 days  22 hours 24 minutes</strong> since this server shutdown
