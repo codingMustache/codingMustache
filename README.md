@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the burglar hang his mugshot on the wall? To prove that he was framed!
+What are the strongest days of the week? Saturday and Sunday...the rest are weekdays.
 
 
 ## Daily Trivia
 
-Which of these programming languages is a low-level language?
- 1. Pascal
- 2. C#
- 3. Python
- 4. Assembly
+What was the first company to use the term &quot;Golden Master&quot;?
+ 1. IBM
+ 2. Google
+ 3. Microsoft
+ 4. Apple
 
 <details>
   <summary>Answer</summary>
-  Assembly
+  Apple
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  3 hours 24 minutes</strong> since this server shutdown
+Its been <strong>2 days  3 hours 54 minutes</strong> since this server shutdown
