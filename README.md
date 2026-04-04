@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the best thing about elevator jokes? They work on so many levels.
+What kind of dinosaur loves to sleep? A stega-snore-us.
 
 
 ## Daily Trivia
 
-What is the code name for the mobile operating system Android 7.0?
- 1. Jelly Bean
- 2. Ice Cream Sandwich
- 3. Marshmallow
- 4. Nougat
+Which one of these is not an official development name for a Ubuntu release?
+ 1. Wily Werewolf
+ 2. Utopic Unicorn
+ 3. Trusty Tahr
+ 4. Mystic Mansion
 
 <details>
   <summary>Answer</summary>
-  Nougat
+  Mystic Mansion
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  16 hours 24 minutes</strong> since this server shutdown
+Its been <strong>1 days  16 hours 54 minutes</strong> since this server shutdown
