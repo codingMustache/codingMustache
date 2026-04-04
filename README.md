@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-“My Dog has no nose.” “How does he smell?” “Awful”
+The other day I was listening to a song about superglue, it’s been stuck in my head ever since.
 
 
 ## Daily Trivia
 
-In computing, what does LAN stand for?
- 1. Land Address Navigation
- 2. Light Access Node
- 3. Long Antenna Node
- 4. Local Area Network
+What is the most preferred image format used for logos in the Wikimedia database?
+ 1. .svg
+ 2. .gif
+ 3. .jpeg
+ 4. .png
 
 <details>
   <summary>Answer</summary>
-  Local Area Network
+  .svg
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  11 hours 24 minutes</strong> since this server shutdown
+Its been <strong>1 days  11 hours 54 minutes</strong> since this server shutdown
