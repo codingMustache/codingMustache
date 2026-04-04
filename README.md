@@ -27,23 +27,25 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I saw a documentary on TV last night about how they put ships together.  It was rivetting.
+I used to work at a stationery store.  But, I didn't feel like I was going anywhere.
+
+So, I got a job at a travel agency.  Now, I know I'll be going places.
 
 
 ## Daily Trivia
 
-What is the name of Layer 7 of the OSI model?
- 1. Session
- 2. Network
- 3. Present
- 4. Application
+What is the name of the process that sends one qubit of information using two bits of classical information?
+ 1. Quantum Programming
+ 2. Quantum Entanglement
+ 3. Super Dense Coding
+ 4. Quantum Teleportation
 
 <details>
   <summary>Answer</summary>
-  Application
+  Quantum Teleportation
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days 24 minutes</strong> since this server shutdown
+Its been <strong>2 days 54 minutes</strong> since this server shutdown
