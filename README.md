@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many hipsters does it take to change a lightbulb? Oh, it's a really obscure number. You've probably never heard of it.
+What do computers and air conditioners have in common? They both become useless when you open windows.
 
 
 ## Daily Trivia
 
-In computing terms, typically what does CLI stand for?
- 1. Command Line Interface
- 2. Common Language Interface
- 3. Control Line Interface
- 4. Common Language Input
+What does the acronym CDN stand for in terms of networking?
+ 1. Content Delivery Network
+ 2. Compressed Data Network
+ 3. Computational Data Network
+ 4. Content Distribution Network
 
 <details>
   <summary>Answer</summary>
-  Command Line Interface
+  Content Delivery Network
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  1 hours 54 minutes</strong> since this server shutdown
+Its been <strong>2 days  2 hours 24 minutes</strong> since this server shutdown
