@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's orange and sounds like a parrot? A Carrot.
+Parallel lines have so much in common. It’s a shame they’ll never meet.
 
 
 ## Daily Trivia
 
-What is the commonly used keyboard shortcut for the &#039;Copy&#039; function on Windows OS?
- 1. Alt + C
- 2. Ctrl + X
- 3. Ctrl + C
- 4. Alt + X
+Which SQL keyword is used to fetch data from a database?
+ 1. VALUES
+ 2. SELECT
+ 3. INDEX
+ 4. EXEC
 
 <details>
   <summary>Answer</summary>
-  Ctrl + C
+  SELECT
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  17 hours 24 minutes</strong> since this server shutdown
+Its been <strong>1 days  17 hours 54 minutes</strong> since this server shutdown
