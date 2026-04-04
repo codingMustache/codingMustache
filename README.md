@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do computers and air conditioners have in common? They both become useless when you open windows.
+A quick shoutout to all of the sidewalks out there... Thanks for keeping me off the streets.
 
 
 ## Daily Trivia
 
-What does the acronym CDN stand for in terms of networking?
- 1. Content Delivery Network
- 2. Compressed Data Network
- 3. Computational Data Network
- 4. Content Distribution Network
+What did the name of the Tor Anonymity Network orignially stand for?
+ 1. The Onion Router
+ 2. The Only Router
+ 3. The Ominous Router
+ 4. The Orange Router
 
 <details>
   <summary>Answer</summary>
-  Content Delivery Network
+  The Onion Router
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  2 hours 24 minutes</strong> since this server shutdown
+Its been <strong>2 days  2 hours 54 minutes</strong> since this server shutdown
