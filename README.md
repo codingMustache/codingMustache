@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why does Han Solo like gum? It's chewy!
+A quick shoutout to all of the sidewalks out there... Thanks for keeping me off the streets.
 
 
 ## Daily Trivia
 
-Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
- 1. Shopify
- 2. Amazon
- 3. eBay
- 4. Overstock
+Who invented the &quot;Spanning Tree Protocol&quot;?
+ 1. Radia Perlman
+ 2. Michael Roberts
+ 3. Vint Cerf
+ 4. Paul Vixie
 
 <details>
   <summary>Answer</summary>
-  Amazon
+  Radia Perlman
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  23 hours 24 minutes</strong> since this server shutdown
+Its been <strong>1 days  23 hours 54 minutes</strong> since this server shutdown
