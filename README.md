@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I accidentally took my cats meds last night. Don’t ask meow.
+Why does Han Solo like gum? It's chewy!
 
 
 ## Daily Trivia
 
-What kind of memory is used on memory cache?
- 1. DRAM
- 2. ROM
- 3. Flash
- 4. SRAM
+Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
+ 1. Shopify
+ 2. Amazon
+ 3. eBay
+ 4. Overstock
 
 <details>
   <summary>Answer</summary>
-  SRAM
+  Amazon
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  22 hours 54 minutes</strong> since this server shutdown
+Its been <strong>1 days  23 hours 24 minutes</strong> since this server shutdown
