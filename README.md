@@ -2,48 +2,40 @@
 
 Hello I'm Jorge and I love making things for the internet
 
-## 📺 Now Watching
+## 🎬 Now Watching
 
 <table>
-  <thead>
-    <tr>
-      <th>🖼️</th>
-      <th>Series</th>
-      <th>Season / Episode</th>
-      <th>Rating</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><img src="https://image.tmdb.org/t/p/w300_and_h300_face/3CRKP1KJvloaUB89eDOAdFv3Tok.jpg" alt="Jury Duty Presents: Company Retreat" width="100%" height="auto"/></td>
-      <td><strong>Jury Duty Presents: Company Retreat</strong></td>
-      <td><code>S01E07</code> <em>Mergers & Acquisitions</em></td>
-      <td>⭐ 5.4 / 10</td>
-      <td>Anthony, a real temp, is hired at Rockin' Grandma's Hot Sauce (a fake company) for its annual retreat - the final one for the company's CEO Doug before retirement. Doug's son Dougie Jr. struggles to prove his leadership abilities while a polished private-equity team courts the company for acquisition.</td>
-    </tr>
-  </tbody>
+  <tr>
+    <td valign="top" width="75%">
+      <h3>K-PAX</h3>
+      <p>undefined</p>
+      <p>⭐ <strong>undefined</strong> / 10</p>
+    </td>
+    <td valign="top" align="right">
+      <img src="undefined" alt="K-PAX" width="150px"/>
+    </td>
+  </tr>
 </table>
 
 ## Joke of the Day
 
-Doctor you've got to help me, I'm addicted to Twitter. Doctor: I don't follow you.
+what happens when you cross a sheep with a kangaroo ? A woolly jumper!
 
 
 ## Daily Trivia
 
-Lenovo acquired IBM&#039;s personal computer division, including the ThinkPad line of laptops and tablets, in what year?
- 1. 2005
- 2. 2008
- 3. 2002
- 4. 1999
+Which of the following is a personal computer made by the Japanese company Fujitsu?
+ 1. PC-9801
+ 2. Xmillennium 
+ 3. MSX
+ 4. FM-7
 
 <details>
   <summary>Answer</summary>
-  2005
+  FM-7
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  8 hours 54 minutes</strong> since this server shutdown
+Its been <strong>2 days  9 hours 24 minutes</strong> since this server shutdown
