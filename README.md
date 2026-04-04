@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A quick shoutout to all of the sidewalks out there... Thanks for keeping me off the streets.
+Why did the burglar hang his mugshot on the wall? To prove that he was framed!
 
 
 ## Daily Trivia
 
-What did the name of the Tor Anonymity Network orignially stand for?
- 1. The Onion Router
- 2. The Only Router
- 3. The Ominous Router
- 4. The Orange Router
+Which of these programming languages is a low-level language?
+ 1. Pascal
+ 2. C#
+ 3. Python
+ 4. Assembly
 
 <details>
   <summary>Answer</summary>
-  The Onion Router
+  Assembly
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  2 hours 54 minutes</strong> since this server shutdown
+Its been <strong>2 days  3 hours 24 minutes</strong> since this server shutdown
