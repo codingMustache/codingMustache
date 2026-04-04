@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the Clydesdale give the pony a glass of water?  Because he was a little horse!
+Why is Peter Pan always flying? Because he Neverlands.
 
 
 ## Daily Trivia
 
-What was the name of the image that features as the default background wallpaper for Windows XP?
- 1. Red moon desert
- 2. Azul
- 3. Tulips
- 4. Bliss
+What is the maximum value of a 32-bit signed binary integer?
+ 1. 2,147,483,647
+ 2. 2048
+ 3. 255
+ 4. 9,223,372,036,854,775,807
 
 <details>
   <summary>Answer</summary>
-  Bliss
+  2,147,483,647
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  18 hours 54 minutes</strong> since this server shutdown
+Its been <strong>1 days  19 hours 24 minutes</strong> since this server shutdown
