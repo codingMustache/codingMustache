@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Remember, the best angle to approach a problem from is the "try" angle.
+What do I look like? A JOKE MACHINE!?
 
 
 ## Daily Trivia
 
-What is the main CPU is the Sega Mega Drive / Sega Genesis?
- 1. Motorola 68000
- 2. Intel 8088
- 3. Yamaha YM2612
- 4. Zilog Z80
+How many kilobytes in one gigabyte (in decimal)?
+ 1. 1048576
+ 2. 1000
+ 3. 1000000
+ 4. 1024
 
 <details>
   <summary>Answer</summary>
-  Motorola 68000
+  1000000
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  12 hours 54 minutes</strong> since this server shutdown
+Its been <strong>1 days  13 hours 24 minutes</strong> since this server shutdown
