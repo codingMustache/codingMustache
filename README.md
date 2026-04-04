@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Parallel lines have so much in common. It’s a shame they’ll never meet.
+Dermatologists are always in a hurry. They spend all day making rash decisions. 
 
 
 ## Daily Trivia
 
-Which SQL keyword is used to fetch data from a database?
- 1. VALUES
- 2. SELECT
- 3. INDEX
- 4. EXEC
+What language does Node.js use?
+ 1. Joomla Source Code
+ 2. JavaScript
+ 3. Java Source
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  SELECT
+  JavaScript
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  17 hours 54 minutes</strong> since this server shutdown
+Its been <strong>1 days  18 hours 24 minutes</strong> since this server shutdown
