@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-When you have a bladder infection, urine trouble.
+The Swiss must've been pretty confident in their chances of victory if they included a corkscrew in their army knife.
 
 
 ## Daily Trivia
 
-Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
- 1. Clipper Chip
- 2. Nautilus
- 3. Skipjack
- 4. Enigma Machine
+What was Bitcoin&#039;s block size limit in 2010?
+ 1. 1 KB
+ 2. 1 MB
+ 3. 1GB
+ 4. 1 TB
 
 <details>
   <summary>Answer</summary>
-  Clipper Chip
+  1 MB
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  14 hours 54 minutes</strong> since this server shutdown
+Its been <strong>1 days  15 hours 24 minutes</strong> since this server shutdown
