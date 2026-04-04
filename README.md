@@ -2,48 +2,40 @@
 
 Hello I'm Jorge and I love making things for the internet
 
-## 📺 Now Watching
+## 🎬 Now Watching
 
 <table>
-  <thead>
-    <tr>
-      <th>🖼️</th>
-      <th>Series</th>
-      <th>Season / Episode</th>
-      <th>Rating</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><img src="https://image.tmdb.org/t/p/w300_and_h300_face/s3OIDrCErUjthsnPPreY7XktQXB.jpg" alt="The Walking Dead" width="100%" height="auto"/></td>
-      <td><strong>The Walking Dead</strong></td>
-      <td><code>S09E16</code> <em>The Storm</em></td>
-      <td>⭐ 8.08 / 10</td>
-      <td>Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way.</td>
-    </tr>
-  </tbody>
+  <tr>
+    <td valign="top" width="75%">
+      <h3>K-PAX</h3>
+      <p>undefined</p>
+      <p>⭐ <strong>undefined</strong> / 10</p>
+    </td>
+    <td valign="top" align="right">
+      <img src="undefined" alt="K-PAX" width="150px"/>
+    </td>
+  </tr>
 </table>
 
 ## Joke of the Day
 
-What do Alexander the Great and Winnie the Pooh have in common? Same middle name.
+Where does batman go to the bathroom? The batroom.
 
 
 ## Daily Trivia
 
-All of the following programs are classified as raster graphics editors EXCEPT:
- 1. Adobe Photoshop
- 2. GIMP
- 3. Inkscape
- 4. Paint.NET
+Which of the following physical typologies are used with Ethernet Networks?
+ 1. Star
+ 2. Hex
+ 3. Mesh
+ 4. Ring
 
 <details>
   <summary>Answer</summary>
-  Inkscape
+  Star
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  4 hours 24 minutes</strong> since this server shutdown
+Its been <strong>2 days  4 hours 54 minutes</strong> since this server shutdown
