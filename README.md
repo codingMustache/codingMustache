@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I broke my finger at work today, on the other hand I'm completely fine.
+The biggest knight at King Arthur's round table was Sir Cumference. He acquired his size from eating too much pi.
 
 
 ## Daily Trivia
 
-In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
- 1. Red
- 2. Blue
- 3. Yellow
- 4. Green
+How many values can a single byte represent?
+ 1. 1024
+ 2. 256
+ 3. 1
+ 4. 8
 
 <details>
   <summary>Answer</summary>
-  Green
+  256
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  20 hours 54 minutes</strong> since this server shutdown
+Its been <strong>1 days  21 hours 24 minutes</strong> since this server shutdown
