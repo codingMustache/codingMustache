@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Today, my son asked "Can I have a book mark?" and I burst into tears. 11 years old and he still doesn't know my name is Brian.
+What kind of tree fits in your hand? A palm tree!
 
 
 ## Daily Trivia
 
-How many kilobytes in one gigabyte (in decimal)?
- 1. 1000
- 2. 1000000
- 3. 1048576
- 4. 1024
+Which of the following computer components can be built using only NAND gates?
+ 1. RAM
+ 2. ALU
+ 3. CPU
+ 4. Register
 
 <details>
   <summary>Answer</summary>
-  1000000
+  ALU
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  14 hours 24 minutes</strong> since this server shutdown
+Its been <strong>2 days  14 hours 54 minutes</strong> since this server shutdown
