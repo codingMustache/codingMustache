@@ -18,7 +18,7 @@ Hello I'm Jorge and I love making things for the internet
     <tr>
       <td><img src="https://image.tmdb.org/t/p/w300_and_h300_face/s3OIDrCErUjthsnPPreY7XktQXB.jpg" alt="The Walking Dead" width="100%" height="auto"/></td>
       <td><strong>The Walking Dead</strong></td>
-      <td><code>S10E01</code> <em>Lines We Cross</em></td>
+      <td><code>S10E02</code> <em>We Are the End of the World</em></td>
       <td>⭐ 8.08 / 10</td>
       <td>Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way.</td>
     </tr>
@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of tree fits in your hand? A palm tree!
+What do you call a droid that takes the long way around? R2 detour.
 
 
 ## Daily Trivia
 
-Which of the following computer components can be built using only NAND gates?
- 1. RAM
- 2. ALU
- 3. CPU
- 4. Register
+Approximately how many Apple I personal computers were created?
+ 1. 100
+ 2. 500
+ 3. 1000
+ 4. 200
 
 <details>
   <summary>Answer</summary>
-  ALU
+  200
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  14 hours 54 minutes</strong> since this server shutdown
+Its been <strong>2 days  15 hours 24 minutes</strong> since this server shutdown
