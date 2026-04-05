@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call an elephant that doesn’t matter? An irrelephant.
+What do you call a fake noodle? An impasta.
 
 
 ## Daily Trivia
 
-The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
- 1. Sinclair Research
- 2. Acorn Computers
- 3. Amstrad PLC
- 4. Commodore Business Machines
+Which of the following is a personal computer made by the Japanese company Fujitsu?
+ 1. PC-9801
+ 2. Xmillennium 
+ 3. MSX
+ 4. FM-7
 
 <details>
   <summary>Answer</summary>
-  Acorn Computers
+  FM-7
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  1 hours 54 minutes</strong> since this server shutdown
+Its been <strong>3 days  2 hours 24 minutes</strong> since this server shutdown
