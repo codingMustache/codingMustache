@@ -18,7 +18,7 @@ Hello I'm Jorge and I love making things for the internet
     <tr>
       <td><img src="https://image.tmdb.org/t/p/w300_and_h300_face/grAnpm6mv6aipoGeS0yS6RuTZSG.jpg" alt="Eastbound & Down" width="100%" height="auto"/></td>
       <td><strong>Eastbound & Down</strong></td>
-      <td><code>S01E06</code> <em>Chapter 6</em></td>
+      <td><code>S02E01</code> <em>Chapter 7</em></td>
       <td>⭐ 7.42 / 10</td>
       <td>Years after he turned his back on his hometown, a burned-out major league ballplayer returns to teach phys ed at his old middle school.</td>
     </tr>
@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How come the stadium got hot after the game? Because all of the fans left.
+How do you make a hankie dance? Put a little boogie in it.
 
 
 ## Daily Trivia
 
-How many cores does the Intel i7-6950X have?
- 1. 10
- 2. 4
- 3. 8
- 4. 12
+The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
+ 1. Marshall Islands
+ 2. Tuvalu
+ 3. Fiji
+ 4. Micronesia
 
 <details>
   <summary>Answer</summary>
-  10
+  Micronesia
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  16 hours 54 minutes</strong> since this server shutdown
+Its been <strong>2 days  17 hours 24 minutes</strong> since this server shutdown
