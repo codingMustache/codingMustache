@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why is it so windy inside an arena? All those fans.
+If at first you don't succeed, sky diving is not for you!
 
 
 ## Daily Trivia
 
-CMOS is tech used for constructing integrated circuits. What does CMOS stand for?
- 1. Computer-made operating system
- 2. Complementary magnetic-ohms-semiconductor
- 3. Computer-made oscillating static
- 4. Complementary metal&ndash;oxide&ndash;semiconductor
+How many bits are commonly in a single byte?
+ 1. Eight bits
+ 2.  Fifteen bits
+ 3. Twelve bits
+ 4. Six bits
 
 <details>
   <summary>Answer</summary>
-  Complementary metal&ndash;oxide&ndash;semiconductor
+  Eight bits
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  4 hours 24 minutes</strong> since this server shutdown
+Its been <strong>3 days  4 hours 54 minutes</strong> since this server shutdown
