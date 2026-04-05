@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a droid that takes the long way around? R2 detour.
+I've started telling everyone about the benefits of eating dried grapes. It's all about raisin awareness.
 
 
 ## Daily Trivia
 
-Approximately how many Apple I personal computers were created?
- 1. 100
- 2. 500
- 3. 1000
- 4. 200
+Who invented the &quot;Spanning Tree Protocol&quot;?
+ 1. Radia Perlman
+ 2. Vint Cerf
+ 3. Paul Vixie
+ 4. Michael Roberts
 
 <details>
   <summary>Answer</summary>
-  200
+  Radia Perlman
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  15 hours 24 minutes</strong> since this server shutdown
+Its been <strong>2 days  15 hours 54 minutes</strong> since this server shutdown
