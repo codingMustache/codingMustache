@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Two parrots are sitting on a perch. One turns to the other and asks, "do you smell fish?"
+I wanted to be a tailor but I didn't suit the job
 
 
 ## Daily Trivia
 
-How many values can a single byte represent?
- 1. 8
- 2. 1
- 3. 1024
- 4. 256
+Which of these names was an actual codename for a cancelled Microsoft project?
+ 1. Saturn
+ 2. Pollux
+ 3. Neptune
+ 4. Enceladus
 
 <details>
   <summary>Answer</summary>
-  256
+  Neptune
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  12 hours 54 minutes</strong> since this server shutdown
+Its been <strong>2 days  13 hours 24 minutes</strong> since this server shutdown
