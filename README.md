@@ -27,25 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
- I never wanted to believe that my Dad was stealing from his job as a road worker. But when I got home, all the signs were there.
-
-
+How does the moon cut his hair? Eclipse it.
 
 
 ## Daily Trivia
 
-The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
- 1. Taiwan
- 2. Germany
- 3. United States
- 4. China (People&#039;s Republic of)
+Which one of these is not an official development name for a Ubuntu release?
+ 1. Mystic Mansion
+ 2. Trusty Tahr
+ 3. Utopic Unicorn
+ 4. Wily Werewolf
 
 <details>
   <summary>Answer</summary>
-  Taiwan
+  Mystic Mansion
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  22 hours 24 minutes</strong> since this server shutdown
+Its been <strong>2 days  22 hours 54 minutes</strong> since this server shutdown
