@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I broke my finger at work today, on the other hand I'm completely fine.
+Why is it so windy inside an arena? All those fans.
 
 
 ## Daily Trivia
 
-Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
- 1. Apple
- 2. Commodore
- 3. Atari
- 4. Microsoft
+CMOS is tech used for constructing integrated circuits. What does CMOS stand for?
+ 1. Computer-made operating system
+ 2. Complementary magnetic-ohms-semiconductor
+ 3. Computer-made oscillating static
+ 4. Complementary metal&ndash;oxide&ndash;semiconductor
 
 <details>
   <summary>Answer</summary>
-  Apple
+  Complementary metal&ndash;oxide&ndash;semiconductor
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  3 hours 54 minutes</strong> since this server shutdown
+Its been <strong>3 days  4 hours 24 minutes</strong> since this server shutdown
