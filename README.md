@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do you take someone who has been injured in a Peek-a-boo accident? To the I.C.U.
+Whats a penguins favorite relative? Aunt Arctica.
 
 
 ## Daily Trivia
 
-Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
- 1. Shellscript
- 2. Corrupted Blood
- 3. Heartbleed
- 4. Shellshock
+What does the acronym CDN stand for in terms of networking?
+ 1. Computational Data Network
+ 2. Compressed Data Network
+ 3. Content Distribution Network
+ 4. Content Delivery Network
 
 <details>
   <summary>Answer</summary>
-  Heartbleed
+  Content Delivery Network
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  7 hours 54 minutes</strong> since this server shutdown
+Its been <strong>3 days  8 hours 24 minutes</strong> since this server shutdown
