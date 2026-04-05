@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the Red light say to the Green light? Don't look at me I'm changing!
+What did the scarf say to the hat? You go on ahead, I am going to hang around a bit longer.
 
 
 ## Daily Trivia
 
-In any programming language, what is the most common way to iterate through an array?
- 1. &#039;For&#039; loops
- 2. &#039;Do-while&#039; loops
- 3. &#039;If&#039; Statements
- 4. &#039;While&#039; loops
+What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
+ 1. Skylake
+ 2. Sandy Bridge
+ 3. Broadwell
+ 4. Coffee Lake
 
 <details>
   <summary>Answer</summary>
-  &#039;For&#039; loops
+  Coffee Lake
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  6 hours 24 minutes</strong> since this server shutdown
+Its been <strong>3 days  6 hours 54 minutes</strong> since this server shutdown
