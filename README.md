@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I got fired from the transmission factor, turns out I didn't put on enough shifts...
+What did the scarf say to the hat? You go on ahead, I am going to hang around a bit longer.
 
 
 ## Daily Trivia
 
-On which day did the World Wide Web go online?
- 1. December 17, 1996
- 2. December 20, 1990
- 3. November 24, 1995
- 4. November 12, 1990
+Nvidia&#039;s headquarters are based in which Silicon Valley city?
+ 1. Santa Clara
+ 2. Palo Alto
+ 3. Cupertino
+ 4. Mountain View
 
 <details>
   <summary>Answer</summary>
-  December 20, 1990
+  Santa Clara
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  11 hours 54 minutes</strong> since this server shutdown
+Its been <strong>2 days  12 hours 24 minutes</strong> since this server shutdown
