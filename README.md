@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How does the moon cut his hair? Eclipse it.
+A man walked in to a bar with some asphalt on his arm. He said “Two beers please, one for me and one for the road.”
 
 
 ## Daily Trivia
 
-Which one of these is not an official development name for a Ubuntu release?
- 1. Mystic Mansion
- 2. Trusty Tahr
- 3. Utopic Unicorn
- 4. Wily Werewolf
+In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
+ 1. Red
+ 2. Blue
+ 3. Green
+ 4. Yellow
 
 <details>
   <summary>Answer</summary>
-  Mystic Mansion
+  Green
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  22 hours 54 minutes</strong> since this server shutdown
+Its been <strong>2 days  23 hours 24 minutes</strong> since this server shutdown
