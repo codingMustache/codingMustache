@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Do you know where you can get chicken broth in bulk? The stock market.
+I got fired from the transmission factor, turns out I didn't put on enough shifts...
 
 
 ## Daily Trivia
 
-The programming language &#039;Swift&#039; was created to replace what other programming language?
- 1. C#
- 2. Ruby
- 3. Objective-C
- 4. C++
+On which day did the World Wide Web go online?
+ 1. December 17, 1996
+ 2. December 20, 1990
+ 3. November 24, 1995
+ 4. November 12, 1990
 
 <details>
   <summary>Answer</summary>
-  Objective-C
+  December 20, 1990
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  11 hours 24 minutes</strong> since this server shutdown
+Its been <strong>2 days  11 hours 54 minutes</strong> since this server shutdown
