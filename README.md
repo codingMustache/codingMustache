@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a fake noodle? An impasta.
+Why does a chicken coop only have two doors? Because if it had four doors it would be a chicken sedan.
 
 
 ## Daily Trivia
 
-Which of the following is a personal computer made by the Japanese company Fujitsu?
- 1. PC-9801
- 2. Xmillennium 
- 3. MSX
- 4. FM-7
+America Online (AOL) started out as which of these online service providers?
+ 1. CompuServe
+ 2. Quantum Link
+ 3. Prodigy
+ 4. GEnie
 
 <details>
   <summary>Answer</summary>
-  FM-7
+  Quantum Link
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  2 hours 24 minutes</strong> since this server shutdown
+Its been <strong>3 days  2 hours 54 minutes</strong> since this server shutdown
