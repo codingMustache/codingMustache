@@ -18,7 +18,7 @@ Hello I'm Jorge and I love making things for the internet
     <tr>
       <td><img src="https://image.tmdb.org/t/p/w300_and_h300_face/grAnpm6mv6aipoGeS0yS6RuTZSG.jpg" alt="Eastbound & Down" width="100%" height="auto"/></td>
       <td><strong>Eastbound & Down</strong></td>
-      <td><code>S02E04</code> <em>Chapter 10</em></td>
+      <td><code>S02E05</code> <em>Chapter 11</em></td>
       <td>⭐ 7.42 / 10</td>
       <td>Years after he turned his back on his hometown, a burned-out major league ballplayer returns to teach phys ed at his old middle school.</td>
     </tr>
@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Which is the fastest growing city in the world? Dublin'
+People are shocked to discover I have a police record but I love their greatest hits!
 
 
 ## Daily Trivia
 
-All of the following programs are classified as raster graphics editors EXCEPT:
- 1. Inkscape
- 2. Adobe Photoshop
- 3. GIMP
- 4. Paint.NET
+If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
+ 1. Python
+ 2. JavaScript
+ 3. C++
+ 4. Binary
 
 <details>
   <summary>Answer</summary>
-  Inkscape
+  Binary
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  18 hours 54 minutes</strong> since this server shutdown
+Its been <strong>2 days  19 hours 24 minutes</strong> since this server shutdown
