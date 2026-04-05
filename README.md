@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-If at first you don't succeed, sky diving is not for you!
+What biscuit does a short person like? Shortbread. 
 
 
 ## Daily Trivia
 
-How many bits are commonly in a single byte?
- 1. Eight bits
- 2.  Fifteen bits
- 3. Twelve bits
- 4. Six bits
+In computing, what does LAN stand for?
+ 1. Long Antenna Node
+ 2. Light Access Node
+ 3. Local Area Network
+ 4. Land Address Navigation
 
 <details>
   <summary>Answer</summary>
-  Eight bits
+  Local Area Network
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  4 hours 54 minutes</strong> since this server shutdown
+Its been <strong>3 days  5 hours 24 minutes</strong> since this server shutdown
