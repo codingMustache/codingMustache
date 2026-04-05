@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the scarf say to the hat? You go on ahead, I am going to hang around a bit longer.
+I got fired from a florist, apparently I took too many leaves.
 
 
 ## Daily Trivia
 
-What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
- 1. Skylake
- 2. Sandy Bridge
- 3. Broadwell
- 4. Coffee Lake
+Which of these is not a key value of Agile software development?
+ 1. Responding to change
+ 2. Comprehensive documentation
+ 3. Customer collaboration
+ 4. Individuals and interactions
 
 <details>
   <summary>Answer</summary>
-  Coffee Lake
+  Comprehensive documentation
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  6 hours 54 minutes</strong> since this server shutdown
+Its been <strong>3 days  7 hours 24 minutes</strong> since this server shutdown
