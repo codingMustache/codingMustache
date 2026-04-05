@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you make a hankie dance? Put a little boogie in it.
+"I'm sorry." "Hi sorry, I'm dad"
 
 
 ## Daily Trivia
 
-The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
- 1. Marshall Islands
- 2. Tuvalu
- 3. Fiji
- 4. Micronesia
+The teapot often seen in many 3D modeling applications is called what?
+ 1. Pixar Teapot
+ 2. Utah Teapot
+ 3. Tennessee Teapot
+ 4. 3D Teapot
 
 <details>
   <summary>Answer</summary>
-  Micronesia
+  Utah Teapot
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  17 hours 24 minutes</strong> since this server shutdown
+Its been <strong>2 days  17 hours 54 minutes</strong> since this server shutdown
