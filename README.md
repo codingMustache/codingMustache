@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Whats a penguins favorite relative? Aunt Arctica.
+Why are oranges the smartest fruit? Because they are made to concentrate. 
 
 
 ## Daily Trivia
 
-What does the acronym CDN stand for in terms of networking?
- 1. Computational Data Network
- 2. Compressed Data Network
- 3. Content Distribution Network
- 4. Content Delivery Network
+Generally, which component of a computer draws the most power?
+ 1. Video Card
+ 2. Power Supply
+ 3. Processor
+ 4. Hard Drive
 
 <details>
   <summary>Answer</summary>
-  Content Delivery Network
+  Video Card
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  8 hours 24 minutes</strong> since this server shutdown
+Its been <strong>3 days  8 hours 54 minutes</strong> since this server shutdown
