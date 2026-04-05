@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-So a duck walks into a pharmacy and says “Give me some chap-stick… and put it on my bill”
+Do you know where you can get chicken broth in bulk? The stock market.
 
 
 ## Daily Trivia
 
-What does the term GPU stand for?
- 1. Graphics Processing Unit
- 2. Graphical Proprietary Unit
- 3. Graphite Producing Unit
- 4. Gaming Processor Unit
+The programming language &#039;Swift&#039; was created to replace what other programming language?
+ 1. C#
+ 2. Ruby
+ 3. Objective-C
+ 4. C++
 
 <details>
   <summary>Answer</summary>
-  Graphics Processing Unit
+  Objective-C
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  10 hours 54 minutes</strong> since this server shutdown
+Its been <strong>2 days  11 hours 24 minutes</strong> since this server shutdown
