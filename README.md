@@ -16,34 +16,34 @@ Hello I'm Jorge and I love making things for the internet
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://image.tmdb.org/t/p/w300_and_h300_face/grAnpm6mv6aipoGeS0yS6RuTZSG.jpg" alt="Eastbound & Down" width="100%" height="auto"/></td>
-      <td><strong>Eastbound & Down</strong></td>
-      <td><code>S01E02</code> <em>Chapter 2</em></td>
-      <td>⭐ 7.42 / 10</td>
-      <td>Years after he turned his back on his hometown, a burned-out major league ballplayer returns to teach phys ed at his old middle school.</td>
+      <td><img src="https://image.tmdb.org/t/p/w300_and_h300_face/s3OIDrCErUjthsnPPreY7XktQXB.jpg" alt="The Walking Dead" width="100%" height="auto"/></td>
+      <td><strong>The Walking Dead</strong></td>
+      <td><code>S10E03</code> <em>Ghosts</em></td>
+      <td>⭐ 8.08 / 10</td>
+      <td>Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way.</td>
     </tr>
   </tbody>
 </table>
 
 ## Joke of the Day
 
-I got fired from a florist, apparently I took too many leaves.
+Where do you take someone who has been injured in a Peek-a-boo accident? To the I.C.U.
 
 
 ## Daily Trivia
 
-Which of these is not a key value of Agile software development?
- 1. Responding to change
- 2. Comprehensive documentation
- 3. Customer collaboration
- 4. Individuals and interactions
+Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
+ 1. Shellscript
+ 2. Corrupted Blood
+ 3. Heartbleed
+ 4. Shellshock
 
 <details>
   <summary>Answer</summary>
-  Comprehensive documentation
+  Heartbleed
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  7 hours 24 minutes</strong> since this server shutdown
+Its been <strong>3 days  7 hours 54 minutes</strong> since this server shutdown
