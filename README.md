@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Velcro… What a rip-off.
+What do you call an elephant that doesn’t matter? An irrelephant.
 
 
 ## Daily Trivia
 
-On which day did the World Wide Web go online?
- 1. December 20, 1990
- 2. November 24, 1995
- 3. November 12, 1990
- 4. December 17, 1996
+The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
+ 1. Sinclair Research
+ 2. Acorn Computers
+ 3. Amstrad PLC
+ 4. Commodore Business Machines
 
 <details>
   <summary>Answer</summary>
-  December 20, 1990
+  Acorn Computers
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  1 hours 24 minutes</strong> since this server shutdown
+Its been <strong>3 days  1 hours 54 minutes</strong> since this server shutdown
