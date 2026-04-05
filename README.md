@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A man walked in to a bar with some asphalt on his arm. He said “Two beers please, one for me and one for the road.”
+The best time on a clock is 6:30--hands down.
 
 
 ## Daily Trivia
 
-In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
- 1. Red
- 2. Blue
- 3. Green
- 4. Yellow
+What is the domain name for the country Tuvalu?
+ 1. .tt
+ 2. .tu
+ 3. .tl
+ 4. .tv
 
 <details>
   <summary>Answer</summary>
-  Green
+  .tv
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  23 hours 24 minutes</strong> since this server shutdown
+Its been <strong>2 days  23 hours 54 minutes</strong> since this server shutdown
