@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I wanted to be a tailor but I didn't suit the job
+What do you do on a remote island? Try and find the TV island it belongs to.
 
 
 ## Daily Trivia
 
-Which of these names was an actual codename for a cancelled Microsoft project?
- 1. Saturn
- 2. Pollux
- 3. Neptune
- 4. Enceladus
+Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
+ 1. Puma
+ 2. Tiger
+ 3. Leopard
+ 4. Cheetah
 
 <details>
   <summary>Answer</summary>
-  Neptune
+  Cheetah
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  13 hours 24 minutes</strong> since this server shutdown
+Its been <strong>2 days  13 hours 54 minutes</strong> since this server shutdown
