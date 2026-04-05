@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-At the boxing match, the dad got into the popcorn line and the line for hot dogs, but he wanted to stay out of the punchline.
+What did the Red light say to the Green light? Don't look at me I'm changing!
 
 
 ## Daily Trivia
 
-In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
- 1. static
- 2. absolute
- 3. relative
- 4. center
+In any programming language, what is the most common way to iterate through an array?
+ 1. &#039;For&#039; loops
+ 2. &#039;Do-while&#039; loops
+ 3. &#039;If&#039; Statements
+ 4. &#039;While&#039; loops
 
 <details>
   <summary>Answer</summary>
-  center
+  &#039;For&#039; loops
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  5 hours 54 minutes</strong> since this server shutdown
+Its been <strong>3 days  6 hours 24 minutes</strong> since this server shutdown
