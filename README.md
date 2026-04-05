@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The best time on a clock is 6:30--hands down.
+What kind of pants do ghosts wear? Boo jeans.
 
 
 ## Daily Trivia
 
-What is the domain name for the country Tuvalu?
- 1. .tt
- 2. .tu
- 3. .tl
- 4. .tv
+What does AD stand for in relation to Windows Operating Systems? 
+ 1. Active Directory
+ 2. Active Department
+ 3. Alternative Drive
+ 4. Automated Database
 
 <details>
   <summary>Answer</summary>
-  .tv
+  Active Directory
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  23 hours 54 minutes</strong> since this server shutdown
+Its been <strong>3 days 24 minutes</strong> since this server shutdown
