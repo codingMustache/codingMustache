@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of pants do ghosts wear? Boo jeans.
+It’s hard to explain puns to kleptomaniacs, because they take everything literally.
 
 
 ## Daily Trivia
 
-What does AD stand for in relation to Windows Operating Systems? 
- 1. Active Directory
- 2. Active Department
- 3. Alternative Drive
- 4. Automated Database
+On which computer hardware device is the BIOS chip located?
+ 1. Graphics Processing Unit
+ 2. Central Processing Unit
+ 3. Motherboard
+ 4. Hard Disk Drive
 
 <details>
   <summary>Answer</summary>
-  Active Directory
+  Motherboard
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days 24 minutes</strong> since this server shutdown
+Its been <strong>3 days 54 minutes</strong> since this server shutdown
