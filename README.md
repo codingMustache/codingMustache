@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It’s hard to explain puns to kleptomaniacs, because they take everything literally.
+Velcro… What a rip-off.
 
 
 ## Daily Trivia
 
-On which computer hardware device is the BIOS chip located?
- 1. Graphics Processing Unit
- 2. Central Processing Unit
- 3. Motherboard
- 4. Hard Disk Drive
+On which day did the World Wide Web go online?
+ 1. December 20, 1990
+ 2. November 24, 1995
+ 3. November 12, 1990
+ 4. December 17, 1996
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  December 20, 1990
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days 54 minutes</strong> since this server shutdown
+Its been <strong>3 days  1 hours 24 minutes</strong> since this server shutdown
