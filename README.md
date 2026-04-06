@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a gorilla wearing headphones? Anything you'd like, it can't hear you.
+What did the calculator say to the student? You can count on me.
 
 
 ## Daily Trivia
 
-Australia, Japan, and Southeast Asia are in which ITU Region?
- 1. Region 1
- 2. Region 2
- 3. Region 3
- 4. Region 4
+Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
+ 1. Corrupted Blood
+ 2. Heartbleed
+ 3. Shellshock
+ 4. Shellscript
 
 <details>
   <summary>Answer</summary>
-  Region 3
+  Heartbleed
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  2 hours 54 minutes</strong> since this server shutdown
+Its been <strong>4 days  3 hours 24 minutes</strong> since this server shutdown
