@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Sgt.: Commissar! Commissar! The troops are revolting! Commissar: Well, you’re pretty repulsive yourself.
+What do you do when your bunny gets wet? You get your hare dryer.
 
 
 ## Daily Trivia
 
-In any programming language, what is the most common way to iterate through an array?
- 1. &#039;Do-while&#039; loops
- 2. &#039;For&#039; loops
- 3. &#039;While&#039; loops
- 4. &#039;If&#039; Statements
+What is the most preferred image format used for logos in the Wikimedia database?
+ 1. .svg
+ 2. .png
+ 3. .jpeg
+ 4. .gif
 
 <details>
   <summary>Answer</summary>
-  &#039;For&#039; loops
+  .svg
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  9 hours 54 minutes</strong> since this server shutdown
+Its been <strong>4 days  10 hours 24 minutes</strong> since this server shutdown
