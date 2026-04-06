@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the digital clock say to the grandfather clock? Look, no hands!
+Why do choirs keep buckets handy? So they can carry their tune
 
 
 ## Daily Trivia
 
-The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
- 1. Sinclair Research
- 2. Amstrad PLC
- 3. Commodore Business Machines
- 4. Acorn Computers
+What is the maximum value of a 32-bit signed binary integer?
+ 1. 9,223,372,036,854,775,807
+ 2. 2048
+ 3. 2,147,483,647
+ 4. 255
 
 <details>
   <summary>Answer</summary>
-  Acorn Computers
+  2,147,483,647
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  8 hours 24 minutes</strong> since this server shutdown
+Its been <strong>4 days  8 hours 54 minutes</strong> since this server shutdown
