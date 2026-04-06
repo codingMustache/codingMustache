@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Child: Dad, make me a sandwich. Dad: Poof! You're a sandwich.
+I used to work in a shoe recycling shop. It was sole destroying.
 
 
 ## Daily Trivia
 
-What was the name of the image that features as the default background wallpaper for Windows XP?
- 1. Bliss
- 2. Tulips
- 3. Red moon desert
- 4. Azul
+When was the programming language &quot;C#&quot; released?
+ 1. 2001
+ 2. 1999
+ 3. 2000
+ 4. 1998
 
 <details>
   <summary>Answer</summary>
-  Bliss
+  2000
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  23 hours 24 minutes</strong> since this server shutdown
+Its been <strong>3 days  23 hours 54 minutes</strong> since this server shutdown
