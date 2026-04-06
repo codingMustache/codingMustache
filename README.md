@@ -16,34 +16,36 @@ Hello I'm Jorge and I love making things for the internet
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://image.tmdb.org/t/p/w300_and_h300_face/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg" alt="Seinfeld" width="100%" height="auto"/></td>
-      <td><strong>Seinfeld</strong></td>
-      <td><code>S01E04</code> <em>Male Unbonding</em></td>
-      <td>⭐ 8.26 / 10</td>
-      <td>A stand-up comedian and his three offbeat friends weather the pitfalls and payoffs of life in New York City in the '90s. It's a show about nothing.</td>
+      <td><img src="https://image.tmdb.org/t/p/w300_and_h300_face/grAnpm6mv6aipoGeS0yS6RuTZSG.jpg" alt="Eastbound & Down" width="100%" height="auto"/></td>
+      <td><strong>Eastbound & Down</strong></td>
+      <td><code>S01E02</code> <em>Chapter 2</em></td>
+      <td>⭐ 7.42 / 10</td>
+      <td>Years after he turned his back on his hometown, a burned-out major league ballplayer returns to teach phys ed at his old middle school.</td>
     </tr>
   </tbody>
 </table>
 
 ## Joke of the Day
 
-What's orange and sounds like a parrot? A Carrot.
+Doctor: Do you want to hear the good news or the bad news?
+Patient: Good news please.
+Doctor: we're naming a disease after you.
 
 
 ## Daily Trivia
 
-How many values can a single byte represent?
- 1. 8
- 2. 256
- 3. 1
- 4. 1024
+Which computer language would you associate Django framework with?
+ 1. Python
+ 2. Java
+ 3. C++
+ 4. C#
 
 <details>
   <summary>Answer</summary>
-  256
+  Python
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  20 hours 54 minutes</strong> since this server shutdown
+Its been <strong>3 days  21 hours 24 minutes</strong> since this server shutdown
