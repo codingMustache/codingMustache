@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I wear a stethoscope so that in a medical emergency I can teach people a valuable lesson about assumptions.
+What do you call a gorilla wearing headphones? Anything you'd like, it can't hear you.
 
 
 ## Daily Trivia
 
-What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
- 1. Coffee Lake
- 2. Broadwell
- 3. Skylake
- 4. Sandy Bridge
+Australia, Japan, and Southeast Asia are in which ITU Region?
+ 1. Region 1
+ 2. Region 2
+ 3. Region 3
+ 4. Region 4
 
 <details>
   <summary>Answer</summary>
-  Coffee Lake
+  Region 3
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  2 hours 24 minutes</strong> since this server shutdown
+Its been <strong>4 days  2 hours 54 minutes</strong> since this server shutdown
