@@ -18,7 +18,7 @@ Hello I'm Jorge and I love making things for the internet
     <tr>
       <td><img src="https://image.tmdb.org/t/p/w300_and_h300_face/s3OIDrCErUjthsnPPreY7XktQXB.jpg" alt="The Walking Dead" width="100%" height="auto"/></td>
       <td><strong>The Walking Dead</strong></td>
-      <td><code>S10E05</code> <em>What It Always Is</em></td>
+      <td><code>S10E06</code> <em>Bonds</em></td>
       <td>⭐ 8.08 / 10</td>
       <td>Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way.</td>
     </tr>
@@ -27,24 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Q: What did the spaghetti say to the other spaghetti?
-A: Pasta la vista, baby!
+Did you hear the one about the guy with the broken hearing aid? Neither did he.
 
 
 ## Daily Trivia
 
-What amount of bits commonly equals one byte?
+What is the number of keys on a standard Windows Keyboard?
  1. 64
- 2. 8
- 3. 2
- 4. 1
+ 2. 94
+ 3. 76
+ 4. 104
 
 <details>
   <summary>Answer</summary>
-  8
+  104
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  11 hours 24 minutes</strong> since this server shutdown
+Its been <strong>3 days  11 hours 54 minutes</strong> since this server shutdown
