@@ -27,23 +27,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the new restaurant on the moon? The food is great, but there’s just no atmosphere.
+Q: What did the spaghetti say to the other spaghetti?
+A: Pasta la vista, baby!
 
 
 ## Daily Trivia
 
-What does the computer software acronym JVM stand for?
- 1. Java Vendor Machine
- 2. Java Visual Machine
- 3. Just Virtual Machine
- 4. Java Virtual Machine
+What amount of bits commonly equals one byte?
+ 1. 64
+ 2. 8
+ 3. 2
+ 4. 1
 
 <details>
   <summary>Answer</summary>
-  Java Virtual Machine
+  8
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  10 hours 54 minutes</strong> since this server shutdown
+Its been <strong>3 days  11 hours 24 minutes</strong> since this server shutdown
