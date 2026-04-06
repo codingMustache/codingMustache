@@ -27,25 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to work at a stationery store.  But, I didn't feel like I was going anywhere.
-
-So, I got a job at a travel agency.  Now, I know I'll be going places.
+Why do you never see elephants hiding in trees? Because they're so good at it.
 
 
 ## Daily Trivia
 
-What does AD stand for in relation to Windows Operating Systems? 
- 1. Alternative Drive
- 2. Automated Database
- 3. Active Department
- 4. Active Directory
+What is the maximum value of a 32-bit signed binary integer?
+ 1. 255
+ 2. 2,147,483,647
+ 3. 2048
+ 4. 9,223,372,036,854,775,807
 
 <details>
   <summary>Answer</summary>
-  Active Directory
+  2,147,483,647
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  5 hours 54 minutes</strong> since this server shutdown
+Its been <strong>4 days  6 hours 24 minutes</strong> since this server shutdown
