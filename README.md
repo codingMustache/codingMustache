@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-“My Dog has no nose.” “How does he smell?” “Awful”
+I wear a stethoscope so that in a medical emergency I can teach people a valuable lesson about assumptions.
 
 
 ## Daily Trivia
 
-The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
- 1. HD Graphics 500
- 2. HD Graphics 700 
- 3. HD Graphics 600
- 4. HD Graphics 7000
+What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
+ 1. Coffee Lake
+ 2. Broadwell
+ 3. Skylake
+ 4. Sandy Bridge
 
 <details>
   <summary>Answer</summary>
-  HD Graphics 500
+  Coffee Lake
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  1 hours 54 minutes</strong> since this server shutdown
+Its been <strong>4 days  2 hours 24 minutes</strong> since this server shutdown
