@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do pirates not know the alphabet? They always get stuck at "C".
+Child: Dad, make me a sandwich. Dad: Poof! You're a sandwich.
 
 
 ## Daily Trivia
 
-What amount of bits commonly equals one byte?
- 1. 1
- 2. 2
- 3. 64
- 4. 8
+What was the name of the image that features as the default background wallpaper for Windows XP?
+ 1. Bliss
+ 2. Tulips
+ 3. Red moon desert
+ 4. Azul
 
 <details>
   <summary>Answer</summary>
-  8
+  Bliss
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  22 hours 54 minutes</strong> since this server shutdown
+Its been <strong>3 days  23 hours 24 minutes</strong> since this server shutdown
