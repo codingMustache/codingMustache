@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why does it take longer to get from 1st to 2nd base, than it does to get from 2nd to 3rd base? Because there’s a Shortstop in between!
+I was just looking at my ceiling. Not sure if it’s the best ceiling in the world, but it’s definitely up there.
 
 
 ## Daily Trivia
 
-Which of the following is the oldest of these computers by release date?
- 1. Apple 3
- 2. TRS-80
- 3. ZX Spectrum
- 4. Commodore 64
+Generally, which component of a computer draws the most power?
+ 1. Video Card
+ 2. Power Supply
+ 3. Processor
+ 4. Hard Drive
 
 <details>
   <summary>Answer</summary>
-  TRS-80
+  Video Card
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  3 hours 54 minutes</strong> since this server shutdown
+Its been <strong>4 days  4 hours 24 minutes</strong> since this server shutdown
