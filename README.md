@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to work in a shoe recycling shop. It was sole destroying.
+How do you make holy water? You boil the hell out of it.
 
 
 ## Daily Trivia
 
-When was the programming language &quot;C#&quot; released?
- 1. 2001
- 2. 1999
- 3. 2000
- 4. 1998
+The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
+ 1. HD Graphics 700 
+ 2. HD Graphics 600
+ 3. HD Graphics 7000
+ 4. HD Graphics 500
 
 <details>
   <summary>Answer</summary>
-  2000
+  HD Graphics 500
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  23 hours 54 minutes</strong> since this server shutdown
+Its been <strong>4 days 24 minutes</strong> since this server shutdown
