@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A ghost walks into a bar and asks for a glass of vodka but the bar tender says, “sorry we don’t serve spirits”
+What did the digital clock say to the grandfather clock? Look, no hands!
 
 
 ## Daily Trivia
 
-How fast is USB 3.1 Gen 2 theoretically?
- 1. 10 Gb/s
- 2. 1 Gb/s
- 3. 8 Gb/s
- 4. 5 Gb/s
+The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
+ 1. Sinclair Research
+ 2. Amstrad PLC
+ 3. Commodore Business Machines
+ 4. Acorn Computers
 
 <details>
   <summary>Answer</summary>
-  10 Gb/s
+  Acorn Computers
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  7 hours 54 minutes</strong> since this server shutdown
+Its been <strong>4 days  8 hours 24 minutes</strong> since this server shutdown
