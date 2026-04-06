@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I knew i shouldn’t have ate that seafood. Because now i’m feeling a little… Eel
+I tried to write a chemistry joke, but could never get a reaction.
 
 
 ## Daily Trivia
 
-While Apple was formed in California, in which western state was Microsoft founded?
- 1. Arizona
- 2. Colorado
- 3. New Mexico
- 4. Washington
+How many values can a single byte represent?
+ 1. 256
+ 2. 1024
+ 3. 1
+ 4. 8
 
 <details>
   <summary>Answer</summary>
-  New Mexico
+  256
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  12 hours 24 minutes</strong> since this server shutdown
+Its been <strong>3 days  12 hours 54 minutes</strong> since this server shutdown
