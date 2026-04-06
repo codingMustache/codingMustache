@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I think circles are pointless.
+Why do pirates not know the alphabet? They always get stuck at "C".
 
 
 ## Daily Trivia
 
-While Apple was formed in California, in which western state was Microsoft founded?
- 1. Arizona
- 2. Colorado
- 3. New Mexico
- 4. Washington
+What amount of bits commonly equals one byte?
+ 1. 1
+ 2. 2
+ 3. 64
+ 4. 8
 
 <details>
   <summary>Answer</summary>
-  New Mexico
+  8
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  22 hours 24 minutes</strong> since this server shutdown
+Its been <strong>3 days  22 hours 54 minutes</strong> since this server shutdown
