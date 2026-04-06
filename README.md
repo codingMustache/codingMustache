@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you make holy water? You boil the hell out of it.
+Two parrots are sitting on a perch. One turns to the other and asks, "do you smell fish?"
 
 
 ## Daily Trivia
 
-The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
- 1. HD Graphics 700 
- 2. HD Graphics 600
- 3. HD Graphics 7000
- 4. HD Graphics 500
+According to the International System of Units, how many bytes are in a kilobyte of RAM?
+ 1. 512
+ 2. 1024
+ 3. 500
+ 4. 1000
 
 <details>
   <summary>Answer</summary>
-  HD Graphics 500
+  1000
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days 24 minutes</strong> since this server shutdown
+Its been <strong>4 days 54 minutes</strong> since this server shutdown
