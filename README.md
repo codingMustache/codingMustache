@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do you never see elephants hiding in trees? Because they're so good at it.
+What did the calculator say to the student? You can count on me.
 
 
 ## Daily Trivia
 
-What is the maximum value of a 32-bit signed binary integer?
- 1. 255
- 2. 2,147,483,647
- 3. 2048
- 4. 9,223,372,036,854,775,807
+Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
+ 1. 32.0 kHz
+ 2. 1.5 MHz
+ 3. 20.5 kHz
+ 4. 44.1 kHz
 
 <details>
   <summary>Answer</summary>
-  2,147,483,647
+  44.1 kHz
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  6 hours 24 minutes</strong> since this server shutdown
+Its been <strong>4 days  6 hours 54 minutes</strong> since this server shutdown
