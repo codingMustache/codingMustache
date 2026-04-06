@@ -27,23 +27,25 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the calculator say to the student? You can count on me.
+What did the hat say to the scarf?
+You can hang around. I'll just go on ahead.
+
 
 
 ## Daily Trivia
 
-Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
- 1. 32.0 kHz
- 2. 1.5 MHz
- 3. 20.5 kHz
- 4. 44.1 kHz
+What is the most preferred image format used for logos in the Wikimedia database?
+ 1. .gif
+ 2. .svg
+ 3. .jpeg
+ 4. .png
 
 <details>
   <summary>Answer</summary>
-  44.1 kHz
+  .svg
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  6 hours 54 minutes</strong> since this server shutdown
+Its been <strong>4 days  7 hours 24 minutes</strong> since this server shutdown
