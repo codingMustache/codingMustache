@@ -27,25 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Doctor: Do you want to hear the good news or the bad news?
-Patient: Good news please.
-Doctor: we're naming a disease after you.
+What did the pirate say on his 80th birthday? Aye Matey!
 
 
 ## Daily Trivia
 
-Which computer language would you associate Django framework with?
- 1. Python
- 2. Java
- 3. C++
- 4. C#
+.at is the top-level domain for what country?
+ 1. Austria
+ 2. Angola
+ 3. Australia
+ 4. Argentina
 
 <details>
   <summary>Answer</summary>
-  Python
+  Austria
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  21 hours 24 minutes</strong> since this server shutdown
+Its been <strong>3 days  21 hours 54 minutes</strong> since this server shutdown
