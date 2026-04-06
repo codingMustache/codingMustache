@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you know you should always take an extra pair of pants golfing? Just in case you get a hole in one.
+Why was Pavlov's beard so soft?  Because he conditioned it.
 
 
 ## Daily Trivia
 
-What is the number of keys on a standard Windows Keyboard?
- 1. 64
- 2. 94
- 3. 104
- 4. 76
+What does the &quot;MP&quot; stand for in MP3?
+ 1. Multi Pass
+ 2. Music Player
+ 3. Moving Picture
+ 4. Micro Point
 
 <details>
   <summary>Answer</summary>
-  104
+  Moving Picture
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  13 hours 24 minutes</strong> since this server shutdown
+Its been <strong>3 days  13 hours 54 minutes</strong> since this server shutdown
