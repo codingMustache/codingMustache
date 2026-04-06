@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I was just looking at my ceiling. Not sure if it’s the best ceiling in the world, but it’s definitely up there.
+What's orange and sounds like a parrot? A Carrot.
 
 
 ## Daily Trivia
 
-Generally, which component of a computer draws the most power?
- 1. Video Card
- 2. Power Supply
- 3. Processor
- 4. Hard Drive
+The teapot often seen in many 3D modeling applications is called what?
+ 1. Pixar Teapot
+ 2. Utah Teapot
+ 3. 3D Teapot
+ 4. Tennessee Teapot
 
 <details>
   <summary>Answer</summary>
-  Video Card
+  Utah Teapot
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  4 hours 24 minutes</strong> since this server shutdown
+Its been <strong>4 days  4 hours 54 minutes</strong> since this server shutdown
