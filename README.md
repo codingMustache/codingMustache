@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Two parrots are sitting on a perch. One turns to the other and asks, "do you smell fish?"
+What is a tornado's favorite game to play? Twister!
 
 
 ## Daily Trivia
 
-According to the International System of Units, how many bytes are in a kilobyte of RAM?
- 1. 512
- 2. 1024
- 3. 500
- 4. 1000
+Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
+ 1. JavaScript
+ 2. PHP
+ 3. Python
+ 4. C#
 
 <details>
   <summary>Answer</summary>
-  1000
+  JavaScript
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days 54 minutes</strong> since this server shutdown
+Its been <strong>4 days  1 hours 24 minutes</strong> since this server shutdown
