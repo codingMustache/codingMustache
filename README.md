@@ -16,34 +16,34 @@ Hello I'm Jorge and I love making things for the internet
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://image.tmdb.org/t/p/w300_and_h300_face/grAnpm6mv6aipoGeS0yS6RuTZSG.jpg" alt="Eastbound & Down" width="100%" height="auto"/></td>
-      <td><strong>Eastbound & Down</strong></td>
-      <td><code>S01E02</code> <em>Chapter 2</em></td>
-      <td>⭐ 7.42 / 10</td>
-      <td>Years after he turned his back on his hometown, a burned-out major league ballplayer returns to teach phys ed at his old middle school.</td>
+      <td><img src="https://image.tmdb.org/t/p/w300_and_h300_face/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg" alt="Seinfeld" width="100%" height="auto"/></td>
+      <td><strong>Seinfeld</strong></td>
+      <td><code>S08E07</code> <em>The Checks</em></td>
+      <td>⭐ 8.26 / 10</td>
+      <td>A stand-up comedian and his three offbeat friends weather the pitfalls and payoffs of life in New York City in the '90s. It's a show about nothing.</td>
     </tr>
   </tbody>
 </table>
 
 ## Joke of the Day
 
-What did the shy pebble wish for? That she was a little boulder.
+Why do we tell actors to “break a leg?” Because every play has a cast.
 
 
 ## Daily Trivia
 
-In the server hosting industry IaaS stands for...
- 1. Internet as a Service
- 2. Internet and a Server
- 3. Infrastructure as a Server
- 4. Infrastructure as a Service
+HTML is what type of language?
+ 1. Scripting Language
+ 2. Macro Language
+ 3. Programming Language
+ 4. Markup Language
 
 <details>
   <summary>Answer</summary>
-  Infrastructure as a Service
+  Markup Language
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  14 hours 24 minutes</strong> since this server shutdown
+Its been <strong>3 days  14 hours 54 minutes</strong> since this server shutdown
