@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the pirate say on his 80th birthday? Aye Matey!
+I think circles are pointless.
 
 
 ## Daily Trivia
 
-.at is the top-level domain for what country?
- 1. Austria
- 2. Angola
- 3. Australia
- 4. Argentina
+While Apple was formed in California, in which western state was Microsoft founded?
+ 1. Arizona
+ 2. Colorado
+ 3. New Mexico
+ 4. Washington
 
 <details>
   <summary>Answer</summary>
-  Austria
+  New Mexico
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  21 hours 54 minutes</strong> since this server shutdown
+Its been <strong>3 days  22 hours 24 minutes</strong> since this server shutdown
