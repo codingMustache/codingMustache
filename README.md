@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was Pavlov's beard so soft?  Because he conditioned it.
+What did the shy pebble wish for? That she was a little boulder.
 
 
 ## Daily Trivia
 
-What does the &quot;MP&quot; stand for in MP3?
- 1. Multi Pass
- 2. Music Player
- 3. Moving Picture
- 4. Micro Point
+In the server hosting industry IaaS stands for...
+ 1. Internet as a Service
+ 2. Internet and a Server
+ 3. Infrastructure as a Server
+ 4. Infrastructure as a Service
 
 <details>
   <summary>Answer</summary>
-  Moving Picture
+  Infrastructure as a Service
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  13 hours 54 minutes</strong> since this server shutdown
+Its been <strong>3 days  14 hours 24 minutes</strong> since this server shutdown
