@@ -18,7 +18,7 @@ Hello I'm Jorge and I love making things for the internet
     <tr>
       <td><img src="https://image.tmdb.org/t/p/w300_and_h300_face/grAnpm6mv6aipoGeS0yS6RuTZSG.jpg" alt="Eastbound & Down" width="100%" height="auto"/></td>
       <td><strong>Eastbound & Down</strong></td>
-      <td><code>S01E02</code> <em>Chapter 2</em></td>
+      <td><code>S03E05</code> <em>Chapter 18</em></td>
       <td>⭐ 7.42 / 10</td>
       <td>Years after he turned his back on his hometown, a burned-out major league ballplayer returns to teach phys ed at his old middle school.</td>
     </tr>
@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's orange and sounds like a parrot? A Carrot.
+Why did the clown have neck pain? - Because he slept funny
 
 
 ## Daily Trivia
 
-The teapot often seen in many 3D modeling applications is called what?
- 1. Pixar Teapot
- 2. Utah Teapot
- 3. 3D Teapot
- 4. Tennessee Teapot
+What does AD stand for in relation to Windows Operating Systems? 
+ 1. Alternative Drive
+ 2. Automated Database
+ 3. Active Department
+ 4. Active Directory
 
 <details>
   <summary>Answer</summary>
-  Utah Teapot
+  Active Directory
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  4 hours 54 minutes</strong> since this server shutdown
+Its been <strong>4 days  5 hours 24 minutes</strong> since this server shutdown
