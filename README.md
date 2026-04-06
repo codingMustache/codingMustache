@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the calculator say to the student? You can count on me.
+Why does it take longer to get from 1st to 2nd base, than it does to get from 2nd to 3rd base? Because there’s a Shortstop in between!
 
 
 ## Daily Trivia
 
-Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
- 1. Corrupted Blood
- 2. Heartbleed
- 3. Shellshock
- 4. Shellscript
+Which of the following is the oldest of these computers by release date?
+ 1. Apple 3
+ 2. TRS-80
+ 3. ZX Spectrum
+ 4. Commodore 64
 
 <details>
   <summary>Answer</summary>
-  Heartbleed
+  TRS-80
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  3 hours 24 minutes</strong> since this server shutdown
+Its been <strong>4 days  3 hours 54 minutes</strong> since this server shutdown
