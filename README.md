@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is a tornado's favorite game to play? Twister!
+“My Dog has no nose.” “How does he smell?” “Awful”
 
 
 ## Daily Trivia
 
-Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
- 1. JavaScript
- 2. PHP
- 3. Python
- 4. C#
+The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
+ 1. HD Graphics 500
+ 2. HD Graphics 700 
+ 3. HD Graphics 600
+ 4. HD Graphics 7000
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  HD Graphics 500
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  1 hours 24 minutes</strong> since this server shutdown
+Its been <strong>4 days  1 hours 54 minutes</strong> since this server shutdown
