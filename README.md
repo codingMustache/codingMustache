@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I broke my finger at work today, on the other hand I'm completely fine.
+Wife told me to take the spider out instead of killing it... We had some drinks, cool guy, wants to be a web developer.
 
 
 ## Daily Trivia
 
-Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
- 1. JavaScript
- 2. PHP
- 3. Python
- 4. C#
+According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:
+ 1. AB&#039; + AB
+ 2. A&#039;B&#039;
+ 3. A&#039;B + B&#039;A
+ 4. A&#039; + B&#039;
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  A&#039; + B&#039;
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  20 hours 54 minutes</strong> since this server shutdown
+Its been <strong>4 days  21 hours 24 minutes</strong> since this server shutdown
