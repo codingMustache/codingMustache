@@ -27,16 +27,16 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do computers and air conditioners have in common? They both become useless when you open windows.
+A book just fell on my head. I only have my shelf to blame.
 
 
 ## Daily Trivia
 
 In any programming language, what is the most common way to iterate through an array?
- 1. &#039;If&#039; Statements
- 2. &#039;Do-while&#039; loops
- 3. &#039;While&#039; loops
- 4. &#039;For&#039; loops
+ 1. &#039;For&#039; loops
+ 2. &#039;While&#039; loops
+ 3. &#039;Do-while&#039; loops
+ 4. &#039;If&#039; Statements
 
 <details>
   <summary>Answer</summary>
@@ -46,4 +46,4 @@ In any programming language, what is the most common way to iterate through an a
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  14 hours 54 minutes</strong> since this server shutdown
+Its been <strong>4 days  15 hours 24 minutes</strong> since this server shutdown
