@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I thought about going on an all-almond diet. But that's just nuts.
+How many apples grow on a tree? All of them!
 
 
 ## Daily Trivia
 
-.at is the top-level domain for what country?
- 1. Austria
- 2. Angola
- 3. Australia
- 4. Argentina
+Which one of these is not an official development name for a Ubuntu release?
+ 1. Utopic Unicorn
+ 2. Wily Werewolf
+ 3. Trusty Tahr
+ 4. Mystic Mansion
 
 <details>
   <summary>Answer</summary>
-  Austria
+  Mystic Mansion
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  23 hours 24 minutes</strong> since this server shutdown
+Its been <strong>4 days  23 hours 54 minutes</strong> since this server shutdown
