@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Wife told me to take the spider out instead of killing it... We had some drinks, cool guy, wants to be a web developer.
+Never take advice from electrons. They are always negative.
 
 
 ## Daily Trivia
 
-According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:
- 1. AB&#039; + AB
- 2. A&#039;B&#039;
- 3. A&#039;B + B&#039;A
- 4. A&#039; + B&#039;
+On Twitter, what was the original character limit for a Tweet?
+ 1. 120
+ 2. 160
+ 3. 100
+ 4. 140
 
 <details>
   <summary>Answer</summary>
-  A&#039; + B&#039;
+  140
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  21 hours 24 minutes</strong> since this server shutdown
+Its been <strong>4 days  21 hours 54 minutes</strong> since this server shutdown
