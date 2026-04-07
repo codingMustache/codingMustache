@@ -16,34 +16,34 @@ Hello I'm Jorge and I love making things for the internet
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://image.tmdb.org/t/p/w300_and_h300_face/grAnpm6mv6aipoGeS0yS6RuTZSG.jpg" alt="Eastbound & Down" width="100%" height="auto"/></td>
-      <td><strong>Eastbound & Down</strong></td>
-      <td><code>S03E06</code> <em>Chapter 19</em></td>
-      <td>⭐ 7.42 / 10</td>
-      <td>Years after he turned his back on his hometown, a burned-out major league ballplayer returns to teach phys ed at his old middle school.</td>
+      <td><img src="https://image.tmdb.org/t/p/w300_and_h300_face/s3OIDrCErUjthsnPPreY7XktQXB.jpg" alt="The Walking Dead" width="100%" height="auto"/></td>
+      <td><strong>The Walking Dead</strong></td>
+      <td><code>S10E08</code> <em>The World Before</em></td>
+      <td>⭐ 8.08 / 10</td>
+      <td>Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way.</td>
     </tr>
   </tbody>
 </table>
 
 ## Joke of the Day
 
-Why do cows wear bells? Because their horns don't work.
+Conjunctivitis.com – now that’s a site for sore eyes.
 
 
 ## Daily Trivia
 
-If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
- 1. Python
- 2. Binary
- 3. C++
- 4. JavaScript
+What does the term USB stand for?
+ 1. Universal Simtex Blot
+ 2. Unified Signal Bus
+ 3. Universal Serial Bus
+ 4. Unityped Semtex Backer
 
 <details>
   <summary>Answer</summary>
-  Binary
+  Universal Serial Bus
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  11 hours 24 minutes</strong> since this server shutdown
+Its been <strong>4 days  11 hours 54 minutes</strong> since this server shutdown
