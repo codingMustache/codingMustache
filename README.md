@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the beaver say to the tree? It's been nice gnawing you.
+I went on a date last night with a girl from the zoo. It was great. She’s a keeper.
 
 
 ## Daily Trivia
 
-Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
- 1. Year
- 2. Eight Years
- 3. Two Years
- 4. Four Years
+What is the main CPU is the Sega Mega Drive / Sega Genesis?
+ 1. Intel 8088
+ 2. Yamaha YM2612
+ 3. Zilog Z80
+ 4. Motorola 68000
 
 <details>
   <summary>Answer</summary>
-  Year
+  Motorola 68000
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  5 hours 24 minutes</strong> since this server shutdown
+Its been <strong>5 days  5 hours 54 minutes</strong> since this server shutdown
