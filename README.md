@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Without geometry life is pointless.
+I thought about going on an all-almond diet. But that's just nuts.
 
 
 ## Daily Trivia
 
-What was the name of the image that features as the default background wallpaper for Windows XP?
- 1. Azul
- 2. Red moon desert
- 3. Tulips
- 4. Bliss
+What major programming language does Unreal Engine 4 use?
+ 1. ECMAScript
+ 2. Assembly
+ 3. C++
+ 4. C#
 
 <details>
   <summary>Answer</summary>
-  Bliss
+  C++
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  8 hours 54 minutes</strong> since this server shutdown
+Its been <strong>5 days  9 hours 24 minutes</strong> since this server shutdown
