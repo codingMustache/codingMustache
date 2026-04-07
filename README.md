@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I cut my finger chopping cheese, but I think that I may have grater problems.
+Why is the new Kindle screen textured to look like paper? So you feel write at home.
 
 
 ## Daily Trivia
 
-How many Hz does the video standard PAL support?
- 1. 25
- 2. 50
- 3. 60
- 4. 59
+HTML is what type of language?
+ 1. Markup Language
+ 2. Macro Language
+ 3. Programming Language
+ 4. Scripting Language
 
 <details>
   <summary>Answer</summary>
-  50
+  Markup Language
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  19 hours 24 minutes</strong> since this server shutdown
+Its been <strong>4 days  19 hours 54 minutes</strong> since this server shutdown
