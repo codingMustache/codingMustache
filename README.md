@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the bread factory burning down? They say the business is toast.
+"Hey, dad, did you get a haircut?" "No, I got them all cut."
 
 
 ## Daily Trivia
 
-What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
- 1. FM Synthesizer
- 2. Programmable Sound Generator (PSG)
- 3. ADPCM Sampler
- 4. PCM Sampler
+How long is an IPv6 address?
+ 1. 128 bits
+ 2. 64 bits
+ 3. 32 bits
+ 4. 128 bytes
 
 <details>
   <summary>Answer</summary>
-  ADPCM Sampler
+  128 bits
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  6 hours 24 minutes</strong> since this server shutdown
+Its been <strong>5 days  6 hours 54 minutes</strong> since this server shutdown
