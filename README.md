@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the kid cross the playground? To get to the other slide.
+Why do cows wear bells? Because their horns don't work.
 
 
 ## Daily Trivia
 
-Which of these is not a layer in the OSI model for data communications?
- 1. Application Layer
- 2. Transport Layer
- 3. Connection Layer
- 4. Physical Layer
+If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
+ 1. Python
+ 2. Binary
+ 3. C++
+ 4. JavaScript
 
 <details>
   <summary>Answer</summary>
-  Connection Layer
+  Binary
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  10 hours 54 minutes</strong> since this server shutdown
+Its been <strong>4 days  11 hours 24 minutes</strong> since this server shutdown
