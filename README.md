@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My boss told me that he was going to fire the person with the worst posture. I have a hunch, it might be me.
+I broke my finger at work today, on the other hand I'm completely fine.
 
 
 ## Daily Trivia
 
-When was the programming language &quot;C#&quot; released?
- 1. 2000
- 2. 1998
- 3. 1999
- 4. 2001
+Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
+ 1. JavaScript
+ 2. PHP
+ 3. Python
+ 4. C#
 
 <details>
   <summary>Answer</summary>
-  2000
+  JavaScript
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  20 hours 24 minutes</strong> since this server shutdown
+Its been <strong>4 days  20 hours 54 minutes</strong> since this server shutdown
