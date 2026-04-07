@@ -27,23 +27,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the Buffalo say to his little boy when he dropped him off at school? Bison.
+Some people say that I never got over my obsession with Phil Collins.
+But take a look at me now.
 
 
 ## Daily Trivia
 
-On Twitter, what was the original character limit for a Tweet?
- 1. 120
- 2. 140
- 3. 160
- 4. 100
+How long is an IPv6 address?
+ 1. 128 bytes
+ 2. 128 bits
+ 3. 64 bits
+ 4. 32 bits
 
 <details>
   <summary>Answer</summary>
-  140
+  128 bits
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days 54 minutes</strong> since this server shutdown
+Its been <strong>5 days  1 hours 24 minutes</strong> since this server shutdown
