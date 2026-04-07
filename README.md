@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-"Hey, dad, did you get a haircut?" "No, I got them all cut."
+What do you get when you cross a chicken with a skunk? A fowl smell!
 
 
 ## Daily Trivia
 
-How long is an IPv6 address?
- 1. 128 bits
- 2. 64 bits
- 3. 32 bits
- 4. 128 bytes
+In programming, what do you call functions with the same name but different implementations?
+ 1. Abstracting
+ 2. Overloading
+ 3. Inheriting
+ 4. Overriding
 
 <details>
   <summary>Answer</summary>
-  128 bits
+  Overloading
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  6 hours 54 minutes</strong> since this server shutdown
+Its been <strong>5 days  7 hours 24 minutes</strong> since this server shutdown
