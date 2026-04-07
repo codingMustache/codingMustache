@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I wanted to be a tailor but I didn't suit the job
+I asked the surgeon if I could administer my own anesthetic, they said: go ahead, knock yourself out.
 
 
 ## Daily Trivia
 
-How many bytes are in a single Kibibyte?
- 1. 2400
- 2. 1024
- 3. 1240
- 4. 1000
+Laserjet and inkjet printers are both examples of what type of printer?
+ 1. Impact printer
+ 2. Dot matrix printer
+ 3. Non-impact printer
+ 4. Daisywheel printer
 
 <details>
   <summary>Answer</summary>
-  1024
+  Non-impact printer
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  22 hours 24 minutes</strong> since this server shutdown
+Its been <strong>4 days  22 hours 54 minutes</strong> since this server shutdown
