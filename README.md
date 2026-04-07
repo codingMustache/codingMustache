@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did one nut say as he chased another nut?  I'm a cashew!
+Coffee has a tough time at my house, every morning it gets mugged.
 
 
 ## Daily Trivia
 
-Dutch computer scientist Mark Overmars is known for creating which game development engine?
- 1. Stencyl
- 2. Construct
- 3. Torque 2D
- 4. Game Maker
+What is known as &quot;the brain&quot; of the Computer?
+ 1. Central Processing Unit
+ 2. Graphics Processing Unit
+ 3. Motherboard
+ 4. Keyboard
 
 <details>
   <summary>Answer</summary>
-  Game Maker
+  Central Processing Unit
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  7 hours 54 minutes</strong> since this server shutdown
+Its been <strong>5 days  8 hours 24 minutes</strong> since this server shutdown
