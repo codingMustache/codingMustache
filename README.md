@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I got fired from a florist, apparently I took too many leaves.
+"I'll call you later." Don't call me later, call me Dad.
 
 
 ## Daily Trivia
 
-On which computer hardware device is the BIOS chip located?
- 1. Central Processing Unit
- 2. Hard Disk Drive
- 3. Graphics Processing Unit
- 4. Motherboard
+Which of these is not a layer in the OSI model for data communications?
+ 1. Application Layer
+ 2. Transport Layer
+ 3. Physical Layer
+ 4. Connection Layer
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  Connection Layer
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  13 hours 54 minutes</strong> since this server shutdown
+Its been <strong>4 days  14 hours 24 minutes</strong> since this server shutdown
