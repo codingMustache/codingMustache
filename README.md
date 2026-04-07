@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you know crocodiles could grow up to 15 feet? But most just have 4.
+If two vegans are having an argument, is it still considered beef?
 
 
 ## Daily Trivia
 
-In computing terms, typically what does CLI stand for?
- 1. Common Language Input
- 2. Control Line Interface
- 3. Common Language Interface
- 4. Command Line Interface
+On Twitter, what was the original character limit for a Tweet?
+ 1. 140
+ 2. 120
+ 3. 160
+ 4. 100
 
 <details>
   <summary>Answer</summary>
-  Command Line Interface
+  140
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  2 hours 54 minutes</strong> since this server shutdown
+Its been <strong>5 days  3 hours 24 minutes</strong> since this server shutdown
