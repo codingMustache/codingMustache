@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-If you’re struggling to think of what to get someone for Christmas. Get them a fridge and watch their face light up when they open it.
+I boiled a funny bone last night and had a laughing stock
 
 
 ## Daily Trivia
 
-Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
- 1. Puma
- 2. Cheetah
- 3. Tiger
- 4. Leopard
+Lenovo acquired IBM&#039;s personal computer division, including the ThinkPad line of laptops and tablets, in what year?
+ 1. 2002
+ 2. 1999
+ 3. 2008
+ 4. 2005
 
 <details>
   <summary>Answer</summary>
-  Cheetah
+  2005
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  12 hours 54 minutes</strong> since this server shutdown
+Its been <strong>4 days  13 hours 24 minutes</strong> since this server shutdown
