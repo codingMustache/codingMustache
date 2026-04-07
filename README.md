@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Never take advice from electrons. They are always negative.
+I wanted to be a tailor but I didn't suit the job
 
 
 ## Daily Trivia
 
-On Twitter, what was the original character limit for a Tweet?
- 1. 120
- 2. 160
- 3. 100
- 4. 140
+How many bytes are in a single Kibibyte?
+ 1. 2400
+ 2. 1024
+ 3. 1240
+ 4. 1000
 
 <details>
   <summary>Answer</summary>
-  140
+  1024
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  21 hours 54 minutes</strong> since this server shutdown
+Its been <strong>4 days  22 hours 24 minutes</strong> since this server shutdown
