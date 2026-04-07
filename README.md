@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I just read a book about Stockholm syndrome. It was pretty bad at first, but by the end I liked it.
+Did you know crocodiles could grow up to 15 feet? But most just have 4.
 
 
 ## Daily Trivia
 
-Which of these programming languages is a low-level language?
- 1. Python
- 2. C#
- 3. Pascal
- 4. Assembly
+In computing terms, typically what does CLI stand for?
+ 1. Common Language Input
+ 2. Control Line Interface
+ 3. Common Language Interface
+ 4. Command Line Interface
 
 <details>
   <summary>Answer</summary>
-  Assembly
+  Command Line Interface
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  2 hours 24 minutes</strong> since this server shutdown
+Its been <strong>5 days  2 hours 54 minutes</strong> since this server shutdown
