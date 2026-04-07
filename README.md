@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a fashionable lawn statue with an excellent sense of rhythmn? A metro-gnome
+What did the Buffalo say to his little boy when he dropped him off at school? Bison.
 
 
 ## Daily Trivia
 
-What does the term USB stand for?
- 1. Universal Simtex Blot
- 2. Unified Signal Bus
- 3. Unityped Semtex Backer
- 4. Universal Serial Bus
+On Twitter, what was the original character limit for a Tweet?
+ 1. 120
+ 2. 140
+ 3. 160
+ 4. 100
 
 <details>
   <summary>Answer</summary>
-  Universal Serial Bus
+  140
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days 24 minutes</strong> since this server shutdown
+Its been <strong>5 days 54 minutes</strong> since this server shutdown
