@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why is the new Kindle screen textured to look like paper? So you feel write at home.
+My boss told me that he was going to fire the person with the worst posture. I have a hunch, it might be me.
 
 
 ## Daily Trivia
 
-HTML is what type of language?
- 1. Markup Language
- 2. Macro Language
- 3. Programming Language
- 4. Scripting Language
+When was the programming language &quot;C#&quot; released?
+ 1. 2000
+ 2. 1998
+ 3. 1999
+ 4. 2001
 
 <details>
   <summary>Answer</summary>
-  Markup Language
+  2000
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  19 hours 54 minutes</strong> since this server shutdown
+Its been <strong>4 days  20 hours 24 minutes</strong> since this server shutdown
