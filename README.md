@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It was so cold yesterday my computer froze. My own fault though, I left too many windows open.
+I just read a book about Stockholm syndrome. It was pretty bad at first, but by the end I liked it.
 
 
 ## Daily Trivia
 
-In the server hosting industry IaaS stands for...
- 1. Infrastructure as a Service
- 2. Infrastructure as a Server
- 3. Internet and a Server
- 4. Internet as a Service
+Which of these programming languages is a low-level language?
+ 1. Python
+ 2. C#
+ 3. Pascal
+ 4. Assembly
 
 <details>
   <summary>Answer</summary>
-  Infrastructure as a Service
+  Assembly
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  1 hours 54 minutes</strong> since this server shutdown
+Its been <strong>5 days  2 hours 24 minutes</strong> since this server shutdown
