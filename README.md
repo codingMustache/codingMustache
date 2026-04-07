@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I went on a date last night with a girl from the zoo. It was great. She’s a keeper.
+Did you hear about the bread factory burning down? They say the business is toast.
 
 
 ## Daily Trivia
 
-What is the main CPU is the Sega Mega Drive / Sega Genesis?
- 1. Intel 8088
- 2. Yamaha YM2612
- 3. Zilog Z80
- 4. Motorola 68000
+What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
+ 1. FM Synthesizer
+ 2. Programmable Sound Generator (PSG)
+ 3. ADPCM Sampler
+ 4. PCM Sampler
 
 <details>
   <summary>Answer</summary>
-  Motorola 68000
+  ADPCM Sampler
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  5 hours 54 minutes</strong> since this server shutdown
+Its been <strong>5 days  6 hours 24 minutes</strong> since this server shutdown
