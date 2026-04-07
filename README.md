@@ -27,23 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many apples grow on a tree? All of them!
+What do you call a fashionable lawn statue with an excellent sense of rhythmn? A metro-gnome
 
 
 ## Daily Trivia
 
-Which one of these is not an official development name for a Ubuntu release?
- 1. Utopic Unicorn
- 2. Wily Werewolf
- 3. Trusty Tahr
- 4. Mystic Mansion
+What does the term USB stand for?
+ 1. Universal Simtex Blot
+ 2. Unified Signal Bus
+ 3. Unityped Semtex Backer
+ 4. Universal Serial Bus
 
 <details>
   <summary>Answer</summary>
-  Mystic Mansion
+  Universal Serial Bus
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  23 hours 54 minutes</strong> since this server shutdown
+Its been <strong>5 days 24 minutes</strong> since this server shutdown
