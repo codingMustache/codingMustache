@@ -27,24 +27,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Some people say that I never got over my obsession with Phil Collins.
-But take a look at me now.
+It was so cold yesterday my computer froze. My own fault though, I left too many windows open.
 
 
 ## Daily Trivia
 
-How long is an IPv6 address?
- 1. 128 bytes
- 2. 128 bits
- 3. 64 bits
- 4. 32 bits
+In the server hosting industry IaaS stands for...
+ 1. Infrastructure as a Service
+ 2. Infrastructure as a Server
+ 3. Internet and a Server
+ 4. Internet as a Service
 
 <details>
   <summary>Answer</summary>
-  128 bits
+  Infrastructure as a Service
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  1 hours 24 minutes</strong> since this server shutdown
+Its been <strong>5 days  1 hours 54 minutes</strong> since this server shutdown
