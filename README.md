@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the piece of bread say to the knife? Butter me up.
+What did the beaver say to the tree? It's been nice gnawing you.
 
 
 ## Daily Trivia
 
-What is the number of keys on a standard Windows Keyboard?
- 1. 76
- 2. 94
- 3. 104
- 4. 64
+Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
+ 1. Year
+ 2. Eight Years
+ 3. Two Years
+ 4. Four Years
 
 <details>
   <summary>Answer</summary>
-  104
+  Year
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  4 hours 54 minutes</strong> since this server shutdown
+Its been <strong>5 days  5 hours 24 minutes</strong> since this server shutdown
