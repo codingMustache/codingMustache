@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What biscuit does a short person like? Shortbread. 
+How did the hipster burn the roof of his mouth? He ate the pizza before it was cool.
 
 
 ## Daily Trivia
 
-Which computer hardware device provides an interface for all other connected devices to communicate?
- 1. Central Processing Unit
- 2. Hard Disk Drive
- 3. Random Access Memory
- 4. Motherboard
+Which of the following is NOT a computer science algorithm?
+ 1. Quick Sort
+ 2. Merge Sort
+ 3. Float Sort
+ 4. Bubble Sort
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  Float Sort
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  4 hours 24 minutes</strong> since this server shutdown
+Its been <strong>6 days  4 hours 54 minutes</strong> since this server shutdown
