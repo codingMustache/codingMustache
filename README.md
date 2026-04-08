@@ -6,23 +6,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is a vampire's favorite fruit? A blood orange.
+Some people say that I never got over my obsession with Phil Collins.
+But take a look at me now.
 
 
 ## Daily Trivia
 
-Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
- 1. Enigma Machine
- 2. Clipper Chip
- 3. Nautilus
- 4. Skipjack
+Who is the founder of Palantir?
+ 1. Jack Dorsey
+ 2. Mark Zuckerberg
+ 3. Peter Thiel
+ 4. Marc Benioff
 
 <details>
   <summary>Answer</summary>
-  Clipper Chip
+  Peter Thiel
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  15 hours 24 minutes</strong> since this server shutdown
+Its been <strong>5 days  15 hours 54 minutes</strong> since this server shutdown
