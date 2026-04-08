@@ -6,16 +6,18 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Have you heard of the band 1023MB? They haven't got a gig yet.
+What was the pumpkin’s favorite sport?
+
+Squash.
 
 
 ## Daily Trivia
 
 The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
- 1. Germany
- 2. China (People&#039;s Republic of)
- 3. Taiwan
- 4. United States
+ 1. Taiwan
+ 2. United States
+ 3. Germany
+ 4. China (People&#039;s Republic of)
 
 <details>
   <summary>Answer</summary>
@@ -25,4 +27,4 @@ The computer OEM manufacturer Clevo, known for its Sager notebook line, is based
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  22 hours 54 minutes</strong> since this server shutdown
+Its been <strong>5 days  23 hours 24 minutes</strong> since this server shutdown
