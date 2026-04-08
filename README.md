@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Me and my mates are in a band called Duvet. We're a cover band.
+Why did the cowboy have a weiner dog? Somebody told him to get a long little doggy.
 
 
 ## Daily Trivia
 
-In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
- 1. center
- 2. relative
- 3. absolute
- 4. static
+What does GHz stand for?
+ 1. Gigahetz
+ 2. Gigahertz
+ 3. Gigahotz
+ 4. Gigahatz
 
 <details>
   <summary>Answer</summary>
-  center
+  Gigahertz
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  3 hours 24 minutes</strong> since this server shutdown
+Its been <strong>6 days  3 hours 54 minutes</strong> since this server shutdown
