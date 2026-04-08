@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a careful wolf? Aware wolf.
+It's been months since I bought the book "how to scam people online". It still hasn't turned up.
 
 
 ## Daily Trivia
 
-Which programming language was developed by Sun Microsystems in 1995?
- 1. Solaris OS
- 2. Java
- 3. C++
- 4. Python
+What five letter word is the motto of the IBM Computer company?
+ 1. Click
+ 2. Logic
+ 3. Think
+ 4. Pixel
 
 <details>
   <summary>Answer</summary>
-  Java
+  Think
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  14 hours 24 minutes</strong> since this server shutdown
+Its been <strong>5 days  14 hours 54 minutes</strong> since this server shutdown
