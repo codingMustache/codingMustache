@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The biggest knight at King Arthur's round table was Sir Cumference. He acquired his size from eating too much pi.
+Did you hear about the two thieves who stole a calendar? They each got six months.
 
 
 ## Daily Trivia
 
-What amount of bits commonly equals one byte?
- 1. 64
- 2. 1
- 3. 8
- 4. 2
+In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
+ 1. Green
+ 2. Yellow
+ 3. Blue
+ 4. Red
 
 <details>
   <summary>Answer</summary>
-  8
+  Green
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  18 hours 24 minutes</strong> since this server shutdown
+Its been <strong>5 days  18 hours 54 minutes</strong> since this server shutdown
