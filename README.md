@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a criminal going down the stairs? Condescending
+What did the sea say to the sand? "We have to stop meeting like this."
 
 
 ## Daily Trivia
 
-Unix Time is defined as the number of seconds that have elapsed since when?
- 1. Midnight, January 1, 1970
- 2. Midnight, July 4, 1980
- 3. Midnight on the creator of Unix&#039;s birthday
- 4. Midnight, July 4, 1976
+Which of these programming languages is a low-level language?
+ 1. C#
+ 2. Assembly
+ 3. Python
+ 4. Pascal
 
 <details>
   <summary>Answer</summary>
-  Midnight, January 1, 1970
+  Assembly
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  23 hours 54 minutes</strong> since this server shutdown
+Its been <strong>6 days 24 minutes</strong> since this server shutdown
