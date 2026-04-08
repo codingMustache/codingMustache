@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-This is my step ladder. I never knew my real ladder.
+Did you hear that David lost his ID in prague? Now we just have to call him Dav.
 
 
 ## Daily Trivia
 
-In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
- 1. print(&quot;Hello World&quot;)
- 2. printf(&quot;Hello World&quot;)
- 3. echo &quot;Hello World&quot;
- 4. console.log(&quot;Hello World&quot;)
+What vulnerability ranked #1 on the OWASP Top 10 in 2013?
+ 1. Cross-Site Scripting
+ 2. Insecure Direct Object References
+ 3. Injection 
+ 4. Broken Authentication
 
 <details>
   <summary>Answer</summary>
-  print(&quot;Hello World&quot;)
+  Injection 
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days 54 minutes</strong> since this server shutdown
+Its been <strong>6 days  1 hours 24 minutes</strong> since this server shutdown
