@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How did the hipster burn the roof of his mouth? He ate the pizza before it was cool.
+What do you get when you cross a snowman with a vampire? Frostbite.
 
 
 ## Daily Trivia
 
-Which of the following is NOT a computer science algorithm?
- 1. Quick Sort
- 2. Merge Sort
- 3. Float Sort
- 4. Bubble Sort
+Lenovo acquired IBM&#039;s personal computer division, including the ThinkPad line of laptops and tablets, in what year?
+ 1. 2005
+ 2. 2008
+ 3. 2002
+ 4. 1999
 
 <details>
   <summary>Answer</summary>
-  Float Sort
+  2005
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  4 hours 54 minutes</strong> since this server shutdown
+Its been <strong>6 days  5 hours 24 minutes</strong> since this server shutdown
