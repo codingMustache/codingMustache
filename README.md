@@ -6,25 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's large, grey, and doesn't matter?
-An irrelephant.
-
+What biscuit does a short person like? Shortbread. 
 
 
 ## Daily Trivia
 
-How many bits are commonly in a single byte?
- 1.  Fifteen bits
- 2. Twelve bits
- 3. Six bits
- 4. Eight bits
+Which of these people was NOT a founder of Apple Inc?
+ 1. Steve Jobs
+ 2. Ronald Wayne
+ 3. Steve Wozniak
+ 4. Jonathan Ive
 
 <details>
   <summary>Answer</summary>
-  Eight bits
+  Jonathan Ive
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  1 hours 54 minutes</strong> since this server shutdown
+Its been <strong>6 days  2 hours 24 minutes</strong> since this server shutdown
