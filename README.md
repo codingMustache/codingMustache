@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Camping is intense.
+I had a dream that I was a muffler last night. I woke up exhausted!
 
 
 ## Daily Trivia
 
-Australia, Japan, and Southeast Asia are in which ITU Region?
- 1. Region 1
- 2. Region 3
- 3. Region 4
- 4. Region 2
+The numbering system with a radix of 16 is more commonly referred to as 
+ 1. Octal
+ 2. Hexidecimal
+ 3. Binary
+ 4. Duodecimal
 
 <details>
   <summary>Answer</summary>
-  Region 3
+  Hexidecimal
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  21 hours 54 minutes</strong> since this server shutdown
+Its been <strong>5 days  22 hours 24 minutes</strong> since this server shutdown
