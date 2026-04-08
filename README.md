@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It's been months since I bought the book "how to scam people online". It still hasn't turned up.
+What is a vampire's favorite fruit? A blood orange.
 
 
 ## Daily Trivia
 
-What five letter word is the motto of the IBM Computer company?
- 1. Click
- 2. Logic
- 3. Think
- 4. Pixel
+Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
+ 1. Enigma Machine
+ 2. Clipper Chip
+ 3. Nautilus
+ 4. Skipjack
 
 <details>
   <summary>Answer</summary>
-  Think
+  Clipper Chip
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  14 hours 54 minutes</strong> since this server shutdown
+Its been <strong>5 days  15 hours 24 minutes</strong> since this server shutdown
