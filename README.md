@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do trees seem suspicious on sunny days? Dunno, they're just a bit shady.
+It doesn't matter how much you push the envelope. It will still be stationary.
 
 
 ## Daily Trivia
 
-Which of the following computer components can be built using only NAND gates?
- 1. CPU
- 2. RAM
- 3. ALU
- 4. Register
+What does the &quot;MP&quot; stand for in MP3?
+ 1. Moving Picture
+ 2. Multi Pass
+ 3. Music Player
+ 4. Micro Point
 
 <details>
   <summary>Answer</summary>
-  ALU
+  Moving Picture
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  13 hours 24 minutes</strong> since this server shutdown
+Its been <strong>5 days  13 hours 54 minutes</strong> since this server shutdown
