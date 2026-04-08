@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was ten scared of seven? Because seven ate nine.
+Past, present, and future walked into a bar.... It was tense.
 
 
 ## Daily Trivia
 
-Dutch computer scientist Mark Overmars is known for creating which game development engine?
- 1. Torque 2D
- 2. Game Maker
- 3. Construct
- 4. Stencyl
+What does the &#039;S&#039; in the RSA encryption algorithm stand for?
+ 1. Secure
+ 2. Schottky
+ 3. Stable
+ 4. Shamir
 
 <details>
   <summary>Answer</summary>
-  Game Maker
+  Shamir
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  6 hours 54 minutes</strong> since this server shutdown
+Its been <strong>6 days  7 hours 24 minutes</strong> since this server shutdown
