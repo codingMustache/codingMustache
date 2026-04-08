@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why couldn't the lifeguard save the hippie? He was too far out, man.
+Every night at 11:11, I make a wish that someone will come fix my broken clock.
 
 
 ## Daily Trivia
 
-What was the name of the first Bulgarian personal computer?
- 1. IMKO-1
- 2. IZOT 1030
- 3. Pravetz 82
- 4. Pravetz 8D
+Which of the following is the oldest of these computers by release date?
+ 1. TRS-80
+ 2. Commodore 64
+ 3. ZX Spectrum
+ 4. Apple 3
 
 <details>
   <summary>Answer</summary>
-  IMKO-1
+  TRS-80
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  10 hours 24 minutes</strong> since this server shutdown
+Its been <strong>5 days  10 hours 54 minutes</strong> since this server shutdown
