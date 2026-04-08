@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the sea say to the sand? "We have to stop meeting like this."
+This is my step ladder. I never knew my real ladder.
 
 
 ## Daily Trivia
 
-Which of these programming languages is a low-level language?
- 1. C#
- 2. Assembly
- 3. Python
- 4. Pascal
+In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
+ 1. print(&quot;Hello World&quot;)
+ 2. printf(&quot;Hello World&quot;)
+ 3. echo &quot;Hello World&quot;
+ 4. console.log(&quot;Hello World&quot;)
 
 <details>
   <summary>Answer</summary>
-  Assembly
+  print(&quot;Hello World&quot;)
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days 24 minutes</strong> since this server shutdown
+Its been <strong>6 days 54 minutes</strong> since this server shutdown
