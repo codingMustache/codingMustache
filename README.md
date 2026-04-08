@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What does a pirate pay for his corn? A buccaneer!
+I went to a Foo Fighters Concert once... It was Everlong...
 
 
 ## Daily Trivia
 
-In programming, what do you call functions with the same name but different implementations?
- 1. Inheriting
- 2. Overriding
- 3. Overloading
- 4. Abstracting
+Which of the following languages is used as a scripting language in the Unity 3D game engine?
+ 1. C#
+ 2. Objective-C
+ 3. C++
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  Overloading
+  C#
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  9 hours 24 minutes</strong> since this server shutdown
+Its been <strong>6 days  9 hours 54 minutes</strong> since this server shutdown
