@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a dictionary on drugs? High definition.
+Did you hear about the submarine industry? It really took a dive...
 
 
 ## Daily Trivia
 
-How many values can a single byte represent?
- 1. 8
- 2. 1
- 3. 1024
- 4. 256
+What does GHz stand for?
+ 1. Gigahotz
+ 2. Gigahetz
+ 3. Gigahertz
+ 4. Gigahatz
 
 <details>
   <summary>Answer</summary>
-  256
+  Gigahertz
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  20 hours 54 minutes</strong> since this server shutdown
+Its been <strong>5 days  21 hours 24 minutes</strong> since this server shutdown
