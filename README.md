@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I went to a Foo Fighters Concert once... It was Everlong...
+If at first you don't succeed, sky diving is not for you!
 
 
 ## Daily Trivia
 
-Which of the following languages is used as a scripting language in the Unity 3D game engine?
- 1. C#
- 2. Objective-C
- 3. C++
- 4. Java
+When did the online streaming service &quot;Mixer&quot; launch?
+ 1. 2009
+ 2. 2013
+ 3. 2016
+ 4. 2011
 
 <details>
   <summary>Answer</summary>
-  C#
+  2016
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  9 hours 54 minutes</strong> since this server shutdown
+Its been <strong>6 days  10 hours 24 minutes</strong> since this server shutdown
