@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I cut my finger cutting cheese. I know it may be a cheesy story but I feel grate now.
+You can't trust a ladder. It will always let you down
 
 
 ## Daily Trivia
 
-What was the name of the first Bulgarian personal computer?
- 1. IMKO-1
- 2. IZOT 1030
- 3. Pravetz 8D
- 4. Pravetz 82
+Which of these people was NOT a founder of Apple Inc?
+ 1. Steve Jobs
+ 2. Ronald Wayne
+ 3. Jonathan Ive
+ 4. Steve Wozniak
 
 <details>
   <summary>Answer</summary>
-  IMKO-1
+  Jonathan Ive
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  7 hours 54 minutes</strong> since this server shutdown
+Its been <strong>6 days  8 hours 24 minutes</strong> since this server shutdown
