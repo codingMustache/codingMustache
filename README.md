@@ -6,23 +6,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the doctor say to the gingerbread man who broke his leg? Try icing it.
+What is red and smells like blue paint?
+Red paint!
 
 
 ## Daily Trivia
 
-What was the name of the first Bulgarian personal computer?
- 1. IZOT 1030
- 2. Pravetz 8D
- 3. IMKO-1
- 4. Pravetz 82
+Unix Time is defined as the number of seconds that have elapsed since when?
+ 1. Midnight, January 1, 1970
+ 2. Midnight, July 4, 1980
+ 3. Midnight on the creator of Unix&#039;s birthday
+ 4. Midnight, July 4, 1976
 
 <details>
   <summary>Answer</summary>
-  IMKO-1
+  Midnight, January 1, 1970
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  19 hours 24 minutes</strong> since this server shutdown
+Its been <strong>5 days  19 hours 54 minutes</strong> since this server shutdown
