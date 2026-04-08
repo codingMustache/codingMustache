@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-You can't trust a ladder. It will always let you down
+How do you make Lady Gaga cry? Poker face. 
 
 
 ## Daily Trivia
 
-Which of these people was NOT a founder of Apple Inc?
- 1. Steve Jobs
- 2. Ronald Wayne
- 3. Jonathan Ive
- 4. Steve Wozniak
+What port does HTTP run on?
+ 1. 53
+ 2. 80
+ 3. 443
+ 4. 23
 
 <details>
   <summary>Answer</summary>
-  Jonathan Ive
+  80
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  8 hours 24 minutes</strong> since this server shutdown
+Its been <strong>6 days  8 hours 54 minutes</strong> since this server shutdown
