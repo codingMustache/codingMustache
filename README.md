@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What biscuit does a short person like? Shortbread. 
+Why did the opera singer go sailing? They wanted to hit the high Cs.
 
 
 ## Daily Trivia
 
-Which of these people was NOT a founder of Apple Inc?
- 1. Steve Jobs
- 2. Ronald Wayne
- 3. Steve Wozniak
- 4. Jonathan Ive
+Laserjet and inkjet printers are both examples of what type of printer?
+ 1. Non-impact printer
+ 2. Impact printer
+ 3. Daisywheel printer
+ 4. Dot matrix printer
 
 <details>
   <summary>Answer</summary>
-  Jonathan Ive
+  Non-impact printer
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  2 hours 24 minutes</strong> since this server shutdown
+Its been <strong>6 days  2 hours 54 minutes</strong> since this server shutdown
