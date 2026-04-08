@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What time did the man go to the dentist? Tooth hurt-y.
+Why was ten scared of seven? Because seven ate nine.
 
 
 ## Daily Trivia
 
-What does RAID stand for?
- 1. Redundant Array of Independent Disks
- 2. Randomized Abstract Identification Description
- 3. Range of Applications with Identical Designs
- 4. Rapid Access for Indexed Devices
+Dutch computer scientist Mark Overmars is known for creating which game development engine?
+ 1. Torque 2D
+ 2. Game Maker
+ 3. Construct
+ 4. Stencyl
 
 <details>
   <summary>Answer</summary>
-  Redundant Array of Independent Disks
+  Game Maker
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  6 hours 24 minutes</strong> since this server shutdown
+Its been <strong>6 days  6 hours 54 minutes</strong> since this server shutdown
