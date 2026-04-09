@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why didn't the number 4 get into the nightclub? Because he is 2 square.
+Did you hear about the cheese factory that exploded in France? There was nothing left but de Brie.
 
 
 ## Daily Trivia
 
-What does GHz stand for?
- 1. Gigahertz
- 2. Gigahatz
- 3. Gigahetz
- 4. Gigahotz
+What is the name of the default theme that is installed with Windows XP?
+ 1. Neptune
+ 2. Whistler
+ 3. Bliss
+ 4. Luna
 
 <details>
   <summary>Answer</summary>
-  Gigahertz
+  Luna
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days 54 minutes</strong> since this server shutdown
+Its been <strong>7 days  1 hours 24 minutes</strong> since this server shutdown
