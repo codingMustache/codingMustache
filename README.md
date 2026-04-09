@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you fix a broken pizza? With tomato paste.
+What do you call a female snake. misssssssss 
 
 
 ## Daily Trivia
 
-In any programming language, what is the most common way to iterate through an array?
- 1. &#039;If&#039; Statements
- 2. &#039;Do-while&#039; loops
- 3. &#039;While&#039; loops
- 4. &#039;For&#039; loops
+What major programming language does Unreal Engine 4 use?
+ 1. ECMAScript
+ 2. C#
+ 3. C++
+ 4. Assembly
 
 <details>
   <summary>Answer</summary>
-  &#039;For&#039; loops
+  C++
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  18 hours 54 minutes</strong> since this server shutdown
+Its been <strong>6 days  19 hours 24 minutes</strong> since this server shutdown
