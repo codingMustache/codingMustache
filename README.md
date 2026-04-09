@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-which flower is most fierce? Dandelion
+Why didn't the number 4 get into the nightclub? Because he is 2 square.
 
 
 ## Daily Trivia
 
-The programming language &#039;Swift&#039; was created to replace what other programming language?
- 1. C#
- 2. C++
- 3. Objective-C
- 4. Ruby
+What does GHz stand for?
+ 1. Gigahertz
+ 2. Gigahatz
+ 3. Gigahetz
+ 4. Gigahotz
 
 <details>
   <summary>Answer</summary>
-  Objective-C
+  Gigahertz
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days 24 minutes</strong> since this server shutdown
+Its been <strong>7 days 54 minutes</strong> since this server shutdown
