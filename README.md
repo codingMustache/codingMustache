@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-An apple a day keeps the bullies away. If you throw it hard enough.
+Did you hear about the runner who was criticized? He just took it in stride
 
 
 ## Daily Trivia
 
-What five letter word is the motto of the IBM Computer company?
- 1. Think
- 2. Pixel
- 3. Logic
- 4. Click
+What does &quot;LCD&quot; stand for?
+ 1. Language Control Design
+ 2. Last Common Difference
+ 3. Long Continuous Design
+ 4. Liquid Crystal Display
 
 <details>
   <summary>Answer</summary>
-  Think
+  Liquid Crystal Display
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  1 hours 54 minutes</strong> since this server shutdown
+Its been <strong>7 days  2 hours 24 minutes</strong> since this server shutdown
