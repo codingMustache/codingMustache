@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-When does a joke become a dad joke? When it becomes apparent.
+I used to be addicted to soap, but I'm clean now.
 
 
 ## Daily Trivia
 
-What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
- 1. Coffee Lake
- 2. Broadwell
- 3. Skylake
- 4. Sandy Bridge
+The teapot often seen in many 3D modeling applications is called what?
+ 1. Utah Teapot
+ 2. Tennessee Teapot
+ 3. 3D Teapot
+ 4. Pixar Teapot
 
 <details>
   <summary>Answer</summary>
-  Coffee Lake
+  Utah Teapot
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  12 hours 24 minutes</strong> since this server shutdown
+Its been <strong>6 days  12 hours 54 minutes</strong> since this server shutdown
