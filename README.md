@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do computers and air conditioners have in common? They both become useless when you open windows.
+I was thinking about moving to Moscow but there is no point Russian into things.
 
 
 ## Daily Trivia
 
-How many bits make up the significand portion of a single precision floating point number?
- 1. 8
- 2. 53
- 3. 15
- 4. 23
+What vulnerability ranked #1 on the OWASP Top 10 in 2013?
+ 1. Cross-Site Scripting
+ 2. Broken Authentication
+ 3. Injection 
+ 4. Insecure Direct Object References
 
 <details>
   <summary>Answer</summary>
-  23
+  Injection 
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  5 hours 54 minutes</strong> since this server shutdown
+Its been <strong>7 days  6 hours 24 minutes</strong> since this server shutdown
