@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My pet mouse 'Elvis' died last night. He was caught in a trap..
+I decided to sell my Hoover… well it was just collecting dust.
 
 
 ## Daily Trivia
 
-.rs is the top-level domain for what country?
- 1. Romania
- 2. Russia
- 3. Rwanda
- 4. Serbia
+The teapot often seen in many 3D modeling applications is called what?
+ 1. Pixar Teapot
+ 2. Utah Teapot
+ 3. 3D Teapot
+ 4. Tennessee Teapot
 
 <details>
   <summary>Answer</summary>
-  Serbia
+  Utah Teapot
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  16 hours 54 minutes</strong> since this server shutdown
+Its been <strong>6 days  17 hours 24 minutes</strong> since this server shutdown
