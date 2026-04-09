@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the difference between a hippo and a zippo? One is really heavy, the other is a little lighter.
+Milk is also the fastest liquid on earth – its pasteurized before you even see it
 
 
 ## Daily Trivia
 
-What is the most preferred image format used for logos in the Wikimedia database?
- 1. .png
- 2. .gif
- 3. .jpeg
- 4. .svg
+The Harvard architecture for micro-controllers added which additional bus?
+ 1. Control
+ 2. Data
+ 3. Address
+ 4. Instruction
 
 <details>
   <summary>Answer</summary>
-  .svg
+  Instruction
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  23 hours 24 minutes</strong> since this server shutdown
+Its been <strong>6 days  23 hours 54 minutes</strong> since this server shutdown
