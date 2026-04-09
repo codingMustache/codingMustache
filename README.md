@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I decided to sell my Hoover… well it was just collecting dust.
+Which is the fastest growing city in the world? Dublin'
 
 
 ## Daily Trivia
 
-The teapot often seen in many 3D modeling applications is called what?
- 1. Pixar Teapot
- 2. Utah Teapot
- 3. 3D Teapot
- 4. Tennessee Teapot
+Which of the following is NOT a computer science algorithm?
+ 1. Quick Sort
+ 2. Merge Sort
+ 3. Float Sort
+ 4. Bubble Sort
 
 <details>
   <summary>Answer</summary>
-  Utah Teapot
+  Float Sort
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  17 hours 24 minutes</strong> since this server shutdown
+Its been <strong>6 days  17 hours 54 minutes</strong> since this server shutdown
