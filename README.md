@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the late tomato say to the early tomato? I’ll ketch up
+Where do young cows eat lunch? In the calf-ateria.
 
 
 ## Daily Trivia
 
-Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
- 1. Atari
- 2. Microsoft
- 3. Apple
- 4. Commodore
+The numbering system with a radix of 16 is more commonly referred to as 
+ 1. Duodecimal
+ 2. Hexidecimal
+ 3. Binary
+ 4. Octal
 
 <details>
   <summary>Answer</summary>
-  Apple
+  Hexidecimal
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  9 hours 24 minutes</strong> since this server shutdown
+Its been <strong>7 days  9 hours 54 minutes</strong> since this server shutdown
