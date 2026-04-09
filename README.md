@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you get when you cross a pig and a pineapple? A porky pine
+I am so good at sleeping I can do it with my eyes closed!
 
 
 ## Daily Trivia
 
-The Windows OS was delevoped by which company?
- 1. Microsoft
- 2. Nokia
- 3. Apple
- 4. IBM
+What does the term USB stand for?
+ 1. Unified Signal Bus
+ 2. Universal Simtex Blot
+ 3. Universal Serial Bus
+ 4. Unityped Semtex Backer
 
 <details>
   <summary>Answer</summary>
-  Microsoft
+  Universal Serial Bus
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  7 hours 54 minutes</strong> since this server shutdown
+Its been <strong>7 days  8 hours 24 minutes</strong> since this server shutdown
