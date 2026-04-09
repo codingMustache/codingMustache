@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I have kleptomania, but when it gets bad, I take something for it.
+Without geometry life is pointless.
 
 
 ## Daily Trivia
 
-Which operating system was released first?
- 1. OS/2
- 2. Linux
- 3. Mac OS
- 4. Windows
+What was the first Android version specifically optimized for tablets?
+ 1. Honeycomb
+ 2. Marshmellow
+ 3. Froyo
+ 4. Eclair
 
 <details>
   <summary>Answer</summary>
-  Mac OS
+  Honeycomb
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  10 hours 54 minutes</strong> since this server shutdown
+Its been <strong>6 days  11 hours 24 minutes</strong> since this server shutdown
