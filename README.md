@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I am so good at sleeping I can do it with my eyes closed!
+Want to hear my pizza joke? Never mind, it's too cheesy.
 
 
 ## Daily Trivia
 
-What does the term USB stand for?
- 1. Unified Signal Bus
- 2. Universal Simtex Blot
- 3. Universal Serial Bus
- 4. Unityped Semtex Backer
+Which data structure does FILO apply to?
+ 1. Stack
+ 2. Tree
+ 3. Heap
+ 4. Queue
 
 <details>
   <summary>Answer</summary>
-  Universal Serial Bus
+  Stack
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  8 hours 24 minutes</strong> since this server shutdown
+Its been <strong>7 days  8 hours 54 minutes</strong> since this server shutdown
