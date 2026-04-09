@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call corn that joins the army? Kernel.
+Why was the picture sent to prison? It was framed.
 
 
 ## Daily Trivia
 
-Which kind of algorithm is Ron Rivest not famous for creating?
- 1. Secret sharing scheme
- 2. Stream cipher
- 3. Asymmetric encryption
- 4. Hashing algorithm
+Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
+ 1. Apple
+ 2. Commodore
+ 3. Atari
+ 4. Microsoft
 
 <details>
   <summary>Answer</summary>
-  Secret sharing scheme
+  Apple
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  15 hours 54 minutes</strong> since this server shutdown
+Its been <strong>6 days  16 hours 24 minutes</strong> since this server shutdown
