@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the scarf say to the hat? You go on ahead, I am going to hang around a bit longer.
+What's the difference between a hippo and a zippo? One is really heavy, the other is a little lighter.
 
 
 ## Daily Trivia
 
-In the server hosting industry IaaS stands for...
- 1. Internet as a Service
- 2. Internet and a Server
- 3. Infrastructure as a Server
- 4. Infrastructure as a Service
+What is the most preferred image format used for logos in the Wikimedia database?
+ 1. .png
+ 2. .gif
+ 3. .jpeg
+ 4. .svg
 
 <details>
   <summary>Answer</summary>
-  Infrastructure as a Service
+  .svg
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  22 hours 54 minutes</strong> since this server shutdown
+Its been <strong>6 days  23 hours 24 minutes</strong> since this server shutdown
