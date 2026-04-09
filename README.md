@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the runner who was criticized? He just took it in stride
+My wife said I was immature. So I told her to get out of my fort.
 
 
 ## Daily Trivia
 
-What does &quot;LCD&quot; stand for?
- 1. Language Control Design
- 2. Last Common Difference
- 3. Long Continuous Design
- 4. Liquid Crystal Display
+How many cores does the Intel i7-6950X have?
+ 1. 4
+ 2. 8
+ 3. 10
+ 4. 12
 
 <details>
   <summary>Answer</summary>
-  Liquid Crystal Display
+  10
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  2 hours 24 minutes</strong> since this server shutdown
+Its been <strong>7 days  2 hours 54 minutes</strong> since this server shutdown
