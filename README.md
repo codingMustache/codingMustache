@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the cheese factory that exploded in France? There was nothing left but de Brie.
+An apple a day keeps the bullies away. If you throw it hard enough.
 
 
 ## Daily Trivia
 
-What is the name of the default theme that is installed with Windows XP?
- 1. Neptune
- 2. Whistler
- 3. Bliss
- 4. Luna
+What five letter word is the motto of the IBM Computer company?
+ 1. Think
+ 2. Pixel
+ 3. Logic
+ 4. Click
 
 <details>
   <summary>Answer</summary>
-  Luna
+  Think
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  1 hours 24 minutes</strong> since this server shutdown
+Its been <strong>7 days  1 hours 54 minutes</strong> since this server shutdown
