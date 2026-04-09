@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear the one about the giant pickle?  He was kind of a big dill.
+Why do mathematicians hate the U.S.? Because it's indivisible.
 
 
 ## Daily Trivia
 
-What major programming language does Unreal Engine 4 use?
- 1. ECMAScript
- 2. C++
- 3. Assembly
- 4. C#
+Which programming language shares its name with an island in Indonesia?
+ 1. Java
+ 2. Jakarta
+ 3. C
+ 4. Python
 
 <details>
   <summary>Answer</summary>
-  C++
+  Java
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  6 hours 54 minutes</strong> since this server shutdown
+Its been <strong>7 days  7 hours 24 minutes</strong> since this server shutdown
