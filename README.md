@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-If you walk into a forest and cut down a tree, but the tree doesn't understand why you cut it down, do you think it's stumped?
+How come a man driving a train got struck by lightning? He was a good conductor.
 
 
 ## Daily Trivia
 
-In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
- 1. static
- 2. absolute
- 3. relative
- 4. center
+What major programming language does Unreal Engine 4 use?
+ 1. Assembly
+ 2. C#
+ 3. C++
+ 4. ECMAScript
 
 <details>
   <summary>Answer</summary>
-  center
+  C++
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  3 hours 24 minutes</strong> since this server shutdown
+Its been <strong>8 days  3 hours 54 minutes</strong> since this server shutdown
