@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the knife dress up in a suit? Because it wanted to look sharp
+I gave all my dead batteries away today, free of charge.
 
 
 ## Daily Trivia
 
-Who invented the &quot;Spanning Tree Protocol&quot;?
- 1. Paul Vixie
- 2. Vint Cerf
- 3. Michael Roberts
- 4. Radia Perlman
+Laserjet and inkjet printers are both examples of what type of printer?
+ 1. Impact printer
+ 2. Daisywheel printer
+ 3. Non-impact printer
+ 4. Dot matrix printer
 
 <details>
   <summary>Answer</summary>
-  Radia Perlman
+  Non-impact printer
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  2 hours 24 minutes</strong> since this server shutdown
+Its been <strong>8 days  2 hours 54 minutes</strong> since this server shutdown
