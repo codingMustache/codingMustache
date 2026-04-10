@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to work in a shoe recycling shop. It was sole destroying.
+Someone asked me to name two structures that hold water. I said "Well dam"
 
 
 ## Daily Trivia
 
-What does &quot;LCD&quot; stand for?
- 1. Liquid Crystal Display
- 2. Long Continuous Design
- 3. Last Common Difference
- 4. Language Control Design
+What was the first Android version specifically optimized for tablets?
+ 1. Eclair
+ 2. Froyo
+ 3. Marshmellow
+ 4. Honeycomb
 
 <details>
   <summary>Answer</summary>
-  Liquid Crystal Display
+  Honeycomb
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  22 hours 24 minutes</strong> since this server shutdown
+Its been <strong>7 days  22 hours 54 minutes</strong> since this server shutdown
