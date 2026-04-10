@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do computers and air conditioners have in common? They both become useless when you open windows.
+Last night me and my girlfriend watched three DVDs back to back. Luckily I was the one facing the TV.
 
 
 ## Daily Trivia
 
-On which day did the World Wide Web go online?
- 1. December 20, 1990
- 2. November 24, 1995
- 3. November 12, 1990
- 4. December 17, 1996
+How many bits are commonly in a single byte?
+ 1. Eight bits
+ 2.  Fifteen bits
+ 3. Twelve bits
+ 4. Six bits
 
 <details>
   <summary>Answer</summary>
-  December 20, 1990
+  Eight bits
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  14 hours 24 minutes</strong> since this server shutdown
+Its been <strong>7 days  14 hours 54 minutes</strong> since this server shutdown
