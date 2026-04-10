@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where does Fonzie like to go for lunch? Chick-Fil-Eyyyyyyyy.
+What do computers and air conditioners have in common? They both become useless when you open windows.
 
 
 ## Daily Trivia
 
-In computing terms, typically what does CLI stand for?
- 1. Command Line Interface
- 2. Common Language Interface
- 3. Control Line Interface
- 4. Common Language Input
+On which day did the World Wide Web go online?
+ 1. December 20, 1990
+ 2. November 24, 1995
+ 3. November 12, 1990
+ 4. December 17, 1996
 
 <details>
   <summary>Answer</summary>
-  Command Line Interface
+  December 20, 1990
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  13 hours 54 minutes</strong> since this server shutdown
+Its been <strong>7 days  14 hours 24 minutes</strong> since this server shutdown
