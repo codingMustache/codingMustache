@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A Skeleton walked into a bar he said I need a beer and a mop
+Why is the ocean always blue? Because the shore never waves back.
 
 
 ## Daily Trivia
 
-Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
- 1. eBay
- 2. Overstock
- 3. Shopify
- 4. Amazon
+What does the &#039;S&#039; in the RSA encryption algorithm stand for?
+ 1. Secure
+ 2. Shamir
+ 3. Schottky
+ 4. Stable
 
 <details>
   <summary>Answer</summary>
-  Amazon
+  Shamir
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  4 hours 54 minutes</strong> since this server shutdown
+Its been <strong>8 days  5 hours 24 minutes</strong> since this server shutdown
