@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear the one about the guy with the broken hearing aid? Neither did he.
+The invention of the wheel was what got things rolling
 
 
 ## Daily Trivia
 
-What programming language was GitHub written in?
- 1. JavaScript
- 2. Python
- 3. Lua
- 4. Ruby
+In computing, what does MIDI stand for?
+ 1. Musical Instrument Data Interface
+ 2. Musical Instrument Digital Interface
+ 3. Modular Interface of Digital Instruments
+ 4. Musical Interface of Digital Instruments
 
 <details>
   <summary>Answer</summary>
-  Ruby
+  Musical Instrument Digital Interface
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  10 hours 24 minutes</strong> since this server shutdown
+Its been <strong>7 days  10 hours 54 minutes</strong> since this server shutdown
