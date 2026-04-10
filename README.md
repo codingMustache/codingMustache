@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My friend told me that pepper is the best seasoning for a roast, but I took it with a grain of salt.
+I used to work in a shoe recycling shop. It was sole destroying.
 
 
 ## Daily Trivia
 
-What does the International System of Quantities refer 1024 bytes as?
- 1. Kelobyte
- 2. Kibibyte
- 3. Kilobyte
- 4. Kylobyte
+What does &quot;LCD&quot; stand for?
+ 1. Liquid Crystal Display
+ 2. Long Continuous Design
+ 3. Last Common Difference
+ 4. Language Control Design
 
 <details>
   <summary>Answer</summary>
-  Kibibyte
+  Liquid Crystal Display
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  21 hours 54 minutes</strong> since this server shutdown
+Its been <strong>7 days  22 hours 24 minutes</strong> since this server shutdown
