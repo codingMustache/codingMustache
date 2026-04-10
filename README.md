@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you know you should always take an extra pair of pants golfing? Just in case you get a hole in one.
+What did the dog say to the two trees? Bark bark.
 
 
 ## Daily Trivia
 
-What does &quot;LCD&quot; stand for?
- 1. Language Control Design
- 2. Last Common Difference
- 3. Long Continuous Design
- 4. Liquid Crystal Display
+Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
+ 1. Cherry MX Blue
+ 2. Cherry MX Black
+ 3. Cherry MX Brown
+ 4. Cherry MX Red
 
 <details>
   <summary>Answer</summary>
-  Liquid Crystal Display
+  Cherry MX Blue
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  12 hours 24 minutes</strong> since this server shutdown
+Its been <strong>7 days  12 hours 54 minutes</strong> since this server shutdown
