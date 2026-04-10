@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A man tried to sell me a coffin today. I told him that's the last thing I need.
+What did the left eye say to the right eye? Between us, something smells!
 
 
 ## Daily Trivia
 
-How fast is USB 3.1 Gen 2 theoretically?
- 1. 1 Gb/s
- 2. 10 Gb/s
- 3. 8 Gb/s
- 4. 5 Gb/s
+What was the name of the image that features as the default background wallpaper for Windows XP?
+ 1. Bliss
+ 2. Tulips
+ 3. Red moon desert
+ 4. Azul
 
 <details>
   <summary>Answer</summary>
-  10 Gb/s
+  Bliss
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  16 hours 54 minutes</strong> since this server shutdown
+Its been <strong>7 days  17 hours 24 minutes</strong> since this server shutdown
