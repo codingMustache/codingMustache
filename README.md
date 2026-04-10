@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you know that ghosts call their true love their ghoul-friend?
+Why did the knife dress up in a suit? Because it wanted to look sharp
 
 
 ## Daily Trivia
 
-Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
- 1. Cherry MX Blue
- 2. Cherry MX Brown
- 3. Cherry MX Red
- 4. Cherry MX Black
+Who invented the &quot;Spanning Tree Protocol&quot;?
+ 1. Paul Vixie
+ 2. Vint Cerf
+ 3. Michael Roberts
+ 4. Radia Perlman
 
 <details>
   <summary>Answer</summary>
-  Cherry MX Blue
+  Radia Perlman
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  1 hours 54 minutes</strong> since this server shutdown
+Its been <strong>8 days  2 hours 24 minutes</strong> since this server shutdown
