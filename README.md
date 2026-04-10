@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Bought a new jacket suit the other day and it burst into flames. Well, it was a blazer
+How many bones are in the human hand? A handful of them.
 
 
 ## Daily Trivia
 
-The Windows OS was delevoped by which company?
- 1. Apple
- 2. Nokia
- 3. IBM
- 4. Microsoft
+Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
+ 1. Two Years
+ 2. Year
+ 3. Eight Years
+ 4. Four Years
 
 <details>
   <summary>Answer</summary>
-  Microsoft
+  Year
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  5 hours 54 minutes</strong> since this server shutdown
+Its been <strong>8 days  6 hours 24 minutes</strong> since this server shutdown
