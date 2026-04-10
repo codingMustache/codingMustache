@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many bones are in the human hand? A handful of them.
+What is this movie about? It is about 2 hours long.
 
 
 ## Daily Trivia
 
-Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
- 1. Two Years
- 2. Year
- 3. Eight Years
- 4. Four Years
+Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
+ 1. Nautilus
+ 2. Clipper Chip
+ 3. Skipjack
+ 4. Enigma Machine
 
 <details>
   <summary>Answer</summary>
-  Year
+  Clipper Chip
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  6 hours 24 minutes</strong> since this server shutdown
+Its been <strong>8 days  6 hours 54 minutes</strong> since this server shutdown
