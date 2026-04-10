@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-R.I.P. boiled water. You will be mist.
+Have you heard about corduroy pillows?  They're making headlines!
 
 
 ## Daily Trivia
 
-Generally, which component of a computer draws the most power?
- 1. Power Supply
- 2. Video Card
- 3. Processor
- 4. Hard Drive
+What language does Node.js use?
+ 1. JavaScript
+ 2. Joomla Source Code
+ 3. Java Source
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  Video Card
+  JavaScript
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days 24 minutes</strong> since this server shutdown
+Its been <strong>8 days 54 minutes</strong> since this server shutdown
