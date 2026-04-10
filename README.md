@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Have you heard about corduroy pillows?  They're making headlines!
+What did Michael Jackson name his denim store?    Billy Jeans!
 
 
 ## Daily Trivia
 
-What language does Node.js use?
- 1. JavaScript
- 2. Joomla Source Code
- 3. Java Source
- 4. Java
+What does CPU stand for?
+ 1. Central Processor Unit
+ 2. Computer Personal Unit
+ 3. Central Processing Unit
+ 4. Central Process Unit
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  Central Processing Unit
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days 54 minutes</strong> since this server shutdown
+Its been <strong>8 days  1 hours 24 minutes</strong> since this server shutdown
