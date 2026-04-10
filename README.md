@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did Michael Jackson name his denim store?    Billy Jeans!
+Did you know that ghosts call their true love their ghoul-friend?
 
 
 ## Daily Trivia
 
-What does CPU stand for?
- 1. Central Processor Unit
- 2. Computer Personal Unit
- 3. Central Processing Unit
- 4. Central Process Unit
+Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
+ 1. Cherry MX Blue
+ 2. Cherry MX Brown
+ 3. Cherry MX Red
+ 4. Cherry MX Black
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  Cherry MX Blue
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  1 hours 24 minutes</strong> since this server shutdown
+Its been <strong>8 days  1 hours 54 minutes</strong> since this server shutdown
