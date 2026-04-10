@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Last night me and my girlfriend watched three DVDs back to back. Luckily I was the one facing the TV.
+My new thesaurus is terrible. In fact, it's so bad, I'd say it's terrible.
 
 
 ## Daily Trivia
 
-How many bits are commonly in a single byte?
- 1. Eight bits
- 2.  Fifteen bits
- 3. Twelve bits
- 4. Six bits
+According to the International System of Units, how many bytes are in a kilobyte of RAM?
+ 1. 512
+ 2. 1024
+ 3. 500
+ 4. 1000
 
 <details>
   <summary>Answer</summary>
-  Eight bits
+  1000
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  14 hours 54 minutes</strong> since this server shutdown
+Its been <strong>7 days  15 hours 24 minutes</strong> since this server shutdown
