@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the chicken get a penalty? For fowl play.
+I invented a new word! Plagiarism!
 
 
 ## Daily Trivia
 
-What is the name of the process that sends one qubit of information using two bits of classical information?
- 1. Quantum Programming
- 2. Super Dense Coding
- 3. Quantum Entanglement
- 4. Quantum Teleportation
+In computing, what does LAN stand for?
+ 1. Local Area Network
+ 2. Land Address Navigation
+ 3. Light Access Node
+ 4. Long Antenna Node
 
 <details>
   <summary>Answer</summary>
-  Quantum Teleportation
+  Local Area Network
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  19 hours 54 minutes</strong> since this server shutdown
+Its been <strong>7 days  20 hours 24 minutes</strong> since this server shutdown
