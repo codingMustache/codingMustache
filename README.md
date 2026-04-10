@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How come a man driving a train got struck by lightning? He was a good conductor.
+What is this movie about? It is about 2 hours long.
 
 
 ## Daily Trivia
 
-What major programming language does Unreal Engine 4 use?
- 1. Assembly
- 2. C#
- 3. C++
- 4. ECMAScript
+What does the &#039;S&#039; in the RSA encryption algorithm stand for?
+ 1. Schottky
+ 2. Secure
+ 3. Shamir
+ 4. Stable
 
 <details>
   <summary>Answer</summary>
-  C++
+  Shamir
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  3 hours 54 minutes</strong> since this server shutdown
+Its been <strong>8 days  4 hours 24 minutes</strong> since this server shutdown
