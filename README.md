@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I've started telling everyone about the benefits of eating dried grapes. It's all about raisin awareness.
+R.I.P. boiled water. You will be mist.
 
 
 ## Daily Trivia
 
-Approximately how many Apple I personal computers were created?
- 1. 100
- 2. 500
- 3. 200
- 4. 1000
+Generally, which component of a computer draws the most power?
+ 1. Power Supply
+ 2. Video Card
+ 3. Processor
+ 4. Hard Drive
 
 <details>
   <summary>Answer</summary>
-  200
+  Video Card
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  23 hours 54 minutes</strong> since this server shutdown
+Its been <strong>8 days 24 minutes</strong> since this server shutdown
