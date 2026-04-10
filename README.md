@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why don't sharks eat clowns?  Because they taste funny.
+My boss told me to have a good day... so I went home.
 
 
 ## Daily Trivia
 
-How long is an IPv6 address?
- 1. 32 bits
- 2. 128 bits
- 3. 128 bytes
- 4. 64 bits
+What does the Prt Sc button do?
+ 1. Closes all windows
+ 2. Captures what&#039;s on the screen and copies it to your clipboard
+ 3. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
+ 4. Nothing
 
 <details>
   <summary>Answer</summary>
-  128 bits
+  Captures what&#039;s on the screen and copies it to your clipboard
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  9 hours 24 minutes</strong> since this server shutdown
+Its been <strong>8 days  9 hours 54 minutes</strong> since this server shutdown
