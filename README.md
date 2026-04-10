@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why can't a bicycle stand on its own? It's two-tired.
+Why don't sharks eat clowns?  Because they taste funny.
 
 
 ## Daily Trivia
 
-What is the most preferred image format used for logos in the Wikimedia database?
- 1. .gif
- 2. .jpeg
- 3. .png
- 4. .svg
+How long is an IPv6 address?
+ 1. 32 bits
+ 2. 128 bits
+ 3. 128 bytes
+ 4. 64 bits
 
 <details>
   <summary>Answer</summary>
-  .svg
+  128 bits
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  8 hours 54 minutes</strong> since this server shutdown
+Its been <strong>8 days  9 hours 24 minutes</strong> since this server shutdown
