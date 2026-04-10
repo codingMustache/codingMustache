@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the coffee file a police report? It got mugged.
+Why should you never trust a pig with a secret? Because it's bound to squeal.
 
 
 ## Daily Trivia
 
-In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
- 1. Private
- 2. Static
- 3. Final
- 4. Public
+In computing, what does MIDI stand for?
+ 1. Musical Interface of Digital Instruments
+ 2. Musical Instrument Digital Interface
+ 3. Modular Interface of Digital Instruments
+ 4. Musical Instrument Data Interface
 
 <details>
   <summary>Answer</summary>
-  Final
+  Musical Instrument Digital Interface
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  18 hours 24 minutes</strong> since this server shutdown
+Its been <strong>7 days  18 hours 54 minutes</strong> since this server shutdown
