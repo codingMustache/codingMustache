@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-what do you call a dog that can do magic tricks? a labracadabrador
+My friend told me that pepper is the best seasoning for a roast, but I took it with a grain of salt.
 
 
 ## Daily Trivia
 
-Which operating system was released first?
- 1. Mac OS
- 2. Windows
- 3. Linux
- 4. OS/2
+What does the International System of Quantities refer 1024 bytes as?
+ 1. Kelobyte
+ 2. Kibibyte
+ 3. Kilobyte
+ 4. Kylobyte
 
 <details>
   <summary>Answer</summary>
-  Mac OS
+  Kibibyte
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  21 hours 24 minutes</strong> since this server shutdown
+Its been <strong>7 days  21 hours 54 minutes</strong> since this server shutdown
