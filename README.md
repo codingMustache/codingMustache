@@ -6,24 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Cosmetic surgery used to be such a taboo subject.
-Now you can talk about Botox and nobody raises an eyebrow.
+Why can't a bicycle stand on its own? It's two-tired.
 
 
 ## Daily Trivia
 
-In web design, what does CSS stand for?
- 1. Counter Strike: Source
- 2. Cascading Style Sheet
- 3. Corrective Style Sheet
- 4. Computer Style Sheet
+What is the most preferred image format used for logos in the Wikimedia database?
+ 1. .gif
+ 2. .jpeg
+ 3. .png
+ 4. .svg
 
 <details>
   <summary>Answer</summary>
-  Cascading Style Sheet
+  .svg
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  8 hours 24 minutes</strong> since this server shutdown
+Its been <strong>8 days  8 hours 54 minutes</strong> since this server shutdown
