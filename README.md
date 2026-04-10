@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the house go to the doctor? It was having window panes.
+Where does Fonzie like to go for lunch? Chick-Fil-Eyyyyyyyy.
 
 
 ## Daily Trivia
 
-Whistler was the codename of this Microsoft Operating System.
- 1. Windows XP
- 2. Windows 95
- 3. Windows 2000
- 4. Windows 7
+In computing terms, typically what does CLI stand for?
+ 1. Command Line Interface
+ 2. Common Language Interface
+ 3. Control Line Interface
+ 4. Common Language Input
 
 <details>
   <summary>Answer</summary>
-  Windows XP
+  Command Line Interface
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  13 hours 24 minutes</strong> since this server shutdown
+Its been <strong>7 days  13 hours 54 minutes</strong> since this server shutdown
