@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My first time using an elevator was an uplifting experience. The second time let me down.
+what do you call a dog that can do magic tricks? a labracadabrador
 
 
 ## Daily Trivia
 
-This mobile OS held the largest market share in 2012.
- 1. Android
- 2. iOS
- 3. Symbian
- 4. BlackBerry
+Which operating system was released first?
+ 1. Mac OS
+ 2. Windows
+ 3. Linux
+ 4. OS/2
 
 <details>
   <summary>Answer</summary>
-  iOS
+  Mac OS
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  20 hours 54 minutes</strong> since this server shutdown
+Its been <strong>7 days  21 hours 24 minutes</strong> since this server shutdown
