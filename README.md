@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I’m reading a book on the history of glue – can’t put it down.
+A man tried to sell me a coffin today. I told him that's the last thing I need.
 
 
 ## Daily Trivia
 
-What does LTS stand for in the software market?
- 1. Ludicrous Transfer Speed
- 2. Long Taco Service
- 3. Ludicrous Turbo Speed
- 4. Long Term Support
+How fast is USB 3.1 Gen 2 theoretically?
+ 1. 1 Gb/s
+ 2. 10 Gb/s
+ 3. 8 Gb/s
+ 4. 5 Gb/s
 
 <details>
   <summary>Answer</summary>
-  Long Term Support
+  10 Gb/s
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  16 hours 24 minutes</strong> since this server shutdown
+Its been <strong>7 days  16 hours 54 minutes</strong> since this server shutdown
