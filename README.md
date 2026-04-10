@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is this movie about? It is about 2 hours long.
+A Skeleton walked into a bar he said I need a beer and a mop
 
 
 ## Daily Trivia
 
-What does the &#039;S&#039; in the RSA encryption algorithm stand for?
- 1. Schottky
- 2. Secure
- 3. Shamir
- 4. Stable
+Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
+ 1. eBay
+ 2. Overstock
+ 3. Shopify
+ 4. Amazon
 
 <details>
   <summary>Answer</summary>
-  Shamir
+  Amazon
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  4 hours 24 minutes</strong> since this server shutdown
+Its been <strong>8 days  4 hours 54 minutes</strong> since this server shutdown
