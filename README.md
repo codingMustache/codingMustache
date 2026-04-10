@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why is the ocean always blue? Because the shore never waves back.
+Bought a new jacket suit the other day and it burst into flames. Well, it was a blazer
 
 
 ## Daily Trivia
 
-What does the &#039;S&#039; in the RSA encryption algorithm stand for?
- 1. Secure
- 2. Shamir
- 3. Schottky
- 4. Stable
+The Windows OS was delevoped by which company?
+ 1. Apple
+ 2. Nokia
+ 3. IBM
+ 4. Microsoft
 
 <details>
   <summary>Answer</summary>
-  Shamir
+  Microsoft
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  5 hours 24 minutes</strong> since this server shutdown
+Its been <strong>8 days  5 hours 54 minutes</strong> since this server shutdown
