@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of music do mummy's like? Rap
+Why did the house go to the doctor? It was having window panes.
 
 
 ## Daily Trivia
 
-Dutch computer scientist Mark Overmars is known for creating which game development engine?
- 1. Stencyl
- 2. Game Maker
- 3. Construct
- 4. Torque 2D
+What does the acronym CDN stand for in terms of networking?
+ 1. Compressed Data Network
+ 2. Computational Data Network
+ 3. Content Distribution Network
+ 4. Content Delivery Network
 
 <details>
   <summary>Answer</summary>
-  Game Maker
+  Content Delivery Network
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  13 hours 54 minutes</strong> since this server shutdown
+Its been <strong>8 days  14 hours 24 minutes</strong> since this server shutdown
