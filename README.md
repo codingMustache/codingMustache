@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What musical instrument is found in the bathroom? A tuba toothpaste.
+The urge to sing the Lion King song is just a whim away.
 
 
 ## Daily Trivia
 
-Which kind of algorithm is Ron Rivest not famous for creating?
- 1. Hashing algorithm
- 2. Stream cipher
- 3. Secret sharing scheme
- 4. Asymmetric encryption
+What language does Node.js use?
+ 1. Java
+ 2. Java Source
+ 3. Joomla Source Code
+ 4. JavaScript
 
 <details>
   <summary>Answer</summary>
-  Secret sharing scheme
+  JavaScript
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  20 hours 24 minutes</strong> since this server shutdown
+Its been <strong>8 days  20 hours 54 minutes</strong> since this server shutdown
