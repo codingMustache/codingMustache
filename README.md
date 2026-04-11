@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the runner who was criticized? He just took it in stride
+What do you call a pig with three eyes? Piiig
 
 
 ## Daily Trivia
 
-Which programming language was developed by Sun Microsystems in 1995?
- 1. Python
- 2. Java
- 3. Solaris OS
- 4. C++
+In computing terms, typically what does CLI stand for?
+ 1. Command Line Interface
+ 2. Common Language Interface
+ 3. Control Line Interface
+ 4. Common Language Input
 
 <details>
   <summary>Answer</summary>
-  Java
+  Command Line Interface
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  8 hours 24 minutes</strong> since this server shutdown
+Its been <strong>9 days  8 hours 54 minutes</strong> since this server shutdown
