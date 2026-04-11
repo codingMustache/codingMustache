@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Past, present, and future walked into a bar.... It was tense.
+Egyptians claimed to invent the guitar, but they were such lyres.﻿
 
 
 ## Daily Trivia
 
-What programming language was GitHub written in?
- 1. Lua
- 2. Ruby
- 3. Python
- 4. JavaScript
+What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
+ 1. Transport
+ 2. Network
+ 3. Data link
+ 4. Session
 
 <details>
   <summary>Answer</summary>
-  Ruby
+  Transport
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  3 hours 24 minutes</strong> since this server shutdown
+Its been <strong>9 days  3 hours 54 minutes</strong> since this server shutdown
