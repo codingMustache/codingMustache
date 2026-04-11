@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a guy lying on your doorstep? Matt.
+I used to have a job at a calendar factory but I got the sack because I took a couple of days off.
 
 
 ## Daily Trivia
 
-In computing terms, typically what does CLI stand for?
- 1. Common Language Interface
- 2. Command Line Interface
- 3. Control Line Interface
- 4. Common Language Input
+In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
+ 1. absolute
+ 2. relative
+ 3. static
+ 4. center
 
 <details>
   <summary>Answer</summary>
-  Command Line Interface
+  center
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  2 hours 24 minutes</strong> since this server shutdown
+Its been <strong>9 days  2 hours 54 minutes</strong> since this server shutdown
