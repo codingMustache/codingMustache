@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a fish wearing a bowtie? Sofishticated.
+What's the difference between a guitar and a fish? You can tune a guitar but you can't "tuna" fish!
 
 
 ## Daily Trivia
 
-What is the code name for the mobile operating system Android 7.0?
- 1. Ice Cream Sandwich
- 2. Jelly Bean
- 3. Marshmallow
- 4. Nougat
+What does the International System of Quantities refer 1024 bytes as?
+ 1. Kilobyte
+ 2. Kelobyte
+ 3. Kylobyte
+ 4. Kibibyte
 
 <details>
   <summary>Answer</summary>
-  Nougat
+  Kibibyte
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  5 hours 24 minutes</strong> since this server shutdown
+Its been <strong>9 days  5 hours 54 minutes</strong> since this server shutdown
