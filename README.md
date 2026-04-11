@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A boy dug three holes in the yard. When his mother saw, she exclaimed: "well, well, well"
+It doesn't matter how much you push the envelope. It will still be stationary.
 
 
 ## Daily Trivia
 
-Who is the founder of Palantir?
- 1. Peter Thiel
- 2. Jack Dorsey
- 3. Marc Benioff
- 4. Mark Zuckerberg
+Which operating system was released first?
+ 1. Windows
+ 2. Linux
+ 3. Mac OS
+ 4. OS/2
 
 <details>
   <summary>Answer</summary>
-  Peter Thiel
+  Mac OS
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  21 hours 24 minutes</strong> since this server shutdown
+Its been <strong>8 days  21 hours 54 minutes</strong> since this server shutdown
