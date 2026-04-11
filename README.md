@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I got fired from the transmission factor, turns out I didn't put on enough shifts...
+What do you call a guy lying on your doorstep? Matt.
 
 
 ## Daily Trivia
 
-Who is the original author of the realtime physics engine called PhysX?
- 1. AMD
- 2. NovodeX
- 3. Nvidia
- 4. Ageia
+In computing terms, typically what does CLI stand for?
+ 1. Common Language Interface
+ 2. Command Line Interface
+ 3. Control Line Interface
+ 4. Common Language Input
 
 <details>
   <summary>Answer</summary>
-  NovodeX
+  Command Line Interface
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  1 hours 54 minutes</strong> since this server shutdown
+Its been <strong>9 days  2 hours 24 minutes</strong> since this server shutdown
