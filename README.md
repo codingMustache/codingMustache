@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The urge to sing the Lion King song is just a whim away.
+A boy dug three holes in the yard. When his mother saw, she exclaimed: "well, well, well"
 
 
 ## Daily Trivia
 
-What language does Node.js use?
- 1. Java
- 2. Java Source
- 3. Joomla Source Code
- 4. JavaScript
+Who is the founder of Palantir?
+ 1. Peter Thiel
+ 2. Jack Dorsey
+ 3. Marc Benioff
+ 4. Mark Zuckerberg
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  Peter Thiel
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  20 hours 54 minutes</strong> since this server shutdown
+Its been <strong>8 days  21 hours 24 minutes</strong> since this server shutdown
