@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I tried taking some high resolution photos of local farmland, but they all turned out a bit grainy.
+I was going to learn how to juggle, but I didn't have the balls.
 
 
 ## Daily Trivia
 
-How many cores does the Intel i7-6950X have?
- 1. 4
- 2. 8
- 3. 10
- 4. 12
+Which of these people was NOT a founder of Apple Inc?
+ 1. Steve Wozniak
+ 2. Ronald Wayne
+ 3. Jonathan Ive
+ 4. Steve Jobs
 
 <details>
   <summary>Answer</summary>
-  10
+  Jonathan Ive
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  22 hours 54 minutes</strong> since this server shutdown
+Its been <strong>8 days  23 hours 24 minutes</strong> since this server shutdown
