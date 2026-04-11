@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I got fired from the transmission factor, turns out I didn't put on enough shifts...
+What kind of music do mummy's like? Rap
 
 
 ## Daily Trivia
 
-Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
- 1. Cherry MX Black
- 2. Cherry MX Red
- 3. Cherry MX Brown
- 4. Cherry MX Blue
+Dutch computer scientist Mark Overmars is known for creating which game development engine?
+ 1. Stencyl
+ 2. Game Maker
+ 3. Construct
+ 4. Torque 2D
 
 <details>
   <summary>Answer</summary>
-  Cherry MX Blue
+  Game Maker
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  13 hours 24 minutes</strong> since this server shutdown
+Its been <strong>8 days  13 hours 54 minutes</strong> since this server shutdown
