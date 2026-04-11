@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My boss told me to have a good day... so I went home.
+What do you call a cow on a trampoline? A milk shake!
 
 
 ## Daily Trivia
 
-Whistler was the codename of this Microsoft Operating System.
- 1. Windows 2000
- 2. Windows 7
- 3. Windows 95
- 4. Windows XP
+In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
+ 1. Static
+ 2. Private
+ 3. Final
+ 4. Public
 
 <details>
   <summary>Answer</summary>
-  Windows XP
+  Final
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  10 hours 54 minutes</strong> since this server shutdown
+Its been <strong>8 days  11 hours 24 minutes</strong> since this server shutdown
