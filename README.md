@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I just broke my guitar. It's okay, I won't fret
+Did you hear about the runner who was criticized? He just took it in stride
 
 
 ## Daily Trivia
 
-Generally, which component of a computer draws the most power?
- 1. Power Supply
- 2. Processor
- 3. Video Card
- 4. Hard Drive
+Which programming language was developed by Sun Microsystems in 1995?
+ 1. Python
+ 2. Java
+ 3. Solaris OS
+ 4. C++
 
 <details>
   <summary>Answer</summary>
-  Video Card
+  Java
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  7 hours 54 minutes</strong> since this server shutdown
+Its been <strong>9 days  8 hours 24 minutes</strong> since this server shutdown
