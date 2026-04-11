@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to have a job at a calendar factory but I got the sack because I took a couple of days off.
+Past, present, and future walked into a bar.... It was tense.
 
 
 ## Daily Trivia
 
-In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
- 1. absolute
- 2. relative
- 3. static
- 4. center
+What programming language was GitHub written in?
+ 1. Lua
+ 2. Ruby
+ 3. Python
+ 4. JavaScript
 
 <details>
   <summary>Answer</summary>
-  center
+  Ruby
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  2 hours 54 minutes</strong> since this server shutdown
+Its been <strong>9 days  3 hours 24 minutes</strong> since this server shutdown
