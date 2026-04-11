@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-You can't run through a camp site. You can only ran, because it's past tents.
+Why are giraffes so slow to apologize? Because it takes them a long time to swallow their pride.
 
 
 ## Daily Trivia
 
-.rs is the top-level domain for what country?
- 1. Rwanda
- 2. Romania
- 3. Serbia
- 4. Russia
+The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
+ 1. Micronesia
+ 2. Marshall Islands
+ 3. Tuvalu
+ 4. Fiji
 
 <details>
   <summary>Answer</summary>
-  Serbia
+  Micronesia
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days 54 minutes</strong> since this server shutdown
+Its been <strong>9 days  1 hours 24 minutes</strong> since this server shutdown
