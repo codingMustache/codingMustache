@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I couldn't get a reservation at the library. They were completely booked.
+My boss told me to have a good day... so I went home.
 
 
 ## Daily Trivia
 
-CMOS is tech used for constructing integrated circuits. What does CMOS stand for?
- 1. Complementary metal&ndash;oxide&ndash;semiconductor
- 2. Complementary magnetic-ohms-semiconductor
- 3. Computer-made operating system
- 4. Computer-made oscillating static
+Whistler was the codename of this Microsoft Operating System.
+ 1. Windows 2000
+ 2. Windows 7
+ 3. Windows 95
+ 4. Windows XP
 
 <details>
   <summary>Answer</summary>
-  Complementary metal&ndash;oxide&ndash;semiconductor
+  Windows XP
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  10 hours 24 minutes</strong> since this server shutdown
+Its been <strong>8 days  10 hours 54 minutes</strong> since this server shutdown
