@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The rotation of earth really makes my day.
+What do you get when you cross a rabbit with a water hose? Hare spray.
 
 
 ## Daily Trivia
 
-What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
- 1. Sandy Bridge
- 2. Coffee Lake
- 3. Skylake
- 4. Broadwell
+What does the &quot;MP&quot; stand for in MP3?
+ 1. Moving Picture
+ 2. Micro Point
+ 3. Multi Pass
+ 4. Music Player
 
 <details>
   <summary>Answer</summary>
-  Coffee Lake
+  Moving Picture
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  18 hours 24 minutes</strong> since this server shutdown
+Its been <strong>8 days  18 hours 54 minutes</strong> since this server shutdown
