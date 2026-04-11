@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My boss told me that he was going to fire the person with the worst posture. I have a hunch, it might be me.
+You can't run through a camp site. You can only ran, because it's past tents.
 
 
 ## Daily Trivia
 
-Whistler was the codename of this Microsoft Operating System.
- 1. Windows 2000
- 2. Windows 7
- 3. Windows 95
- 4. Windows XP
+.rs is the top-level domain for what country?
+ 1. Rwanda
+ 2. Romania
+ 3. Serbia
+ 4. Russia
 
 <details>
   <summary>Answer</summary>
-  Windows XP
+  Serbia
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days 24 minutes</strong> since this server shutdown
+Its been <strong>9 days 54 minutes</strong> since this server shutdown
