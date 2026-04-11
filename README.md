@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the difference between a guitar and a fish? You can tune a guitar but you can't "tuna" fish!
+Dad died because he couldn't remember his blood type. I will never forget his last words. Be positive.
 
 
 ## Daily Trivia
 
-What does the International System of Quantities refer 1024 bytes as?
- 1. Kilobyte
- 2. Kelobyte
- 3. Kylobyte
- 4. Kibibyte
+What internet protocol was documented in RFC 1459?
+ 1. FTP
+ 2. HTTPS
+ 3. HTTP
+ 4. IRC
 
 <details>
   <summary>Answer</summary>
-  Kibibyte
+  IRC
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  5 hours 54 minutes</strong> since this server shutdown
+Its been <strong>9 days  6 hours 24 minutes</strong> since this server shutdown
