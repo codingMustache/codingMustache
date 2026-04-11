@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-An apple a day keeps the bullies away. If you throw it hard enough.
+At the boxing match, the dad got into the popcorn line and the line for hot dogs, but he wanted to stay out of the punchline.
 
 
 ## Daily Trivia
 
-What was the name given to Android 4.3?
- 1. Froyo
- 2. Jelly Bean
- 3. Nutella
- 4. Lollipop
+How many values can a single byte represent?
+ 1. 8
+ 2. 1
+ 3. 1024
+ 4. 256
 
 <details>
   <summary>Answer</summary>
-  Jelly Bean
+  256
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  16 hours 24 minutes</strong> since this server shutdown
+Its been <strong>8 days  16 hours 54 minutes</strong> since this server shutdown
