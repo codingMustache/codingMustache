@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-“My Dog has no nose.” “How does he smell?” “Awful”
+What musical instrument is found in the bathroom? A tuba toothpaste.
 
 
 ## Daily Trivia
 
-What is the most preferred image format used for logos in the Wikimedia database?
- 1. .svg
- 2. .gif
- 3. .jpeg
- 4. .png
+Which kind of algorithm is Ron Rivest not famous for creating?
+ 1. Hashing algorithm
+ 2. Stream cipher
+ 3. Secret sharing scheme
+ 4. Asymmetric encryption
 
 <details>
   <summary>Answer</summary>
-  .svg
+  Secret sharing scheme
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  19 hours 54 minutes</strong> since this server shutdown
+Its been <strong>8 days  20 hours 24 minutes</strong> since this server shutdown
