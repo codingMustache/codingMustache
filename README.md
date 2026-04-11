@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Two peanuts were walking down the street. One was a salted.
+I tried taking some high resolution photos of local farmland, but they all turned out a bit grainy.
 
 
 ## Daily Trivia
 
-Who is the original author of the realtime physics engine called PhysX?
- 1. AMD
- 2. Nvidia
- 3. Ageia
- 4. NovodeX
+How many cores does the Intel i7-6950X have?
+ 1. 4
+ 2. 8
+ 3. 10
+ 4. 12
 
 <details>
   <summary>Answer</summary>
-  NovodeX
+  10
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  22 hours 24 minutes</strong> since this server shutdown
+Its been <strong>8 days  22 hours 54 minutes</strong> since this server shutdown
