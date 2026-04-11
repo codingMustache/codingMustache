@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Dad died because he couldn't remember his blood type. I will never forget his last words. Be positive.
+Why was ten scared of seven? Because seven ate nine.
 
 
 ## Daily Trivia
 
-What internet protocol was documented in RFC 1459?
- 1. FTP
- 2. HTTPS
- 3. HTTP
- 4. IRC
+Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
+ 1. Nautilus
+ 2. Skipjack
+ 3. Clipper Chip
+ 4. Enigma Machine
 
 <details>
   <summary>Answer</summary>
-  IRC
+  Clipper Chip
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  6 hours 24 minutes</strong> since this server shutdown
+Its been <strong>9 days  6 hours 54 minutes</strong> since this server shutdown
