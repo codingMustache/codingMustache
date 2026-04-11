@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Camping is intense.
+I got fired from the transmission factor, turns out I didn't put on enough shifts...
 
 
 ## Daily Trivia
 
-What amount of bits commonly equals one byte?
- 1. 64
- 2. 2
- 3. 8
- 4. 1
+Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
+ 1. Cherry MX Black
+ 2. Cherry MX Red
+ 3. Cherry MX Brown
+ 4. Cherry MX Blue
 
 <details>
   <summary>Answer</summary>
-  8
+  Cherry MX Blue
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  12 hours 54 minutes</strong> since this server shutdown
+Its been <strong>8 days  13 hours 24 minutes</strong> since this server shutdown
