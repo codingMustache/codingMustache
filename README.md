@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How does a scientist freshen their breath? With experi-mints!
+Did you hear about the scientist who was lab partners with a pot of boiling water? He had a very esteemed colleague.
 
 
 ## Daily Trivia
 
-Which RAID array type is associated with data mirroring?
- 1. RAID 1
- 2. RAID 10
- 3. RAID 0
- 4. RAID 5
+What is the number of keys on a standard Windows Keyboard?
+ 1. 104
+ 2. 64
+ 3. 94
+ 4. 76
 
 <details>
   <summary>Answer</summary>
-  RAID 1
+  104
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  16 hours 24 minutes</strong> since this server shutdown
+Its been <strong>9 days  16 hours 54 minutes</strong> since this server shutdown
