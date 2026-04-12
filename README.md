@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do bananas have to put on sunscreen before they go to the beach? Because they might peel!
+Why do bees have sticky hair? Because they use honey combs!
 
 
 ## Daily Trivia
 
-What language does Node.js use?
- 1. JavaScript
- 2. Java
- 3. Java Source
- 4. Joomla Source Code
+What is the code name for the mobile operating system Android 7.0?
+ 1. Ice Cream Sandwich
+ 2. Nougat
+ 3. Jelly Bean
+ 4. Marshmallow
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  Nougat
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  2 hours 54 minutes</strong> since this server shutdown
+Its been <strong>10 days  3 hours 24 minutes</strong> since this server shutdown
