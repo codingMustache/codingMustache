@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My dog used to chase people on a bike a lot. It got so bad I had to take his bike away.
+Why did the tree go to the dentist? It needed a root canal.
 
 
 ## Daily Trivia
 
-What is the name of Layer 7 of the OSI model?
- 1. Application
- 2. Network
- 3. Present
- 4. Session
+Which computer language would you associate Django framework with?
+ 1. Python
+ 2. C#
+ 3. Java
+ 4. C++
 
 <details>
   <summary>Answer</summary>
-  Application
+  Python
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  8 hours 24 minutes</strong> since this server shutdown
+Its been <strong>10 days  8 hours 54 minutes</strong> since this server shutdown
