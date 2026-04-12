@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the tree go to the dentist? It needed a root canal.
+The shovel was a ground-breaking invention.
 
 
 ## Daily Trivia
 
-Which computer language would you associate Django framework with?
- 1. Python
- 2. C#
- 3. Java
- 4. C++
+What does RAID stand for?
+ 1. Randomized Abstract Identification Description
+ 2. Rapid Access for Indexed Devices
+ 3. Range of Applications with Identical Designs
+ 4. Redundant Array of Independent Disks
 
 <details>
   <summary>Answer</summary>
-  Python
+  Redundant Array of Independent Disks
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  8 hours 54 minutes</strong> since this server shutdown
+Its been <strong>10 days  9 hours 24 minutes</strong> since this server shutdown
