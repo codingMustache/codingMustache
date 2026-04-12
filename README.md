@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Whiteboards ... are remarkable.
+Man, I really love my furniture... me and my recliner go way back.
 
 
 ## Daily Trivia
 
-What is the most preferred image format used for logos in the Wikimedia database?
- 1. .png
- 2. .jpeg
- 3. .gif
- 4. .svg
+Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
+ 1. Shopify
+ 2. Amazon
+ 3. Overstock
+ 4. eBay
 
 <details>
   <summary>Answer</summary>
-  .svg
+  Amazon
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  3 hours 54 minutes</strong> since this server shutdown
+Its been <strong>10 days  4 hours 24 minutes</strong> since this server shutdown
