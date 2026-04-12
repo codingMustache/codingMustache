@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do bees have sticky hair? Because they use honey combs!
+Whiteboards ... are remarkable.
 
 
 ## Daily Trivia
 
-What is the code name for the mobile operating system Android 7.0?
- 1. Ice Cream Sandwich
- 2. Nougat
- 3. Jelly Bean
- 4. Marshmallow
+What is the most preferred image format used for logos in the Wikimedia database?
+ 1. .png
+ 2. .jpeg
+ 3. .gif
+ 4. .svg
 
 <details>
   <summary>Answer</summary>
-  Nougat
+  .svg
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  3 hours 24 minutes</strong> since this server shutdown
+Its been <strong>10 days  3 hours 54 minutes</strong> since this server shutdown
