@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A farmer had 297 cows, when he rounded them up, he found he had 300
+Why did the belt go to prison? He held up a pair of pants!
 
 
 ## Daily Trivia
 
-Nvidia&#039;s headquarters are based in which Silicon Valley city?
- 1. Santa Clara
- 2. Mountain View
- 3. Cupertino
- 4. Palo Alto
+What does the acronym CDN stand for in terms of networking?
+ 1. Content Delivery Network
+ 2. Compressed Data Network
+ 3. Computational Data Network
+ 4. Content Distribution Network
 
 <details>
   <summary>Answer</summary>
-  Santa Clara
+  Content Delivery Network
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  5 hours 24 minutes</strong> since this server shutdown
+Its been <strong>10 days  5 hours 54 minutes</strong> since this server shutdown
