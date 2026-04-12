@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the belt go to prison? He held up a pair of pants!
+What do you get hanging from Apple trees? Sore arms.
 
 
 ## Daily Trivia
 
-What does the acronym CDN stand for in terms of networking?
- 1. Content Delivery Network
- 2. Compressed Data Network
- 3. Computational Data Network
- 4. Content Distribution Network
+Who is the founder of Palantir?
+ 1. Mark Zuckerberg
+ 2. Peter Thiel
+ 3. Marc Benioff
+ 4. Jack Dorsey
 
 <details>
   <summary>Answer</summary>
-  Content Delivery Network
+  Peter Thiel
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  5 hours 54 minutes</strong> since this server shutdown
+Its been <strong>10 days  6 hours 24 minutes</strong> since this server shutdown
