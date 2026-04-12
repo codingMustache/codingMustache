@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the teddy bear say “no” to dessert? Because she was stuffed.
+I don’t play soccer because I enjoy the sport. I’m just doing it for kicks.
 
 
 ## Daily Trivia
 
-Which of the following is NOT a computer science algorithm?
- 1. Bubble Sort
- 2. Merge Sort
- 3. Quick Sort
- 4. Float Sort
+What kind of memory is used on memory cache?
+ 1. DRAM
+ 2. ROM
+ 3. Flash
+ 4. SRAM
 
 <details>
   <summary>Answer</summary>
-  Float Sort
+  SRAM
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  22 hours 24 minutes</strong> since this server shutdown
+Its been <strong>9 days  22 hours 54 minutes</strong> since this server shutdown
