@@ -6,23 +6,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you know the first French fries weren't actually cooked in France? They were cooked in Greece.
+I finally bought the limited edition Thesaurus that I've always wanted. When I opened it, all the pages were blank.
+I have no words to describe how angry I am.
 
 
 ## Daily Trivia
 
-While Apple was formed in California, in which western state was Microsoft founded?
- 1. Arizona
- 2. New Mexico
- 3. Colorado
- 4. Washington
+What is the name of the process that sends one qubit of information using two bits of classical information?
+ 1. Super Dense Coding
+ 2. Quantum Teleportation
+ 3. Quantum Entanglement
+ 4. Quantum Programming
 
 <details>
   <summary>Answer</summary>
-  New Mexico
+  Quantum Teleportation
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  23 hours 24 minutes</strong> since this server shutdown
+Its been <strong>9 days  23 hours 54 minutes</strong> since this server shutdown
