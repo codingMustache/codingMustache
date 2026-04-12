@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the kid cross the playground? To get to the other slide.
+I had a pair of racing snails. I removed their shells to make them more aerodynamic, but they became sluggish.
 
 
 ## Daily Trivia
 
-What vulnerability ranked #1 on the OWASP Top 10 in 2013?
- 1. Broken Authentication
- 2. Injection 
- 3. Cross-Site Scripting
- 4. Insecure Direct Object References
+The Windows OS was delevoped by which company?
+ 1. Apple
+ 2. Nokia
+ 3. IBM
+ 4. Microsoft
 
 <details>
   <summary>Answer</summary>
-  Injection 
+  Microsoft
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days 24 minutes</strong> since this server shutdown
+Its been <strong>10 days 54 minutes</strong> since this server shutdown
