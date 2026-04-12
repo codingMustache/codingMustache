@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-People are shocked to discover I have a police record but I love their greatest hits!
+What is this movie about? It is about 2 hours long.
 
 
 ## Daily Trivia
 
-Which of these programming languages is a low-level language?
- 1. Python
- 2. C#
- 3. Pascal
- 4. Assembly
+Which of these is not a layer in the OSI model for data communications?
+ 1. Application Layer
+ 2. Transport Layer
+ 3. Physical Layer
+ 4. Connection Layer
 
 <details>
   <summary>Answer</summary>
-  Assembly
+  Connection Layer
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  9 hours 54 minutes</strong> since this server shutdown
+Its been <strong>10 days  10 hours 24 minutes</strong> since this server shutdown
