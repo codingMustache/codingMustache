@@ -6,16 +6,16 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-You know what they say about cliffhangers...
+What's orange and sounds like a parrot? A Carrot.
 
 
 ## Daily Trivia
 
 In computing terms, typically what does CLI stand for?
- 1. Control Line Interface
- 2. Command Line Interface
- 3. Common Language Interface
- 4. Common Language Input
+ 1. Common Language Interface
+ 2. Common Language Input
+ 3. Command Line Interface
+ 4. Control Line Interface
 
 <details>
   <summary>Answer</summary>
@@ -25,4 +25,4 @@ In computing terms, typically what does CLI stand for?
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  10 hours 54 minutes</strong> since this server shutdown
+Its been <strong>9 days  11 hours 24 minutes</strong> since this server shutdown
