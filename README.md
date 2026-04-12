@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did Dracula lie in the wrong coffin? He made a grave mistake.
+I bought shoes from a drug dealer once. I don't know what he laced them with, but I was tripping all day.
 
 
 ## Daily Trivia
 
-Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
- 1. eBay
- 2. Overstock
- 3. Shopify
- 4. Amazon
+What is the name of the default theme that is installed with Windows XP?
+ 1. Bliss
+ 2. Luna
+ 3. Neptune
+ 4. Whistler
 
 <details>
   <summary>Answer</summary>
-  Amazon
+  Luna
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  21 hours 24 minutes</strong> since this server shutdown
+Its been <strong>9 days  21 hours 54 minutes</strong> since this server shutdown
