@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The shovel was a ground-breaking invention.
+People are shocked to discover I have a police record but I love their greatest hits!
 
 
 ## Daily Trivia
 
-What does RAID stand for?
- 1. Randomized Abstract Identification Description
- 2. Rapid Access for Indexed Devices
- 3. Range of Applications with Identical Designs
- 4. Redundant Array of Independent Disks
+Which of these programming languages is a low-level language?
+ 1. Python
+ 2. C#
+ 3. Pascal
+ 4. Assembly
 
 <details>
   <summary>Answer</summary>
-  Redundant Array of Independent Disks
+  Assembly
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  9 hours 24 minutes</strong> since this server shutdown
+Its been <strong>10 days  9 hours 54 minutes</strong> since this server shutdown
