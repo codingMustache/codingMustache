@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-You can't run through a camp site. You can only ran, because it's past tents.
+Why do bananas have to put on sunscreen before they go to the beach? Because they might peel!
 
 
 ## Daily Trivia
 
-How many values can a single byte represent?
- 1. 256
- 2. 1024
- 3. 1
- 4. 8
+What language does Node.js use?
+ 1. JavaScript
+ 2. Java
+ 3. Java Source
+ 4. Joomla Source Code
 
 <details>
   <summary>Answer</summary>
-  256
+  JavaScript
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  2 hours 24 minutes</strong> since this server shutdown
+Its been <strong>10 days  2 hours 54 minutes</strong> since this server shutdown
