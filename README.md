@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's a ninja's favorite type of shoes? Sneakers!
+How does a scientist freshen their breath? With experi-mints!
 
 
 ## Daily Trivia
 
-If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
- 1. Python
- 2. C++
- 3. Binary
- 4. JavaScript
+Which RAID array type is associated with data mirroring?
+ 1. RAID 1
+ 2. RAID 10
+ 3. RAID 0
+ 4. RAID 5
 
 <details>
   <summary>Answer</summary>
-  Binary
+  RAID 1
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  15 hours 54 minutes</strong> since this server shutdown
+Its been <strong>9 days  16 hours 24 minutes</strong> since this server shutdown
