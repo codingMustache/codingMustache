@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the knife dress up in a suit? Because it wanted to look sharp
+A farmer had 297 cows, when he rounded them up, he found he had 300
 
 
 ## Daily Trivia
 
-In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
- 1. &lt;slide&gt;&lt;/slide&gt;
- 2. &lt;scroll&gt;&lt;/scroll&gt;
- 3. &lt;move&gt;&lt;/move&gt;
- 4. &lt;marquee&gt;&lt;/marquee&gt;
+Nvidia&#039;s headquarters are based in which Silicon Valley city?
+ 1. Santa Clara
+ 2. Mountain View
+ 3. Cupertino
+ 4. Palo Alto
 
 <details>
   <summary>Answer</summary>
-  &lt;marquee&gt;&lt;/marquee&gt;
+  Santa Clara
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  4 hours 54 minutes</strong> since this server shutdown
+Its been <strong>10 days  5 hours 24 minutes</strong> since this server shutdown
