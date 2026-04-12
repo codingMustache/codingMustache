@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I bought shoes from a drug dealer once. I don't know what he laced them with, but I was tripping all day.
+Why did the teddy bear say “no” to dessert? Because she was stuffed.
 
 
 ## Daily Trivia
 
-What is the name of the default theme that is installed with Windows XP?
- 1. Bliss
- 2. Luna
- 3. Neptune
- 4. Whistler
+Which of the following is NOT a computer science algorithm?
+ 1. Bubble Sort
+ 2. Merge Sort
+ 3. Quick Sort
+ 4. Float Sort
 
 <details>
   <summary>Answer</summary>
-  Luna
+  Float Sort
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  21 hours 54 minutes</strong> since this server shutdown
+Its been <strong>9 days  22 hours 24 minutes</strong> since this server shutdown
