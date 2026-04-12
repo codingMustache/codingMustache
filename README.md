@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What happens to a frog's car when it breaks down? It gets toad.
+You know what they say about cliffhangers...
 
 
 ## Daily Trivia
 
-Approximately how many Apple I personal computers were created?
- 1. 1000
- 2. 500
- 3. 200
- 4. 100
+In computing terms, typically what does CLI stand for?
+ 1. Control Line Interface
+ 2. Command Line Interface
+ 3. Common Language Interface
+ 4. Common Language Input
 
 <details>
   <summary>Answer</summary>
-  200
+  Command Line Interface
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  10 hours 24 minutes</strong> since this server shutdown
+Its been <strong>9 days  10 hours 54 minutes</strong> since this server shutdown
