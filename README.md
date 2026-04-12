@@ -6,24 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I finally bought the limited edition Thesaurus that I've always wanted. When I opened it, all the pages were blank.
-I have no words to describe how angry I am.
+Why did the kid cross the playground? To get to the other slide.
 
 
 ## Daily Trivia
 
-What is the name of the process that sends one qubit of information using two bits of classical information?
- 1. Super Dense Coding
- 2. Quantum Teleportation
- 3. Quantum Entanglement
- 4. Quantum Programming
+What vulnerability ranked #1 on the OWASP Top 10 in 2013?
+ 1. Broken Authentication
+ 2. Injection 
+ 3. Cross-Site Scripting
+ 4. Insecure Direct Object References
 
 <details>
   <summary>Answer</summary>
-  Quantum Teleportation
+  Injection 
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  23 hours 54 minutes</strong> since this server shutdown
+Its been <strong>10 days 24 minutes</strong> since this server shutdown
