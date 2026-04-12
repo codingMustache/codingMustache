@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's orange and sounds like a parrot? A Carrot.
+I once lost a banana at court but then I appealed. 
 
 
 ## Daily Trivia
 
-In computing terms, typically what does CLI stand for?
- 1. Common Language Interface
- 2. Common Language Input
- 3. Command Line Interface
- 4. Control Line Interface
+In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
+ 1. console.log(&quot;Hello World&quot;)
+ 2. echo &quot;Hello World&quot;
+ 3. printf(&quot;Hello World&quot;)
+ 4. print(&quot;Hello World&quot;)
 
 <details>
   <summary>Answer</summary>
-  Command Line Interface
+  print(&quot;Hello World&quot;)
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  11 hours 24 minutes</strong> since this server shutdown
+Its been <strong>9 days  11 hours 54 minutes</strong> since this server shutdown
