@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I had a pair of racing snails. I removed their shells to make them more aerodynamic, but they became sluggish.
+If at first you don't succeed, sky diving is not for you!
 
 
 ## Daily Trivia
 
-The Windows OS was delevoped by which company?
- 1. Apple
- 2. Nokia
- 3. IBM
- 4. Microsoft
+This mobile OS held the largest market share in 2012.
+ 1. Symbian
+ 2. BlackBerry
+ 3. iOS
+ 4. Android
 
 <details>
   <summary>Answer</summary>
-  Microsoft
+  iOS
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days 54 minutes</strong> since this server shutdown
+Its been <strong>10 days  1 hours 24 minutes</strong> since this server shutdown
