@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A bartender broke up with her boyfriend, but he kept asking her for another shot.
+I started a new business making yachts in my attic this year...the sails are going through the roof
 
 
 ## Daily Trivia
 
-CMOS is tech used for constructing integrated circuits. What does CMOS stand for?
- 1. Complementary metal&ndash;oxide&ndash;semiconductor
- 2. Computer-made oscillating static
- 3. Computer-made operating system
- 4. Complementary magnetic-ohms-semiconductor
+What does the International System of Quantities refer 1024 bytes as?
+ 1. Kelobyte
+ 2. Kibibyte
+ 3. Kilobyte
+ 4. Kylobyte
 
 <details>
   <summary>Answer</summary>
-  Complementary metal&ndash;oxide&ndash;semiconductor
+  Kibibyte
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  7 hours 24 minutes</strong> since this server shutdown
+Its been <strong>10 days  7 hours 54 minutes</strong> since this server shutdown
