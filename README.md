@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's black and white and read all over? The newspaper.
+Why did Dracula lie in the wrong coffin? He made a grave mistake.
 
 
 ## Daily Trivia
 
-How fast is USB 3.1 Gen 2 theoretically?
- 1. 5 Gb/s
- 2. 8 Gb/s
- 3. 10 Gb/s
- 4. 1 Gb/s
+Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
+ 1. eBay
+ 2. Overstock
+ 3. Shopify
+ 4. Amazon
 
 <details>
   <summary>Answer</summary>
-  10 Gb/s
+  Amazon
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  20 hours 54 minutes</strong> since this server shutdown
+Its been <strong>9 days  21 hours 24 minutes</strong> since this server shutdown
