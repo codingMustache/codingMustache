@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What’s the advantage of living in Switzerland? Well, the flag is a big plus.
+I decided to sell my Hoover… well it was just collecting dust.
 
 
 ## Daily Trivia
 
-According to the International System of Units, how many bytes are in a kilobyte of RAM?
- 1. 500
- 2. 1024
- 3. 512
- 4. 1000
+In computing, what does LAN stand for?
+ 1. Local Area Network
+ 2. Land Address Navigation
+ 3. Light Access Node
+ 4. Long Antenna Node
 
 <details>
   <summary>Answer</summary>
-  1000
+  Local Area Network
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days 54 minutes</strong> since this server shutdown
+Its been <strong>11 days  1 hours 24 minutes</strong> since this server shutdown
