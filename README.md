@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Just watched a documentary about beavers… It was the best damn program I’ve ever seen.
+How do you know if there’s an elephant under your bed? Your head hits the ceiling!
 
 
 ## Daily Trivia
 
-Dutch computer scientist Mark Overmars is known for creating which game development engine?
- 1. Stencyl
- 2. Torque 2D
- 3. Construct
- 4. Game Maker
+In computing, what does LAN stand for?
+ 1. Local Area Network
+ 2. Light Access Node
+ 3. Long Antenna Node
+ 4. Land Address Navigation
 
 <details>
   <summary>Answer</summary>
-  Game Maker
+  Local Area Network
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  6 hours 54 minutes</strong> since this server shutdown
+Its been <strong>11 days  7 hours 24 minutes</strong> since this server shutdown
