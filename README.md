@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is the tallest building in the world? The library – it’s got the most stories!
+How do you get two whales in a car? Start in England and drive West.
 
 
 ## Daily Trivia
 
-Which of these is not a key value of Agile software development?
- 1. Comprehensive documentation
- 2. Responding to change
- 3. Customer collaboration
- 4. Individuals and interactions
+What does the Prt Sc button do?
+ 1. Nothing
+ 2. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
+ 3. Closes all windows
+ 4. Captures what&#039;s on the screen and copies it to your clipboard
 
 <details>
   <summary>Answer</summary>
-  Comprehensive documentation
+  Captures what&#039;s on the screen and copies it to your clipboard
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  2 hours 54 minutes</strong> since this server shutdown
+Its been <strong>11 days  3 hours 24 minutes</strong> since this server shutdown
