@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many optometrists does it take to change a light bulb? 1 or 2? 1... or 2?
+A cannibal is someone who is fed up with people.
 
 
 ## Daily Trivia
 
-How many cores does the Intel i7-6950X have?
- 1. 12
- 2. 8
- 3. 10
- 4. 4
+Whistler was the codename of this Microsoft Operating System.
+ 1. Windows 95
+ 2. Windows XP
+ 3. Windows 7
+ 4. Windows 2000
 
 <details>
   <summary>Answer</summary>
-  10
+  Windows XP
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  10 hours 54 minutes</strong> since this server shutdown
+Its been <strong>10 days  11 hours 24 minutes</strong> since this server shutdown
