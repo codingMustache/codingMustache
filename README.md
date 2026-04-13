@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is this movie about? It is about 2 hours long.
+How many optometrists does it take to change a light bulb? 1 or 2? 1... or 2?
 
 
 ## Daily Trivia
 
-Which of these is not a layer in the OSI model for data communications?
- 1. Application Layer
- 2. Transport Layer
- 3. Physical Layer
- 4. Connection Layer
+How many cores does the Intel i7-6950X have?
+ 1. 12
+ 2. 8
+ 3. 10
+ 4. 4
 
 <details>
   <summary>Answer</summary>
-  Connection Layer
+  10
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  10 hours 24 minutes</strong> since this server shutdown
+Its been <strong>10 days  10 hours 54 minutes</strong> since this server shutdown
