@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are snake races so exciting? They're always neck and neck.
+What happens to a frog's car when it breaks down? It gets toad.
 
 
 ## Daily Trivia
 
-What does RAID stand for?
- 1. Rapid Access for Indexed Devices
- 2. Range of Applications with Identical Designs
- 3. Redundant Array of Independent Disks
- 4. Randomized Abstract Identification Description
+Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
+ 1. Cherry MX Red
+ 2. Cherry MX Brown
+ 3. Cherry MX Black
+ 4. Cherry MX Blue
 
 <details>
   <summary>Answer</summary>
-  Redundant Array of Independent Disks
+  Cherry MX Blue
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  18 hours 24 minutes</strong> since this server shutdown
+Its been <strong>10 days  18 hours 54 minutes</strong> since this server shutdown
