@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you know if there’s an elephant under your bed? Your head hits the ceiling!
+Don’t interrupt someone working intently on a puzzle. Chances are, you’ll hear some crosswords.
 
 
 ## Daily Trivia
 
-In computing, what does LAN stand for?
- 1. Local Area Network
- 2. Light Access Node
- 3. Long Antenna Node
- 4. Land Address Navigation
+What does the Prt Sc button do?
+ 1. Captures what&#039;s on the screen and copies it to your clipboard
+ 2. Nothing
+ 3. Closes all windows
+ 4. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
 
 <details>
   <summary>Answer</summary>
-  Local Area Network
+  Captures what&#039;s on the screen and copies it to your clipboard
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  7 hours 24 minutes</strong> since this server shutdown
+Its been <strong>11 days  7 hours 54 minutes</strong> since this server shutdown
