@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear the one about the guy with the broken hearing aid? Neither did he.
+What did celery say when he broke up with his girlfriend? She wasn't right for me, so I really don't carrot all.
 
 
 ## Daily Trivia
 
-Nvidia&#039;s headquarters are based in which Silicon Valley city?
- 1. Palo Alto
- 2. Cupertino
- 3. Mountain View
- 4. Santa Clara
+Which of these is not a layer in the OSI model for data communications?
+ 1. Transport Layer
+ 2. Application Layer
+ 3. Connection Layer
+ 4. Physical Layer
 
 <details>
   <summary>Answer</summary>
-  Santa Clara
+  Connection Layer
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  16 hours 54 minutes</strong> since this server shutdown
+Its been <strong>10 days  17 hours 24 minutes</strong> since this server shutdown
