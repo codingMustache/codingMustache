@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How does a penguin build it’s house? Igloos it together.
+Can a kangaroo jump higher than the Empire State Building? Of course. The Empire State Building can't jump.
 
 
 ## Daily Trivia
 
-The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
- 1. Sinclair Research
- 2. Acorn Computers
- 3. Commodore Business Machines
- 4. Amstrad PLC
+Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
+ 1. PHP
+ 2. Python
+ 3. C#
+ 4. JavaScript
 
 <details>
   <summary>Answer</summary>
-  Acorn Computers
+  JavaScript
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  11 hours 54 minutes</strong> since this server shutdown
+Its been <strong>10 days  12 hours 24 minutes</strong> since this server shutdown
