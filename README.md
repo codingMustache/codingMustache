@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the Red light say to the Green light? Don't look at me I'm changing!
+I invented a new word! Plagiarism!
 
 
 ## Daily Trivia
 
-What is the name of the default theme that is installed with Windows XP?
- 1. Bliss
- 2. Whistler
- 3. Luna
- 4. Neptune
+The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
+ 1. Acorn Computers
+ 2. Commodore Business Machines
+ 3. Amstrad PLC
+ 4. Sinclair Research
 
 <details>
   <summary>Answer</summary>
-  Luna
+  Acorn Computers
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  4 hours 24 minutes</strong> since this server shutdown
+Its been <strong>11 days  4 hours 54 minutes</strong> since this server shutdown
