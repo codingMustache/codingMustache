@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Nurse: Doctor, there's a patient that says he's invisible. Doctor: Well, tell him I can't see him right now!
+What did the Red light say to the Green light? Don't look at me I'm changing!
 
 
 ## Daily Trivia
 
-What does the computer software acronym JVM stand for?
- 1. Java Vendor Machine
- 2. Java Virtual Machine
- 3. Java Visual Machine
- 4. Just Virtual Machine
+What is the name of the default theme that is installed with Windows XP?
+ 1. Bliss
+ 2. Whistler
+ 3. Luna
+ 4. Neptune
 
 <details>
   <summary>Answer</summary>
-  Java Virtual Machine
+  Luna
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  3 hours 54 minutes</strong> since this server shutdown
+Its been <strong>11 days  4 hours 24 minutes</strong> since this server shutdown
