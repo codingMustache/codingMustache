@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-To the guy who invented zero... thanks for nothing.
+When my wife told me to stop impersonating a flamingo, I had to put my foot down.
 
 
 ## Daily Trivia
 
-What amount of bits commonly equals one byte?
- 1. 2
- 2. 64
- 3. 1
- 4. 8
+Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
+ 1. Amazon
+ 2. eBay
+ 3. Shopify
+ 4. Overstock
 
 <details>
   <summary>Answer</summary>
-  8
+  Amazon
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  23 hours 24 minutes</strong> since this server shutdown
+Its been <strong>10 days  23 hours 54 minutes</strong> since this server shutdown
