@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Which is the fastest growing city in the world? Dublin'
+What happens to a frog's car when it breaks down? It gets toad.
 
 
 ## Daily Trivia
 
-Which SQL keyword is used to fetch data from a database?
- 1. INDEX
- 2. VALUES
- 3. EXEC
- 4. SELECT
+Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
+ 1. Puma
+ 2. Tiger
+ 3. Leopard
+ 4. Cheetah
 
 <details>
   <summary>Answer</summary>
-  SELECT
+  Cheetah
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  1 hours 54 minutes</strong> since this server shutdown
+Its been <strong>11 days  2 hours 24 minutes</strong> since this server shutdown
