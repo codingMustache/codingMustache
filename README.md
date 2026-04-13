@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Bad at golf? Join the club.
+I broke my finger at work today, on the other hand I'm completely fine.
 
 
 ## Daily Trivia
 
-What does the term MIME stand for, in regards to computing?
- 1. Mail Interleave Method Exchange
- 2. Mail Internet Mail Exchange
- 3. Multipurpose Internet Mail Extensions
- 4. Multipurpose Interleave Mail Exchange
+Which of the following computer components can be built using only NAND gates?
+ 1. Register
+ 2. RAM
+ 3. CPU
+ 4. ALU
 
 <details>
   <summary>Answer</summary>
-  Multipurpose Internet Mail Extensions
+  ALU
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  13 hours 54 minutes</strong> since this server shutdown
+Its been <strong>10 days  14 hours 24 minutes</strong> since this server shutdown
