@@ -6,23 +6,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you make a 'one' disappear? You add a 'g' and it's 'gone'
+What is red and smells like blue paint?
+Red paint!
 
 
 ## Daily Trivia
 
-What kind of memory is used on memory cache?
- 1. Flash
- 2. ROM
- 3. SRAM
- 4. DRAM
+Which SQL keyword is used to fetch data from a database?
+ 1. SELECT
+ 2. VALUES
+ 3. INDEX
+ 4. EXEC
 
 <details>
   <summary>Answer</summary>
-  SRAM
+  SELECT
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  12 hours 54 minutes</strong> since this server shutdown
+Its been <strong>10 days  13 hours 24 minutes</strong> since this server shutdown
