@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you steal a coat? You jacket.
+What do you call a bear with no teeth? A gummy bear!
 
 
 ## Daily Trivia
 
-What does LTS stand for in the software market?
- 1. Ludicrous Transfer Speed
- 2. Long Taco Service
- 3. Ludicrous Turbo Speed
- 4. Long Term Support
+What was the name of the first Bulgarian personal computer?
+ 1. Pravetz 82
+ 2. IMKO-1
+ 3. Pravetz 8D
+ 4. IZOT 1030
 
 <details>
   <summary>Answer</summary>
-  Long Term Support
+  IMKO-1
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  9 hours 54 minutes</strong> since this server shutdown
+Its been <strong>11 days  10 hours 24 minutes</strong> since this server shutdown
