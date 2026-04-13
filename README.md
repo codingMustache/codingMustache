@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the kidnapping at school? It's ok, he woke up.
+My friend told me that pepper is the best seasoning for a roast, but I took it with a grain of salt.
 
 
 ## Daily Trivia
 
-What is the name of Layer 7 of the OSI model?
- 1. Network
- 2. Application
- 3. Present
- 4. Session
+What is the most preferred image format used for logos in the Wikimedia database?
+ 1. .png
+ 2. .svg
+ 3. .jpeg
+ 4. .gif
 
 <details>
   <summary>Answer</summary>
-  Application
+  .svg
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  5 hours 54 minutes</strong> since this server shutdown
+Its been <strong>11 days  6 hours 24 minutes</strong> since this server shutdown
