@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Who is the coolest Doctor in the hospital? The hip Doctor!
+What is the leading cause of dry skin? Towels
 
 
 ## Daily Trivia
 
-What does RAID stand for?
- 1. Redundant Array of Independent Disks
- 2. Range of Applications with Identical Designs
- 3. Rapid Access for Indexed Devices
- 4. Randomized Abstract Identification Description
+In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
+ 1. print(&quot;Hello World&quot;)
+ 2. echo &quot;Hello World&quot;
+ 3. console.log(&quot;Hello World&quot;)
+ 4. printf(&quot;Hello World&quot;)
 
 <details>
   <summary>Answer</summary>
-  Redundant Array of Independent Disks
+  print(&quot;Hello World&quot;)
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  8 hours 24 minutes</strong> since this server shutdown
+Its been <strong>11 days  8 hours 54 minutes</strong> since this server shutdown
