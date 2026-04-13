@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you know Albert Einstein was a real person? All this time, I thought he was just a theoretical physicist!
+Have you heard about the film "Constipation", you probably haven't because it's not out yet.
 
 
 ## Daily Trivia
 
-What is known as &quot;the brain&quot; of the Computer?
- 1. Motherboard
- 2. Graphics Processing Unit
- 3. Keyboard
- 4. Central Processing Unit
+Lenovo acquired IBM&#039;s personal computer division, including the ThinkPad line of laptops and tablets, in what year?
+ 1. 2002
+ 2. 1999
+ 3. 2005
+ 4. 2008
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  2005
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  21 hours 24 minutes</strong> since this server shutdown
+Its been <strong>10 days  21 hours 54 minutes</strong> since this server shutdown
