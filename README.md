@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Don’t interrupt someone working intently on a puzzle. Chances are, you’ll hear some crosswords.
+Who is the coolest Doctor in the hospital? The hip Doctor!
 
 
 ## Daily Trivia
 
-What does the Prt Sc button do?
- 1. Captures what&#039;s on the screen and copies it to your clipboard
- 2. Nothing
- 3. Closes all windows
- 4. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
+What does RAID stand for?
+ 1. Redundant Array of Independent Disks
+ 2. Range of Applications with Identical Designs
+ 3. Rapid Access for Indexed Devices
+ 4. Randomized Abstract Identification Description
 
 <details>
   <summary>Answer</summary>
-  Captures what&#039;s on the screen and copies it to your clipboard
+  Redundant Array of Independent Disks
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  7 hours 54 minutes</strong> since this server shutdown
+Its been <strong>11 days  8 hours 24 minutes</strong> since this server shutdown
