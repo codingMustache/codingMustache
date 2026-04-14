@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My son is studying to be a surgeon, I just hope he makes the cut.
+Why did the man put his money in the freezer? He wanted cold hard cash!
 
 
 ## Daily Trivia
 
-What does GHz stand for?
- 1. Gigahertz
- 2. Gigahatz
- 3. Gigahetz
- 4. Gigahotz
+While Apple was formed in California, in which western state was Microsoft founded?
+ 1. New Mexico
+ 2. Washington
+ 3. Colorado
+ 4. Arizona
 
 <details>
   <summary>Answer</summary>
-  Gigahertz
+  New Mexico
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  14 hours 54 minutes</strong> since this server shutdown
+Its been <strong>11 days  15 hours 24 minutes</strong> since this server shutdown
