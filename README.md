@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you get when you cross a chicken with a skunk? A fowl smell!
+Why do cows wear bells? Because their horns don't work.
 
 
 ## Daily Trivia
 
-The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
- 1. Tuvalu
- 2. Micronesia
- 3. Marshall Islands
- 4. Fiji
+What is the name of Layer 7 of the OSI model?
+ 1. Present
+ 2. Network
+ 3. Session
+ 4. Application
 
 <details>
   <summary>Answer</summary>
-  Micronesia
+  Application
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  23 hours 24 minutes</strong> since this server shutdown
+Its been <strong>11 days  23 hours 54 minutes</strong> since this server shutdown
