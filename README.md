@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I accidentally took my cats meds last night. Don’t ask meow.
+What do you get when you cross a chicken with a skunk? A fowl smell!
 
 
 ## Daily Trivia
 
-Australia, Japan, and Southeast Asia are in which ITU Region?
- 1. Region 3
- 2. Region 4
- 3. Region 2
- 4. Region 1
+The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
+ 1. Tuvalu
+ 2. Micronesia
+ 3. Marshall Islands
+ 4. Fiji
 
 <details>
   <summary>Answer</summary>
-  Region 3
+  Micronesia
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  22 hours 54 minutes</strong> since this server shutdown
+Its been <strong>11 days  23 hours 24 minutes</strong> since this server shutdown
