@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the Zen Buddist say to the hotdog vendor? Make me one with everything.
+How do you make a 'one' disappear? You add a 'g' and it's 'gone'
 
 
 ## Daily Trivia
 
-In computing, what does MIDI stand for?
- 1. Musical Instrument Digital Interface
- 2. Musical Interface of Digital Instruments
- 3. Modular Interface of Digital Instruments
- 4. Musical Instrument Data Interface
+What was the name of the first Bulgarian personal computer?
+ 1. IMKO-1
+ 2. IZOT 1030
+ 3. Pravetz 8D
+ 4. Pravetz 82
 
 <details>
   <summary>Answer</summary>
-  Musical Instrument Digital Interface
+  IMKO-1
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  2 hours 54 minutes</strong> since this server shutdown
+Its been <strong>12 days  3 hours 24 minutes</strong> since this server shutdown
