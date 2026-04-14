@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The shovel was a ground-breaking invention.
+What are the strongest days of the week? Saturday and Sunday...the rest are weekdays.
 
 
 ## Daily Trivia
 
-In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
- 1. print(&quot;Hello World&quot;)
- 2. console.log(&quot;Hello World&quot;)
- 3. printf(&quot;Hello World&quot;)
- 4. echo &quot;Hello World&quot;
+How many cores does the Intel i7-6950X have?
+ 1. 12
+ 2. 10
+ 3. 4
+ 4. 8
 
 <details>
   <summary>Answer</summary>
-  print(&quot;Hello World&quot;)
+  10
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  11 hours 54 minutes</strong> since this server shutdown
+Its been <strong>11 days  12 hours 24 minutes</strong> since this server shutdown
