@@ -6,23 +6,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How come the stadium got hot after the game? Because all of the fans left.
+What's the difference between a seal and a sea lion?
+An ion! 
 
 
 ## Daily Trivia
 
-Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
- 1. Shellshock
- 2. Corrupted Blood
- 3. Shellscript
- 4. Heartbleed
+When Gmail first launched, how much storage did it provide for your email?
+ 1. 1GB
+ 2. Unlimited
+ 3. 5GB
+ 4. 512MB
 
 <details>
   <summary>Answer</summary>
-  Heartbleed
+  1GB
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  8 hours 24 minutes</strong> since this server shutdown
+Its been <strong>12 days  8 hours 54 minutes</strong> since this server shutdown
