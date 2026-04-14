@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is a tornado's favorite game to play? Twister!
+Two parrots are sitting on a perch. One turns to the other and asks, "do you smell fish?"
 
 
 ## Daily Trivia
 
-What is the code name for the mobile operating system Android 7.0?
- 1. Ice Cream Sandwich
- 2. Nougat
- 3. Jelly Bean
- 4. Marshmallow
+What internet protocol was documented in RFC 1459?
+ 1. FTP
+ 2. HTTPS
+ 3. IRC
+ 4. HTTP
 
 <details>
   <summary>Answer</summary>
-  Nougat
+  IRC
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  15 hours 54 minutes</strong> since this server shutdown
+Its been <strong>11 days  16 hours 24 minutes</strong> since this server shutdown
