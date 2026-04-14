@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you get if you put a duck in a cement mixer? Quacks in the pavement.
+I once lost a banana at court but then I appealed. 
 
 
 ## Daily Trivia
 
-What is the main CPU is the Sega Mega Drive / Sega Genesis?
- 1. Zilog Z80
- 2. Yamaha YM2612
- 3. Intel 8088
- 4. Motorola 68000
+What is the most preferred image format used for logos in the Wikimedia database?
+ 1. .png
+ 2. .jpeg
+ 3. .gif
+ 4. .svg
 
 <details>
   <summary>Answer</summary>
-  Motorola 68000
+  .svg
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  6 hours 54 minutes</strong> since this server shutdown
+Its been <strong>12 days  7 hours 24 minutes</strong> since this server shutdown
