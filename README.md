@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the Zen Buddist say to the hotdog vendor? Make me one with everything.
+What do you get if you put a duck in a cement mixer? Quacks in the pavement.
 
 
 ## Daily Trivia
 
-In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
- 1. static
- 2. absolute
- 3. center
- 4. relative
+What is the main CPU is the Sega Mega Drive / Sega Genesis?
+ 1. Zilog Z80
+ 2. Yamaha YM2612
+ 3. Intel 8088
+ 4. Motorola 68000
 
 <details>
   <summary>Answer</summary>
-  center
+  Motorola 68000
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  6 hours 24 minutes</strong> since this server shutdown
+Its been <strong>12 days  6 hours 54 minutes</strong> since this server shutdown
