@@ -6,24 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the difference between a seal and a sea lion?
-An ion! 
+I invented a new word! Plagiarism!
 
 
 ## Daily Trivia
 
-When Gmail first launched, how much storage did it provide for your email?
- 1. 1GB
- 2. Unlimited
- 3. 5GB
- 4. 512MB
+What does LTS stand for in the software market?
+ 1. Ludicrous Turbo Speed
+ 2. Long Term Support
+ 3. Ludicrous Transfer Speed
+ 4. Long Taco Service
 
 <details>
   <summary>Answer</summary>
-  1GB
+  Long Term Support
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  8 hours 54 minutes</strong> since this server shutdown
+Its been <strong>12 days  9 hours 24 minutes</strong> since this server shutdown
