@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why is Peter Pan always flying? Because he Neverlands.
+What did the Zen Buddist say to the hotdog vendor? Make me one with everything.
 
 
 ## Daily Trivia
 
-Which of these programming languages is a low-level language?
- 1. C#
- 2. Python
- 3. Pascal
- 4. Assembly
+In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
+ 1. static
+ 2. absolute
+ 3. center
+ 4. relative
 
 <details>
   <summary>Answer</summary>
-  Assembly
+  center
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  5 hours 54 minutes</strong> since this server shutdown
+Its been <strong>12 days  6 hours 24 minutes</strong> since this server shutdown
