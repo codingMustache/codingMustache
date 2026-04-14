@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you do on a remote island? Try and find the TV island it belongs to.
+Why do bees have sticky hair? Because they use honey combs!
 
 
 ## Daily Trivia
 
-Which of the following is a personal computer made by the Japanese company Fujitsu?
- 1. PC-9801
- 2. Xmillennium 
- 3. MSX
- 4. FM-7
+America Online (AOL) started out as which of these online service providers?
+ 1. Quantum Link
+ 2. Prodigy
+ 3. GEnie
+ 4. CompuServe
 
 <details>
   <summary>Answer</summary>
-  FM-7
+  Quantum Link
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days 54 minutes</strong> since this server shutdown
+Its been <strong>12 days  1 hours 24 minutes</strong> since this server shutdown
