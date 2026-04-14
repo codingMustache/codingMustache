@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the tomato blush? Because it saw the salad dressing.
+How many apples grow on a tree? All of them!
 
 
 ## Daily Trivia
 
-How long is an IPv6 address?
- 1. 128 bits
- 2. 128 bytes
- 3. 64 bits
- 4. 32 bits
+Which of the following is the oldest of these computers by release date?
+ 1. Apple 3
+ 2. TRS-80
+ 3. ZX Spectrum
+ 4. Commodore 64
 
 <details>
   <summary>Answer</summary>
-  128 bits
+  TRS-80
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  3 hours 54 minutes</strong> since this server shutdown
+Its been <strong>12 days  4 hours 24 minutes</strong> since this server shutdown
