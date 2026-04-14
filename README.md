@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I saw a documentary on TV last night about how they put ships together.  It was rivetting.
+Conjunctivitis.com – now that’s a site for sore eyes.
 
 
 ## Daily Trivia
 
-What does &quot;LCD&quot; stand for?
- 1. Language Control Design
- 2. Last Common Difference
- 3. Long Continuous Design
- 4. Liquid Crystal Display
+When did the online streaming service &quot;Mixer&quot; launch?
+ 1. 2016
+ 2. 2011
+ 3. 2009
+ 4. 2013
 
 <details>
   <summary>Answer</summary>
-  Liquid Crystal Display
+  2016
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  9 hours 54 minutes</strong> since this server shutdown
+Its been <strong>12 days  10 hours 24 minutes</strong> since this server shutdown
