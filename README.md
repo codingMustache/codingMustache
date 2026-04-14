@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the man put his money in the freezer? He wanted cold hard cash!
+What is a tornado's favorite game to play? Twister!
 
 
 ## Daily Trivia
 
-While Apple was formed in California, in which western state was Microsoft founded?
- 1. New Mexico
- 2. Washington
- 3. Colorado
- 4. Arizona
+What is the code name for the mobile operating system Android 7.0?
+ 1. Ice Cream Sandwich
+ 2. Nougat
+ 3. Jelly Bean
+ 4. Marshmallow
 
 <details>
   <summary>Answer</summary>
-  New Mexico
+  Nougat
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  15 hours 24 minutes</strong> since this server shutdown
+Its been <strong>11 days  15 hours 54 minutes</strong> since this server shutdown
