@@ -6,24 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is red and smells like blue paint?
-Red paint!
+Conjunctivitis.com – now that’s a site for sore eyes.
 
 
 ## Daily Trivia
 
-What was the first company to use the term &quot;Golden Master&quot;?
- 1. IBM
- 2. Google
- 3. Apple
- 4. Microsoft
+What does CPU stand for?
+ 1. Central Processing Unit
+ 2. Central Process Unit
+ 3. Computer Personal Unit
+ 4. Central Processor Unit
 
 <details>
   <summary>Answer</summary>
-  Apple
+  Central Processing Unit
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  20 hours 24 minutes</strong> since this server shutdown
+Its been <strong>11 days  20 hours 54 minutes</strong> since this server shutdown
