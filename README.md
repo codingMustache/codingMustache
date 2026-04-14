@@ -6,25 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Mahatma Gandhi, as you know, walked barefoot most of the time, which produced an impressive set of calluses on his feet. 
-He also ate very little, which made him rather frail and with his odd diet, he suffered from bad breath. 
-This made him a super calloused fragile mystic hexed by halitosis.
+Did you hear the news? FedEx and UPS are merging. They’re going to go by the name Fed-Up from now on.
 
 
 ## Daily Trivia
 
-HTML is what type of language?
- 1. Programming Language
- 2. Macro Language
- 3. Scripting Language
- 4. Markup Language
+Which programming language shares its name with an island in Indonesia?
+ 1. Jakarta
+ 2. Java
+ 3. C
+ 4. Python
 
 <details>
   <summary>Answer</summary>
-  Markup Language
+  Java
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  13 hours 24 minutes</strong> since this server shutdown
+Its been <strong>11 days  13 hours 54 minutes</strong> since this server shutdown
