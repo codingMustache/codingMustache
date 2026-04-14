@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you make a 'one' disappear? You add a 'g' and it's 'gone'
+Why did the tomato blush? Because it saw the salad dressing.
 
 
 ## Daily Trivia
 
-What was the name of the first Bulgarian personal computer?
- 1. IMKO-1
- 2. IZOT 1030
- 3. Pravetz 8D
- 4. Pravetz 82
+How long is an IPv6 address?
+ 1. 128 bits
+ 2. 128 bytes
+ 3. 64 bits
+ 4. 32 bits
 
 <details>
   <summary>Answer</summary>
-  IMKO-1
+  128 bits
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  3 hours 24 minutes</strong> since this server shutdown
+Its been <strong>12 days  3 hours 54 minutes</strong> since this server shutdown
