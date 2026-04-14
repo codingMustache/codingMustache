@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Conjunctivitis.com – now that’s a site for sore eyes.
+Why was the picture sent to prison? It was framed.
 
 
 ## Daily Trivia
 
-What does CPU stand for?
- 1. Central Processing Unit
- 2. Central Process Unit
- 3. Computer Personal Unit
- 4. Central Processor Unit
+What was the name of the first Bulgarian personal computer?
+ 1. IMKO-1
+ 2. IZOT 1030
+ 3. Pravetz 8D
+ 4. Pravetz 82
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  IMKO-1
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  20 hours 54 minutes</strong> since this server shutdown
+Its been <strong>11 days  21 hours 24 minutes</strong> since this server shutdown
