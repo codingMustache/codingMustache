@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the traffic light say to the car as it passed? "Don't look I'm changing!"
+A horse walks into a bar. The bar tender says "Hey." The horse says "Sure."
 
 
 ## Daily Trivia
 
-Who is the founder of Palantir?
- 1. Marc Benioff
- 2. Peter Thiel
- 3. Mark Zuckerberg
- 4. Jack Dorsey
+How many bytes are in a single Kibibyte?
+ 1. 2400
+ 2. 1000
+ 3. 1240
+ 4. 1024
 
 <details>
   <summary>Answer</summary>
-  Peter Thiel
+  1024
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  1 hours 54 minutes</strong> since this server shutdown
+Its been <strong>12 days  2 hours 24 minutes</strong> since this server shutdown
