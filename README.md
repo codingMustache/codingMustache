@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was the picture sent to prison? It was framed.
+Why are fish easy to weigh? Because they have their own scales.
 
 
 ## Daily Trivia
 
-What was the name of the first Bulgarian personal computer?
- 1. IMKO-1
- 2. IZOT 1030
- 3. Pravetz 8D
- 4. Pravetz 82
+According to the International System of Units, how many bytes are in a kilobyte of RAM?
+ 1. 512
+ 2. 1024
+ 3. 500
+ 4. 1000
 
 <details>
   <summary>Answer</summary>
-  IMKO-1
+  1000
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  21 hours 24 minutes</strong> since this server shutdown
+Its been <strong>11 days  21 hours 54 minutes</strong> since this server shutdown
