@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many apples grow on a tree? All of them!
+What do birds give out on Halloween? Tweets.
 
 
 ## Daily Trivia
 
-Which of the following is the oldest of these computers by release date?
- 1. Apple 3
- 2. TRS-80
- 3. ZX Spectrum
- 4. Commodore 64
+On which day did the World Wide Web go online?
+ 1. December 17, 1996
+ 2. November 12, 1990
+ 3. November 24, 1995
+ 4. December 20, 1990
 
 <details>
   <summary>Answer</summary>
-  TRS-80
+  December 20, 1990
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  4 hours 24 minutes</strong> since this server shutdown
+Its been <strong>12 days  4 hours 54 minutes</strong> since this server shutdown
