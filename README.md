@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do cows wear bells? Because their horns don't work.
+What do you call a fish with no eyes? A fsh.
 
 
 ## Daily Trivia
 
-What is the name of Layer 7 of the OSI model?
- 1. Present
- 2. Network
- 3. Session
- 4. Application
+This mobile OS held the largest market share in 2012.
+ 1. iOS
+ 2. BlackBerry
+ 3. Symbian
+ 4. Android
 
 <details>
   <summary>Answer</summary>
-  Application
+  iOS
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  23 hours 54 minutes</strong> since this server shutdown
+Its been <strong>12 days 24 minutes</strong> since this server shutdown
