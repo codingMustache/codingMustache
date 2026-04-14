@@ -6,23 +6,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you get two whales in a car? Start in England and drive West.
+What is red and smells like blue paint?
+Red paint!
 
 
 ## Daily Trivia
 
-Whistler was the codename of this Microsoft Operating System.
- 1. Windows 95
- 2. Windows 7
- 3. Windows 2000
- 4. Windows XP
+What was the first company to use the term &quot;Golden Master&quot;?
+ 1. IBM
+ 2. Google
+ 3. Apple
+ 4. Microsoft
 
 <details>
   <summary>Answer</summary>
-  Windows XP
+  Apple
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  19 hours 54 minutes</strong> since this server shutdown
+Its been <strong>11 days  20 hours 24 minutes</strong> since this server shutdown
