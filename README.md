@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The Swiss must've been pretty confident in their chances of victory if they included a corkscrew in their army knife.
+which flower is most fierce? Dandelion
 
 
 ## Daily Trivia
 
-Which of the following languages is used as a scripting language in the Unity 3D game engine?
- 1. Java
- 2. C++
- 3. C#
- 4. Objective-C
+What was the name of the image that features as the default background wallpaper for Windows XP?
+ 1. Red moon desert
+ 2. Bliss
+ 3. Azul
+ 4. Tulips
 
 <details>
   <summary>Answer</summary>
-  C#
+  Bliss
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  22 hours 54 minutes</strong> since this server shutdown
+Its been <strong>12 days  23 hours 24 minutes</strong> since this server shutdown
