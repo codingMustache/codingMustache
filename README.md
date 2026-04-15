@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-When my wife told me to stop impersonating a flamingo, I had to put my foot down.
+I can't take my dog to the pond anymore because the ducks keep attacking him. That's what I get for buying a pure bread dog.
 
 
 ## Daily Trivia
 
-In programming, what do you call functions with the same name but different implementations?
- 1. Abstracting
- 2. Inheriting
- 3. Overloading
- 4. Overriding
+What does GHz stand for?
+ 1. Gigahotz
+ 2. Gigahertz
+ 3. Gigahatz
+ 4. Gigahetz
 
 <details>
   <summary>Answer</summary>
-  Overloading
+  Gigahertz
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  13 hours 54 minutes</strong> since this server shutdown
+Its been <strong>12 days  14 hours 24 minutes</strong> since this server shutdown
