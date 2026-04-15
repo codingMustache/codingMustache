@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the melons plan a big wedding? Because they cantaloupe!
+Two peanuts were walking down the street. One was a salted
 
 
 ## Daily Trivia
 
-The numbering system with a radix of 16 is more commonly referred to as 
- 1. Hexidecimal
- 2. Octal
- 3. Binary
- 4. Duodecimal
+What major programming language does Unreal Engine 4 use?
+ 1. C++
+ 2. ECMAScript
+ 3. Assembly
+ 4. C#
 
 <details>
   <summary>Answer</summary>
-  Hexidecimal
+  C++
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  1 hours 54 minutes</strong> since this server shutdown
+Its been <strong>13 days  2 hours 24 minutes</strong> since this server shutdown
