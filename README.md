@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-This morning I was wondering where the sun was, but then it dawned on me.
+Why did the barber win the race? He took a short cut.
 
 
 ## Daily Trivia
 
-HTML is what type of language?
- 1. Markup Language
- 2. Scripting Language
- 3. Programming Language
- 4. Macro Language
+The Windows OS was delevoped by which company?
+ 1. Microsoft
+ 2. Nokia
+ 3. Apple
+ 4. IBM
 
 <details>
   <summary>Answer</summary>
-  Markup Language
+  Microsoft
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  9 hours 24 minutes</strong> since this server shutdown
+Its been <strong>13 days  9 hours 54 minutes</strong> since this server shutdown
