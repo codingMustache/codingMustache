@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you make a hankie dance? Put a little boogie in it.
+When my wife told me to stop impersonating a flamingo, I had to put my foot down.
 
 
 ## Daily Trivia
 
-What does GHz stand for?
- 1. Gigahetz
- 2. Gigahertz
- 3. Gigahotz
- 4. Gigahatz
+In programming, what do you call functions with the same name but different implementations?
+ 1. Abstracting
+ 2. Inheriting
+ 3. Overloading
+ 4. Overriding
 
 <details>
   <summary>Answer</summary>
-  Gigahertz
+  Overloading
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  13 hours 24 minutes</strong> since this server shutdown
+Its been <strong>12 days  13 hours 54 minutes</strong> since this server shutdown
