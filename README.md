@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why don't skeletons ride roller coasters? They don't have the stomach for it.
+What did the dog say to the two trees? Bark bark.
 
 
 ## Daily Trivia
 
-Which operating system was released first?
- 1. Windows
- 2. OS/2
- 3. Linux
- 4. Mac OS
+Which programming language was developed by Sun Microsystems in 1995?
+ 1. Solaris OS
+ 2. Python
+ 3. Java
+ 4. C++
 
 <details>
   <summary>Answer</summary>
-  Mac OS
+  Java
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  15 hours 54 minutes</strong> since this server shutdown
+Its been <strong>12 days  16 hours 24 minutes</strong> since this server shutdown
