@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many bones are in the human hand? A handful of them.
+Why did the melons plan a big wedding? Because they cantaloupe!
 
 
 ## Daily Trivia
 
-What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
- 1. Coffee Lake
- 2. Sandy Bridge
- 3. Skylake
- 4. Broadwell
+The numbering system with a radix of 16 is more commonly referred to as 
+ 1. Hexidecimal
+ 2. Octal
+ 3. Binary
+ 4. Duodecimal
 
 <details>
   <summary>Answer</summary>
-  Coffee Lake
+  Hexidecimal
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  1 hours 24 minutes</strong> since this server shutdown
+Its been <strong>13 days  1 hours 54 minutes</strong> since this server shutdown
