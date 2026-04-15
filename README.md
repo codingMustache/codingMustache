@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a magician who has lost their magic? Ian.
+How many bones are in the human hand? A handful of them.
 
 
 ## Daily Trivia
 
-How many bits make up the significand portion of a single precision floating point number?
- 1. 8
- 2. 53
- 3. 15
- 4. 23
+What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
+ 1. Coffee Lake
+ 2. Sandy Bridge
+ 3. Skylake
+ 4. Broadwell
 
 <details>
   <summary>Answer</summary>
-  23
+  Coffee Lake
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days 54 minutes</strong> since this server shutdown
+Its been <strong>13 days  1 hours 24 minutes</strong> since this server shutdown
