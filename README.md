@@ -6,23 +6,25 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why doesn't the Chimney-Sweep call out sick from work? Because he's used to working with a flue.
+Where was the Declaration of Independence signed?
+
+At the bottom! 
 
 
 ## Daily Trivia
 
-Which one of these is not an official development name for a Ubuntu release?
- 1. Trusty Tahr
- 2. Mystic Mansion
- 3. Utopic Unicorn
- 4. Wily Werewolf
+What does the term USB stand for?
+ 1. Unityped Semtex Backer
+ 2. Unified Signal Bus
+ 3. Universal Serial Bus
+ 4. Universal Simtex Blot
 
 <details>
   <summary>Answer</summary>
-  Mystic Mansion
+  Universal Serial Bus
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  20 hours 24 minutes</strong> since this server shutdown
+Its been <strong>12 days  20 hours 54 minutes</strong> since this server shutdown
