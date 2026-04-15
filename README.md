@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How does a dyslexic poet write? Inverse.
+How many hipsters does it take to change a lightbulb? Oh, it's a really obscure number. You've probably never heard of it.
 
 
 ## Daily Trivia
 
-What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
- 1. ADPCM Sampler
- 2. FM Synthesizer
- 3. Programmable Sound Generator (PSG)
- 4. PCM Sampler
+Which of these is not a key value of Agile software development?
+ 1. Comprehensive documentation
+ 2. Customer collaboration
+ 3. Responding to change
+ 4. Individuals and interactions
 
 <details>
   <summary>Answer</summary>
-  ADPCM Sampler
+  Comprehensive documentation
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  23 hours 54 minutes</strong> since this server shutdown
+Its been <strong>13 days 24 minutes</strong> since this server shutdown
