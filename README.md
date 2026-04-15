@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many hipsters does it take to change a lightbulb? Oh, it's a really obscure number. You've probably never heard of it.
+What do you call a magician who has lost their magic? Ian.
 
 
 ## Daily Trivia
 
-Which of these is not a key value of Agile software development?
- 1. Comprehensive documentation
- 2. Customer collaboration
- 3. Responding to change
- 4. Individuals and interactions
+How many bits make up the significand portion of a single precision floating point number?
+ 1. 8
+ 2. 53
+ 3. 15
+ 4. 23
 
 <details>
   <summary>Answer</summary>
-  Comprehensive documentation
+  23
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days 24 minutes</strong> since this server shutdown
+Its been <strong>13 days 54 minutes</strong> since this server shutdown
