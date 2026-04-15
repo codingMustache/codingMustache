@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did one plate say to the other plate? Dinner is on me!
+Why do bees have sticky hair? Because they use honey combs!
 
 
 ## Daily Trivia
 
-Which of these people was NOT a founder of Apple Inc?
- 1. Steve Jobs
- 2. Jonathan Ive
- 3. Ronald Wayne
- 4. Steve Wozniak
+On Twitter, what was the original character limit for a Tweet?
+ 1. 140
+ 2. 100
+ 3. 160
+ 4. 120
 
 <details>
   <summary>Answer</summary>
-  Jonathan Ive
+  140
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  21 hours 54 minutes</strong> since this server shutdown
+Its been <strong>12 days  22 hours 24 minutes</strong> since this server shutdown
