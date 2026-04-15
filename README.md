@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do bees have sticky hair? Because they use honey combs!
+The Swiss must've been pretty confident in their chances of victory if they included a corkscrew in their army knife.
 
 
 ## Daily Trivia
 
-On Twitter, what was the original character limit for a Tweet?
- 1. 140
- 2. 100
- 3. 160
- 4. 120
+Which of the following languages is used as a scripting language in the Unity 3D game engine?
+ 1. Java
+ 2. C++
+ 3. C#
+ 4. Objective-C
 
 <details>
   <summary>Answer</summary>
-  140
+  C#
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  22 hours 24 minutes</strong> since this server shutdown
+Its been <strong>12 days  22 hours 54 minutes</strong> since this server shutdown
