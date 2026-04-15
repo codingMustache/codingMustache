@@ -6,25 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to work at a stationery store.  But, I didn't feel like I was going anywhere.
-
-So, I got a job at a travel agency.  Now, I know I'll be going places.
+What creature is smarter than a talking parrot? A spelling bee.
 
 
 ## Daily Trivia
 
-Which of the following physical typologies are used with Ethernet Networks?
- 1. Star
- 2. Ring
- 3. Mesh
- 4. Hex
+What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
+ 1. Coffee Lake
+ 2. Broadwell
+ 3. Skylake
+ 4. Sandy Bridge
 
 <details>
   <summary>Answer</summary>
-  Star
+  Coffee Lake
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  17 hours 24 minutes</strong> since this server shutdown
+Its been <strong>12 days  17 hours 54 minutes</strong> since this server shutdown
