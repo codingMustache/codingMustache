@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Do I enjoy making courthouse puns? Guilty
+How do you make a hankie dance? Put a little boogie in it.
 
 
 ## Daily Trivia
 
-CMOS is tech used for constructing integrated circuits. What does CMOS stand for?
- 1. Computer-made operating system
- 2. Complementary metal&ndash;oxide&ndash;semiconductor
- 3. Complementary magnetic-ohms-semiconductor
- 4. Computer-made oscillating static
+What does GHz stand for?
+ 1. Gigahetz
+ 2. Gigahertz
+ 3. Gigahotz
+ 4. Gigahatz
 
 <details>
   <summary>Answer</summary>
-  Complementary metal&ndash;oxide&ndash;semiconductor
+  Gigahertz
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  12 hours 54 minutes</strong> since this server shutdown
+Its been <strong>12 days  13 hours 24 minutes</strong> since this server shutdown
