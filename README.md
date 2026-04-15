@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the barber win the race? He took a short cut.
+I was thinking about moving to Moscow but there is no point Russian into things.
 
 
 ## Daily Trivia
 
-The Windows OS was delevoped by which company?
- 1. Microsoft
- 2. Nokia
- 3. Apple
- 4. IBM
+What is the number of keys on a standard Windows Keyboard?
+ 1. 64
+ 2. 94
+ 3. 104
+ 4. 76
 
 <details>
   <summary>Answer</summary>
-  Microsoft
+  104
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  9 hours 54 minutes</strong> since this server shutdown
+Its been <strong>13 days  10 hours 24 minutes</strong> since this server shutdown
