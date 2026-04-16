@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you know the first French fries weren't actually cooked in France? They were cooked in Greece.
+Leather is great for sneaking around because it's made of hide.
 
 
 ## Daily Trivia
 
-This mobile OS held the largest market share in 2012.
- 1. BlackBerry
- 2. iOS
- 3. Android
- 4. Symbian
+What is the name of the default theme that is installed with Windows XP?
+ 1. Luna
+ 2. Bliss
+ 3. Whistler
+ 4. Neptune
 
 <details>
   <summary>Answer</summary>
-  iOS
+  Luna
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 2 hours </strong> since this server shutdown
+Its been <strong> 2 hours 30 minutes</strong> since this server shutdown
