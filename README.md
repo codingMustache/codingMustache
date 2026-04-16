@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How does a dyslexic poet write? Inverse.
+Waking up this morning was an eye-opening experience.
 
 
 ## Daily Trivia
 
-What does the term MIME stand for, in regards to computing?
- 1. Multipurpose Internet Mail Extensions
- 2. Mail Internet Mail Exchange
- 3. Multipurpose Interleave Mail Exchange
- 4. Mail Interleave Method Exchange
+On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
+ 1. Exclamation Mark
+ 2. Asterisk
+ 3. Percent Sign
+ 4. Dollar Sign
 
 <details>
   <summary>Answer</summary>
-  Multipurpose Internet Mail Extensions
+  Exclamation Mark
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  11 hours 54 minutes</strong> since this server shutdown
+Its been <strong>13 days  12 hours 24 minutes</strong> since this server shutdown
