@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you get if you put a duck in a cement mixer? Quacks in the pavement.
+I got fired from a florist, apparently I took too many leaves.
 
 
 ## Daily Trivia
 
-What major programming language does Unreal Engine 4 use?
- 1. ECMAScript
- 2. C#
- 3. C++
- 4. Assembly
+What does RAID stand for?
+ 1. Redundant Array of Independent Disks
+ 2. Randomized Abstract Identification Description
+ 3. Rapid Access for Indexed Devices
+ 4. Range of Applications with Identical Designs
 
 <details>
   <summary>Answer</summary>
-  C++
+  Redundant Array of Independent Disks
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 9 hours </strong> since this server shutdown
+Its been <strong> 9 hours 30 minutes</strong> since this server shutdown
