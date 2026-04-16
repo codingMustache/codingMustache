@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Do I enjoy making courthouse puns? Guilty
+The other day I was listening to a song about superglue, it’s been stuck in my head ever since.
 
 
 ## Daily Trivia
 
-Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
- 1. Clipper Chip
- 2. Nautilus
- 3. Skipjack
- 4. Enigma Machine
+What is the name of the default theme that is installed with Windows XP?
+ 1. Neptune
+ 2. Whistler
+ 3. Bliss
+ 4. Luna
 
 <details>
   <summary>Answer</summary>
-  Clipper Chip
+  Luna
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  23 hours 24 minutes</strong> since this server shutdown
+Its been <strong>13 days  23 hours 54 minutes</strong> since this server shutdown
