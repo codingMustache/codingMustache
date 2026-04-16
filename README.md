@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did one plate say to the other plate? Dinner is on me!
+Why does it take longer to get from 1st to 2nd base, than it does to get from 2nd to 3rd base? Because there’s a Shortstop in between!
 
 
 ## Daily Trivia
 
-Which computer language would you associate Django framework with?
+What language does Node.js use?
  1. Java
- 2. Python
- 3. C++
- 4. C#
+ 2. Java Source
+ 3. JavaScript
+ 4. Joomla Source Code
 
 <details>
   <summary>Answer</summary>
-  Python
+  JavaScript
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  15 hours 24 minutes</strong> since this server shutdown
+Its been <strong>13 days  15 hours 54 minutes</strong> since this server shutdown
