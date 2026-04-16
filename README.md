@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-We all know where the Big Apple is but does anyone know where the Minneapolis?
+Why was the shirt happy to hang around the tank top? Because it was armless
 
 
 ## Daily Trivia
 
-Which programming language shares its name with an island in Indonesia?
- 1. Java
- 2. Jakarta
- 3. Python
- 4. C
+Who is the original author of the realtime physics engine called PhysX?
+ 1. AMD
+ 2. Nvidia
+ 3. NovodeX
+ 4. Ageia
 
 <details>
   <summary>Answer</summary>
-  Java
+  NovodeX
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 5 hours </strong> since this server shutdown
+Its been <strong> 5 hours 30 minutes</strong> since this server shutdown
