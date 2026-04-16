@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the girl smear peanut butter on the road? To go with the traffic jam.
+What do you call a pig with three eyes? Piiig
 
 
 ## Daily Trivia
 
-What port does HTTP run on?
- 1. 23
- 2. 53
- 3. 443
- 4. 80
+Unix Time is defined as the number of seconds that have elapsed since when?
+ 1. Midnight on the creator of Unix&#039;s birthday
+ 2. Midnight, January 1, 1970
+ 3. Midnight, July 4, 1976
+ 4. Midnight, July 4, 1980
 
 <details>
   <summary>Answer</summary>
-  80
+  Midnight, January 1, 1970
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  21 hours 54 minutes</strong> since this server shutdown
+Its been <strong>13 days  22 hours 24 minutes</strong> since this server shutdown
