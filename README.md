@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was Pavlov's beard so soft?  Because he conditioned it.
+Whiteboards ... are remarkable.
 
 
 ## Daily Trivia
 
-In networking, what does OSPF stand for?
- 1. Open Shortest Path First
- 2. Order Sense Ping Find
- 3. Order State Part First
- 4. Open Signal Path Finder
+The Windows OS was delevoped by which company?
+ 1. IBM
+ 2. Microsoft
+ 3. Nokia
+ 4. Apple
 
 <details>
   <summary>Answer</summary>
-  Open Shortest Path First
+  Microsoft
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 6 hours 30 minutes</strong> since this server shutdown
+Its been <strong> 7 hours </strong> since this server shutdown
