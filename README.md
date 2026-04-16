@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I went on a date last night with a girl from the zoo. It was great. She’s a keeper.
+How does a dyslexic poet write? Inverse.
 
 
 ## Daily Trivia
 
-Laserjet and inkjet printers are both examples of what type of printer?
- 1. Non-impact printer
- 2. Dot matrix printer
- 3. Daisywheel printer
- 4. Impact printer
+What does the term MIME stand for, in regards to computing?
+ 1. Multipurpose Internet Mail Extensions
+ 2. Mail Internet Mail Exchange
+ 3. Multipurpose Interleave Mail Exchange
+ 4. Mail Interleave Method Exchange
 
 <details>
   <summary>Answer</summary>
-  Non-impact printer
+  Multipurpose Internet Mail Extensions
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  11 hours 24 minutes</strong> since this server shutdown
+Its been <strong>13 days  11 hours 54 minutes</strong> since this server shutdown
