@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The other day I was listening to a song about superglue, it’s been stuck in my head ever since.
+what do you call a dog that can do magic tricks? a labracadabrador
 
 
 ## Daily Trivia
 
-What is the name of the default theme that is installed with Windows XP?
- 1. Neptune
- 2. Whistler
- 3. Bliss
- 4. Luna
+Which kind of algorithm is Ron Rivest not famous for creating?
+ 1. Stream cipher
+ 2. Asymmetric encryption
+ 3. Hashing algorithm
+ 4. Secret sharing scheme
 
 <details>
   <summary>Answer</summary>
-  Luna
+  Secret sharing scheme
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  23 hours 54 minutes</strong> since this server shutdown
+Its been <strong>30 minutes</strong> since this server shutdown
