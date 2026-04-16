@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Waking up this morning was an eye-opening experience.
+Atheism is a non-prophet organisation.
 
 
 ## Daily Trivia
 
-What does the term MIME stand for, in regards to computing?
- 1. Multipurpose Internet Mail Extensions
- 2. Mail Interleave Method Exchange
- 3. Multipurpose Interleave Mail Exchange
- 4. Mail Internet Mail Exchange
+Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
+ 1. Year
+ 2. Eight Years
+ 3. Two Years
+ 4. Four Years
 
 <details>
   <summary>Answer</summary>
-  Multipurpose Internet Mail Extensions
+  Year
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 3 hours 30 minutes</strong> since this server shutdown
+Its been <strong> 4 hours </strong> since this server shutdown
