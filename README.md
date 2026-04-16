@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a pig with three eyes? Piiig
+How do hens stay fit? They always egg-cercise!
 
 
 ## Daily Trivia
 
-Unix Time is defined as the number of seconds that have elapsed since when?
- 1. Midnight on the creator of Unix&#039;s birthday
- 2. Midnight, January 1, 1970
- 3. Midnight, July 4, 1976
- 4. Midnight, July 4, 1980
+HTML is what type of language?
+ 1. Programming Language
+ 2. Markup Language
+ 3. Scripting Language
+ 4. Macro Language
 
 <details>
   <summary>Answer</summary>
-  Midnight, January 1, 1970
+  Markup Language
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  22 hours 24 minutes</strong> since this server shutdown
+Its been <strong>13 days  22 hours 54 minutes</strong> since this server shutdown
