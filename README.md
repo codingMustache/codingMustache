@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-*Reversing the car* "Ah, this takes me back"
+Why was Pavlov's beard so soft?  Because he conditioned it.
 
 
 ## Daily Trivia
 
-All of the following programs are classified as raster graphics editors EXCEPT:
- 1. Paint.NET
- 2. GIMP
- 3. Adobe Photoshop
- 4. Inkscape
+In networking, what does OSPF stand for?
+ 1. Open Shortest Path First
+ 2. Order Sense Ping Find
+ 3. Order State Part First
+ 4. Open Signal Path Finder
 
 <details>
   <summary>Answer</summary>
-  Inkscape
+  Open Shortest Path First
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 6 hours </strong> since this server shutdown
+Its been <strong> 6 hours 30 minutes</strong> since this server shutdown
