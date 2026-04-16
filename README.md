@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the doctor say to the gingerbread man who broke his leg? Try icing it.
+We all know where the Big Apple is but does anyone know where the Minneapolis?
 
 
 ## Daily Trivia
 
-What vulnerability ranked #1 on the OWASP Top 10 in 2013?
- 1. Insecure Direct Object References
- 2. Injection 
- 3. Cross-Site Scripting
- 4. Broken Authentication
+Which programming language shares its name with an island in Indonesia?
+ 1. Java
+ 2. Jakarta
+ 3. Python
+ 4. C
 
 <details>
   <summary>Answer</summary>
-  Injection 
+  Java
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 4 hours 30 minutes</strong> since this server shutdown
+Its been <strong> 5 hours </strong> since this server shutdown
