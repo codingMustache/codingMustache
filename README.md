@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Leather is great for sneaking around because it's made of hide.
+Why was the big cat disqualified from the race? Because it was a cheetah.
 
 
 ## Daily Trivia
 
-What is the name of the default theme that is installed with Windows XP?
- 1. Luna
- 2. Bliss
- 3. Whistler
- 4. Neptune
+What does GHz stand for?
+ 1. Gigahotz
+ 2. Gigahertz
+ 3. Gigahetz
+ 4. Gigahatz
 
 <details>
   <summary>Answer</summary>
-  Luna
+  Gigahertz
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 2 hours 30 minutes</strong> since this server shutdown
+Its been <strong> 3 hours </strong> since this server shutdown
