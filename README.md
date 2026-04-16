@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a fashionable lawn statue with an excellent sense of rhythmn? A metro-gnome
+What did one plate say to the other plate? Dinner is on me!
 
 
 ## Daily Trivia
 
-Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
- 1. Skipjack
- 2. Clipper Chip
- 3. Enigma Machine
- 4. Nautilus
+Which computer language would you associate Django framework with?
+ 1. Java
+ 2. Python
+ 3. C++
+ 4. C#
 
 <details>
   <summary>Answer</summary>
-  Clipper Chip
+  Python
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  14 hours 54 minutes</strong> since this server shutdown
+Its been <strong>13 days  15 hours 24 minutes</strong> since this server shutdown
