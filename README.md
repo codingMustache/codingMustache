@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-what do you call a dog that can do magic tricks? a labracadabrador
+They're making a movie about clocks. It's about time
 
 
 ## Daily Trivia
 
-Which kind of algorithm is Ron Rivest not famous for creating?
- 1. Stream cipher
- 2. Asymmetric encryption
- 3. Hashing algorithm
- 4. Secret sharing scheme
+In the server hosting industry IaaS stands for...
+ 1. Infrastructure as a Service
+ 2. Internet as a Service
+ 3. Internet and a Server
+ 4. Infrastructure as a Server
 
 <details>
   <summary>Answer</summary>
-  Secret sharing scheme
+  Infrastructure as a Service
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>30 minutes</strong> since this server shutdown
+Its been <strong> 1 hours </strong> since this server shutdown
