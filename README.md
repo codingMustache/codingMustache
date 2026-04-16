@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What musical instrument is found in the bathroom? A tuba toothpaste.
+Why is it so windy inside an arena? All those fans.
 
 
 ## Daily Trivia
 
-In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
- 1. absolute
- 2. center
- 3. relative
- 4. static
+Which kind of algorithm is Ron Rivest not famous for creating?
+ 1. Stream cipher
+ 2. Asymmetric encryption
+ 3. Secret sharing scheme
+ 4. Hashing algorithm
 
 <details>
   <summary>Answer</summary>
-  center
+  Secret sharing scheme
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  18 hours 54 minutes</strong> since this server shutdown
+Its been <strong>13 days  19 hours 24 minutes</strong> since this server shutdown
