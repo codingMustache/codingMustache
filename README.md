@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Somebody stole my Microsoft Office and they're going to pay - you have my Word.
+What’s brown and sounds like a bell? Dung!
 
 
 ## Daily Trivia
 
-Approximately how many Apple I personal computers were created?
- 1. 100
- 2. 200
- 3. 1000
- 4. 500
+Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
+ 1. C#
+ 2. Python
+ 3. PHP
+ 4. JavaScript
 
 <details>
   <summary>Answer</summary>
-  200
+  JavaScript
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 22 hours </strong> since this server shutdown
+Its been <strong> 22 hours 30 minutes</strong> since this server shutdown
