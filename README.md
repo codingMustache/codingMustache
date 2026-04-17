@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to be addicted to the hokey pokey, but I turned myself around.
+I made a playlist for hiking. It has music from Peanuts, The Cranberries, and Eminem. I call it my Trail Mix.
 
 
 ## Daily Trivia
 
-.rs is the top-level domain for what country?
- 1. Serbia
- 2. Rwanda
- 3. Russia
- 4. Romania
+On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
+ 1. Exclamation Mark
+ 2. Asterisk
+ 3. Percent Sign
+ 4. Dollar Sign
 
 <details>
   <summary>Answer</summary>
-  Serbia
+  Exclamation Mark
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 18 hours 30 minutes</strong> since this server shutdown
+Its been <strong> 19 hours </strong> since this server shutdown
