@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many South Americans does it take to change a lightbulb? A Brazilian
+Do you want a brief explanation of what an acorn is? In a nutshell, it's an oak tree.
 
 
 ## Daily Trivia
 
-Which of the following physical typologies are used with Ethernet Networks?
- 1. Star
- 2. Hex
- 3. Mesh
- 4. Ring
+How many bits are commonly in a single byte?
+ 1.  Fifteen bits
+ 2. Eight bits
+ 3. Twelve bits
+ 4. Six bits
 
 <details>
   <summary>Answer</summary>
-  Star
+  Eight bits
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 14 hours </strong> since this server shutdown
+Its been <strong> 14 hours 30 minutes</strong> since this server shutdown
