@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did one snowman say to the other snow man? Do you smell carrot?
+My friend told me that pepper is the best seasoning for a roast, but I took it with a grain of salt.
 
 
 ## Daily Trivia
 
-What was Bitcoin&#039;s block size limit in 2010?
- 1. 1 MB
- 2. 1 TB
- 3. 1 KB
- 4. 1GB
+.at is the top-level domain for what country?
+ 1. Austria
+ 2. Australia
+ 3. Angola
+ 4. Argentina
 
 <details>
   <summary>Answer</summary>
-  1 MB
+  Austria
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 16 hours </strong> since this server shutdown
+Its been <strong> 16 hours 30 minutes</strong> since this server shutdown
