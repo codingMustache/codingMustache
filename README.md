@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Every night at 11:11, I make a wish that someone will come fix my broken clock.
+I've been trying to come up with a dad joke about momentum . . . but I just can't seem to get it going.
 
 
 ## Daily Trivia
 
-What amount of bits commonly equals one byte?
- 1. 8
- 2. 64
- 3. 2
- 4. 1
+Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
+ 1. Shellshock
+ 2. Corrupted Blood
+ 3. Shellscript
+ 4. Heartbleed
 
 <details>
   <summary>Answer</summary>
-  8
+  Heartbleed
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 23 hours 30 minutes</strong> since this server shutdown
+Its been <strong>1 days </strong> since this server shutdown
