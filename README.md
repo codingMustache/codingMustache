@@ -6,23 +6,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I was so proud when I finished the puzzle in six months, when on the side it said three to four years.
+Why don't you find hippopotamuses hiding in trees?
+They're really good at it.
 
 
 ## Daily Trivia
 
-Who is the founder of Palantir?
- 1. Mark Zuckerberg
- 2. Marc Benioff
- 3. Jack Dorsey
- 4. Peter Thiel
+What is the commonly used keyboard shortcut for the &#039;Copy&#039; function on Windows OS?
+ 1. Ctrl + X
+ 2. Ctrl + C
+ 3. Alt + C
+ 4. Alt + X
 
 <details>
   <summary>Answer</summary>
-  Peter Thiel
+  Ctrl + C
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  4 hours 30 minutes</strong> since this server shutdown
+Its been <strong>1 days  5 hours </strong> since this server shutdown
