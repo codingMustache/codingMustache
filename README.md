@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the chicken get a penalty? For fowl play.
+What’s brown and sounds like a bell? Dung!
 
 
 ## Daily Trivia
 
-What does &quot;LCD&quot; stand for?
- 1. Language Control Design
- 2. Liquid Crystal Display
- 3. Last Common Difference
- 4. Long Continuous Design
+What was the first Android version specifically optimized for tablets?
+ 1. Eclair
+ 2. Froyo
+ 3. Marshmellow
+ 4. Honeycomb
 
 <details>
   <summary>Answer</summary>
-  Liquid Crystal Display
+  Honeycomb
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 13 hours </strong> since this server shutdown
+Its been <strong> 13 hours 30 minutes</strong> since this server shutdown
