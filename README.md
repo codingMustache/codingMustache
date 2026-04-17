@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Me and my mates are in a band called Duvet. We're a cover band.
+How come the stadium got hot after the game? Because all of the fans left.
 
 
 ## Daily Trivia
 
-Approximately how many Apple I personal computers were created?
- 1. 100
- 2. 500
- 3. 1000
- 4. 200
+What was the first company to use the term &quot;Golden Master&quot;?
+ 1. IBM
+ 2. Microsoft
+ 3. Apple
+ 4. Google
 
 <details>
   <summary>Answer</summary>
-  200
+  Apple
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  8 hours 30 minutes</strong> since this server shutdown
+Its been <strong>1 days  9 hours </strong> since this server shutdown
