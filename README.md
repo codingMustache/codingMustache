@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What’s brown and sounds like a bell? Dung!
+How many South Americans does it take to change a lightbulb? A Brazilian
 
 
 ## Daily Trivia
 
-What was the first Android version specifically optimized for tablets?
- 1. Eclair
- 2. Froyo
- 3. Marshmellow
- 4. Honeycomb
+Which of the following physical typologies are used with Ethernet Networks?
+ 1. Star
+ 2. Hex
+ 3. Mesh
+ 4. Ring
 
 <details>
   <summary>Answer</summary>
-  Honeycomb
+  Star
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 13 hours 30 minutes</strong> since this server shutdown
+Its been <strong> 14 hours </strong> since this server shutdown
