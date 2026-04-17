@@ -6,25 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to work at a stationery store.  But, I didn't feel like I was going anywhere.
-
-So, I got a job at a travel agency.  Now, I know I'll be going places.
+My friend told me that pepper is the best seasoning for a roast, but I took it with a grain of salt.
 
 
 ## Daily Trivia
 
-In computing, what does MIDI stand for?
- 1. Musical Interface of Digital Instruments
- 2. Musical Instrument Digital Interface
- 3. Modular Interface of Digital Instruments
- 4. Musical Instrument Data Interface
+Which of these programming languages is a low-level language?
+ 1. Pascal
+ 2. Python
+ 3. C#
+ 4. Assembly
 
 <details>
   <summary>Answer</summary>
-  Musical Instrument Digital Interface
+  Assembly
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 10 hours </strong> since this server shutdown
+Its been <strong> 10 hours 30 minutes</strong> since this server shutdown
