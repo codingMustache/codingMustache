@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I've been trying to come up with a dad joke about momentum . . . but I just can't seem to get it going.
+What does a pirate pay for his corn? A buccaneer!
 
 
 ## Daily Trivia
 
-Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
- 1. Shellshock
- 2. Corrupted Blood
- 3. Shellscript
- 4. Heartbleed
+What is the most preferred image format used for logos in the Wikimedia database?
+ 1. .svg
+ 2. .png
+ 3. .jpeg
+ 4. .gif
 
 <details>
   <summary>Answer</summary>
-  Heartbleed
+  .svg
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days </strong> since this server shutdown
+Its been <strong>1 days 30 minutes</strong> since this server shutdown
