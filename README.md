@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Do you want a brief explanation of what an acorn is? In a nutshell, it's an oak tree.
+Why do fish live in salt water? Because pepper makes them sneeze!
 
 
 ## Daily Trivia
 
-How many bits are commonly in a single byte?
- 1.  Fifteen bits
- 2. Eight bits
- 3. Twelve bits
- 4. Six bits
+Which data structure does FILO apply to?
+ 1. Tree
+ 2. Heap
+ 3. Queue
+ 4. Stack
 
 <details>
   <summary>Answer</summary>
-  Eight bits
+  Stack
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 14 hours 30 minutes</strong> since this server shutdown
+Its been <strong> 15 hours </strong> since this server shutdown
