@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I tried taking some high resolution photos of local farmland, but they all turned out a bit grainy.
+What did the drummer name her twin daughters? Anna One, Anna Two...
 
 
 ## Daily Trivia
 
-Approximately how many Apple I personal computers were created?
- 1. 1000
- 2. 200
- 3. 500
- 4. 100
+America Online (AOL) started out as which of these online service providers?
+ 1. GEnie
+ 2. Prodigy
+ 3. CompuServe
+ 4. Quantum Link
 
 <details>
   <summary>Answer</summary>
-  200
+  Quantum Link
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 19 hours 30 minutes</strong> since this server shutdown
+Its been <strong> 20 hours </strong> since this server shutdown
