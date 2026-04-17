@@ -6,23 +6,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the drummer name her twin daughters? Anna One, Anna Two...
+Q: What did the spaghetti say to the other spaghetti?
+A: Pasta la vista, baby!
 
 
 ## Daily Trivia
 
-In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
- 1. center
- 2. relative
- 3. static
- 4. absolute
+Which of the following physical typologies are used with Ethernet Networks?
+ 1. Star
+ 2. Mesh
+ 3. Hex
+ 4. Ring
 
 <details>
   <summary>Answer</summary>
-  center
+  Star
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  5 hours 30 minutes</strong> since this server shutdown
+Its been <strong>1 days  6 hours </strong> since this server shutdown
