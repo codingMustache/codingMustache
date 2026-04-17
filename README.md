@@ -6,23 +6,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the drummer name her twin daughters? Anna One, Anna Two...
+What is the least spoken language in the world?
+Sign Language
 
 
 ## Daily Trivia
 
-America Online (AOL) started out as which of these online service providers?
- 1. GEnie
- 2. Prodigy
- 3. CompuServe
- 4. Quantum Link
+How many bytes are in a single Kibibyte?
+ 1. 1024
+ 2. 1000
+ 3. 2400
+ 4. 1240
 
 <details>
   <summary>Answer</summary>
-  Quantum Link
+  1024
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 20 hours </strong> since this server shutdown
+Its been <strong> 20 hours 30 minutes</strong> since this server shutdown
