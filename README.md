@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My friend told me that pepper is the best seasoning for a roast, but I took it with a grain of salt.
+What's the best thing about elevator jokes? They work on so many levels.
 
 
 ## Daily Trivia
 
-.at is the top-level domain for what country?
- 1. Austria
- 2. Australia
- 3. Angola
- 4. Argentina
+Which of these programming languages is a low-level language?
+ 1. Pascal
+ 2. C#
+ 3. Python
+ 4. Assembly
 
 <details>
   <summary>Answer</summary>
-  Austria
+  Assembly
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 16 hours 30 minutes</strong> since this server shutdown
+Its been <strong> 17 hours </strong> since this server shutdown
