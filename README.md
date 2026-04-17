@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My friend told me that pepper is the best seasoning for a roast, but I took it with a grain of salt.
+Why did the teddy bear say “no” to dessert? Because she was stuffed.
 
 
 ## Daily Trivia
 
-Which of these programming languages is a low-level language?
- 1. Pascal
- 2. Python
- 3. C#
- 4. Assembly
+The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
+ 1. HD Graphics 7000
+ 2. HD Graphics 600
+ 3. HD Graphics 500
+ 4. HD Graphics 700 
 
 <details>
   <summary>Answer</summary>
-  Assembly
+  HD Graphics 500
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 10 hours 30 minutes</strong> since this server shutdown
+Its been <strong> 11 hours 30 minutes</strong> since this server shutdown
