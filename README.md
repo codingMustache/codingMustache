@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a gorilla wearing headphones? Anything you'd like, it can't hear you.
+Every night at 11:11, I make a wish that someone will come fix my broken clock.
 
 
 ## Daily Trivia
 
-Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
- 1. Eight Years
- 2. Two Years
- 3. Year
- 4. Four Years
+What amount of bits commonly equals one byte?
+ 1. 8
+ 2. 64
+ 3. 2
+ 4. 1
 
 <details>
   <summary>Answer</summary>
-  Year
+  8
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 23 hours </strong> since this server shutdown
+Its been <strong> 23 hours 30 minutes</strong> since this server shutdown
