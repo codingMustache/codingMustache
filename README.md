@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Have you heard about corduroy pillows?  They're making headlines!
+Don’t interrupt someone working intently on a puzzle. Chances are, you’ll hear some crosswords.
 
 
 ## Daily Trivia
 
-What does the term MIME stand for, in regards to computing?
- 1. Mail Internet Mail Exchange
- 2. Multipurpose Interleave Mail Exchange
- 3. Mail Interleave Method Exchange
- 4. Multipurpose Internet Mail Extensions
+Which operating system was released first?
+ 1. Linux
+ 2. Mac OS
+ 3. Windows
+ 4. OS/2
 
 <details>
   <summary>Answer</summary>
-  Multipurpose Internet Mail Extensions
+  Mac OS
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 21 hours </strong> since this server shutdown
+Its been <strong> 21 hours 30 minutes</strong> since this server shutdown
