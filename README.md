@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What’s brown and sounds like a bell? Dung!
+What do you call a gorilla wearing headphones? Anything you'd like, it can't hear you.
 
 
 ## Daily Trivia
 
-Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
- 1. C#
- 2. Python
- 3. PHP
- 4. JavaScript
+Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
+ 1. Eight Years
+ 2. Two Years
+ 3. Year
+ 4. Four Years
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  Year
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 22 hours 30 minutes</strong> since this server shutdown
+Its been <strong> 23 hours </strong> since this server shutdown
