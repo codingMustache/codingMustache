@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do wizards clean their teeth three times a day? To prevent bat breath!
+A bartender broke up with her boyfriend, but he kept asking her for another shot.
 
 
 ## Daily Trivia
 
-In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
- 1. Final
- 2. Public
- 3. Private
- 4. Static
+What is the name of the process that sends one qubit of information using two bits of classical information?
+ 1. Super Dense Coding
+ 2. Quantum Entanglement
+ 3. Quantum Programming
+ 4. Quantum Teleportation
 
 <details>
   <summary>Answer</summary>
-  Final
+  Quantum Teleportation
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  2 hours </strong> since this server shutdown
+Its been <strong>1 days  2 hours 30 minutes</strong> since this server shutdown
