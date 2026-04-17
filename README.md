@@ -6,24 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a monkey in a mine field? A babooooom!
-
+Did you hear about the cheese factory that exploded in France? There was nothing left but de Brie.
 
 
 ## Daily Trivia
 
-What does AD stand for in relation to Windows Operating Systems? 
- 1. Alternative Drive
- 2. Automated Database
- 3. Active Department
- 4. Active Directory
+The Harvard architecture for micro-controllers added which additional bus?
+ 1. Data
+ 2. Address
+ 3. Instruction
+ 4. Control
 
 <details>
   <summary>Answer</summary>
-  Active Directory
+  Instruction
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  6 hours 30 minutes</strong> since this server shutdown
+Its been <strong>1 days  7 hours </strong> since this server shutdown
