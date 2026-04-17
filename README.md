@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A bartender broke up with her boyfriend, but he kept asking her for another shot.
+To be Frank, I'd have to change my name.
 
 
 ## Daily Trivia
 
-What is the name of the process that sends one qubit of information using two bits of classical information?
- 1. Super Dense Coding
- 2. Quantum Entanglement
- 3. Quantum Programming
- 4. Quantum Teleportation
+When Gmail first launched, how much storage did it provide for your email?
+ 1. 1GB
+ 2. 512MB
+ 3. 5GB
+ 4. Unlimited
 
 <details>
   <summary>Answer</summary>
-  Quantum Teleportation
+  1GB
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  2 hours 30 minutes</strong> since this server shutdown
+Its been <strong>1 days  3 hours </strong> since this server shutdown
