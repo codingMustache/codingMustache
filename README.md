@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-People are shocked to discover I have a police record but I love their greatest hits!
+Why did the girl smear peanut butter on the road? To go with the traffic jam.
 
 
 ## Daily Trivia
 
-What port does HTTP run on?
- 1. 23
- 2. 53
- 3. 80
- 4. 443
+Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
+ 1. eBay
+ 2. Amazon
+ 3. Overstock
+ 4. Shopify
 
 <details>
   <summary>Answer</summary>
-  80
+  Amazon
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  3 hours 30 minutes</strong> since this server shutdown
+Its been <strong>1 days  4 hours </strong> since this server shutdown
