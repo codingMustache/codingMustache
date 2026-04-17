@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My son is studying to be a surgeon, I just hope he makes the cut.
+What did one snowman say to the other snow man? Do you smell carrot?
 
 
 ## Daily Trivia
 
-What does CPU stand for?
- 1. Central Processing Unit
- 2. Central Processor Unit
- 3. Computer Personal Unit
- 4. Central Process Unit
+What was Bitcoin&#039;s block size limit in 2010?
+ 1. 1 MB
+ 2. 1 TB
+ 3. 1 KB
+ 4. 1GB
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  1 MB
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 15 hours 30 minutes</strong> since this server shutdown
+Its been <strong> 16 hours </strong> since this server shutdown
