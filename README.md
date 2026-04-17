@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the teddy bear say “no” to dessert? Because she was stuffed.
+I couldn't get a reservation at the library. They were completely booked.
 
 
 ## Daily Trivia
 
-The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
- 1. HD Graphics 7000
- 2. HD Graphics 600
- 3. HD Graphics 500
- 4. HD Graphics 700 
+What does &quot;LCD&quot; stand for?
+ 1. Language Control Design
+ 2. Last Common Difference
+ 3. Liquid Crystal Display
+ 4. Long Continuous Design
 
 <details>
   <summary>Answer</summary>
-  HD Graphics 500
+  Liquid Crystal Display
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 11 hours 30 minutes</strong> since this server shutdown
+Its been <strong> 12 hours </strong> since this server shutdown
