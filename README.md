@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Two fish are in a tank, one turns to the other and says, "how do you drive this thing?"
+What's brown and sticky? A stick.
 
 
 ## Daily Trivia
 
-In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
- 1. echo &quot;Hello World&quot;
- 2. printf(&quot;Hello World&quot;)
- 3. print(&quot;Hello World&quot;)
- 4. console.log(&quot;Hello World&quot;)
+What internet protocol was documented in RFC 1459?
+ 1. HTTP
+ 2. HTTPS
+ 3. FTP
+ 4. IRC
 
 <details>
   <summary>Answer</summary>
-  print(&quot;Hello World&quot;)
+  IRC
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 2 hours 49 minutes</strong> since this server shutdown
+Its been <strong> 3 hours 19 minutes</strong> since this server shutdown
