@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Conjunctivitis.com – now that’s a site for sore eyes.
+How do you teach a kid to climb stairs? There is a step by step guide.
 
 
 ## Daily Trivia
 
-How fast is USB 3.1 Gen 2 theoretically?
- 1. 5 Gb/s
- 2. 8 Gb/s
- 3. 1 Gb/s
- 4. 10 Gb/s
+Which of the following is NOT a computer science algorithm?
+ 1. Bubble Sort
+ 2. Merge Sort
+ 3. Quick Sort
+ 4. Float Sort
 
 <details>
   <summary>Answer</summary>
-  10 Gb/s
+  Float Sort
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  2 hours </strong> since this server shutdown
+Its been <strong>2 days  2 hours 30 minutes</strong> since this server shutdown
