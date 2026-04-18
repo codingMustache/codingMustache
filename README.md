@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-New atoms frequently lose electrons when they fail to keep an ion them.
+Where did you learn to make ice cream? Sunday school.
 
 
 ## Daily Trivia
 
-Which operating system was released first?
- 1. Windows
- 2. Linux
- 3. OS/2
- 4. Mac OS
+What is the name of the default theme that is installed with Windows XP?
+ 1. Bliss
+ 2. Whistler
+ 3. Luna
+ 4. Neptune
 
 <details>
   <summary>Answer</summary>
-  Mac OS
+  Luna
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  16 hours 30 minutes</strong> since this server shutdown
+Its been <strong>1 days  17 hours </strong> since this server shutdown
