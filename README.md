@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is the hardest part about sky diving? The ground.
+Why do trees seem suspicious on sunny days? Dunno, they're just a bit shady.
 
 
 ## Daily Trivia
 
-What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
- 1. Heat Vent
- 2. Temperature Decipator
- 3. Heat Sink
- 4. CPU Vent
+Generally, which component of a computer draws the most power?
+ 1. Video Card
+ 2. Power Supply
+ 3. Processor
+ 4. Hard Drive
 
 <details>
   <summary>Answer</summary>
-  Heat Sink
+  Video Card
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>19 minutes</strong> since this server shutdown
+Its been <strong>49 minutes</strong> since this server shutdown
