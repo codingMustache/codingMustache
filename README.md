@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call an alligator in a vest? An in-vest-igator!
+Why did the cowboy have a weiner dog? Somebody told him to get a long little doggy.
 
 
 ## Daily Trivia
 
-Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
- 1. Cherry MX Blue
- 2. Cherry MX Black
- 3. Cherry MX Red
- 4. Cherry MX Brown
+Which computer language would you associate Django framework with?
+ 1. C#
+ 2. C++
+ 3. Python
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  Cherry MX Blue
+  Python
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  18 hours </strong> since this server shutdown
+Its been <strong>1 days  18 hours 30 minutes</strong> since this server shutdown
