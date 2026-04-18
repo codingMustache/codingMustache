@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-“My Dog has no nose.” “How does he smell?” “Awful”
+What do you call a fish with no eyes? A fsh.
 
 
 ## Daily Trivia
 
-In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
- 1. Red
- 2. Blue
- 3. Yellow
- 4. Green
+What amount of bits commonly equals one byte?
+ 1. 2
+ 2. 1
+ 3. 64
+ 4. 8
 
 <details>
   <summary>Answer</summary>
-  Green
+  8
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  3 hours 30 minutes</strong> since this server shutdown
+Its been <strong>2 days  4 hours </strong> since this server shutdown
