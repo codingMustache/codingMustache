@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I went on a date last night with a girl from the zoo. It was great. She’s a keeper.
+Yesterday I confused the words "jacuzzi" and "yakuza". Now I'm in hot water with the Japanese mafia.
 
 
 ## Daily Trivia
 
-Which of the following is NOT a computer science algorithm?
- 1. Bubble Sort
- 2. Float Sort
- 3. Merge Sort
- 4. Quick Sort
+What is the name of the default theme that is installed with Windows XP?
+ 1. Luna
+ 2. Bliss
+ 3. Whistler
+ 4. Neptune
 
 <details>
   <summary>Answer</summary>
-  Float Sort
+  Luna
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  20 hours </strong> since this server shutdown
+Its been <strong>1 days  20 hours 30 minutes</strong> since this server shutdown
