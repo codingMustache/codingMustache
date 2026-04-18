@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Yesterday I confused the words "jacuzzi" and "yakuza". Now I'm in hot water with the Japanese mafia.
+The other day I was listening to a song about superglue, it’s been stuck in my head ever since.
 
 
 ## Daily Trivia
 
-What is the name of the default theme that is installed with Windows XP?
- 1. Luna
- 2. Bliss
- 3. Whistler
- 4. Neptune
+Which of the following is a personal computer made by the Japanese company Fujitsu?
+ 1. Xmillennium 
+ 2. PC-9801
+ 3. MSX
+ 4. FM-7
 
 <details>
   <summary>Answer</summary>
-  Luna
+  FM-7
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  20 hours 30 minutes</strong> since this server shutdown
+Its been <strong>1 days  21 hours </strong> since this server shutdown
