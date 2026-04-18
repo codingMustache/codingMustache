@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where did you learn to make ice cream? Sunday school.
+Why does a chicken coop only have two doors? Because if it had four doors it would be a chicken sedan.
 
 
 ## Daily Trivia
 
-What is the name of the default theme that is installed with Windows XP?
- 1. Bliss
- 2. Whistler
- 3. Luna
- 4. Neptune
+In networking, what does OSPF stand for?
+ 1. Order Sense Ping Find
+ 2. Open Shortest Path First
+ 3. Open Signal Path Finder
+ 4. Order State Part First
 
 <details>
   <summary>Answer</summary>
-  Luna
+  Open Shortest Path First
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  17 hours </strong> since this server shutdown
+Its been <strong>1 days  17 hours 30 minutes</strong> since this server shutdown
