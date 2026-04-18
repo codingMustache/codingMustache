@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It’s hard to explain puns to kleptomaniacs, because they take everything literally.
+What do prisoners use to call each other? Cell phones.
 
 
 ## Daily Trivia
 
-Unix Time is defined as the number of seconds that have elapsed since when?
- 1. Midnight, July 4, 1980
- 2. Midnight, January 1, 1970
- 3. Midnight, July 4, 1976
- 4. Midnight on the creator of Unix&#039;s birthday
+When Gmail first launched, how much storage did it provide for your email?
+ 1. 1GB
+ 2. 512MB
+ 3. 5GB
+ 4. Unlimited
 
 <details>
   <summary>Answer</summary>
-  Midnight, January 1, 1970
+  1GB
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  10 hours </strong> since this server shutdown
+Its been <strong>1 days  10 hours 30 minutes</strong> since this server shutdown
