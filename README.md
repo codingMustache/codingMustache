@@ -6,23 +6,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-You know what they say about cliffhangers...
+What's the difference between a seal and a sea lion?
+An ion! 
 
 
 ## Daily Trivia
 
-Which programming language was developed by Sun Microsystems in 1995?
- 1. Java
- 2. Python
- 3. Solaris OS
- 4. C++
+In programming, the ternary operator is mostly defined with what symbol(s)?
+ 1. ??
+ 2. if then
+ 3. ?
+ 4. ?:
 
 <details>
   <summary>Answer</summary>
-  Java
+  ?:
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  19 hours </strong> since this server shutdown
+Its been <strong>1 days  19 hours 30 minutes</strong> since this server shutdown
