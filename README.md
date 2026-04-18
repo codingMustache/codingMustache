@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What happens when you anger a brain surgeon? They will give you a piece of your mind.
+“My Dog has no nose.” “How does he smell?” “Awful”
 
 
 ## Daily Trivia
 
-Which of the following is the oldest of these computers by release date?
- 1. Apple 3
- 2. ZX Spectrum
- 3. Commodore 64
- 4. TRS-80
+In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
+ 1. Red
+ 2. Blue
+ 3. Yellow
+ 4. Green
 
 <details>
   <summary>Answer</summary>
-  TRS-80
+  Green
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  3 hours </strong> since this server shutdown
+Its been <strong>2 days  3 hours 30 minutes</strong> since this server shutdown
