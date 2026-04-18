@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do trees seem suspicious on sunny days? Dunno, they're just a bit shady.
+What do you give a sick lemon? Lemonaid.
 
 
 ## Daily Trivia
 
-Generally, which component of a computer draws the most power?
- 1. Video Card
- 2. Power Supply
- 3. Processor
- 4. Hard Drive
+On which day did the World Wide Web go online?
+ 1. December 17, 1996
+ 2. November 12, 1990
+ 3. November 24, 1995
+ 4. December 20, 1990
 
 <details>
   <summary>Answer</summary>
-  Video Card
+  December 20, 1990
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>49 minutes</strong> since this server shutdown
+Its been <strong> 1 hours 19 minutes</strong> since this server shutdown
