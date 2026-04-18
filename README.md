@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is the hardest part about sky diving? The ground.
+Why was Pavlov's beard so soft?  Because he conditioned it.
 
 
 ## Daily Trivia
 
-What does AD stand for in relation to Windows Operating Systems? 
- 1. Alternative Drive
- 2. Active Directory
- 3. Automated Database
- 4. Active Department
+.at is the top-level domain for what country?
+ 1. Argentina
+ 2. Australia
+ 3. Austria
+ 4. Angola
 
 <details>
   <summary>Answer</summary>
-  Active Directory
+  Austria
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  23 hours </strong> since this server shutdown
+Its been <strong>1 days  23 hours 30 minutes</strong> since this server shutdown
