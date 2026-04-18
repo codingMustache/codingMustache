@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The other day I was listening to a song about superglue, it’s been stuck in my head ever since.
+Why did the tomato blush? Because it saw the salad dressing.
 
 
 ## Daily Trivia
 
-Which of the following is a personal computer made by the Japanese company Fujitsu?
- 1. Xmillennium 
- 2. PC-9801
- 3. MSX
- 4. FM-7
+.at is the top-level domain for what country?
+ 1. Austria
+ 2. Angola
+ 3. Australia
+ 4. Argentina
 
 <details>
   <summary>Answer</summary>
-  FM-7
+  Austria
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  21 hours </strong> since this server shutdown
+Its been <strong>1 days  21 hours 30 minutes</strong> since this server shutdown
