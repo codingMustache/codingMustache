@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do prisoners use to call each other? Cell phones.
+I dreamed about drowning in an ocean made out of orange soda last night. It took me a while to work out it was just a Fanta sea.
 
 
 ## Daily Trivia
 
-When Gmail first launched, how much storage did it provide for your email?
- 1. 1GB
- 2. 512MB
- 3. 5GB
- 4. Unlimited
+What is the name of Layer 7 of the OSI model?
+ 1. Session
+ 2. Network
+ 3. Application
+ 4. Present
 
 <details>
   <summary>Answer</summary>
-  1GB
+  Application
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  10 hours 30 minutes</strong> since this server shutdown
+Its been <strong>1 days  11 hours </strong> since this server shutdown
