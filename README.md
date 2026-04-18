@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I couldn't figure out how the seat belt worked. Then it just clicked.
+What is this movie about? It is about 2 hours long.
 
 
 ## Daily Trivia
 
-The name of technology company HP stands for what?
- 1. Hellman-Pohl
- 2. Husker-Pollosk
- 3. Howard Packmann
- 4. Hewlett-Packard
+Which of the following is a personal computer made by the Japanese company Fujitsu?
+ 1. Xmillennium 
+ 2. PC-9801
+ 3. MSX
+ 4. FM-7
 
 <details>
   <summary>Answer</summary>
-  Hewlett-Packard
+  FM-7
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  13 hours </strong> since this server shutdown
+Its been <strong>1 days  13 hours 30 minutes</strong> since this server shutdown
