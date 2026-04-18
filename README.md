@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I considered building the patio by myself. But I didn't have the stones.
+I was wondering why the frisbee was getting bigger, then it hit me.
 
 
 ## Daily Trivia
 
-Which one of these is not an official development name for a Ubuntu release?
- 1. Utopic Unicorn
- 2. Mystic Mansion
- 3. Trusty Tahr
- 4. Wily Werewolf
+Which of the following computer components can be built using only NAND gates?
+ 1. ALU
+ 2. Register
+ 3. RAM
+ 4. CPU
 
 <details>
   <summary>Answer</summary>
-  Mystic Mansion
+  ALU
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  15 hours </strong> since this server shutdown
+Its been <strong>1 days  15 hours 30 minutes</strong> since this server shutdown
