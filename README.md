@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's brown and sticky? A stick.
+People are making apocalypse jokes like there’s no tomorrow.
 
 
 ## Daily Trivia
 
-What internet protocol was documented in RFC 1459?
- 1. HTTP
- 2. HTTPS
- 3. FTP
- 4. IRC
+In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
+ 1. &lt;slide&gt;&lt;/slide&gt;
+ 2. &lt;marquee&gt;&lt;/marquee&gt;
+ 3. &lt;scroll&gt;&lt;/scroll&gt;
+ 4. &lt;move&gt;&lt;/move&gt;
 
 <details>
   <summary>Answer</summary>
-  IRC
+  &lt;marquee&gt;&lt;/marquee&gt;
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 3 hours 19 minutes</strong> since this server shutdown
+Its been <strong> 3 hours 49 minutes</strong> since this server shutdown
