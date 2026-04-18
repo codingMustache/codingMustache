@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was the robot angry? Because someone kept pressing his buttons!
+I considered building the patio by myself. But I didn't have the stones.
 
 
 ## Daily Trivia
 
-The C programming language was created by this American computer scientist. 
- 1. Willis Ware
- 2. al-Khwārizmī
- 3. Tim Berners Lee
- 4. Dennis Ritchie
+Which one of these is not an official development name for a Ubuntu release?
+ 1. Utopic Unicorn
+ 2. Mystic Mansion
+ 3. Trusty Tahr
+ 4. Wily Werewolf
 
 <details>
   <summary>Answer</summary>
-  Dennis Ritchie
+  Mystic Mansion
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  14 hours 30 minutes</strong> since this server shutdown
+Its been <strong>1 days  15 hours </strong> since this server shutdown
