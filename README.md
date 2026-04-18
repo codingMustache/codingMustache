@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the cowboy have a weiner dog? Somebody told him to get a long little doggy.
+You know what they say about cliffhangers...
 
 
 ## Daily Trivia
 
-Which computer language would you associate Django framework with?
- 1. C#
- 2. C++
- 3. Python
- 4. Java
+Which programming language was developed by Sun Microsystems in 1995?
+ 1. Java
+ 2. Python
+ 3. Solaris OS
+ 4. C++
 
 <details>
   <summary>Answer</summary>
-  Python
+  Java
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  18 hours 30 minutes</strong> since this server shutdown
+Its been <strong>1 days  19 hours </strong> since this server shutdown
