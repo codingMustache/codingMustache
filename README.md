@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I dreamed about drowning in an ocean made out of orange soda last night. It took me a while to work out it was just a Fanta sea.
+What's orange and sounds like a parrot? A Carrot.
 
 
 ## Daily Trivia
 
-What is the name of Layer 7 of the OSI model?
- 1. Session
- 2. Network
- 3. Application
- 4. Present
+All of the following programs are classified as raster graphics editors EXCEPT:
+ 1. Paint.NET
+ 2. Inkscape
+ 3. Adobe Photoshop
+ 4. GIMP
 
 <details>
   <summary>Answer</summary>
-  Application
+  Inkscape
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  11 hours </strong> since this server shutdown
+Its been <strong>1 days  11 hours 30 minutes</strong> since this server shutdown
