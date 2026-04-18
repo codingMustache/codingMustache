@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was Pavlov's beard so soft?  Because he conditioned it.
+What time did the man go to the dentist? Tooth hurt-y.
 
 
 ## Daily Trivia
 
-.at is the top-level domain for what country?
- 1. Argentina
- 2. Australia
- 3. Austria
- 4. Angola
+In programming, what do you call functions with the same name but different implementations?
+ 1. Overriding
+ 2. Abstracting
+ 3. Overloading
+ 4. Inheriting
 
 <details>
   <summary>Answer</summary>
-  Austria
+  Overloading
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  23 hours 30 minutes</strong> since this server shutdown
+Its been <strong>2 days </strong> since this server shutdown
