@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What lies at the bottom of the ocean and twitches? A nervous wreck.
+My sister bet me $15 that I couldn't build a car out of spaghetti. You should have seen the look on her face as I drove pasta.
 
 
 ## Daily Trivia
 
-What does the International System of Quantities refer 1024 bytes as?
- 1. Kylobyte
- 2. Kelobyte
- 3. Kibibyte
- 4. Kilobyte
+The acronym &quot;RIP&quot; stands for which of these?
+ 1. Routing Information Protocol
+ 2. Routine Inspection Protocol
+ 3. Regular Interval Processes
+ 4. Runtime Instance Processes
 
 <details>
   <summary>Answer</summary>
-  Kibibyte
+  Routing Information Protocol
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 6 hours 49 minutes</strong> since this server shutdown
+Its been <strong> 7 hours 19 minutes</strong> since this server shutdown
