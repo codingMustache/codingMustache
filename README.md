@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do you learn to make banana splits? At sundae school.
+Never take advice from electrons. They are always negative.
 
 
 ## Daily Trivia
 
-What major programming language does Unreal Engine 4 use?
- 1. Assembly
- 2. C#
- 3. ECMAScript
- 4. C++
+What was the name of the image that features as the default background wallpaper for Windows XP?
+ 1. Tulips
+ 2. Bliss
+ 3. Red moon desert
+ 4. Azul
 
 <details>
   <summary>Answer</summary>
-  C++
+  Bliss
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 12 hours 19 minutes</strong> since this server shutdown
+Its been <strong> 12 hours 49 minutes</strong> since this server shutdown
