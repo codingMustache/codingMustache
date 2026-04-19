@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was the broom late for the meeting? He overswept.
+I made a belt out of watches once... It was a waist of time.
 
 
 ## Daily Trivia
 
-If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
- 1. C++
- 2. JavaScript
- 3. Python
- 4. Binary
+What is known as &quot;the brain&quot; of the Computer?
+ 1. Graphics Processing Unit
+ 2. Keyboard
+ 3. Motherboard
+ 4. Central Processing Unit
 
 <details>
   <summary>Answer</summary>
-  Binary
+  Central Processing Unit
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 18 hours 49 minutes</strong> since this server shutdown
+Its been <strong> 19 hours 19 minutes</strong> since this server shutdown
