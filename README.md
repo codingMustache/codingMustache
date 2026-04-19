@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the calculator say to the student? You can count on me.
+What does an angry pepper do? It gets jalapeño face.
 
 
 ## Daily Trivia
 
-What programming language was GitHub written in?
- 1. JavaScript
- 2. Lua
- 3. Python
- 4. Ruby
+In computing, what does LAN stand for?
+ 1. Light Access Node
+ 2. Long Antenna Node
+ 3. Land Address Navigation
+ 4. Local Area Network
 
 <details>
   <summary>Answer</summary>
-  Ruby
+  Local Area Network
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 16 hours 19 minutes</strong> since this server shutdown
+Its been <strong> 16 hours 49 minutes</strong> since this server shutdown
