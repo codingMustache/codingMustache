@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Who did the wizard marry? His ghoul-friend
+What does a clock do when it's hungry? It goes back four seconds!
 
 
 ## Daily Trivia
 
-How long is an IPv6 address?
- 1. 128 bits
- 2. 128 bytes
- 3. 64 bits
- 4. 32 bits
+Which of the following is NOT a computer science algorithm?
+ 1. Quick Sort
+ 2. Bubble Sort
+ 3. Float Sort
+ 4. Merge Sort
 
 <details>
   <summary>Answer</summary>
-  128 bits
+  Float Sort
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 4 hours 19 minutes</strong> since this server shutdown
+Its been <strong> 4 hours 49 minutes</strong> since this server shutdown
