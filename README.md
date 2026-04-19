@@ -6,25 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Doctor: Do you want to hear the good news or the bad news?
-Patient: Good news please.
-Doctor: we're naming a disease after you.
+What do you call your friend who stands in a hole? Phil.
 
 
 ## Daily Trivia
 
-How many bits are commonly in a single byte?
- 1. Eight bits
- 2. Six bits
- 3. Twelve bits
- 4.  Fifteen bits
+On Twitter, what was the original character limit for a Tweet?
+ 1. 160
+ 2. 100
+ 3. 140
+ 4. 120
 
 <details>
   <summary>Answer</summary>
-  Eight bits
+  140
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days 49 minutes</strong> since this server shutdown
+Its been <strong>1 days  1 hours 19 minutes</strong> since this server shutdown
