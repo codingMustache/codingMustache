@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Never take advice from electrons. They are always negative.
+Two guys walked into a bar, the third one ducked.
 
 
 ## Daily Trivia
 
-What was the name of the image that features as the default background wallpaper for Windows XP?
- 1. Tulips
- 2. Bliss
- 3. Red moon desert
- 4. Azul
+In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
+ 1. Public
+ 2. Private
+ 3. Static
+ 4. Final
 
 <details>
   <summary>Answer</summary>
-  Bliss
+  Final
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 12 hours 49 minutes</strong> since this server shutdown
+Its been <strong> 13 hours 19 minutes</strong> since this server shutdown
