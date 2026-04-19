@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-"Why do seagulls fly over the ocean?" "Because if they flew over the bay, we'd call them bagels."
+Wife told me to take the spider out instead of killing it... We had some drinks, cool guy, wants to be a web developer.
 
 
 ## Daily Trivia
 
-Who invented the &quot;Spanning Tree Protocol&quot;?
- 1. Vint Cerf
- 2. Michael Roberts
- 3. Radia Perlman
- 4. Paul Vixie
+The Windows OS was delevoped by which company?
+ 1. Nokia
+ 2. Apple
+ 3. IBM
+ 4. Microsoft
 
 <details>
   <summary>Answer</summary>
-  Radia Perlman
+  Microsoft
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 11 hours 19 minutes</strong> since this server shutdown
+Its been <strong> 11 hours 49 minutes</strong> since this server shutdown
