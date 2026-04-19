@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Doctor you've got to help me, I'm addicted to Twitter. Doctor: I don't follow you.
+Why was the broom late for the meeting? He overswept.
 
 
 ## Daily Trivia
 
-Who is the founder of Palantir?
- 1. Mark Zuckerberg
- 2. Marc Benioff
- 3. Jack Dorsey
- 4. Peter Thiel
+If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
+ 1. C++
+ 2. JavaScript
+ 3. Python
+ 4. Binary
 
 <details>
   <summary>Answer</summary>
-  Peter Thiel
+  Binary
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 18 hours 19 minutes</strong> since this server shutdown
+Its been <strong> 18 hours 49 minutes</strong> since this server shutdown
