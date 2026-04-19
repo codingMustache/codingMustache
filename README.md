@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Two silk worms had a race. They ended up in a tie.
+What did the calculator say to the student? You can count on me.
 
 
 ## Daily Trivia
 
-In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
- 1. relative
- 2. absolute
- 3. static
- 4. center
+What programming language was GitHub written in?
+ 1. JavaScript
+ 2. Lua
+ 3. Python
+ 4. Ruby
 
 <details>
   <summary>Answer</summary>
-  center
+  Ruby
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 15 hours 49 minutes</strong> since this server shutdown
+Its been <strong> 16 hours 19 minutes</strong> since this server shutdown
