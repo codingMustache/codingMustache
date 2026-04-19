@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I was at the library and asked if they have any books on "paranoia", the librarian replied, "yes, they are right behind you"
+They laughed when I said I wanted to be a comedian – they’re not laughing now.
 
 
 ## Daily Trivia
 
-What was the first company to use the term &quot;Golden Master&quot;?
- 1. Apple
- 2. Microsoft
- 3. IBM
- 4. Google
+Which of these is not a layer in the OSI model for data communications?
+ 1. Connection Layer
+ 2. Application Layer
+ 3. Transport Layer
+ 4. Physical Layer
 
 <details>
   <summary>Answer</summary>
-  Apple
+  Connection Layer
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 17 hours 19 minutes</strong> since this server shutdown
+Its been <strong> 17 hours 49 minutes</strong> since this server shutdown
