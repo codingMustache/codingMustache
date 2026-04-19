@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How does the moon cut his hair? Eclipse it.
+What did Romans use to cut pizza before the rolling cutter was invented? Lil Caesars
 
 
 ## Daily Trivia
 
-Which one of these is not an official development name for a Ubuntu release?
- 1. Mystic Mansion
- 2. Wily Werewolf
- 3. Utopic Unicorn
- 4. Trusty Tahr
+What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
+ 1. Coffee Lake
+ 2. Broadwell
+ 3. Skylake
+ 4. Sandy Bridge
 
 <details>
   <summary>Answer</summary>
-  Mystic Mansion
+  Coffee Lake
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 22 hours 19 minutes</strong> since this server shutdown
+Its been <strong> 22 hours 49 minutes</strong> since this server shutdown
