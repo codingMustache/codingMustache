@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What does a clock do when it's hungry? It goes back four seconds!
+Thanks for explaining the word "many" to me. It means a lot.
 
 
 ## Daily Trivia
 
-Which of the following is NOT a computer science algorithm?
- 1. Quick Sort
- 2. Bubble Sort
- 3. Float Sort
- 4. Merge Sort
+When did the online streaming service &quot;Mixer&quot; launch?
+ 1. 2009
+ 2. 2013
+ 3. 2016
+ 4. 2011
 
 <details>
   <summary>Answer</summary>
-  Float Sort
+  2016
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 4 hours 49 minutes</strong> since this server shutdown
+Its been <strong> 5 hours 19 minutes</strong> since this server shutdown
