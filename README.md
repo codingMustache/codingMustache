@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-For Valentine's day, I decided to get my wife some beads for an abacus.  It's the little things that count.
+My first time using an elevator was an uplifting experience. The second time let me down.
 
 
 ## Daily Trivia
 
-When Gmail first launched, how much storage did it provide for your email?
- 1. 1GB
- 2. 5GB
- 3. Unlimited
- 4. 512MB
+On which day did the World Wide Web go online?
+ 1. November 12, 1990
+ 2. December 17, 1996
+ 3. November 24, 1995
+ 4. December 20, 1990
 
 <details>
   <summary>Answer</summary>
-  1GB
+  December 20, 1990
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 9 hours 19 minutes</strong> since this server shutdown
+Its been <strong> 9 hours 49 minutes</strong> since this server shutdown
