@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-People are making apocalypse jokes like there’s no tomorrow.
+Who did the wizard marry? His ghoul-friend
 
 
 ## Daily Trivia
 
-In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
- 1. &lt;slide&gt;&lt;/slide&gt;
- 2. &lt;marquee&gt;&lt;/marquee&gt;
- 3. &lt;scroll&gt;&lt;/scroll&gt;
- 4. &lt;move&gt;&lt;/move&gt;
+How long is an IPv6 address?
+ 1. 128 bits
+ 2. 128 bytes
+ 3. 64 bits
+ 4. 32 bits
 
 <details>
   <summary>Answer</summary>
-  &lt;marquee&gt;&lt;/marquee&gt;
+  128 bits
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 3 hours 49 minutes</strong> since this server shutdown
+Its been <strong> 4 hours 19 minutes</strong> since this server shutdown
