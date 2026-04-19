@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the difference between a poorly dressed man on a tricycle and a well dressed man on a bicycle? Attire.
+Two peanuts were walking down the street. One was a salted.
 
 
 ## Daily Trivia
 
-Which programming language shares its name with an island in Indonesia?
- 1. Jakarta
- 2. C
- 3. Python
- 4. Java
+Who is the original author of the realtime physics engine called PhysX?
+ 1. AMD
+ 2. NovodeX
+ 3. Nvidia
+ 4. Ageia
 
 <details>
   <summary>Answer</summary>
-  Java
+  NovodeX
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 14 hours 49 minutes</strong> since this server shutdown
+Its been <strong> 15 hours 19 minutes</strong> since this server shutdown
