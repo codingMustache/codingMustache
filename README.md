@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Want to hear my pizza joke? Never mind, it's too cheesy.
+Slept like a log last night … woke up in the fireplace.
 
 
 ## Daily Trivia
 
-What was the first commerically available computer processor?
- 1. Intel 486SX
- 2. Intel 4004
- 3. TMS 1000
- 4. AMD AM386
+Nvidia&#039;s headquarters are based in which Silicon Valley city?
+ 1. Mountain View
+ 2. Cupertino
+ 3. Palo Alto
+ 4. Santa Clara
 
 <details>
   <summary>Answer</summary>
-  Intel 4004
+  Santa Clara
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 20 hours 19 minutes</strong> since this server shutdown
+Its been <strong> 20 hours 49 minutes</strong> since this server shutdown
