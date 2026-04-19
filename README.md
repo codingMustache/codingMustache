@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you make a water bed more bouncy. You use Spring Water
+"Why do seagulls fly over the ocean?" "Because if they flew over the bay, we'd call them bagels."
 
 
 ## Daily Trivia
 
-Which of the following languages is used as a scripting language in the Unity 3D game engine?
- 1. Java
- 2. Objective-C
- 3. C#
- 4. C++
+Who invented the &quot;Spanning Tree Protocol&quot;?
+ 1. Vint Cerf
+ 2. Michael Roberts
+ 3. Radia Perlman
+ 4. Paul Vixie
 
 <details>
   <summary>Answer</summary>
-  C#
+  Radia Perlman
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 10 hours 49 minutes</strong> since this server shutdown
+Its been <strong> 11 hours 19 minutes</strong> since this server shutdown
