@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My boss told me to have a good day... so I went home.
+How do you make a water bed more bouncy. You use Spring Water
 
 
 ## Daily Trivia
 
-Which of the following computer components can be built using only NAND gates?
- 1. CPU
- 2. Register
- 3. ALU
- 4. RAM
+Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
+ 1. 32.0 kHz
+ 2. 1.5 MHz
+ 3. 20.5 kHz
+ 4. 44.1 kHz
 
 <details>
   <summary>Answer</summary>
-  ALU
+  44.1 kHz
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  1 hours 49 minutes</strong> since this server shutdown
+Its been <strong>1 days  2 hours 19 minutes</strong> since this server shutdown
