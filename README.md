@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Milk is also the fastest liquid on earth – its pasteurized before you even see it
+Me and my mates are in a band called Duvet. We're a cover band.
 
 
 ## Daily Trivia
 
-What is the most preferred image format used for logos in the Wikimedia database?
- 1. .png
- 2. .gif
- 3. .svg
- 4. .jpeg
+How many bits are commonly in a single byte?
+ 1. Six bits
+ 2. Twelve bits
+ 3.  Fifteen bits
+ 4. Eight bits
 
 <details>
   <summary>Answer</summary>
-  .svg
+  Eight bits
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 7 hours 49 minutes</strong> since this server shutdown
+Its been <strong> 8 hours 19 minutes</strong> since this server shutdown
