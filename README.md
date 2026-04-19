@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I'm glad I know sign language, it's pretty handy.
+What kind of pants do ghosts wear? Boo jeans.
 
 
 ## Daily Trivia
 
-The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
- 1. Micronesia
- 2. Fiji
- 3. Marshall Islands
- 4. Tuvalu
+The Windows OS was delevoped by which company?
+ 1. Microsoft
+ 2. IBM
+ 3. Apple
+ 4. Nokia
 
 <details>
   <summary>Answer</summary>
-  Micronesia
+  Microsoft
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 5 hours 49 minutes</strong> since this server shutdown
+Its been <strong> 6 hours 19 minutes</strong> since this server shutdown
