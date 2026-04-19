@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Slept like a log last night … woke up in the fireplace.
+Why did the man run around his bed? Because he was trying to catch up on his sleep!
 
 
 ## Daily Trivia
 
-Nvidia&#039;s headquarters are based in which Silicon Valley city?
- 1. Mountain View
- 2. Cupertino
- 3. Palo Alto
- 4. Santa Clara
+Generally, which component of a computer draws the most power?
+ 1. Hard Drive
+ 2. Processor
+ 3. Video Card
+ 4. Power Supply
 
 <details>
   <summary>Answer</summary>
-  Santa Clara
+  Video Card
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 20 hours 49 minutes</strong> since this server shutdown
+Its been <strong> 21 hours 19 minutes</strong> since this server shutdown
