@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Me and my mates are in a band called Duvet. We're a cover band.
+I saw a documentary on TV last night about how they put ships together.  It was rivetting.
 
 
 ## Daily Trivia
 
-How many bits are commonly in a single byte?
- 1. Six bits
- 2. Twelve bits
- 3.  Fifteen bits
- 4. Eight bits
+HTML is what type of language?
+ 1. Programming Language
+ 2. Markup Language
+ 3. Macro Language
+ 4. Scripting Language
 
 <details>
   <summary>Answer</summary>
-  Eight bits
+  Markup Language
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 8 hours 19 minutes</strong> since this server shutdown
+Its been <strong> 8 hours 49 minutes</strong> since this server shutdown
