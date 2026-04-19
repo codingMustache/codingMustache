@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the cow who jumped over the barbed wire fence? It was udder destruction.
+Why was ten scared of seven? Because seven ate nine.
 
 
 ## Daily Trivia
 
-According to the International System of Units, how many bytes are in a kilobyte of RAM?
- 1. 1024
- 2. 1000
- 3. 512
- 4. 500
+What does the term USB stand for?
+ 1. Universal Serial Bus
+ 2. Unityped Semtex Backer
+ 3. Unified Signal Bus
+ 4. Universal Simtex Blot
 
 <details>
   <summary>Answer</summary>
-  1000
+  Universal Serial Bus
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  3 hours 19 minutes</strong> since this server shutdown
+Its been <strong>1 days  3 hours 49 minutes</strong> since this server shutdown
