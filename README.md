@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-R.I.P. boiled water. You will be mist.
+A man got hit in the head with a can of Coke, but he was alright because it was a soft drink.
 
 
 ## Daily Trivia
 
-What is the maximum value of a 32-bit signed binary integer?
- 1. 9,223,372,036,854,775,807
- 2. 2048
- 3. 255
- 4. 2,147,483,647
+Which of the following computer components can be built using only NAND gates?
+ 1. CPU
+ 2. RAM
+ 3. Register
+ 4. ALU
 
 <details>
   <summary>Answer</summary>
-  2,147,483,647
+  ALU
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  1 hours 19 minutes</strong> since this server shutdown
+Its been <strong>2 days  1 hours 49 minutes</strong> since this server shutdown
