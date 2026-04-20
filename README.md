@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to work in a shoe recycling shop. It was sole destroying.
+What’s the difference between an African elephant and an Indian elephant? About 5000 miles.
 
 
 ## Daily Trivia
 
-Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
- 1. Heartbleed
- 2. Shellscript
- 3. Shellshock
- 4. Corrupted Blood
+Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
+ 1. Puma
+ 2. Tiger
+ 3. Leopard
+ 4. Cheetah
 
 <details>
   <summary>Answer</summary>
-  Heartbleed
+  Cheetah
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  17 hours 19 minutes</strong> since this server shutdown
+Its been <strong>1 days  17 hours 49 minutes</strong> since this server shutdown
