@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I was shocked when I was diagnosed as colorblind... It came out of the purple.
+If two vegans are having an argument, is it still considered beef?
 
 
 ## Daily Trivia
 
-The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
- 1. HD Graphics 700 
- 2. HD Graphics 600
- 3. HD Graphics 500
- 4. HD Graphics 7000
+How many values can a single byte represent?
+ 1. 256
+ 2. 8
+ 3. 1
+ 4. 1024
 
 <details>
   <summary>Answer</summary>
-  HD Graphics 500
+  256
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  12 hours 19 minutes</strong> since this server shutdown
+Its been <strong>1 days  12 hours 49 minutes</strong> since this server shutdown
