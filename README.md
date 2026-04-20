@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many South Americans does it take to change a lightbulb? A Brazilian
+How do you make a hankie dance? Put a little boogie in it.
 
 
 ## Daily Trivia
 
-What was the name given to Android 4.3?
- 1. Lollipop
- 2. Nutella
- 3. Froyo
- 4. Jelly Bean
+Generally, which component of a computer draws the most power?
+ 1. Hard Drive
+ 2. Processor
+ 3. Power Supply
+ 4. Video Card
 
 <details>
   <summary>Answer</summary>
-  Jelly Bean
+  Video Card
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  19 hours 19 minutes</strong> since this server shutdown
+Its been <strong>1 days  19 hours 49 minutes</strong> since this server shutdown
