@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-“My Dog has no nose.” “How does he smell?” “Awful”
+Someone asked me, what's the ninth letter of the alphabet? It was a complete guess, but I was right.
 
 
 ## Daily Trivia
 
-On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
- 1. Exclamation Mark
- 2. Asterisk
- 3. Percent Sign
- 4. Dollar Sign
+On which computer hardware device is the BIOS chip located?
+ 1. Motherboard
+ 2. Hard Disk Drive
+ 3. Central Processing Unit
+ 4. Graphics Processing Unit
 
 <details>
   <summary>Answer</summary>
-  Exclamation Mark
+  Motherboard
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  18 hours 19 minutes</strong> since this server shutdown
+Its been <strong>1 days  18 hours 49 minutes</strong> since this server shutdown
