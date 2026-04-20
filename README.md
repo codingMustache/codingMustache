@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a fat psychic? A four-chin teller.
+The other day, my wife asked me to pass her lipstick but I accidentally passed her a glue stick. She still isn't talking to me.
 
 
 ## Daily Trivia
 
-What was the name of the image that features as the default background wallpaper for Windows XP?
- 1. Bliss
- 2. Tulips
- 3. Red moon desert
- 4. Azul
+In web design, what does CSS stand for?
+ 1. Counter Strike: Source
+ 2. Cascading Style Sheet
+ 3. Corrective Style Sheet
+ 4. Computer Style Sheet
 
 <details>
   <summary>Answer</summary>
-  Bliss
+  Cascading Style Sheet
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  11 hours 19 minutes</strong> since this server shutdown
+Its been <strong>1 days  11 hours 49 minutes</strong> since this server shutdown
