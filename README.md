@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-When will the little snake arrive? I don't know but he won't be long...
+R.I.P. boiled water. You will be mist.
 
 
 ## Daily Trivia
 
-What does CPU stand for?
- 1. Central Process Unit
- 2. Computer Personal Unit
- 3. Central Processor Unit
- 4. Central Processing Unit
+What is the maximum value of a 32-bit signed binary integer?
+ 1. 9,223,372,036,854,775,807
+ 2. 2048
+ 3. 255
+ 4. 2,147,483,647
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  2,147,483,647
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days 49 minutes</strong> since this server shutdown
+Its been <strong>2 days  1 hours 19 minutes</strong> since this server shutdown
