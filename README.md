@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why can't a bicycle stand on its own? It's two-tired.
+Today a man knocked on my door and asked for a small donation towards the local swimming pool. I gave him a glass of water.
 
 
 ## Daily Trivia
 
-Whistler was the codename of this Microsoft Operating System.
- 1. Windows XP
- 2. Windows 95
- 3. Windows 7
- 4. Windows 2000
+Who is the founder of Palantir?
+ 1. Peter Thiel
+ 2. Marc Benioff
+ 3. Jack Dorsey
+ 4. Mark Zuckerberg
 
 <details>
   <summary>Answer</summary>
-  Windows XP
+  Peter Thiel
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  10 hours 19 minutes</strong> since this server shutdown
+Its been <strong>1 days  10 hours 49 minutes</strong> since this server shutdown
