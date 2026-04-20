@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why does a chicken coop only have two doors? Because if it had four doors it would be a chicken sedan.
+You will never guess what Elsa did to the balloon. She let it go.
 
 
 ## Daily Trivia
 
-What was the first Android version specifically optimized for tablets?
- 1. Marshmellow
- 2. Froyo
- 3. Honeycomb
- 4. Eclair
+What does the &#039;S&#039; in the RSA encryption algorithm stand for?
+ 1. Secure
+ 2. Schottky
+ 3. Stable
+ 4. Shamir
 
 <details>
   <summary>Answer</summary>
-  Honeycomb
+  Shamir
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  20 hours 19 minutes</strong> since this server shutdown
+Its been <strong>1 days  20 hours 49 minutes</strong> since this server shutdown
