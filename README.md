@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What’s the longest word in the dictionary? Smiles. Because there’s a mile between the two S’s.
+What is this movie about? It is about 2 hours long.
 
 
 ## Daily Trivia
 
-Which one of these is not an official development name for a Ubuntu release?
- 1. Mystic Mansion
- 2. Wily Werewolf
- 3. Utopic Unicorn
- 4. Trusty Tahr
+All of the following programs are classified as raster graphics editors EXCEPT:
+ 1. Inkscape
+ 2. Paint.NET
+ 3. GIMP
+ 4. Adobe Photoshop
 
 <details>
   <summary>Answer</summary>
-  Mystic Mansion
+  Inkscape
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  22 hours 19 minutes</strong> since this server shutdown
+Its been <strong>1 days  22 hours 49 minutes</strong> since this server shutdown
