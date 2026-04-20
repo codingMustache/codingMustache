@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the difference between a rooster and a crow? A rooster can crow but a crow cannot rooster.
+Why can't a bicycle stand on its own? It's two-tired.
 
 
 ## Daily Trivia
 
-When was the programming language &quot;C#&quot; released?
- 1. 1998
- 2. 1999
- 3. 2001
- 4. 2000
+Whistler was the codename of this Microsoft Operating System.
+ 1. Windows XP
+ 2. Windows 95
+ 3. Windows 7
+ 4. Windows 2000
 
 <details>
   <summary>Answer</summary>
-  2000
+  Windows XP
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  9 hours 49 minutes</strong> since this server shutdown
+Its been <strong>1 days  10 hours 19 minutes</strong> since this server shutdown
