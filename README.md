@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-You will never guess what Elsa did to the balloon. She let it go.
+Two silk worms had a race. They ended up in a tie.
 
 
 ## Daily Trivia
 
-What does the &#039;S&#039; in the RSA encryption algorithm stand for?
- 1. Secure
- 2. Schottky
- 3. Stable
- 4. Shamir
+Which programming language shares its name with an island in Indonesia?
+ 1. Jakarta
+ 2. C
+ 3. Python
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  Shamir
+  Java
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  20 hours 49 minutes</strong> since this server shutdown
+Its been <strong>1 days  21 hours 19 minutes</strong> since this server shutdown
