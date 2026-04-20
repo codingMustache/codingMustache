@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A butcher accidentally backed into his meat grinder and got a little behind in his work that day.
+I used to work in a shoe recycling shop. It was sole destroying.
 
 
 ## Daily Trivia
 
-How many bits are commonly in a single byte?
- 1. Eight bits
- 2.  Fifteen bits
- 3. Twelve bits
- 4. Six bits
+Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
+ 1. Heartbleed
+ 2. Shellscript
+ 3. Shellshock
+ 4. Corrupted Blood
 
 <details>
   <summary>Answer</summary>
-  Eight bits
+  Heartbleed
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  16 hours 49 minutes</strong> since this server shutdown
+Its been <strong>1 days  17 hours 19 minutes</strong> since this server shutdown
