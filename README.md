@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Today a man knocked on my door and asked for a small donation towards the local swimming pool. I gave him a glass of water.
+What do you call a fat psychic? A four-chin teller.
 
 
 ## Daily Trivia
 
-Who is the founder of Palantir?
- 1. Peter Thiel
- 2. Marc Benioff
- 3. Jack Dorsey
- 4. Mark Zuckerberg
+What was the name of the image that features as the default background wallpaper for Windows XP?
+ 1. Bliss
+ 2. Tulips
+ 3. Red moon desert
+ 4. Azul
 
 <details>
   <summary>Answer</summary>
-  Peter Thiel
+  Bliss
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  10 hours 49 minutes</strong> since this server shutdown
+Its been <strong>1 days  11 hours 19 minutes</strong> since this server shutdown
