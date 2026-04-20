@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Someone asked me, what's the ninth letter of the alphabet? It was a complete guess, but I was right.
+How many South Americans does it take to change a lightbulb? A Brazilian
 
 
 ## Daily Trivia
 
-On which computer hardware device is the BIOS chip located?
- 1. Motherboard
- 2. Hard Disk Drive
- 3. Central Processing Unit
- 4. Graphics Processing Unit
+What was the name given to Android 4.3?
+ 1. Lollipop
+ 2. Nutella
+ 3. Froyo
+ 4. Jelly Bean
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  Jelly Bean
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  18 hours 49 minutes</strong> since this server shutdown
+Its been <strong>1 days  19 hours 19 minutes</strong> since this server shutdown
