@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It's difficult to say what my wife does, she sells sea shells by the sea shore.
+A man tried to sell me a coffin today. I told him that's the last thing I need.
 
 
 ## Daily Trivia
 
-What was the name of the security vulnerability found in Bash in 2014?
- 1. Shellshock
- 2. Stagefright
- 3. Bashbug
- 4. Heartbleed
+Which of the following physical typologies are used with Ethernet Networks?
+ 1. Mesh
+ 2. Ring
+ 3. Star
+ 4. Hex
 
 <details>
   <summary>Answer</summary>
-  Shellshock
+  Star
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  5 hours 49 minutes</strong> since this server shutdown
+Its been <strong>1 days  6 hours 19 minutes</strong> since this server shutdown
