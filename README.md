@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What does a female snake use for support? A co-Bra!
+Waking up this morning was an eye-opening experience.
 
 
 ## Daily Trivia
 
-Which of these is not a key value of Agile software development?
- 1. Individuals and interactions
- 2. Responding to change
- 3. Comprehensive documentation
- 4. Customer collaboration
+CMOS is tech used for constructing integrated circuits. What does CMOS stand for?
+ 1. Computer-made operating system
+ 2. Complementary magnetic-ohms-semiconductor
+ 3. Computer-made oscillating static
+ 4. Complementary metal&ndash;oxide&ndash;semiconductor
 
 <details>
   <summary>Answer</summary>
-  Comprehensive documentation
+  Complementary metal&ndash;oxide&ndash;semiconductor
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  23 hours 49 minutes</strong> since this server shutdown
+Its been <strong>2 days 19 minutes</strong> since this server shutdown
