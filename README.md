@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What’s the difference between an African elephant and an Indian elephant? About 5000 miles.
+“My Dog has no nose.” “How does he smell?” “Awful”
 
 
 ## Daily Trivia
 
-Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
- 1. Puma
- 2. Tiger
- 3. Leopard
- 4. Cheetah
+On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
+ 1. Exclamation Mark
+ 2. Asterisk
+ 3. Percent Sign
+ 4. Dollar Sign
 
 <details>
   <summary>Answer</summary>
-  Cheetah
+  Exclamation Mark
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  17 hours 49 minutes</strong> since this server shutdown
+Its been <strong>1 days  18 hours 19 minutes</strong> since this server shutdown
