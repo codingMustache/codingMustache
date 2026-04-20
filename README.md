@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the runner who was criticized? He just took it in stride
+A butcher accidentally backed into his meat grinder and got a little behind in his work that day.
 
 
 ## Daily Trivia
 
-.at is the top-level domain for what country?
- 1. Argentina
- 2. Australia
- 3. Angola
- 4. Austria
+How many bits are commonly in a single byte?
+ 1. Eight bits
+ 2.  Fifteen bits
+ 3. Twelve bits
+ 4. Six bits
 
 <details>
   <summary>Answer</summary>
-  Austria
+  Eight bits
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  16 hours 19 minutes</strong> since this server shutdown
+Its been <strong>1 days  16 hours 49 minutes</strong> since this server shutdown
