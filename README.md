@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do choirs keep buckets handy? So they can carry their tune
+My boss told me to have a good day. So I went home...
 
 
 ## Daily Trivia
 
-What does the term USB stand for?
- 1. Unityped Semtex Backer
- 2. Universal Serial Bus
- 3. Unified Signal Bus
- 4. Universal Simtex Blot
+The acronym &quot;RIP&quot; stands for which of these?
+ 1. Runtime Instance Processes
+ 2. Regular Interval Processes
+ 3. Routine Inspection Protocol
+ 4. Routing Information Protocol
 
 <details>
   <summary>Answer</summary>
-  Universal Serial Bus
+  Routing Information Protocol
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  7 hours 19 minutes</strong> since this server shutdown
+Its been <strong>1 days  7 hours 49 minutes</strong> since this server shutdown
