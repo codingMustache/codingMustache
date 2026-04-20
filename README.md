@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a boomerang that won't come back? A stick.
+What's black and white and read all over? The newspaper.
 
 
 ## Daily Trivia
 
-What kind of memory is used on memory cache?
- 1. SRAM
- 2. Flash
- 3. ROM
- 4. DRAM
+What vulnerability ranked #1 on the OWASP Top 10 in 2013?
+ 1. Broken Authentication
+ 2. Cross-Site Scripting
+ 3. Insecure Direct Object References
+ 4. Injection 
 
 <details>
   <summary>Answer</summary>
-  SRAM
+  Injection 
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  14 hours 19 minutes</strong> since this server shutdown
+Its been <strong>1 days  14 hours 49 minutes</strong> since this server shutdown
