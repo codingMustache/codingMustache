@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why does Norway have barcodes on their battleships? So when they get back to port, they can Scandinavian.
+Why do choirs keep buckets handy? So they can carry their tune
 
 
 ## Daily Trivia
 
-How many bits are commonly in a single byte?
- 1. Eight bits
- 2.  Fifteen bits
- 3. Twelve bits
- 4. Six bits
+What does the term USB stand for?
+ 1. Unityped Semtex Backer
+ 2. Universal Serial Bus
+ 3. Unified Signal Bus
+ 4. Universal Simtex Blot
 
 <details>
   <summary>Answer</summary>
-  Eight bits
+  Universal Serial Bus
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  6 hours 49 minutes</strong> since this server shutdown
+Its been <strong>1 days  7 hours 19 minutes</strong> since this server shutdown
