@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The other day, my wife asked me to pass her lipstick but I accidentally passed her a glue stick. She still isn't talking to me.
+I was shocked when I was diagnosed as colorblind... It came out of the purple.
 
 
 ## Daily Trivia
 
-In web design, what does CSS stand for?
- 1. Counter Strike: Source
- 2. Cascading Style Sheet
- 3. Corrective Style Sheet
- 4. Computer Style Sheet
+The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
+ 1. HD Graphics 700 
+ 2. HD Graphics 600
+ 3. HD Graphics 500
+ 4. HD Graphics 7000
 
 <details>
   <summary>Answer</summary>
-  Cascading Style Sheet
+  HD Graphics 500
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  11 hours 49 minutes</strong> since this server shutdown
+Its been <strong>1 days  12 hours 19 minutes</strong> since this server shutdown
