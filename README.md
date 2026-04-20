@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was ten scared of seven? Because seven ate nine.
+Waking up this morning was an eye-opening experience.
 
 
 ## Daily Trivia
 
-What does the term USB stand for?
- 1. Universal Serial Bus
- 2. Unityped Semtex Backer
- 3. Unified Signal Bus
- 4. Universal Simtex Blot
+Which programming language was developed by Sun Microsystems in 1995?
+ 1. C++
+ 2. Solaris OS
+ 3. Python
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  Universal Serial Bus
+  Java
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  3 hours 49 minutes</strong> since this server shutdown
+Its been <strong>1 days  4 hours 19 minutes</strong> since this server shutdown
