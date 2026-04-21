@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the judge say to the dentist? Do you swear to pull the tooth, the whole tooth and nothing but the tooth?
+Is there a hole in your shoe? No… Then how’d you get your foot in it?
 
 
 ## Daily Trivia
 
-How many values can a single byte represent?
- 1. 8
- 2. 1
- 3. 256
- 4. 1024
+What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
+ 1. Heat Sink
+ 2. Heat Vent
+ 3. Temperature Decipator
+ 4. CPU Vent
 
 <details>
   <summary>Answer</summary>
-  256
+  Heat Sink
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  23 hours 49 minutes</strong> since this server shutdown
+Its been <strong>3 days 19 minutes</strong> since this server shutdown
