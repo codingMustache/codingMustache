@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It doesn't matter how much you push the envelope. It will still be stationary.
+It's difficult to say what my wife does, she sells sea shells by the sea shore.
 
 
 ## Daily Trivia
 
-What does the International System of Quantities refer 1024 bytes as?
- 1. Kylobyte
- 2. Kilobyte
- 3. Kelobyte
- 4. Kibibyte
+In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
+ 1. center
+ 2. static
+ 3. absolute
+ 4. relative
 
 <details>
   <summary>Answer</summary>
-  Kibibyte
+  center
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  17 hours 49 minutes</strong> since this server shutdown
+Its been <strong>2 days  18 hours 19 minutes</strong> since this server shutdown
