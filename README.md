@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I’m only familiar with 25 letters in the English language. I don’t know why.
+How many apples grow on a tree? All of them!
 
 
 ## Daily Trivia
 
-In web design, what does CSS stand for?
- 1. Computer Style Sheet
- 2. Counter Strike: Source
- 3. Cascading Style Sheet
- 4. Corrective Style Sheet
+What is the number of keys on a standard Windows Keyboard?
+ 1. 94
+ 2. 64
+ 3. 76
+ 4. 104
 
 <details>
   <summary>Answer</summary>
-  Cascading Style Sheet
+  104
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  7 hours 49 minutes</strong> since this server shutdown
+Its been <strong>2 days  8 hours 19 minutes</strong> since this server shutdown
