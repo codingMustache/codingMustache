@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the shy pebble wish for? That she was a little boulder.
+A man was caught stealing in a supermarket today while balanced on the shoulders of a couple of vampires. He was charged with shoplifting on two counts. 
 
 
 ## Daily Trivia
 
-On which day did the World Wide Web go online?
- 1. December 17, 1996
- 2. November 12, 1990
- 3. November 24, 1995
- 4. December 20, 1990
+What is the most preferred image format used for logos in the Wikimedia database?
+ 1. .png
+ 2. .svg
+ 3. .jpeg
+ 4. .gif
 
 <details>
   <summary>Answer</summary>
-  December 20, 1990
+  .svg
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  15 hours 49 minutes</strong> since this server shutdown
+Its been <strong>2 days  16 hours 19 minutes</strong> since this server shutdown
