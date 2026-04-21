@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are skeletons so calm? Because nothing gets under their skin.
+I've just written a song about a tortilla. Well, it is more of a rap really.
 
 
 ## Daily Trivia
 
-What language does Node.js use?
- 1. JavaScript
- 2. Java
- 3. Java Source
- 4. Joomla Source Code
+Which kind of algorithm is Ron Rivest not famous for creating?
+ 1. Asymmetric encryption
+ 2. Stream cipher
+ 3. Secret sharing scheme
+ 4. Hashing algorithm
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  Secret sharing scheme
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  9 hours 49 minutes</strong> since this server shutdown
+Its been <strong>2 days  10 hours 19 minutes</strong> since this server shutdown
