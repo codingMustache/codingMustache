@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did one plate say to the other plate? Dinner is on me!
+I broke my finger at work today, on the other hand I'm completely fine.
 
 
 ## Daily Trivia
 
-What vulnerability ranked #1 on the OWASP Top 10 in 2013?
- 1. Injection 
- 2. Broken Authentication
- 3. Cross-Site Scripting
- 4. Insecure Direct Object References
+In the server hosting industry IaaS stands for...
+ 1. Infrastructure as a Service
+ 2. Infrastructure as a Server
+ 3. Internet and a Server
+ 4. Internet as a Service
 
 <details>
   <summary>Answer</summary>
-  Injection 
+  Infrastructure as a Service
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  14 hours 19 minutes</strong> since this server shutdown
+Its been <strong>2 days  14 hours 49 minutes</strong> since this server shutdown
