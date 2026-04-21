@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to be addicted to the hokey pokey, but I turned myself around.
+What did one nut say as he chased another nut?  I'm a cashew!
 
 
 ## Daily Trivia
 
-Which programming language was developed by Sun Microsystems in 1995?
- 1. Solaris OS
- 2. Python
- 3. Java
- 4. C++
+What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
+ 1. Broadwell
+ 2. Skylake
+ 3. Sandy Bridge
+ 4. Coffee Lake
 
 <details>
   <summary>Answer</summary>
-  Java
+  Coffee Lake
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  22 hours 19 minutes</strong> since this server shutdown
+Its been <strong>2 days  22 hours 49 minutes</strong> since this server shutdown
