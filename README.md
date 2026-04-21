@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do computers and air conditioners have in common? They both become useless when you open windows.
+Writing with a broken pencil is pointless.
 
 
 ## Daily Trivia
 
-Which programming language was developed by Sun Microsystems in 1995?
- 1. C++
- 2. Solaris OS
- 3. Java
- 4. Python
+In programming, the ternary operator is mostly defined with what symbol(s)?
+ 1. ??
+ 2. ?:
+ 3. if then
+ 4. ?
 
 <details>
   <summary>Answer</summary>
-  Java
+  ?:
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  19 hours 19 minutes</strong> since this server shutdown
+Its been <strong>2 days  19 hours 49 minutes</strong> since this server shutdown
