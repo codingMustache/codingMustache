@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How does a French skeleton say hello? Bone-jour.
+What do you call a fish with no eyes? A fsh.
 
 
 ## Daily Trivia
 
-What does CPU stand for?
- 1. Central Processing Unit
- 2. Central Process Unit
- 3. Computer Personal Unit
- 4. Central Processor Unit
+On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
+ 1. Exclamation Mark
+ 2. Asterisk
+ 3. Percent Sign
+ 4. Dollar Sign
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  Exclamation Mark
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  2 hours 19 minutes</strong> since this server shutdown
+Its been <strong>3 days  2 hours 49 minutes</strong> since this server shutdown
