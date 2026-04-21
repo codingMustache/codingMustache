@@ -6,16 +6,16 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Guy told me today he did not know what cloning is. I told him, "that makes 2 of us."
+Why are skeletons so calm? Because nothing gets under their skin.
 
 
 ## Daily Trivia
 
-Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
- 1. C#
- 2. Python
- 3. PHP
- 4. JavaScript
+What language does Node.js use?
+ 1. JavaScript
+ 2. Java
+ 3. Java Source
+ 4. Joomla Source Code
 
 <details>
   <summary>Answer</summary>
@@ -25,4 +25,4 @@ Which coding language was the #1 programming language in terms of usage on GitHu
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  9 hours 19 minutes</strong> since this server shutdown
+Its been <strong>2 days  9 hours 49 minutes</strong> since this server shutdown
