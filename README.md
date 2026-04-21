@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand...
+Guy told me today he did not know what cloning is. I told him, "that makes 2 of us."
 
 
 ## Daily Trivia
 
-What is largely considered the precursor to the USB format?
- 1. PCIe
- 2. PS/2
- 3. SVGA
- 4. FireWire
+Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
+ 1. C#
+ 2. Python
+ 3. PHP
+ 4. JavaScript
 
 <details>
   <summary>Answer</summary>
-  PS/2
+  JavaScript
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  8 hours 49 minutes</strong> since this server shutdown
+Its been <strong>2 days  9 hours 19 minutes</strong> since this server shutdown
