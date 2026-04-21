@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a fish with no eyes? A fsh.
+What did the big flower say to the littler flower? Hi, bud!
 
 
 ## Daily Trivia
 
-On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
- 1. Exclamation Mark
- 2. Asterisk
- 3. Percent Sign
- 4. Dollar Sign
+Who is the founder of Palantir?
+ 1. Marc Benioff
+ 2. Peter Thiel
+ 3. Mark Zuckerberg
+ 4. Jack Dorsey
 
 <details>
   <summary>Answer</summary>
-  Exclamation Mark
+  Peter Thiel
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  2 hours 49 minutes</strong> since this server shutdown
+Its been <strong>3 days  3 hours 19 minutes</strong> since this server shutdown
