@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I got fired from the transmission factor, turns out I didn't put on enough shifts...
+What did one plate say to the other plate? Dinner is on me!
 
 
 ## Daily Trivia
 
-Which of these is not a key value of Agile software development?
- 1. Customer collaboration
- 2. Comprehensive documentation
- 3. Individuals and interactions
- 4. Responding to change
+What vulnerability ranked #1 on the OWASP Top 10 in 2013?
+ 1. Injection 
+ 2. Broken Authentication
+ 3. Cross-Site Scripting
+ 4. Insecure Direct Object References
 
 <details>
   <summary>Answer</summary>
-  Comprehensive documentation
+  Injection 
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  13 hours 49 minutes</strong> since this server shutdown
+Its been <strong>2 days  14 hours 19 minutes</strong> since this server shutdown
