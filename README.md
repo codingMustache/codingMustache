@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many tickles does it take to tickle an octopus? Ten-tickles!
+I used to have a job at a calendar factory but I got the sack because I took a couple of days off.
 
 
 ## Daily Trivia
 
-How many cores does the Intel i7-6950X have?
- 1. 4
- 2. 8
- 3. 12
- 4. 10
+The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
+ 1. Fiji
+ 2. Tuvalu
+ 3. Marshall Islands
+ 4. Micronesia
 
 <details>
   <summary>Answer</summary>
-  10
+  Micronesia
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days 49 minutes</strong> since this server shutdown
+Its been <strong>3 days  1 hours 19 minutes</strong> since this server shutdown
