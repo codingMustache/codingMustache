@@ -6,23 +6,25 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-When Dad drops a pea off of his plate ‘oh dear I’ve pee’d on the table!
+What was the pumpkin’s favorite sport?
+
+Squash.
 
 
 ## Daily Trivia
 
-Which programming language shares its name with an island in Indonesia?
- 1. C
- 2. Java
- 3. Python
- 4. Jakarta
+Dutch computer scientist Mark Overmars is known for creating which game development engine?
+ 1. Construct
+ 2. Game Maker
+ 3. Stencyl
+ 4. Torque 2D
 
 <details>
   <summary>Answer</summary>
-  Java
+  Game Maker
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  12 hours 19 minutes</strong> since this server shutdown
+Its been <strong>2 days  12 hours 49 minutes</strong> since this server shutdown
