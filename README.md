@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why doesn't the Chimney-Sweep call out sick from work? Because he's used to working with a flue.
+I used to be addicted to the hokey pokey, but I turned myself around.
 
 
 ## Daily Trivia
 
-On Twitter, what was the original character limit for a Tweet?
- 1. 100
- 2. 160
- 3. 120
- 4. 140
+Which programming language was developed by Sun Microsystems in 1995?
+ 1. Solaris OS
+ 2. Python
+ 3. Java
+ 4. C++
 
 <details>
   <summary>Answer</summary>
-  140
+  Java
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  21 hours 49 minutes</strong> since this server shutdown
+Its been <strong>2 days  22 hours 19 minutes</strong> since this server shutdown
