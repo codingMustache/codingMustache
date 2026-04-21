@@ -6,25 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What was the pumpkin’s favorite sport?
-
-Squash.
+Why is it always hot in the corner of a room? Because a corner is 90 degrees.
 
 
 ## Daily Trivia
 
-Dutch computer scientist Mark Overmars is known for creating which game development engine?
- 1. Construct
- 2. Game Maker
- 3. Stencyl
- 4. Torque 2D
+Which of these is not a layer in the OSI model for data communications?
+ 1. Connection Layer
+ 2. Physical Layer
+ 3. Transport Layer
+ 4. Application Layer
 
 <details>
   <summary>Answer</summary>
-  Game Maker
+  Connection Layer
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  12 hours 49 minutes</strong> since this server shutdown
+Its been <strong>2 days  13 hours 19 minutes</strong> since this server shutdown
