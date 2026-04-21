@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the feline fail the lie detector test? Because he be lion.
+How does a French skeleton say hello? Bone-jour.
 
 
 ## Daily Trivia
 
-In computing terms, typically what does CLI stand for?
- 1. Control Line Interface
- 2. Common Language Input
- 3. Command Line Interface
- 4. Common Language Interface
+What does CPU stand for?
+ 1. Central Processing Unit
+ 2. Central Process Unit
+ 3. Computer Personal Unit
+ 4. Central Processor Unit
 
 <details>
   <summary>Answer</summary>
-  Command Line Interface
+  Central Processing Unit
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  1 hours 49 minutes</strong> since this server shutdown
+Its been <strong>3 days  2 hours 19 minutes</strong> since this server shutdown
