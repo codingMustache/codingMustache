@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why can't you use "Beef stew" as a password? Because it's not stroganoff.
+What did the shy pebble wish for? That she was a little boulder.
 
 
 ## Daily Trivia
 
-What does CPU stand for?
- 1. Central Process Unit
- 2. Computer Personal Unit
- 3. Central Processor Unit
- 4. Central Processing Unit
+On which day did the World Wide Web go online?
+ 1. December 17, 1996
+ 2. November 12, 1990
+ 3. November 24, 1995
+ 4. December 20, 1990
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  December 20, 1990
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  15 hours 19 minutes</strong> since this server shutdown
+Its been <strong>2 days  15 hours 49 minutes</strong> since this server shutdown
