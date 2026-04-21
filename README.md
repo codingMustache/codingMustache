@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call two barracuda fish?  A Pairacuda!
+What did the judge say to the dentist? Do you swear to pull the tooth, the whole tooth and nothing but the tooth?
 
 
 ## Daily Trivia
 
-Australia, Japan, and Southeast Asia are in which ITU Region?
- 1. Region 4
- 2. Region 1
- 3. Region 3
- 4. Region 2
+How many values can a single byte represent?
+ 1. 8
+ 2. 1
+ 3. 256
+ 4. 1024
 
 <details>
   <summary>Answer</summary>
-  Region 3
+  256
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  23 hours 19 minutes</strong> since this server shutdown
+Its been <strong>2 days  23 hours 49 minutes</strong> since this server shutdown
