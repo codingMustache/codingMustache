@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why couldn't the kid see the pirate movie? Because it was rated arrr!
+What do you call a snake who builds houses? A boa constructor!
 
 
 ## Daily Trivia
 
-Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
- 1. Enigma Machine
- 2. Skipjack
- 3. Nautilus
- 4. Clipper Chip
+What is known as &quot;the brain&quot; of the Computer?
+ 1. Keyboard
+ 2. Central Processing Unit
+ 3. Motherboard
+ 4. Graphics Processing Unit
 
 <details>
   <summary>Answer</summary>
-  Clipper Chip
+  Central Processing Unit
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  20 hours 19 minutes</strong> since this server shutdown
+Its been <strong>2 days  20 hours 49 minutes</strong> since this server shutdown
