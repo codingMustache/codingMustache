@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Which side of the chicken has more feathers? The outside.
+Why are giraffes so slow to apologize? Because it takes them a long time to swallow their pride.
 
 
 ## Daily Trivia
 
-What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
- 1. CPU Vent
- 2. Heat Sink
- 3. Heat Vent
- 4. Temperature Decipator
+What port does HTTP run on?
+ 1. 80
+ 2. 53
+ 3. 443
+ 4. 23
 
 <details>
   <summary>Answer</summary>
-  Heat Sink
+  80
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  11 hours 19 minutes</strong> since this server shutdown
+Its been <strong>2 days  11 hours 49 minutes</strong> since this server shutdown
