@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the guy who invented Lifesavers? They say he made a mint.
+What do bees do after they are married? They go on a honeymoon.
 
 
 ## Daily Trivia
 
-In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
- 1. Final
- 2. Private
- 3. Public
- 4. Static
+On which computer hardware device is the BIOS chip located?
+ 1. Motherboard
+ 2. Graphics Processing Unit
+ 3. Central Processing Unit
+ 4. Hard Disk Drive
 
 <details>
   <summary>Answer</summary>
-  Final
+  Motherboard
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  23 hours 19 minutes</strong> since this server shutdown
+Its been <strong>3 days  23 hours 49 minutes</strong> since this server shutdown
