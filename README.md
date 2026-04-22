@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the man run around his bed? Because he was trying to catch up on his sleep!
+Want to hear a joke about construction? Nah, I'm still working on it.
 
 
 ## Daily Trivia
 
-What does LTS stand for in the software market?
- 1. Long Taco Service
- 2. Ludicrous Transfer Speed
- 3. Ludicrous Turbo Speed
- 4. Long Term Support
+Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
+ 1. Year
+ 2. Eight Years
+ 3. Two Years
+ 4. Four Years
 
 <details>
   <summary>Answer</summary>
-  Long Term Support
+  Year
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  5 hours 19 minutes</strong> since this server shutdown
+Its been <strong>3 days  5 hours 49 minutes</strong> since this server shutdown
