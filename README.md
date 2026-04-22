@@ -6,23 +6,25 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why don’t skeletons ever go trick or treating? Because they have nobody to go with.
+How many seconds are in a year?
+12.
+January 2nd, February 2nd, March 2nd, April 2nd.... etc
 
 
 ## Daily Trivia
 
-What does the &#039;S&#039; in the RSA encryption algorithm stand for?
- 1. Stable
- 2. Shamir
- 3. Schottky
- 4. Secure
+What does the term GPU stand for?
+ 1. Graphical Proprietary Unit
+ 2. Gaming Processor Unit
+ 3. Graphics Processing Unit
+ 4. Graphite Producing Unit
 
 <details>
   <summary>Answer</summary>
-  Shamir
+  Graphics Processing Unit
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  19 hours 49 minutes</strong> since this server shutdown
+Its been <strong>3 days  20 hours 19 minutes</strong> since this server shutdown
