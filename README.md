@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a troublesome Canadian high schooler? A poutine.
+How much does a hipster weigh? An instagram.
 
 
 ## Daily Trivia
 
-What does the &#039;S&#039; in the RSA encryption algorithm stand for?
- 1. Shamir
- 2. Stable
- 3. Schottky
- 4. Secure
+According to the International System of Units, how many bytes are in a kilobyte of RAM?
+ 1. 1000
+ 2. 500
+ 3. 1024
+ 4. 512
 
 <details>
   <summary>Answer</summary>
-  Shamir
+  1000
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  11 hours 49 minutes</strong> since this server shutdown
+Its been <strong>3 days  12 hours 19 minutes</strong> since this server shutdown
