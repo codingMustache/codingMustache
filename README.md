@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the burglar hang his mugshot on the wall? To prove that he was framed!
+Remember, the best angle to approach a problem from is the "try" angle.
 
 
 ## Daily Trivia
 
-How many bits make up the significand portion of a single precision floating point number?
- 1. 23
- 2. 15
- 3. 53
- 4. 8
+What does the &#039;S&#039; in the RSA encryption algorithm stand for?
+ 1. Schottky
+ 2. Shamir
+ 3. Secure
+ 4. Stable
 
 <details>
   <summary>Answer</summary>
-  23
+  Shamir
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days 19 minutes</strong> since this server shutdown
+Its been <strong>4 days 49 minutes</strong> since this server shutdown
