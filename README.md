@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Conjunctivitis.com – now that’s a site for sore eyes.
+A butcher accidentally backed into his meat grinder and got a little behind in his work that day.
 
 
 ## Daily Trivia
 
-What amount of bits commonly equals one byte?
- 1. 64
- 2. 2
- 3. 8
- 4. 1
+Approximately how many Apple I personal computers were created?
+ 1. 100
+ 2. 500
+ 3. 1000
+ 4. 200
 
 <details>
   <summary>Answer</summary>
-  8
+  200
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  13 hours 49 minutes</strong> since this server shutdown
+Its been <strong>3 days  14 hours 19 minutes</strong> since this server shutdown
