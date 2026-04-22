@@ -6,16 +6,16 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the judge say to the dentist? Do you swear to pull the tooth, the whole tooth and nothing but the tooth?
+What do you call a careful wolf? Aware wolf.
 
 
 ## Daily Trivia
 
-On which computer hardware device is the BIOS chip located?
+Which computer hardware device provides an interface for all other connected devices to communicate?
  1. Central Processing Unit
- 2. Graphics Processing Unit
- 3. Motherboard
- 4. Hard Disk Drive
+ 2. Hard Disk Drive
+ 3. Random Access Memory
+ 4. Motherboard
 
 <details>
   <summary>Answer</summary>
@@ -25,4 +25,4 @@ On which computer hardware device is the BIOS chip located?
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  21 hours 49 minutes</strong> since this server shutdown
+Its been <strong>3 days  22 hours 19 minutes</strong> since this server shutdown
