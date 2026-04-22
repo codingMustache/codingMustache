@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the left eye say to the right eye? Between us, something smells!
+How do locomotives know where they're going? Lots of training
 
 
 ## Daily Trivia
 
-How many bytes are in a single Kibibyte?
- 1. 1240
- 2. 1024
- 3. 2400
- 4. 1000
+In computing, what does MIDI stand for?
+ 1. Musical Instrument Data Interface
+ 2. Musical Instrument Digital Interface
+ 3. Modular Interface of Digital Instruments
+ 4. Musical Interface of Digital Instruments
 
 <details>
   <summary>Answer</summary>
-  1024
+  Musical Instrument Digital Interface
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  9 hours 19 minutes</strong> since this server shutdown
+Its been <strong>3 days  9 hours 49 minutes</strong> since this server shutdown
