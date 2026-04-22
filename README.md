@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Velcro… What a rip-off.
+I used to be a banker, but I lost interest.
 
 
 ## Daily Trivia
 
-CMOS is tech used for constructing integrated circuits. What does CMOS stand for?
- 1. Computer-made oscillating static
- 2. Computer-made operating system
- 3. Complementary metal&ndash;oxide&ndash;semiconductor
- 4. Complementary magnetic-ohms-semiconductor
+The Harvard architecture for micro-controllers added which additional bus?
+ 1. Instruction
+ 2. Control
+ 3. Data
+ 4. Address
 
 <details>
   <summary>Answer</summary>
-  Complementary metal&ndash;oxide&ndash;semiconductor
+  Instruction
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  1 hours 49 minutes</strong> since this server shutdown
+Its been <strong>4 days  2 hours 19 minutes</strong> since this server shutdown
