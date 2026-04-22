@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Which is the fastest growing city in the world? Dublin'
+Whats a penguins favorite relative? Aunt Arctica.
 
 
 ## Daily Trivia
 
-Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
- 1. 44.1 kHz
- 2. 32.0 kHz
- 3. 1.5 MHz
- 4. 20.5 kHz
+How many bits are commonly in a single byte?
+ 1. Six bits
+ 2. Twelve bits
+ 3.  Fifteen bits
+ 4. Eight bits
 
 <details>
   <summary>Answer</summary>
-  44.1 kHz
+  Eight bits
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  10 hours 19 minutes</strong> since this server shutdown
+Its been <strong>3 days  10 hours 49 minutes</strong> since this server shutdown
