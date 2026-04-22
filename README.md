@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A man was caught stealing in a supermarket today while balanced on the shoulders of a couple of vampires. He was charged with shoplifting on two counts. 
+How do you make a hankie dance? Put a little boogie in it.
 
 
 ## Daily Trivia
 
-The teapot often seen in many 3D modeling applications is called what?
- 1. Utah Teapot
- 2. Tennessee Teapot
- 3. Pixar Teapot
- 4. 3D Teapot
+The programming language &#039;Swift&#039; was created to replace what other programming language?
+ 1. C#
+ 2. Ruby
+ 3. Objective-C
+ 4. C++
 
 <details>
   <summary>Answer</summary>
-  Utah Teapot
+  Objective-C
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  18 hours 19 minutes</strong> since this server shutdown
+Its been <strong>3 days  18 hours 49 minutes</strong> since this server shutdown
