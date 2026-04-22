@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the cow who jumped over the barbed wire fence? It was udder destruction.
+What musical instrument is found in the bathroom? A tuba toothpaste.
 
 
 ## Daily Trivia
 
-What language does Node.js use?
- 1. Java
- 2. JavaScript
- 3. Java Source
- 4. Joomla Source Code
+What programming language was GitHub written in?
+ 1. Ruby
+ 2. Lua
+ 3. Python
+ 4. JavaScript
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  Ruby
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  3 hours 49 minutes</strong> since this server shutdown
+Its been <strong>3 days  4 hours 19 minutes</strong> since this server shutdown
