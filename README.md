@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-At the boxing match, the dad got into the popcorn line and the line for hot dogs, but he wanted to stay out of the punchline.
+What did the left eye say to the right eye? Between us, something smells!
 
 
 ## Daily Trivia
 
-In programming, what do you call functions with the same name but different implementations?
- 1. Inheriting
- 2. Overloading
- 3. Abstracting
- 4. Overriding
+How many bytes are in a single Kibibyte?
+ 1. 1240
+ 2. 1024
+ 3. 2400
+ 4. 1000
 
 <details>
   <summary>Answer</summary>
-  Overloading
+  1024
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  8 hours 49 minutes</strong> since this server shutdown
+Its been <strong>3 days  9 hours 19 minutes</strong> since this server shutdown
