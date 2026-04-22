@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to be a banker, but I lost interest.
+Why did the girl smear peanut butter on the road? To go with the traffic jam.
 
 
 ## Daily Trivia
 
-The Harvard architecture for micro-controllers added which additional bus?
- 1. Instruction
- 2. Control
- 3. Data
- 4. Address
+Which kind of algorithm is Ron Rivest not famous for creating?
+ 1. Hashing algorithm
+ 2. Secret sharing scheme
+ 3. Asymmetric encryption
+ 4. Stream cipher
 
 <details>
   <summary>Answer</summary>
-  Instruction
+  Secret sharing scheme
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  2 hours 19 minutes</strong> since this server shutdown
+Its been <strong>4 days  2 hours 49 minutes</strong> since this server shutdown
