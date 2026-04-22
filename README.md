@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Want to hear a joke about construction? Nah, I'm still working on it.
+Why do bananas have to put on sunscreen before they go to the beach? Because they might peel!
 
 
 ## Daily Trivia
 
-Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
- 1. Year
- 2. Eight Years
- 3. Two Years
- 4. Four Years
+When was the programming language &quot;C#&quot; released?
+ 1. 2000
+ 2. 2001
+ 3. 1999
+ 4. 1998
 
 <details>
   <summary>Answer</summary>
-  Year
+  2000
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  5 hours 49 minutes</strong> since this server shutdown
+Its been <strong>3 days  6 hours 19 minutes</strong> since this server shutdown
