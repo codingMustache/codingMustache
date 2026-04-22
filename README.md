@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My new thesaurus is terrible. In fact, it's so bad, I'd say it's terrible.
+At the boxing match, the dad got into the popcorn line and the line for hot dogs, but he wanted to stay out of the punchline.
 
 
 ## Daily Trivia
 
-On which day did the World Wide Web go online?
- 1. December 17, 1996
- 2. December 20, 1990
- 3. November 12, 1990
- 4. November 24, 1995
+In programming, what do you call functions with the same name but different implementations?
+ 1. Inheriting
+ 2. Overloading
+ 3. Abstracting
+ 4. Overriding
 
 <details>
   <summary>Answer</summary>
-  December 20, 1990
+  Overloading
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  8 hours 19 minutes</strong> since this server shutdown
+Its been <strong>3 days  8 hours 49 minutes</strong> since this server shutdown
