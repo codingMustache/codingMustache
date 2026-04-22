@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I couldn't get a reservation at the library. They were completely booked.
+I was going to get a brain transplant, but I changed my mind
 
 
 ## Daily Trivia
 
-What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
- 1. Skylake
- 2. Sandy Bridge
- 3. Broadwell
- 4. Coffee Lake
+The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
+ 1. United States
+ 2. Germany
+ 3. Taiwan
+ 4. China (People&#039;s Republic of)
 
 <details>
   <summary>Answer</summary>
-  Coffee Lake
+  Taiwan
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  6 hours 49 minutes</strong> since this server shutdown
+Its been <strong>3 days  7 hours 19 minutes</strong> since this server shutdown
