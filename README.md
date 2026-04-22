@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Whats a penguins favorite relative? Aunt Arctica.
+You will never guess what Elsa did to the balloon. She let it go.
 
 
 ## Daily Trivia
 
-How many bits are commonly in a single byte?
- 1. Six bits
- 2. Twelve bits
- 3.  Fifteen bits
- 4. Eight bits
+Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
+ 1. Enigma Machine
+ 2. Skipjack
+ 3. Nautilus
+ 4. Clipper Chip
 
 <details>
   <summary>Answer</summary>
-  Eight bits
+  Clipper Chip
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  10 hours 49 minutes</strong> since this server shutdown
+Its been <strong>3 days  11 hours 19 minutes</strong> since this server shutdown
