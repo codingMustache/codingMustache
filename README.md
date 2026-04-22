@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do bees do after they are married? They go on a honeymoon.
+Why did the burglar hang his mugshot on the wall? To prove that he was framed!
 
 
 ## Daily Trivia
 
-On which computer hardware device is the BIOS chip located?
- 1. Motherboard
- 2. Graphics Processing Unit
- 3. Central Processing Unit
- 4. Hard Disk Drive
+How many bits make up the significand portion of a single precision floating point number?
+ 1. 23
+ 2. 15
+ 3. 53
+ 4. 8
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  23
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  23 hours 49 minutes</strong> since this server shutdown
+Its been <strong>4 days 19 minutes</strong> since this server shutdown
