@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Have you heard of the band 1023MB? They haven't got a gig yet.
+Thanks for explaining the word "many" to me. It means a lot.
 
 
 ## Daily Trivia
 
-What is largely considered the precursor to the USB format?
- 1. PS/2
- 2. FireWire
- 3. PCIe
- 4. SVGA
+According to the International System of Units, how many bytes are in a kilobyte of RAM?
+ 1. 1024
+ 2. 500
+ 3. 512
+ 4. 1000
 
 <details>
   <summary>Answer</summary>
-  PS/2
+  1000
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  3 hours 19 minutes</strong> since this server shutdown
+Its been <strong>4 days  3 hours 49 minutes</strong> since this server shutdown
