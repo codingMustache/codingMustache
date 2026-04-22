@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-You will never guess what Elsa did to the balloon. She let it go.
+What do you call a troublesome Canadian high schooler? A poutine.
 
 
 ## Daily Trivia
 
-Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
- 1. Enigma Machine
- 2. Skipjack
- 3. Nautilus
- 4. Clipper Chip
+What does the &#039;S&#039; in the RSA encryption algorithm stand for?
+ 1. Shamir
+ 2. Stable
+ 3. Schottky
+ 4. Secure
 
 <details>
   <summary>Answer</summary>
-  Clipper Chip
+  Shamir
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  11 hours 19 minutes</strong> since this server shutdown
+Its been <strong>3 days  11 hours 49 minutes</strong> since this server shutdown
