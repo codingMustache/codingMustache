@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I’m on a whiskey diet. I’ve lost three days already.
+Two guys walked into a bar, the third one ducked.
 
 
 ## Daily Trivia
 
-Australia, Japan, and Southeast Asia are in which ITU Region?
- 1. Region 1
- 2. Region 3
- 3. Region 2
- 4. Region 4
+The acronym &quot;RIP&quot; stands for which of these?
+ 1. Runtime Instance Processes
+ 2. Routing Information Protocol
+ 3. Regular Interval Processes
+ 4. Routine Inspection Protocol
 
 <details>
   <summary>Answer</summary>
-  Region 3
+  Routing Information Protocol
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  12 hours 49 minutes</strong> since this server shutdown
+Its been <strong>3 days  13 hours 19 minutes</strong> since this server shutdown
