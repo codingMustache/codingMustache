@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the scientist who was lab partners with a pot of boiling water? He had a very esteemed colleague.
+Why did the man run around his bed? Because he was trying to catch up on his sleep!
 
 
 ## Daily Trivia
 
-When did the online streaming service &quot;Mixer&quot; launch?
- 1. 2013
- 2. 2009
- 3. 2011
- 4. 2016
+What does LTS stand for in the software market?
+ 1. Long Taco Service
+ 2. Ludicrous Transfer Speed
+ 3. Ludicrous Turbo Speed
+ 4. Long Term Support
 
 <details>
   <summary>Answer</summary>
-  2016
+  Long Term Support
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  4 hours 49 minutes</strong> since this server shutdown
+Its been <strong>3 days  5 hours 19 minutes</strong> since this server shutdown
