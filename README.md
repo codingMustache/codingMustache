@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A butcher accidentally backed into his meat grinder and got a little behind in his work that day.
+What do you call a group of killer whales playing instruments? An Orca-stra.
 
 
 ## Daily Trivia
 
-Approximately how many Apple I personal computers were created?
- 1. 100
- 2. 500
- 3. 1000
- 4. 200
+Which of these is not a key value of Agile software development?
+ 1. Comprehensive documentation
+ 2. Responding to change
+ 3. Customer collaboration
+ 4. Individuals and interactions
 
 <details>
   <summary>Answer</summary>
-  200
+  Comprehensive documentation
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  14 hours 19 minutes</strong> since this server shutdown
+Its been <strong>3 days  14 hours 49 minutes</strong> since this server shutdown
