@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What musical instrument is found in the bathroom? A tuba toothpaste.
+Did you hear about the scientist who was lab partners with a pot of boiling water? He had a very esteemed colleague.
 
 
 ## Daily Trivia
 
-What programming language was GitHub written in?
- 1. Ruby
- 2. Lua
- 3. Python
- 4. JavaScript
+When did the online streaming service &quot;Mixer&quot; launch?
+ 1. 2013
+ 2. 2009
+ 3. 2011
+ 4. 2016
 
 <details>
   <summary>Answer</summary>
-  Ruby
+  2016
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  4 hours 19 minutes</strong> since this server shutdown
+Its been <strong>3 days  4 hours 49 minutes</strong> since this server shutdown
