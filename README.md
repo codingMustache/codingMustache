@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Today, my son asked "Can I have a book mark?" and I burst into tears. 11 years old and he still doesn't know my name is Brian.
+How do robots eat guacamole? With computer chips.
 
 
 ## Daily Trivia
 
-What does the computer software acronym JVM stand for?
- 1. Just Virtual Machine
- 2. Java Visual Machine
- 3. Java Virtual Machine
- 4. Java Vendor Machine
+What does the term MIME stand for, in regards to computing?
+ 1. Mail Internet Mail Exchange
+ 2. Multipurpose Interleave Mail Exchange
+ 3. Multipurpose Internet Mail Extensions
+ 4. Mail Interleave Method Exchange
 
 <details>
   <summary>Answer</summary>
-  Java Virtual Machine
+  Multipurpose Internet Mail Extensions
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  16 hours 49 minutes</strong> since this server shutdown
+Its been <strong>3 days  17 hours 19 minutes</strong> since this server shutdown
