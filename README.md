@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you make a hankie dance? Put a little boogie in it.
+Why are mummys scared of vacation? They're afraid to unwind.
 
 
 ## Daily Trivia
 
-The programming language &#039;Swift&#039; was created to replace what other programming language?
- 1. C#
- 2. Ruby
- 3. Objective-C
- 4. C++
+Approximately how many Apple I personal computers were created?
+ 1. 200
+ 2. 1000
+ 3. 500
+ 4. 100
 
 <details>
   <summary>Answer</summary>
-  Objective-C
+  200
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  18 hours 49 minutes</strong> since this server shutdown
+Its been <strong>3 days  19 hours 19 minutes</strong> since this server shutdown
