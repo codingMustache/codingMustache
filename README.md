@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What has a bed that you can’t sleep in? A river.
+Why do crabs never give to charity? Because they’re shellfish.
 
 
 ## Daily Trivia
 
-What major programming language does Unreal Engine 4 use?
- 1. Assembly
- 2. C++
- 3. C#
- 4. ECMAScript
+What does the &#039;S&#039; in the RSA encryption algorithm stand for?
+ 1. Schottky
+ 2. Shamir
+ 3. Stable
+ 4. Secure
 
 <details>
   <summary>Answer</summary>
-  C++
+  Shamir
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  11 hours 19 minutes</strong> since this server shutdown
+Its been <strong>4 days  11 hours 49 minutes</strong> since this server shutdown
