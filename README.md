@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do bees go to the bathroom?  The BP station.
+Today, my son asked "Can I have a book mark?" and I burst into tears. 11 years old and he still doesn't know my name is Brian.
 
 
 ## Daily Trivia
 
-How many values can a single byte represent?
- 1. 256
- 2. 1
- 3. 8
- 4. 1024
+What programming language was GitHub written in?
+ 1. Lua
+ 2. Python
+ 3. JavaScript
+ 4. Ruby
 
 <details>
   <summary>Answer</summary>
-  256
+  Ruby
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  12 hours 49 minutes</strong> since this server shutdown
+Its been <strong>4 days  13 hours 19 minutes</strong> since this server shutdown
