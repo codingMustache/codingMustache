@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a dad that has fallen through the ice? A Popsicle.
+Whenever the cashier at the grocery store asks my dad if he would like the milk in a bag he replies, ‘No, just leave it in the carton!’
 
 
 ## Daily Trivia
 
-Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
- 1. Puma
- 2. Tiger
- 3. Leopard
- 4. Cheetah
+Which computer hardware device provides an interface for all other connected devices to communicate?
+ 1. Motherboard
+ 2. Random Access Memory
+ 3. Hard Disk Drive
+ 4. Central Processing Unit
 
 <details>
   <summary>Answer</summary>
-  Cheetah
+  Motherboard
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  7 hours 49 minutes</strong> since this server shutdown
+Its been <strong>4 days  8 hours 19 minutes</strong> since this server shutdown
