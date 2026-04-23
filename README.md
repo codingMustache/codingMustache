@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you know you should always take an extra pair of pants golfing? Just in case you get a hole in one.
+Last night me and my girlfriend watched three DVDs back to back. Luckily I was the one facing the TV.
 
 
 ## Daily Trivia
 
-Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
- 1. 32.0 kHz
- 2. 1.5 MHz
- 3. 20.5 kHz
- 4. 44.1 kHz
+Which of the following computer components can be built using only NAND gates?
+ 1. CPU
+ 2. RAM
+ 3. ALU
+ 4. Register
 
 <details>
   <summary>Answer</summary>
-  44.1 kHz
+  ALU
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  17 hours 49 minutes</strong> since this server shutdown
+Its been <strong>4 days  18 hours 19 minutes</strong> since this server shutdown
