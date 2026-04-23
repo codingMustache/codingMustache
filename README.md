@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Today, my son asked "Can I have a book mark?" and I burst into tears. 11 years old and he still doesn't know my name is Brian.
+How was the snow globe feeling after the storm? A little shaken.
 
 
 ## Daily Trivia
 
-What programming language was GitHub written in?
- 1. Lua
- 2. Python
- 3. JavaScript
- 4. Ruby
+What five letter word is the motto of the IBM Computer company?
+ 1. Click
+ 2. Logic
+ 3. Pixel
+ 4. Think
 
 <details>
   <summary>Answer</summary>
-  Ruby
+  Think
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  13 hours 19 minutes</strong> since this server shutdown
+Its been <strong>4 days  13 hours 49 minutes</strong> since this server shutdown
