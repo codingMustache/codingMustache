@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A man walks into a bar and orders helicopter flavor chips. The barman replies “sorry mate we only do plain”
+What has a bed that you can’t sleep in? A river.
 
 
 ## Daily Trivia
 
-Which data structure does FILO apply to?
- 1. Stack
- 2. Queue
- 3. Heap
- 4. Tree
+What major programming language does Unreal Engine 4 use?
+ 1. Assembly
+ 2. C++
+ 3. C#
+ 4. ECMAScript
 
 <details>
   <summary>Answer</summary>
-  Stack
+  C++
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  10 hours 49 minutes</strong> since this server shutdown
+Its been <strong>4 days  11 hours 19 minutes</strong> since this server shutdown
