@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was the robot angry? Because someone kept pressing his buttons!
+They say Dodger Stadium can hold up to fifty-six thousand people, but that is just a ballpark figure.
 
 
 ## Daily Trivia
 
-What does &quot;LCD&quot; stand for?
- 1. Language Control Design
- 2. Last Common Difference
- 3. Long Continuous Design
- 4. Liquid Crystal Display
+Which kind of algorithm is Ron Rivest not famous for creating?
+ 1. Hashing algorithm
+ 2. Stream cipher
+ 3. Secret sharing scheme
+ 4. Asymmetric encryption
 
 <details>
   <summary>Answer</summary>
-  Liquid Crystal Display
+  Secret sharing scheme
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  5 hours 49 minutes</strong> since this server shutdown
+Its been <strong>4 days  6 hours 19 minutes</strong> since this server shutdown
