@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you make a water bed more bouncy. You use Spring Water
+How does a dyslexic poet write? Inverse.
 
 
 ## Daily Trivia
 
-The name of technology company HP stands for what?
- 1. Howard Packmann
- 2. Husker-Pollosk
- 3. Hellman-Pohl
- 4. Hewlett-Packard
+What does the International System of Quantities refer 1024 bytes as?
+ 1. Kylobyte
+ 2. Kilobyte
+ 3. Kelobyte
+ 4. Kibibyte
 
 <details>
   <summary>Answer</summary>
-  Hewlett-Packard
+  Kibibyte
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  1 hours 19 minutes</strong> since this server shutdown
+Its been <strong>5 days  1 hours 49 minutes</strong> since this server shutdown
