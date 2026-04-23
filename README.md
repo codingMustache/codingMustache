@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was the robot angry? Because someone kept pressing his buttons!
+New atoms frequently lose electrons when they fail to keep an ion them.
 
 
 ## Daily Trivia
 
-Which of these names was an actual codename for a cancelled Microsoft project?
- 1. Saturn
- 2. Pollux
- 3. Enceladus
- 4. Neptune
+The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
+ 1. Sinclair Research
+ 2. Acorn Computers
+ 3. Amstrad PLC
+ 4. Commodore Business Machines
 
 <details>
   <summary>Answer</summary>
-  Neptune
+  Acorn Computers
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days 19 minutes</strong> since this server shutdown
+Its been <strong>5 days 49 minutes</strong> since this server shutdown
