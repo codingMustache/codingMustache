@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I saw my husband trip and fall while carrying a laundry basket full of ironed clothes. I watched it all unfold.
+Why did the fireman wear red, white, and blue suspenders? To hold his pants up.
 
 
 ## Daily Trivia
 
-When did the online streaming service &quot;Mixer&quot; launch?
- 1. 2016
- 2. 2009
- 3. 2011
- 4. 2013
+Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
+ 1. Enigma Machine
+ 2. Skipjack
+ 3. Clipper Chip
+ 4. Nautilus
 
 <details>
   <summary>Answer</summary>
-  2016
+  Clipper Chip
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  22 hours 49 minutes</strong> since this server shutdown
+Its been <strong>4 days  23 hours 19 minutes</strong> since this server shutdown
