@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Last night me and my girlfriend watched three DVDs back to back. Luckily I was the one facing the TV.
+I dreamed about drowning in an ocean made out of orange soda last night. It took me a while to work out it was just a Fanta sea.
 
 
 ## Daily Trivia
 
-Which of the following computer components can be built using only NAND gates?
- 1. CPU
- 2. RAM
- 3. ALU
- 4. Register
+On which day did the World Wide Web go online?
+ 1. November 24, 1995
+ 2. December 17, 1996
+ 3. November 12, 1990
+ 4. December 20, 1990
 
 <details>
   <summary>Answer</summary>
-  ALU
+  December 20, 1990
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  18 hours 19 minutes</strong> since this server shutdown
+Its been <strong>4 days  18 hours 49 minutes</strong> since this server shutdown
