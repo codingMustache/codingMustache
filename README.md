@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I remember when I was a kid, I opened my fridge and noticed one of my vegetables were crying. I guess I have some emotional cabbage.
+Why do cows wear bells? Because their horns don't work.
 
 
 ## Daily Trivia
 
-What does GHz stand for?
- 1. Gigahatz
- 2. Gigahetz
- 3. Gigahertz
- 4. Gigahotz
+Which of the following computer components can be built using only NAND gates?
+ 1. ALU
+ 2. CPU
+ 3. RAM
+ 4. Register
 
 <details>
   <summary>Answer</summary>
-  Gigahertz
+  ALU
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  6 hours 49 minutes</strong> since this server shutdown
+Its been <strong>4 days  7 hours 19 minutes</strong> since this server shutdown
