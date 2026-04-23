@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many optometrists does it take to change a light bulb? 1 or 2? 1... or 2?
+Yesterday I confused the words "jacuzzi" and "yakuza". Now I'm in hot water with the Japanese mafia.
 
 
 ## Daily Trivia
 
-In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
- 1. Green
- 2. Yellow
- 3. Blue
- 4. Red
+What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
+ 1. Skylake
+ 2. Coffee Lake
+ 3. Sandy Bridge
+ 4. Broadwell
 
 <details>
   <summary>Answer</summary>
-  Green
+  Coffee Lake
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  14 hours 19 minutes</strong> since this server shutdown
+Its been <strong>4 days  14 hours 49 minutes</strong> since this server shutdown
