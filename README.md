@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts.
+When will the little snake arrive? I don't know but he won't be long...
 
 
 ## Daily Trivia
 
-What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
- 1. Transport
- 2. Network
- 3. Data link
- 4. Session
+What is known as &quot;the brain&quot; of the Computer?
+ 1. Keyboard
+ 2. Graphics Processing Unit
+ 3. Central Processing Unit
+ 4. Motherboard
 
 <details>
   <summary>Answer</summary>
-  Transport
+  Central Processing Unit
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  21 hours 19 minutes</strong> since this server shutdown
+Its been <strong>4 days  21 hours 49 minutes</strong> since this server shutdown
