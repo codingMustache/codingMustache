@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do crabs never give to charity? Because they’re shellfish.
+There’s a new type of broom out, it’s sweeping the nation.
 
 
 ## Daily Trivia
 
-What does the &#039;S&#039; in the RSA encryption algorithm stand for?
- 1. Schottky
- 2. Shamir
- 3. Stable
- 4. Secure
+What is the domain name for the country Tuvalu?
+ 1. .tl
+ 2. .tt
+ 3. .tu
+ 4. .tv
 
 <details>
   <summary>Answer</summary>
-  Shamir
+  .tv
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  11 hours 49 minutes</strong> since this server shutdown
+Its been <strong>4 days  12 hours 19 minutes</strong> since this server shutdown
