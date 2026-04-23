@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How does a dyslexic poet write? Inverse.
+The best time on a clock is 6:30--hands down.
 
 
 ## Daily Trivia
 
-What does the International System of Quantities refer 1024 bytes as?
- 1. Kylobyte
- 2. Kilobyte
- 3. Kelobyte
- 4. Kibibyte
+Laserjet and inkjet printers are both examples of what type of printer?
+ 1. Impact printer
+ 2. Daisywheel printer
+ 3. Non-impact printer
+ 4. Dot matrix printer
 
 <details>
   <summary>Answer</summary>
-  Kibibyte
+  Non-impact printer
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  1 hours 49 minutes</strong> since this server shutdown
+Its been <strong>5 days  2 hours 19 minutes</strong> since this server shutdown
