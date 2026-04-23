@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My boss told me that he was going to fire the person with the worst posture. I have a hunch, it might be me.
+Why was the robot angry? Because someone kept pressing his buttons!
 
 
 ## Daily Trivia
 
-What does the International System of Quantities refer 1024 bytes as?
- 1. Kibibyte
- 2. Kylobyte
- 3. Kelobyte
- 4. Kilobyte
+Which of these names was an actual codename for a cancelled Microsoft project?
+ 1. Saturn
+ 2. Pollux
+ 3. Enceladus
+ 4. Neptune
 
 <details>
   <summary>Answer</summary>
-  Kibibyte
+  Neptune
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  23 hours 49 minutes</strong> since this server shutdown
+Its been <strong>5 days 19 minutes</strong> since this server shutdown
