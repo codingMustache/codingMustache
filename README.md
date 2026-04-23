@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do cows not have toes? They lactose!
+Why don't skeletons ride roller coasters? They don't have the stomach for it.
 
 
 ## Daily Trivia
 
-The C programming language was created by this American computer scientist. 
- 1. Tim Berners Lee
- 2. al-Khwārizmī
- 3. Willis Ware
- 4. Dennis Ritchie
+What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
+ 1. Skylake
+ 2. Coffee Lake
+ 3. Broadwell
+ 4. Sandy Bridge
 
 <details>
   <summary>Answer</summary>
-  Dennis Ritchie
+  Coffee Lake
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  15 hours 49 minutes</strong> since this server shutdown
+Its been <strong>4 days  16 hours 19 minutes</strong> since this server shutdown
