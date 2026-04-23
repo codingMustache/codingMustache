@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a crowd of chess players bragging about their wins in a hotel lobby? Chess nuts boasting in an open foyer.
+Did you know you should always take an extra pair of pants golfing? Just in case you get a hole in one.
 
 
 ## Daily Trivia
 
-What programming language was GitHub written in?
- 1. Ruby
- 2. Lua
- 3. Python
- 4. JavaScript
+Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
+ 1. 32.0 kHz
+ 2. 1.5 MHz
+ 3. 20.5 kHz
+ 4. 44.1 kHz
 
 <details>
   <summary>Answer</summary>
-  Ruby
+  44.1 kHz
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  17 hours 19 minutes</strong> since this server shutdown
+Its been <strong>4 days  17 hours 49 minutes</strong> since this server shutdown
