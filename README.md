@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Two silk worms had a race. They ended up in a tie.
+How does a French skeleton say hello? Bone-jour.
 
 
 ## Daily Trivia
 
-How long is an IPv6 address?
- 1. 128 bytes
- 2. 128 bits
- 3. 64 bits
- 4. 32 bits
+What did the name of the Tor Anonymity Network orignially stand for?
+ 1. The Only Router
+ 2. The Onion Router
+ 3. The Ominous Router
+ 4. The Orange Router
 
 <details>
   <summary>Answer</summary>
-  128 bits
+  The Onion Router
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  9 hours 19 minutes</strong> since this server shutdown
+Its been <strong>4 days  9 hours 49 minutes</strong> since this server shutdown
