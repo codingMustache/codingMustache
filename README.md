@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do cows wear bells? Because their horns don't work.
+What do you call a dad that has fallen through the ice? A Popsicle.
 
 
 ## Daily Trivia
 
-Which of the following computer components can be built using only NAND gates?
- 1. ALU
- 2. CPU
- 3. RAM
- 4. Register
+Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
+ 1. Puma
+ 2. Tiger
+ 3. Leopard
+ 4. Cheetah
 
 <details>
   <summary>Answer</summary>
-  ALU
+  Cheetah
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  7 hours 19 minutes</strong> since this server shutdown
+Its been <strong>4 days  7 hours 49 minutes</strong> since this server shutdown
