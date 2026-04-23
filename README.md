@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The best time on a clock is 6:30--hands down.
+What kind of pants do ghosts wear? Boo jeans.
 
 
 ## Daily Trivia
 
-Laserjet and inkjet printers are both examples of what type of printer?
- 1. Impact printer
- 2. Daisywheel printer
- 3. Non-impact printer
- 4. Dot matrix printer
+What is the domain name for the country Tuvalu?
+ 1. .tv
+ 2. .tu
+ 3. .tt
+ 4. .tl
 
 <details>
   <summary>Answer</summary>
-  Non-impact printer
+  .tv
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  2 hours 19 minutes</strong> since this server shutdown
+Its been <strong>5 days  2 hours 49 minutes</strong> since this server shutdown
