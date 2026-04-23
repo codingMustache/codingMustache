@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-They say Dodger Stadium can hold up to fifty-six thousand people, but that is just a ballpark figure.
+I remember when I was a kid, I opened my fridge and noticed one of my vegetables were crying. I guess I have some emotional cabbage.
 
 
 ## Daily Trivia
 
-Which kind of algorithm is Ron Rivest not famous for creating?
- 1. Hashing algorithm
- 2. Stream cipher
- 3. Secret sharing scheme
- 4. Asymmetric encryption
+What does GHz stand for?
+ 1. Gigahatz
+ 2. Gigahetz
+ 3. Gigahertz
+ 4. Gigahotz
 
 <details>
   <summary>Answer</summary>
-  Secret sharing scheme
+  Gigahertz
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  6 hours 19 minutes</strong> since this server shutdown
+Its been <strong>4 days  6 hours 49 minutes</strong> since this server shutdown
