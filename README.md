@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A Skeleton walked into a bar he said I need a beer and a mop
+I saw my husband trip and fall while carrying a laundry basket full of ironed clothes. I watched it all unfold.
 
 
 ## Daily Trivia
 
-The Harvard architecture for micro-controllers added which additional bus?
- 1. Data
- 2. Address
- 3. Instruction
- 4. Control
+When did the online streaming service &quot;Mixer&quot; launch?
+ 1. 2016
+ 2. 2009
+ 3. 2011
+ 4. 2013
 
 <details>
   <summary>Answer</summary>
-  Instruction
+  2016
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  22 hours 19 minutes</strong> since this server shutdown
+Its been <strong>4 days  22 hours 49 minutes</strong> since this server shutdown
