@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How does a French skeleton say hello? Bone-jour.
+Last night me and my girlfriend watched three DVDs back to back. Luckily I was the one facing the TV.
 
 
 ## Daily Trivia
 
-What did the name of the Tor Anonymity Network orignially stand for?
- 1. The Only Router
- 2. The Onion Router
- 3. The Ominous Router
- 4. The Orange Router
+In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
+ 1. absolute
+ 2. static
+ 3. relative
+ 4. center
 
 <details>
   <summary>Answer</summary>
-  The Onion Router
+  center
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  9 hours 49 minutes</strong> since this server shutdown
+Its been <strong>4 days  10 hours 19 minutes</strong> since this server shutdown
