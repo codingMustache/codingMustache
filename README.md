@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-An apple a day keeps the bullies away. If you throw it hard enough.
+Two silk worms had a race. They ended up in a tie.
 
 
 ## Daily Trivia
 
-Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
- 1. Clipper Chip
- 2. Enigma Machine
- 3. Skipjack
- 4. Nautilus
+How long is an IPv6 address?
+ 1. 128 bytes
+ 2. 128 bits
+ 3. 64 bits
+ 4. 32 bits
 
 <details>
   <summary>Answer</summary>
-  Clipper Chip
+  128 bits
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  8 hours 49 minutes</strong> since this server shutdown
+Its been <strong>4 days  9 hours 19 minutes</strong> since this server shutdown
