@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Whenever the cashier at the grocery store asks my dad if he would like the milk in a bag he replies, ‘No, just leave it in the carton!’
+An apple a day keeps the bullies away. If you throw it hard enough.
 
 
 ## Daily Trivia
 
-Which computer hardware device provides an interface for all other connected devices to communicate?
- 1. Motherboard
- 2. Random Access Memory
- 3. Hard Disk Drive
- 4. Central Processing Unit
+Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
+ 1. Clipper Chip
+ 2. Enigma Machine
+ 3. Skipjack
+ 4. Nautilus
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  Clipper Chip
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  8 hours 19 minutes</strong> since this server shutdown
+Its been <strong>4 days  8 hours 49 minutes</strong> since this server shutdown
