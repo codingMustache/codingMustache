@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to work for an origami company but they folded.
+How do you organize a space party? You planet.
 
 
 ## Daily Trivia
 
-What does the term MIME stand for, in regards to computing?
- 1. Mail Internet Mail Exchange
- 2. Mail Interleave Method Exchange
- 3. Multipurpose Internet Mail Extensions
- 4. Multipurpose Interleave Mail Exchange
+Who is the original author of the realtime physics engine called PhysX?
+ 1. NovodeX
+ 2. AMD
+ 3. Nvidia
+ 4. Ageia
 
 <details>
   <summary>Answer</summary>
-  Multipurpose Internet Mail Extensions
+  NovodeX
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  15 hours 49 minutes</strong> since this server shutdown
+Its been <strong>5 days  16 hours 19 minutes</strong> since this server shutdown
