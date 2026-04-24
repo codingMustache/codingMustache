@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-For Valentine's day, I decided to get my wife some beads for an abacus.  It's the little things that count.
+I just wrote a book on reverse psychology. Do not read it!
 
 
 ## Daily Trivia
 
-Which of the following physical typologies are used with Ethernet Networks?
- 1. Mesh
- 2. Ring
- 3. Star
- 4. Hex
+What does the &quot;MP&quot; stand for in MP3?
+ 1. Music Player
+ 2. Multi Pass
+ 3. Micro Point
+ 4. Moving Picture
 
 <details>
   <summary>Answer</summary>
-  Star
+  Moving Picture
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  9 hours 49 minutes</strong> since this server shutdown
+Its been <strong>5 days  10 hours 19 minutes</strong> since this server shutdown
