@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the cookie cry? It was feeling crumby.
+"Dad, do you think it's going to snow this winter?" "I dont know, its all up in the air"
 
 
 ## Daily Trivia
 
-What does the &#039;S&#039; in the RSA encryption algorithm stand for?
- 1. Shamir
- 2. Secure
- 3. Schottky
- 4. Stable
+Which computer hardware device provides an interface for all other connected devices to communicate?
+ 1. Central Processing Unit
+ 2. Random Access Memory
+ 3. Motherboard
+ 4. Hard Disk Drive
 
 <details>
   <summary>Answer</summary>
-  Shamir
+  Motherboard
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  12 hours 49 minutes</strong> since this server shutdown
+Its been <strong>5 days  13 hours 19 minutes</strong> since this server shutdown
