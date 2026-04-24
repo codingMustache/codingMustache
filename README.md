@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-When my wife told me to stop impersonating a flamingo, I had to put my foot down.
+My boss told me that he was going to fire the person with the worst posture. I have a hunch, it might be me.
 
 
 ## Daily Trivia
 
-America Online (AOL) started out as which of these online service providers?
- 1. Quantum Link
- 2. GEnie
- 3. Prodigy
- 4. CompuServe
+Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
+ 1. Overstock
+ 2. eBay
+ 3. Shopify
+ 4. Amazon
 
 <details>
   <summary>Answer</summary>
-  Quantum Link
+  Amazon
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  14 hours 19 minutes</strong> since this server shutdown
+Its been <strong>5 days  14 hours 49 minutes</strong> since this server shutdown
