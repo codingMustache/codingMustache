@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did Romans use to cut pizza before the rolling cutter was invented? Lil Caesars
+Two muffins were sitting in an oven, and the first looks over to the second, and says, “man, it’s really hot in here”. The second looks over at the first with a surprised look, and answers, “WHOA, a talking muffin!”
 
 
 ## Daily Trivia
 
-In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
- 1. Blue
- 2. Red
- 3. Yellow
- 4. Green
+How many bits are commonly in a single byte?
+ 1. Eight bits
+ 2. Twelve bits
+ 3. Six bits
+ 4.  Fifteen bits
 
 <details>
   <summary>Answer</summary>
-  Green
+  Eight bits
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  22 hours 49 minutes</strong> since this server shutdown
+Its been <strong>5 days  23 hours 19 minutes</strong> since this server shutdown
