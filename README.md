@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to think I was indecisive, but now I'm not sure.
+For Valentine's day, I decided to get my wife some beads for an abacus.  It's the little things that count.
 
 
 ## Daily Trivia
 
-What is the number of keys on a standard Windows Keyboard?
- 1. 76
- 2. 94
- 3. 104
- 4. 64
+Which of the following physical typologies are used with Ethernet Networks?
+ 1. Mesh
+ 2. Ring
+ 3. Star
+ 4. Hex
 
 <details>
   <summary>Answer</summary>
-  104
+  Star
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  9 hours 19 minutes</strong> since this server shutdown
+Its been <strong>5 days  9 hours 49 minutes</strong> since this server shutdown
