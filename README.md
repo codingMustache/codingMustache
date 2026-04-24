@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I don't trust stairs. They're always up to something.
+When my wife told me to stop impersonating a flamingo, I had to put my foot down.
 
 
 ## Daily Trivia
 
-What is the number of keys on a standard Windows Keyboard?
- 1. 104
- 2. 94
- 3. 64
- 4. 76
+America Online (AOL) started out as which of these online service providers?
+ 1. Quantum Link
+ 2. GEnie
+ 3. Prodigy
+ 4. CompuServe
 
 <details>
   <summary>Answer</summary>
-  104
+  Quantum Link
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  13 hours 49 minutes</strong> since this server shutdown
+Its been <strong>5 days  14 hours 19 minutes</strong> since this server shutdown
