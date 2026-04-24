@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take.
+Do you know where you can get chicken broth in bulk? The stock market.
 
 
 ## Daily Trivia
 
-How many kilobytes in one gigabyte (in decimal)?
- 1. 1000
- 2. 1000000
- 3. 1048576
- 4. 1024
+What is the most preferred image format used for logos in the Wikimedia database?
+ 1. .png
+ 2. .jpeg
+ 3. .svg
+ 4. .gif
 
 <details>
   <summary>Answer</summary>
-  1000000
+  .svg
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  11 hours 19 minutes</strong> since this server shutdown
+Its been <strong>5 days  11 hours 49 minutes</strong> since this server shutdown
