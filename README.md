@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the fireman wear red, white, and blue suspenders? To hold his pants up.
+Doctor you've got you help me, I'm addicted to twitter. Doctor: I don't follow you.
 
 
 ## Daily Trivia
 
-How many bits make up the significand portion of a single precision floating point number?
- 1. 23
- 2. 8
- 3. 53
- 4. 15
+What does &quot;LCD&quot; stand for?
+ 1. Liquid Crystal Display
+ 2. Language Control Design
+ 3. Last Common Difference
+ 4. Long Continuous Design
 
 <details>
   <summary>Answer</summary>
-  23
+  Liquid Crystal Display
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  18 hours 49 minutes</strong> since this server shutdown
+Its been <strong>5 days  19 hours 19 minutes</strong> since this server shutdown
