@@ -6,25 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to work at a stationery store.  But, I didn't feel like I was going anywhere.
-
-So, I got a job at a travel agency.  Now, I know I'll be going places.
+Why did the fireman wear red, white, and blue suspenders? To hold his pants up.
 
 
 ## Daily Trivia
 
-What language does Node.js use?
- 1. Java Source
- 2. JavaScript
- 3. Joomla Source Code
- 4. Java
+How many bits make up the significand portion of a single precision floating point number?
+ 1. 23
+ 2. 8
+ 3. 53
+ 4. 15
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  23
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  18 hours 19 minutes</strong> since this server shutdown
+Its been <strong>5 days  18 hours 49 minutes</strong> since this server shutdown
