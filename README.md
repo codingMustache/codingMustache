@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is the tallest building in the world? The library – it’s got the most stories!
+I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take.
 
 
 ## Daily Trivia
 
-What port does HTTP run on?
- 1. 23
- 2. 443
- 3. 53
- 4. 80
+How many kilobytes in one gigabyte (in decimal)?
+ 1. 1000
+ 2. 1000000
+ 3. 1048576
+ 4. 1024
 
 <details>
   <summary>Answer</summary>
-  80
+  1000000
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  10 hours 49 minutes</strong> since this server shutdown
+Its been <strong>5 days  11 hours 19 minutes</strong> since this server shutdown
