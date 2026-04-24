@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A man got hit in the head with a can of Coke, but he was alright because it was a soft drink.
+Doctor you've got to help me, I'm addicted to Twitter. Doctor: I don't follow you.
 
 
 ## Daily Trivia
 
-Which of the following physical typologies are used with Ethernet Networks?
- 1. Ring
- 2. Mesh
- 3. Hex
- 4. Star
+When Gmail first launched, how much storage did it provide for your email?
+ 1. 512MB
+ 2. 5GB
+ 3. Unlimited
+ 4. 1GB
 
 <details>
   <summary>Answer</summary>
-  Star
+  1GB
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days 49 minutes</strong> since this server shutdown
+Its been <strong>6 days  1 hours 19 minutes</strong> since this server shutdown
