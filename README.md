@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Thanks for explaining the word "many" to me. It means a lot.
+How many kids with ADD does it take to change a lightbulb? Let's go ride bikes!
 
 
 ## Daily Trivia
 
-Generally, which component of a computer draws the most power?
- 1. Processor
- 2. Hard Drive
- 3. Power Supply
- 4. Video Card
+Which of these is not a key value of Agile software development?
+ 1. Comprehensive documentation
+ 2. Individuals and interactions
+ 3. Customer collaboration
+ 4. Responding to change
 
 <details>
   <summary>Answer</summary>
-  Video Card
+  Comprehensive documentation
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  2 hours 19 minutes</strong> since this server shutdown
+Its been <strong>6 days  2 hours 49 minutes</strong> since this server shutdown
