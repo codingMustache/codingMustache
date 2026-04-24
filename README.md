@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do computers and air conditioners have in common? They both become useless when you open windows.
+What did the Zen Buddist say to the hotdog vendor? Make me one with everything.
 
 
 ## Daily Trivia
 
-What is the number of keys on a standard Windows Keyboard?
- 1. 76
- 2. 104
- 3. 94
- 4. 64
+Which of the following is a personal computer made by the Japanese company Fujitsu?
+ 1. PC-9801
+ 2. Xmillennium 
+ 3. FM-7
+ 4. MSX
 
 <details>
   <summary>Answer</summary>
-  104
+  FM-7
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  23 hours 49 minutes</strong> since this server shutdown
+Its been <strong>6 days 19 minutes</strong> since this server shutdown
