@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Somebody stole my Microsoft Office and they're going to pay - you have my Word.
+A beekeeper was indicted after he confessed to years of stealing at work. They charged him with emBEEzlement
 
 
 ## Daily Trivia
 
-The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
- 1. China (People&#039;s Republic of)
- 2. Germany
- 3. Taiwan
- 4. United States
+What does AD stand for in relation to Windows Operating Systems? 
+ 1. Active Department
+ 2. Automated Database
+ 3. Active Directory
+ 4. Alternative Drive
 
 <details>
   <summary>Answer</summary>
-  Taiwan
+  Active Directory
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  20 hours 19 minutes</strong> since this server shutdown
+Its been <strong>5 days  20 hours 49 minutes</strong> since this server shutdown
