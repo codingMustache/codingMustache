@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do crabs never give to charity? Because they’re shellfish.
+Why was ten scared of seven? Because seven ate nine.
 
 
 ## Daily Trivia
 
-What does the term MIME stand for, in regards to computing?
- 1. Multipurpose Internet Mail Extensions
- 2. Mail Interleave Method Exchange
- 3. Multipurpose Interleave Mail Exchange
- 4. Mail Internet Mail Exchange
+Which SQL keyword is used to fetch data from a database?
+ 1. INDEX
+ 2. VALUES
+ 3. EXEC
+ 4. SELECT
 
 <details>
   <summary>Answer</summary>
-  Multipurpose Internet Mail Extensions
+  SELECT
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  6 hours 19 minutes</strong> since this server shutdown
+Its been <strong>5 days  6 hours 49 minutes</strong> since this server shutdown
