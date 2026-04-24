@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the campsite that got visited by Bigfoot? It got in tents.
+Why do crabs never give to charity? Because they’re shellfish.
 
 
 ## Daily Trivia
 
-How many bytes are in a single Kibibyte?
- 1. 1240
- 2. 1000
- 3. 1024
- 4. 2400
+What does the term MIME stand for, in regards to computing?
+ 1. Multipurpose Internet Mail Extensions
+ 2. Mail Interleave Method Exchange
+ 3. Multipurpose Interleave Mail Exchange
+ 4. Mail Internet Mail Exchange
 
 <details>
   <summary>Answer</summary>
-  1024
+  Multipurpose Internet Mail Extensions
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  5 hours 49 minutes</strong> since this server shutdown
+Its been <strong>5 days  6 hours 19 minutes</strong> since this server shutdown
