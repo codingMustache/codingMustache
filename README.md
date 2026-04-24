@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was Pavlov's beard so soft?  Because he conditioned it.
+Somebody stole my Microsoft Office and they're going to pay - you have my Word.
 
 
 ## Daily Trivia
 
-What does the term GPU stand for?
- 1. Graphics Processing Unit
- 2. Graphical Proprietary Unit
- 3. Graphite Producing Unit
- 4. Gaming Processor Unit
+The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
+ 1. China (People&#039;s Republic of)
+ 2. Germany
+ 3. Taiwan
+ 4. United States
 
 <details>
   <summary>Answer</summary>
-  Graphics Processing Unit
+  Taiwan
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  19 hours 49 minutes</strong> since this server shutdown
+Its been <strong>5 days  20 hours 19 minutes</strong> since this server shutdown
