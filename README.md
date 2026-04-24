@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Dad, can you put my shoes on? I don't think they'll fit me.
+I used to think I was indecisive, but now I'm not sure.
 
 
 ## Daily Trivia
 
-What does CPU stand for?
- 1. Central Process Unit
- 2. Computer Personal Unit
- 3. Central Processor Unit
- 4. Central Processing Unit
+What is the number of keys on a standard Windows Keyboard?
+ 1. 76
+ 2. 94
+ 3. 104
+ 4. 64
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  104
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  8 hours 49 minutes</strong> since this server shutdown
+Its been <strong>5 days  9 hours 19 minutes</strong> since this server shutdown
