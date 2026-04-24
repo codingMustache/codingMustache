@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was ten scared of seven? Because seven ate nine.
+I saw my husband trip and fall while carrying a laundry basket full of ironed clothes. I watched it all unfold.
 
 
 ## Daily Trivia
 
-Which SQL keyword is used to fetch data from a database?
- 1. INDEX
- 2. VALUES
- 3. EXEC
- 4. SELECT
+What does the &#039;S&#039; in the RSA encryption algorithm stand for?
+ 1. Secure
+ 2. Schottky
+ 3. Shamir
+ 4. Stable
 
 <details>
   <summary>Answer</summary>
-  SELECT
+  Shamir
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  6 hours 49 minutes</strong> since this server shutdown
+Its been <strong>5 days  7 hours 19 minutes</strong> since this server shutdown
