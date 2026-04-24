@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of bagel can fly? A plain bagel.
+How was the snow globe feeling after the storm? A little shaken.
 
 
 ## Daily Trivia
 
-How fast is USB 3.1 Gen 2 theoretically?
- 1. 8 Gb/s
- 2. 5 Gb/s
- 3. 10 Gb/s
- 4. 1 Gb/s
+What kind of memory is used on memory cache?
+ 1. Flash
+ 2. DRAM
+ 3. ROM
+ 4. SRAM
 
 <details>
   <summary>Answer</summary>
-  10 Gb/s
+  SRAM
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  7 hours 49 minutes</strong> since this server shutdown
+Its been <strong>5 days  8 hours 19 minutes</strong> since this server shutdown
