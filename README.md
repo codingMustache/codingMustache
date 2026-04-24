@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A beekeeper was indicted after he confessed to years of stealing at work. They charged him with emBEEzlement
+A farmer had 297 cows, when he rounded them up, he found he had 300
 
 
 ## Daily Trivia
 
-What does AD stand for in relation to Windows Operating Systems? 
- 1. Active Department
- 2. Automated Database
- 3. Active Directory
- 4. Alternative Drive
+What major programming language does Unreal Engine 4 use?
+ 1. C#
+ 2. ECMAScript
+ 3. C++
+ 4. Assembly
 
 <details>
   <summary>Answer</summary>
-  Active Directory
+  C++
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  20 hours 49 minutes</strong> since this server shutdown
+Its been <strong>5 days  21 hours 19 minutes</strong> since this server shutdown
