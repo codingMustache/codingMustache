@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Doctor you've got to help me, I'm addicted to Twitter. Doctor: I don't follow you.
+My sea sickness comes in waves.
 
 
 ## Daily Trivia
 
-When Gmail first launched, how much storage did it provide for your email?
- 1. 512MB
- 2. 5GB
- 3. Unlimited
- 4. 1GB
+What kind of memory is used on memory cache?
+ 1. ROM
+ 2. Flash
+ 3. DRAM
+ 4. SRAM
 
 <details>
   <summary>Answer</summary>
-  1GB
+  SRAM
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  1 hours 19 minutes</strong> since this server shutdown
+Its been <strong>6 days  1 hours 49 minutes</strong> since this server shutdown
