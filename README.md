@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I thought about going on an all-almond diet. But that's just nuts.
+What does a pirate pay for his corn? A buccaneer!
 
 
 ## Daily Trivia
 
-What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
- 1. ADPCM Sampler
- 2. PCM Sampler
- 3. Programmable Sound Generator (PSG)
- 4. FM Synthesizer
+CMOS is tech used for constructing integrated circuits. What does CMOS stand for?
+ 1. Computer-made oscillating static
+ 2. Computer-made operating system
+ 3. Complementary metal&ndash;oxide&ndash;semiconductor
+ 4. Complementary magnetic-ohms-semiconductor
 
 <details>
   <summary>Answer</summary>
-  ADPCM Sampler
+  Complementary metal&ndash;oxide&ndash;semiconductor
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  7 hours 49 minutes</strong> since this server shutdown
+Its been <strong>6 days  8 hours 19 minutes</strong> since this server shutdown
