@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do fish keep their money? In the riverbank
+I considered building the patio by myself. But I didn't have the stones.
 
 
 ## Daily Trivia
 
-How many bits make up the significand portion of a single precision floating point number?
- 1. 8
- 2. 15
- 3. 53
- 4. 23
+In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
+ 1. center
+ 2. relative
+ 3. absolute
+ 4. static
 
 <details>
   <summary>Answer</summary>
-  23
+  center
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  19 hours 49 minutes</strong> since this server shutdown
+Its been <strong>6 days  20 hours 19 minutes</strong> since this server shutdown
