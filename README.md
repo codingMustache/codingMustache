@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Never take advice from electrons. They are always negative.
+Can February march? No, but April may.
 
 
 ## Daily Trivia
 
-What does the acronym CDN stand for in terms of networking?
- 1. Content Distribution Network
- 2. Computational Data Network
- 3. Compressed Data Network
- 4. Content Delivery Network
+What language does Node.js use?
+ 1. Java Source
+ 2. Joomla Source Code
+ 3. Java
+ 4. JavaScript
 
 <details>
   <summary>Answer</summary>
-  Content Delivery Network
+  JavaScript
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  3 hours 19 minutes</strong> since this server shutdown
+Its been <strong>7 days  3 hours 49 minutes</strong> since this server shutdown
