@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Sometimes I tuck my knees into my chest and lean forward.  That’s just how I roll.
+What do you call a troublesome Canadian high schooler? A poutine.
 
 
 ## Daily Trivia
 
-What is the name of Layer 7 of the OSI model?
- 1. Session
- 2. Application
- 3. Network
- 4. Present
+In computing, what does MIDI stand for?
+ 1. Musical Instrument Data Interface
+ 2. Musical Interface of Digital Instruments
+ 3. Musical Instrument Digital Interface
+ 4. Modular Interface of Digital Instruments
 
 <details>
   <summary>Answer</summary>
-  Application
+  Musical Instrument Digital Interface
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  18 hours 19 minutes</strong> since this server shutdown
+Its been <strong>6 days  18 hours 49 minutes</strong> since this server shutdown
