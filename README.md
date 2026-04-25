@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where did Captain Hook get his hook? From a second hand store.
+Leather is great for sneaking around because it's made of hide.
 
 
 ## Daily Trivia
 
-CMOS is tech used for constructing integrated circuits. What does CMOS stand for?
- 1. Computer-made operating system
- 2. Complementary magnetic-ohms-semiconductor
- 3. Computer-made oscillating static
- 4. Complementary metal&ndash;oxide&ndash;semiconductor
+What was the name of the first Bulgarian personal computer?
+ 1. Pravetz 82
+ 2. Pravetz 8D
+ 3. IZOT 1030
+ 4. IMKO-1
 
 <details>
   <summary>Answer</summary>
-  Complementary metal&ndash;oxide&ndash;semiconductor
+  IMKO-1
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  20 hours 49 minutes</strong> since this server shutdown
+Its been <strong>6 days  21 hours 19 minutes</strong> since this server shutdown
