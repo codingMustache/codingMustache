@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the tree go to the dentist? It needed a root canal.
+Some people say that comedians who tell one too many light bulb jokes soon burn out, but they don't know watt they are talking about. They're not that bright.
 
 
 ## Daily Trivia
 
-Who is the founder of Palantir?
- 1. Peter Thiel
- 2. Jack Dorsey
- 3. Marc Benioff
- 4. Mark Zuckerberg
+What internet protocol was documented in RFC 1459?
+ 1. FTP
+ 2. HTTPS
+ 3. HTTP
+ 4. IRC
 
 <details>
   <summary>Answer</summary>
-  Peter Thiel
+  IRC
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  9 hours 49 minutes</strong> since this server shutdown
+Its been <strong>6 days  10 hours 19 minutes</strong> since this server shutdown
