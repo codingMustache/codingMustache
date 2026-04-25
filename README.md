@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I was thinking about moving to Moscow but there is no point Russian into things.
+Why do birds fly south for the winter? Because it's too far to walk.
 
 
 ## Daily Trivia
 
-Which SQL keyword is used to fetch data from a database?
- 1. EXEC
- 2. SELECT
- 3. VALUES
- 4. INDEX
+How many bits make up the significand portion of a single precision floating point number?
+ 1. 8
+ 2. 53
+ 3. 15
+ 4. 23
 
 <details>
   <summary>Answer</summary>
-  SELECT
+  23
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  4 hours 19 minutes</strong> since this server shutdown
+Its been <strong>6 days  4 hours 49 minutes</strong> since this server shutdown
