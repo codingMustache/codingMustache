@@ -6,23 +6,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Leather is great for sneaking around because it's made of hide.
+I fear for the calendar, its days are numbered.
+
 
 
 ## Daily Trivia
 
-What was the name of the first Bulgarian personal computer?
- 1. Pravetz 82
- 2. Pravetz 8D
- 3. IZOT 1030
- 4. IMKO-1
+In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
+ 1. Static
+ 2. Private
+ 3. Public
+ 4. Final
 
 <details>
   <summary>Answer</summary>
-  IMKO-1
+  Final
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  21 hours 19 minutes</strong> since this server shutdown
+Its been <strong>6 days  21 hours 49 minutes</strong> since this server shutdown
