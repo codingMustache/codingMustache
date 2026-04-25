@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you know that ghosts call their true love their ghoul-friend?
+What do you call a snake who builds houses? A boa constructor!
 
 
 ## Daily Trivia
 
-What is the commonly used keyboard shortcut for the &#039;Copy&#039; function on Windows OS?
- 1. Ctrl + X
- 2. Alt + C
- 3. Alt + X
- 4. Ctrl + C
+The name of technology company HP stands for what?
+ 1. Husker-Pollosk
+ 2. Hellman-Pohl
+ 3. Howard Packmann
+ 4. Hewlett-Packard
 
 <details>
   <summary>Answer</summary>
-  Ctrl + C
+  Hewlett-Packard
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  22 hours 19 minutes</strong> since this server shutdown
+Its been <strong>6 days  22 hours 49 minutes</strong> since this server shutdown
