@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a magician who has lost their magic? Ian.
+Just read a few facts about frogs. They were ribbiting.
 
 
 ## Daily Trivia
 
-Which of these is not a key value of Agile software development?
- 1. Responding to change
- 2. Customer collaboration
- 3. Individuals and interactions
- 4. Comprehensive documentation
+According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:
+ 1. A&#039;B + B&#039;A
+ 2. A&#039;B&#039;
+ 3. AB&#039; + AB
+ 4. A&#039; + B&#039;
 
 <details>
   <summary>Answer</summary>
-  Comprehensive documentation
+  A&#039; + B&#039;
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  1 hours 49 minutes</strong> since this server shutdown
+Its been <strong>7 days  2 hours 19 minutes</strong> since this server shutdown
