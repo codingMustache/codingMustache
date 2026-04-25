@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I considered building the patio by myself. But I didn't have the stones.
+Where did Captain Hook get his hook? From a second hand store.
 
 
 ## Daily Trivia
 
-In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
- 1. center
- 2. relative
- 3. absolute
- 4. static
+CMOS is tech used for constructing integrated circuits. What does CMOS stand for?
+ 1. Computer-made operating system
+ 2. Complementary magnetic-ohms-semiconductor
+ 3. Computer-made oscillating static
+ 4. Complementary metal&ndash;oxide&ndash;semiconductor
 
 <details>
   <summary>Answer</summary>
-  center
+  Complementary metal&ndash;oxide&ndash;semiconductor
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  20 hours 19 minutes</strong> since this server shutdown
+Its been <strong>6 days  20 hours 49 minutes</strong> since this server shutdown
