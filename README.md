@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I went on a date last night with a girl from the zoo. It was great. She’s a keeper.
+They say Dodger Stadium can hold up to fifty-six thousand people, but that is just a ballpark figure.
 
 
 ## Daily Trivia
 
-Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
- 1. Enigma Machine
- 2. Nautilus
- 3. Clipper Chip
- 4. Skipjack
+All of the following programs are classified as raster graphics editors EXCEPT:
+ 1. GIMP
+ 2. Paint.NET
+ 3. Inkscape
+ 4. Adobe Photoshop
 
 <details>
   <summary>Answer</summary>
-  Clipper Chip
+  Inkscape
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  23 hours 49 minutes</strong> since this server shutdown
+Its been <strong>7 days 19 minutes</strong> since this server shutdown
