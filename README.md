@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the man run around his bed? Because he was trying to catch up on his sleep!
+What do you call a guy lying on your doorstep? Matt.
 
 
 ## Daily Trivia
 
-Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
- 1. JavaScript
- 2. Python
- 3. PHP
- 4. C#
+What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
+ 1. CPU Vent
+ 2. Temperature Decipator
+ 3. Heat Vent
+ 4. Heat Sink
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  Heat Sink
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  8 hours 49 minutes</strong> since this server shutdown
+Its been <strong>6 days  9 hours 19 minutes</strong> since this server shutdown
