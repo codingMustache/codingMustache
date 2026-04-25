@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Whoever invented the knock-knock joke should get a no bell prize.
+Doctor you've got you help me, I'm addicted to twitter. Doctor: I don't follow you.
 
 
 ## Daily Trivia
 
-Which RAID array type is associated with data mirroring?
- 1. RAID 0
- 2. RAID 10
- 3. RAID 5
- 4. RAID 1
+What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
+ 1. Coffee Lake
+ 2. Sandy Bridge
+ 3. Skylake
+ 4. Broadwell
 
 <details>
   <summary>Answer</summary>
-  RAID 1
+  Coffee Lake
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days 49 minutes</strong> since this server shutdown
+Its been <strong>7 days  1 hours 19 minutes</strong> since this server shutdown
