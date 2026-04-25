@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a troublesome Canadian high schooler? A poutine.
+I had a dream that I was a muffler last night. I woke up exhausted!
 
 
 ## Daily Trivia
 
-In computing, what does MIDI stand for?
- 1. Musical Instrument Data Interface
- 2. Musical Interface of Digital Instruments
- 3. Musical Instrument Digital Interface
- 4. Modular Interface of Digital Instruments
+Which of the following computer components can be built using only NAND gates?
+ 1. CPU
+ 2. RAM
+ 3. Register
+ 4. ALU
 
 <details>
   <summary>Answer</summary>
-  Musical Instrument Digital Interface
+  ALU
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  18 hours 49 minutes</strong> since this server shutdown
+Its been <strong>6 days  19 hours 19 minutes</strong> since this server shutdown
