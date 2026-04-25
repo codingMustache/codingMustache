@@ -6,23 +6,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do birds fly south for the winter? Because it's too far to walk.
+What is red and smells like blue paint?
+Red paint!
 
 
 ## Daily Trivia
 
-How many bits make up the significand portion of a single precision floating point number?
- 1. 8
- 2. 53
- 3. 15
- 4. 23
+What was Bitcoin&#039;s block size limit in 2010?
+ 1. 1 MB
+ 2. 1GB
+ 3. 1 KB
+ 4. 1 TB
 
 <details>
   <summary>Answer</summary>
-  23
+  1 MB
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  4 hours 49 minutes</strong> since this server shutdown
+Its been <strong>6 days  5 hours 19 minutes</strong> since this server shutdown
