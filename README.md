@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the kid cross the playground? To get to the other slide.
+Somebody stole my Microsoft Office and they're going to pay - you have my Word.
 
 
 ## Daily Trivia
 
-Which of the following is a personal computer made by the Japanese company Fujitsu?
- 1. Xmillennium 
- 2. FM-7
- 3. PC-9801
- 4. MSX
+The C programming language was created by this American computer scientist. 
+ 1. Willis Ware
+ 2. Tim Berners Lee
+ 3. Dennis Ritchie
+ 4. al-Khwārizmī
 
 <details>
   <summary>Answer</summary>
-  FM-7
+  Dennis Ritchie
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  10 hours 49 minutes</strong> since this server shutdown
+Its been <strong>6 days  11 hours 19 minutes</strong> since this server shutdown
