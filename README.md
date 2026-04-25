@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Can February march? No, but April may.
+Never take advice from electrons. They are always negative.
 
 
 ## Daily Trivia
 
-Which SQL keyword is used to fetch data from a database?
- 1. INDEX
- 2. VALUES
- 3. EXEC
- 4. SELECT
+What does the acronym CDN stand for in terms of networking?
+ 1. Content Distribution Network
+ 2. Computational Data Network
+ 3. Compressed Data Network
+ 4. Content Delivery Network
 
 <details>
   <summary>Answer</summary>
-  SELECT
+  Content Delivery Network
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  2 hours 49 minutes</strong> since this server shutdown
+Its been <strong>7 days  3 hours 19 minutes</strong> since this server shutdown
