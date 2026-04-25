@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Can I watch the TV? Dad: Yes, but don’t turn it on.
+Did you hear the news? FedEx and UPS are merging. They’re going to go by the name Fed-Up from now on.
 
 
 ## Daily Trivia
 
-What does CPU stand for?
- 1. Central Processing Unit
- 2. Central Processor Unit
- 3. Computer Personal Unit
- 4. Central Process Unit
+What does the &#039;S&#039; in the RSA encryption algorithm stand for?
+ 1. Schottky
+ 2. Shamir
+ 3. Stable
+ 4. Secure
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  Shamir
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  16 hours 19 minutes</strong> since this server shutdown
+Its been <strong>6 days  16 hours 49 minutes</strong> since this server shutdown
