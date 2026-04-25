@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to work for a soft drink can crusher. It was soda pressing.
+What do you get when you cross a pig and a pineapple? A porky pine
 
 
 ## Daily Trivia
 
-How many bits are commonly in a single byte?
- 1. Eight bits
- 2.  Fifteen bits
- 3. Twelve bits
- 4. Six bits
+The acronym &quot;RIP&quot; stands for which of these?
+ 1. Regular Interval Processes
+ 2. Runtime Instance Processes
+ 3. Routing Information Protocol
+ 4. Routine Inspection Protocol
 
 <details>
   <summary>Answer</summary>
-  Eight bits
+  Routing Information Protocol
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  6 hours 49 minutes</strong> since this server shutdown
+Its been <strong>6 days  7 hours 19 minutes</strong> since this server shutdown
