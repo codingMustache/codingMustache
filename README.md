@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are fish easy to weigh? Because they have their own scales.
+Where do sheep go to get their hair cut? The baa-baa shop.
 
 
 ## Daily Trivia
 
-In programming, the ternary operator is mostly defined with what symbol(s)?
- 1. ?:
- 2. ??
- 3. if then
- 4. ?
+The acronym &quot;RIP&quot; stands for which of these?
+ 1. Regular Interval Processes
+ 2. Routine Inspection Protocol
+ 3. Runtime Instance Processes
+ 4. Routing Information Protocol
 
 <details>
   <summary>Answer</summary>
-  ?:
+  Routing Information Protocol
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  13 hours 19 minutes</strong> since this server shutdown
+Its been <strong>6 days  13 hours 49 minutes</strong> since this server shutdown
