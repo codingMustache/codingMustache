@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Some people say that comedians who tell one too many light bulb jokes soon burn out, but they don't know watt they are talking about. They're not that bright.
+Why did the kid cross the playground? To get to the other slide.
 
 
 ## Daily Trivia
 
-What internet protocol was documented in RFC 1459?
- 1. FTP
- 2. HTTPS
- 3. HTTP
- 4. IRC
+Which of the following is a personal computer made by the Japanese company Fujitsu?
+ 1. Xmillennium 
+ 2. FM-7
+ 3. PC-9801
+ 4. MSX
 
 <details>
   <summary>Answer</summary>
-  IRC
+  FM-7
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  10 hours 19 minutes</strong> since this server shutdown
+Its been <strong>6 days  10 hours 49 minutes</strong> since this server shutdown
