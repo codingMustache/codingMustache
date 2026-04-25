@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Somebody stole my Microsoft Office and they're going to pay - you have my Word.
+What's red and bad for your teeth? A Brick.
 
 
 ## Daily Trivia
 
-The C programming language was created by this American computer scientist. 
- 1. Willis Ware
- 2. Tim Berners Lee
- 3. Dennis Ritchie
- 4. al-Khwārizmī
+According to the International System of Units, how many bytes are in a kilobyte of RAM?
+ 1. 1000
+ 2. 500
+ 3. 1024
+ 4. 512
 
 <details>
   <summary>Answer</summary>
-  Dennis Ritchie
+  1000
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  11 hours 19 minutes</strong> since this server shutdown
+Its been <strong>6 days  11 hours 49 minutes</strong> since this server shutdown
