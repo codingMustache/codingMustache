@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why is no one friends with Dracula? Because he's a pain in the neck.
+I went on a date last night with a girl from the zoo. It was great. She’s a keeper.
 
 
 ## Daily Trivia
 
-CMOS is tech used for constructing integrated circuits. What does CMOS stand for?
- 1. Complementary magnetic-ohms-semiconductor
- 2. Computer-made operating system
- 3. Complementary metal&ndash;oxide&ndash;semiconductor
- 4. Computer-made oscillating static
+Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
+ 1. Enigma Machine
+ 2. Nautilus
+ 3. Clipper Chip
+ 4. Skipjack
 
 <details>
   <summary>Answer</summary>
-  Complementary metal&ndash;oxide&ndash;semiconductor
+  Clipper Chip
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  23 hours 19 minutes</strong> since this server shutdown
+Its been <strong>6 days  23 hours 49 minutes</strong> since this server shutdown
