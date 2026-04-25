@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I had a dream that I was a muffler last night. I woke up exhausted!
+Where do fish keep their money? In the riverbank
 
 
 ## Daily Trivia
 
-Which of the following computer components can be built using only NAND gates?
- 1. CPU
- 2. RAM
- 3. Register
- 4. ALU
+How many bits make up the significand portion of a single precision floating point number?
+ 1. 8
+ 2. 15
+ 3. 53
+ 4. 23
 
 <details>
   <summary>Answer</summary>
-  ALU
+  23
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  19 hours 19 minutes</strong> since this server shutdown
+Its been <strong>6 days  19 hours 49 minutes</strong> since this server shutdown
