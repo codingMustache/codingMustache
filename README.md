@@ -6,24 +6,25 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is red and smells like blue paint?
-Red paint!
+What's large, grey, and doesn't matter?
+An irrelephant.
+
 
 
 ## Daily Trivia
 
-What was Bitcoin&#039;s block size limit in 2010?
- 1. 1 MB
- 2. 1GB
- 3. 1 KB
- 4. 1 TB
+The numbering system with a radix of 16 is more commonly referred to as 
+ 1. Binary
+ 2. Duodecimal
+ 3. Octal
+ 4. Hexidecimal
 
 <details>
   <summary>Answer</summary>
-  1 MB
+  Hexidecimal
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  5 hours 19 minutes</strong> since this server shutdown
+Its been <strong>6 days  5 hours 49 minutes</strong> since this server shutdown
