@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Doctor you've got you help me, I'm addicted to twitter. Doctor: I don't follow you.
+What do you call a magician who has lost their magic? Ian.
 
 
 ## Daily Trivia
 
-What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
- 1. Coffee Lake
- 2. Sandy Bridge
- 3. Skylake
- 4. Broadwell
+Which of these is not a key value of Agile software development?
+ 1. Responding to change
+ 2. Customer collaboration
+ 3. Individuals and interactions
+ 4. Comprehensive documentation
 
 <details>
   <summary>Answer</summary>
-  Coffee Lake
+  Comprehensive documentation
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  1 hours 19 minutes</strong> since this server shutdown
+Its been <strong>7 days  1 hours 49 minutes</strong> since this server shutdown
