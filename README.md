@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why is it so windy inside an arena? All those fans.
+What did the big flower say to the littler flower? Hi, bud!
 
 
 ## Daily Trivia
 
-Which one of these is not an official development name for a Ubuntu release?
- 1. Mystic Mansion
- 2. Wily Werewolf
- 3. Utopic Unicorn
- 4. Trusty Tahr
+Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
+ 1. Clipper Chip
+ 2. Enigma Machine
+ 3. Skipjack
+ 4. Nautilus
 
 <details>
   <summary>Answer</summary>
-  Mystic Mansion
+  Clipper Chip
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  12 hours 49 minutes</strong> since this server shutdown
+Its been <strong>7 days  13 hours 19 minutes</strong> since this server shutdown
