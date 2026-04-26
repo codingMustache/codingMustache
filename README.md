@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the burglar hang his mugshot on the wall? To prove that he was framed!
+Have you heard of the band 1023MB? They haven't got a gig yet.
 
 
 ## Daily Trivia
 
-What is the name of the default theme that is installed with Windows XP?
- 1. Luna
- 2. Whistler
- 3. Bliss
- 4. Neptune
+Which computer language would you associate Django framework with?
+ 1. Python
+ 2. Java
+ 3. C++
+ 4. C#
 
 <details>
   <summary>Answer</summary>
-  Luna
+  Python
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  18 hours 19 minutes</strong> since this server shutdown
+Its been <strong>7 days  18 hours 49 minutes</strong> since this server shutdown
