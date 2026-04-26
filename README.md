@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How did Darth Vader know what Luke was getting for Christmas? He felt his presents.
+Wife told me to take the spider out instead of killing it... We had some drinks, cool guy, wants to be a web developer.
 
 
 ## Daily Trivia
 
-What is the commonly used keyboard shortcut for the &#039;Copy&#039; function on Windows OS?
- 1. Alt + X
- 2. Ctrl + X
- 3. Ctrl + C
- 4. Alt + C
+Which of these is not a layer in the OSI model for data communications?
+ 1. Application Layer
+ 2. Transport Layer
+ 3. Physical Layer
+ 4. Connection Layer
 
 <details>
   <summary>Answer</summary>
-  Ctrl + C
+  Connection Layer
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  7 hours 49 minutes</strong> since this server shutdown
+Its been <strong>7 days  8 hours 19 minutes</strong> since this server shutdown
