@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-If you think swimming with dolphins is expensive, you should try swimming with sharks--it cost me an arm and a leg!
+I got fired from the transmission factor, turns out I didn't put on enough shifts...
 
 
 ## Daily Trivia
 
-Which SQL keyword is used to fetch data from a database?
- 1. SELECT
- 2. VALUES
- 3. INDEX
- 4. EXEC
+What was Bitcoin&#039;s block size limit in 2010?
+ 1. 1 MB
+ 2. 1GB
+ 3. 1 KB
+ 4. 1 TB
 
 <details>
   <summary>Answer</summary>
-  SELECT
+  1 MB
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  14 hours 19 minutes</strong> since this server shutdown
+Its been <strong>7 days  14 hours 49 minutes</strong> since this server shutdown
