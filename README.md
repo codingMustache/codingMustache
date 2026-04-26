@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What’s brown and sounds like a bell? Dung!
+What did the dog say to the two trees? Bark bark.
 
 
 ## Daily Trivia
 
-What major programming language does Unreal Engine 4 use?
- 1. C++
- 2. ECMAScript
- 3. C#
- 4. Assembly
+Which operating system was released first?
+ 1. OS/2
+ 2. Linux
+ 3. Mac OS
+ 4. Windows
 
 <details>
   <summary>Answer</summary>
-  C++
+  Mac OS
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  2 hours 49 minutes</strong> since this server shutdown
+Its been <strong>8 days  3 hours 19 minutes</strong> since this server shutdown
