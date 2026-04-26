@@ -6,23 +6,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Two satellites decided to get married. The wedding wasn't much, but the reception was incredible.
+Why did the cookie cry?
+Because his mother was a wafer so long
 
 
 ## Daily Trivia
 
-In networking, what does OSPF stand for?
- 1. Open Shortest Path First
- 2. Order Sense Ping Find
- 3. Open Signal Path Finder
- 4. Order State Part First
+On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
+ 1. Dollar Sign
+ 2. Percent Sign
+ 3. Asterisk
+ 4. Exclamation Mark
 
 <details>
   <summary>Answer</summary>
-  Open Shortest Path First
+  Exclamation Mark
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  6 hours 49 minutes</strong> since this server shutdown
+Its been <strong>7 days  7 hours 19 minutes</strong> since this server shutdown
