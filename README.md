@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I accidentally drank a bottle of invisible ink. Now I’m in hospital, waiting to be seen.
+If you think swimming with dolphins is expensive, you should try swimming with sharks--it cost me an arm and a leg!
 
 
 ## Daily Trivia
 
-Whistler was the codename of this Microsoft Operating System.
- 1. Windows 2000
- 2. Windows 95
- 3. Windows XP
- 4. Windows 7
+Which SQL keyword is used to fetch data from a database?
+ 1. SELECT
+ 2. VALUES
+ 3. INDEX
+ 4. EXEC
 
 <details>
   <summary>Answer</summary>
-  Windows XP
+  SELECT
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  13 hours 49 minutes</strong> since this server shutdown
+Its been <strong>7 days  14 hours 19 minutes</strong> since this server shutdown
