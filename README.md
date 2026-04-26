@@ -6,16 +6,16 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the worker get fired from the orange juice factory? Lack of concentration.
+The other day, my wife asked me to pass her lipstick but I accidentally passed her a glue stick. She still isn't talking to me.
 
 
 ## Daily Trivia
 
-What was the first company to use the term &quot;Golden Master&quot;?
- 1. IBM
- 2. Microsoft
- 3. Google
- 4. Apple
+Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
+ 1. Microsoft
+ 2. Commodore
+ 3. Apple
+ 4. Atari
 
 <details>
   <summary>Answer</summary>
@@ -25,4 +25,4 @@ What was the first company to use the term &quot;Golden Master&quot;?
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  5 hours 49 minutes</strong> since this server shutdown
+Its been <strong>7 days  6 hours 19 minutes</strong> since this server shutdown
