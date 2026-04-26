@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many tickles does it take to tickle an octopus? Ten-tickles!
+I couldn't get a reservation at the library. They were completely booked.
 
 
 ## Daily Trivia
 
-What programming language was GitHub written in?
- 1. JavaScript
- 2. Python
- 3. Lua
- 4. Ruby
+What was the first company to use the term &quot;Golden Master&quot;?
+ 1. Google
+ 2. Apple
+ 3. Microsoft
+ 4. IBM
 
 <details>
   <summary>Answer</summary>
-  Ruby
+  Apple
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  8 hours 49 minutes</strong> since this server shutdown
+Its been <strong>7 days  9 hours 19 minutes</strong> since this server shutdown
