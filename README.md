@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the dog say to the two trees? Bark bark.
+I was just looking at my ceiling. Not sure if it’s the best ceiling in the world, but it’s definitely up there.
 
 
 ## Daily Trivia
 
-Which operating system was released first?
- 1. OS/2
- 2. Linux
- 3. Mac OS
- 4. Windows
+How many values can a single byte represent?
+ 1. 256
+ 2. 1024
+ 3. 8
+ 4. 1
 
 <details>
   <summary>Answer</summary>
-  Mac OS
+  256
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  3 hours 19 minutes</strong> since this server shutdown
+Its been <strong>8 days  3 hours 49 minutes</strong> since this server shutdown
