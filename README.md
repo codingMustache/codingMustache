@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Wife told me to take the spider out instead of killing it... We had some drinks, cool guy, wants to be a web developer.
+How many tickles does it take to tickle an octopus? Ten-tickles!
 
 
 ## Daily Trivia
 
-Which of these is not a layer in the OSI model for data communications?
- 1. Application Layer
- 2. Transport Layer
- 3. Physical Layer
- 4. Connection Layer
+What programming language was GitHub written in?
+ 1. JavaScript
+ 2. Python
+ 3. Lua
+ 4. Ruby
 
 <details>
   <summary>Answer</summary>
-  Connection Layer
+  Ruby
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  8 hours 19 minutes</strong> since this server shutdown
+Its been <strong>7 days  8 hours 49 minutes</strong> since this server shutdown
