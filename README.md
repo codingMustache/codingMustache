@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Today a girl said she recognized me from vegetarian club, but I’m sure I’ve never met herbivore.
+What do you get when you cross a snowman with a vampire? Frostbite.
 
 
 ## Daily Trivia
 
-What is the name of the process that sends one qubit of information using two bits of classical information?
- 1. Quantum Programming
- 2. Quantum Teleportation
- 3. Quantum Entanglement
- 4. Super Dense Coding
+In computing, what does MIDI stand for?
+ 1. Musical Instrument Data Interface
+ 2. Modular Interface of Digital Instruments
+ 3. Musical Instrument Digital Interface
+ 4. Musical Interface of Digital Instruments
 
 <details>
   <summary>Answer</summary>
-  Quantum Teleportation
+  Musical Instrument Digital Interface
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  16 hours 49 minutes</strong> since this server shutdown
+Its been <strong>7 days  17 hours 19 minutes</strong> since this server shutdown
