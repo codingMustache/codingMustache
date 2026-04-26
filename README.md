@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Frankenstein enters a bodybuilding competition and finds he has seriously misunderstood the objective.
+Where did Captain Hook get his hook? From a second hand store.
 
 
 ## Daily Trivia
 
-Which of the following is NOT a computer science algorithm?
- 1. Merge Sort
- 2. Bubble Sort
- 3. Quick Sort
- 4. Float Sort
+What does RAID stand for?
+ 1. Redundant Array of Independent Disks
+ 2. Randomized Abstract Identification Description
+ 3. Range of Applications with Identical Designs
+ 4. Rapid Access for Indexed Devices
 
 <details>
   <summary>Answer</summary>
-  Float Sort
+  Redundant Array of Independent Disks
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  23 hours 19 minutes</strong> since this server shutdown
+Its been <strong>7 days  23 hours 49 minutes</strong> since this server shutdown
