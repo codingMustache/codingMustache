@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where did Captain Hook get his hook? From a second hand store.
+Two peanuts were walking down the street. One was a salted.
 
 
 ## Daily Trivia
 
-What does RAID stand for?
- 1. Redundant Array of Independent Disks
- 2. Randomized Abstract Identification Description
- 3. Range of Applications with Identical Designs
- 4. Rapid Access for Indexed Devices
+According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:
+ 1. A&#039; + B&#039;
+ 2. AB&#039; + AB
+ 3. A&#039;B&#039;
+ 4. A&#039;B + B&#039;A
 
 <details>
   <summary>Answer</summary>
-  Redundant Array of Independent Disks
+  A&#039; + B&#039;
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  23 hours 49 minutes</strong> since this server shutdown
+Its been <strong>8 days 19 minutes</strong> since this server shutdown
