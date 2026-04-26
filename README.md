@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the opera singer go sailing? They wanted to hit the high Cs.
+My New Years resolution is to stop leaving things so late.
 
 
 ## Daily Trivia
 
-What does AD stand for in relation to Windows Operating Systems? 
- 1. Alternative Drive
- 2. Automated Database
- 3. Active Department
- 4. Active Directory
+In web design, what does CSS stand for?
+ 1. Cascading Style Sheet
+ 2. Computer Style Sheet
+ 3. Corrective Style Sheet
+ 4. Counter Strike: Source
 
 <details>
   <summary>Answer</summary>
-  Active Directory
+  Cascading Style Sheet
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  21 hours 19 minutes</strong> since this server shutdown
+Its been <strong>7 days  21 hours 49 minutes</strong> since this server shutdown
