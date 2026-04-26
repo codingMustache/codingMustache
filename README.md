@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Me and my mates are in a band called Duvet. We're a cover band.
+Why did the worker get fired from the orange juice factory? Lack of concentration.
 
 
 ## Daily Trivia
 
-The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
- 1. Amstrad PLC
- 2. Commodore Business Machines
- 3. Sinclair Research
- 4. Acorn Computers
+What was the first company to use the term &quot;Golden Master&quot;?
+ 1. IBM
+ 2. Microsoft
+ 3. Google
+ 4. Apple
 
 <details>
   <summary>Answer</summary>
-  Acorn Computers
+  Apple
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  5 hours 19 minutes</strong> since this server shutdown
+Its been <strong>7 days  5 hours 49 minutes</strong> since this server shutdown
