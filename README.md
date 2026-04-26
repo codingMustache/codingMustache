@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you get when you cross a snowman with a vampire? Frostbite.
+Why did the cookie cry? It was feeling crumby.
 
 
 ## Daily Trivia
 
-In computing, what does MIDI stand for?
- 1. Musical Instrument Data Interface
- 2. Modular Interface of Digital Instruments
- 3. Musical Instrument Digital Interface
- 4. Musical Interface of Digital Instruments
+What was the name given to Android 4.3?
+ 1. Nutella
+ 2. Froyo
+ 3. Jelly Bean
+ 4. Lollipop
 
 <details>
   <summary>Answer</summary>
-  Musical Instrument Digital Interface
+  Jelly Bean
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  17 hours 19 minutes</strong> since this server shutdown
+Its been <strong>7 days  17 hours 49 minutes</strong> since this server shutdown
