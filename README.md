@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the big flower say to the littler flower? Hi, bud!
+I accidentally drank a bottle of invisible ink. Now I’m in hospital, waiting to be seen.
 
 
 ## Daily Trivia
 
-Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
- 1. Clipper Chip
- 2. Enigma Machine
- 3. Skipjack
- 4. Nautilus
+Whistler was the codename of this Microsoft Operating System.
+ 1. Windows 2000
+ 2. Windows 95
+ 3. Windows XP
+ 4. Windows 7
 
 <details>
   <summary>Answer</summary>
-  Clipper Chip
+  Windows XP
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  13 hours 19 minutes</strong> since this server shutdown
+Its been <strong>7 days  13 hours 49 minutes</strong> since this server shutdown
