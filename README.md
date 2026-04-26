@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did Dracula lie in the wrong coffin? He made a grave mistake.
+What kind of music do planets listen to? Nep-tunes.
 
 
 ## Daily Trivia
 
-What was the first company to use the term &quot;Golden Master&quot;?
- 1. Google
- 2. IBM
- 3. Microsoft
- 4. Apple
+In computing, what does LAN stand for?
+ 1. Long Antenna Node
+ 2. Local Area Network
+ 3. Light Access Node
+ 4. Land Address Navigation
 
 <details>
   <summary>Answer</summary>
-  Apple
+  Local Area Network
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  4 hours 19 minutes</strong> since this server shutdown
+Its been <strong>7 days  4 hours 49 minutes</strong> since this server shutdown
