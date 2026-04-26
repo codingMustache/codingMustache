@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I wanted to be a tailor but I didn't suit the job
+Why is it so windy inside an arena? All those fans.
 
 
 ## Daily Trivia
 
-In computing, what does MIDI stand for?
- 1. Musical Instrument Digital Interface
- 2. Modular Interface of Digital Instruments
- 3. Musical Interface of Digital Instruments
- 4. Musical Instrument Data Interface
+Which one of these is not an official development name for a Ubuntu release?
+ 1. Mystic Mansion
+ 2. Wily Werewolf
+ 3. Utopic Unicorn
+ 4. Trusty Tahr
 
 <details>
   <summary>Answer</summary>
-  Musical Instrument Digital Interface
+  Mystic Mansion
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  12 hours 19 minutes</strong> since this server shutdown
+Its been <strong>7 days  12 hours 49 minutes</strong> since this server shutdown
