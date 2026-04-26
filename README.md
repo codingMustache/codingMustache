@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-"Hey, dad, did you get a haircut?" "No, I got them all cut."
+Have you ever heard of a music group called Cellophane? They mostly wrap.
 
 
 ## Daily Trivia
 
-What does the acronym CDN stand for in terms of networking?
- 1. Content Distribution Network
- 2. Computational Data Network
- 3. Content Delivery Network
- 4. Compressed Data Network
+What programming language was GitHub written in?
+ 1. Ruby
+ 2. Lua
+ 3. Python
+ 4. JavaScript
 
 <details>
   <summary>Answer</summary>
-  Content Delivery Network
+  Ruby
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  9 hours 49 minutes</strong> since this server shutdown
+Its been <strong>7 days  10 hours 19 minutes</strong> since this server shutdown
