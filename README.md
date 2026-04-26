@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the shy pebble wish for? That she was a little boulder.
+Why is the new Kindle screen textured to look like paper? So you feel write at home.
 
 
 ## Daily Trivia
 
-.at is the top-level domain for what country?
- 1. Argentina
- 2. Australia
- 3. Austria
- 4. Angola
+How fast is USB 3.1 Gen 2 theoretically?
+ 1. 5 Gb/s
+ 2. 10 Gb/s
+ 3. 8 Gb/s
+ 4. 1 Gb/s
 
 <details>
   <summary>Answer</summary>
-  Austria
+  10 Gb/s
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  15 hours 49 minutes</strong> since this server shutdown
+Its been <strong>7 days  16 hours 19 minutes</strong> since this server shutdown
