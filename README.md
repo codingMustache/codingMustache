@@ -6,24 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the cookie cry?
-Because his mother was a wafer so long
+How did Darth Vader know what Luke was getting for Christmas? He felt his presents.
 
 
 ## Daily Trivia
 
-On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
- 1. Dollar Sign
- 2. Percent Sign
- 3. Asterisk
- 4. Exclamation Mark
+What is the commonly used keyboard shortcut for the &#039;Copy&#039; function on Windows OS?
+ 1. Alt + X
+ 2. Ctrl + X
+ 3. Ctrl + C
+ 4. Alt + C
 
 <details>
   <summary>Answer</summary>
-  Exclamation Mark
+  Ctrl + C
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  7 hours 19 minutes</strong> since this server shutdown
+Its been <strong>7 days  7 hours 49 minutes</strong> since this server shutdown
