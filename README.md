@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Have you heard of the band 1023MB? They haven't got a gig yet.
+A man was caught stealing in a supermarket today while balanced on the shoulders of a couple of vampires. He was charged with shoplifting on two counts. 
 
 
 ## Daily Trivia
 
-Which computer language would you associate Django framework with?
- 1. Python
- 2. Java
- 3. C++
- 4. C#
+The name of technology company HP stands for what?
+ 1. Husker-Pollosk
+ 2. Howard Packmann
+ 3. Hewlett-Packard
+ 4. Hellman-Pohl
 
 <details>
   <summary>Answer</summary>
-  Python
+  Hewlett-Packard
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  18 hours 49 minutes</strong> since this server shutdown
+Its been <strong>7 days  19 hours 19 minutes</strong> since this server shutdown
