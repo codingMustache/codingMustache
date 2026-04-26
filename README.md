@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the cheese who saved the world? It was Legend-dairy!
+Two guys walked into a bar, the third one ducked.
 
 
 ## Daily Trivia
 
-The name of technology company HP stands for what?
- 1. Hellman-Pohl
- 2. Hewlett-Packard
- 3. Howard Packmann
- 4. Husker-Pollosk
+What does the International System of Quantities refer 1024 bytes as?
+ 1. Kibibyte
+ 2. Kilobyte
+ 3. Kelobyte
+ 4. Kylobyte
 
 <details>
   <summary>Answer</summary>
-  Hewlett-Packard
+  Kibibyte
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  1 hours 49 minutes</strong> since this server shutdown
+Its been <strong>8 days  2 hours 19 minutes</strong> since this server shutdown
