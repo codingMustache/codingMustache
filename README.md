@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-You will never guess what Elsa did to the balloon. She let it go.
+Why are mummys scared of vacation? They're afraid to unwind.
 
 
 ## Daily Trivia
 
-Which of the following physical typologies are used with Ethernet Networks?
- 1. Ring
- 2. Hex
- 3. Mesh
- 4. Star
+The programming language &#039;Swift&#039; was created to replace what other programming language?
+ 1. Objective-C
+ 2. C#
+ 3. C++
+ 4. Ruby
 
 <details>
   <summary>Answer</summary>
-  Star
+  Objective-C
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  20 hours 19 minutes</strong> since this server shutdown
+Its been <strong>7 days  20 hours 49 minutes</strong> since this server shutdown
