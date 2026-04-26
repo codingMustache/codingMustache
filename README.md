@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A man walks into a bar and orders helicopter flavor chips. The barman replies “sorry mate we only do plain”
+Frankenstein enters a bodybuilding competition and finds he has seriously misunderstood the objective.
 
 
 ## Daily Trivia
 
-How long is an IPv6 address?
- 1. 128 bytes
- 2. 128 bits
- 3. 64 bits
- 4. 32 bits
+Which of the following is NOT a computer science algorithm?
+ 1. Merge Sort
+ 2. Bubble Sort
+ 3. Quick Sort
+ 4. Float Sort
 
 <details>
   <summary>Answer</summary>
-  128 bits
+  Float Sort
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  22 hours 49 minutes</strong> since this server shutdown
+Its been <strong>7 days  23 hours 19 minutes</strong> since this server shutdown
