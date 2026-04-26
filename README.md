@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I couldn't get a reservation at the library. They were completely booked.
+"Hey, dad, did you get a haircut?" "No, I got them all cut."
 
 
 ## Daily Trivia
 
-What was the first company to use the term &quot;Golden Master&quot;?
- 1. Google
- 2. Apple
- 3. Microsoft
- 4. IBM
+What does the acronym CDN stand for in terms of networking?
+ 1. Content Distribution Network
+ 2. Computational Data Network
+ 3. Content Delivery Network
+ 4. Compressed Data Network
 
 <details>
   <summary>Answer</summary>
-  Apple
+  Content Delivery Network
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  9 hours 19 minutes</strong> since this server shutdown
+Its been <strong>7 days  9 hours 49 minutes</strong> since this server shutdown
