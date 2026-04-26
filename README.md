@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Two guys walked into a bar, the third one ducked.
+What’s brown and sounds like a bell? Dung!
 
 
 ## Daily Trivia
 
-What does the International System of Quantities refer 1024 bytes as?
- 1. Kibibyte
- 2. Kilobyte
- 3. Kelobyte
- 4. Kylobyte
+What major programming language does Unreal Engine 4 use?
+ 1. C++
+ 2. ECMAScript
+ 3. C#
+ 4. Assembly
 
 <details>
   <summary>Answer</summary>
-  Kibibyte
+  C++
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  2 hours 19 minutes</strong> since this server shutdown
+Its been <strong>8 days  2 hours 49 minutes</strong> since this server shutdown
