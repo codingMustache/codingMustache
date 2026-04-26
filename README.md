@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the Buffalo say to his little boy when he dropped him off at school? Bison.
+Did you hear about the cheese who saved the world? It was Legend-dairy!
 
 
 ## Daily Trivia
 
-What programming language was GitHub written in?
- 1. Ruby
- 2. Lua
- 3. Python
- 4. JavaScript
+The name of technology company HP stands for what?
+ 1. Hellman-Pohl
+ 2. Hewlett-Packard
+ 3. Howard Packmann
+ 4. Husker-Pollosk
 
 <details>
   <summary>Answer</summary>
-  Ruby
+  Hewlett-Packard
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  1 hours 19 minutes</strong> since this server shutdown
+Its been <strong>8 days  1 hours 49 minutes</strong> since this server shutdown
