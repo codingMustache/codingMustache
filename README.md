@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A red and a blue ship have just collided in the Caribbean. Apparently the survivors are marooned.
+You will never guess what Elsa did to the balloon. She let it go.
 
 
 ## Daily Trivia
 
-Which one of these is not an official development name for a Ubuntu release?
- 1. Mystic Mansion
- 2. Wily Werewolf
- 3. Utopic Unicorn
- 4. Trusty Tahr
+Which of the following physical typologies are used with Ethernet Networks?
+ 1. Ring
+ 2. Hex
+ 3. Mesh
+ 4. Star
 
 <details>
   <summary>Answer</summary>
-  Mystic Mansion
+  Star
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  19 hours 49 minutes</strong> since this server shutdown
+Its been <strong>7 days  20 hours 19 minutes</strong> since this server shutdown
