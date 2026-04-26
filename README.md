@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of music do planets listen to? Nep-tunes.
+Me and my mates are in a band called Duvet. We're a cover band.
 
 
 ## Daily Trivia
 
-In computing, what does LAN stand for?
- 1. Long Antenna Node
- 2. Local Area Network
- 3. Light Access Node
- 4. Land Address Navigation
+The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
+ 1. Amstrad PLC
+ 2. Commodore Business Machines
+ 3. Sinclair Research
+ 4. Acorn Computers
 
 <details>
   <summary>Answer</summary>
-  Local Area Network
+  Acorn Computers
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  4 hours 49 minutes</strong> since this server shutdown
+Its been <strong>7 days  5 hours 19 minutes</strong> since this server shutdown
