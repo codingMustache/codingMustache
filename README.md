@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are mummys scared of vacation? They're afraid to unwind.
+Why did the opera singer go sailing? They wanted to hit the high Cs.
 
 
 ## Daily Trivia
 
-The programming language &#039;Swift&#039; was created to replace what other programming language?
- 1. Objective-C
- 2. C#
- 3. C++
- 4. Ruby
+What does AD stand for in relation to Windows Operating Systems? 
+ 1. Alternative Drive
+ 2. Automated Database
+ 3. Active Department
+ 4. Active Directory
 
 <details>
   <summary>Answer</summary>
-  Objective-C
+  Active Directory
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  20 hours 49 minutes</strong> since this server shutdown
+Its been <strong>7 days  21 hours 19 minutes</strong> since this server shutdown
