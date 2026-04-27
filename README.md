@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the guy whose whole left side was cut off? He's all right now.
+Remember, the best angle to approach a problem from is the "try" angle.
 
 
 ## Daily Trivia
 
-In programming, the ternary operator is mostly defined with what symbol(s)?
- 1. ?:
- 2. ??
- 3. if then
- 4. ?
+How long is an IPv6 address?
+ 1. 64 bits
+ 2. 128 bits
+ 3. 32 bits
+ 4. 128 bytes
 
 <details>
   <summary>Answer</summary>
-  ?:
+  128 bits
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  19 hours 49 minutes</strong> since this server shutdown
+Its been <strong>8 days  20 hours 19 minutes</strong> since this server shutdown
