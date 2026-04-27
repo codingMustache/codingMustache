@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I wish I could clean mirrors for a living. It's just something I can see myself doing.
+What time did the man go to the dentist? Tooth hurt-y.
 
 
 ## Daily Trivia
 
-The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
- 1. Sinclair Research
- 2. Amstrad PLC
- 3. Commodore Business Machines
- 4. Acorn Computers
+In programming, what do you call functions with the same name but different implementations?
+ 1. Overloading
+ 2. Overriding
+ 3. Abstracting
+ 4. Inheriting
 
 <details>
   <summary>Answer</summary>
-  Acorn Computers
+  Overloading
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  22 hours 19 minutes</strong> since this server shutdown
+Its been <strong>8 days  22 hours 49 minutes</strong> since this server shutdown
