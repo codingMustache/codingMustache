@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-If at first you don't succeed, sky diving is not for you!
+It was raining cats and dogs the other day. I almost stepped in a poodle.
 
 
 ## Daily Trivia
 
-Which one of these is not an official development name for a Ubuntu release?
- 1. Mystic Mansion
- 2. Wily Werewolf
- 3. Trusty Tahr
- 4. Utopic Unicorn
+Which of the following languages is used as a scripting language in the Unity 3D game engine?
+ 1. C#
+ 2. Objective-C
+ 3. C++
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  Mystic Mansion
+  C#
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  15 hours 19 minutes</strong> since this server shutdown
+Its been <strong>8 days  15 hours 49 minutes</strong> since this server shutdown
