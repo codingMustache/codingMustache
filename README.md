@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of dog lives in a particle accelerator? A Fermilabrador Retriever.
+If at first you don't succeed, sky diving is not for you!
 
 
 ## Daily Trivia
 
-Which of the following computer components can be built using only NAND gates?
- 1. ALU
- 2. Register
- 3. RAM
- 4. CPU
+Which one of these is not an official development name for a Ubuntu release?
+ 1. Mystic Mansion
+ 2. Wily Werewolf
+ 3. Trusty Tahr
+ 4. Utopic Unicorn
 
 <details>
   <summary>Answer</summary>
-  ALU
+  Mystic Mansion
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  14 hours 49 minutes</strong> since this server shutdown
+Its been <strong>8 days  15 hours 19 minutes</strong> since this server shutdown
