@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-You will never guess what Elsa did to the balloon. She let it go.
+What kind of dog lives in a particle accelerator? A Fermilabrador Retriever.
 
 
 ## Daily Trivia
 
-What is the name of the default theme that is installed with Windows XP?
- 1. Luna
- 2. Neptune
- 3. Whistler
- 4. Bliss
+Which of the following computer components can be built using only NAND gates?
+ 1. ALU
+ 2. Register
+ 3. RAM
+ 4. CPU
 
 <details>
   <summary>Answer</summary>
-  Luna
+  ALU
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  14 hours 19 minutes</strong> since this server shutdown
+Its been <strong>8 days  14 hours 49 minutes</strong> since this server shutdown
