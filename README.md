@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My sister bet me $15 that I couldn't build a car out of spaghetti. You should have seen the look on her face as I drove pasta.
+What do you call an alligator in a vest? An in-vest-igator!
 
 
 ## Daily Trivia
 
-Which programming language shares its name with an island in Indonesia?
- 1. Python
- 2. Jakarta
- 3. Java
- 4. C
+What was the first company to use the term &quot;Golden Master&quot;?
+ 1. Apple
+ 2. Google
+ 3. Microsoft
+ 4. IBM
 
 <details>
   <summary>Answer</summary>
-  Java
+  Apple
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  8 hours 19 minutes</strong> since this server shutdown
+Its been <strong>8 days  8 hours 49 minutes</strong> since this server shutdown
