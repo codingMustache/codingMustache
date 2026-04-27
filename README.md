@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the burglar hang his mugshot on the wall? To prove that he was framed!
+When my wife told me to stop impersonating a flamingo, I had to put my foot down.
 
 
 ## Daily Trivia
 
-What is largely considered the precursor to the USB format?
- 1. FireWire
- 2. SVGA
- 3. PS/2
- 4. PCIe
+What was the name of the image that features as the default background wallpaper for Windows XP?
+ 1. Bliss
+ 2. Red moon desert
+ 3. Azul
+ 4. Tulips
 
 <details>
   <summary>Answer</summary>
-  PS/2
+  Bliss
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  4 hours 19 minutes</strong> since this server shutdown
+Its been <strong>8 days  4 hours 49 minutes</strong> since this server shutdown
