@@ -6,24 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-"Dad, I'm cold."
-"Go stand in the corner, I hear it's 90 degrees."
+It takes guts to be an organ donor.
 
 
 ## Daily Trivia
 
-How many bits are commonly in a single byte?
- 1.  Fifteen bits
- 2. Eight bits
- 3. Twelve bits
- 4. Six bits
+What port does HTTP run on?
+ 1. 443
+ 2. 80
+ 3. 53
+ 4. 23
 
 <details>
   <summary>Answer</summary>
-  Eight bits
+  80
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  11 hours 19 minutes</strong> since this server shutdown
+Its been <strong>8 days  11 hours 49 minutes</strong> since this server shutdown
