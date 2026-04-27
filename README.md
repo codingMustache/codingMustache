@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the mountain climber name his son? Cliff.
+Who did the wizard marry? His ghoul-friend
 
 
 ## Daily Trivia
 
-How fast is USB 3.1 Gen 2 theoretically?
- 1. 5 Gb/s
- 2. 8 Gb/s
- 3. 1 Gb/s
- 4. 10 Gb/s
+On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
+ 1. Exclamation Mark
+ 2. Percent Sign
+ 3. Dollar Sign
+ 4. Asterisk
 
 <details>
   <summary>Answer</summary>
-  10 Gb/s
+  Exclamation Mark
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  23 hours 19 minutes</strong> since this server shutdown
+Its been <strong>8 days  23 hours 49 minutes</strong> since this server shutdown
