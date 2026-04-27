@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Remember, the best angle to approach a problem from is the "try" angle.
+Why did the kid cross the playground? To get to the other slide.
 
 
 ## Daily Trivia
 
-How long is an IPv6 address?
- 1. 64 bits
- 2. 128 bits
- 3. 32 bits
- 4. 128 bytes
+Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
+ 1. Year
+ 2. Two Years
+ 3. Eight Years
+ 4. Four Years
 
 <details>
   <summary>Answer</summary>
-  128 bits
+  Year
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  20 hours 19 minutes</strong> since this server shutdown
+Its been <strong>8 days  20 hours 49 minutes</strong> since this server shutdown
