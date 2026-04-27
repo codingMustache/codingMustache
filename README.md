@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do trees seem suspicious on sunny days? Dunno, they're just a bit shady.
+My sister bet me $15 that I couldn't build a car out of spaghetti. You should have seen the look on her face as I drove pasta.
 
 
 ## Daily Trivia
 
-The Harvard architecture for micro-controllers added which additional bus?
- 1. Data
- 2. Address
- 3. Instruction
- 4. Control
+Which programming language shares its name with an island in Indonesia?
+ 1. Python
+ 2. Jakarta
+ 3. Java
+ 4. C
 
 <details>
   <summary>Answer</summary>
-  Instruction
+  Java
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  7 hours 49 minutes</strong> since this server shutdown
+Its been <strong>8 days  8 hours 19 minutes</strong> since this server shutdown
