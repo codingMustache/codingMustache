@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What time did the man go to the dentist? Tooth hurt-y.
+What did the mountain climber name his son? Cliff.
 
 
 ## Daily Trivia
 
-In programming, what do you call functions with the same name but different implementations?
- 1. Overloading
- 2. Overriding
- 3. Abstracting
- 4. Inheriting
+How fast is USB 3.1 Gen 2 theoretically?
+ 1. 5 Gb/s
+ 2. 8 Gb/s
+ 3. 1 Gb/s
+ 4. 10 Gb/s
 
 <details>
   <summary>Answer</summary>
-  Overloading
+  10 Gb/s
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  22 hours 49 minutes</strong> since this server shutdown
+Its been <strong>8 days  23 hours 19 minutes</strong> since this server shutdown
