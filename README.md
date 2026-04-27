@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-When my wife told me to stop impersonating a flamingo, I had to put my foot down.
+Do you want a brief explanation of what an acorn is? In a nutshell, it's an oak tree.
 
 
 ## Daily Trivia
 
-What was the name of the image that features as the default background wallpaper for Windows XP?
- 1. Bliss
- 2. Red moon desert
- 3. Azul
- 4. Tulips
+In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
+ 1. Red
+ 2. Blue
+ 3. Yellow
+ 4. Green
 
 <details>
   <summary>Answer</summary>
-  Bliss
+  Green
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  4 hours 49 minutes</strong> since this server shutdown
+Its been <strong>8 days  5 hours 19 minutes</strong> since this server shutdown
