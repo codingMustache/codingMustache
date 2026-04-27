@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the scientist who was lab partners with a pot of boiling water? He had a very esteemed colleague.
+Have you ever seen fruit preserves being made? It's jarring.
 
 
 ## Daily Trivia
 
-Approximately how many Apple I personal computers were created?
- 1. 500
- 2. 1000
- 3. 200
- 4. 100
+HTML is what type of language?
+ 1. Scripting Language
+ 2. Programming Language
+ 3. Markup Language
+ 4. Macro Language
 
 <details>
   <summary>Answer</summary>
-  200
+  Markup Language
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  6 hours 49 minutes</strong> since this server shutdown
+Its been <strong>8 days  7 hours 19 minutes</strong> since this server shutdown
