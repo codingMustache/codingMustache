@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-R.I.P. boiled water. You will be mist.
+Americans can't switch from pounds to kilograms overnight. That would cause mass confusion.
 
 
 ## Daily Trivia
 
-In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
- 1. static
- 2. absolute
- 3. relative
- 4. center
+What does the term MIME stand for, in regards to computing?
+ 1. Mail Internet Mail Exchange
+ 2. Multipurpose Interleave Mail Exchange
+ 3. Multipurpose Internet Mail Extensions
+ 4. Mail Interleave Method Exchange
 
 <details>
   <summary>Answer</summary>
-  center
+  Multipurpose Internet Mail Extensions
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  21 hours 19 minutes</strong> since this server shutdown
+Its been <strong>8 days  21 hours 49 minutes</strong> since this server shutdown
