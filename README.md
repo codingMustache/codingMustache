@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Americans can't switch from pounds to kilograms overnight. That would cause mass confusion.
+I wish I could clean mirrors for a living. It's just something I can see myself doing.
 
 
 ## Daily Trivia
 
-What does the term MIME stand for, in regards to computing?
- 1. Mail Internet Mail Exchange
- 2. Multipurpose Interleave Mail Exchange
- 3. Multipurpose Internet Mail Extensions
- 4. Mail Interleave Method Exchange
+The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
+ 1. Sinclair Research
+ 2. Amstrad PLC
+ 3. Commodore Business Machines
+ 4. Acorn Computers
 
 <details>
   <summary>Answer</summary>
-  Multipurpose Internet Mail Extensions
+  Acorn Computers
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  21 hours 49 minutes</strong> since this server shutdown
+Its been <strong>8 days  22 hours 19 minutes</strong> since this server shutdown
