@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A termite walks into a bar and asks “Is the bar tender here?”
+Why was Pavlov's beard so soft?  Because he conditioned it.
 
 
 ## Daily Trivia
 
-Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
- 1. Apple
- 2. Commodore
- 3. Atari
- 4. Microsoft
+What does the &quot;MP&quot; stand for in MP3?
+ 1. Multi Pass
+ 2. Music Player
+ 3. Moving Picture
+ 4. Micro Point
 
 <details>
   <summary>Answer</summary>
-  Apple
+  Moving Picture
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  17 hours 49 minutes</strong> since this server shutdown
+Its been <strong>8 days  18 hours 19 minutes</strong> since this server shutdown
