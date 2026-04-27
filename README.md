@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Have you ever seen fruit preserves being made? It's jarring.
+Why do trees seem suspicious on sunny days? Dunno, they're just a bit shady.
 
 
 ## Daily Trivia
 
-HTML is what type of language?
- 1. Scripting Language
- 2. Programming Language
- 3. Markup Language
- 4. Macro Language
+The Harvard architecture for micro-controllers added which additional bus?
+ 1. Data
+ 2. Address
+ 3. Instruction
+ 4. Control
 
 <details>
   <summary>Answer</summary>
-  Markup Language
+  Instruction
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  7 hours 19 minutes</strong> since this server shutdown
+Its been <strong>8 days  7 hours 49 minutes</strong> since this server shutdown
