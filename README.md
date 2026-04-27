@@ -6,16 +6,16 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the guy whose whole left side was cut off? He's all right now.
+A doll was recently found dead in a rice paddy. It's the only known instance of a nick nack paddy wack.
 
 
 ## Daily Trivia
 
-What language does Node.js use?
- 1. Joomla Source Code
- 2. Java
- 3. JavaScript
- 4. Java Source
+Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
+ 1. PHP
+ 2. Python
+ 3. C#
+ 4. JavaScript
 
 <details>
   <summary>Answer</summary>
@@ -25,4 +25,4 @@ What language does Node.js use?
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  18 hours 49 minutes</strong> since this server shutdown
+Its been <strong>8 days  19 hours 19 minutes</strong> since this server shutdown
