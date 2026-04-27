@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I have kleptomania, but when it gets bad, I take something for it.
+Who did the wizard marry? His ghoul-friend
 
 
 ## Daily Trivia
 
-Which SQL keyword is used to fetch data from a database?
- 1. SELECT
- 2. EXEC
- 3. VALUES
- 4. INDEX
+How many bits make up the significand portion of a single precision floating point number?
+ 1. 23
+ 2. 15
+ 3. 53
+ 4. 8
 
 <details>
   <summary>Answer</summary>
-  SELECT
+  23
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  9 hours 49 minutes</strong> since this server shutdown
+Its been <strong>8 days  10 hours 19 minutes</strong> since this server shutdown
