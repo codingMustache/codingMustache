@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why does a chicken coop only have two doors? Because if it had four doors it would be a chicken sedan.
+I decided to sell my Hoover… well it was just collecting dust.
 
 
 ## Daily Trivia
 
-What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
- 1. Broadwell
- 2. Skylake
- 3. Coffee Lake
- 4. Sandy Bridge
+On Twitter, what was the original character limit for a Tweet?
+ 1. 120
+ 2. 160
+ 3. 140
+ 4. 100
 
 <details>
   <summary>Answer</summary>
-  Coffee Lake
+  140
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  1 hours 19 minutes</strong> since this server shutdown
+Its been <strong>9 days  1 hours 49 minutes</strong> since this server shutdown
