@@ -6,23 +6,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why don’t seagulls fly over the bay? Because then they’d be bay-gulls!
+"Dad, I'm cold."
+"Go stand in the corner, I hear it's 90 degrees."
 
 
 ## Daily Trivia
 
-What was the name of the security vulnerability found in Bash in 2014?
- 1. Stagefright
- 2. Bashbug
- 3. Shellshock
- 4. Heartbleed
+How many bits are commonly in a single byte?
+ 1.  Fifteen bits
+ 2. Eight bits
+ 3. Twelve bits
+ 4. Six bits
 
 <details>
   <summary>Answer</summary>
-  Shellshock
+  Eight bits
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  10 hours 49 minutes</strong> since this server shutdown
+Its been <strong>8 days  11 hours 19 minutes</strong> since this server shutdown
