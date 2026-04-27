@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-“Doctor, I’ve broken my arm in several places” Doctor “Well don’t go to those places.”
+A book just fell on my head. I only have my shelf to blame.
 
 
 ## Daily Trivia
 
-Dutch computer scientist Mark Overmars is known for creating which game development engine?
- 1. Stencyl
- 2. Game Maker
- 3. Construct
- 4. Torque 2D
+What does the Prt Sc button do?
+ 1. Nothing
+ 2. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
+ 3. Closes all windows
+ 4. Captures what&#039;s on the screen and copies it to your clipboard
 
 <details>
   <summary>Answer</summary>
-  Game Maker
+  Captures what&#039;s on the screen and copies it to your clipboard
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  12 hours 19 minutes</strong> since this server shutdown
+Its been <strong>8 days  12 hours 49 minutes</strong> since this server shutdown
