@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What type of music do balloons hate? Pop music!
+I have kleptomania, but when it gets bad, I take something for it.
 
 
 ## Daily Trivia
 
-In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
- 1. console.log(&quot;Hello World&quot;)
- 2. echo &quot;Hello World&quot;
- 3. print(&quot;Hello World&quot;)
- 4. printf(&quot;Hello World&quot;)
+Which SQL keyword is used to fetch data from a database?
+ 1. SELECT
+ 2. EXEC
+ 3. VALUES
+ 4. INDEX
 
 <details>
   <summary>Answer</summary>
-  print(&quot;Hello World&quot;)
+  SELECT
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  9 hours 19 minutes</strong> since this server shutdown
+Its been <strong>8 days  9 hours 49 minutes</strong> since this server shutdown
