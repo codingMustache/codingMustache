@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Who did the wizard marry? His ghoul-friend
+Why don’t seagulls fly over the bay? Because then they’d be bay-gulls!
 
 
 ## Daily Trivia
 
-How many bits make up the significand portion of a single precision floating point number?
- 1. 23
- 2. 15
- 3. 53
- 4. 8
+What was the name of the security vulnerability found in Bash in 2014?
+ 1. Stagefright
+ 2. Bashbug
+ 3. Shellshock
+ 4. Heartbleed
 
 <details>
   <summary>Answer</summary>
-  23
+  Shellshock
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  10 hours 19 minutes</strong> since this server shutdown
+Its been <strong>8 days  10 hours 49 minutes</strong> since this server shutdown
