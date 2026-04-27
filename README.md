@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It takes guts to be an organ donor.
+“Doctor, I’ve broken my arm in several places” Doctor “Well don’t go to those places.”
 
 
 ## Daily Trivia
 
-What port does HTTP run on?
- 1. 443
- 2. 80
- 3. 53
- 4. 23
+Dutch computer scientist Mark Overmars is known for creating which game development engine?
+ 1. Stencyl
+ 2. Game Maker
+ 3. Construct
+ 4. Torque 2D
 
 <details>
   <summary>Answer</summary>
-  80
+  Game Maker
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  11 hours 49 minutes</strong> since this server shutdown
+Its been <strong>8 days  12 hours 19 minutes</strong> since this server shutdown
