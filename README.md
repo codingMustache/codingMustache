@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Do you want a brief explanation of what an acorn is? In a nutshell, it's an oak tree.
+I made a belt out of watches once... It was a waist of time.
 
 
 ## Daily Trivia
 
-In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
- 1. Red
- 2. Blue
- 3. Yellow
- 4. Green
+What was the first Android version specifically optimized for tablets?
+ 1. Eclair
+ 2. Honeycomb
+ 3. Froyo
+ 4. Marshmellow
 
 <details>
   <summary>Answer</summary>
-  Green
+  Honeycomb
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  5 hours 19 minutes</strong> since this server shutdown
+Its been <strong>8 days  5 hours 49 minutes</strong> since this server shutdown
