@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do cows not have toes? They lactose!
+Did you hear about the scientist who was lab partners with a pot of boiling water? He had a very esteemed colleague.
 
 
 ## Daily Trivia
 
-What five letter word is the motto of the IBM Computer company?
- 1. Pixel
- 2. Logic
- 3. Click
- 4. Think
+Approximately how many Apple I personal computers were created?
+ 1. 500
+ 2. 1000
+ 3. 200
+ 4. 100
 
 <details>
   <summary>Answer</summary>
-  Think
+  200
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  6 hours 19 minutes</strong> since this server shutdown
+Its been <strong>8 days  6 hours 49 minutes</strong> since this server shutdown
