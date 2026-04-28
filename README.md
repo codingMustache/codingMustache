@@ -6,24 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is the least spoken language in the world?
-Sign Language
+What do you call a snake who builds houses? A boa constructor!
 
 
 ## Daily Trivia
 
-What does the computer software acronym JVM stand for?
- 1. Java Vendor Machine
- 2. Java Visual Machine
- 3. Just Virtual Machine
- 4. Java Virtual Machine
+What does the term USB stand for?
+ 1. Universal Serial Bus
+ 2. Universal Simtex Blot
+ 3. Unified Signal Bus
+ 4. Unityped Semtex Backer
 
 <details>
   <summary>Answer</summary>
-  Java Virtual Machine
+  Universal Serial Bus
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  10 hours 19 minutes</strong> since this server shutdown
+Its been <strong>9 days  10 hours 49 minutes</strong> since this server shutdown
