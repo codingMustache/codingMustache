@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I dreamed about drowning in an ocean made out of orange soda last night. It took me a while to work out it was just a Fanta sea.
+I'll tell you what often gets over looked... garden fences.
 
 
 ## Daily Trivia
 
-What major programming language does Unreal Engine 4 use?
- 1. C++
- 2. Assembly
- 3. C#
- 4. ECMAScript
+How many bytes are in a single Kibibyte?
+ 1. 1000
+ 2. 2400
+ 3. 1024
+ 4. 1240
 
 <details>
   <summary>Answer</summary>
-  C++
+  1024
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  19 hours 49 minutes</strong> since this server shutdown
+Its been <strong>9 days  20 hours 19 minutes</strong> since this server shutdown
