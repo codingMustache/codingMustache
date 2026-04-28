@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-This is my step ladder. I never knew my real ladder.
+Our wedding was so beautiful, even the cake was in tiers.
 
 
 ## Daily Trivia
 
-Which of these is not a layer in the OSI model for data communications?
- 1. Application Layer
- 2. Physical Layer
- 3. Transport Layer
- 4. Connection Layer
+Which of the following computer components can be built using only NAND gates?
+ 1. CPU
+ 2. ALU
+ 3. RAM
+ 4. Register
 
 <details>
   <summary>Answer</summary>
-  Connection Layer
+  ALU
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  17 hours 19 minutes</strong> since this server shutdown
+Its been <strong>9 days  17 hours 49 minutes</strong> since this server shutdown
