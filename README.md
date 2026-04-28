@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I invented a new word! Plagiarism!
+Why was the strawberry sad? Its parents were in a jam.
 
 
 ## Daily Trivia
 
-What was Bitcoin&#039;s block size limit in 2010?
- 1. 1 MB
- 2. 1 TB
- 3. 1 KB
- 4. 1GB
+The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
+ 1. Sinclair Research
+ 2. Amstrad PLC
+ 3. Acorn Computers
+ 4. Commodore Business Machines
 
 <details>
   <summary>Answer</summary>
-  1 MB
+  Acorn Computers
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  12 hours 19 minutes</strong> since this server shutdown
+Its been <strong>9 days  12 hours 49 minutes</strong> since this server shutdown
