@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Shout out to my grandma, that's the only way she can hear.
+I dreamed about drowning in an ocean made out of orange soda last night. It took me a while to work out it was just a Fanta sea.
 
 
 ## Daily Trivia
 
-In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
- 1. &lt;move&gt;&lt;/move&gt;
- 2. &lt;scroll&gt;&lt;/scroll&gt;
- 3. &lt;slide&gt;&lt;/slide&gt;
- 4. &lt;marquee&gt;&lt;/marquee&gt;
+What major programming language does Unreal Engine 4 use?
+ 1. C++
+ 2. Assembly
+ 3. C#
+ 4. ECMAScript
 
 <details>
   <summary>Answer</summary>
-  &lt;marquee&gt;&lt;/marquee&gt;
+  C++
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  19 hours 19 minutes</strong> since this server shutdown
+Its been <strong>9 days  19 hours 49 minutes</strong> since this server shutdown
