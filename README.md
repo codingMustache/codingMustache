@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Recent survey revealed 6 out of 7 dwarf's aren't happy.
+What do you call a cow with no legs? Ground beef.
 
 
 ## Daily Trivia
 
-Which of these is not a layer in the OSI model for data communications?
- 1. Physical Layer
- 2. Connection Layer
- 3. Transport Layer
- 4. Application Layer
+What was Bitcoin&#039;s block size limit in 2010?
+ 1. 1 TB
+ 2. 1 KB
+ 3. 1 MB
+ 4. 1GB
 
 <details>
   <summary>Answer</summary>
-  Connection Layer
+  1 MB
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  20 hours 49 minutes</strong> since this server shutdown
+Its been <strong>9 days  21 hours 19 minutes</strong> since this server shutdown
