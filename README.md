@@ -6,25 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the hat say to the scarf?
-You can hang around. I'll just go on ahead.
-
+Did you hear about the two thieves who stole a calendar? They each got six months.
 
 
 ## Daily Trivia
 
-Which of the following computer components can be built using only NAND gates?
- 1. ALU
- 2. Register
- 3. RAM
- 4. CPU
+Which of the following is the oldest of these computers by release date?
+ 1. Apple 3
+ 2. Commodore 64
+ 3. ZX Spectrum
+ 4. TRS-80
 
 <details>
   <summary>Answer</summary>
-  ALU
+  TRS-80
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  8 hours 49 minutes</strong> since this server shutdown
+Its been <strong>9 days  9 hours 19 minutes</strong> since this server shutdown
