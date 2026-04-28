@@ -6,25 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many seconds are in a year?
-12.
-January 2nd, February 2nd, March 2nd, April 2nd.... etc
+I invented a new word! Plagiarism!
 
 
 ## Daily Trivia
 
-What amount of bits commonly equals one byte?
- 1. 1
- 2. 2
- 3. 64
- 4. 8
+What was Bitcoin&#039;s block size limit in 2010?
+ 1. 1 MB
+ 2. 1 TB
+ 3. 1 KB
+ 4. 1GB
 
 <details>
   <summary>Answer</summary>
-  8
+  1 MB
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  11 hours 49 minutes</strong> since this server shutdown
+Its been <strong>9 days  12 hours 19 minutes</strong> since this server shutdown
