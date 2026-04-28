@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I got a reversible jacket for Christmas, I can't wait to see how it turns out.
+A magician was driving down the street and then he turned into a driveway.
 
 
 ## Daily Trivia
 
-What does the term GPU stand for?
- 1. Graphics Processing Unit
- 2. Graphical Proprietary Unit
- 3. Graphite Producing Unit
- 4. Gaming Processor Unit
+What is known as &quot;the brain&quot; of the Computer?
+ 1. Motherboard
+ 2. Graphics Processing Unit
+ 3. Keyboard
+ 4. Central Processing Unit
 
 <details>
   <summary>Answer</summary>
-  Graphics Processing Unit
+  Central Processing Unit
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  23 hours 49 minutes</strong> since this server shutdown
+Its been <strong>10 days 19 minutes</strong> since this server shutdown
