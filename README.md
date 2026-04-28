@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the dog say to the two trees? Bark bark.
+Where do bees go to the bathroom?  The BP station.
 
 
 ## Daily Trivia
 
-What five letter word is the motto of the IBM Computer company?
- 1. Click
- 2. Think
- 3. Logic
- 4. Pixel
+What does the International System of Quantities refer 1024 bytes as?
+ 1. Kibibyte
+ 2. Kilobyte
+ 3. Kylobyte
+ 4. Kelobyte
 
 <details>
   <summary>Answer</summary>
-  Think
+  Kibibyte
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  21 hours 49 minutes</strong> since this server shutdown
+Its been <strong>9 days  22 hours 19 minutes</strong> since this server shutdown
