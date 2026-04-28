@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was the strawberry sad? Its parents were in a jam.
+How do you make a 'one' disappear? You add a 'g' and it's 'gone'
 
 
 ## Daily Trivia
 
-The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
- 1. Sinclair Research
- 2. Amstrad PLC
- 3. Acorn Computers
- 4. Commodore Business Machines
+In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
+ 1. absolute
+ 2. center
+ 3. static
+ 4. relative
 
 <details>
   <summary>Answer</summary>
-  Acorn Computers
+  center
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  12 hours 49 minutes</strong> since this server shutdown
+Its been <strong>9 days  13 hours 19 minutes</strong> since this server shutdown
