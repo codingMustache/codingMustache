@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-At the boxing match, the dad got into the popcorn line and the line for hot dogs, but he wanted to stay out of the punchline.
+What do you call a female snake. misssssssss 
 
 
 ## Daily Trivia
 
-What is the code name for the mobile operating system Android 7.0?
- 1. Marshmallow
- 2. Jelly Bean
- 3. Nougat
- 4. Ice Cream Sandwich
+What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
+ 1. Session
+ 2. Data link
+ 3. Network
+ 4. Transport
 
 <details>
   <summary>Answer</summary>
-  Nougat
+  Transport
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  6 hours 49 minutes</strong> since this server shutdown
+Its been <strong>9 days  7 hours 19 minutes</strong> since this server shutdown
