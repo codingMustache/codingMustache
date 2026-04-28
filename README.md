@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Can I watch the TV? Dad: Yes, but don’t turn it on.
+Never take advice from electrons. They are always negative.
 
 
 ## Daily Trivia
 
-Which of the following is NOT a computer science algorithm?
- 1. Bubble Sort
- 2. Merge Sort
- 3. Quick Sort
- 4. Float Sort
+On which computer hardware device is the BIOS chip located?
+ 1. Hard Disk Drive
+ 2. Central Processing Unit
+ 3. Graphics Processing Unit
+ 4. Motherboard
 
 <details>
   <summary>Answer</summary>
-  Float Sort
+  Motherboard
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  5 hours 49 minutes</strong> since this server shutdown
+Its been <strong>9 days  6 hours 19 minutes</strong> since this server shutdown
