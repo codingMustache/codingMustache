@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are oranges the smartest fruit? Because they are made to concentrate. 
+I accidentally drank a bottle of invisible ink. Now I’m in hospital, waiting to be seen.
 
 
 ## Daily Trivia
 
-What does CPU stand for?
- 1. Central Process Unit
- 2. Computer Personal Unit
- 3. Central Processing Unit
- 4. Central Processor Unit
+What is the main CPU is the Sega Mega Drive / Sega Genesis?
+ 1. Intel 8088
+ 2. Yamaha YM2612
+ 3. Zilog Z80
+ 4. Motorola 68000
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  Motorola 68000
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  15 hours 49 minutes</strong> since this server shutdown
+Its been <strong>9 days  16 hours 19 minutes</strong> since this server shutdown
