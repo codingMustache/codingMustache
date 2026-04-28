@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-You can't run through a camp site. You can only ran, because it's past tents.
+I got a reversible jacket for Christmas, I can't wait to see how it turns out.
 
 
 ## Daily Trivia
 
-In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
- 1. center
- 2. static
- 3. absolute
- 4. relative
+What does the term GPU stand for?
+ 1. Graphics Processing Unit
+ 2. Graphical Proprietary Unit
+ 3. Graphite Producing Unit
+ 4. Gaming Processor Unit
 
 <details>
   <summary>Answer</summary>
-  center
+  Graphics Processing Unit
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  23 hours 19 minutes</strong> since this server shutdown
+Its been <strong>9 days  23 hours 49 minutes</strong> since this server shutdown
