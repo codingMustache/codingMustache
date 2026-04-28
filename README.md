@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Never take advice from electrons. They are always negative.
+At the boxing match, the dad got into the popcorn line and the line for hot dogs, but he wanted to stay out of the punchline.
 
 
 ## Daily Trivia
 
-On which computer hardware device is the BIOS chip located?
- 1. Hard Disk Drive
- 2. Central Processing Unit
- 3. Graphics Processing Unit
- 4. Motherboard
+What is the code name for the mobile operating system Android 7.0?
+ 1. Marshmallow
+ 2. Jelly Bean
+ 3. Nougat
+ 4. Ice Cream Sandwich
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  Nougat
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  6 hours 19 minutes</strong> since this server shutdown
+Its been <strong>9 days  6 hours 49 minutes</strong> since this server shutdown
