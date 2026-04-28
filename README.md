@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a snake who builds houses? A boa constructor!
+I don’t play soccer because I enjoy the sport. I’m just doing it for kicks.
 
 
 ## Daily Trivia
 
-What does the term USB stand for?
- 1. Universal Serial Bus
- 2. Universal Simtex Blot
- 3. Unified Signal Bus
- 4. Unityped Semtex Backer
+The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
+ 1. Micronesia
+ 2. Marshall Islands
+ 3. Tuvalu
+ 4. Fiji
 
 <details>
   <summary>Answer</summary>
-  Universal Serial Bus
+  Micronesia
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  10 hours 49 minutes</strong> since this server shutdown
+Its been <strong>9 days  11 hours 19 minutes</strong> since this server shutdown
