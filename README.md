@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Our wedding was so beautiful, even the cake was in tiers.
+Why did the kid throw the clock out the window? He wanted to see time fly!
 
 
 ## Daily Trivia
 
-Which of the following computer components can be built using only NAND gates?
- 1. CPU
- 2. ALU
- 3. RAM
- 4. Register
+In web design, what does CSS stand for?
+ 1. Counter Strike: Source
+ 2. Corrective Style Sheet
+ 3. Cascading Style Sheet
+ 4. Computer Style Sheet
 
 <details>
   <summary>Answer</summary>
-  ALU
+  Cascading Style Sheet
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  17 hours 49 minutes</strong> since this server shutdown
+Its been <strong>9 days  18 hours 19 minutes</strong> since this server shutdown
