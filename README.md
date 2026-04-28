@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why couldn't the kid see the pirate movie? Because it was rated arrr!
+This is my step ladder. I never knew my real ladder.
 
 
 ## Daily Trivia
 
-Which kind of algorithm is Ron Rivest not famous for creating?
- 1. Stream cipher
- 2. Asymmetric encryption
- 3. Hashing algorithm
- 4. Secret sharing scheme
+Which of these is not a layer in the OSI model for data communications?
+ 1. Application Layer
+ 2. Physical Layer
+ 3. Transport Layer
+ 4. Connection Layer
 
 <details>
   <summary>Answer</summary>
-  Secret sharing scheme
+  Connection Layer
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  16 hours 49 minutes</strong> since this server shutdown
+Its been <strong>9 days  17 hours 19 minutes</strong> since this server shutdown
