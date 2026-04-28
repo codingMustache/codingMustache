@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How does a French skeleton say hello? Bone-jour.
+Somebody stole my Microsoft Office and they're going to pay - you have my Word.
 
 
 ## Daily Trivia
 
-Which computer language would you associate Django framework with?
- 1. C#
- 2. C++
- 3. Python
- 4. Java
+The Windows OS was delevoped by which company?
+ 1. Apple
+ 2. Nokia
+ 3. IBM
+ 4. Microsoft
 
 <details>
   <summary>Answer</summary>
-  Python
+  Microsoft
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  13 hours 49 minutes</strong> since this server shutdown
+Its been <strong>9 days  14 hours 19 minutes</strong> since this server shutdown
