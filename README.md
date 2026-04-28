@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I'll tell you what often gets over looked... garden fences.
+Recent survey revealed 6 out of 7 dwarf's aren't happy.
 
 
 ## Daily Trivia
 
-How many bytes are in a single Kibibyte?
- 1. 1000
- 2. 2400
- 3. 1024
- 4. 1240
+Which of these is not a layer in the OSI model for data communications?
+ 1. Physical Layer
+ 2. Connection Layer
+ 3. Transport Layer
+ 4. Application Layer
 
 <details>
   <summary>Answer</summary>
-  1024
+  Connection Layer
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  20 hours 19 minutes</strong> since this server shutdown
+Its been <strong>9 days  20 hours 49 minutes</strong> since this server shutdown
