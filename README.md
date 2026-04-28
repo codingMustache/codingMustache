@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Don't tell secrets in corn fields. Too many ears around.
+You can't run through a camp site. You can only ran, because it's past tents.
 
 
 ## Daily Trivia
 
-What does the International System of Quantities refer 1024 bytes as?
- 1. Kibibyte
- 2. Kelobyte
- 3. Kylobyte
- 4. Kilobyte
+In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
+ 1. center
+ 2. static
+ 3. absolute
+ 4. relative
 
 <details>
   <summary>Answer</summary>
-  Kibibyte
+  center
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  22 hours 49 minutes</strong> since this server shutdown
+Its been <strong>9 days  23 hours 19 minutes</strong> since this server shutdown
