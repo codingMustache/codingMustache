@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a cow with no legs? Ground beef.
+What did the dog say to the two trees? Bark bark.
 
 
 ## Daily Trivia
 
-What was Bitcoin&#039;s block size limit in 2010?
- 1. 1 TB
- 2. 1 KB
- 3. 1 MB
- 4. 1GB
+What five letter word is the motto of the IBM Computer company?
+ 1. Click
+ 2. Think
+ 3. Logic
+ 4. Pixel
 
 <details>
   <summary>Answer</summary>
-  1 MB
+  Think
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  21 hours 19 minutes</strong> since this server shutdown
+Its been <strong>9 days  21 hours 49 minutes</strong> since this server shutdown
