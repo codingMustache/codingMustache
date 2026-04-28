@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My wife told me to rub the herbs on the meat for better flavor. That's sage advice.
+Me and my mates are in a band called Duvet. We're a cover band.
 
 
 ## Daily Trivia
 
-Who is the original author of the realtime physics engine called PhysX?
- 1. Nvidia
- 2. NovodeX
- 3. AMD
- 4. Ageia
+.at is the top-level domain for what country?
+ 1. Australia
+ 2. Angola
+ 3. Austria
+ 4. Argentina
 
 <details>
   <summary>Answer</summary>
-  NovodeX
+  Austria
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  14 hours 49 minutes</strong> since this server shutdown
+Its been <strong>9 days  15 hours 19 minutes</strong> since this server shutdown
