@@ -6,8 +6,7 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is the least spoken language in the world?
-Sign Language
+How do you find Will Smith in the snow?  Look for fresh prints.
 
 
 ## Daily Trivia
@@ -26,4 +25,4 @@ What kind of memory is used on memory cache?
 
 ## Home Server Up-Time
 
-Its been <strong>10 days 49 minutes</strong> since this server shutdown
+Its been <strong>10 days  1 hours 19 minutes</strong> since this server shutdown
