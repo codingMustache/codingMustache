@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Me and my mates are in a band called Duvet. We're a cover band.
+Why are oranges the smartest fruit? Because they are made to concentrate. 
 
 
 ## Daily Trivia
 
-.at is the top-level domain for what country?
- 1. Australia
- 2. Angola
- 3. Austria
- 4. Argentina
+What does CPU stand for?
+ 1. Central Process Unit
+ 2. Computer Personal Unit
+ 3. Central Processing Unit
+ 4. Central Processor Unit
 
 <details>
   <summary>Answer</summary>
-  Austria
+  Central Processing Unit
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  15 hours 19 minutes</strong> since this server shutdown
+Its been <strong>9 days  15 hours 49 minutes</strong> since this server shutdown
