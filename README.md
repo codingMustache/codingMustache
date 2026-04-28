@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I dreamed about drowning in an ocean made out of orange soda last night. It took me a while to work out it was just a Fanta sea.
+When I left school, I passed every one of my exams with the exception of Greek Mythology. It always was my achilles elbow
 
 
 ## Daily Trivia
 
-What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
- 1. FM Synthesizer
- 2. Programmable Sound Generator (PSG)
- 3. PCM Sampler
- 4. ADPCM Sampler
+In programming, the ternary operator is mostly defined with what symbol(s)?
+ 1. ?
+ 2. if then
+ 3. ?:
+ 4. ??
 
 <details>
   <summary>Answer</summary>
-  ADPCM Sampler
+  ?:
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  7 hours 49 minutes</strong> since this server shutdown
+Its been <strong>9 days  8 hours 19 minutes</strong> since this server shutdown
