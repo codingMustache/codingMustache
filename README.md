@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the man put his money in the freezer? He wanted cold hard cash!
+"Hey, dad, did you get a haircut?" "No, I got them all cut."
 
 
 ## Daily Trivia
 
-The name of technology company HP stands for what?
- 1. Hewlett-Packard
- 2. Howard Packmann
- 3. Husker-Pollosk
- 4. Hellman-Pohl
+What is largely considered the precursor to the USB format?
+ 1. SVGA
+ 2. PCIe
+ 3. FireWire
+ 4. PS/2
 
 <details>
   <summary>Answer</summary>
-  Hewlett-Packard
+  PS/2
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  23 hours 49 minutes</strong> since this server shutdown
+Its been <strong>11 days 19 minutes</strong> since this server shutdown
