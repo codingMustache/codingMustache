@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I was thinking about moving to Moscow but there is no point Russian into things.
+What do you call a pig that knows karate? A pork chop!
 
 
 ## Daily Trivia
 
-Which of these is not a layer in the OSI model for data communications?
- 1. Application Layer
- 2. Transport Layer
- 3. Physical Layer
- 4. Connection Layer
+Which of these is not a key value of Agile software development?
+ 1. Customer collaboration
+ 2. Individuals and interactions
+ 3. Responding to change
+ 4. Comprehensive documentation
 
 <details>
   <summary>Answer</summary>
-  Connection Layer
+  Comprehensive documentation
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  20 hours 49 minutes</strong> since this server shutdown
+Its been <strong>10 days  21 hours 19 minutes</strong> since this server shutdown
