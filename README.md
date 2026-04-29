@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do choirs keep buckets handy? So they can carry their tune
+Did you know that ghosts call their true love their ghoul-friend?
 
 
 ## Daily Trivia
 
-In networking, what does OSPF stand for?
- 1. Open Signal Path Finder
- 2. Open Shortest Path First
- 3. Order Sense Ping Find
- 4. Order State Part First
+What language does Node.js use?
+ 1. Java Source
+ 2. Java
+ 3. Joomla Source Code
+ 4. JavaScript
 
 <details>
   <summary>Answer</summary>
-  Open Shortest Path First
+  JavaScript
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  9 hours 49 minutes</strong> since this server shutdown
+Its been <strong>10 days  10 hours 19 minutes</strong> since this server shutdown
