@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Got a new suit recently made entirely of living plants. I wasn’t sure at first, but it’s grown on me
+How do you get a baby alien to sleep?  You rocket.
 
 
 ## Daily Trivia
 
-What is largely considered the precursor to the USB format?
- 1. SVGA
- 2. PS/2
- 3. PCIe
- 4. FireWire
+Which of the following languages is used as a scripting language in the Unity 3D game engine?
+ 1. Java
+ 2. C++
+ 3. Objective-C
+ 4. C#
 
 <details>
   <summary>Answer</summary>
-  PS/2
+  C#
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  2 hours 19 minutes</strong> since this server shutdown
+Its been <strong>11 days  2 hours 49 minutes</strong> since this server shutdown
