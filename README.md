@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Do I enjoy making courthouse puns? Guilty
+Ben & Jerry's really need to improve their operation. The only way to get there is down a rocky road.
 
 
 ## Daily Trivia
 
-In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
- 1. &lt;move&gt;&lt;/move&gt;
- 2. &lt;scroll&gt;&lt;/scroll&gt;
- 3. &lt;slide&gt;&lt;/slide&gt;
- 4. &lt;marquee&gt;&lt;/marquee&gt;
+Approximately how many Apple I personal computers were created?
+ 1. 500
+ 2. 100
+ 3. 1000
+ 4. 200
 
 <details>
   <summary>Answer</summary>
-  &lt;marquee&gt;&lt;/marquee&gt;
+  200
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  18 hours 49 minutes</strong> since this server shutdown
+Its been <strong>10 days  19 hours 19 minutes</strong> since this server shutdown
