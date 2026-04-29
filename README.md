@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I once lost a banana at court but then I appealed. 
+I asked the surgeon if I could administer my own anesthetic, they said: go ahead, knock yourself out.
 
 
 ## Daily Trivia
 
-What does the acronym CDN stand for in terms of networking?
- 1. Content Distribution Network
- 2. Computational Data Network
- 3. Compressed Data Network
- 4. Content Delivery Network
+Which operating system was released first?
+ 1. OS/2
+ 2. Linux
+ 3. Windows
+ 4. Mac OS
 
 <details>
   <summary>Answer</summary>
-  Content Delivery Network
+  Mac OS
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  8 hours 49 minutes</strong> since this server shutdown
+Its been <strong>10 days  9 hours 19 minutes</strong> since this server shutdown
