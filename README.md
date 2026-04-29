@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the big flower say to the littler flower? Hi, bud!
+Where do hamburgers go to dance? The meat-ball.
 
 
 ## Daily Trivia
 
-What language does Node.js use?
- 1. Java
- 2. Java Source
- 3. Joomla Source Code
- 4. JavaScript
+The name of technology company HP stands for what?
+ 1. Howard Packmann
+ 2. Husker-Pollosk
+ 3. Hellman-Pohl
+ 4. Hewlett-Packard
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  Hewlett-Packard
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  4 hours 49 minutes</strong> since this server shutdown
+Its been <strong>10 days  5 hours 19 minutes</strong> since this server shutdown
