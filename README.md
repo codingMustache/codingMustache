@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the Dorito farmer say to the other Dorito farmer? Cool Ranch!
+How many hipsters does it take to change a lightbulb? Oh, it's a really obscure number. You've probably never heard of it.
 
 
 ## Daily Trivia
 
-Whistler was the codename of this Microsoft Operating System.
- 1. Windows 2000
- 2. Windows 7
- 3. Windows 95
- 4. Windows XP
+.at is the top-level domain for what country?
+ 1. Australia
+ 2. Austria
+ 3. Argentina
+ 4. Angola
 
 <details>
   <summary>Answer</summary>
-  Windows XP
+  Austria
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  15 hours 49 minutes</strong> since this server shutdown
+Its been <strong>10 days  16 hours 19 minutes</strong> since this server shutdown
