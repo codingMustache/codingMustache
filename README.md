@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I wouldn't buy anything with velcro. It's a total rip-off.
+They're making a movie about clocks. It's about time
 
 
 ## Daily Trivia
 
-How long is an IPv6 address?
- 1. 32 bits
- 2. 64 bits
- 3. 128 bytes
- 4. 128 bits
+In computing terms, typically what does CLI stand for?
+ 1. Command Line Interface
+ 2. Common Language Interface
+ 3. Control Line Interface
+ 4. Common Language Input
 
 <details>
   <summary>Answer</summary>
-  128 bits
+  Command Line Interface
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  6 hours 49 minutes</strong> since this server shutdown
+Its been <strong>10 days  7 hours 19 minutes</strong> since this server shutdown
