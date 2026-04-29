@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why is it so windy inside an arena? All those fans.
+What do you call a crowd of chess players bragging about their wins in a hotel lobby? Chess nuts boasting in an open foyer.
 
 
 ## Daily Trivia
 
-The Windows OS was delevoped by which company?
- 1. IBM
- 2. Nokia
- 3. Microsoft
- 4. Apple
+According to the International System of Units, how many bytes are in a kilobyte of RAM?
+ 1. 1024
+ 2. 512
+ 3. 1000
+ 4. 500
 
 <details>
   <summary>Answer</summary>
-  Microsoft
+  1000
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  12 hours 19 minutes</strong> since this server shutdown
+Its been <strong>10 days  12 hours 49 minutes</strong> since this server shutdown
