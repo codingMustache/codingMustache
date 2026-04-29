@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I don't trust sushi, there's something fishy about it.
+What has three letters and starts with gas? A Car.
 
 
 ## Daily Trivia
 
-What does CPU stand for?
- 1. Central Process Unit
- 2. Computer Personal Unit
- 3. Central Processor Unit
- 4. Central Processing Unit
+Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
+ 1. JavaScript
+ 2. Python
+ 3. C#
+ 4. PHP
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  JavaScript
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  5 hours 49 minutes</strong> since this server shutdown
+Its been <strong>10 days  6 hours 19 minutes</strong> since this server shutdown
