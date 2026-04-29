@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Don't buy flowers at a monastery. Because only you can prevent florist friars.
+I once lost a banana at court but then I appealed. 
 
 
 ## Daily Trivia
 
-In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
- 1. printf(&quot;Hello World&quot;)
- 2. print(&quot;Hello World&quot;)
- 3. echo &quot;Hello World&quot;
- 4. console.log(&quot;Hello World&quot;)
+What does the acronym CDN stand for in terms of networking?
+ 1. Content Distribution Network
+ 2. Computational Data Network
+ 3. Compressed Data Network
+ 4. Content Delivery Network
 
 <details>
   <summary>Answer</summary>
-  print(&quot;Hello World&quot;)
+  Content Delivery Network
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  8 hours 19 minutes</strong> since this server shutdown
+Its been <strong>10 days  8 hours 49 minutes</strong> since this server shutdown
