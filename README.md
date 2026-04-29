@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-They're making a movie about clocks. It's about time
+How many South Americans does it take to change a lightbulb? A Brazilian
 
 
 ## Daily Trivia
 
-In computing terms, typically what does CLI stand for?
- 1. Command Line Interface
- 2. Common Language Interface
- 3. Control Line Interface
- 4. Common Language Input
+How many kilobytes in one gigabyte (in decimal)?
+ 1. 1024
+ 2. 1000
+ 3. 1048576
+ 4. 1000000
 
 <details>
   <summary>Answer</summary>
-  Command Line Interface
+  1000000
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  7 hours 19 minutes</strong> since this server shutdown
+Its been <strong>10 days  7 hours 49 minutes</strong> since this server shutdown
