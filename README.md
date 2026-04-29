@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you know that ghosts call their true love their ghoul-friend?
+Why do you never see elephants hiding in trees? Because they're so good at it.
 
 
 ## Daily Trivia
 
-What language does Node.js use?
- 1. Java Source
- 2. Java
- 3. Joomla Source Code
- 4. JavaScript
+Which of these people was NOT a founder of Apple Inc?
+ 1. Steve Jobs
+ 2. Ronald Wayne
+ 3. Jonathan Ive
+ 4. Steve Wozniak
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  Jonathan Ive
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  10 hours 19 minutes</strong> since this server shutdown
+Its been <strong>10 days  10 hours 49 minutes</strong> since this server shutdown
