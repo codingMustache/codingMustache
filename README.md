@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the Buffalo say to his little boy when he dropped him off at school? Bison.
+In the news a courtroom artist was arrested today, I'm not surprised, he always seemed sketchy.
 
 
 ## Daily Trivia
 
-This mobile OS held the largest market share in 2012.
- 1. iOS
- 2. Android
- 3. BlackBerry
- 4. Symbian
+Whistler was the codename of this Microsoft Operating System.
+ 1. Windows 2000
+ 2. Windows 7
+ 3. Windows 95
+ 4. Windows XP
 
 <details>
   <summary>Answer</summary>
-  iOS
+  Windows XP
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  22 hours 19 minutes</strong> since this server shutdown
+Its been <strong>10 days  22 hours 49 minutes</strong> since this server shutdown
