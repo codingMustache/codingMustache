@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do prisoners use to call each other? Cell phones.
+I was going to get a brain transplant, but I changed my mind
 
 
 ## Daily Trivia
 
-The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
- 1. Taiwan
- 2. China (People&#039;s Republic of)
- 3. Germany
- 4. United States
+If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
+ 1. C++
+ 2. Binary
+ 3. JavaScript
+ 4. Python
 
 <details>
   <summary>Answer</summary>
-  Taiwan
+  Binary
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  17 hours 49 minutes</strong> since this server shutdown
+Its been <strong>10 days  18 hours 19 minutes</strong> since this server shutdown
