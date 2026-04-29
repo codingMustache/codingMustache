@@ -6,23 +6,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-"Hey, dad, did you get a haircut?" "No, I got them all cut."
+What do you get when you cross a bee and a sheep? A bah-humbug.
+
 
 
 ## Daily Trivia
 
-What is largely considered the precursor to the USB format?
- 1. SVGA
- 2. PCIe
- 3. FireWire
- 4. PS/2
+Which of the following physical typologies are used with Ethernet Networks?
+ 1. Ring
+ 2. Mesh
+ 3. Hex
+ 4. Star
 
 <details>
   <summary>Answer</summary>
-  PS/2
+  Star
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days 19 minutes</strong> since this server shutdown
+Its been <strong>11 days 49 minutes</strong> since this server shutdown
