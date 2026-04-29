@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many hipsters does it take to change a lightbulb? Oh, it's a really obscure number. You've probably never heard of it.
+How come the stadium got hot after the game? Because all of the fans left.
 
 
 ## Daily Trivia
 
-.at is the top-level domain for what country?
- 1. Australia
- 2. Austria
- 3. Argentina
- 4. Angola
+Which computer language would you associate Django framework with?
+ 1. Java
+ 2. Python
+ 3. C#
+ 4. C++
 
 <details>
   <summary>Answer</summary>
-  Austria
+  Python
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  16 hours 19 minutes</strong> since this server shutdown
+Its been <strong>10 days  16 hours 49 minutes</strong> since this server shutdown
