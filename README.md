@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the sea say to the sand? "We have to stop meeting like this."
+How are false teeth like stars? They come out at night!
 
 
 ## Daily Trivia
 
-Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
- 1. 44.1 kHz
- 2. 20.5 kHz
- 3. 1.5 MHz
- 4. 32.0 kHz
+What does RAID stand for?
+ 1. Rapid Access for Indexed Devices
+ 2. Redundant Array of Independent Disks
+ 3. Randomized Abstract Identification Description
+ 4. Range of Applications with Identical Designs
 
 <details>
   <summary>Answer</summary>
-  44.1 kHz
+  Redundant Array of Independent Disks
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  14 hours 49 minutes</strong> since this server shutdown
+Its been <strong>10 days  15 hours 19 minutes</strong> since this server shutdown
