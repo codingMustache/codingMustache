@@ -6,24 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you get when you cross a bee and a sheep? A bah-humbug.
-
+Why can’t you hear a pterodactyl go to the bathroom? The p is silent.
 
 
 ## Daily Trivia
 
-Which of the following physical typologies are used with Ethernet Networks?
- 1. Ring
- 2. Mesh
- 3. Hex
- 4. Star
+What does the Prt Sc button do?
+ 1. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
+ 2. Captures what&#039;s on the screen and copies it to your clipboard
+ 3. Nothing
+ 4. Closes all windows
 
 <details>
   <summary>Answer</summary>
-  Star
+  Captures what&#039;s on the screen and copies it to your clipboard
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days 49 minutes</strong> since this server shutdown
+Its been <strong>11 days  1 hours 19 minutes</strong> since this server shutdown
