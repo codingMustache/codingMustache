@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Dad died because he couldn't remember his blood type. I will never forget his last words. Be positive.
+What did the big flower say to the littler flower? Hi, bud!
 
 
 ## Daily Trivia
 
-What is the name of the process that sends one qubit of information using two bits of classical information?
- 1. Quantum Teleportation
- 2. Quantum Programming
- 3. Super Dense Coding
- 4. Quantum Entanglement
+What language does Node.js use?
+ 1. Java
+ 2. Java Source
+ 3. Joomla Source Code
+ 4. JavaScript
 
 <details>
   <summary>Answer</summary>
-  Quantum Teleportation
+  JavaScript
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  4 hours 19 minutes</strong> since this server shutdown
+Its been <strong>10 days  4 hours 49 minutes</strong> since this server shutdown
