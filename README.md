@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you know the first French fries weren't actually cooked in France? They were cooked in Greece.
+Dad died because he couldn't remember his blood type. I will never forget his last words. Be positive.
 
 
 ## Daily Trivia
 
-What was the first Android version specifically optimized for tablets?
- 1. Eclair
- 2. Honeycomb
- 3. Marshmellow
- 4. Froyo
+What is the name of the process that sends one qubit of information using two bits of classical information?
+ 1. Quantum Teleportation
+ 2. Quantum Programming
+ 3. Super Dense Coding
+ 4. Quantum Entanglement
 
 <details>
   <summary>Answer</summary>
-  Honeycomb
+  Quantum Teleportation
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  3 hours 49 minutes</strong> since this server shutdown
+Its been <strong>10 days  4 hours 19 minutes</strong> since this server shutdown
