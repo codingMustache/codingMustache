@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The shovel was a ground-breaking invention.
+Why did the man put his money in the freezer? He wanted cold hard cash!
 
 
 ## Daily Trivia
 
-The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
- 1. Micronesia
- 2. Tuvalu
- 3. Fiji
- 4. Marshall Islands
+The name of technology company HP stands for what?
+ 1. Hewlett-Packard
+ 2. Howard Packmann
+ 3. Husker-Pollosk
+ 4. Hellman-Pohl
 
 <details>
   <summary>Answer</summary>
-  Micronesia
+  Hewlett-Packard
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  23 hours 19 minutes</strong> since this server shutdown
+Its been <strong>10 days  23 hours 49 minutes</strong> since this server shutdown
