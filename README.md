@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you do on a remote island? Try and find the TV island it belongs to.
+What do you call a pig with three eyes? Piiig
 
 
 ## Daily Trivia
 
-Which of the following computer components can be built using only NAND gates?
- 1. RAM
- 2. ALU
- 3. Register
- 4. CPU
+In programming, the ternary operator is mostly defined with what symbol(s)?
+ 1. ?
+ 2. ?:
+ 3. if then
+ 4. ??
 
 <details>
   <summary>Answer</summary>
-  ALU
+  ?:
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  13 hours 49 minutes</strong> since this server shutdown
+Its been <strong>10 days  14 hours 19 minutes</strong> since this server shutdown
