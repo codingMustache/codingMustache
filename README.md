@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why can’t you hear a pterodactyl go to the bathroom? The p is silent.
+What do you call a pig with three eyes? Piiig
 
 
 ## Daily Trivia
 
-What does the Prt Sc button do?
- 1. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
- 2. Captures what&#039;s on the screen and copies it to your clipboard
- 3. Nothing
- 4. Closes all windows
+In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
+ 1. &lt;marquee&gt;&lt;/marquee&gt;
+ 2. &lt;slide&gt;&lt;/slide&gt;
+ 3. &lt;move&gt;&lt;/move&gt;
+ 4. &lt;scroll&gt;&lt;/scroll&gt;
 
 <details>
   <summary>Answer</summary>
-  Captures what&#039;s on the screen and copies it to your clipboard
+  &lt;marquee&gt;&lt;/marquee&gt;
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  1 hours 19 minutes</strong> since this server shutdown
+Its been <strong>11 days  1 hours 49 minutes</strong> since this server shutdown
