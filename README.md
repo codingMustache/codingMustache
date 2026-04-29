@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do you never see elephants hiding in trees? Because they're so good at it.
+How was the snow globe feeling after the storm? A little shaken.
 
 
 ## Daily Trivia
 
-Which of these people was NOT a founder of Apple Inc?
- 1. Steve Jobs
- 2. Ronald Wayne
- 3. Jonathan Ive
- 4. Steve Wozniak
+What does GHz stand for?
+ 1. Gigahotz
+ 2. Gigahetz
+ 3. Gigahertz
+ 4. Gigahatz
 
 <details>
   <summary>Answer</summary>
-  Jonathan Ive
+  Gigahertz
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  10 hours 49 minutes</strong> since this server shutdown
+Its been <strong>10 days  11 hours 19 minutes</strong> since this server shutdown
