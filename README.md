@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a bee that lives in America? A USB.
+I was so proud when I finished the puzzle in six months, when on the side it said three to four years.
 
 
 ## Daily Trivia
 
-The C programming language was created by this American computer scientist. 
- 1. Tim Berners Lee
- 2. al-Khwārizmī
- 3. Dennis Ritchie
- 4. Willis Ware
+What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
+ 1. Skylake
+ 2. Coffee Lake
+ 3. Sandy Bridge
+ 4. Broadwell
 
 <details>
   <summary>Answer</summary>
-  Dennis Ritchie
+  Coffee Lake
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  8 hours 49 minutes</strong> since this server shutdown
+Its been <strong>11 days  9 hours 19 minutes</strong> since this server shutdown
