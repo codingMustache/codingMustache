@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The rotation of earth really makes my day.
+My boss told me that he was going to fire the person with the worst posture. I have a hunch, it might be me.
 
 
 ## Daily Trivia
 
-The name of technology company HP stands for what?
- 1. Hewlett-Packard
- 2. Hellman-Pohl
- 3. Husker-Pollosk
- 4. Howard Packmann
+What is the name of Layer 7 of the OSI model?
+ 1. Application
+ 2. Present
+ 3. Network
+ 4. Session
 
 <details>
   <summary>Answer</summary>
-  Hewlett-Packard
+  Application
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  5 hours 49 minutes</strong> since this server shutdown
+Its been <strong>11 days  6 hours 19 minutes</strong> since this server shutdown
