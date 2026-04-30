@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the coffee file a police report? It got mugged.
+Thanks for explaining the word "many" to me. It means a lot.
 
 
 ## Daily Trivia
 
-Which computer hardware device provides an interface for all other connected devices to communicate?
- 1. Motherboard
- 2. Central Processing Unit
- 3. Hard Disk Drive
- 4. Random Access Memory
+What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
+ 1. Network
+ 2. Data link
+ 3. Session
+ 4. Transport
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  Transport
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  10 hours 19 minutes</strong> since this server shutdown
+Its been <strong>11 days  10 hours 49 minutes</strong> since this server shutdown
