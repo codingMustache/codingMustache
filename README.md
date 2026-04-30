@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My boss told me that he was going to fire the person with the worst posture. I have a hunch, it might be me.
+How do you know if there’s an elephant under your bed? Your head hits the ceiling!
 
 
 ## Daily Trivia
 
-What is the name of Layer 7 of the OSI model?
- 1. Application
- 2. Present
- 3. Network
- 4. Session
+What is known as &quot;the brain&quot; of the Computer?
+ 1. Motherboard
+ 2. Central Processing Unit
+ 3. Graphics Processing Unit
+ 4. Keyboard
 
 <details>
   <summary>Answer</summary>
-  Application
+  Central Processing Unit
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  6 hours 19 minutes</strong> since this server shutdown
+Its been <strong>11 days  6 hours 49 minutes</strong> since this server shutdown
