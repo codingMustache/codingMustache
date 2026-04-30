@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the Buffalo say to his little boy when he dropped him off at school? Bison.
+Some people say that comedians who tell one too many light bulb jokes soon burn out, but they don't know watt they are talking about. They're not that bright.
 
 
 ## Daily Trivia
 
-In programming, what do you call functions with the same name but different implementations?
- 1. Inheriting
- 2. Overriding
- 3. Overloading
- 4. Abstracting
+What is the name of Layer 7 of the OSI model?
+ 1. Session
+ 2. Network
+ 3. Present
+ 4. Application
 
 <details>
   <summary>Answer</summary>
-  Overloading
+  Application
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  21 hours 49 minutes</strong> since this server shutdown
+Its been <strong>11 days  22 hours 19 minutes</strong> since this server shutdown
