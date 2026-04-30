@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Thanks for explaining the word "many" to me. It means a lot.
+Why is it always hot in the corner of a room? Because a corner is 90 degrees.
 
 
 ## Daily Trivia
 
-What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
- 1. Network
- 2. Data link
- 3. Session
- 4. Transport
+What was Bitcoin&#039;s block size limit in 2010?
+ 1. 1 KB
+ 2. 1 TB
+ 3. 1 MB
+ 4. 1GB
 
 <details>
   <summary>Answer</summary>
-  Transport
+  1 MB
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  10 hours 49 minutes</strong> since this server shutdown
+Its been <strong>11 days  11 hours 19 minutes</strong> since this server shutdown
