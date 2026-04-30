@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you know if there’s an elephant under your bed? Your head hits the ceiling!
+what do you call a dog that can do magic tricks? a labracadabrador
 
 
 ## Daily Trivia
 
-What is known as &quot;the brain&quot; of the Computer?
- 1. Motherboard
- 2. Central Processing Unit
- 3. Graphics Processing Unit
- 4. Keyboard
+On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
+ 1. Exclamation Mark
+ 2. Asterisk
+ 3. Percent Sign
+ 4. Dollar Sign
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  Exclamation Mark
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  6 hours 49 minutes</strong> since this server shutdown
+Its been <strong>11 days  7 hours 19 minutes</strong> since this server shutdown
