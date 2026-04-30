@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A girl once asked me what my heart desired, apparently blood, oxygen and neural messages were all wrong answers
+What's a ninja's favorite type of shoes? Sneakers!
 
 
 ## Daily Trivia
 
-In computing, what does LAN stand for?
- 1. Long Antenna Node
- 2. Light Access Node
- 3. Land Address Navigation
- 4. Local Area Network
+The numbering system with a radix of 16 is more commonly referred to as 
+ 1. Binary
+ 2. Duodecimal
+ 3. Octal
+ 4. Hexidecimal
 
 <details>
   <summary>Answer</summary>
-  Local Area Network
+  Hexidecimal
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  22 hours 49 minutes</strong> since this server shutdown
+Its been <strong>11 days  23 hours 19 minutes</strong> since this server shutdown
