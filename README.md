@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Do you want a brief explanation of what an acorn is? In a nutshell, it's an oak tree.
+My sister bet me $15 that I couldn't build a car out of spaghetti. You should have seen the look on her face as I drove pasta.
 
 
 ## Daily Trivia
 
-What was the first Android version specifically optimized for tablets?
- 1. Eclair
- 2. Froyo
- 3. Marshmellow
- 4. Honeycomb
+Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
+ 1. Clipper Chip
+ 2. Enigma Machine
+ 3. Skipjack
+ 4. Nautilus
 
 <details>
   <summary>Answer</summary>
-  Honeycomb
+  Clipper Chip
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  13 hours 49 minutes</strong> since this server shutdown
+Its been <strong>11 days  14 hours 19 minutes</strong> since this server shutdown
