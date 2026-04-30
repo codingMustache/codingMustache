@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Pie is $2.50 in Jamaica and $3.00 in The Bahamas. These are the pie-rates of the Caribbean.
+Bought a new jacket suit the other day and it burst into flames. Well, it was a blazer
 
 
 ## Daily Trivia
 
-Which computer hardware device provides an interface for all other connected devices to communicate?
- 1. Hard Disk Drive
- 2. Motherboard
- 3. Random Access Memory
- 4. Central Processing Unit
+What major programming language does Unreal Engine 4 use?
+ 1. ECMAScript
+ 2. C#
+ 3. C++
+ 4. Assembly
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  C++
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  2 hours 19 minutes</strong> since this server shutdown
+Its been <strong>12 days  2 hours 49 minutes</strong> since this server shutdown
