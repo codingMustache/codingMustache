@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's blue and not very heavy?  Light blue.
+You know that cemetery up the road? People are dying to get in there.
 
 
 ## Daily Trivia
 
-How fast is USB 3.1 Gen 2 theoretically?
- 1. 10 Gb/s
- 2. 1 Gb/s
- 3. 8 Gb/s
- 4. 5 Gb/s
+In programming, what do you call functions with the same name but different implementations?
+ 1. Abstracting
+ 2. Overloading
+ 3. Overriding
+ 4. Inheriting
 
 <details>
   <summary>Answer</summary>
-  10 Gb/s
+  Overloading
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  20 hours 49 minutes</strong> since this server shutdown
+Its been <strong>11 days  21 hours 19 minutes</strong> since this server shutdown
