@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you do on a remote island? Try and find the TV island it belongs to.
+I got an A on my origami assignment when I turned my paper into my teacher
 
 
 ## Daily Trivia
 
-In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
- 1. Red
- 2. Blue
- 3. Green
- 4. Yellow
+According to the International System of Units, how many bytes are in a kilobyte of RAM?
+ 1. 1000
+ 2. 500
+ 3. 1024
+ 4. 512
 
 <details>
   <summary>Answer</summary>
-  Green
+  1000
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days 19 minutes</strong> since this server shutdown
+Its been <strong>12 days 49 minutes</strong> since this server shutdown
