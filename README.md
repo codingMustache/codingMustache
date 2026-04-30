@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-When does a joke become a dad joke? When it becomes apparent.
+A man was caught stealing in a supermarket today while balanced on the shoulders of a couple of vampires. He was charged with shoplifting on two counts. 
 
 
 ## Daily Trivia
 
-This mobile OS held the largest market share in 2012.
- 1. Symbian
- 2. iOS
- 3. BlackBerry
- 4. Android
+Australia, Japan, and Southeast Asia are in which ITU Region?
+ 1. Region 2
+ 2. Region 1
+ 3. Region 3
+ 4. Region 4
 
 <details>
   <summary>Answer</summary>
-  iOS
+  Region 3
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  4 hours 49 minutes</strong> since this server shutdown
+Its been <strong>11 days  5 hours 19 minutes</strong> since this server shutdown
