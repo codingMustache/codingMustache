@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was the strawberry sad? Its parents were in a jam.
+What do you do on a remote island? Try and find the TV island it belongs to.
 
 
 ## Daily Trivia
 
-Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
- 1. Heartbleed
- 2. Shellscript
- 3. Corrupted Blood
- 4. Shellshock
+In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
+ 1. Red
+ 2. Blue
+ 3. Green
+ 4. Yellow
 
 <details>
   <summary>Answer</summary>
-  Heartbleed
+  Green
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  23 hours 49 minutes</strong> since this server shutdown
+Its been <strong>12 days 19 minutes</strong> since this server shutdown
