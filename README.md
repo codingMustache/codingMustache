@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I was so proud when I finished the puzzle in six months, when on the side it said three to four years.
+Why don’t skeletons ever go trick or treating? Because they have nobody to go with.
 
 
 ## Daily Trivia
 
-What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
- 1. Skylake
- 2. Coffee Lake
- 3. Sandy Bridge
- 4. Broadwell
+In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
+ 1. static
+ 2. absolute
+ 3. center
+ 4. relative
 
 <details>
   <summary>Answer</summary>
-  Coffee Lake
+  center
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  9 hours 19 minutes</strong> since this server shutdown
+Its been <strong>11 days  9 hours 49 minutes</strong> since this server shutdown
