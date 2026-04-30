@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the beaver say to the tree? It's been nice gnawing you.
+I used to be addicted to soap, but I'm clean now.
 
 
 ## Daily Trivia
 
-What port does HTTP run on?
- 1. 53
- 2. 443
- 3. 23
- 4. 80
+Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
+ 1. Microsoft
+ 2. Atari
+ 3. Commodore
+ 4. Apple
 
 <details>
   <summary>Answer</summary>
-  80
+  Apple
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  1 hours 19 minutes</strong> since this server shutdown
+Its been <strong>12 days  1 hours 49 minutes</strong> since this server shutdown
