@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Bought a new jacket suit the other day and it burst into flames. Well, it was a blazer
+Mountains aren't just funny, they are hill areas
 
 
 ## Daily Trivia
 
-What major programming language does Unreal Engine 4 use?
- 1. ECMAScript
- 2. C#
- 3. C++
- 4. Assembly
+What does AD stand for in relation to Windows Operating Systems? 
+ 1. Active Department
+ 2. Automated Database
+ 3. Active Directory
+ 4. Alternative Drive
 
 <details>
   <summary>Answer</summary>
-  C++
+  Active Directory
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  2 hours 49 minutes</strong> since this server shutdown
+Its been <strong>12 days  3 hours 19 minutes</strong> since this server shutdown
