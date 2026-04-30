@@ -6,23 +6,25 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I went to the zoo the other day, there was only one dog in it. It was a shitzu.
+What was the pumpkin’s favorite sport?
+
+Squash.
 
 
 ## Daily Trivia
 
-What amount of bits commonly equals one byte?
- 1. 8
- 2. 64
- 3. 1
- 4. 2
+How many bits make up the significand portion of a single precision floating point number?
+ 1. 15
+ 2. 53
+ 3. 23
+ 4. 8
 
 <details>
   <summary>Answer</summary>
-  8
+  23
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  18 hours 49 minutes</strong> since this server shutdown
+Its been <strong>11 days  19 hours 19 minutes</strong> since this server shutdown
