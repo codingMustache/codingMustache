@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Some people say that comedians who tell one too many light bulb jokes soon burn out, but they don't know watt they are talking about. They're not that bright.
+A girl once asked me what my heart desired, apparently blood, oxygen and neural messages were all wrong answers
 
 
 ## Daily Trivia
 
-What is the name of Layer 7 of the OSI model?
- 1. Session
- 2. Network
- 3. Present
- 4. Application
+In computing, what does LAN stand for?
+ 1. Long Antenna Node
+ 2. Light Access Node
+ 3. Land Address Navigation
+ 4. Local Area Network
 
 <details>
   <summary>Answer</summary>
-  Application
+  Local Area Network
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  22 hours 19 minutes</strong> since this server shutdown
+Its been <strong>11 days  22 hours 49 minutes</strong> since this server shutdown
