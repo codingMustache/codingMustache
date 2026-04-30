@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of music do mummy's like? Rap
+I was shocked when I was diagnosed as colorblind... It came out of the purple.
 
 
 ## Daily Trivia
 
-In computing, how many bits are in a nibble?
- 1. 4
- 2. 2
- 3. 32
- 4. 16
+What programming language was GitHub written in?
+ 1. JavaScript
+ 2. Python
+ 3. Lua
+ 4. Ruby
 
 <details>
   <summary>Answer</summary>
-  4
+  Ruby
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>11 days  15 hours 19 minutes</strong> since this server shutdown
+Its been <strong>11 days  15 hours 49 minutes</strong> since this server shutdown
