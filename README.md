@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Mountains aren't just funny, they are hill areas
+Leather is great for sneaking around because it's made of hide.
 
 
 ## Daily Trivia
 
-What does AD stand for in relation to Windows Operating Systems? 
- 1. Active Department
- 2. Automated Database
- 3. Active Directory
- 4. Alternative Drive
+What was the first commerically available computer processor?
+ 1. Intel 486SX
+ 2. TMS 1000
+ 3. AMD AM386
+ 4. Intel 4004
 
 <details>
   <summary>Answer</summary>
-  Active Directory
+  Intel 4004
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  3 hours 19 minutes</strong> since this server shutdown
+Its been <strong>12 days  3 hours 49 minutes</strong> since this server shutdown
