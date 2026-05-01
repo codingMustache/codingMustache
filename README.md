@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A book just fell on my head. I only have my shelf to blame.
+My sea sickness comes in waves.
 
 
 ## Daily Trivia
 
-The programming language &#039;Swift&#039; was created to replace what other programming language?
- 1. Ruby
- 2. C#
- 3. C++
- 4. Objective-C
+Which data structure does FILO apply to?
+ 1. Queue
+ 2. Heap
+ 3. Stack
+ 4. Tree
 
 <details>
   <summary>Answer</summary>
-  Objective-C
+  Stack
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  17 hours 49 minutes</strong> since this server shutdown
+Its been <strong>12 days  18 hours 19 minutes</strong> since this server shutdown
