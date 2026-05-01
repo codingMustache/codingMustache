@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you make a 'one' disappear? You add a 'g' and it's 'gone'
+Why do we tell actors to “break a leg?” Because every play has a cast.
 
 
 ## Daily Trivia
 
-The programming language &#039;Swift&#039; was created to replace what other programming language?
- 1. C++
- 2. Objective-C
- 3. Ruby
- 4. C#
+What does the &#039;S&#039; in the RSA encryption algorithm stand for?
+ 1. Secure
+ 2. Schottky
+ 3. Shamir
+ 4. Stable
 
 <details>
   <summary>Answer</summary>
-  Objective-C
+  Shamir
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  16 hours 19 minutes</strong> since this server shutdown
+Its been <strong>12 days  16 hours 49 minutes</strong> since this server shutdown
