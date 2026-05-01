@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A quick shoutout to all of the sidewalks out there... Thanks for keeping me off the streets.
+I made a playlist for hiking. It has music from Peanuts, The Cranberries, and Eminem. I call it my Trail Mix.
 
 
 ## Daily Trivia
 
-What does the term MIME stand for, in regards to computing?
- 1. Mail Internet Mail Exchange
- 2. Multipurpose Internet Mail Extensions
- 3. Multipurpose Interleave Mail Exchange
- 4. Mail Interleave Method Exchange
+How many bits make up the significand portion of a single precision floating point number?
+ 1. 15
+ 2. 23
+ 3. 8
+ 4. 53
 
 <details>
   <summary>Answer</summary>
-  Multipurpose Internet Mail Extensions
+  23
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  14 hours 19 minutes</strong> since this server shutdown
+Its been <strong>12 days  14 hours 49 minutes</strong> since this server shutdown
