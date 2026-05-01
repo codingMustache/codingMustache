@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a beehive without the b's? An eehive.
+What's the difference between a rooster and a crow? A rooster can crow but a crow cannot rooster.
 
 
 ## Daily Trivia
 
-How many values can a single byte represent?
- 1. 1
- 2. 8
- 3. 256
- 4. 1024
+The programming language &#039;Swift&#039; was created to replace what other programming language?
+ 1. Objective-C
+ 2. C#
+ 3. Ruby
+ 4. C++
 
 <details>
   <summary>Answer</summary>
-  256
+  Objective-C
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  8 hours 19 minutes</strong> since this server shutdown
+Its been <strong>12 days  8 hours 49 minutes</strong> since this server shutdown
