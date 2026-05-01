@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Leather is great for sneaking around because it's made of hide.
+I went to the zoo the other day, there was only one dog in it. It was a shitzu.
 
 
 ## Daily Trivia
 
-What was the first commerically available computer processor?
- 1. Intel 486SX
- 2. TMS 1000
- 3. AMD AM386
- 4. Intel 4004
+In networking, what does OSPF stand for?
+ 1. Order Sense Ping Find
+ 2. Order State Part First
+ 3. Open Shortest Path First
+ 4. Open Signal Path Finder
 
 <details>
   <summary>Answer</summary>
-  Intel 4004
+  Open Shortest Path First
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  3 hours 49 minutes</strong> since this server shutdown
+Its been <strong>12 days  4 hours 19 minutes</strong> since this server shutdown
