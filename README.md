@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you get if you cross a turkey with a ghost? A poultry-geist!
+I made a playlist for hiking. It has music from Peanuts, The Cranberries, and Eminem. I call it my Trail Mix.
 
 
 ## Daily Trivia
 
-What does the &quot;MP&quot; stand for in MP3?
- 1. Moving Picture
- 2. Music Player
- 3. Multi Pass
- 4. Micro Point
+Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
+ 1. Eight Years
+ 2. Two Years
+ 3. Year
+ 4. Four Years
 
 <details>
   <summary>Answer</summary>
-  Moving Picture
+  Year
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  18 hours 49 minutes</strong> since this server shutdown
+Its been <strong>12 days  19 hours 19 minutes</strong> since this server shutdown
