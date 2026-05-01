@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why don't skeletons ride roller coasters? They don't have the stomach for it.
+Doctor you've got to help me, I'm addicted to Twitter. Doctor: I don't follow you.
 
 
 ## Daily Trivia
 
-What is the most preferred image format used for logos in the Wikimedia database?
- 1. .svg
- 2. .gif
- 3. .jpeg
- 4. .png
+What does the computer software acronym JVM stand for?
+ 1. Java Vendor Machine
+ 2. Java Virtual Machine
+ 3. Java Visual Machine
+ 4. Just Virtual Machine
 
 <details>
   <summary>Answer</summary>
-  .svg
+  Java Virtual Machine
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  22 hours 49 minutes</strong> since this server shutdown
+Its been <strong>12 days  23 hours 19 minutes</strong> since this server shutdown
