@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the guy whose whole left side was cut off? He's all right now.
+A book just fell on my head. I only have my shelf to blame.
 
 
 ## Daily Trivia
 
-On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
- 1. Dollar Sign
- 2. Percent Sign
- 3. Asterisk
- 4. Exclamation Mark
+Which of these names was an actual codename for a cancelled Microsoft project?
+ 1. Pollux
+ 2. Saturn
+ 3. Enceladus
+ 4. Neptune
 
 <details>
   <summary>Answer</summary>
-  Exclamation Mark
+  Neptune
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  4 hours 49 minutes</strong> since this server shutdown
+Its been <strong>12 days  5 hours 19 minutes</strong> since this server shutdown
