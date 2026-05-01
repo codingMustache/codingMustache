@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Do you know where you can get chicken broth in bulk? The stock market.
+What do prisoners use to call each other? Cell phones.
 
 
 ## Daily Trivia
 
-Which one of these is not an official development name for a Ubuntu release?
- 1. Mystic Mansion
- 2. Wily Werewolf
- 3. Utopic Unicorn
- 4. Trusty Tahr
+The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
+ 1. Germany
+ 2. Taiwan
+ 3. United States
+ 4. China (People&#039;s Republic of)
 
 <details>
   <summary>Answer</summary>
-  Mystic Mansion
+  Taiwan
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  6 hours 49 minutes</strong> since this server shutdown
+Its been <strong>12 days  7 hours 19 minutes</strong> since this server shutdown
