@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to work in a shoe recycling shop. It was sole destroying.
+How does a scientist freshen their breath? With experi-mints!
 
 
 ## Daily Trivia
 
-What port does HTTP run on?
- 1. 23
- 2. 443
- 3. 53
- 4. 80
+How many bits are commonly in a single byte?
+ 1. Eight bits
+ 2. Six bits
+ 3.  Fifteen bits
+ 4. Twelve bits
 
 <details>
   <summary>Answer</summary>
-  80
+  Eight bits
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  9 hours 19 minutes</strong> since this server shutdown
+Its been <strong>12 days  9 hours 49 minutes</strong> since this server shutdown
