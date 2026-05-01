@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you know that protons have mass? I didn't even know they were catholic.
+A horse walks into a bar. The bar tender says "Hey." The horse says "Sure."
 
 
 ## Daily Trivia
 
-Which RAID array type is associated with data mirroring?
- 1. RAID 0
- 2. RAID 10
- 3. RAID 5
- 4. RAID 1
+Whistler was the codename of this Microsoft Operating System.
+ 1. Windows XP
+ 2. Windows 2000
+ 3. Windows 7
+ 4. Windows 95
 
 <details>
   <summary>Answer</summary>
-  RAID 1
+  Windows XP
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  1 hours 19 minutes</strong> since this server shutdown
+Its been <strong>13 days  1 hours 49 minutes</strong> since this server shutdown
