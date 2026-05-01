@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to think I was indecisive, but now I'm not sure.
+How do you tell the difference between a crocodile and an alligator? You will see one later and one in a while.
 
 
 ## Daily Trivia
 
-While Apple was formed in California, in which western state was Microsoft founded?
- 1. Washington
- 2. Colorado
- 3. Arizona
- 4. New Mexico
+In computing, how many bits are in a nibble?
+ 1. 4
+ 2. 32
+ 3. 2
+ 4. 16
 
 <details>
   <summary>Answer</summary>
-  New Mexico
+  4
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  20 hours 19 minutes</strong> since this server shutdown
+Its been <strong>12 days  20 hours 49 minutes</strong> since this server shutdown
