@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What concert costs only 45 cents? 50 cent featuring Nickelback.
+A book just fell on my head. I only have my shelf to blame.
 
 
 ## Daily Trivia
 
-America Online (AOL) started out as which of these online service providers?
- 1. Quantum Link
- 2. GEnie
- 3. Prodigy
- 4. CompuServe
+Generally, which component of a computer draws the most power?
+ 1. Hard Drive
+ 2. Power Supply
+ 3. Processor
+ 4. Video Card
 
 <details>
   <summary>Answer</summary>
-  Quantum Link
+  Video Card
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  11 hours 49 minutes</strong> since this server shutdown
+Its been <strong>12 days  12 hours 19 minutes</strong> since this server shutdown
