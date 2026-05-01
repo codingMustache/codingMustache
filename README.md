@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do prisoners use to call each other? Cell phones.
+Did you hear about the Mexican train killer? He had loco motives
 
 
 ## Daily Trivia
 
-The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
- 1. Germany
- 2. Taiwan
- 3. United States
- 4. China (People&#039;s Republic of)
+What does the acronym CDN stand for in terms of networking?
+ 1. Computational Data Network
+ 2. Content Delivery Network
+ 3. Compressed Data Network
+ 4. Content Distribution Network
 
 <details>
   <summary>Answer</summary>
-  Taiwan
+  Content Delivery Network
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  7 hours 19 minutes</strong> since this server shutdown
+Its been <strong>12 days  7 hours 49 minutes</strong> since this server shutdown
