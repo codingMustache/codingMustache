@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A horse walks into a bar. The bar tender says "Hey." The horse says "Sure."
+Want to hear my pizza joke? Never mind, it's too cheesy.
 
 
 ## Daily Trivia
 
-Whistler was the codename of this Microsoft Operating System.
- 1. Windows XP
- 2. Windows 2000
- 3. Windows 7
- 4. Windows 95
+Which SQL keyword is used to fetch data from a database?
+ 1. INDEX
+ 2. VALUES
+ 3. EXEC
+ 4. SELECT
 
 <details>
   <summary>Answer</summary>
-  Windows XP
+  SELECT
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  1 hours 49 minutes</strong> since this server shutdown
+Its been <strong>13 days  2 hours 19 minutes</strong> since this server shutdown
