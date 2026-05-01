@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A book just fell on my head. I only have my shelf to blame.
+How do you fix a damaged jack-o-lantern? You use a pumpkin patch.
 
 
 ## Daily Trivia
 
-Generally, which component of a computer draws the most power?
- 1. Hard Drive
- 2. Power Supply
- 3. Processor
- 4. Video Card
+What does the International System of Quantities refer 1024 bytes as?
+ 1. Kelobyte
+ 2. Kilobyte
+ 3. Kylobyte
+ 4. Kibibyte
 
 <details>
   <summary>Answer</summary>
-  Video Card
+  Kibibyte
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  12 hours 19 minutes</strong> since this server shutdown
+Its been <strong>12 days  12 hours 49 minutes</strong> since this server shutdown
