@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the Mexican train killer? He had loco motives
+What do you call a beehive without the b's? An eehive.
 
 
 ## Daily Trivia
 
-What does the acronym CDN stand for in terms of networking?
- 1. Computational Data Network
- 2. Content Delivery Network
- 3. Compressed Data Network
- 4. Content Distribution Network
+How many values can a single byte represent?
+ 1. 1
+ 2. 8
+ 3. 256
+ 4. 1024
 
 <details>
   <summary>Answer</summary>
-  Content Delivery Network
+  256
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  7 hours 49 minutes</strong> since this server shutdown
+Its been <strong>12 days  8 hours 19 minutes</strong> since this server shutdown
