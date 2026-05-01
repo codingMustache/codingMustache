@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the knife dress up in a suit? Because it wanted to look sharp
+My boss told me that he was going to fire the person with the worst posture. I have a hunch, it might be me.
 
 
 ## Daily Trivia
 
-Who is the founder of Palantir?
- 1. Peter Thiel
- 2. Jack Dorsey
- 3. Marc Benioff
- 4. Mark Zuckerberg
+What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
+ 1. Heat Vent
+ 2. Heat Sink
+ 3. Temperature Decipator
+ 4. CPU Vent
 
 <details>
   <summary>Answer</summary>
-  Peter Thiel
+  Heat Sink
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  2 hours 49 minutes</strong> since this server shutdown
+Its been <strong>13 days  3 hours 19 minutes</strong> since this server shutdown
