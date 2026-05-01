@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you fix a damaged jack-o-lantern? You use a pumpkin patch.
+What kind of magic do cows believe in? MOODOO.
 
 
 ## Daily Trivia
 
-What does the International System of Quantities refer 1024 bytes as?
- 1. Kelobyte
- 2. Kilobyte
- 3. Kylobyte
- 4. Kibibyte
+What did the name of the Tor Anonymity Network orignially stand for?
+ 1. The Only Router
+ 2. The Orange Router
+ 3. The Ominous Router
+ 4. The Onion Router
 
 <details>
   <summary>Answer</summary>
-  Kibibyte
+  The Onion Router
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  12 hours 49 minutes</strong> since this server shutdown
+Its been <strong>12 days  13 hours 19 minutes</strong> since this server shutdown
