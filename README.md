@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I made a playlist for hiking. It has music from Peanuts, The Cranberries, and Eminem. I call it my Trail Mix.
+Today, my son asked "Can I have a book mark?" and I burst into tears. 11 years old and he still doesn't know my name is Brian.
 
 
 ## Daily Trivia
 
-How many bits make up the significand portion of a single precision floating point number?
- 1. 15
- 2. 23
- 3. 8
- 4. 53
+What is the main CPU is the Sega Mega Drive / Sega Genesis?
+ 1. Motorola 68000
+ 2. Yamaha YM2612
+ 3. Zilog Z80
+ 4. Intel 8088
 
 <details>
   <summary>Answer</summary>
-  23
+  Motorola 68000
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  14 hours 49 minutes</strong> since this server shutdown
+Its been <strong>12 days  15 hours 19 minutes</strong> since this server shutdown
