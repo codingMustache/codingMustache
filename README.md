@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I made a playlist for hiking. It has music from Peanuts, The Cranberries, and Eminem. I call it my Trail Mix.
+Can February march? No, but April may.
 
 
 ## Daily Trivia
 
-Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
- 1. Eight Years
- 2. Two Years
- 3. Year
- 4. Four Years
+The acronym &quot;RIP&quot; stands for which of these?
+ 1. Runtime Instance Processes
+ 2. Regular Interval Processes
+ 3. Routine Inspection Protocol
+ 4. Routing Information Protocol
 
 <details>
   <summary>Answer</summary>
-  Year
+  Routing Information Protocol
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  19 hours 19 minutes</strong> since this server shutdown
+Its been <strong>12 days  19 hours 49 minutes</strong> since this server shutdown
