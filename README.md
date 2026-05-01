@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you tell the difference between a crocodile and an alligator? You will see one later and one in a while.
+I tried to write a chemistry joke, but could never get a reaction.
 
 
 ## Daily Trivia
 
-In computing, how many bits are in a nibble?
- 1. 4
- 2. 32
- 3. 2
- 4. 16
+How many values can a single byte represent?
+ 1. 8
+ 2. 1
+ 3. 256
+ 4. 1024
 
 <details>
   <summary>Answer</summary>
-  4
+  256
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  20 hours 49 minutes</strong> since this server shutdown
+Its been <strong>12 days  21 hours 19 minutes</strong> since this server shutdown
