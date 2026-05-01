@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a magician who has lost their magic? Ian.
+Did you know that protons have mass? I didn't even know they were catholic.
 
 
 ## Daily Trivia
 
-Which operating system was released first?
- 1. Windows
- 2. Linux
- 3. OS/2
- 4. Mac OS
+Which RAID array type is associated with data mirroring?
+ 1. RAID 0
+ 2. RAID 10
+ 3. RAID 5
+ 4. RAID 1
 
 <details>
   <summary>Answer</summary>
-  Mac OS
+  RAID 1
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days 49 minutes</strong> since this server shutdown
+Its been <strong>13 days  1 hours 19 minutes</strong> since this server shutdown
