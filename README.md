@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I went to the zoo the other day, there was only one dog in it. It was a shitzu.
+Did you hear about the guy whose whole left side was cut off? He's all right now.
 
 
 ## Daily Trivia
 
-In networking, what does OSPF stand for?
- 1. Order Sense Ping Find
- 2. Order State Part First
- 3. Open Shortest Path First
- 4. Open Signal Path Finder
+On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
+ 1. Dollar Sign
+ 2. Percent Sign
+ 3. Asterisk
+ 4. Exclamation Mark
 
 <details>
   <summary>Answer</summary>
-  Open Shortest Path First
+  Exclamation Mark
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  4 hours 19 minutes</strong> since this server shutdown
+Its been <strong>12 days  4 hours 49 minutes</strong> since this server shutdown
