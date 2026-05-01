@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Doctor you've got you help me, I'm addicted to twitter. Doctor: I don't follow you.
+How do you make a 'one' disappear? You add a 'g' and it's 'gone'
 
 
 ## Daily Trivia
 
-What does AD stand for in relation to Windows Operating Systems? 
- 1. Alternative Drive
- 2. Automated Database
- 3. Active Department
- 4. Active Directory
+The programming language &#039;Swift&#039; was created to replace what other programming language?
+ 1. C++
+ 2. Objective-C
+ 3. Ruby
+ 4. C#
 
 <details>
   <summary>Answer</summary>
-  Active Directory
+  Objective-C
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  15 hours 49 minutes</strong> since this server shutdown
+Its been <strong>12 days  16 hours 19 minutes</strong> since this server shutdown
