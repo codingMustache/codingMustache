@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a beehive without the b's? An eehive.
+Yesterday I confused the words "jacuzzi" and "yakuza". Now I'm in hot water with the Japanese mafia.
 
 
 ## Daily Trivia
 
-CMOS is tech used for constructing integrated circuits. What does CMOS stand for?
- 1. Complementary metal&ndash;oxide&ndash;semiconductor
- 2. Computer-made oscillating static
- 3. Computer-made operating system
- 4. Complementary magnetic-ohms-semiconductor
+What does the acronym CDN stand for in terms of networking?
+ 1. Content Delivery Network
+ 2. Compressed Data Network
+ 3. Computational Data Network
+ 4. Content Distribution Network
 
 <details>
   <summary>Answer</summary>
-  Complementary metal&ndash;oxide&ndash;semiconductor
+  Content Delivery Network
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  5 hours 49 minutes</strong> since this server shutdown
+Its been <strong>12 days  6 hours 19 minutes</strong> since this server shutdown
