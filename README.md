@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I tried to write a chemistry joke, but could never get a reaction.
+Where do young cows eat lunch? In the calf-ateria.
 
 
 ## Daily Trivia
 
-How many values can a single byte represent?
- 1. 8
- 2. 1
- 3. 256
- 4. 1024
+The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
+ 1. Fiji
+ 2. Tuvalu
+ 3. Micronesia
+ 4. Marshall Islands
 
 <details>
   <summary>Answer</summary>
-  256
+  Micronesia
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  21 hours 19 minutes</strong> since this server shutdown
+Its been <strong>12 days  21 hours 49 minutes</strong> since this server shutdown
