@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the drummer name her twin daughters? Anna One, Anna Two...
+I used to be addicted to the hokey pokey, but I turned myself around.
 
 
 ## Daily Trivia
 
-Which of these names was an actual codename for a cancelled Microsoft project?
- 1. Neptune
- 2. Enceladus
- 3. Saturn
- 4. Pollux
+What does &quot;LCD&quot; stand for?
+ 1. Language Control Design
+ 2. Long Continuous Design
+ 3. Last Common Difference
+ 4. Liquid Crystal Display
 
 <details>
   <summary>Answer</summary>
-  Neptune
+  Liquid Crystal Display
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  10 hours 49 minutes</strong> since this server shutdown
+Its been <strong>12 days  11 hours 19 minutes</strong> since this server shutdown
