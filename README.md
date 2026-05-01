@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Doctor you've got to help me, I'm addicted to Twitter. Doctor: I don't follow you.
+What do you call a dad that has fallen through the ice? A Popsicle.
 
 
 ## Daily Trivia
 
-What does the computer software acronym JVM stand for?
- 1. Java Vendor Machine
- 2. Java Virtual Machine
- 3. Java Visual Machine
- 4. Just Virtual Machine
+What is largely considered the precursor to the USB format?
+ 1. SVGA
+ 2. FireWire
+ 3. PS/2
+ 4. PCIe
 
 <details>
   <summary>Answer</summary>
-  Java Virtual Machine
+  PS/2
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  23 hours 19 minutes</strong> since this server shutdown
+Its been <strong>12 days  23 hours 49 minutes</strong> since this server shutdown
