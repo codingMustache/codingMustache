@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the difference between a rooster and a crow? A rooster can crow but a crow cannot rooster.
+I used to work in a shoe recycling shop. It was sole destroying.
 
 
 ## Daily Trivia
 
-The programming language &#039;Swift&#039; was created to replace what other programming language?
- 1. Objective-C
- 2. C#
- 3. Ruby
- 4. C++
+What port does HTTP run on?
+ 1. 23
+ 2. 443
+ 3. 53
+ 4. 80
 
 <details>
   <summary>Answer</summary>
-  Objective-C
+  80
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>12 days  8 hours 49 minutes</strong> since this server shutdown
+Its been <strong>12 days  9 hours 19 minutes</strong> since this server shutdown
