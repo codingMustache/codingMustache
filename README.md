@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What’s E.T. short for? He’s only got little legs.
+What do you call a group of disorganized cats? A cat-tastrophe.
 
 
 ## Daily Trivia
 
-How long is an IPv6 address?
- 1. 32 bits
- 2. 64 bits
- 3. 128 bytes
- 4. 128 bits
+In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
+ 1. Final
+ 2. Private
+ 3. Static
+ 4. Public
 
 <details>
   <summary>Answer</summary>
-  128 bits
+  Final
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>14 days 19 minutes</strong> since this server shutdown
+Its been <strong>14 days 49 minutes</strong> since this server shutdown
