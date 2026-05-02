@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-People saying 'boo! to their friends has risen by 85% in the last year.... That's a frightening statistic.
+Why did the girl smear peanut butter on the road? To go with the traffic jam.
 
 
 ## Daily Trivia
 
-What is the main CPU is the Sega Mega Drive / Sega Genesis?
- 1. Motorola 68000
- 2. Zilog Z80
- 3. Yamaha YM2612
- 4. Intel 8088
+What does the term GPU stand for?
+ 1. Gaming Processor Unit
+ 2. Graphite Producing Unit
+ 3. Graphics Processing Unit
+ 4. Graphical Proprietary Unit
 
 <details>
   <summary>Answer</summary>
-  Motorola 68000
+  Graphics Processing Unit
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  22 hours 19 minutes</strong> since this server shutdown
+Its been <strong>13 days  22 hours 49 minutes</strong> since this server shutdown
