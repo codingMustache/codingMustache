@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did Yoda say when he saw himself in 4K? "HDMI"
+Why was the big cat disqualified from the race? Because it was a cheetah.
 
 
 ## Daily Trivia
 
-Linus Torvalds created which of these?
- 1. Microsoft Windows
- 2. Python
- 3. Wikipedia
- 4. Linux
+The Harvard architecture for micro-controllers added which additional bus?
+ 1. Instruction
+ 2. Address
+ 3. Data
+ 4. Control
 
 <details>
   <summary>Answer</summary>
-  Linux
+  Instruction
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  14 hours 19 minutes</strong> since this server shutdown
+Its been <strong>13 days  14 hours 49 minutes</strong> since this server shutdown
