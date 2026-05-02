@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the shy pebble wish for? That she was a little boulder.
+A girl once asked me what my heart desired, apparently blood, oxygen and neural messages were all wrong answers
 
 
 ## Daily Trivia
 
-Which of the following is NOT a computer science algorithm?
- 1. Quick Sort
- 2. Float Sort
- 3. Merge Sort
- 4. Bubble Sort
+Which of the following physical typologies are used with Ethernet Networks?
+ 1. Hex
+ 2. Mesh
+ 3. Ring
+ 4. Star
 
 <details>
   <summary>Answer</summary>
-  Float Sort
+  Star
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  5 hours 49 minutes</strong> since this server shutdown
+Its been <strong>13 days  6 hours 19 minutes</strong> since this server shutdown
