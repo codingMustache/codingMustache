@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I needed a password eight characters long so I picked Snow White and the Seven Dwarfs.
+How many South Americans does it take to change a lightbulb? A Brazilian
 
 
 ## Daily Trivia
 
-Which of these people was NOT a founder of Apple Inc?
- 1. Ronald Wayne
- 2. Steve Wozniak
- 3. Jonathan Ive
- 4. Steve Jobs
+What is the code name for the mobile operating system Android 7.0?
+ 1. Ice Cream Sandwich
+ 2. Jelly Bean
+ 3. Marshmallow
+ 4. Nougat
 
 <details>
   <summary>Answer</summary>
-  Jonathan Ive
+  Nougat
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  13 hours 19 minutes</strong> since this server shutdown
+Its been <strong>13 days  13 hours 49 minutes</strong> since this server shutdown
