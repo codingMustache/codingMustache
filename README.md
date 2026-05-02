@@ -6,16 +6,16 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My new thesaurus is terrible. In fact, it's so bad, I'd say it's terrible.
+I gave my friend 10 puns hoping that one of them would make him laugh. Sadly, no pun in ten did.
 
 
 ## Daily Trivia
 
 Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
- 1. Cherry MX Red
+ 1. Cherry MX Blue
  2. Cherry MX Black
  3. Cherry MX Brown
- 4. Cherry MX Blue
+ 4. Cherry MX Red
 
 <details>
   <summary>Answer</summary>
@@ -25,4 +25,4 @@ Which of these Cherry MX mechanical keyboard switches is both tactile and clicky
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  10 hours 19 minutes</strong> since this server shutdown
+Its been <strong>13 days  10 hours 49 minutes</strong> since this server shutdown
