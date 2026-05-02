@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many optometrists does it take to change a light bulb? 1 or 2? 1... or 2?
+They say Dodger Stadium can hold up to fifty-six thousand people, but that is just a ballpark figure.
 
 
 ## Daily Trivia
 
-Linus Torvalds created which of these?
- 1. Microsoft Windows
- 2. Linux
- 3. Python
- 4. Wikipedia
+Which of the following computer components can be built using only NAND gates?
+ 1. CPU
+ 2. RAM
+ 3. ALU
+ 4. Register
 
 <details>
   <summary>Answer</summary>
-  Linux
+  ALU
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  12 hours 19 minutes</strong> since this server shutdown
+Its been <strong>13 days  12 hours 49 minutes</strong> since this server shutdown
