@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Someone asked me to name two structures that hold water. I said "Well dam"
+What did the digital clock say to the grandfather clock? Look, no hands!
 
 
 ## Daily Trivia
 
-Color model CMYK stands for?
- 1. Cream, Maroon, Yellow, and Black
- 2. Cyan, Magenta, Yellow, and Khaki
- 3. Cream, Maroon, Yellow, and Khaki
- 4. Cyan, Magenta, Yellow, and Black
+Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
+ 1. Skipjack
+ 2. Enigma Machine
+ 3. Nautilus
+ 4. Clipper Chip
 
 <details>
   <summary>Answer</summary>
-  Cyan, Magenta, Yellow, and Black
+  Clipper Chip
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  21 hours 19 minutes</strong> since this server shutdown
+Its been <strong>13 days  21 hours 49 minutes</strong> since this server shutdown
