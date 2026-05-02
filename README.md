@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call your friend who stands in a hole? Phil.
+Want to hear a joke about construction? Nah, I'm still working on it.
 
 
 ## Daily Trivia
 
-This mobile OS held the largest market share in 2012.
- 1. BlackBerry
- 2. Android
- 3. Symbian
- 4. iOS
+When Gmail first launched, how much storage did it provide for your email?
+ 1. 512MB
+ 2. 5GB
+ 3. Unlimited
+ 4. 1GB
 
 <details>
   <summary>Answer</summary>
-  iOS
+  1GB
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>14 days  2 hours 49 minutes</strong> since this server shutdown
+Its been <strong>14 days  3 hours 19 minutes</strong> since this server shutdown
