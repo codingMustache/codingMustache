@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the digital clock say to the grandfather clock? Look, no hands!
+People saying 'boo! to their friends has risen by 85% in the last year.... That's a frightening statistic.
 
 
 ## Daily Trivia
 
-Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
- 1. Skipjack
- 2. Enigma Machine
- 3. Nautilus
- 4. Clipper Chip
+What is the main CPU is the Sega Mega Drive / Sega Genesis?
+ 1. Motorola 68000
+ 2. Zilog Z80
+ 3. Yamaha YM2612
+ 4. Intel 8088
 
 <details>
   <summary>Answer</summary>
-  Clipper Chip
+  Motorola 68000
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  21 hours 49 minutes</strong> since this server shutdown
+Its been <strong>13 days  22 hours 19 minutes</strong> since this server shutdown
