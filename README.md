@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many South Americans does it take to change a lightbulb? A Brazilian
+What did Yoda say when he saw himself in 4K? "HDMI"
 
 
 ## Daily Trivia
 
-What is the code name for the mobile operating system Android 7.0?
- 1. Ice Cream Sandwich
- 2. Jelly Bean
- 3. Marshmallow
- 4. Nougat
+Linus Torvalds created which of these?
+ 1. Microsoft Windows
+ 2. Python
+ 3. Wikipedia
+ 4. Linux
 
 <details>
   <summary>Answer</summary>
-  Nougat
+  Linux
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  13 hours 49 minutes</strong> since this server shutdown
+Its been <strong>13 days  14 hours 19 minutes</strong> since this server shutdown
