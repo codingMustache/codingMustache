@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My boss told me to attach two pieces of wood together... I totally nailed it!
+Why did the feline fail the lie detector test? Because he be lion.
 
 
 ## Daily Trivia
 
-Color model CMYK stands for?
- 1. Cream, Maroon, Yellow, and Black
- 2. Cyan, Magenta, Yellow, and Khaki
- 3. Cyan, Magenta, Yellow, and Black
- 4. Cream, Maroon, Yellow, and Khaki
+What is the number of keys on a standard Windows Keyboard?
+ 1. 104
+ 2. 76
+ 3. 94
+ 4. 64
 
 <details>
   <summary>Answer</summary>
-  Cyan, Magenta, Yellow, and Black
+  104
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  20 hours 19 minutes</strong> since this server shutdown
+Its been <strong>13 days  20 hours 49 minutes</strong> since this server shutdown
