@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the calculator say to the student? You can count on me.
+Did you hear the one about the giant pickle?  He was kind of a big dill.
 
 
 ## Daily Trivia
 
-What kind of memory is used on memory cache?
- 1. Flash
- 2. SRAM
- 3. ROM
- 4. DRAM
+In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
+ 1. console.log(&quot;Hello World&quot;)
+ 2. echo &quot;Hello World&quot;
+ 3. printf(&quot;Hello World&quot;)
+ 4. print(&quot;Hello World&quot;)
 
 <details>
   <summary>Answer</summary>
-  SRAM
+  print(&quot;Hello World&quot;)
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  17 hours 49 minutes</strong> since this server shutdown
+Its been <strong>13 days  18 hours 19 minutes</strong> since this server shutdown
