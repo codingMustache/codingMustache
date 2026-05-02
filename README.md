@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I gave my friend 10 puns hoping that one of them would make him laugh. Sadly, no pun in ten did.
+The other day I was listening to a song about superglue, it’s been stuck in my head ever since.
 
 
 ## Daily Trivia
 
-Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
- 1. Cherry MX Blue
- 2. Cherry MX Black
- 3. Cherry MX Brown
- 4. Cherry MX Red
+On which day did the World Wide Web go online?
+ 1. December 20, 1990
+ 2. November 12, 1990
+ 3. December 17, 1996
+ 4. November 24, 1995
 
 <details>
   <summary>Answer</summary>
-  Cherry MX Blue
+  December 20, 1990
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  10 hours 49 minutes</strong> since this server shutdown
+Its been <strong>13 days  11 hours 19 minutes</strong> since this server shutdown
