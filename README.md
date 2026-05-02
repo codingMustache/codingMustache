@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Want to hear a joke about construction? Nah, I'm still working on it.
+No matter how kind you are, German children are kinder.
 
 
 ## Daily Trivia
 
-When Gmail first launched, how much storage did it provide for your email?
- 1. 512MB
- 2. 5GB
- 3. Unlimited
- 4. 1GB
+Unix Time is defined as the number of seconds that have elapsed since when?
+ 1. Midnight on the creator of Unix&#039;s birthday
+ 2. Midnight, January 1, 1970
+ 3. Midnight, July 4, 1976
+ 4. Midnight, July 4, 1980
 
 <details>
   <summary>Answer</summary>
-  1GB
+  Midnight, January 1, 1970
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>14 days  3 hours 19 minutes</strong> since this server shutdown
+Its been <strong>14 days  3 hours 49 minutes</strong> since this server shutdown
