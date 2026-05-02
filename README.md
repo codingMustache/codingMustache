@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Do you want a brief explanation of what an acorn is? In a nutshell, it's an oak tree.
+I just wrote a book on reverse psychology. Do not read it!
 
 
 ## Daily Trivia
 
-In web design, what does CSS stand for?
- 1. Computer Style Sheet
- 2. Cascading Style Sheet
- 3. Corrective Style Sheet
- 4. Counter Strike: Source
+What does the term USB stand for?
+ 1. Universal Simtex Blot
+ 2. Unified Signal Bus
+ 3. Unityped Semtex Backer
+ 4. Universal Serial Bus
 
 <details>
   <summary>Answer</summary>
-  Cascading Style Sheet
+  Universal Serial Bus
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  6 hours 49 minutes</strong> since this server shutdown
+Its been <strong>13 days  7 hours 19 minutes</strong> since this server shutdown
