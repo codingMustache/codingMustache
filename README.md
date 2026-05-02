@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the girl smear peanut butter on the road? To go with the traffic jam.
+I cut my finger cutting cheese. I know it may be a cheesy story but I feel grate now.
 
 
 ## Daily Trivia
 
-What does the term GPU stand for?
- 1. Gaming Processor Unit
- 2. Graphite Producing Unit
- 3. Graphics Processing Unit
- 4. Graphical Proprietary Unit
+What does the International System of Quantities refer 1024 bytes as?
+ 1. Kylobyte
+ 2. Kilobyte
+ 3. Kelobyte
+ 4. Kibibyte
 
 <details>
   <summary>Answer</summary>
-  Graphics Processing Unit
+  Kibibyte
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  22 hours 49 minutes</strong> since this server shutdown
+Its been <strong>13 days  23 hours 19 minutes</strong> since this server shutdown
