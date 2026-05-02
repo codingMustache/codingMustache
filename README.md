@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A girl once asked me what my heart desired, apparently blood, oxygen and neural messages were all wrong answers
+Do you want a brief explanation of what an acorn is? In a nutshell, it's an oak tree.
 
 
 ## Daily Trivia
 
-Which of the following physical typologies are used with Ethernet Networks?
- 1. Hex
- 2. Mesh
- 3. Ring
- 4. Star
+In web design, what does CSS stand for?
+ 1. Computer Style Sheet
+ 2. Cascading Style Sheet
+ 3. Corrective Style Sheet
+ 4. Counter Strike: Source
 
 <details>
   <summary>Answer</summary>
-  Star
+  Cascading Style Sheet
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  6 hours 19 minutes</strong> since this server shutdown
+Its been <strong>13 days  6 hours 49 minutes</strong> since this server shutdown
