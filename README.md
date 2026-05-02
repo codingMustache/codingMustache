@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A termite walks into a bar and asks “Is the bar tender here?”
+How many optometrists does it take to change a light bulb? 1 or 2? 1... or 2?
 
 
 ## Daily Trivia
 
-What is the name of Layer 7 of the OSI model?
- 1. Present
- 2. Session
- 3. Network
- 4. Application
+Linus Torvalds created which of these?
+ 1. Microsoft Windows
+ 2. Linux
+ 3. Python
+ 4. Wikipedia
 
 <details>
   <summary>Answer</summary>
-  Application
+  Linux
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  11 hours 49 minutes</strong> since this server shutdown
+Its been <strong>13 days  12 hours 19 minutes</strong> since this server shutdown
