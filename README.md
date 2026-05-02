@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do scuba divers fall backwards into the water? Because if they fell forwards they’d still be in the boat.
+Child: Dad, make me a sandwich. Dad: Poof! You're a sandwich.
 
 
 ## Daily Trivia
 
-Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
- 1. Enigma Machine
- 2. Clipper Chip
- 3. Skipjack
- 4. Nautilus
+What internet protocol was documented in RFC 1459?
+ 1. HTTP
+ 2. HTTPS
+ 3. IRC
+ 4. FTP
 
 <details>
   <summary>Answer</summary>
-  Clipper Chip
+  IRC
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  9 hours 19 minutes</strong> since this server shutdown
+Its been <strong>13 days  9 hours 49 minutes</strong> since this server shutdown
