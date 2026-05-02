@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-They say Dodger Stadium can hold up to fifty-six thousand people, but that is just a ballpark figure.
+I needed a password eight characters long so I picked Snow White and the Seven Dwarfs.
 
 
 ## Daily Trivia
 
-Which of the following computer components can be built using only NAND gates?
- 1. CPU
- 2. RAM
- 3. ALU
- 4. Register
+Which of these people was NOT a founder of Apple Inc?
+ 1. Ronald Wayne
+ 2. Steve Wozniak
+ 3. Jonathan Ive
+ 4. Steve Jobs
 
 <details>
   <summary>Answer</summary>
-  ALU
+  Jonathan Ive
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  12 hours 49 minutes</strong> since this server shutdown
+Its been <strong>13 days  13 hours 19 minutes</strong> since this server shutdown
