@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the tomato blush? Because it saw the salad dressing.
+My boss told me to attach two pieces of wood together... I totally nailed it!
 
 
 ## Daily Trivia
 
-What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
- 1. ADPCM Sampler
- 2. PCM Sampler
- 3. Programmable Sound Generator (PSG)
- 4. FM Synthesizer
+Color model CMYK stands for?
+ 1. Cream, Maroon, Yellow, and Black
+ 2. Cyan, Magenta, Yellow, and Khaki
+ 3. Cyan, Magenta, Yellow, and Black
+ 4. Cream, Maroon, Yellow, and Khaki
 
 <details>
   <summary>Answer</summary>
-  ADPCM Sampler
+  Cyan, Magenta, Yellow, and Black
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  19 hours 49 minutes</strong> since this server shutdown
+Its been <strong>13 days  20 hours 19 minutes</strong> since this server shutdown
