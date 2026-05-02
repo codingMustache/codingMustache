@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I cut my finger cutting cheese. I know it may be a cheesy story but I feel grate now.
+Why do nurses carry around red crayons? Sometimes they need to draw blood.
 
 
 ## Daily Trivia
 
-What does the International System of Quantities refer 1024 bytes as?
- 1. Kylobyte
- 2. Kilobyte
- 3. Kelobyte
- 4. Kibibyte
+When Gmail first launched, how much storage did it provide for your email?
+ 1. 5GB
+ 2. 1GB
+ 3. 512MB
+ 4. Unlimited
 
 <details>
   <summary>Answer</summary>
-  Kibibyte
+  1GB
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  23 hours 19 minutes</strong> since this server shutdown
+Its been <strong>13 days  23 hours 49 minutes</strong> since this server shutdown
