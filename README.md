@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I just wrote a book on reverse psychology. Do not read it!
+What did the Zen Buddist say to the hotdog vendor? Make me one with everything.
 
 
 ## Daily Trivia
 
-What does the term USB stand for?
- 1. Universal Simtex Blot
- 2. Unified Signal Bus
- 3. Unityped Semtex Backer
- 4. Universal Serial Bus
+What was the name of the security vulnerability found in Bash in 2014?
+ 1. Bashbug
+ 2. Shellshock
+ 3. Stagefright
+ 4. Heartbleed
 
 <details>
   <summary>Answer</summary>
-  Universal Serial Bus
+  Shellshock
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  7 hours 19 minutes</strong> since this server shutdown
+Its been <strong>13 days  7 hours 49 minutes</strong> since this server shutdown
