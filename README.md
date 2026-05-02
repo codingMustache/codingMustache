@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What does a female snake use for support? A co-Bra!
+What did the shy pebble wish for? That she was a little boulder.
 
 
 ## Daily Trivia
 
-What kind of memory is used on memory cache?
- 1. DRAM
- 2. Flash
- 3. SRAM
- 4. ROM
+Which of the following is NOT a computer science algorithm?
+ 1. Quick Sort
+ 2. Float Sort
+ 3. Merge Sort
+ 4. Bubble Sort
 
 <details>
   <summary>Answer</summary>
-  SRAM
+  Float Sort
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  5 hours 19 minutes</strong> since this server shutdown
+Its been <strong>13 days  5 hours 49 minutes</strong> since this server shutdown
