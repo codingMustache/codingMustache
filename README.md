@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a bee that lives in America? A USB.
+Who is the coolest Doctor in the hospital? The hip Doctor!
 
 
 ## Daily Trivia
 
-What does the Prt Sc button do?
- 1. Captures what&#039;s on the screen and copies it to your clipboard
- 2. Nothing
- 3. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
- 4. Closes all windows
+What is the main CPU is the Sega Mega Drive / Sega Genesis?
+ 1. Motorola 68000
+ 2. Intel 8088
+ 3. Yamaha YM2612
+ 4. Zilog Z80
 
 <details>
   <summary>Answer</summary>
-  Captures what&#039;s on the screen and copies it to your clipboard
+  Motorola 68000
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>13 days  18 hours 49 minutes</strong> since this server shutdown
+Its been <strong>13 days  19 hours 19 minutes</strong> since this server shutdown
