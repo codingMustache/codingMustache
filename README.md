@@ -6,23 +6,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A police officer caught two kids playing with a firework and a car battery. He charged one and let the other one off.
+What's the difference between a seal and a sea lion?
+An ion! 
 
 
 ## Daily Trivia
 
-Generally, which component of a computer draws the most power?
- 1. Power Supply
- 2. Processor
- 3. Video Card
- 4. Hard Drive
+What internet protocol was documented in RFC 1459?
+ 1. HTTPS
+ 2. FTP
+ 3. HTTP
+ 4. IRC
 
 <details>
   <summary>Answer</summary>
-  Video Card
+  IRC
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>14 days  4 hours 49 minutes</strong> since this server shutdown
+Its been <strong>14 days  5 hours 19 minutes</strong> since this server shutdown
