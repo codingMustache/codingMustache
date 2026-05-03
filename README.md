@@ -6,23 +6,25 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was it called the dark ages? Because of all the knights. 
+Mahatma Gandhi, as you know, walked barefoot most of the time, which produced an impressive set of calluses on his feet. 
+He also ate very little, which made him rather frail and with his odd diet, he suffered from bad breath. 
+This made him a super calloused fragile mystic hexed by halitosis.
 
 
 ## Daily Trivia
 
-What is the domain name for the country Tuvalu?
- 1. .tu
- 2. .tv
- 3. .tt
- 4. .tl
+Linus Torvalds created which of these?
+ 1. Python
+ 2. Linux
+ 3. Wikipedia
+ 4. Microsoft Windows
 
 <details>
   <summary>Answer</summary>
-  .tv
+  Linux
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>14 days  8 hours 49 minutes</strong> since this server shutdown
+Its been <strong>14 days  9 hours 19 minutes</strong> since this server shutdown
