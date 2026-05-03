@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do you take someone who has been injured in a Peek-a-boo accident? To the I.C.U.
+What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand...
 
 
 ## Daily Trivia
 
-What does &quot;LCD&quot; stand for?
- 1. Language Control Design
- 2. Last Common Difference
- 3. Long Continuous Design
- 4. Liquid Crystal Display
+According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:
+ 1. AB&#039; + AB
+ 2. A&#039;B&#039;
+ 3. A&#039;B + B&#039;A
+ 4. A&#039; + B&#039;
 
 <details>
   <summary>Answer</summary>
-  Liquid Crystal Display
+  A&#039; + B&#039;
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>15 days  1 hours 49 minutes</strong> since this server shutdown
+Its been <strong>15 days  2 hours 19 minutes</strong> since this server shutdown
