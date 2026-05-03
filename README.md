@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A Skeleton walked into a bar he said I need a beer and a mop
+I am terrified of elevators. I’m going to start taking steps to avoid them.
 
 
 ## Daily Trivia
 
-Unix Time is defined as the number of seconds that have elapsed since when?
- 1. Midnight on the creator of Unix&#039;s birthday
- 2. Midnight, July 4, 1980
- 3. Midnight, July 4, 1976
- 4. Midnight, January 1, 1970
+In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
+ 1. &lt;scroll&gt;&lt;/scroll&gt;
+ 2. &lt;move&gt;&lt;/move&gt;
+ 3. &lt;marquee&gt;&lt;/marquee&gt;
+ 4. &lt;slide&gt;&lt;/slide&gt;
 
 <details>
   <summary>Answer</summary>
-  Midnight, January 1, 1970
+  &lt;marquee&gt;&lt;/marquee&gt;
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>15 days  3 hours 19 minutes</strong> since this server shutdown
+Its been <strong>15 days  3 hours 49 minutes</strong> since this server shutdown
