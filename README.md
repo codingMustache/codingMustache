@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Got a new suit recently made entirely of living plants. I wasn’t sure at first, but it’s grown on me
+Did you hear about the guy whose whole left side was cut off? He's all right now.
 
 
 ## Daily Trivia
 
-How fast is USB 3.1 Gen 2 theoretically?
- 1. 1 Gb/s
- 2. 10 Gb/s
- 3. 8 Gb/s
- 4. 5 Gb/s
+In computing, how many bits are in a nibble?
+ 1. 16
+ 2. 32
+ 3. 2
+ 4. 4
 
 <details>
   <summary>Answer</summary>
-  10 Gb/s
+  4
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>15 days 49 minutes</strong> since this server shutdown
+Its been <strong>15 days  1 hours 19 minutes</strong> since this server shutdown
