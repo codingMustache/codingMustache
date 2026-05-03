@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many bones are in the human hand? A handful of them.
+What do you do on a remote island? Try and find the TV island it belongs to.
 
 
 ## Daily Trivia
 
-HTML is what type of language?
- 1. Markup Language
- 2. Programming Language
- 3. Scripting Language
- 4. Macro Language
+Which programming language shares its name with an island in Indonesia?
+ 1. Jakarta
+ 2. C
+ 3. Java
+ 4. Python
 
 <details>
   <summary>Answer</summary>
-  Markup Language
+  Java
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>14 days  18 hours 19 minutes</strong> since this server shutdown
+Its been <strong>14 days  18 hours 49 minutes</strong> since this server shutdown
