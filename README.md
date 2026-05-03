@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Do you want a brief explanation of what an acorn is? In a nutshell, it's an oak tree.
+A Skeleton walked into a bar he said I need a beer and a mop
 
 
 ## Daily Trivia
 
-The teapot often seen in many 3D modeling applications is called what?
- 1. 3D Teapot
- 2. Utah Teapot
- 3. Pixar Teapot
- 4. Tennessee Teapot
+Unix Time is defined as the number of seconds that have elapsed since when?
+ 1. Midnight on the creator of Unix&#039;s birthday
+ 2. Midnight, July 4, 1980
+ 3. Midnight, July 4, 1976
+ 4. Midnight, January 1, 1970
 
 <details>
   <summary>Answer</summary>
-  Utah Teapot
+  Midnight, January 1, 1970
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>15 days  2 hours 49 minutes</strong> since this server shutdown
+Its been <strong>15 days  3 hours 19 minutes</strong> since this server shutdown
