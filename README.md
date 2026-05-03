@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand...
+Do you want a brief explanation of what an acorn is? In a nutshell, it's an oak tree.
 
 
 ## Daily Trivia
 
-According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:
- 1. AB&#039; + AB
- 2. A&#039;B&#039;
- 3. A&#039;B + B&#039;A
- 4. A&#039; + B&#039;
+The teapot often seen in many 3D modeling applications is called what?
+ 1. 3D Teapot
+ 2. Utah Teapot
+ 3. Pixar Teapot
+ 4. Tennessee Teapot
 
 <details>
   <summary>Answer</summary>
-  A&#039; + B&#039;
+  Utah Teapot
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>15 days  2 hours 19 minutes</strong> since this server shutdown
+Its been <strong>15 days  2 hours 49 minutes</strong> since this server shutdown
