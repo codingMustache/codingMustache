@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you make a 'one' disappear? You add a 'g' and it's 'gone'
+What did the digital clock say to the grandfather clock? Look, no hands!
 
 
 ## Daily Trivia
 
-The numbering system with a radix of 16 is more commonly referred to as 
- 1. Hexidecimal
- 2. Binary
- 3. Duodecimal
- 4. Octal
+The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
+ 1. Sinclair Research
+ 2. Commodore Business Machines
+ 3. Amstrad PLC
+ 4. Acorn Computers
 
 <details>
   <summary>Answer</summary>
-  Hexidecimal
+  Acorn Computers
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>14 days  9 hours 49 minutes</strong> since this server shutdown
+Its been <strong>14 days  10 hours 19 minutes</strong> since this server shutdown
