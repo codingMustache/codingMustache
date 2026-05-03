@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Who is the coolest Doctor in the hospital? The hip Doctor!
+Why was it called the dark ages? Because of all the knights. 
 
 
 ## Daily Trivia
 
-Whistler was the codename of this Microsoft Operating System.
- 1. Windows 2000
- 2. Windows XP
- 3. Windows 7
- 4. Windows 95
+What is the domain name for the country Tuvalu?
+ 1. .tu
+ 2. .tv
+ 3. .tt
+ 4. .tl
 
 <details>
   <summary>Answer</summary>
-  Windows XP
+  .tv
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>14 days  8 hours 19 minutes</strong> since this server shutdown
+Its been <strong>14 days  8 hours 49 minutes</strong> since this server shutdown
