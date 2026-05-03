@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Don't trust atoms. They make up everything.
+How many apples grow on a tree? All of them!
 
 
 ## Daily Trivia
 
-What does RAID stand for?
- 1. Redundant Array of Independent Disks
- 2. Randomized Abstract Identification Description
- 3. Range of Applications with Identical Designs
- 4. Rapid Access for Indexed Devices
+What is the domain name for the country Tuvalu?
+ 1. .tu
+ 2. .tt
+ 3. .tl
+ 4. .tv
 
 <details>
   <summary>Answer</summary>
-  Redundant Array of Independent Disks
+  .tv
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>14 days  21 hours 19 minutes</strong> since this server shutdown
+Its been <strong>14 days  21 hours 49 minutes</strong> since this server shutdown
