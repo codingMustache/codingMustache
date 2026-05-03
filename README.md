@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts.
+I'm glad I know sign language, it's pretty handy.
 
 
 ## Daily Trivia
 
-What internet protocol was documented in RFC 1459?
- 1. IRC
- 2. HTTP
- 3. HTTPS
- 4. FTP
+Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
+ 1. Commodore
+ 2. Microsoft
+ 3. Apple
+ 4. Atari
 
 <details>
   <summary>Answer</summary>
-  IRC
+  Apple
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>14 days  7 hours 19 minutes</strong> since this server shutdown
+Its been <strong>14 days  7 hours 49 minutes</strong> since this server shutdown
