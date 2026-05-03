@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What’s brown and sounds like a bell? Dung!
+Why did the opera singer go sailing? They wanted to hit the high Cs.
 
 
 ## Daily Trivia
 
-Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
- 1. C#
- 2. Python
- 3. PHP
- 4. JavaScript
+Nvidia&#039;s headquarters are based in which Silicon Valley city?
+ 1. Mountain View
+ 2. Cupertino
+ 3. Palo Alto
+ 4. Santa Clara
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  Santa Clara
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>14 days  16 hours 49 minutes</strong> since this server shutdown
+Its been <strong>14 days  17 hours 19 minutes</strong> since this server shutdown
