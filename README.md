@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What has a bed that you can’t sleep in? A river.
+I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts.
 
 
 ## Daily Trivia
 
-.at is the top-level domain for what country?
- 1. Austria
- 2. Angola
- 3. Australia
- 4. Argentina
+What internet protocol was documented in RFC 1459?
+ 1. IRC
+ 2. HTTP
+ 3. HTTPS
+ 4. FTP
 
 <details>
   <summary>Answer</summary>
-  Austria
+  IRC
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>14 days  6 hours 49 minutes</strong> since this server shutdown
+Its been <strong>14 days  7 hours 19 minutes</strong> since this server shutdown
