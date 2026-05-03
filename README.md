@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A doll was recently found dead in a rice paddy. It's the only known instance of a nick nack paddy wack.
+Velcro… What a rip-off.
 
 
 ## Daily Trivia
 
-Linus Torvalds created which of these?
- 1. Wikipedia
- 2. Python
- 3. Linux
- 4. Microsoft Windows
+According to the International System of Units, how many bytes are in a kilobyte of RAM?
+ 1. 512
+ 2. 1024
+ 3. 500
+ 4. 1000
 
 <details>
   <summary>Answer</summary>
-  Linux
+  1000
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>14 days  15 hours 49 minutes</strong> since this server shutdown
+Its been <strong>14 days  16 hours 19 minutes</strong> since this server shutdown
