@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you know you should always take an extra pair of pants golfing? Just in case you get a hole in one.
+How do you know if there’s an elephant under your bed? Your head hits the ceiling!
 
 
 ## Daily Trivia
 
-What amount of bits commonly equals one byte?
- 1. 1
- 2. 2
- 3. 64
- 4. 8
+What was the first company to use the term &quot;Golden Master&quot;?
+ 1. Google
+ 2. Apple
+ 3. Microsoft
+ 4. IBM
 
 <details>
   <summary>Answer</summary>
-  8
+  Apple
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>14 days  22 hours 19 minutes</strong> since this server shutdown
+Its been <strong>14 days  22 hours 49 minutes</strong> since this server shutdown
