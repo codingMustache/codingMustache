@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Have you heard about the owl sanctuary job opening? It’s all night shifts but they’re all a hoot over there.
+What's the difference between a guitar and a fish? You can tune a guitar but you can't "tuna" fish!
 
 
 ## Daily Trivia
 
-The programming language &#039;Swift&#039; was created to replace what other programming language?
- 1. C++
- 2. Objective-C
- 3. Ruby
- 4. C#
+The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
+ 1. Sinclair Research
+ 2. Acorn Computers
+ 3. Commodore Business Machines
+ 4. Amstrad PLC
 
 <details>
   <summary>Answer</summary>
-  Objective-C
+  Acorn Computers
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>14 days  11 hours 49 minutes</strong> since this server shutdown
+Its been <strong>14 days  12 hours 19 minutes</strong> since this server shutdown
