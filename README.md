@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the big flower say to the littler flower? Hi, bud!
+Why did the tree go to the dentist? It needed a root canal.
 
 
 ## Daily Trivia
 
-What does the DOS in Microsoft&#039;s first operating system &quot;MS-DOS&quot; stand for?
- 1. Dumb Operating System
- 2. Disk Operating System
- 3. Driver Oriented System
- 4. Diskless Operating System
+What does the acronym CDN stand for in terms of networking?
+ 1. Computational Data Network
+ 2. Content Delivery Network
+ 3. Content Distribution Network
+ 4. Compressed Data Network
 
 <details>
   <summary>Answer</summary>
-  Disk Operating System
+  Content Delivery Network
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>14 days  12 hours 49 minutes</strong> since this server shutdown
+Its been <strong>14 days  13 hours 19 minutes</strong> since this server shutdown
