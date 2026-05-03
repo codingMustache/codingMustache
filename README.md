@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of bagel can fly? A plain bagel.
+My sister bet me $15 that I couldn't build a car out of spaghetti. You should have seen the look on her face as I drove pasta.
 
 
 ## Daily Trivia
 
-How many bytes are in a single Kibibyte?
- 1. 1024
- 2. 2400
- 3. 1240
- 4. 1000
+In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
+ 1. static
+ 2. absolute
+ 3. relative
+ 4. center
 
 <details>
   <summary>Answer</summary>
-  1024
+  center
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>14 days  14 hours 49 minutes</strong> since this server shutdown
+Its been <strong>14 days  15 hours 19 minutes</strong> since this server shutdown
