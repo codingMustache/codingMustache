@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many apples grow on a tree? All of them!
+Did you know you should always take an extra pair of pants golfing? Just in case you get a hole in one.
 
 
 ## Daily Trivia
 
-What is the domain name for the country Tuvalu?
- 1. .tu
- 2. .tt
- 3. .tl
- 4. .tv
+What amount of bits commonly equals one byte?
+ 1. 1
+ 2. 2
+ 3. 64
+ 4. 8
 
 <details>
   <summary>Answer</summary>
-  .tv
+  8
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>14 days  21 hours 49 minutes</strong> since this server shutdown
+Its been <strong>14 days  22 hours 19 minutes</strong> since this server shutdown
