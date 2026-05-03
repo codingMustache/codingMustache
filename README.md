@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call someone with no nose? Nobody knows.
+What kind of bagel can fly? A plain bagel.
 
 
 ## Daily Trivia
 
-What is known as &quot;the brain&quot; of the Computer?
- 1. Graphics Processing Unit
- 2. Keyboard
- 3. Central Processing Unit
- 4. Motherboard
+How many bytes are in a single Kibibyte?
+ 1. 1024
+ 2. 2400
+ 3. 1240
+ 4. 1000
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  1024
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>14 days  14 hours 19 minutes</strong> since this server shutdown
+Its been <strong>14 days  14 hours 49 minutes</strong> since this server shutdown
