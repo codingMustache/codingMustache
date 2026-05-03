@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My sister bet me $15 that I couldn't build a car out of spaghetti. You should have seen the look on her face as I drove pasta.
+A doll was recently found dead in a rice paddy. It's the only known instance of a nick nack paddy wack.
 
 
 ## Daily Trivia
 
-In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
- 1. static
- 2. absolute
- 3. relative
- 4. center
+Linus Torvalds created which of these?
+ 1. Wikipedia
+ 2. Python
+ 3. Linux
+ 4. Microsoft Windows
 
 <details>
   <summary>Answer</summary>
-  center
+  Linux
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>14 days  15 hours 19 minutes</strong> since this server shutdown
+Its been <strong>14 days  15 hours 49 minutes</strong> since this server shutdown
