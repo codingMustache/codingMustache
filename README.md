@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the opera singer go sailing? They wanted to hit the high Cs.
+Guy told me today he did not know what cloning is. I told him, "that makes 2 of us."
 
 
 ## Daily Trivia
 
-Nvidia&#039;s headquarters are based in which Silicon Valley city?
- 1. Mountain View
- 2. Cupertino
- 3. Palo Alto
- 4. Santa Clara
+What internet protocol was documented in RFC 1459?
+ 1. HTTP
+ 2. HTTPS
+ 3. IRC
+ 4. FTP
 
 <details>
   <summary>Answer</summary>
-  Santa Clara
+  IRC
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>14 days  17 hours 19 minutes</strong> since this server shutdown
+Its been <strong>14 days  17 hours 49 minutes</strong> since this server shutdown
