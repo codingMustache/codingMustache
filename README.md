@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did Michael Jackson name his denim store?    Billy Jeans!
+What kind of dinosaur loves to sleep? A stega-snore-us.
 
 
 ## Daily Trivia
 
-What does the Prt Sc button do?
- 1. Closes all windows
- 2. Nothing
- 3. Captures what&#039;s on the screen and copies it to your clipboard
- 4. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
+On Twitter, what was the original character limit for a Tweet?
+ 1. 100
+ 2. 160
+ 3. 120
+ 4. 140
 
 <details>
   <summary>Answer</summary>
-  Captures what&#039;s on the screen and copies it to your clipboard
+  140
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>15 days  20 hours 49 minutes</strong> since this server shutdown
+Its been <strong>15 days  21 hours 19 minutes</strong> since this server shutdown
