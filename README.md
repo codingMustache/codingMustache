@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-To be Frank, I'd have to change my name.
+What do you call a fish wearing a bowtie? Sofishticated.
 
 
 ## Daily Trivia
 
-What does the acronym CDN stand for in terms of networking?
- 1. Computational Data Network
- 2. Content Distribution Network
- 3. Content Delivery Network
- 4. Compressed Data Network
+What was Bitcoin&#039;s block size limit in 2010?
+ 1. 1 TB
+ 2. 1 KB
+ 3. 1GB
+ 4. 1 MB
 
 <details>
   <summary>Answer</summary>
-  Content Delivery Network
+  1 MB
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>15 days  7 hours 49 minutes</strong> since this server shutdown
+Its been <strong>15 days  8 hours 19 minutes</strong> since this server shutdown
