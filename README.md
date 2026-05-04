@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did celery say when he broke up with his girlfriend? She wasn't right for me, so I really don't carrot all.
+Why did Dracula lie in the wrong coffin? He made a grave mistake.
 
 
 ## Daily Trivia
 
-Which programming language was developed by Sun Microsystems in 1995?
- 1. Python
- 2. Java
- 3. Solaris OS
- 4. C++
+What was the first Android version specifically optimized for tablets?
+ 1. Honeycomb
+ 2. Marshmellow
+ 3. Froyo
+ 4. Eclair
 
 <details>
   <summary>Answer</summary>
-  Java
+  Honeycomb
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>16 days 49 minutes</strong> since this server shutdown
+Its been <strong>16 days  1 hours 19 minutes</strong> since this server shutdown
