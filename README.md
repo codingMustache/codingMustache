@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-People who don't eat gluten are really going against the grain.
+What did the 0 say to the 8? Nice belt.
 
 
 ## Daily Trivia
 
-Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
- 1. Nautilus
- 2. Skipjack
- 3. Clipper Chip
- 4. Enigma Machine
+HTML is what type of language?
+ 1. Macro Language
+ 2. Programming Language
+ 3. Scripting Language
+ 4. Markup Language
 
 <details>
   <summary>Answer</summary>
-  Clipper Chip
+  Markup Language
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>15 days  16 hours 19 minutes</strong> since this server shutdown
+Its been <strong>15 days  16 hours 49 minutes</strong> since this server shutdown
