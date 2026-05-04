@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My friend said to me: "What rhymes with orange" I said: "no it doesn't"
+Where did Captain Hook get his hook? From a second hand store.
 
 
 ## Daily Trivia
 
-In any programming language, what is the most common way to iterate through an array?
- 1. &#039;For&#039; loops
- 2. &#039;While&#039; loops
- 3. &#039;Do-while&#039; loops
- 4. &#039;If&#039; Statements
+On Twitter, what was the original character limit for a Tweet?
+ 1. 100
+ 2. 140
+ 3. 160
+ 4. 120
 
 <details>
   <summary>Answer</summary>
-  &#039;For&#039; loops
+  140
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>15 days  19 hours 49 minutes</strong> since this server shutdown
+Its been <strong>15 days  20 hours 19 minutes</strong> since this server shutdown
