@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-“My Dog has no nose.” “How does he smell?” “Awful”
+What do you call a group of killer whales playing instruments? An Orca-stra.
 
 
 ## Daily Trivia
 
-Unix Time is defined as the number of seconds that have elapsed since when?
- 1. Midnight, July 4, 1976
- 2. Midnight on the creator of Unix&#039;s birthday
- 3. Midnight, January 1, 1970
- 4. Midnight, July 4, 1980
+What is the code name for the mobile operating system Android 7.0?
+ 1. Marshmallow
+ 2. Jelly Bean
+ 3. Ice Cream Sandwich
+ 4. Nougat
 
 <details>
   <summary>Answer</summary>
-  Midnight, January 1, 1970
+  Nougat
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>16 days  1 hours 49 minutes</strong> since this server shutdown
+Its been <strong>16 days  2 hours 19 minutes</strong> since this server shutdown
