@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It's only a murder of crows if there's probable caws.
+Yesterday I confused the words "jacuzzi" and "yakuza". Now I'm in hot water with the Japanese mafia.
 
 
 ## Daily Trivia
 
-Which of the following computer components can be built using only NAND gates?
- 1. ALU
- 2. Register
- 3. RAM
- 4. CPU
+When did the online streaming service &quot;Mixer&quot; launch?
+ 1. 2013
+ 2. 2016
+ 3. 2011
+ 4. 2009
 
 <details>
   <summary>Answer</summary>
-  ALU
+  2016
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>15 days  11 hours 19 minutes</strong> since this server shutdown
+Its been <strong>15 days  11 hours 49 minutes</strong> since this server shutdown
