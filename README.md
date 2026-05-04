@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-People saying 'boo! to their friends has risen by 85% in the last year.... That's a frightening statistic.
+Why did the clown have neck pain? - Because he slept funny
 
 
 ## Daily Trivia
 
-Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
- 1. Apple
- 2. Commodore
- 3. Atari
- 4. Microsoft
+The Harvard architecture for micro-controllers added which additional bus?
+ 1. Instruction
+ 2. Control
+ 3. Address
+ 4. Data
 
 <details>
   <summary>Answer</summary>
-  Apple
+  Instruction
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>15 days  8 hours 49 minutes</strong> since this server shutdown
+Its been <strong>15 days  9 hours 19 minutes</strong> since this server shutdown
