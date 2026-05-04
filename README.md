@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many bones are in the human hand? A handful of them.
+It's only a murder of crows if there's probable caws.
 
 
 ## Daily Trivia
 
-What internet protocol was documented in RFC 1459?
- 1. IRC
- 2. FTP
- 3. HTTPS
- 4. HTTP
+Which of the following computer components can be built using only NAND gates?
+ 1. ALU
+ 2. Register
+ 3. RAM
+ 4. CPU
 
 <details>
   <summary>Answer</summary>
-  IRC
+  ALU
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>15 days  10 hours 49 minutes</strong> since this server shutdown
+Its been <strong>15 days  11 hours 19 minutes</strong> since this server shutdown
