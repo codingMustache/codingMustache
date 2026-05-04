@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a group of killer whales playing instruments? An Orca-stra.
+Sgt.: Commissar! Commissar! The troops are revolting! Commissar: Well, you’re pretty repulsive yourself.
 
 
 ## Daily Trivia
 
-What is the code name for the mobile operating system Android 7.0?
- 1. Marshmallow
- 2. Jelly Bean
- 3. Ice Cream Sandwich
- 4. Nougat
+What internet protocol was documented in RFC 1459?
+ 1. IRC
+ 2. FTP
+ 3. HTTPS
+ 4. HTTP
 
 <details>
   <summary>Answer</summary>
-  Nougat
+  IRC
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>16 days  2 hours 19 minutes</strong> since this server shutdown
+Its been <strong>16 days  2 hours 49 minutes</strong> since this server shutdown
