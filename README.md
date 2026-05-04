@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a fish wearing a bowtie? Sofishticated.
+People saying 'boo! to their friends has risen by 85% in the last year.... That's a frightening statistic.
 
 
 ## Daily Trivia
 
-What was Bitcoin&#039;s block size limit in 2010?
- 1. 1 TB
- 2. 1 KB
- 3. 1GB
- 4. 1 MB
+Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
+ 1. Apple
+ 2. Commodore
+ 3. Atari
+ 4. Microsoft
 
 <details>
   <summary>Answer</summary>
-  1 MB
+  Apple
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>15 days  8 hours 19 minutes</strong> since this server shutdown
+Its been <strong>15 days  8 hours 49 minutes</strong> since this server shutdown
