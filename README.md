@@ -6,23 +6,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a guy lying on your doorstep? Matt.
+What is the best way to carve?
+Whittle by whittle.
 
 
 ## Daily Trivia
 
-What does the acronym CDN stand for in terms of networking?
- 1. Content Distribution Network
- 2. Content Delivery Network
- 3. Compressed Data Network
- 4. Computational Data Network
+What does the International System of Quantities refer 1024 bytes as?
+ 1. Kibibyte
+ 2. Kelobyte
+ 3. Kilobyte
+ 4. Kylobyte
 
 <details>
   <summary>Answer</summary>
-  Content Delivery Network
+  Kibibyte
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>15 days  5 hours 49 minutes</strong> since this server shutdown
+Its been <strong>15 days  6 hours 19 minutes</strong> since this server shutdown
