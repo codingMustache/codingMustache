@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My pet mouse 'Elvis' died last night. He was caught in a trap..
+People who don't eat gluten are really going against the grain.
 
 
 ## Daily Trivia
 
-Which one of these is not an official development name for a Ubuntu release?
- 1. Trusty Tahr
- 2. Utopic Unicorn
- 3. Wily Werewolf
- 4. Mystic Mansion
+Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
+ 1. Nautilus
+ 2. Skipjack
+ 3. Clipper Chip
+ 4. Enigma Machine
 
 <details>
   <summary>Answer</summary>
-  Mystic Mansion
+  Clipper Chip
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>15 days  15 hours 49 minutes</strong> since this server shutdown
+Its been <strong>15 days  16 hours 19 minutes</strong> since this server shutdown
