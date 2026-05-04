@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do bananas have to put on sunscreen before they go to the beach? Because they might peel!
+To be Frank, I'd have to change my name.
 
 
 ## Daily Trivia
 
-In computing terms, typically what does CLI stand for?
- 1. Common Language Input
- 2. Common Language Interface
- 3. Command Line Interface
- 4. Control Line Interface
+What does the acronym CDN stand for in terms of networking?
+ 1. Computational Data Network
+ 2. Content Distribution Network
+ 3. Content Delivery Network
+ 4. Compressed Data Network
 
 <details>
   <summary>Answer</summary>
-  Command Line Interface
+  Content Delivery Network
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>15 days  7 hours 19 minutes</strong> since this server shutdown
+Its been <strong>15 days  7 hours 49 minutes</strong> since this server shutdown
