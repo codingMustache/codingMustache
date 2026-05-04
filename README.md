@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the cheese who saved the world? It was Legend-dairy!
+What's orange and sounds like a parrot? A Carrot.
 
 
 ## Daily Trivia
 
-The teapot often seen in many 3D modeling applications is called what?
- 1. Pixar Teapot
- 2. 3D Teapot
- 3. Tennessee Teapot
- 4. Utah Teapot
+What is the main CPU is the Sega Mega Drive / Sega Genesis?
+ 1. Zilog Z80
+ 2. Yamaha YM2612
+ 3. Motorola 68000
+ 4. Intel 8088
 
 <details>
   <summary>Answer</summary>
-  Utah Teapot
+  Motorola 68000
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>15 days  23 hours 19 minutes</strong> since this server shutdown
+Its been <strong>15 days  23 hours 49 minutes</strong> since this server shutdown
