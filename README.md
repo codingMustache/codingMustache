@@ -6,24 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why don't you find hippopotamuses hiding in trees?
-They're really good at it.
+I tried taking some high resolution photos of local farmland, but they all turned out a bit grainy.
 
 
 ## Daily Trivia
 
-On Twitter, what was the original character limit for a Tweet?
- 1. 160
- 2. 140
- 3. 120
- 4. 100
+Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
+ 1. Enigma Machine
+ 2. Skipjack
+ 3. Nautilus
+ 4. Clipper Chip
 
 <details>
   <summary>Answer</summary>
-  140
+  Clipper Chip
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>15 days  17 hours 49 minutes</strong> since this server shutdown
+Its been <strong>15 days  18 hours 19 minutes</strong> since this server shutdown
