@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I am terrified of elevators. I’m going to start taking steps to avoid them.
+A termite walks into a bar and asks “Is the bar tender here?”
 
 
 ## Daily Trivia
 
-In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
- 1. &lt;scroll&gt;&lt;/scroll&gt;
- 2. &lt;move&gt;&lt;/move&gt;
- 3. &lt;marquee&gt;&lt;/marquee&gt;
- 4. &lt;slide&gt;&lt;/slide&gt;
+On Twitter, what was the original character limit for a Tweet?
+ 1. 140
+ 2. 160
+ 3. 120
+ 4. 100
 
 <details>
   <summary>Answer</summary>
-  &lt;marquee&gt;&lt;/marquee&gt;
+  140
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>15 days  3 hours 49 minutes</strong> since this server shutdown
+Its been <strong>15 days  4 hours 19 minutes</strong> since this server shutdown
