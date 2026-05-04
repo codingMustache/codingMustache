@@ -6,23 +6,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the Red light say to the Green light? Don't look at me I'm changing!
+Why don't you find hippopotamuses hiding in trees?
+They're really good at it.
 
 
 ## Daily Trivia
 
-Which of these is not a key value of Agile software development?
- 1. Individuals and interactions
- 2. Comprehensive documentation
- 3. Responding to change
- 4. Customer collaboration
+On Twitter, what was the original character limit for a Tweet?
+ 1. 160
+ 2. 140
+ 3. 120
+ 4. 100
 
 <details>
   <summary>Answer</summary>
-  Comprehensive documentation
+  140
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>15 days  17 hours 19 minutes</strong> since this server shutdown
+Its been <strong>15 days  17 hours 49 minutes</strong> since this server shutdown
