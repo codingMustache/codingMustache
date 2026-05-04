@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I tried taking some high resolution photos of local farmland, but they all turned out a bit grainy.
+What do you get when you cross a pig and a pineapple? A porky pine
 
 
 ## Daily Trivia
 
-Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
- 1. Enigma Machine
- 2. Skipjack
- 3. Nautilus
- 4. Clipper Chip
+What does the DOS in Microsoft&#039;s first operating system &quot;MS-DOS&quot; stand for?
+ 1. Dumb Operating System
+ 2. Disk Operating System
+ 3. Driver Oriented System
+ 4. Diskless Operating System
 
 <details>
   <summary>Answer</summary>
-  Clipper Chip
+  Disk Operating System
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>15 days  18 hours 19 minutes</strong> since this server shutdown
+Its been <strong>15 days  18 hours 49 minutes</strong> since this server shutdown
