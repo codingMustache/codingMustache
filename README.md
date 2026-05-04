@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you get when you cross a chicken with a skunk? A fowl smell!
+Did you hear about the cheese who saved the world? It was Legend-dairy!
 
 
 ## Daily Trivia
 
-HTML is what type of language?
- 1. Macro Language
- 2. Programming Language
- 3. Scripting Language
- 4. Markup Language
+The teapot often seen in many 3D modeling applications is called what?
+ 1. Pixar Teapot
+ 2. 3D Teapot
+ 3. Tennessee Teapot
+ 4. Utah Teapot
 
 <details>
   <summary>Answer</summary>
-  Markup Language
+  Utah Teapot
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>15 days  22 hours 49 minutes</strong> since this server shutdown
+Its been <strong>15 days  23 hours 19 minutes</strong> since this server shutdown
