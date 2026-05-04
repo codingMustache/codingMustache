@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the house go to the doctor? It was having window panes.
+How can you tell a vampire has a cold? They start coffin.
 
 
 ## Daily Trivia
 
-What did the name of the Tor Anonymity Network orignially stand for?
- 1. The Onion Router
- 2. The Only Router
- 3. The Orange Router
- 4. The Ominous Router
+What language does Node.js use?
+ 1. Java
+ 2. JavaScript
+ 3. Joomla Source Code
+ 4. Java Source
 
 <details>
   <summary>Answer</summary>
-  The Onion Router
+  JavaScript
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>15 days  12 hours 19 minutes</strong> since this server shutdown
+Its been <strong>15 days  12 hours 49 minutes</strong> since this server shutdown
