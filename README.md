@@ -6,24 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was Santa's little helper feeling depressed? Because he has low elf esteem.
-
+Did you know you should always take an extra pair of pants golfing? Just in case you get a hole in one.
 
 
 ## Daily Trivia
 
-Which of the following computer components can be built using only NAND gates?
- 1. CPU
- 2. RAM
- 3. Register
- 4. ALU
+Which of these programming languages is a low-level language?
+ 1. Python
+ 2. C#
+ 3. Assembly
+ 4. Pascal
 
 <details>
   <summary>Answer</summary>
-  ALU
+  Assembly
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>15 days  4 hours 49 minutes</strong> since this server shutdown
+Its been <strong>15 days  5 hours 19 minutes</strong> since this server shutdown
