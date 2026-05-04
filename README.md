@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the clown have neck pain? - Because he slept funny
+How many kids with ADD does it take to change a lightbulb? Let's go ride bikes!
 
 
 ## Daily Trivia
 
-The Harvard architecture for micro-controllers added which additional bus?
- 1. Instruction
- 2. Control
- 3. Address
- 4. Data
+What major programming language does Unreal Engine 4 use?
+ 1. C#
+ 2. Assembly
+ 3. ECMAScript
+ 4. C++
 
 <details>
   <summary>Answer</summary>
-  Instruction
+  C++
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>15 days  9 hours 19 minutes</strong> since this server shutdown
+Its been <strong>15 days  9 hours 49 minutes</strong> since this server shutdown
