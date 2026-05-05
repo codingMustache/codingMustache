@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-When you have a bladder infection, urine trouble.
+What do you call two guys hanging out by your window? Kurt & Rod.
 
 
 ## Daily Trivia
 
-In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
- 1. &lt;marquee&gt;&lt;/marquee&gt;
- 2. &lt;move&gt;&lt;/move&gt;
- 3. &lt;scroll&gt;&lt;/scroll&gt;
- 4. &lt;slide&gt;&lt;/slide&gt;
+What does SSD stand for?
+ 1. Solution Source Disk
+ 2. Solid State Disk
+ 3. Source Solution Drive
+ 4. Solid State Drive
 
 <details>
   <summary>Answer</summary>
-  &lt;marquee&gt;&lt;/marquee&gt;
+  Solid State Drive
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>16 days  7 hours 49 minutes</strong> since this server shutdown
+Its been <strong>16 days  8 hours 19 minutes</strong> since this server shutdown
