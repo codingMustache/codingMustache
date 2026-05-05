@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Every machine in the coin factory broke down all of a sudden without explanation. It just doesn’t make any cents.
+Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor.
 
 
 ## Daily Trivia
 
-What does the acronym CDN stand for in terms of networking?
- 1. Content Distribution Network
- 2. Computational Data Network
- 3. Content Delivery Network
- 4. Compressed Data Network
+The acronym &quot;RIP&quot; stands for which of these?
+ 1. Runtime Instance Processes
+ 2. Regular Interval Processes
+ 3. Routine Inspection Protocol
+ 4. Routing Information Protocol
 
 <details>
   <summary>Answer</summary>
-  Content Delivery Network
+  Routing Information Protocol
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 1 hours 23 minutes</strong> since this server shutdown
+Its been <strong> 1 hours 53 minutes</strong> since this server shutdown
