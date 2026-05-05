@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the Buffalo say to his little boy when he dropped him off at school? Bison.
+Every machine in the coin factory broke down all of a sudden without explanation. It just doesn’t make any cents.
 
 
 ## Daily Trivia
 
-According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:
- 1. A&#039;B + B&#039;A
- 2. A&#039;B&#039;
- 3. AB&#039; + AB
- 4. A&#039; + B&#039;
+What does the acronym CDN stand for in terms of networking?
+ 1. Content Distribution Network
+ 2. Computational Data Network
+ 3. Content Delivery Network
+ 4. Compressed Data Network
 
 <details>
   <summary>Answer</summary>
-  A&#039; + B&#039;
+  Content Delivery Network
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>53 minutes</strong> since this server shutdown
+Its been <strong> 1 hours 23 minutes</strong> since this server shutdown
