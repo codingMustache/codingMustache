@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a dictionary on drugs? High definition.
+How do the trees get on the internet? They log on.
 
 
 ## Daily Trivia
 
-Which of the following computer components can be built using only NAND gates?
- 1. CPU
- 2. RAM
- 3. Register
- 4. ALU
+Which of the following is the oldest of these computers by release date?
+ 1. TRS-80
+ 2. Apple 3
+ 3. ZX Spectrum
+ 4. Commodore 64
 
 <details>
   <summary>Answer</summary>
-  ALU
+  TRS-80
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 5 hours 23 minutes</strong> since this server shutdown
+Its been <strong> 5 hours 53 minutes</strong> since this server shutdown
