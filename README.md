@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Just read a few facts about frogs. They were ribbiting.
+A red and a blue ship have just collided in the Caribbean. Apparently the survivors are marooned.
 
 
 ## Daily Trivia
 
-What does RAID stand for?
- 1. Rapid Access for Indexed Devices
- 2. Range of Applications with Identical Designs
- 3. Randomized Abstract Identification Description
- 4. Redundant Array of Independent Disks
+What five letter word is the motto of the IBM Computer company?
+ 1. Click
+ 2. Logic
+ 3. Pixel
+ 4. Think
 
 <details>
   <summary>Answer</summary>
-  Redundant Array of Independent Disks
+  Think
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>16 days  4 hours 49 minutes</strong> since this server shutdown
+Its been <strong>16 days  5 hours 19 minutes</strong> since this server shutdown
