@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do nurses carry around red crayons? Sometimes they need to draw blood.
+When my wife told me to stop impersonating a flamingo, I had to put my foot down.
 
 
 ## Daily Trivia
 
-Who invented the &quot;Spanning Tree Protocol&quot;?
- 1. Michael Roberts
- 2. Vint Cerf
- 3. Paul Vixie
- 4. Radia Perlman
+What does the &quot;MP&quot; stand for in MP3?
+ 1. Moving Picture
+ 2. Micro Point
+ 3. Multi Pass
+ 4. Music Player
 
 <details>
   <summary>Answer</summary>
-  Radia Perlman
+  Moving Picture
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>16 days  14 hours 49 minutes</strong> since this server shutdown
+Its been <strong>16 days  15 hours 19 minutes</strong> since this server shutdown
