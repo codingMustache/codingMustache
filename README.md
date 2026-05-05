@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take.
+Do you know where you can get chicken broth in bulk? The stock market.
 
 
 ## Daily Trivia
 
-How many values can a single byte represent?
- 1. 256
- 2. 1024
- 3. 1
- 4. 8
+What is the maximum value of a 32-bit signed binary integer?
+ 1. 2,147,483,647
+ 2. 9,223,372,036,854,775,807
+ 3. 255
+ 4. 2048
 
 <details>
   <summary>Answer</summary>
-  256
+  2,147,483,647
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>16 days  13 hours 49 minutes</strong> since this server shutdown
+Its been <strong>16 days  14 hours 19 minutes</strong> since this server shutdown
