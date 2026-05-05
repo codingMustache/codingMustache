@@ -6,23 +6,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It’s hard to explain puns to kleptomaniacs, because they take everything literally.
+What do you get when you cross a bee and a sheep? A bah-humbug.
+
 
 
 ## Daily Trivia
 
-In programming, the ternary operator is mostly defined with what symbol(s)?
- 1. ?:
- 2. ?
- 3. if then
- 4. ??
+What port does HTTP run on?
+ 1. 53
+ 2. 443
+ 3. 80
+ 4. 23
 
 <details>
   <summary>Answer</summary>
-  ?:
+  80
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 6 hours 53 minutes</strong> since this server shutdown
+Its been <strong> 7 hours 23 minutes</strong> since this server shutdown
