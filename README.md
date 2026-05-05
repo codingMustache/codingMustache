@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A red and a blue ship have just collided in the Caribbean. Apparently the survivors are marooned.
+Why do bears have hairy coats? Fur protection.
 
 
 ## Daily Trivia
 
-What five letter word is the motto of the IBM Computer company?
- 1. Click
- 2. Logic
- 3. Pixel
- 4. Think
+The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
+ 1. Micronesia
+ 2. Marshall Islands
+ 3. Tuvalu
+ 4. Fiji
 
 <details>
   <summary>Answer</summary>
-  Think
+  Micronesia
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>16 days  5 hours 19 minutes</strong> since this server shutdown
+Its been <strong>16 days  5 hours 49 minutes</strong> since this server shutdown
