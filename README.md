@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later.
+What did the 0 say to the 8? Nice belt.
 
 
 ## Daily Trivia
 
-Whistler was the codename of this Microsoft Operating System.
- 1. Windows 2000
- 2. Windows 7
- 3. Windows 95
- 4. Windows XP
+Which programming language shares its name with an island in Indonesia?
+ 1. Jakarta
+ 2. C
+ 3. Python
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  Windows XP
+  Java
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>16 days  6 hours 49 minutes</strong> since this server shutdown
+Its been <strong>16 days  7 hours 19 minutes</strong> since this server shutdown
