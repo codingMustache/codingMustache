@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Coffee has a tough time at my house, every morning it gets mugged.
+Hear about the new restaurant called Karma? There’s no menu: You get what you deserve.
 
 
 ## Daily Trivia
 
-The teapot often seen in many 3D modeling applications is called what?
- 1. Pixar Teapot
- 2. Tennessee Teapot
- 3. 3D Teapot
- 4. Utah Teapot
+When did the online streaming service &quot;Mixer&quot; launch?
+ 1. 2009
+ 2. 2016
+ 3. 2013
+ 4. 2011
 
 <details>
   <summary>Answer</summary>
-  Utah Teapot
+  2016
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 4 hours 23 minutes</strong> since this server shutdown
+Its been <strong> 4 hours 53 minutes</strong> since this server shutdown
