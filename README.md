@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call two guys hanging out by your window? Kurt & Rod.
+What do you call a careful wolf? Aware wolf.
 
 
 ## Daily Trivia
 
-What does SSD stand for?
- 1. Solution Source Disk
- 2. Solid State Disk
- 3. Source Solution Drive
- 4. Solid State Drive
+What is largely considered the precursor to the USB format?
+ 1. SVGA
+ 2. PCIe
+ 3. FireWire
+ 4. PS/2
 
 <details>
   <summary>Answer</summary>
-  Solid State Drive
+  PS/2
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>16 days  8 hours 19 minutes</strong> since this server shutdown
+Its been <strong>16 days  8 hours 49 minutes</strong> since this server shutdown
