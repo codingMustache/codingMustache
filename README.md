@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the difference between a guitar and a fish? You can tune a guitar but you can't "tuna" fish!
+A dad washes his car with his son. But after a while, the son says, "why can't you just use a sponge?"
 
 
 ## Daily Trivia
 
-What five letter word is the motto of the IBM Computer company?
- 1. Think
- 2. Logic
- 3. Click
- 4. Pixel
+Which of the following physical typologies are used with Ethernet Networks?
+ 1. Ring
+ 2. Mesh
+ 3. Hex
+ 4. Star
 
 <details>
   <summary>Answer</summary>
-  Think
+  Star
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>16 days  15 hours 49 minutes</strong> since this server shutdown
+Its been <strong>16 days  16 hours 19 minutes</strong> since this server shutdown
