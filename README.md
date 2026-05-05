@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor.
+How do you organize a space party? You planet.
 
 
 ## Daily Trivia
 
-The acronym &quot;RIP&quot; stands for which of these?
- 1. Runtime Instance Processes
- 2. Regular Interval Processes
- 3. Routine Inspection Protocol
- 4. Routing Information Protocol
+How many kilobytes in one gigabyte (in decimal)?
+ 1. 1024
+ 2. 1000000
+ 3. 1000
+ 4. 1048576
 
 <details>
   <summary>Answer</summary>
-  Routing Information Protocol
+  1000000
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 1 hours 53 minutes</strong> since this server shutdown
+Its been <strong> 2 hours 23 minutes</strong> since this server shutdown
