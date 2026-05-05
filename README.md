@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Sore throats are a pain in the neck!
+What did the dog say to the two trees? Bark bark.
 
 
 ## Daily Trivia
 
-What was Bitcoin&#039;s block size limit in 2010?
- 1. 1 KB
- 2. 1 TB
- 3. 1 MB
- 4. 1GB
+In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
+ 1. Final
+ 2. Static
+ 3. Private
+ 4. Public
 
 <details>
   <summary>Answer</summary>
-  1 MB
+  Final
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>16 days  18 hours 49 minutes</strong> since this server shutdown
+Its been <strong>16 days  19 hours 19 minutes</strong> since this server shutdown
