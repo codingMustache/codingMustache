@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Every morning when I go out, I get hit by bicycle. Every morning!  It's a vicious cycle.
+How does Darth Vader like his toast? On the dark side.
 
 
 ## Daily Trivia
 
-The name of technology company HP stands for what?
- 1. Hellman-Pohl
- 2. Husker-Pollosk
- 3. Hewlett-Packard
- 4. Howard Packmann
+Who invented the &quot;Spanning Tree Protocol&quot;?
+ 1. Paul Vixie
+ 2. Michael Roberts
+ 3. Radia Perlman
+ 4. Vint Cerf
 
 <details>
   <summary>Answer</summary>
-  Hewlett-Packard
+  Radia Perlman
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>16 days  10 hours 49 minutes</strong> since this server shutdown
+Its been <strong>16 days  11 hours 19 minutes</strong> since this server shutdown
