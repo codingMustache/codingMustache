@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A girl once asked me what my heart desired, apparently blood, oxygen and neural messages were all wrong answers
+Coffee has a tough time at my house, every morning it gets mugged.
 
 
 ## Daily Trivia
 
-What is the maximum value of a 32-bit signed binary integer?
- 1. 9,223,372,036,854,775,807
- 2. 2048
- 3. 2,147,483,647
- 4. 255
+The teapot often seen in many 3D modeling applications is called what?
+ 1. Pixar Teapot
+ 2. Tennessee Teapot
+ 3. 3D Teapot
+ 4. Utah Teapot
 
 <details>
   <summary>Answer</summary>
-  2,147,483,647
+  Utah Teapot
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 3 hours 53 minutes</strong> since this server shutdown
+Its been <strong> 4 hours 23 minutes</strong> since this server shutdown
