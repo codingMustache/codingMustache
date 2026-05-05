@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the dog say to the two trees? Bark bark.
+What do you get when you cross a snowman with a vampire? Frostbite.
 
 
 ## Daily Trivia
 
-In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
- 1. Final
- 2. Static
- 3. Private
- 4. Public
+The numbering system with a radix of 16 is more commonly referred to as 
+ 1. Binary
+ 2. Octal
+ 3. Hexidecimal
+ 4. Duodecimal
 
 <details>
   <summary>Answer</summary>
-  Final
+  Hexidecimal
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>16 days  19 hours 19 minutes</strong> since this server shutdown
+Its been <strong>16 days  19 hours 49 minutes</strong> since this server shutdown
