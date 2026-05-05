@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How does Darth Vader like his toast? On the dark side.
+To be Frank, I'd have to change my name.
 
 
 ## Daily Trivia
 
-Who invented the &quot;Spanning Tree Protocol&quot;?
- 1. Paul Vixie
- 2. Michael Roberts
- 3. Radia Perlman
- 4. Vint Cerf
+Who is the founder of Palantir?
+ 1. Mark Zuckerberg
+ 2. Marc Benioff
+ 3. Peter Thiel
+ 4. Jack Dorsey
 
 <details>
   <summary>Answer</summary>
-  Radia Perlman
+  Peter Thiel
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>16 days  11 hours 19 minutes</strong> since this server shutdown
+Its been <strong>16 days  11 hours 49 minutes</strong> since this server shutdown
