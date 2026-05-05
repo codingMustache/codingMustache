@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do the trees get on the internet? They log on.
+You know that cemetery up the road? People are dying to get in there.
 
 
 ## Daily Trivia
 
-Which of the following is the oldest of these computers by release date?
- 1. TRS-80
- 2. Apple 3
- 3. ZX Spectrum
- 4. Commodore 64
+Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
+ 1. Heartbleed
+ 2. Shellscript
+ 3. Corrupted Blood
+ 4. Shellshock
 
 <details>
   <summary>Answer</summary>
-  TRS-80
+  Heartbleed
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 5 hours 53 minutes</strong> since this server shutdown
+Its been <strong> 6 hours 23 minutes</strong> since this server shutdown
