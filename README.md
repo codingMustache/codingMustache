@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How can you tell a vampire has a cold? They start coffin.
+It’s hard to explain puns to kleptomaniacs, because they take everything literally.
 
 
 ## Daily Trivia
 
-In computing, how many bits are in a nibble?
- 1. 4
- 2. 2
- 3. 32
- 4. 16
+Which computer language would you associate Django framework with?
+ 1. C#
+ 2. C++
+ 3. Java
+ 4. Python
 
 <details>
   <summary>Answer</summary>
-  4
+  Python
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>16 days  16 hours 49 minutes</strong> since this server shutdown
+Its been <strong>16 days  17 hours 19 minutes</strong> since this server shutdown
