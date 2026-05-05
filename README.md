@@ -6,23 +6,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I got fired from a florist, apparently I took too many leaves.
+Some people say that I never got over my obsession with Phil Collins.
+But take a look at me now.
 
 
 ## Daily Trivia
 
-What does the term MIME stand for, in regards to computing?
- 1. Mail Internet Mail Exchange
- 2. Multipurpose Interleave Mail Exchange
- 3. Multipurpose Internet Mail Extensions
- 4. Mail Interleave Method Exchange
+What was the first Android version specifically optimized for tablets?
+ 1. Honeycomb
+ 2. Eclair
+ 3. Marshmellow
+ 4. Froyo
 
 <details>
   <summary>Answer</summary>
-  Multipurpose Internet Mail Extensions
+  Honeycomb
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>16 days  12 hours 49 minutes</strong> since this server shutdown
+Its been <strong>16 days  13 hours 19 minutes</strong> since this server shutdown
