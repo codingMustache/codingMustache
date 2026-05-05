@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I had a rough day, and then somebody went and ripped the front and back pages from my dictionary. It just goes from bad to worse.
+Why did the tree go to the dentist? It needed a root canal.
 
 
 ## Daily Trivia
 
-The numbering system with a radix of 16 is more commonly referred to as 
- 1. Binary
- 2. Duodecimal
- 3. Octal
- 4. Hexidecimal
+In computing, how many bits are in a nibble?
+ 1. 32
+ 2. 16
+ 3. 4
+ 4. 2
 
 <details>
   <summary>Answer</summary>
-  Hexidecimal
+  4
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>16 days  17 hours 49 minutes</strong> since this server shutdown
+Its been <strong>16 days  18 hours 19 minutes</strong> since this server shutdown
