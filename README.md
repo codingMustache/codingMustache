@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-To be Frank, I'd have to change my name.
+I went to the zoo yesterday and saw a baguette in a cage. It was bread in captivity.
 
 
 ## Daily Trivia
 
-Who is the founder of Palantir?
- 1. Mark Zuckerberg
- 2. Marc Benioff
- 3. Peter Thiel
- 4. Jack Dorsey
+In any programming language, what is the most common way to iterate through an array?
+ 1. &#039;If&#039; Statements
+ 2. &#039;For&#039; loops
+ 3. &#039;Do-while&#039; loops
+ 4. &#039;While&#039; loops
 
 <details>
   <summary>Answer</summary>
-  Peter Thiel
+  &#039;For&#039; loops
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>16 days  11 hours 49 minutes</strong> since this server shutdown
+Its been <strong>16 days  12 hours 19 minutes</strong> since this server shutdown
