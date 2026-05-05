@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do fish keep their money? In the riverbank
+What do Alexander the Great and Winnie the Pooh have in common? Same middle name.
 
 
 ## Daily Trivia
 
-Which programming language shares its name with an island in Indonesia?
- 1. Java
- 2. Jakarta
- 3. Python
- 4. C
+Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
+ 1. Cheetah
+ 2. Leopard
+ 3. Tiger
+ 4. Puma
 
 <details>
   <summary>Answer</summary>
-  Java
+  Cheetah
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>16 days  9 hours 49 minutes</strong> since this server shutdown
+Its been <strong>16 days  10 hours 19 minutes</strong> since this server shutdown
