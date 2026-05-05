@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do Alexander the Great and Winnie the Pooh have in common? Same middle name.
+Every morning when I go out, I get hit by bicycle. Every morning!  It's a vicious cycle.
 
 
 ## Daily Trivia
 
-Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
- 1. Cheetah
- 2. Leopard
- 3. Tiger
- 4. Puma
+The name of technology company HP stands for what?
+ 1. Hellman-Pohl
+ 2. Husker-Pollosk
+ 3. Hewlett-Packard
+ 4. Howard Packmann
 
 <details>
   <summary>Answer</summary>
-  Cheetah
+  Hewlett-Packard
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>16 days  10 hours 19 minutes</strong> since this server shutdown
+Its been <strong>16 days  10 hours 49 minutes</strong> since this server shutdown
