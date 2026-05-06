@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to be addicted to the hokey pokey, but I turned myself around.
+How many tickles does it take to tickle an octopus? Ten-tickles!
 
 
 ## Daily Trivia
 
-The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
- 1. Commodore Business Machines
- 2. Amstrad PLC
- 3. Acorn Computers
- 4. Sinclair Research
+What vulnerability ranked #1 on the OWASP Top 10 in 2013?
+ 1. Injection 
+ 2. Insecure Direct Object References
+ 3. Cross-Site Scripting
+ 4. Broken Authentication
 
 <details>
   <summary>Answer</summary>
-  Acorn Computers
+  Injection 
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 17 hours 53 minutes</strong> since this server shutdown
+Its been <strong> 18 hours 23 minutes</strong> since this server shutdown
