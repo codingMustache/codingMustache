@@ -6,23 +6,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Sometimes I tuck my knees into my chest and lean forward.  That’s just how I roll.
+What do you do when you see a space man?
+Park your car, man.
 
 
 ## Daily Trivia
 
-On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
- 1. Asterisk
- 2. Dollar Sign
- 3. Percent Sign
- 4. Exclamation Mark
+Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
+ 1. Puma
+ 2. Cheetah
+ 3. Tiger
+ 4. Leopard
 
 <details>
   <summary>Answer</summary>
-  Exclamation Mark
+  Cheetah
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 23 hours 53 minutes</strong> since this server shutdown
+Its been <strong>1 days 23 minutes</strong> since this server shutdown
