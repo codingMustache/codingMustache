@@ -6,24 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do cats write notes?
-Scratch Paper!
+Why couldn't the kid see the pirate movie? Because it was rated arrr!
 
 
 ## Daily Trivia
 
-According to the International System of Units, how many bytes are in a kilobyte of RAM?
- 1. 1024
- 2. 1000
- 3. 500
- 4. 512
+What was the name of the image that features as the default background wallpaper for Windows XP?
+ 1. Bliss
+ 2. Tulips
+ 3. Red moon desert
+ 4. Azul
 
 <details>
   <summary>Answer</summary>
-  1000
+  Bliss
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 20 hours 53 minutes</strong> since this server shutdown
+Its been <strong> 21 hours 23 minutes</strong> since this server shutdown
