@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How did Darth Vader know what Luke was getting for Christmas? He felt his presents.
+I'd like to start a diet, but I've got too much on my plate right now.
 
 
 ## Daily Trivia
 
-Color model CMYK stands for?
- 1. Cyan, Magenta, Yellow, and Black
- 2. Cream, Maroon, Yellow, and Khaki
- 3. Cyan, Magenta, Yellow, and Khaki
- 4. Cream, Maroon, Yellow, and Black
+What does the &#039;S&#039; in the RSA encryption algorithm stand for?
+ 1. Stable
+ 2. Schottky
+ 3. Secure
+ 4. Shamir
 
 <details>
   <summary>Answer</summary>
-  Cyan, Magenta, Yellow, and Black
+  Shamir
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 18 hours 53 minutes</strong> since this server shutdown
+Its been <strong> 19 hours 23 minutes</strong> since this server shutdown
