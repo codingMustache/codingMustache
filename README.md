@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I've been trying to come up with a dad joke about momentum . . . but I just can't seem to get it going.
+I'd like to start a diet, but I've got too much on my plate right now.
 
 
 ## Daily Trivia
 
-Who invented the &quot;Spanning Tree Protocol&quot;?
- 1. Radia Perlman
- 2. Michael Roberts
- 3. Vint Cerf
- 4. Paul Vixie
+When did the online streaming service &quot;Mixer&quot; launch?
+ 1. 2009
+ 2. 2016
+ 3. 2013
+ 4. 2011
 
 <details>
   <summary>Answer</summary>
-  Radia Perlman
+  2016
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 11 hours 23 minutes</strong> since this server shutdown
+Its been <strong> 11 hours 53 minutes</strong> since this server shutdown
