@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I wouldn't buy anything with velcro. It's a total rip-off.
+No matter how kind you are, German children are kinder.
 
 
 ## Daily Trivia
 
-How fast is USB 3.1 Gen 2 theoretically?
- 1. 5 Gb/s
- 2. 8 Gb/s
- 3. 1 Gb/s
- 4. 10 Gb/s
+How many bits are commonly in a single byte?
+ 1.  Fifteen bits
+ 2. Twelve bits
+ 3. Six bits
+ 4. Eight bits
 
 <details>
   <summary>Answer</summary>
-  10 Gb/s
+  Eight bits
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  1 hours 53 minutes</strong> since this server shutdown
+Its been <strong>1 days  2 hours 23 minutes</strong> since this server shutdown
