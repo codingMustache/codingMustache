@@ -6,24 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you get when you cross a bee and a sheep? A bah-humbug.
-
+What has ears but cannot hear? A field of corn.
 
 
 ## Daily Trivia
 
-What port does HTTP run on?
- 1. 53
- 2. 443
- 3. 80
- 4. 23
+The programming language &#039;Swift&#039; was created to replace what other programming language?
+ 1. C#
+ 2. Ruby
+ 3. C++
+ 4. Objective-C
 
 <details>
   <summary>Answer</summary>
-  80
+  Objective-C
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 7 hours 23 minutes</strong> since this server shutdown
+Its been <strong> 7 hours 53 minutes</strong> since this server shutdown
