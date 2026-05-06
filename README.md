@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The great thing about stationery shops is they're always in the same place...
+I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take.
 
 
 ## Daily Trivia
 
-Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
- 1. Tiger
- 2. Puma
- 3. Leopard
- 4. Cheetah
+Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
+ 1. Year
+ 2. Two Years
+ 3. Eight Years
+ 4. Four Years
 
 <details>
   <summary>Answer</summary>
-  Cheetah
+  Year
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 14 hours 23 minutes</strong> since this server shutdown
+Its been <strong> 14 hours 53 minutes</strong> since this server shutdown
