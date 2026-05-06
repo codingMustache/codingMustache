@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many tickles does it take to tickle an octopus? Ten-tickles!
+How did Darth Vader know what Luke was getting for Christmas? He felt his presents.
 
 
 ## Daily Trivia
 
-What vulnerability ranked #1 on the OWASP Top 10 in 2013?
- 1. Injection 
- 2. Insecure Direct Object References
- 3. Cross-Site Scripting
- 4. Broken Authentication
+Color model CMYK stands for?
+ 1. Cyan, Magenta, Yellow, and Black
+ 2. Cream, Maroon, Yellow, and Khaki
+ 3. Cyan, Magenta, Yellow, and Khaki
+ 4. Cream, Maroon, Yellow, and Black
 
 <details>
   <summary>Answer</summary>
-  Injection 
+  Cyan, Magenta, Yellow, and Black
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 18 hours 23 minutes</strong> since this server shutdown
+Its been <strong> 18 hours 53 minutes</strong> since this server shutdown
