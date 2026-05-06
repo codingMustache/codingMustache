@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do hamburgers go to dance? The meat-ball.
+I'd like to start a diet, but I've got too much on my plate right now.
 
 
 ## Daily Trivia
 
-The name of technology company HP stands for what?
- 1. Hellman-Pohl
- 2. Hewlett-Packard
- 3. Howard Packmann
- 4. Husker-Pollosk
+In programming, the ternary operator is mostly defined with what symbol(s)?
+ 1. ??
+ 2. if then
+ 3. ?
+ 4. ?:
 
 <details>
   <summary>Answer</summary>
-  Hewlett-Packard
+  ?:
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 19 hours 53 minutes</strong> since this server shutdown
+Its been <strong> 20 hours 23 minutes</strong> since this server shutdown
