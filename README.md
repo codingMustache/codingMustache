@@ -6,25 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the worst part about being a cross-eyed teacher?
-
-They can't control their pupils.
+Someone asked me to name two structures that hold water. I said "Well dam"
 
 
 ## Daily Trivia
 
-What does the acronym CDN stand for in terms of networking?
- 1. Content Delivery Network
- 2. Content Distribution Network
- 3. Compressed Data Network
- 4. Computational Data Network
+Who is the founder of Palantir?
+ 1. Mark Zuckerberg
+ 2. Marc Benioff
+ 3. Peter Thiel
+ 4. Jack Dorsey
 
 <details>
   <summary>Answer</summary>
-  Content Delivery Network
+  Peter Thiel
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 12 hours 53 minutes</strong> since this server shutdown
+Its been <strong> 13 hours 23 minutes</strong> since this server shutdown
