@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What’s the difference between an African elephant and an Indian elephant? About 5000 miles.
+A bartender broke up with her boyfriend, but he kept asking her for another shot.
 
 
 ## Daily Trivia
 
-When Gmail first launched, how much storage did it provide for your email?
- 1. 512MB
- 2. 1GB
- 3. 5GB
- 4. Unlimited
+What was the first commerically available computer processor?
+ 1. Intel 486SX
+ 2. TMS 1000
+ 3. AMD AM386
+ 4. Intel 4004
 
 <details>
   <summary>Answer</summary>
-  1GB
+  Intel 4004
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 10 hours 23 minutes</strong> since this server shutdown
+Its been <strong> 10 hours 53 minutes</strong> since this server shutdown
