@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-You know that cemetery up the road? People are dying to get in there.
+Where did Captain Hook get his hook? From a second hand store.
 
 
 ## Daily Trivia
 
-What major programming language does Unreal Engine 4 use?
- 1. C#
- 2. ECMAScript
- 3. Assembly
- 4. C++
+In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
+ 1. Private
+ 2. Static
+ 3. Public
+ 4. Final
 
 <details>
   <summary>Answer</summary>
-  C++
+  Final
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 8 hours 53 minutes</strong> since this server shutdown
+Its been <strong> 9 hours 23 minutes</strong> since this server shutdown
