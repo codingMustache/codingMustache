@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do fish keep their money? In the riverbank
+Sometimes I tuck my knees into my chest and lean forward.  That’s just how I roll.
 
 
 ## Daily Trivia
 
-If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
- 1. Binary
- 2. Python
- 3. C++
- 4. JavaScript
+On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
+ 1. Asterisk
+ 2. Dollar Sign
+ 3. Percent Sign
+ 4. Exclamation Mark
 
 <details>
   <summary>Answer</summary>
-  Binary
+  Exclamation Mark
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 23 hours 23 minutes</strong> since this server shutdown
+Its been <strong> 23 hours 53 minutes</strong> since this server shutdown
