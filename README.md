@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Toasters were the first form of pop-up notifications.
+Why do bears have hairy coats? Fur protection.
 
 
 ## Daily Trivia
 
-Who is the founder of Palantir?
- 1. Peter Thiel
- 2. Jack Dorsey
- 3. Marc Benioff
- 4. Mark Zuckerberg
+How many kilobytes in one gigabyte (in decimal)?
+ 1. 1024
+ 2. 1000
+ 3. 1000000
+ 4. 1048576
 
 <details>
   <summary>Answer</summary>
-  Peter Thiel
+  1000000
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 16 hours 53 minutes</strong> since this server shutdown
+Its been <strong> 17 hours 23 minutes</strong> since this server shutdown
