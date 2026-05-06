@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-"Why do seagulls fly over the ocean?" "Because if they flew over the bay, we'd call them bagels."
+Why are oranges the smartest fruit? Because they are made to concentrate. 
 
 
 ## Daily Trivia
 
-What does SSD stand for?
- 1. Solution Source Disk
- 2. Solid State Disk
- 3. Source Solution Drive
- 4. Solid State Drive
+How many kilobytes in one gigabyte (in decimal)?
+ 1. 1000
+ 2. 1024
+ 3. 1000000
+ 4. 1048576
 
 <details>
   <summary>Answer</summary>
-  Solid State Drive
+  1000000
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days 53 minutes</strong> since this server shutdown
+Its been <strong>1 days  1 hours 23 minutes</strong> since this server shutdown
