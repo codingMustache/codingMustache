@@ -6,24 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you do when you see a space man?
-Park your car, man.
+"Why do seagulls fly over the ocean?" "Because if they flew over the bay, we'd call them bagels."
 
 
 ## Daily Trivia
 
-Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
- 1. Puma
- 2. Cheetah
- 3. Tiger
- 4. Leopard
+What does SSD stand for?
+ 1. Solution Source Disk
+ 2. Solid State Disk
+ 3. Source Solution Drive
+ 4. Solid State Drive
 
 <details>
   <summary>Answer</summary>
-  Cheetah
+  Solid State Drive
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days 23 minutes</strong> since this server shutdown
+Its been <strong>1 days 53 minutes</strong> since this server shutdown
