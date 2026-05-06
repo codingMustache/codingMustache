@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A doll was recently found dead in a rice paddy. It's the only known instance of a nick nack paddy wack.
+What do you call a female snake. misssssssss 
 
 
 ## Daily Trivia
 
-Color model CMYK stands for?
- 1. Cream, Maroon, Yellow, and Black
- 2. Cyan, Magenta, Yellow, and Black
- 3. Cyan, Magenta, Yellow, and Khaki
- 4. Cream, Maroon, Yellow, and Khaki
+The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
+ 1. Amstrad PLC
+ 2. Sinclair Research
+ 3. Acorn Computers
+ 4. Commodore Business Machines
 
 <details>
   <summary>Answer</summary>
-  Cyan, Magenta, Yellow, and Black
+  Acorn Computers
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  3 hours 23 minutes</strong> since this server shutdown
+Its been <strong>1 days  3 hours 53 minutes</strong> since this server shutdown
