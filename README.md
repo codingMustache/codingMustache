@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I'd like to start a diet, but I've got too much on my plate right now.
+Where do hamburgers go to dance? The meat-ball.
 
 
 ## Daily Trivia
 
-What does the &#039;S&#039; in the RSA encryption algorithm stand for?
- 1. Stable
- 2. Schottky
- 3. Secure
- 4. Shamir
+The name of technology company HP stands for what?
+ 1. Hellman-Pohl
+ 2. Hewlett-Packard
+ 3. Howard Packmann
+ 4. Husker-Pollosk
 
 <details>
   <summary>Answer</summary>
-  Shamir
+  Hewlett-Packard
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 19 hours 23 minutes</strong> since this server shutdown
+Its been <strong> 19 hours 53 minutes</strong> since this server shutdown
