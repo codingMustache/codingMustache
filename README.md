@@ -6,23 +6,25 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What has ears but cannot hear? A field of corn.
+What's the worst part about being a cross-eyed teacher?
+
+They can't control their pupils.
 
 
 ## Daily Trivia
 
-The name of technology company HP stands for what?
- 1. Howard Packmann
- 2. Hewlett-Packard
- 3. Husker-Pollosk
- 4. Hellman-Pohl
+What does the acronym CDN stand for in terms of networking?
+ 1. Content Delivery Network
+ 2. Content Distribution Network
+ 3. Compressed Data Network
+ 4. Computational Data Network
 
 <details>
   <summary>Answer</summary>
-  Hewlett-Packard
+  Content Delivery Network
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 12 hours 23 minutes</strong> since this server shutdown
+Its been <strong> 12 hours 53 minutes</strong> since this server shutdown
