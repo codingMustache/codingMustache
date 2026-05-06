@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why can't eggs have love? They will break up too soon.
+Why did the tree go to the dentist? It needed a root canal.
 
 
 ## Daily Trivia
 
-Approximately how many Apple I personal computers were created?
- 1. 100
- 2. 500
- 3. 1000
- 4. 200
+The acronym &quot;RIP&quot; stands for which of these?
+ 1. Routine Inspection Protocol
+ 2. Regular Interval Processes
+ 3. Routing Information Protocol
+ 4. Runtime Instance Processes
 
 <details>
   <summary>Answer</summary>
-  200
+  Routing Information Protocol
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  6 hours 53 minutes</strong> since this server shutdown
+Its been <strong>1 days  7 hours 23 minutes</strong> since this server shutdown
