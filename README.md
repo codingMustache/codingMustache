@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A quick shoutout to all of the sidewalks out there... Thanks for keeping me off the streets.
+The great thing about stationery shops is they're always in the same place...
 
 
 ## Daily Trivia
 
-When Gmail first launched, how much storage did it provide for your email?
- 1. 1GB
- 2. 512MB
- 3. 5GB
- 4. Unlimited
+Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
+ 1. Tiger
+ 2. Puma
+ 3. Leopard
+ 4. Cheetah
 
 <details>
   <summary>Answer</summary>
-  1GB
+  Cheetah
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 13 hours 53 minutes</strong> since this server shutdown
+Its been <strong> 14 hours 23 minutes</strong> since this server shutdown
