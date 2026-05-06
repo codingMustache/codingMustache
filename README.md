@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is bread's favorite number?  Leaven.
+What’s the difference between an African elephant and an Indian elephant? About 5000 miles.
 
 
 ## Daily Trivia
 
-In programming, what do you call functions with the same name but different implementations?
- 1. Abstracting
- 2. Overloading
- 3. Overriding
- 4. Inheriting
+When Gmail first launched, how much storage did it provide for your email?
+ 1. 512MB
+ 2. 1GB
+ 3. 5GB
+ 4. Unlimited
 
 <details>
   <summary>Answer</summary>
-  Overloading
+  1GB
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 9 hours 53 minutes</strong> since this server shutdown
+Its been <strong> 10 hours 23 minutes</strong> since this server shutdown
