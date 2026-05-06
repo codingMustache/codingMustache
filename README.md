@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a gorilla wearing headphones? Anything you'd like, it can't hear you.
+I used to be addicted to soap, but I'm clean now.
 
 
 ## Daily Trivia
 
-This mobile OS held the largest market share in 2012.
- 1. Symbian
- 2. Android
- 3. iOS
- 4. BlackBerry
+What does the Prt Sc button do?
+ 1. Closes all windows
+ 2. Captures what&#039;s on the screen and copies it to your clipboard
+ 3. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
+ 4. Nothing
 
 <details>
   <summary>Answer</summary>
-  iOS
+  Captures what&#039;s on the screen and copies it to your clipboard
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  4 hours 53 minutes</strong> since this server shutdown
+Its been <strong>1 days  5 hours 23 minutes</strong> since this server shutdown
