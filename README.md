@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a female snake. misssssssss 
+I ate a clock yesterday. It was so time consuming.
 
 
 ## Daily Trivia
 
-The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
- 1. Amstrad PLC
- 2. Sinclair Research
- 3. Acorn Computers
- 4. Commodore Business Machines
+What is known as &quot;the brain&quot; of the Computer?
+ 1. Central Processing Unit
+ 2. Motherboard
+ 3. Graphics Processing Unit
+ 4. Keyboard
 
 <details>
   <summary>Answer</summary>
-  Acorn Computers
+  Central Processing Unit
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  3 hours 53 minutes</strong> since this server shutdown
+Its been <strong>1 days  4 hours 23 minutes</strong> since this server shutdown
