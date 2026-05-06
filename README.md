@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you make a water bed more bouncy. You use Spring Water
+If two vegans are having an argument, is it still considered beef?
 
 
 ## Daily Trivia
 
-How many cores does the Intel i7-6950X have?
- 1. 12
- 2. 8
- 3. 10
- 4. 4
+According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:
+ 1. A&#039;B + B&#039;A
+ 2. A&#039;B&#039;
+ 3. AB&#039; + AB
+ 4. A&#039; + B&#039;
 
 <details>
   <summary>Answer</summary>
-  10
+  A&#039; + B&#039;
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 15 hours 23 minutes</strong> since this server shutdown
+Its been <strong> 15 hours 53 minutes</strong> since this server shutdown
