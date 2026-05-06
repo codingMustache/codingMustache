@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I knew a guy who collected candy canes, they were all in mint condition
+Why can't eggs have love? They will break up too soon.
 
 
 ## Daily Trivia
 
-Which of the following computer components can be built using only NAND gates?
- 1. Register
- 2. CPU
- 3. RAM
- 4. ALU
+Approximately how many Apple I personal computers were created?
+ 1. 100
+ 2. 500
+ 3. 1000
+ 4. 200
 
 <details>
   <summary>Answer</summary>
-  ALU
+  200
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  6 hours 23 minutes</strong> since this server shutdown
+Its been <strong>1 days  6 hours 53 minutes</strong> since this server shutdown
