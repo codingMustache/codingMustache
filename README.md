@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I'd like to start a diet, but I've got too much on my plate right now.
+What has ears but cannot hear? A field of corn.
 
 
 ## Daily Trivia
 
-When did the online streaming service &quot;Mixer&quot; launch?
- 1. 2009
- 2. 2016
- 3. 2013
- 4. 2011
+The name of technology company HP stands for what?
+ 1. Howard Packmann
+ 2. Hewlett-Packard
+ 3. Husker-Pollosk
+ 4. Hellman-Pohl
 
 <details>
   <summary>Answer</summary>
-  2016
+  Hewlett-Packard
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 11 hours 53 minutes</strong> since this server shutdown
+Its been <strong> 12 hours 23 minutes</strong> since this server shutdown
