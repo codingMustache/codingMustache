@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I was at the library and asked if they have any books on "paranoia", the librarian replied, "yes, they are right behind you"
+You know that cemetery up the road? People are dying to get in there.
 
 
 ## Daily Trivia
 
-What is known as &quot;the brain&quot; of the Computer?
- 1. Central Processing Unit
- 2. Keyboard
- 3. Motherboard
- 4. Graphics Processing Unit
+What major programming language does Unreal Engine 4 use?
+ 1. C#
+ 2. ECMAScript
+ 3. Assembly
+ 4. C++
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  C++
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 8 hours 23 minutes</strong> since this server shutdown
+Its been <strong> 8 hours 53 minutes</strong> since this server shutdown
