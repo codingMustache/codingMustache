@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where did Captain Hook get his hook? From a second hand store.
+What is bread's favorite number?  Leaven.
 
 
 ## Daily Trivia
 
-In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
- 1. Private
- 2. Static
- 3. Public
- 4. Final
+In programming, what do you call functions with the same name but different implementations?
+ 1. Abstracting
+ 2. Overloading
+ 3. Overriding
+ 4. Inheriting
 
 <details>
   <summary>Answer</summary>
-  Final
+  Overloading
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 9 hours 23 minutes</strong> since this server shutdown
+Its been <strong> 9 hours 53 minutes</strong> since this server shutdown
