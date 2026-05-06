@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-No matter how kind you are, German children are kinder.
+What do you call a snake who builds houses? A boa constructor!
 
 
 ## Daily Trivia
 
-How many bits are commonly in a single byte?
- 1.  Fifteen bits
- 2. Twelve bits
- 3. Six bits
- 4. Eight bits
+In web design, what does CSS stand for?
+ 1. Counter Strike: Source
+ 2. Corrective Style Sheet
+ 3. Cascading Style Sheet
+ 4. Computer Style Sheet
 
 <details>
   <summary>Answer</summary>
-  Eight bits
+  Cascading Style Sheet
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  2 hours 23 minutes</strong> since this server shutdown
+Its been <strong>1 days  2 hours 53 minutes</strong> since this server shutdown
