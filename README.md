@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do bears have hairy coats? Fur protection.
+I used to be addicted to the hokey pokey, but I turned myself around.
 
 
 ## Daily Trivia
 
-How many kilobytes in one gigabyte (in decimal)?
- 1. 1024
- 2. 1000
- 3. 1000000
- 4. 1048576
+The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
+ 1. Commodore Business Machines
+ 2. Amstrad PLC
+ 3. Acorn Computers
+ 4. Sinclair Research
 
 <details>
   <summary>Answer</summary>
-  1000000
+  Acorn Computers
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 17 hours 23 minutes</strong> since this server shutdown
+Its been <strong> 17 hours 53 minutes</strong> since this server shutdown
