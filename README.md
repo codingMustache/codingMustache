@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to be addicted to soap, but I'm clean now.
+I have the heart of a lion... and a lifetime ban from the San Diego Zoo.
 
 
 ## Daily Trivia
 
-On which day did the World Wide Web go online?
- 1. December 17, 1996
- 2. November 12, 1990
- 3. November 24, 1995
- 4. December 20, 1990
+Dutch computer scientist Mark Overmars is known for creating which game development engine?
+ 1. Stencyl
+ 2. Construct
+ 3. Game Maker
+ 4. Torque 2D
 
 <details>
   <summary>Answer</summary>
-  December 20, 1990
+  Game Maker
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  5 hours 23 minutes</strong> since this server shutdown
+Its been <strong>2 days  5 hours 53 minutes</strong> since this server shutdown
