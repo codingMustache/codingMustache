@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why is Peter Pan always flying? Because he Neverlands.
+I used to be addicted to soap, but I'm clean now.
 
 
 ## Daily Trivia
 
-The acronym &quot;RIP&quot; stands for which of these?
- 1. Routine Inspection Protocol
- 2. Regular Interval Processes
- 3. Runtime Instance Processes
- 4. Routing Information Protocol
+On which day did the World Wide Web go online?
+ 1. December 17, 1996
+ 2. November 12, 1990
+ 3. November 24, 1995
+ 4. December 20, 1990
 
 <details>
   <summary>Answer</summary>
-  Routing Information Protocol
+  December 20, 1990
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  4 hours 53 minutes</strong> since this server shutdown
+Its been <strong>2 days  5 hours 23 minutes</strong> since this server shutdown
