@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Child: Dad, make me a sandwich. Dad: Poof! You're a sandwich.
+How does a penguin build it’s house? Igloos it together.
 
 
 ## Daily Trivia
 
-When did the online streaming service &quot;Mixer&quot; launch?
- 1. 2009
- 2. 2013
- 3. 2011
- 4. 2016
+All of the following programs are classified as raster graphics editors EXCEPT:
+ 1. Paint.NET
+ 2. Inkscape
+ 3. GIMP
+ 4. Adobe Photoshop
 
 <details>
   <summary>Answer</summary>
-  2016
+  Inkscape
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  14 hours 23 minutes</strong> since this server shutdown
+Its been <strong>1 days  14 hours 53 minutes</strong> since this server shutdown
