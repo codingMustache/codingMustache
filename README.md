@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a fish with no eyes? A fsh.
+What do you call a gorilla wearing headphones? Anything you'd like, it can't hear you.
 
 
 ## Daily Trivia
 
-Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
- 1. Enigma Machine
- 2. Skipjack
- 3. Nautilus
- 4. Clipper Chip
+What vulnerability ranked #1 on the OWASP Top 10 in 2013?
+ 1. Cross-Site Scripting
+ 2. Insecure Direct Object References
+ 3. Broken Authentication
+ 4. Injection 
 
 <details>
   <summary>Answer</summary>
-  Clipper Chip
+  Injection 
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days 53 minutes</strong> since this server shutdown
+Its been <strong>2 days  1 hours 23 minutes</strong> since this server shutdown
