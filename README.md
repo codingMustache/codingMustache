@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I have the heart of a lion... and a lifetime ban from the San Diego Zoo.
+I’m on a whiskey diet. I’ve lost three days already.
 
 
 ## Daily Trivia
 
-Which of these is not a layer in the OSI model for data communications?
- 1. Connection Layer
- 2. Physical Layer
- 3. Application Layer
- 4. Transport Layer
+Linus Torvalds created which of these?
+ 1. Microsoft Windows
+ 2. Python
+ 3. Wikipedia
+ 4. Linux
 
 <details>
   <summary>Answer</summary>
-  Connection Layer
+  Linux
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  9 hours 53 minutes</strong> since this server shutdown
+Its been <strong>1 days  10 hours 23 minutes</strong> since this server shutdown
