@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What does a pirate pay for his corn? A buccaneer!
+Breaking news! Energizer Bunny arrested – charged with battery.
 
 
 ## Daily Trivia
 
-What five letter word is the motto of the IBM Computer company?
- 1. Think
- 2. Click
- 3. Logic
- 4. Pixel
+In computing terms, typically what does CLI stand for?
+ 1. Common Language Interface
+ 2. Control Line Interface
+ 3. Common Language Input
+ 4. Command Line Interface
 
 <details>
   <summary>Answer</summary>
-  Think
+  Command Line Interface
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  7 hours 53 minutes</strong> since this server shutdown
+Its been <strong>1 days  8 hours 23 minutes</strong> since this server shutdown
