@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-When do doctors get angry? When they run out of patients.
+What do Alexander the Great and Winnie the Pooh have in common? Same middle name.
 
 
 ## Daily Trivia
 
-What does &quot;LCD&quot; stand for?
- 1. Liquid Crystal Display
- 2. Long Continuous Design
- 3. Last Common Difference
- 4. Language Control Design
+The teapot often seen in many 3D modeling applications is called what?
+ 1. Utah Teapot
+ 2. Tennessee Teapot
+ 3. 3D Teapot
+ 4. Pixar Teapot
 
 <details>
   <summary>Answer</summary>
-  Liquid Crystal Display
+  Utah Teapot
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  20 hours 23 minutes</strong> since this server shutdown
+Its been <strong>1 days  20 hours 53 minutes</strong> since this server shutdown
