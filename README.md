@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a gorilla wearing headphones? Anything you'd like, it can't hear you.
+Can February march? No, but April may.
 
 
 ## Daily Trivia
 
-What vulnerability ranked #1 on the OWASP Top 10 in 2013?
- 1. Cross-Site Scripting
- 2. Insecure Direct Object References
- 3. Broken Authentication
- 4. Injection 
+What does the acronym CDN stand for in terms of networking?
+ 1. Compressed Data Network
+ 2. Content Delivery Network
+ 3. Computational Data Network
+ 4. Content Distribution Network
 
 <details>
   <summary>Answer</summary>
-  Injection 
+  Content Delivery Network
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  1 hours 23 minutes</strong> since this server shutdown
+Its been <strong>2 days  1 hours 53 minutes</strong> since this server shutdown
