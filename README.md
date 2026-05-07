@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do locomotives know where they're going? Lots of training
+Why do wizards clean their teeth three times a day? To prevent bat breath!
 
 
 ## Daily Trivia
 
-What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
- 1. Heat Sink
- 2. Temperature Decipator
- 3. Heat Vent
- 4. CPU Vent
+Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
+ 1. Year
+ 2. Four Years
+ 3. Two Years
+ 4. Eight Years
 
 <details>
   <summary>Answer</summary>
-  Heat Sink
+  Year
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  23 hours 53 minutes</strong> since this server shutdown
+Its been <strong>2 days 23 minutes</strong> since this server shutdown
