@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why does Norway have barcodes on their battleships? So when they get back to port, they can Scandinavian.
+What do you call a fat psychic? A four-chin teller.
 
 
 ## Daily Trivia
 
-In networking, what does OSPF stand for?
- 1. Order Sense Ping Find
- 2. Order State Part First
- 3. Open Shortest Path First
- 4. Open Signal Path Finder
+How many kilobytes in one gigabyte (in decimal)?
+ 1. 1024
+ 2. 1000
+ 3. 1048576
+ 4. 1000000
 
 <details>
   <summary>Answer</summary>
-  Open Shortest Path First
+  1000000
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  12 hours 53 minutes</strong> since this server shutdown
+Its been <strong>1 days  13 hours 23 minutes</strong> since this server shutdown
