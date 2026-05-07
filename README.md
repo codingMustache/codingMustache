@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the banana go to the doctor? He was not "peeling" well.
+How was the snow globe feeling after the storm? A little shaken.
 
 
 ## Daily Trivia
 
-The C programming language was created by this American computer scientist. 
- 1. al-Khwārizmī
- 2. Dennis Ritchie
- 3. Willis Ware
- 4. Tim Berners Lee
+What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
+ 1. Heat Sink
+ 2. Temperature Decipator
+ 3. CPU Vent
+ 4. Heat Vent
 
 <details>
   <summary>Answer</summary>
-  Dennis Ritchie
+  Heat Sink
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  2 hours 23 minutes</strong> since this server shutdown
+Its been <strong>2 days  2 hours 53 minutes</strong> since this server shutdown
