@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Who is the coolest Doctor in the hospital? The hip Doctor!
+Geology rocks, but Geography is where it's at!
 
 
 ## Daily Trivia
 
-Which of the following physical typologies are used with Ethernet Networks?
- 1. Ring
- 2. Mesh
- 3. Hex
- 4. Star
+When Gmail first launched, how much storage did it provide for your email?
+ 1. 1GB
+ 2. Unlimited
+ 3. 5GB
+ 4. 512MB
 
 <details>
   <summary>Answer</summary>
-  Star
+  1GB
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  15 hours 23 minutes</strong> since this server shutdown
+Its been <strong>1 days  15 hours 53 minutes</strong> since this server shutdown
