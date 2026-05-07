@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I’m on a whiskey diet. I’ve lost three days already.
+Did you hear that David lost his ID in prague? Now we just have to call him Dav.
 
 
 ## Daily Trivia
 
-Linus Torvalds created which of these?
- 1. Microsoft Windows
- 2. Python
- 3. Wikipedia
- 4. Linux
+What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
+ 1. Sandy Bridge
+ 2. Skylake
+ 3. Coffee Lake
+ 4. Broadwell
 
 <details>
   <summary>Answer</summary>
-  Linux
+  Coffee Lake
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  10 hours 23 minutes</strong> since this server shutdown
+Its been <strong>1 days  10 hours 53 minutes</strong> since this server shutdown
