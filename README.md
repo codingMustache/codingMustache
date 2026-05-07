@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a fat psychic? A four-chin teller.
+I won an argument with a weather forecaster once. His logic was cloudy...
 
 
 ## Daily Trivia
 
-On which computer hardware device is the BIOS chip located?
- 1. Central Processing Unit
- 2. Motherboard
- 3. Graphics Processing Unit
- 4. Hard Disk Drive
+In programming, what do you call functions with the same name but different implementations?
+ 1. Overriding
+ 2. Overloading
+ 3. Abstracting
+ 4. Inheriting
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  Overloading
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  11 hours 23 minutes</strong> since this server shutdown
+Its been <strong>1 days  11 hours 53 minutes</strong> since this server shutdown
