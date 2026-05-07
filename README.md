@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What concert costs only 45 cents? 50 cent featuring Nickelback.
+Dad, can you put my shoes on? I don't think they'll fit me.
 
 
 ## Daily Trivia
 
-Dutch computer scientist Mark Overmars is known for creating which game development engine?
- 1. Game Maker
- 2. Torque 2D
- 3. Construct
- 4. Stencyl
+What is largely considered the precursor to the USB format?
+ 1. PCIe
+ 2. PS/2
+ 3. FireWire
+ 4. SVGA
 
 <details>
   <summary>Answer</summary>
-  Game Maker
+  PS/2
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  18 hours 53 minutes</strong> since this server shutdown
+Its been <strong>1 days  19 hours 23 minutes</strong> since this server shutdown
