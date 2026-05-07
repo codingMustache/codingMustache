@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are basketball players messy eaters? Because they are always dribbling.
+As I suspected, someone has been adding soil to my garden. The plot thickens.
 
 
 ## Daily Trivia
 
-In computing terms, typically what does CLI stand for?
- 1. Control Line Interface
- 2. Command Line Interface
- 3. Common Language Interface
- 4. Common Language Input
+What port does HTTP run on?
+ 1. 53
+ 2. 80
+ 3. 443
+ 4. 23
 
 <details>
   <summary>Answer</summary>
-  Command Line Interface
+  80
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  22 hours 53 minutes</strong> since this server shutdown
+Its been <strong>1 days  23 hours 23 minutes</strong> since this server shutdown
