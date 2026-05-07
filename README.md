@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-As I suspected, someone has been adding soil to my garden. The plot thickens.
+How do locomotives know where they're going? Lots of training
 
 
 ## Daily Trivia
 
-What port does HTTP run on?
- 1. 53
- 2. 80
- 3. 443
- 4. 23
+What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
+ 1. Heat Sink
+ 2. Temperature Decipator
+ 3. Heat Vent
+ 4. CPU Vent
 
 <details>
   <summary>Answer</summary>
-  80
+  Heat Sink
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  23 hours 23 minutes</strong> since this server shutdown
+Its been <strong>1 days  23 hours 53 minutes</strong> since this server shutdown
