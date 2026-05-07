@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a fat psychic? A four-chin teller.
+Can a kangaroo jump higher than the Empire State Building? Of course. The Empire State Building can't jump.
 
 
 ## Daily Trivia
 
-How many kilobytes in one gigabyte (in decimal)?
- 1. 1024
- 2. 1000
- 3. 1048576
- 4. 1000000
+In any programming language, what is the most common way to iterate through an array?
+ 1. &#039;For&#039; loops
+ 2. &#039;While&#039; loops
+ 3. &#039;Do-while&#039; loops
+ 4. &#039;If&#039; Statements
 
 <details>
   <summary>Answer</summary>
-  1000000
+  &#039;For&#039; loops
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  13 hours 23 minutes</strong> since this server shutdown
+Its been <strong>1 days  13 hours 53 minutes</strong> since this server shutdown
