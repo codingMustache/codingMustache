@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I went to the doctor today and he told me I had type A blood but it was a type O.
+What concert costs only 45 cents? 50 cent featuring Nickelback.
 
 
 ## Daily Trivia
 
-In computing, what does MIDI stand for?
- 1. Musical Interface of Digital Instruments
- 2. Modular Interface of Digital Instruments
- 3. Musical Instrument Data Interface
- 4. Musical Instrument Digital Interface
+Dutch computer scientist Mark Overmars is known for creating which game development engine?
+ 1. Game Maker
+ 2. Torque 2D
+ 3. Construct
+ 4. Stencyl
 
 <details>
   <summary>Answer</summary>
-  Musical Instrument Digital Interface
+  Game Maker
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  18 hours 23 minutes</strong> since this server shutdown
+Its been <strong>1 days  18 hours 53 minutes</strong> since this server shutdown
