@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Can February march? No, but April may.
+Why did the banana go to the doctor? He was not "peeling" well.
 
 
 ## Daily Trivia
 
-What does the acronym CDN stand for in terms of networking?
- 1. Compressed Data Network
- 2. Content Delivery Network
- 3. Computational Data Network
- 4. Content Distribution Network
+The C programming language was created by this American computer scientist. 
+ 1. al-Khwārizmī
+ 2. Dennis Ritchie
+ 3. Willis Ware
+ 4. Tim Berners Lee
 
 <details>
   <summary>Answer</summary>
-  Content Delivery Network
+  Dennis Ritchie
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  1 hours 53 minutes</strong> since this server shutdown
+Its been <strong>2 days  2 hours 23 minutes</strong> since this server shutdown
