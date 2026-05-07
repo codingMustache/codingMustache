@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How does a penguin build it’s house? Igloos it together.
+Who is the coolest Doctor in the hospital? The hip Doctor!
 
 
 ## Daily Trivia
 
-All of the following programs are classified as raster graphics editors EXCEPT:
- 1. Paint.NET
- 2. Inkscape
- 3. GIMP
- 4. Adobe Photoshop
+Which of the following physical typologies are used with Ethernet Networks?
+ 1. Ring
+ 2. Mesh
+ 3. Hex
+ 4. Star
 
 <details>
   <summary>Answer</summary>
-  Inkscape
+  Star
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  14 hours 53 minutes</strong> since this server shutdown
+Its been <strong>1 days  15 hours 23 minutes</strong> since this server shutdown
