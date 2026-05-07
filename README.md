@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why don’t skeletons ever go trick or treating? Because they have nobody to go with.
+I needed a password eight characters long so I picked Snow White and the Seven Dwarfs.
 
 
 ## Daily Trivia
 
-What is the commonly used keyboard shortcut for the &#039;Copy&#039; function on Windows OS?
- 1. Ctrl + C
- 2. Alt + X
- 3. Alt + C
- 4. Ctrl + X
+CMOS is tech used for constructing integrated circuits. What does CMOS stand for?
+ 1. Complementary metal&ndash;oxide&ndash;semiconductor
+ 2. Computer-made oscillating static
+ 3. Computer-made operating system
+ 4. Complementary magnetic-ohms-semiconductor
 
 <details>
   <summary>Answer</summary>
-  Ctrl + C
+  Complementary metal&ndash;oxide&ndash;semiconductor
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  21 hours 53 minutes</strong> since this server shutdown
+Its been <strong>1 days  22 hours 23 minutes</strong> since this server shutdown
