@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I've just written a song about a tortilla. Well, it is more of a rap really.
+What's the difference between a poorly dressed man on a tricycle and a well dressed man on a bicycle? Attire.
 
 
 ## Daily Trivia
 
-What was the name of the security vulnerability found in Bash in 2014?
- 1. Stagefright
- 2. Bashbug
- 3. Shellshock
- 4. Heartbleed
+What is the name of the process that sends one qubit of information using two bits of classical information?
+ 1. Super Dense Coding
+ 2. Quantum Entanglement
+ 3. Quantum Programming
+ 4. Quantum Teleportation
 
 <details>
   <summary>Answer</summary>
-  Shellshock
+  Quantum Teleportation
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  3 hours 23 minutes</strong> since this server shutdown
+Its been <strong>2 days  3 hours 53 minutes</strong> since this server shutdown
