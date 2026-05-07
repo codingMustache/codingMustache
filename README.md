@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Breaking news! Energizer Bunny arrested – charged with battery.
+I made a playlist for hiking. It has music from Peanuts, The Cranberries, and Eminem. I call it my Trail Mix.
 
 
 ## Daily Trivia
 
-In computing terms, typically what does CLI stand for?
- 1. Common Language Interface
- 2. Control Line Interface
- 3. Common Language Input
- 4. Command Line Interface
+Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
+ 1. Puma
+ 2. Tiger
+ 3. Leopard
+ 4. Cheetah
 
 <details>
   <summary>Answer</summary>
-  Command Line Interface
+  Cheetah
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  8 hours 23 minutes</strong> since this server shutdown
+Its been <strong>1 days  8 hours 53 minutes</strong> since this server shutdown
