@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Doctor you've got you help me, I'm addicted to twitter. Doctor: I don't follow you.
+Don't trust atoms. They make up everything.
 
 
 ## Daily Trivia
 
-What did the name of the Tor Anonymity Network orignially stand for?
- 1. The Orange Router
- 2. The Onion Router
- 3. The Only Router
- 4. The Ominous Router
+What kind of memory is used on memory cache?
+ 1. DRAM
+ 2. ROM
+ 3. Flash
+ 4. SRAM
 
 <details>
   <summary>Answer</summary>
-  The Onion Router
+  SRAM
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  1 hours 23 minutes</strong> since this server shutdown
+Its been <strong>3 days  1 hours 53 minutes</strong> since this server shutdown
