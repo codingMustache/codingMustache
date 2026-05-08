@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Just watched a documentary about beavers… It was the best damn program I’ve ever seen.
+How does a dyslexic poet write? Inverse.
 
 
 ## Daily Trivia
 
-What language does Node.js use?
- 1. JavaScript
- 2. Joomla Source Code
- 3. Java
- 4. Java Source
+In networking, what does OSPF stand for?
+ 1. Open Shortest Path First
+ 2. Open Signal Path Finder
+ 3. Order Sense Ping Find
+ 4. Order State Part First
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  Open Shortest Path First
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  13 hours 53 minutes</strong> since this server shutdown
+Its been <strong>2 days  14 hours 23 minutes</strong> since this server shutdown
