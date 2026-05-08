@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I've been trying to come up with a dad joke about momentum . . . but I just can't seem to get it going.
+Just watched a documentary about beavers… It was the best damn program I’ve ever seen.
 
 
 ## Daily Trivia
 
-Who is the original author of the realtime physics engine called PhysX?
- 1. AMD
- 2. Nvidia
- 3. Ageia
- 4. NovodeX
+What language does Node.js use?
+ 1. JavaScript
+ 2. Joomla Source Code
+ 3. Java
+ 4. Java Source
 
 <details>
   <summary>Answer</summary>
-  NovodeX
+  JavaScript
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  13 hours 23 minutes</strong> since this server shutdown
+Its been <strong>2 days  13 hours 53 minutes</strong> since this server shutdown
