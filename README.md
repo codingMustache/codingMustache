@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Animal Fact #25: Most bobcats are not named bob.
+My son is studying to be a surgeon, I just hope he makes the cut.
 
 
 ## Daily Trivia
 
-Who is the founder of Palantir?
- 1. Peter Thiel
- 2. Jack Dorsey
- 3. Marc Benioff
- 4. Mark Zuckerberg
+What does the &quot;MP&quot; stand for in MP3?
+ 1. Moving Picture
+ 2. Music Player
+ 3. Multi Pass
+ 4. Micro Point
 
 <details>
   <summary>Answer</summary>
-  Peter Thiel
+  Moving Picture
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  16 hours 23 minutes</strong> since this server shutdown
+Its been <strong>2 days  16 hours 53 minutes</strong> since this server shutdown
