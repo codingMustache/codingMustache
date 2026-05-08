@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What are the strongest days of the week? Saturday and Sunday...the rest are weekdays.
+It doesn't matter how much you push the envelope. It will still be stationary.
 
 
 ## Daily Trivia
 
-Which of the following physical typologies are used with Ethernet Networks?
- 1. Star
- 2. Mesh
- 3. Ring
- 4. Hex
+What does the Prt Sc button do?
+ 1. Nothing
+ 2. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
+ 3. Closes all windows
+ 4. Captures what&#039;s on the screen and copies it to your clipboard
 
 <details>
   <summary>Answer</summary>
-  Star
+  Captures what&#039;s on the screen and copies it to your clipboard
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  9 hours 53 minutes</strong> since this server shutdown
+Its been <strong>2 days  10 hours 23 minutes</strong> since this server shutdown
