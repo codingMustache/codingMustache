@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do hens stay fit? They always egg-cercise!
+What kind of magic do cows believe in? MOODOO.
 
 
 ## Daily Trivia
 
-Approximately how many Apple I personal computers were created?
- 1. 100
- 2. 500
- 3. 1000
- 4. 200
+When was the programming language &quot;C#&quot; released?
+ 1. 1999
+ 2. 2000
+ 3. 1998
+ 4. 2001
 
 <details>
   <summary>Answer</summary>
-  200
+  2000
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  22 hours 53 minutes</strong> since this server shutdown
+Its been <strong>2 days  23 hours 23 minutes</strong> since this server shutdown
