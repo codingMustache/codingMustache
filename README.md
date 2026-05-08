@@ -6,25 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where was the Declaration of Independence signed?
-
-At the bottom! 
+Why do bears have hairy coats? Fur protection.
 
 
 ## Daily Trivia
 
-Unix Time is defined as the number of seconds that have elapsed since when?
- 1. Midnight, January 1, 1970
- 2. Midnight, July 4, 1976
- 3. Midnight on the creator of Unix&#039;s birthday
- 4. Midnight, July 4, 1980
+What is the maximum value of a 32-bit signed binary integer?
+ 1. 2048
+ 2. 2,147,483,647
+ 3. 9,223,372,036,854,775,807
+ 4. 255
 
 <details>
   <summary>Answer</summary>
-  Midnight, January 1, 1970
+  2,147,483,647
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  19 hours 23 minutes</strong> since this server shutdown
+Its been <strong>2 days  19 hours 53 minutes</strong> since this server shutdown
