@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What’s brown and sounds like a bell? Dung!
+Don’t interrupt someone working intently on a puzzle. Chances are, you’ll hear some crosswords.
 
 
 ## Daily Trivia
 
-Which SQL keyword is used to fetch data from a database?
- 1. VALUES
- 2. SELECT
- 3. EXEC
- 4. INDEX
+In programming, the ternary operator is mostly defined with what symbol(s)?
+ 1. ??
+ 2. if then
+ 3. ?
+ 4. ?:
 
 <details>
   <summary>Answer</summary>
-  SELECT
+  ?:
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  4 hours 53 minutes</strong> since this server shutdown
+Its been <strong>3 days  5 hours 23 minutes</strong> since this server shutdown
