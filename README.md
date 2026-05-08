@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Got a new suit recently made entirely of living plants. I wasn’t sure at first, but it’s grown on me
+Animal Fact #25: Most bobcats are not named bob.
 
 
 ## Daily Trivia
 
-When Gmail first launched, how much storage did it provide for your email?
- 1. 1GB
- 2. Unlimited
- 3. 5GB
- 4. 512MB
+Who is the founder of Palantir?
+ 1. Peter Thiel
+ 2. Jack Dorsey
+ 3. Marc Benioff
+ 4. Mark Zuckerberg
 
 <details>
   <summary>Answer</summary>
-  1GB
+  Peter Thiel
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  15 hours 53 minutes</strong> since this server shutdown
+Its been <strong>2 days  16 hours 23 minutes</strong> since this server shutdown
