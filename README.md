@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I don't trust stairs. They're always up to something.
+What do you get if you cross a turkey with a ghost? A poultry-geist!
 
 
 ## Daily Trivia
 
-Which of these names was an actual codename for a cancelled Microsoft project?
- 1. Enceladus
- 2. Pollux
- 3. Saturn
- 4. Neptune
+In computing terms, typically what does CLI stand for?
+ 1. Command Line Interface
+ 2. Common Language Interface
+ 3. Common Language Input
+ 4. Control Line Interface
 
 <details>
   <summary>Answer</summary>
-  Neptune
+  Command Line Interface
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  11 hours 23 minutes</strong> since this server shutdown
+Its been <strong>2 days  11 hours 53 minutes</strong> since this server shutdown
