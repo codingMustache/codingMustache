@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A ghost walks into a bar and asks for a glass of vodka but the bar tender says, “sorry we don’t serve spirits”
+Got a new suit recently made entirely of living plants. I wasn’t sure at first, but it’s grown on me
 
 
 ## Daily Trivia
 
-What does CPU stand for?
- 1. Central Process Unit
- 2. Computer Personal Unit
- 3. Central Processor Unit
- 4. Central Processing Unit
+When Gmail first launched, how much storage did it provide for your email?
+ 1. 1GB
+ 2. Unlimited
+ 3. 5GB
+ 4. 512MB
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  1GB
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  15 hours 23 minutes</strong> since this server shutdown
+Its been <strong>2 days  15 hours 53 minutes</strong> since this server shutdown
