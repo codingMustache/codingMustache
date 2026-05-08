@@ -6,25 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where was the Declaration of Independence signed?
-
-At the bottom! 
+I've been trying to come up with a dad joke about momentum . . . but I just can't seem to get it going.
 
 
 ## Daily Trivia
 
-Which of the following languages is used as a scripting language in the Unity 3D game engine?
- 1. Objective-C
- 2. C#
- 3. C++
- 4. Java
+Who is the original author of the realtime physics engine called PhysX?
+ 1. AMD
+ 2. Nvidia
+ 3. Ageia
+ 4. NovodeX
 
 <details>
   <summary>Answer</summary>
-  C#
+  NovodeX
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  12 hours 53 minutes</strong> since this server shutdown
+Its been <strong>2 days  13 hours 23 minutes</strong> since this server shutdown
