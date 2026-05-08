@@ -6,23 +6,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-You can't trust a ladder. It will always let you down
+What is the best way to carve?
+Whittle by whittle.
 
 
 ## Daily Trivia
 
-Generally, which component of a computer draws the most power?
- 1. Video Card
- 2. Power Supply
- 3. Hard Drive
- 4. Processor
+What does CPU stand for?
+ 1. Central Processing Unit
+ 2. Central Processor Unit
+ 3. Computer Personal Unit
+ 4. Central Process Unit
 
 <details>
   <summary>Answer</summary>
-  Video Card
+  Central Processing Unit
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  17 hours 53 minutes</strong> since this server shutdown
+Its been <strong>2 days  18 hours 23 minutes</strong> since this server shutdown
