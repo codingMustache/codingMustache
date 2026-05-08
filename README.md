@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-This furniture store keeps emailing me, all I wanted was one night stand!
+What are the strongest days of the week? Saturday and Sunday...the rest are weekdays.
 
 
 ## Daily Trivia
 
-Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
- 1. Corrupted Blood
- 2. Heartbleed
- 3. Shellscript
- 4. Shellshock
+Which of the following physical typologies are used with Ethernet Networks?
+ 1. Star
+ 2. Mesh
+ 3. Ring
+ 4. Hex
 
 <details>
   <summary>Answer</summary>
-  Heartbleed
+  Star
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  9 hours 23 minutes</strong> since this server shutdown
+Its been <strong>2 days  9 hours 53 minutes</strong> since this server shutdown
