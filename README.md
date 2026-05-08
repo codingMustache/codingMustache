@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My first time using an elevator was an uplifting experience. The second time let me down.
+The best time on a clock is 6:30--hands down.
 
 
 ## Daily Trivia
 
-What does the term GPU stand for?
- 1. Graphics Processing Unit
- 2. Gaming Processor Unit
- 3. Graphite Producing Unit
- 4. Graphical Proprietary Unit
+Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
+ 1. Enigma Machine
+ 2. Clipper Chip
+ 3. Skipjack
+ 4. Nautilus
 
 <details>
   <summary>Answer</summary>
-  Graphics Processing Unit
+  Clipper Chip
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  21 hours 23 minutes</strong> since this server shutdown
+Its been <strong>2 days  21 hours 53 minutes</strong> since this server shutdown
