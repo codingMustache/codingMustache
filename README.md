@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I thought about going on an all-almond diet. But that's just nuts.
+Doctor you've got you help me, I'm addicted to twitter. Doctor: I don't follow you.
 
 
 ## Daily Trivia
 
-How fast is USB 3.1 Gen 2 theoretically?
- 1. 5 Gb/s
- 2. 8 Gb/s
- 3. 1 Gb/s
- 4. 10 Gb/s
+What did the name of the Tor Anonymity Network orignially stand for?
+ 1. The Orange Router
+ 2. The Onion Router
+ 3. The Only Router
+ 4. The Ominous Router
 
 <details>
   <summary>Answer</summary>
-  10 Gb/s
+  The Onion Router
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days 53 minutes</strong> since this server shutdown
+Its been <strong>3 days  1 hours 23 minutes</strong> since this server shutdown
