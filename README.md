@@ -6,23 +6,25 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Past, present, and future walked into a bar.... It was tense.
+Where was the Declaration of Independence signed?
+
+At the bottom! 
 
 
 ## Daily Trivia
 
-What does the DOS in Microsoft&#039;s first operating system &quot;MS-DOS&quot; stand for?
- 1. Driver Oriented System
- 2. Dumb Operating System
- 3. Diskless Operating System
- 4. Disk Operating System
+Which of the following languages is used as a scripting language in the Unity 3D game engine?
+ 1. Objective-C
+ 2. C#
+ 3. C++
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  Disk Operating System
+  C#
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  12 hours 23 minutes</strong> since this server shutdown
+Its been <strong>2 days  12 hours 53 minutes</strong> since this server shutdown
