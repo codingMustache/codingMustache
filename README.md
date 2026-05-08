@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call an old snowman? Water.
+A ghost walks into a bar and asks for a glass of vodka but the bar tender says, “sorry we don’t serve spirits”
 
 
 ## Daily Trivia
 
-Whistler was the codename of this Microsoft Operating System.
- 1. Windows 2000
- 2. Windows 95
- 3. Windows XP
- 4. Windows 7
+What does CPU stand for?
+ 1. Central Process Unit
+ 2. Computer Personal Unit
+ 3. Central Processor Unit
+ 4. Central Processing Unit
 
 <details>
   <summary>Answer</summary>
-  Windows XP
+  Central Processing Unit
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  14 hours 53 minutes</strong> since this server shutdown
+Its been <strong>2 days  15 hours 23 minutes</strong> since this server shutdown
