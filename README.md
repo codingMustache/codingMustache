@@ -6,23 +6,25 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It doesn't matter how much you push the envelope. It will still be stationary.
+What's large, grey, and doesn't matter?
+An irrelephant.
+
 
 
 ## Daily Trivia
 
-What does the Prt Sc button do?
- 1. Nothing
- 2. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
- 3. Closes all windows
- 4. Captures what&#039;s on the screen and copies it to your clipboard
+If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
+ 1. JavaScript
+ 2. Binary
+ 3. C++
+ 4. Python
 
 <details>
   <summary>Answer</summary>
-  Captures what&#039;s on the screen and copies it to your clipboard
+  Binary
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  10 hours 23 minutes</strong> since this server shutdown
+Its been <strong>2 days  10 hours 53 minutes</strong> since this server shutdown
