@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How does a dyslexic poet write? Inverse.
+What do you call an old snowman? Water.
 
 
 ## Daily Trivia
 
-In networking, what does OSPF stand for?
- 1. Open Shortest Path First
- 2. Open Signal Path Finder
- 3. Order Sense Ping Find
- 4. Order State Part First
+Whistler was the codename of this Microsoft Operating System.
+ 1. Windows 2000
+ 2. Windows 95
+ 3. Windows XP
+ 4. Windows 7
 
 <details>
   <summary>Answer</summary>
-  Open Shortest Path First
+  Windows XP
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  14 hours 23 minutes</strong> since this server shutdown
+Its been <strong>2 days  14 hours 53 minutes</strong> since this server shutdown
