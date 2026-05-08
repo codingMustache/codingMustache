@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My son is studying to be a surgeon, I just hope he makes the cut.
+Did you hear about the guy who invented Lifesavers? They say he made a mint.
 
 
 ## Daily Trivia
 
-What does the &quot;MP&quot; stand for in MP3?
- 1. Moving Picture
- 2. Music Player
- 3. Multi Pass
- 4. Micro Point
+When Gmail first launched, how much storage did it provide for your email?
+ 1. Unlimited
+ 2. 512MB
+ 3. 5GB
+ 4. 1GB
 
 <details>
   <summary>Answer</summary>
-  Moving Picture
+  1GB
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  16 hours 53 minutes</strong> since this server shutdown
+Its been <strong>2 days  17 hours 23 minutes</strong> since this server shutdown
