@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the ocean say to the beach? Thanks for all the sediment.
+How do hens stay fit? They always egg-cercise!
 
 
 ## Daily Trivia
 
-Which of these names was an actual codename for a cancelled Microsoft project?
- 1. Enceladus
- 2. Pollux
- 3. Neptune
- 4. Saturn
+Approximately how many Apple I personal computers were created?
+ 1. 100
+ 2. 500
+ 3. 1000
+ 4. 200
 
 <details>
   <summary>Answer</summary>
-  Neptune
+  200
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  22 hours 23 minutes</strong> since this server shutdown
+Its been <strong>2 days  22 hours 53 minutes</strong> since this server shutdown
