@@ -6,23 +6,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Astronomers got tired watching the moon go around the earth for 24 hours. They decided to call it a day.
+What did the green grape say to the purple grape?
+BREATH!!
 
 
 ## Daily Trivia
 
-In computing, what does MIDI stand for?
- 1. Modular Interface of Digital Instruments
- 2. Musical Instrument Digital Interface
- 3. Musical Instrument Data Interface
- 4. Musical Interface of Digital Instruments
+On which computer hardware device is the BIOS chip located?
+ 1. Graphics Processing Unit
+ 2. Hard Disk Drive
+ 3. Motherboard
+ 4. Central Processing Unit
 
 <details>
   <summary>Answer</summary>
-  Musical Instrument Digital Interface
+  Motherboard
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  2 hours 53 minutes</strong> since this server shutdown
+Its been <strong>3 days  3 hours 23 minutes</strong> since this server shutdown
