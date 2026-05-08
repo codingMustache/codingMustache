@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are giraffes so slow to apologize? Because it takes them a long time to swallow their pride.
+What do you call a cow with no legs? Ground beef.
 
 
 ## Daily Trivia
 
-On which computer hardware device is the BIOS chip located?
- 1. Graphics Processing Unit
- 2. Motherboard
- 3. Central Processing Unit
- 4. Hard Disk Drive
+How many cores does the Intel i7-6950X have?
+ 1. 12
+ 2. 8
+ 3. 4
+ 4. 10
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  10
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  3 hours 53 minutes</strong> since this server shutdown
+Its been <strong>3 days  4 hours 23 minutes</strong> since this server shutdown
