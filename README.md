@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Is there a hole in your shoe? No… Then how’d you get your foot in it?
+My first time using an elevator was an uplifting experience. The second time let me down.
 
 
 ## Daily Trivia
 
-Which of the following languages is used as a scripting language in the Unity 3D game engine?
- 1. Java
- 2. Objective-C
- 3. C#
- 4. C++
+What does the term GPU stand for?
+ 1. Graphics Processing Unit
+ 2. Gaming Processor Unit
+ 3. Graphite Producing Unit
+ 4. Graphical Proprietary Unit
 
 <details>
   <summary>Answer</summary>
-  C#
+  Graphics Processing Unit
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  20 hours 53 minutes</strong> since this server shutdown
+Its been <strong>2 days  21 hours 23 minutes</strong> since this server shutdown
