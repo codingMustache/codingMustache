@@ -6,24 +6,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is the best way to carve?
-Whittle by whittle.
+Why don't you find hippopotamuses hiding in trees?
+They're really good at it.
 
 
 ## Daily Trivia
 
-What does CPU stand for?
- 1. Central Processing Unit
- 2. Central Processor Unit
- 3. Computer Personal Unit
- 4. Central Process Unit
+What is the maximum value of a 32-bit signed binary integer?
+ 1. 255
+ 2. 2048
+ 3. 9,223,372,036,854,775,807
+ 4. 2,147,483,647
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  2,147,483,647
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  18 hours 23 minutes</strong> since this server shutdown
+Its been <strong>2 days  18 hours 53 minutes</strong> since this server shutdown
