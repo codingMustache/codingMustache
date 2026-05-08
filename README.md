@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is a tornado's favorite game to play? Twister!
+Why are pirates called pirates? Because they arrr!
 
 
 ## Daily Trivia
 
-Which programming language was developed by Sun Microsystems in 1995?
- 1. C++
- 2. Java
- 3. Solaris OS
- 4. Python
+What port does HTTP run on?
+ 1. 53
+ 2. 80
+ 3. 443
+ 4. 23
 
 <details>
   <summary>Answer</summary>
-  Java
+  80
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  5 hours 53 minutes</strong> since this server shutdown
+Its been <strong>3 days  6 hours 23 minutes</strong> since this server shutdown
