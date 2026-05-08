@@ -6,24 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-"Dad, I'm cold."
-"Go stand in the corner, I hear it's 90 degrees."
+Astronomers got tired watching the moon go around the earth for 24 hours. They decided to call it a day.
 
 
 ## Daily Trivia
 
-What does RAID stand for?
- 1. Range of Applications with Identical Designs
- 2. Redundant Array of Independent Disks
- 3. Rapid Access for Indexed Devices
- 4. Randomized Abstract Identification Description
+In computing, what does MIDI stand for?
+ 1. Modular Interface of Digital Instruments
+ 2. Musical Instrument Digital Interface
+ 3. Musical Instrument Data Interface
+ 4. Musical Interface of Digital Instruments
 
 <details>
   <summary>Answer</summary>
-  Redundant Array of Independent Disks
+  Musical Instrument Digital Interface
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  2 hours 23 minutes</strong> since this server shutdown
+Its been <strong>3 days  2 hours 53 minutes</strong> since this server shutdown
