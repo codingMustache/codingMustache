@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of magic do cows believe in? MOODOO.
+A Skeleton walked into a bar he said I need a beer and a mop
 
 
 ## Daily Trivia
 
-When was the programming language &quot;C#&quot; released?
- 1. 1999
- 2. 2000
- 3. 1998
- 4. 2001
+What was the name given to Android 4.3?
+ 1. Lollipop
+ 2. Nutella
+ 3. Froyo
+ 4. Jelly Bean
 
 <details>
   <summary>Answer</summary>
-  2000
+  Jelly Bean
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  23 hours 23 minutes</strong> since this server shutdown
+Its been <strong>2 days  23 hours 53 minutes</strong> since this server shutdown
