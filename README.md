@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My son is studying to be a surgeon, I just hope he makes the cut.
+What concert costs only 45 cents? 50 cent featuring Nickelback.
 
 
 ## Daily Trivia
 
-According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:
- 1. AB&#039; + AB
- 2. A&#039;B + B&#039;A
- 3. A&#039;B&#039;
- 4. A&#039; + B&#039;
+Which computer language would you associate Django framework with?
+ 1. C#
+ 2. Python
+ 3. Java
+ 4. C++
 
 <details>
   <summary>Answer</summary>
-  A&#039; + B&#039;
+  Python
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  2 hours 23 minutes</strong> since this server shutdown
+Its been <strong>4 days  2 hours 53 minutes</strong> since this server shutdown
