@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Camping is intense.
+As I get older, I think of all the people I lost along the way. Maybe a career as a tour guide wasn't such a good idea.
 
 
 ## Daily Trivia
 
-What was the first commerically available computer processor?
- 1. Intel 4004
- 2. AMD AM386
- 3. TMS 1000
- 4. Intel 486SX
+What is the most preferred image format used for logos in the Wikimedia database?
+ 1. .jpeg
+ 2. .gif
+ 3. .svg
+ 4. .png
 
 <details>
   <summary>Answer</summary>
-  Intel 4004
+  .svg
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  9 hours 23 minutes</strong> since this server shutdown
+Its been <strong>3 days  9 hours 53 minutes</strong> since this server shutdown
