@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Every morning when I go out, I get hit by bicycle. Every morning!  It's a vicious cycle.
+The best time on a clock is 6:30--hands down.
 
 
 ## Daily Trivia
 
-The acronym &quot;RIP&quot; stands for which of these?
- 1. Routine Inspection Protocol
- 2. Runtime Instance Processes
- 3. Regular Interval Processes
- 4. Routing Information Protocol
+Which of the following is the oldest of these computers by release date?
+ 1. Apple 3
+ 2. Commodore 64
+ 3. TRS-80
+ 4. ZX Spectrum
 
 <details>
   <summary>Answer</summary>
-  Routing Information Protocol
+  TRS-80
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  18 hours 53 minutes</strong> since this server shutdown
+Its been <strong>3 days  19 hours 23 minutes</strong> since this server shutdown
