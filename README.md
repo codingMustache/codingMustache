@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I tried taking some high resolution photos of local farmland, but they all turned out a bit grainy.
+It takes guts to be an organ donor.
 
 
 ## Daily Trivia
 
-Which of these is not a key value of Agile software development?
- 1. Responding to change
- 2. Individuals and interactions
- 3. Comprehensive documentation
- 4. Customer collaboration
+What does the Prt Sc button do?
+ 1. Captures what&#039;s on the screen and copies it to your clipboard
+ 2. Nothing
+ 3. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
+ 4. Closes all windows
 
 <details>
   <summary>Answer</summary>
-  Comprehensive documentation
+  Captures what&#039;s on the screen and copies it to your clipboard
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  15 hours 23 minutes</strong> since this server shutdown
+Its been <strong>3 days  15 hours 53 minutes</strong> since this server shutdown
