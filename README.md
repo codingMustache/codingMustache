@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Leather is great for sneaking around because it's made of hide.
+Whiteboards ... are remarkable.
 
 
 ## Daily Trivia
 
-Which of these programming languages is a low-level language?
- 1. Python
- 2. C#
- 3. Pascal
- 4. Assembly
+Which programming language was developed by Sun Microsystems in 1995?
+ 1. Java
+ 2. C++
+ 3. Solaris OS
+ 4. Python
 
 <details>
   <summary>Answer</summary>
-  Assembly
+  Java
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  21 hours 23 minutes</strong> since this server shutdown
+Its been <strong>3 days  21 hours 53 minutes</strong> since this server shutdown
