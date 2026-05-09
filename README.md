@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The best time on a clock is 6:30--hands down.
+What is a witch's favorite subject in school? Spelling!
 
 
 ## Daily Trivia
 
-Which of the following is the oldest of these computers by release date?
- 1. Apple 3
- 2. Commodore 64
- 3. TRS-80
- 4. ZX Spectrum
+Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
+ 1. Cherry MX Black
+ 2. Cherry MX Red
+ 3. Cherry MX Brown
+ 4. Cherry MX Blue
 
 <details>
   <summary>Answer</summary>
-  TRS-80
+  Cherry MX Blue
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  19 hours 23 minutes</strong> since this server shutdown
+Its been <strong>3 days  19 hours 53 minutes</strong> since this server shutdown
