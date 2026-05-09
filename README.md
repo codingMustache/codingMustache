@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I adopted my dog from a blacksmith. As soon as we got home he made a bolt for the door.
+Leather is great for sneaking around because it's made of hide.
 
 
 ## Daily Trivia
 
-What does CPU stand for?
- 1. Central Processing Unit
- 2. Central Processor Unit
- 3. Central Process Unit
- 4. Computer Personal Unit
+Which of these programming languages is a low-level language?
+ 1. Python
+ 2. C#
+ 3. Pascal
+ 4. Assembly
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  Assembly
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  20 hours 53 minutes</strong> since this server shutdown
+Its been <strong>3 days  21 hours 23 minutes</strong> since this server shutdown
