@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What’s brown and sounds like a bell? Dung!
+Why are skeletons so calm? Because nothing gets under their skin.
 
 
 ## Daily Trivia
 
-Which operating system was released first?
- 1. Windows
- 2. Linux
- 3. OS/2
- 4. Mac OS
+Approximately how many Apple I personal computers were created?
+ 1. 100
+ 2. 500
+ 3. 1000
+ 4. 200
 
 <details>
   <summary>Answer</summary>
-  Mac OS
+  200
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  6 hours 53 minutes</strong> since this server shutdown
+Its been <strong>4 days  7 hours 23 minutes</strong> since this server shutdown
