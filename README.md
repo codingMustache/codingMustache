@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do owls go to buy their baby clothes? The owlet malls.
+What’s brown and sounds like a bell? Dung!
 
 
 ## Daily Trivia
 
-Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
- 1. Microsoft
- 2. Atari
- 3. Commodore
- 4. Apple
+Which operating system was released first?
+ 1. Windows
+ 2. Linux
+ 3. OS/2
+ 4. Mac OS
 
 <details>
   <summary>Answer</summary>
-  Apple
+  Mac OS
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  6 hours 23 minutes</strong> since this server shutdown
+Its been <strong>4 days  6 hours 53 minutes</strong> since this server shutdown
