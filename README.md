@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Doctor you've got you help me, I'm addicted to twitter. Doctor: I don't follow you.
+How many optometrists does it take to change a light bulb? 1 or 2? 1... or 2?
 
 
 ## Daily Trivia
 
-.at is the top-level domain for what country?
- 1. Angola
- 2. Austria
- 3. Australia
- 4. Argentina
+How many Hz does the video standard PAL support?
+ 1. 59
+ 2. 60
+ 3. 25
+ 4. 50
 
 <details>
   <summary>Answer</summary>
-  Austria
+  50
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  3 hours 53 minutes</strong> since this server shutdown
+Its been <strong>4 days  4 hours 23 minutes</strong> since this server shutdown
