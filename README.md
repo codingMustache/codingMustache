@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Animal Fact #25: Most bobcats are not named bob.
+What do you call a fashionable lawn statue with an excellent sense of rhythmn? A metro-gnome
 
 
 ## Daily Trivia
 
-Which of the following languages is used as a scripting language in the Unity 3D game engine?
- 1. C#
- 2. Objective-C
- 3. C++
- 4. Java
+How many values can a single byte represent?
+ 1. 1
+ 2. 256
+ 3. 8
+ 4. 1024
 
 <details>
   <summary>Answer</summary>
-  C#
+  256
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  23 hours 53 minutes</strong> since this server shutdown
+Its been <strong>4 days 23 minutes</strong> since this server shutdown
