@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Child: Dad, make me a sandwich. Dad: Poof! You're a sandwich.
+Doctor you've got to help me, I'm addicted to Twitter. Doctor: I don't follow you.
 
 
 ## Daily Trivia
 
-.rs is the top-level domain for what country?
- 1. Romania
- 2. Serbia
- 3. Rwanda
- 4. Russia
+Which of the following physical typologies are used with Ethernet Networks?
+ 1. Star
+ 2. Hex
+ 3. Mesh
+ 4. Ring
 
 <details>
   <summary>Answer</summary>
-  Serbia
+  Star
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  17 hours 53 minutes</strong> since this server shutdown
+Its been <strong>3 days  18 hours 23 minutes</strong> since this server shutdown
