@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Dermatologists are always in a hurry. They spend all day making rash decisions. 
+I tried taking some high resolution photos of local farmland, but they all turned out a bit grainy.
 
 
 ## Daily Trivia
 
-What was the name of the first Bulgarian personal computer?
- 1. IZOT 1030
- 2. IMKO-1
- 3. Pravetz 8D
- 4. Pravetz 82
+Which of these is not a key value of Agile software development?
+ 1. Responding to change
+ 2. Individuals and interactions
+ 3. Comprehensive documentation
+ 4. Customer collaboration
 
 <details>
   <summary>Answer</summary>
-  IMKO-1
+  Comprehensive documentation
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  14 hours 53 minutes</strong> since this server shutdown
+Its been <strong>3 days  15 hours 23 minutes</strong> since this server shutdown
