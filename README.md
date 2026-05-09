@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I broke my finger at work today, on the other hand I'm completely fine.
+I wanted to be a tailor but I didn't suit the job
 
 
 ## Daily Trivia
 
-According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:
- 1. A&#039;B + B&#039;A
- 2. A&#039; + B&#039;
- 3. A&#039;B&#039;
- 4. AB&#039; + AB
+Which kind of algorithm is Ron Rivest not famous for creating?
+ 1. Stream cipher
+ 2. Secret sharing scheme
+ 3. Asymmetric encryption
+ 4. Hashing algorithm
 
 <details>
   <summary>Answer</summary>
-  A&#039; + B&#039;
+  Secret sharing scheme
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  11 hours 23 minutes</strong> since this server shutdown
+Its been <strong>3 days  11 hours 53 minutes</strong> since this server shutdown
