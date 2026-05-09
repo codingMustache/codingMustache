@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It takes guts to be an organ donor.
+What do you get when you cross a pig and a pineapple? A porky pine
 
 
 ## Daily Trivia
 
-What does the Prt Sc button do?
- 1. Captures what&#039;s on the screen and copies it to your clipboard
- 2. Nothing
- 3. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
- 4. Closes all windows
+Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
+ 1. Python
+ 2. C#
+ 3. PHP
+ 4. JavaScript
 
 <details>
   <summary>Answer</summary>
-  Captures what&#039;s on the screen and copies it to your clipboard
+  JavaScript
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  15 hours 53 minutes</strong> since this server shutdown
+Its been <strong>3 days  16 hours 23 minutes</strong> since this server shutdown
