@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Today a girl said she recognized me from vegetarian club, but I’m sure I’ve never met herbivore.
+When does a joke become a dad joke? When it becomes apparent.
 
 
 ## Daily Trivia
 
-Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
- 1. Heartbleed
- 2. Shellshock
- 3. Corrupted Blood
- 4. Shellscript
+What was the name of the first Bulgarian personal computer?
+ 1. IMKO-1
+ 2. Pravetz 82
+ 3. Pravetz 8D
+ 4. IZOT 1030
 
 <details>
   <summary>Answer</summary>
-  Heartbleed
+  IMKO-1
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  10 hours 23 minutes</strong> since this server shutdown
+Its been <strong>3 days  10 hours 53 minutes</strong> since this server shutdown
