@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the m&m go to school? Because it wanted to be a Smartie!
+The word queue is ironic. It's just q with a bunch of silent letters waiting in line.
 
 
 ## Daily Trivia
 
-What is the code name for the mobile operating system Android 7.0?
- 1. Jelly Bean
- 2. Nougat
- 3. Ice Cream Sandwich
- 4. Marshmallow
+In computing terms, typically what does CLI stand for?
+ 1. Control Line Interface
+ 2. Common Language Interface
+ 3. Common Language Input
+ 4. Command Line Interface
 
 <details>
   <summary>Answer</summary>
-  Nougat
+  Command Line Interface
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  1 hours 23 minutes</strong> since this server shutdown
+Its been <strong>4 days  1 hours 53 minutes</strong> since this server shutdown
