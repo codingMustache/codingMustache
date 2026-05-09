@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is a witch's favorite subject in school? Spelling!
+Where did Captain Hook get his hook? From a second hand store.
 
 
 ## Daily Trivia
 
-Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
- 1. Cherry MX Black
- 2. Cherry MX Red
- 3. Cherry MX Brown
- 4. Cherry MX Blue
+What does AD stand for in relation to Windows Operating Systems? 
+ 1. Active Directory
+ 2. Active Department
+ 3. Automated Database
+ 4. Alternative Drive
 
 <details>
   <summary>Answer</summary>
-  Cherry MX Blue
+  Active Directory
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  19 hours 53 minutes</strong> since this server shutdown
+Its been <strong>3 days  20 hours 23 minutes</strong> since this server shutdown
