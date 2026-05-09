@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a snake who builds houses? A boa constructor!
+When do doctors get angry? When they run out of patients.
 
 
 ## Daily Trivia
 
-How many kilobytes in one gigabyte (in decimal)?
- 1. 1000
- 2. 1048576
- 3. 1000000
- 4. 1024
+Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
+ 1. Two Years
+ 2. Eight Years
+ 3. Four Years
+ 4. Year
 
 <details>
   <summary>Answer</summary>
-  1000000
+  Year
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  13 hours 23 minutes</strong> since this server shutdown
+Its been <strong>3 days  13 hours 53 minutes</strong> since this server shutdown
