@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The word queue is ironic. It's just q with a bunch of silent letters waiting in line.
+My son is studying to be a surgeon, I just hope he makes the cut.
 
 
 ## Daily Trivia
 
-In computing terms, typically what does CLI stand for?
- 1. Control Line Interface
- 2. Common Language Interface
- 3. Common Language Input
- 4. Command Line Interface
+According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:
+ 1. AB&#039; + AB
+ 2. A&#039;B + B&#039;A
+ 3. A&#039;B&#039;
+ 4. A&#039; + B&#039;
 
 <details>
   <summary>Answer</summary>
-  Command Line Interface
+  A&#039; + B&#039;
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  1 hours 53 minutes</strong> since this server shutdown
+Its been <strong>4 days  2 hours 23 minutes</strong> since this server shutdown
