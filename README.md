@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-When do doctors get angry? When they run out of patients.
+I'm practicing for a bug-eating contest and I've got butterflies in my stomach.
 
 
 ## Daily Trivia
 
-Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
- 1. Two Years
- 2. Eight Years
- 3. Four Years
- 4. Year
+When did the online streaming service &quot;Mixer&quot; launch?
+ 1. 2016
+ 2. 2011
+ 3. 2009
+ 4. 2013
 
 <details>
   <summary>Answer</summary>
-  Year
+  2016
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  13 hours 53 minutes</strong> since this server shutdown
+Its been <strong>3 days  14 hours 23 minutes</strong> since this server shutdown
