@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I wanted to be a tailor but I didn't suit the job
+What did the sea say to the sand? "We have to stop meeting like this."
 
 
 ## Daily Trivia
 
-Which kind of algorithm is Ron Rivest not famous for creating?
- 1. Stream cipher
- 2. Secret sharing scheme
- 3. Asymmetric encryption
- 4. Hashing algorithm
+In networking, what does OSPF stand for?
+ 1. Order State Part First
+ 2. Order Sense Ping Find
+ 3. Open Shortest Path First
+ 4. Open Signal Path Finder
 
 <details>
   <summary>Answer</summary>
-  Secret sharing scheme
+  Open Shortest Path First
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  11 hours 53 minutes</strong> since this server shutdown
+Its been <strong>3 days  12 hours 23 minutes</strong> since this server shutdown
