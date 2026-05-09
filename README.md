@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Whiteboards ... are remarkable.
+What did the grape do when he got stepped on? He let out a little wine.
 
 
 ## Daily Trivia
 
-Which programming language was developed by Sun Microsystems in 1995?
- 1. Java
- 2. C++
- 3. Solaris OS
- 4. Python
+What programming language was GitHub written in?
+ 1. JavaScript
+ 2. Ruby
+ 3. Python
+ 4. Lua
 
 <details>
   <summary>Answer</summary>
-  Java
+  Ruby
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  21 hours 53 minutes</strong> since this server shutdown
+Its been <strong>3 days  22 hours 23 minutes</strong> since this server shutdown
