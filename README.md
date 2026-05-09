@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-People who don't eat gluten are really going against the grain.
+What do you call a pig that knows karate? A pork chop!
 
 
 ## Daily Trivia
 
-What does RAID stand for?
- 1. Randomized Abstract Identification Description
- 2. Rapid Access for Indexed Devices
- 3. Redundant Array of Independent Disks
- 4. Range of Applications with Identical Designs
+According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:
+ 1. AB&#039; + AB
+ 2. A&#039; + B&#039;
+ 3. A&#039;B&#039;
+ 4. A&#039;B + B&#039;A
 
 <details>
   <summary>Answer</summary>
-  Redundant Array of Independent Disks
+  A&#039; + B&#039;
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  7 hours 53 minutes</strong> since this server shutdown
+Its been <strong>3 days  8 hours 23 minutes</strong> since this server shutdown
