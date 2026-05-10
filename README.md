@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I was wondering why the frisbee was getting bigger, then it hit me.
+My boss told me to have a good day. So I went home...
 
 
 ## Daily Trivia
 
-What is the name of the process that sends one qubit of information using two bits of classical information?
- 1. Super Dense Coding
- 2. Quantum Entanglement
- 3. Quantum Programming
- 4. Quantum Teleportation
+In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
+ 1. Public
+ 2. Private
+ 3. Static
+ 4. Final
 
 <details>
   <summary>Answer</summary>
-  Quantum Teleportation
+  Final
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  2 hours 53 minutes</strong> since this server shutdown
+Its been <strong>5 days  3 hours 23 minutes</strong> since this server shutdown
