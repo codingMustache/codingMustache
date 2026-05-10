@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-When do doctors get angry? When they run out of patients.
+What do I look like? A JOKE MACHINE!?
 
 
 ## Daily Trivia
 
-Who is the founder of Palantir?
- 1. Peter Thiel
- 2. Jack Dorsey
- 3. Marc Benioff
- 4. Mark Zuckerberg
+How many bits make up the significand portion of a single precision floating point number?
+ 1. 15
+ 2. 8
+ 3. 53
+ 4. 23
 
 <details>
   <summary>Answer</summary>
-  Peter Thiel
+  23
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  10 hours 23 minutes</strong> since this server shutdown
+Its been <strong>4 days  10 hours 53 minutes</strong> since this server shutdown
