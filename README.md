@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear that David lost his ID in prague? Now we just have to call him Dav.
+The invention of the wheel was what got things rolling
 
 
 ## Daily Trivia
 
-How many bits are commonly in a single byte?
- 1. Eight bits
- 2.  Fifteen bits
- 3. Twelve bits
- 4. Six bits
+What does CPU stand for?
+ 1. Central Processor Unit
+ 2. Central Processing Unit
+ 3. Computer Personal Unit
+ 4. Central Process Unit
 
 <details>
   <summary>Answer</summary>
-  Eight bits
+  Central Processing Unit
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  12 hours 53 minutes</strong> since this server shutdown
+Its been <strong>4 days  13 hours 23 minutes</strong> since this server shutdown
