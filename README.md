@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I cut my finger cutting cheese. I know it may be a cheesy story but I feel grate now.
+I invented a new word! Plagiarism!
 
 
 ## Daily Trivia
 
-Whistler was the codename of this Microsoft Operating System.
- 1. Windows 95
- 2. Windows 7
- 3. Windows 2000
- 4. Windows XP
+Which of these is not a layer in the OSI model for data communications?
+ 1. Application Layer
+ 2. Transport Layer
+ 3. Physical Layer
+ 4. Connection Layer
 
 <details>
   <summary>Answer</summary>
-  Windows XP
+  Connection Layer
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  9 hours 23 minutes</strong> since this server shutdown
+Its been <strong>4 days  9 hours 53 minutes</strong> since this server shutdown
