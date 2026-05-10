@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How does a dyslexic poet write? Inverse.
+I made a belt out of watches once... It was a waist of time.
 
 
 ## Daily Trivia
 
-In programming, what do you call functions with the same name but different implementations?
- 1. Overloading
- 2. Abstracting
- 3. Inheriting
- 4. Overriding
+What was the first Android version specifically optimized for tablets?
+ 1. Froyo
+ 2. Honeycomb
+ 3. Eclair
+ 4. Marshmellow
 
 <details>
   <summary>Answer</summary>
-  Overloading
+  Honeycomb
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  19 hours 23 minutes</strong> since this server shutdown
+Its been <strong>4 days  19 hours 53 minutes</strong> since this server shutdown
