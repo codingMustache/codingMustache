@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is bread's favorite number?  Leaven.
+What do you do when your bunny gets wet? You get your hare dryer.
 
 
 ## Daily Trivia
 
-What does LTS stand for in the software market?
- 1. Ludicrous Transfer Speed
- 2. Long Taco Service
- 3. Long Term Support
- 4. Ludicrous Turbo Speed
+What is the commonly used keyboard shortcut for the &#039;Copy&#039; function on Windows OS?
+ 1. Alt + X
+ 2. Alt + C
+ 3. Ctrl + C
+ 4. Ctrl + X
 
 <details>
   <summary>Answer</summary>
-  Long Term Support
+  Ctrl + C
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  23 hours 53 minutes</strong> since this server shutdown
+Its been <strong>5 days 23 minutes</strong> since this server shutdown
