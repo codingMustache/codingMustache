@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is the hardest part about sky diving? The ground.
+Whats a penguins favorite relative? Aunt Arctica.
 
 
 ## Daily Trivia
 
-What is the domain name for the country Tuvalu?
- 1. .tu
- 2. .tt
- 3. .tl
- 4. .tv
+What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
+ 1. CPU Vent
+ 2. Temperature Decipator
+ 3. Heat Sink
+ 4. Heat Vent
 
 <details>
   <summary>Answer</summary>
-  .tv
+  Heat Sink
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  1 hours 23 minutes</strong> since this server shutdown
+Its been <strong>5 days  1 hours 53 minutes</strong> since this server shutdown
