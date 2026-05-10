@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My boss told me to have a good day... so I went home.
+Doctor you've got to help me, I'm addicted to Twitter. Doctor: I don't follow you.
 
 
 ## Daily Trivia
 
-Which of these programming languages is a low-level language?
- 1. Assembly
- 2. Python
- 3. C#
- 4. Pascal
+The programming language &#039;Swift&#039; was created to replace what other programming language?
+ 1. C++
+ 2. C#
+ 3. Ruby
+ 4. Objective-C
 
 <details>
   <summary>Answer</summary>
-  Assembly
+  Objective-C
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  4 hours 53 minutes</strong> since this server shutdown
+Its been <strong>5 days  5 hours 23 minutes</strong> since this server shutdown
