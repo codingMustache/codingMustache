@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why couldn't the kid see the pirate movie? Because it was rated arrr!
+Why can't a bicycle stand on its own? It's two-tired.
 
 
 ## Daily Trivia
 
-The teapot often seen in many 3D modeling applications is called what?
- 1. Pixar Teapot
- 2. 3D Teapot
- 3. Tennessee Teapot
- 4. Utah Teapot
+What is the name of Layer 7 of the OSI model?
+ 1. Network
+ 2. Application
+ 3. Session
+ 4. Present
 
 <details>
   <summary>Answer</summary>
-  Utah Teapot
+  Application
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  17 hours 23 minutes</strong> since this server shutdown
+Its been <strong>4 days  17 hours 53 minutes</strong> since this server shutdown
