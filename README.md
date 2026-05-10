@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-As I suspected, someone has been adding soil to my garden. The plot thickens.
+What is bread's favorite number?  Leaven.
 
 
 ## Daily Trivia
 
-What does the term GPU stand for?
- 1. Graphical Proprietary Unit
- 2. Gaming Processor Unit
- 3. Graphite Producing Unit
- 4. Graphics Processing Unit
+What does LTS stand for in the software market?
+ 1. Ludicrous Transfer Speed
+ 2. Long Taco Service
+ 3. Long Term Support
+ 4. Ludicrous Turbo Speed
 
 <details>
   <summary>Answer</summary>
-  Graphics Processing Unit
+  Long Term Support
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  23 hours 23 minutes</strong> since this server shutdown
+Its been <strong>4 days  23 hours 53 minutes</strong> since this server shutdown
