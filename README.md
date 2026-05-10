@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Is there a hole in your shoe? No… Then how’d you get your foot in it?
+How does a dyslexic poet write? Inverse.
 
 
 ## Daily Trivia
 
-What was the name given to Android 4.3?
- 1. Jelly Bean
- 2. Nutella
- 3. Lollipop
- 4. Froyo
+In programming, what do you call functions with the same name but different implementations?
+ 1. Overloading
+ 2. Abstracting
+ 3. Inheriting
+ 4. Overriding
 
 <details>
   <summary>Answer</summary>
-  Jelly Bean
+  Overloading
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  18 hours 53 minutes</strong> since this server shutdown
+Its been <strong>4 days  19 hours 23 minutes</strong> since this server shutdown
