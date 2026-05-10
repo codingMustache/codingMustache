@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-“Hold on, I have something in my shoe”  “I’m pretty sure it’s a foot”
+Two peanuts were walking down the street. One was a salted
 
 
 ## Daily Trivia
 
-In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
- 1. Final
- 2. Public
- 3. Static
- 4. Private
+In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
+ 1. relative
+ 2. absolute
+ 3. static
+ 4. center
 
 <details>
   <summary>Answer</summary>
-  Final
+  center
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  15 hours 23 minutes</strong> since this server shutdown
+Its been <strong>4 days  15 hours 53 minutes</strong> since this server shutdown
