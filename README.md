@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I got an A on my origami assignment when I turned my paper into my teacher
+What do you call a bee that lives in America? A USB.
 
 
 ## Daily Trivia
 
-Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
- 1. Four Years
- 2. Two Years
- 3. Eight Years
- 4. Year
+Which of the following physical typologies are used with Ethernet Networks?
+ 1. Star
+ 2. Hex
+ 3. Mesh
+ 4. Ring
 
 <details>
   <summary>Answer</summary>
-  Year
+  Star
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  20 hours 23 minutes</strong> since this server shutdown
+Its been <strong>4 days  20 hours 53 minutes</strong> since this server shutdown
