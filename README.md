@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why can't a bicycle stand on its own? It's two-tired.
+I started a new business making yachts in my attic this year...the sails are going through the roof
 
 
 ## Daily Trivia
 
-What is the name of Layer 7 of the OSI model?
- 1. Network
- 2. Application
- 3. Session
- 4. Present
+How many bits are commonly in a single byte?
+ 1. Six bits
+ 2. Twelve bits
+ 3.  Fifteen bits
+ 4. Eight bits
 
 <details>
   <summary>Answer</summary>
-  Application
+  Eight bits
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  17 hours 53 minutes</strong> since this server shutdown
+Its been <strong>4 days  18 hours 23 minutes</strong> since this server shutdown
