@@ -6,23 +6,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many bones are in the human hand? A handful of them.
+What do you do when you see a space man?
+Park your car, man.
 
 
 ## Daily Trivia
 
-Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
- 1. Corrupted Blood
- 2. Heartbleed
- 3. Shellshock
- 4. Shellscript
+Dutch computer scientist Mark Overmars is known for creating which game development engine?
+ 1. Stencyl
+ 2. Construct
+ 3. Torque 2D
+ 4. Game Maker
 
 <details>
   <summary>Answer</summary>
-  Heartbleed
+  Game Maker
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  6 hours 53 minutes</strong> since this server shutdown
+Its been <strong>5 days  7 hours 23 minutes</strong> since this server shutdown
