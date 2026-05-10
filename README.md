@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I made a belt out of watches once... It was a waist of time.
+I got an A on my origami assignment when I turned my paper into my teacher
 
 
 ## Daily Trivia
 
-What was the first Android version specifically optimized for tablets?
- 1. Froyo
- 2. Honeycomb
- 3. Eclair
- 4. Marshmellow
+Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
+ 1. Four Years
+ 2. Two Years
+ 3. Eight Years
+ 4. Year
 
 <details>
   <summary>Answer</summary>
-  Honeycomb
+  Year
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  19 hours 53 minutes</strong> since this server shutdown
+Its been <strong>4 days  20 hours 23 minutes</strong> since this server shutdown
