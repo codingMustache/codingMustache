@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I started a new business making yachts in my attic this year...the sails are going through the roof
+Is there a hole in your shoe? No… Then how’d you get your foot in it?
 
 
 ## Daily Trivia
 
-How many bits are commonly in a single byte?
- 1. Six bits
- 2. Twelve bits
- 3.  Fifteen bits
- 4. Eight bits
+What was the name given to Android 4.3?
+ 1. Jelly Bean
+ 2. Nutella
+ 3. Lollipop
+ 4. Froyo
 
 <details>
   <summary>Answer</summary>
-  Eight bits
+  Jelly Bean
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  18 hours 23 minutes</strong> since this server shutdown
+Its been <strong>4 days  18 hours 53 minutes</strong> since this server shutdown
