@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do I look like? A JOKE MACHINE!?
+Did you know crocodiles could grow up to 15 feet? But most just have 4.
 
 
 ## Daily Trivia
 
-How many bits make up the significand portion of a single precision floating point number?
- 1. 15
- 2. 8
- 3. 53
- 4. 23
+What was the name of the security vulnerability found in Bash in 2014?
+ 1. Stagefright
+ 2. Bashbug
+ 3. Shellshock
+ 4. Heartbleed
 
 <details>
   <summary>Answer</summary>
-  23
+  Shellshock
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  10 hours 53 minutes</strong> since this server shutdown
+Its been <strong>4 days  11 hours 23 minutes</strong> since this server shutdown
