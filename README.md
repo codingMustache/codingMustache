@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I invented a new word! Plagiarism!
+When do doctors get angry? When they run out of patients.
 
 
 ## Daily Trivia
 
-Which of these is not a layer in the OSI model for data communications?
- 1. Application Layer
- 2. Transport Layer
- 3. Physical Layer
- 4. Connection Layer
+Who is the founder of Palantir?
+ 1. Peter Thiel
+ 2. Jack Dorsey
+ 3. Marc Benioff
+ 4. Mark Zuckerberg
 
 <details>
   <summary>Answer</summary>
-  Connection Layer
+  Peter Thiel
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  9 hours 53 minutes</strong> since this server shutdown
+Its been <strong>4 days  10 hours 23 minutes</strong> since this server shutdown
