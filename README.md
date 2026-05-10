@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you know crocodiles could grow up to 15 feet? But most just have 4.
+Why does Han Solo like gum? It's chewy!
 
 
 ## Daily Trivia
 
-What was the name of the security vulnerability found in Bash in 2014?
- 1. Stagefright
- 2. Bashbug
- 3. Shellshock
- 4. Heartbleed
+Who is the original author of the realtime physics engine called PhysX?
+ 1. AMD
+ 2. NovodeX
+ 3. Ageia
+ 4. Nvidia
 
 <details>
   <summary>Answer</summary>
-  Shellshock
+  NovodeX
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  11 hours 23 minutes</strong> since this server shutdown
+Its been <strong>4 days  11 hours 53 minutes</strong> since this server shutdown
