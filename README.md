@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why does Han Solo like gum? It's chewy!
+Why didn't the number 4 get into the nightclub? Because he is 2 square.
 
 
 ## Daily Trivia
 
-Who is the original author of the realtime physics engine called PhysX?
- 1. AMD
- 2. NovodeX
- 3. Ageia
- 4. Nvidia
+How many bits make up the significand portion of a single precision floating point number?
+ 1. 23
+ 2. 15
+ 3. 53
+ 4. 8
 
 <details>
   <summary>Answer</summary>
-  NovodeX
+  23
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  11 hours 53 minutes</strong> since this server shutdown
+Its been <strong>4 days  12 hours 23 minutes</strong> since this server shutdown
