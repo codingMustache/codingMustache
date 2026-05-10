@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Can February march? No, but April may.
+What is the hardest part about sky diving? The ground.
 
 
 ## Daily Trivia
 
-What was the name of the image that features as the default background wallpaper for Windows XP?
- 1. Tulips
- 2. Bliss
- 3. Red moon desert
- 4. Azul
+What is the domain name for the country Tuvalu?
+ 1. .tu
+ 2. .tt
+ 3. .tl
+ 4. .tv
 
 <details>
   <summary>Answer</summary>
-  Bliss
+  .tv
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days 53 minutes</strong> since this server shutdown
+Its been <strong>5 days  1 hours 23 minutes</strong> since this server shutdown
