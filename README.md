@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The invention of the wheel was what got things rolling
+A red and a blue ship have just collided in the Caribbean. Apparently the survivors are marooned.
 
 
 ## Daily Trivia
 
-What does CPU stand for?
- 1. Central Processor Unit
- 2. Central Processing Unit
- 3. Computer Personal Unit
- 4. Central Process Unit
+The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
+ 1. Fiji
+ 2. Tuvalu
+ 3. Marshall Islands
+ 4. Micronesia
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  Micronesia
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  13 hours 23 minutes</strong> since this server shutdown
+Its been <strong>4 days  13 hours 53 minutes</strong> since this server shutdown
