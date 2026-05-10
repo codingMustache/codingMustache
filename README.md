@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Yesterday, I accidentally swallowed some food coloring. The doctor says I’m okay, but I feel like I’ve dyed a little inside.
+“Hold on, I have something in my shoe”  “I’m pretty sure it’s a foot”
 
 
 ## Daily Trivia
 
-In any programming language, what is the most common way to iterate through an array?
- 1. &#039;If&#039; Statements
- 2. &#039;Do-while&#039; loops
- 3. &#039;While&#039; loops
- 4. &#039;For&#039; loops
+In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
+ 1. Final
+ 2. Public
+ 3. Static
+ 4. Private
 
 <details>
   <summary>Answer</summary>
-  &#039;For&#039; loops
+  Final
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  14 hours 53 minutes</strong> since this server shutdown
+Its been <strong>4 days  15 hours 23 minutes</strong> since this server shutdown
