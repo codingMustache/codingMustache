@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I couldn't figure out how the seat belt worked. Then it just clicked.
+Why do cows not have toes? They lactose!
 
 
 ## Daily Trivia
 
-What is the most preferred image format used for logos in the Wikimedia database?
- 1. .jpeg
- 2. .svg
- 3. .png
- 4. .gif
+What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
+ 1. ADPCM Sampler
+ 2. Programmable Sound Generator (PSG)
+ 3. FM Synthesizer
+ 4. PCM Sampler
 
 <details>
   <summary>Answer</summary>
-  .svg
+  ADPCM Sampler
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  3 hours 53 minutes</strong> since this server shutdown
+Its been <strong>5 days  4 hours 23 minutes</strong> since this server shutdown
