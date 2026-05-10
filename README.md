@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the pirate say on his 80th birthday? Aye Matey!
+My wife said I was immature. So I told her to get out of my fort.
 
 
 ## Daily Trivia
 
-Which SQL keyword is used to fetch data from a database?
- 1. SELECT
- 2. EXEC
- 3. VALUES
- 4. INDEX
+Which of these is not a key value of Agile software development?
+ 1. Customer collaboration
+ 2. Individuals and interactions
+ 3. Responding to change
+ 4. Comprehensive documentation
 
 <details>
   <summary>Answer</summary>
-  SELECT
+  Comprehensive documentation
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  16 hours 23 minutes</strong> since this server shutdown
+Its been <strong>4 days  16 hours 53 minutes</strong> since this server shutdown
