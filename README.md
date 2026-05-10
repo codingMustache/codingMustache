@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do robots eat guacamole? With computer chips.
+I considered building the patio by myself. But I didn't have the stones.
 
 
 ## Daily Trivia
 
-Which of the following physical typologies are used with Ethernet Networks?
- 1. Star
- 2. Hex
- 3. Mesh
- 4. Ring
+How many cores does the Intel i7-6950X have?
+ 1. 10
+ 2. 4
+ 3. 8
+ 4. 12
 
 <details>
   <summary>Answer</summary>
-  Star
+  10
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  5 hours 53 minutes</strong> since this server shutdown
+Its been <strong>5 days  6 hours 23 minutes</strong> since this server shutdown
