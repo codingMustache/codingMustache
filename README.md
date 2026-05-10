@@ -11,18 +11,18 @@ Why are skeletons so calm? Because nothing gets under their skin.
 
 ## Daily Trivia
 
-Approximately how many Apple I personal computers were created?
- 1. 100
- 2. 500
- 3. 1000
- 4. 200
+What is the most preferred image format used for logos in the Wikimedia database?
+ 1. .svg
+ 2. .gif
+ 3. .jpeg
+ 4. .png
 
 <details>
   <summary>Answer</summary>
-  200
+  .svg
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  7 hours 23 minutes</strong> since this server shutdown
+Its been <strong>4 days  7 hours 53 minutes</strong> since this server shutdown
