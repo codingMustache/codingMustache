@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A red and a blue ship have just collided in the Caribbean. Apparently the survivors are marooned.
+I needed a password eight characters long so I picked Snow White and the Seven Dwarfs.
 
 
 ## Daily Trivia
 
-The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
- 1. Fiji
- 2. Tuvalu
- 3. Marshall Islands
- 4. Micronesia
+What is the most preferred image format used for logos in the Wikimedia database?
+ 1. .png
+ 2. .jpeg
+ 3. .gif
+ 4. .svg
 
 <details>
   <summary>Answer</summary>
-  Micronesia
+  .svg
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  13 hours 53 minutes</strong> since this server shutdown
+Its been <strong>4 days  14 hours 23 minutes</strong> since this server shutdown
