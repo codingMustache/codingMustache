@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why didn't the number 4 get into the nightclub? Because he is 2 square.
+Did you hear that David lost his ID in prague? Now we just have to call him Dav.
 
 
 ## Daily Trivia
 
-How many bits make up the significand portion of a single precision floating point number?
- 1. 23
- 2. 15
- 3. 53
- 4. 8
+How many bits are commonly in a single byte?
+ 1. Eight bits
+ 2.  Fifteen bits
+ 3. Twelve bits
+ 4. Six bits
 
 <details>
   <summary>Answer</summary>
-  23
+  Eight bits
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  12 hours 23 minutes</strong> since this server shutdown
+Its been <strong>4 days  12 hours 53 minutes</strong> since this server shutdown
