@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call an Argentinian with a rubber toe? Roberto
+What do you do on a remote island? Try and find the TV island it belongs to.
 
 
 ## Daily Trivia
 
-What does the International System of Quantities refer 1024 bytes as?
- 1. Kilobyte
- 2. Kibibyte
- 3. Kelobyte
- 4. Kylobyte
+When Gmail first launched, how much storage did it provide for your email?
+ 1. 1GB
+ 2. Unlimited
+ 3. 5GB
+ 4. 512MB
 
 <details>
   <summary>Answer</summary>
-  Kibibyte
+  1GB
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  10 hours 23 minutes</strong> since this server shutdown
+Its been <strong>5 days  10 hours 53 minutes</strong> since this server shutdown
