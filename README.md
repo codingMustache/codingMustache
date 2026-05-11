@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the half blind man fall in the well? Because he couldn't see that well!
+Why was ten scared of seven? Because seven ate nine.
 
 
 ## Daily Trivia
 
-According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:
- 1. A&#039; + B&#039;
- 2. AB&#039; + AB
- 3. A&#039;B&#039;
- 4. A&#039;B + B&#039;A
+What does LTS stand for in the software market?
+ 1. Ludicrous Turbo Speed
+ 2. Ludicrous Transfer Speed
+ 3. Long Taco Service
+ 4. Long Term Support
 
 <details>
   <summary>Answer</summary>
-  A&#039; + B&#039;
+  Long Term Support
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  14 hours 23 minutes</strong> since this server shutdown
+Its been <strong>5 days  14 hours 53 minutes</strong> since this server shutdown
