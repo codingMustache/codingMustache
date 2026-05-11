@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of dog lives in a particle accelerator? A Fermilabrador Retriever.
+Why did the half blind man fall in the well? Because he couldn't see that well!
 
 
 ## Daily Trivia
 
-What is the commonly used keyboard shortcut for the &#039;Copy&#039; function on Windows OS?
- 1. Ctrl + C
- 2. Alt + X
- 3. Ctrl + X
- 4. Alt + C
+According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:
+ 1. A&#039; + B&#039;
+ 2. AB&#039; + AB
+ 3. A&#039;B&#039;
+ 4. A&#039;B + B&#039;A
 
 <details>
   <summary>Answer</summary>
-  Ctrl + C
+  A&#039; + B&#039;
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  13 hours 53 minutes</strong> since this server shutdown
+Its been <strong>5 days  14 hours 23 minutes</strong> since this server shutdown
