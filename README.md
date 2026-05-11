@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It takes guts to be an organ donor.
+What is a tornado's favorite game to play? Twister!
 
 
 ## Daily Trivia
 
-Which computer hardware device provides an interface for all other connected devices to communicate?
- 1. Motherboard
- 2. Random Access Memory
- 3. Hard Disk Drive
- 4. Central Processing Unit
+How long is an IPv6 address?
+ 1. 128 bytes
+ 2. 32 bits
+ 3. 128 bits
+ 4. 64 bits
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  128 bits
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  9 hours 23 minutes</strong> since this server shutdown
+Its been <strong>5 days  9 hours 53 minutes</strong> since this server shutdown
