@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the A go to the bathroom and come out as an E? Because he had a vowel movement.
+What do you get if you cross a turkey with a ghost? A poultry-geist!
 
 
 ## Daily Trivia
 
-Linus Torvalds created which of these?
- 1. Wikipedia
- 2. Python
- 3. Linux
- 4. Microsoft Windows
+Which operating system was released first?
+ 1. Windows
+ 2. Linux
+ 3. OS/2
+ 4. Mac OS
 
 <details>
   <summary>Answer</summary>
-  Linux
+  Mac OS
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  6 hours 23 minutes</strong> since this server shutdown
+Its been <strong>6 days  6 hours 53 minutes</strong> since this server shutdown
