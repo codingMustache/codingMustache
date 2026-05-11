@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How did Darth Vader know what Luke was getting for Christmas? He felt his presents.
+"Why do seagulls fly over the ocean?" "Because if they flew over the bay, we'd call them bagels."
 
 
 ## Daily Trivia
 
-Which of the following computer components can be built using only NAND gates?
- 1. ALU
- 2. CPU
- 3. Register
- 4. RAM
+Which of these names was an actual codename for a cancelled Microsoft project?
+ 1. Saturn
+ 2. Neptune
+ 3. Enceladus
+ 4. Pollux
 
 <details>
   <summary>Answer</summary>
-  ALU
+  Neptune
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  5 hours 23 minutes</strong> since this server shutdown
+Its been <strong>6 days  5 hours 53 minutes</strong> since this server shutdown
