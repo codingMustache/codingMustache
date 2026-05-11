@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Whats a penguins favorite relative? Aunt Arctica.
+I think circles are pointless.
 
 
 ## Daily Trivia
 
-Which of the following computer components can be built using only NAND gates?
- 1. ALU
- 2. CPU
- 3. RAM
- 4. Register
+This mobile OS held the largest market share in 2012.
+ 1. Symbian
+ 2. BlackBerry
+ 3. iOS
+ 4. Android
 
 <details>
   <summary>Answer</summary>
-  ALU
+  iOS
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  16 hours 53 minutes</strong> since this server shutdown
+Its been <strong>5 days  17 hours 23 minutes</strong> since this server shutdown
