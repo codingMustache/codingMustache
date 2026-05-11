@@ -6,24 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I fear for the calendar, its days are numbered.
-
+Why do we tell actors to “break a leg?” Because every play has a cast.
 
 
 ## Daily Trivia
 
-What is the maximum value of a 32-bit signed binary integer?
- 1. 2,147,483,647
- 2. 9,223,372,036,854,775,807
- 3. 2048
- 4. 255
+Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
+ 1. 44.1 kHz
+ 2. 20.5 kHz
+ 3. 1.5 MHz
+ 4. 32.0 kHz
 
 <details>
   <summary>Answer</summary>
-  2,147,483,647
+  44.1 kHz
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  22 hours 53 minutes</strong> since this server shutdown
+Its been <strong>5 days  23 hours 23 minutes</strong> since this server shutdown
