@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I think circles are pointless.
+If I could name myself after any Egyptian god, I'd be Set.
 
 
 ## Daily Trivia
 
-This mobile OS held the largest market share in 2012.
- 1. Symbian
- 2. BlackBerry
- 3. iOS
- 4. Android
+What major programming language does Unreal Engine 4 use?
+ 1. ECMAScript
+ 2. C++
+ 3. C#
+ 4. Assembly
 
 <details>
   <summary>Answer</summary>
-  iOS
+  C++
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  17 hours 23 minutes</strong> since this server shutdown
+Its been <strong>5 days  17 hours 53 minutes</strong> since this server shutdown
