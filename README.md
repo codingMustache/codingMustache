@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did Dracula lie in the wrong coffin? He made a grave mistake.
+Frankenstein enters a bodybuilding competition and finds he has seriously misunderstood the objective.
 
 
 ## Daily Trivia
 
-Who is the original author of the realtime physics engine called PhysX?
- 1. Ageia
- 2. Nvidia
- 3. AMD
- 4. NovodeX
+What does the DOS in Microsoft&#039;s first operating system &quot;MS-DOS&quot; stand for?
+ 1. Dumb Operating System
+ 2. Driver Oriented System
+ 3. Diskless Operating System
+ 4. Disk Operating System
 
 <details>
   <summary>Answer</summary>
-  NovodeX
+  Disk Operating System
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  2 hours 23 minutes</strong> since this server shutdown
+Its been <strong>6 days  2 hours 53 minutes</strong> since this server shutdown
