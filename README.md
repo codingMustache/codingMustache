@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you get if you cross a turkey with a ghost? A poultry-geist!
+Why should you never trust a pig with a secret? Because it's bound to squeal.
 
 
 ## Daily Trivia
 
-Which operating system was released first?
- 1. Windows
- 2. Linux
- 3. OS/2
- 4. Mac OS
+The numbering system with a radix of 16 is more commonly referred to as 
+ 1. Hexidecimal
+ 2. Octal
+ 3. Duodecimal
+ 4. Binary
 
 <details>
   <summary>Answer</summary>
-  Mac OS
+  Hexidecimal
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  6 hours 53 minutes</strong> since this server shutdown
+Its been <strong>6 days  7 hours 23 minutes</strong> since this server shutdown
