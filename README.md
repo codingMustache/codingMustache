@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-If I could name myself after any Egyptian god, I'd be Set.
+How do you make a 'one' disappear? You add a 'g' and it's 'gone'
 
 
 ## Daily Trivia
 
-What major programming language does Unreal Engine 4 use?
- 1. ECMAScript
- 2. C++
- 3. C#
- 4. Assembly
+The name of technology company HP stands for what?
+ 1. Hewlett-Packard
+ 2. Howard Packmann
+ 3. Husker-Pollosk
+ 4. Hellman-Pohl
 
 <details>
   <summary>Answer</summary>
-  C++
+  Hewlett-Packard
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  17 hours 53 minutes</strong> since this server shutdown
+Its been <strong>5 days  18 hours 23 minutes</strong> since this server shutdown
