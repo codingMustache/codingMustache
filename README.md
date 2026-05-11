@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What happens to a frog's car when it breaks down? It gets toad.
+Sore throats are a pain in the neck!
 
 
 ## Daily Trivia
 
-What does the &quot;MP&quot; stand for in MP3?
- 1. Moving Picture
- 2. Micro Point
- 3. Multi Pass
- 4. Music Player
+What language does Node.js use?
+ 1. Java
+ 2. Joomla Source Code
+ 3. Java Source
+ 4. JavaScript
 
 <details>
   <summary>Answer</summary>
-  Moving Picture
+  JavaScript
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  4 hours 23 minutes</strong> since this server shutdown
+Its been <strong>6 days  4 hours 53 minutes</strong> since this server shutdown
