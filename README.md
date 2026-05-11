@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I thought about going on an all-almond diet. But that's just nuts.
+What kind of pants do ghosts wear? Boo jeans.
 
 
 ## Daily Trivia
 
-The name of technology company HP stands for what?
- 1. Howard Packmann
- 2. Husker-Pollosk
- 3. Hellman-Pohl
- 4. Hewlett-Packard
+In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
+ 1. static
+ 2. relative
+ 3. absolute
+ 4. center
 
 <details>
   <summary>Answer</summary>
-  Hewlett-Packard
+  center
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  20 hours 53 minutes</strong> since this server shutdown
+Its been <strong>5 days  21 hours 23 minutes</strong> since this server shutdown
