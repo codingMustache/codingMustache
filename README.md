@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Man, I really love my furniture... me and my recliner go way back.
+Did you hear about the kidnapping at school? It's ok, he woke up.
 
 
 ## Daily Trivia
 
-What is the name of the default theme that is installed with Windows XP?
- 1. Whistler
- 2. Neptune
- 3. Bliss
- 4. Luna
+The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
+ 1. Fiji
+ 2. Tuvalu
+ 3. Micronesia
+ 4. Marshall Islands
 
 <details>
   <summary>Answer</summary>
-  Luna
+  Micronesia
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  1 hours 23 minutes</strong> since this server shutdown
+Its been <strong>6 days  1 hours 53 minutes</strong> since this server shutdown
