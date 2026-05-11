@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Nurse: Doctor, there's a patient that says he's invisible. Doctor: Well, tell him I can't see him right now!
+What happens to a frog's car when it breaks down? It gets toad.
 
 
 ## Daily Trivia
 
-Which of these people was NOT a founder of Apple Inc?
- 1. Jonathan Ive
- 2. Steve Jobs
- 3. Steve Wozniak
- 4. Ronald Wayne
+What does the &quot;MP&quot; stand for in MP3?
+ 1. Moving Picture
+ 2. Micro Point
+ 3. Multi Pass
+ 4. Music Player
 
 <details>
   <summary>Answer</summary>
-  Jonathan Ive
+  Moving Picture
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  3 hours 53 minutes</strong> since this server shutdown
+Its been <strong>6 days  4 hours 23 minutes</strong> since this server shutdown
