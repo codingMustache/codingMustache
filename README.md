@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-*Reversing the car* "Ah, this takes me back"
+What did the digital clock say to the grandfather clock? Look, no hands!
 
 
 ## Daily Trivia
 
-What amount of bits commonly equals one byte?
- 1. 64
- 2. 2
+How many values can a single byte represent?
+ 1. 8
+ 2. 256
  3. 1
- 4. 8
+ 4. 1024
 
 <details>
   <summary>Answer</summary>
-  8
+  256
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  18 hours 53 minutes</strong> since this server shutdown
+Its been <strong>5 days  19 hours 23 minutes</strong> since this server shutdown
