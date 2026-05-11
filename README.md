@@ -6,25 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Mahatma Gandhi, as you know, walked barefoot most of the time, which produced an impressive set of calluses on his feet. 
-He also ate very little, which made him rather frail and with his odd diet, he suffered from bad breath. 
-This made him a super calloused fragile mystic hexed by halitosis.
+Man, I really love my furniture... me and my recliner go way back.
 
 
 ## Daily Trivia
 
-How many Hz does the video standard PAL support?
- 1. 60
- 2. 50
- 3. 59
- 4. 25
+What is the name of the default theme that is installed with Windows XP?
+ 1. Whistler
+ 2. Neptune
+ 3. Bliss
+ 4. Luna
 
 <details>
   <summary>Answer</summary>
-  50
+  Luna
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days 53 minutes</strong> since this server shutdown
+Its been <strong>6 days  1 hours 23 minutes</strong> since this server shutdown
