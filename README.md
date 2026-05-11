@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the digital clock say to the grandfather clock? Look, no hands!
+What creature is smarter than a talking parrot? A spelling bee.
 
 
 ## Daily Trivia
 
-How many values can a single byte represent?
- 1. 8
- 2. 256
- 3. 1
- 4. 1024
+Which of the following is the oldest of these computers by release date?
+ 1. ZX Spectrum
+ 2. Commodore 64
+ 3. TRS-80
+ 4. Apple 3
 
 <details>
   <summary>Answer</summary>
-  256
+  TRS-80
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  19 hours 23 minutes</strong> since this server shutdown
+Its been <strong>5 days  19 hours 53 minutes</strong> since this server shutdown
