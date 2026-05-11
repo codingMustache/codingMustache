@@ -6,23 +6,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the big flower say to the littler flower? Hi, bud!
+I fear for the calendar, its days are numbered.
+
 
 
 ## Daily Trivia
 
-What does the computer software acronym JVM stand for?
- 1. Java Vendor Machine
- 2. Java Visual Machine
- 3. Java Virtual Machine
- 4. Just Virtual Machine
+What is the maximum value of a 32-bit signed binary integer?
+ 1. 2,147,483,647
+ 2. 9,223,372,036,854,775,807
+ 3. 2048
+ 4. 255
 
 <details>
   <summary>Answer</summary>
-  Java Virtual Machine
+  2,147,483,647
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  22 hours 23 minutes</strong> since this server shutdown
+Its been <strong>5 days  22 hours 53 minutes</strong> since this server shutdown
