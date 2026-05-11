@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Nurse: Doctor, there's a patient that says he's invisible. Doctor: Well, tell him I can't see him right now!
+I’ve deleted the phone numbers of all the Germans I know from my mobile phone. Now it’s Hans free.
 
 
 ## Daily Trivia
 
-In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
- 1. center
- 2. static
- 3. relative
- 4. absolute
+In networking, what does OSPF stand for?
+ 1. Open Signal Path Finder
+ 2. Order Sense Ping Find
+ 3. Order State Part First
+ 4. Open Shortest Path First
 
 <details>
   <summary>Answer</summary>
-  center
+  Open Shortest Path First
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  15 hours 53 minutes</strong> since this server shutdown
+Its been <strong>5 days  16 hours 23 minutes</strong> since this server shutdown
