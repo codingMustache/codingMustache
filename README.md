@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I gave my friend 10 puns hoping that one of them would make him laugh. Sadly, no pun in ten did.
+What kind of dog lives in a particle accelerator? A Fermilabrador Retriever.
 
 
 ## Daily Trivia
 
-The C programming language was created by this American computer scientist. 
- 1. al-Khwārizmī
- 2. Dennis Ritchie
- 3. Tim Berners Lee
- 4. Willis Ware
+What is the commonly used keyboard shortcut for the &#039;Copy&#039; function on Windows OS?
+ 1. Ctrl + C
+ 2. Alt + X
+ 3. Ctrl + X
+ 4. Alt + C
 
 <details>
   <summary>Answer</summary>
-  Dennis Ritchie
+  Ctrl + C
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  13 hours 23 minutes</strong> since this server shutdown
+Its been <strong>5 days  13 hours 53 minutes</strong> since this server shutdown
