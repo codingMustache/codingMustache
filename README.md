@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the kidnapping at school? It's ok, he woke up.
+Why did Dracula lie in the wrong coffin? He made a grave mistake.
 
 
 ## Daily Trivia
 
-The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
- 1. Fiji
- 2. Tuvalu
- 3. Micronesia
- 4. Marshall Islands
+Who is the original author of the realtime physics engine called PhysX?
+ 1. Ageia
+ 2. Nvidia
+ 3. AMD
+ 4. NovodeX
 
 <details>
   <summary>Answer</summary>
-  Micronesia
+  NovodeX
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  1 hours 53 minutes</strong> since this server shutdown
+Its been <strong>6 days  2 hours 23 minutes</strong> since this server shutdown
