@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you do on a remote island? Try and find the TV island it belongs to.
+Why didn’t the orange win the race? It ran out of juice.
 
 
 ## Daily Trivia
 
-When Gmail first launched, how much storage did it provide for your email?
- 1. 1GB
- 2. Unlimited
- 3. 5GB
- 4. 512MB
+What major programming language does Unreal Engine 4 use?
+ 1. C++
+ 2. ECMAScript
+ 3. C#
+ 4. Assembly
 
 <details>
   <summary>Answer</summary>
-  1GB
+  C++
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  10 hours 53 minutes</strong> since this server shutdown
+Its been <strong>5 days  11 hours 23 minutes</strong> since this server shutdown
