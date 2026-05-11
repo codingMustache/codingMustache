@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Sore throats are a pain in the neck!
+How did Darth Vader know what Luke was getting for Christmas? He felt his presents.
 
 
 ## Daily Trivia
 
-What language does Node.js use?
- 1. Java
- 2. Joomla Source Code
- 3. Java Source
- 4. JavaScript
+Which of the following computer components can be built using only NAND gates?
+ 1. ALU
+ 2. CPU
+ 3. Register
+ 4. RAM
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  ALU
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  4 hours 53 minutes</strong> since this server shutdown
+Its been <strong>6 days  5 hours 23 minutes</strong> since this server shutdown
