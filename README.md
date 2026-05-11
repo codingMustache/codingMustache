@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you make holy water? You boil the hell out of it.
+Why are skeletons so calm? Because nothing gets under their skin.
 
 
 ## Daily Trivia
 
-Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
- 1. Cherry MX Black
- 2. Cherry MX Blue
- 3. Cherry MX Red
- 4. Cherry MX Brown
+In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
+ 1. Static
+ 2. Private
+ 3. Public
+ 4. Final
 
 <details>
   <summary>Answer</summary>
-  Cherry MX Blue
+  Final
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  12 hours 23 minutes</strong> since this server shutdown
+Its been <strong>5 days  12 hours 53 minutes</strong> since this server shutdown
