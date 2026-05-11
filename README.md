@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Can I watch the TV? Dad: Yes, but don’t turn it on.
+This is my step ladder. I never knew my real ladder.
 
 
 ## Daily Trivia
 
-Which of the following is the oldest of these computers by release date?
- 1. Commodore 64
- 2. ZX Spectrum
- 3. Apple 3
- 4. TRS-80
+What programming language was GitHub written in?
+ 1. JavaScript
+ 2. Python
+ 3. Ruby
+ 4. Lua
 
 <details>
   <summary>Answer</summary>
-  TRS-80
+  Ruby
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  8 hours 23 minutes</strong> since this server shutdown
+Its been <strong>5 days  8 hours 53 minutes</strong> since this server shutdown
