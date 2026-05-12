@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I was wondering why the frisbee was getting bigger, then it hit me.
+It’s hard to explain puns to kleptomaniacs, because they take everything literally.
 
 
 ## Daily Trivia
 
-In networking, what does OSPF stand for?
- 1. Order State Part First
- 2. Open Signal Path Finder
- 3. Order Sense Ping Find
- 4. Open Shortest Path First
+Which of these people was NOT a founder of Apple Inc?
+ 1. Steve Jobs
+ 2. Ronald Wayne
+ 3. Steve Wozniak
+ 4. Jonathan Ive
 
 <details>
   <summary>Answer</summary>
-  Open Shortest Path First
+  Jonathan Ive
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  12 hours 53 minutes</strong> since this server shutdown
+Its been <strong>6 days  13 hours 23 minutes</strong> since this server shutdown
