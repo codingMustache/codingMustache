@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Shout out to my grandma, that's the only way she can hear.
+Have you heard about the owl sanctuary job opening? It’s all night shifts but they’re all a hoot over there.
 
 
 ## Daily Trivia
 
-What does the term MIME stand for, in regards to computing?
- 1. Mail Internet Mail Exchange
- 2. Multipurpose Interleave Mail Exchange
- 3. Mail Interleave Method Exchange
- 4. Multipurpose Internet Mail Extensions
+CMOS is tech used for constructing integrated circuits. What does CMOS stand for?
+ 1. Complementary metal&ndash;oxide&ndash;semiconductor
+ 2. Complementary magnetic-ohms-semiconductor
+ 3. Computer-made operating system
+ 4. Computer-made oscillating static
 
 <details>
   <summary>Answer</summary>
-  Multipurpose Internet Mail Extensions
+  Complementary metal&ndash;oxide&ndash;semiconductor
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  3 hours 53 minutes</strong> since this server shutdown
+Its been <strong>7 days  4 hours 23 minutes</strong> since this server shutdown
