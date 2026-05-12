@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a female snake. misssssssss 
+Ever wondered why bees hum? It's because they don't know the words.
 
 
 ## Daily Trivia
 
-How long is an IPv6 address?
- 1. 64 bits
- 2. 32 bits
- 3. 128 bytes
- 4. 128 bits
+Which kind of algorithm is Ron Rivest not famous for creating?
+ 1. Stream cipher
+ 2. Secret sharing scheme
+ 3. Asymmetric encryption
+ 4. Hashing algorithm
 
 <details>
   <summary>Answer</summary>
-  128 bits
+  Secret sharing scheme
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  9 hours 23 minutes</strong> since this server shutdown
+Its been <strong>6 days  9 hours 53 minutes</strong> since this server shutdown
