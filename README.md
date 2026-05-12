@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did Yoda say when he saw himself in 4K? "HDMI"
+Do you know where you can get chicken broth in bulk? The stock market.
 
 
 ## Daily Trivia
 
-The Windows OS was delevoped by which company?
- 1. Microsoft
- 2. IBM
- 3. Apple
- 4. Nokia
+Approximately how many Apple I personal computers were created?
+ 1. 1000
+ 2. 500
+ 3. 200
+ 4. 100
 
 <details>
   <summary>Answer</summary>
-  Microsoft
+  200
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days 23 minutes</strong> since this server shutdown
+Its been <strong>7 days 53 minutes</strong> since this server shutdown
