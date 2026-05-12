@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Do you know where you can get chicken broth in bulk? The stock market.
+Where’s the bin? Dad: I haven’t been anywhere!
 
 
 ## Daily Trivia
 
-Approximately how many Apple I personal computers were created?
- 1. 1000
- 2. 500
- 3. 200
- 4. 100
+What does AD stand for in relation to Windows Operating Systems? 
+ 1. Alternative Drive
+ 2. Active Directory
+ 3. Automated Database
+ 4. Active Department
 
 <details>
   <summary>Answer</summary>
-  200
+  Active Directory
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days 53 minutes</strong> since this server shutdown
+Its been <strong>7 days  1 hours 23 minutes</strong> since this server shutdown
