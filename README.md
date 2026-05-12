@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of tree fits in your hand? A palm tree!
+Two dyslexics walk into a bra.
 
 
 ## Daily Trivia
 
-According to the International System of Units, how many bytes are in a kilobyte of RAM?
- 1. 500
- 2. 1000
- 3. 512
- 4. 1024
+How fast is USB 3.1 Gen 2 theoretically?
+ 1. 5 Gb/s
+ 2. 8 Gb/s
+ 3. 1 Gb/s
+ 4. 10 Gb/s
 
 <details>
   <summary>Answer</summary>
-  1000
+  10 Gb/s
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  10 hours 53 minutes</strong> since this server shutdown
+Its been <strong>6 days  11 hours 23 minutes</strong> since this server shutdown
