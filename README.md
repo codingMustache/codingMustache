@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Camping is intense.
+What kind of tree fits in your hand? A palm tree!
 
 
 ## Daily Trivia
 
-Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
- 1. Apple
- 2. Commodore
- 3. Atari
- 4. Microsoft
+According to the International System of Units, how many bytes are in a kilobyte of RAM?
+ 1. 500
+ 2. 1000
+ 3. 512
+ 4. 1024
 
 <details>
   <summary>Answer</summary>
-  Apple
+  1000
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  10 hours 23 minutes</strong> since this server shutdown
+Its been <strong>6 days  10 hours 53 minutes</strong> since this server shutdown
