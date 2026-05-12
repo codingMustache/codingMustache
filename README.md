@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Sometimes I tuck my knees into my chest and lean forward.  That’s just how I roll.
+How do you fix a damaged jack-o-lantern? You use a pumpkin patch.
 
 
 ## Daily Trivia
 
-When was the programming language &quot;C#&quot; released?
- 1. 2000
- 2. 2001
- 3. 1999
- 4. 1998
+What is largely considered the precursor to the USB format?
+ 1. SVGA
+ 2. PCIe
+ 3. FireWire
+ 4. PS/2
 
 <details>
   <summary>Answer</summary>
-  2000
+  PS/2
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  5 hours 23 minutes</strong> since this server shutdown
+Its been <strong>7 days  5 hours 53 minutes</strong> since this server shutdown
