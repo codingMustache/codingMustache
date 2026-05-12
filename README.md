@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I gave my friend 10 puns hoping that one of them would make him laugh. Sadly, no pun in ten did.
+Sometimes I tuck my knees into my chest and lean forward.  That’s just how I roll.
 
 
 ## Daily Trivia
 
-Which programming language was developed by Sun Microsystems in 1995?
- 1. Python
- 2. Java
- 3. C++
- 4. Solaris OS
+When was the programming language &quot;C#&quot; released?
+ 1. 2000
+ 2. 2001
+ 3. 1999
+ 4. 1998
 
 <details>
   <summary>Answer</summary>
-  Java
+  2000
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  4 hours 53 minutes</strong> since this server shutdown
+Its been <strong>7 days  5 hours 23 minutes</strong> since this server shutdown
