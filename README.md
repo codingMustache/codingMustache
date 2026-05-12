@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of bagel can fly? A plain bagel.
+What’s Forest Gump’s Facebook password? 1forest1
 
 
 ## Daily Trivia
 
-Whistler was the codename of this Microsoft Operating System.
- 1. Windows XP
- 2. Windows 7
- 3. Windows 95
- 4. Windows 2000
+In web design, what does CSS stand for?
+ 1. Corrective Style Sheet
+ 2. Cascading Style Sheet
+ 3. Computer Style Sheet
+ 4. Counter Strike: Source
 
 <details>
   <summary>Answer</summary>
-  Windows XP
+  Cascading Style Sheet
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  20 hours 53 minutes</strong> since this server shutdown
+Its been <strong>6 days  21 hours 23 minutes</strong> since this server shutdown
