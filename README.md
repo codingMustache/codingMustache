@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the fish say when it swam into a wall? Damn!
+I boiled a funny bone last night and had a laughing stock
 
 
 ## Daily Trivia
 
-Which computer hardware device provides an interface for all other connected devices to communicate?
- 1. Motherboard
- 2. Random Access Memory
- 3. Hard Disk Drive
- 4. Central Processing Unit
+CMOS is tech used for constructing integrated circuits. What does CMOS stand for?
+ 1. Complementary magnetic-ohms-semiconductor
+ 2. Computer-made oscillating static
+ 3. Computer-made operating system
+ 4. Complementary metal&ndash;oxide&ndash;semiconductor
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  Complementary metal&ndash;oxide&ndash;semiconductor
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  15 hours 53 minutes</strong> since this server shutdown
+Its been <strong>6 days  16 hours 23 minutes</strong> since this server shutdown
