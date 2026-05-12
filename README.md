@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What’s the difference between an African elephant and an Indian elephant? About 5000 miles.
+I just wrote a book on reverse psychology. Do not read it!
 
 
 ## Daily Trivia
 
-While Apple was formed in California, in which western state was Microsoft founded?
- 1. Washington
- 2. Colorado
- 3. Arizona
- 4. New Mexico
+Which programming language was developed by Sun Microsystems in 1995?
+ 1. Java
+ 2. Python
+ 3. C++
+ 4. Solaris OS
 
 <details>
   <summary>Answer</summary>
-  New Mexico
+  Java
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  14 hours 53 minutes</strong> since this server shutdown
+Its been <strong>6 days  15 hours 23 minutes</strong> since this server shutdown
