@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the kidnapping at school? It's ok, he woke up.
+What’s the difference between an African elephant and an Indian elephant? About 5000 miles.
 
 
 ## Daily Trivia
 
-Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
- 1. eBay
- 2. Overstock
- 3. Shopify
- 4. Amazon
+While Apple was formed in California, in which western state was Microsoft founded?
+ 1. Washington
+ 2. Colorado
+ 3. Arizona
+ 4. New Mexico
 
 <details>
   <summary>Answer</summary>
-  Amazon
+  New Mexico
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  14 hours 23 minutes</strong> since this server shutdown
+Its been <strong>6 days  14 hours 53 minutes</strong> since this server shutdown
