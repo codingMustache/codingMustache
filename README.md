@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a pig that knows karate? A pork chop!
+Did you hear about the kidnapping at school? It's ok, he woke up.
 
 
 ## Daily Trivia
 
-What was the name of the security vulnerability found in Bash in 2014?
- 1. Heartbleed
- 2. Shellshock
- 3. Stagefright
- 4. Bashbug
+Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
+ 1. eBay
+ 2. Overstock
+ 3. Shopify
+ 4. Amazon
 
 <details>
   <summary>Answer</summary>
-  Shellshock
+  Amazon
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  13 hours 53 minutes</strong> since this server shutdown
+Its been <strong>6 days  14 hours 23 minutes</strong> since this server shutdown
