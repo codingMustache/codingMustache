@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-"Hey, dad, did you get a haircut?" "No, I got them all cut."
+A man walks into a bar and orders helicopter flavor chips. The barman replies “sorry mate we only do plain”
 
 
 ## Daily Trivia
 
-The acronym &quot;RIP&quot; stands for which of these?
- 1. Routine Inspection Protocol
- 2. Runtime Instance Processes
- 3. Regular Interval Processes
- 4. Routing Information Protocol
+In computing terms, typically what does CLI stand for?
+ 1. Control Line Interface
+ 2. Common Language Input
+ 3. Command Line Interface
+ 4. Common Language Interface
 
 <details>
   <summary>Answer</summary>
-  Routing Information Protocol
+  Command Line Interface
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  22 hours 53 minutes</strong> since this server shutdown
+Its been <strong>6 days  23 hours 23 minutes</strong> since this server shutdown
