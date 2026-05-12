@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why don’t seagulls fly over the bay? Because then they’d be bay-gulls!
+What did the doctor say to the gingerbread man who broke his leg? Try icing it.
 
 
 ## Daily Trivia
 
-Color model CMYK stands for?
- 1. Cyan, Magenta, Yellow, and Black
- 2. Cream, Maroon, Yellow, and Black
- 3. Cream, Maroon, Yellow, and Khaki
- 4. Cyan, Magenta, Yellow, and Khaki
+Which of these is not a layer in the OSI model for data communications?
+ 1. Connection Layer
+ 2. Physical Layer
+ 3. Transport Layer
+ 4. Application Layer
 
 <details>
   <summary>Answer</summary>
-  Cyan, Magenta, Yellow, and Black
+  Connection Layer
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  2 hours 23 minutes</strong> since this server shutdown
+Its been <strong>7 days  2 hours 53 minutes</strong> since this server shutdown
