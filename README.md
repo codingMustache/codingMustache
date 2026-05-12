@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where’s the bin? Dad: I haven’t been anywhere!
+How does a scientist freshen their breath? With experi-mints!
 
 
 ## Daily Trivia
 
-What does AD stand for in relation to Windows Operating Systems? 
- 1. Alternative Drive
- 2. Active Directory
- 3. Automated Database
- 4. Active Department
+What amount of bits commonly equals one byte?
+ 1. 1
+ 2. 2
+ 3. 64
+ 4. 8
 
 <details>
   <summary>Answer</summary>
-  Active Directory
+  8
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  1 hours 23 minutes</strong> since this server shutdown
+Its been <strong>7 days  1 hours 53 minutes</strong> since this server shutdown
