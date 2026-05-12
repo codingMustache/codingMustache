@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Guy told me today he did not know what cloning is. I told him, "that makes 2 of us."
+I was wondering why the frisbee was getting bigger, then it hit me.
 
 
 ## Daily Trivia
 
-Which data structure does FILO apply to?
- 1. Tree
- 2. Heap
- 3. Queue
- 4. Stack
+In networking, what does OSPF stand for?
+ 1. Order State Part First
+ 2. Open Signal Path Finder
+ 3. Order Sense Ping Find
+ 4. Open Shortest Path First
 
 <details>
   <summary>Answer</summary>
-  Stack
+  Open Shortest Path First
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  12 hours 23 minutes</strong> since this server shutdown
+Its been <strong>6 days  12 hours 53 minutes</strong> since this server shutdown
