@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why does it take longer to get from 1st to 2nd base, than it does to get from 2nd to 3rd base? Because there’s a Shortstop in between!
+What did Yoda say when he saw himself in 4K? "HDMI"
 
 
 ## Daily Trivia
 
-Which of the following is a personal computer made by the Japanese company Fujitsu?
- 1. Xmillennium 
- 2. PC-9801
- 3. MSX
- 4. FM-7
+The Windows OS was delevoped by which company?
+ 1. Microsoft
+ 2. IBM
+ 3. Apple
+ 4. Nokia
 
 <details>
   <summary>Answer</summary>
-  FM-7
+  Microsoft
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  23 hours 53 minutes</strong> since this server shutdown
+Its been <strong>7 days 23 minutes</strong> since this server shutdown
