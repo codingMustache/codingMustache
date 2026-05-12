@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Two dyslexics walk into a bra.
+I once lost a banana at court but then I appealed. 
 
 
 ## Daily Trivia
 
-How fast is USB 3.1 Gen 2 theoretically?
- 1. 5 Gb/s
- 2. 8 Gb/s
- 3. 1 Gb/s
- 4. 10 Gb/s
+Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
+ 1. Shellscript
+ 2. Corrupted Blood
+ 3. Heartbleed
+ 4. Shellshock
 
 <details>
   <summary>Answer</summary>
-  10 Gb/s
+  Heartbleed
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  11 hours 23 minutes</strong> since this server shutdown
+Its been <strong>6 days  11 hours 53 minutes</strong> since this server shutdown
