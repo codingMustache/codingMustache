@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call two barracuda fish?  A Pairacuda!
+My son is studying to be a surgeon, I just hope he makes the cut.
 
 
 ## Daily Trivia
 
-On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
- 1. Exclamation Mark
- 2. Dollar Sign
- 3. Asterisk
- 4. Percent Sign
+What is the number of keys on a standard Windows Keyboard?
+ 1. 76
+ 2. 94
+ 3. 104
+ 4. 64
 
 <details>
   <summary>Answer</summary>
-  Exclamation Mark
+  104
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  6 hours 53 minutes</strong> since this server shutdown
+Its been <strong>7 days  7 hours 23 minutes</strong> since this server shutdown
