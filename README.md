@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why is it a bad idea to iron your four-leaf clover? Cause you shouldn't press your luck.
+"Hey, dad, did you get a haircut?" "No, I got them all cut."
 
 
 ## Daily Trivia
 
-In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
- 1. Final
- 2. Public
- 3. Private
- 4. Static
+The acronym &quot;RIP&quot; stands for which of these?
+ 1. Routine Inspection Protocol
+ 2. Runtime Instance Processes
+ 3. Regular Interval Processes
+ 4. Routing Information Protocol
 
 <details>
   <summary>Answer</summary>
-  Final
+  Routing Information Protocol
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  22 hours 23 minutes</strong> since this server shutdown
+Its been <strong>6 days  22 hours 53 minutes</strong> since this server shutdown
