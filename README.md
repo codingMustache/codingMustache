@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It’s hard to explain puns to kleptomaniacs, because they take everything literally.
+What do you call a pig that knows karate? A pork chop!
 
 
 ## Daily Trivia
 
-Which of these people was NOT a founder of Apple Inc?
- 1. Steve Jobs
- 2. Ronald Wayne
- 3. Steve Wozniak
- 4. Jonathan Ive
+What was the name of the security vulnerability found in Bash in 2014?
+ 1. Heartbleed
+ 2. Shellshock
+ 3. Stagefright
+ 4. Bashbug
 
 <details>
   <summary>Answer</summary>
-  Jonathan Ive
+  Shellshock
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  13 hours 23 minutes</strong> since this server shutdown
+Its been <strong>6 days  13 hours 53 minutes</strong> since this server shutdown
