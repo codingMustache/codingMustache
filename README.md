@@ -6,23 +6,27 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Hear about the new restaurant called Karma? There’s no menu: You get what you deserve.
+Me: If humans lose the ability to hear high frequency volumes as they get older, can my 4 week old son hear a dog whistle?
+
+Doctor: No, humans can never hear that high of a frequency no matter what age they are.
+
+Me: Trick question... dogs can't whistle.
 
 
 ## Daily Trivia
 
-What was the name given to Android 4.3?
- 1. Jelly Bean
- 2. Nutella
- 3. Lollipop
- 4. Froyo
+How many bits make up the significand portion of a single precision floating point number?
+ 1. 8
+ 2. 53
+ 3. 15
+ 4. 23
 
 <details>
   <summary>Answer</summary>
-  Jelly Bean
+  23
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  6 hours 53 minutes</strong> since this server shutdown
+Its been <strong>8 days  7 hours 23 minutes</strong> since this server shutdown
