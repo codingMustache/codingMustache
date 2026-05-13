@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are mummys scared of vacation? They're afraid to unwind.
+What is a vampire's favorite fruit? A blood orange.
 
 
 ## Daily Trivia
 
-What does the DOS in Microsoft&#039;s first operating system &quot;MS-DOS&quot; stand for?
- 1. Disk Operating System
- 2. Dumb Operating System
- 3. Driver Oriented System
- 4. Diskless Operating System
+What does SSD stand for?
+ 1. Source Solution Drive
+ 2. Solid State Disk
+ 3. Solid State Drive
+ 4. Solution Source Disk
 
 <details>
   <summary>Answer</summary>
-  Disk Operating System
+  Solid State Drive
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  9 hours 23 minutes</strong> since this server shutdown
+Its been <strong>7 days  9 hours 53 minutes</strong> since this server shutdown
