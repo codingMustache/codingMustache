@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a duck that gets all A's? A wise quacker.
+Did you know Albert Einstein was a real person? All this time, I thought he was just a theoretical physicist!
 
 
 ## Daily Trivia
 
-What internet protocol was documented in RFC 1459?
- 1. IRC
- 2. FTP
- 3. HTTPS
- 4. HTTP
+In programming, what do you call functions with the same name but different implementations?
+ 1. Inheriting
+ 2. Abstracting
+ 3. Overriding
+ 4. Overloading
 
 <details>
   <summary>Answer</summary>
-  IRC
+  Overloading
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  15 hours 53 minutes</strong> since this server shutdown
+Its been <strong>7 days  16 hours 23 minutes</strong> since this server shutdown
