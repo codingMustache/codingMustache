@@ -6,25 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is the difference between ignorance and apathy?
-
-I don't know and I don't care.
+I made a playlist for hiking. It has music from Peanuts, The Cranberries, and Eminem. I call it my Trail Mix.
 
 
 ## Daily Trivia
 
-How many kilobytes in one gigabyte (in decimal)?
- 1. 1048576
- 2. 1024
- 3. 1000000
- 4. 1000
+On which computer hardware device is the BIOS chip located?
+ 1. Motherboard
+ 2. Hard Disk Drive
+ 3. Graphics Processing Unit
+ 4. Central Processing Unit
 
 <details>
   <summary>Answer</summary>
-  1000000
+  Motherboard
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  17 hours 53 minutes</strong> since this server shutdown
+Its been <strong>7 days  18 hours 23 minutes</strong> since this server shutdown
