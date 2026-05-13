@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many kids with ADD does it take to change a lightbulb? Let's go ride bikes!
+Bought a new jacket suit the other day and it burst into flames. Well, it was a blazer
 
 
 ## Daily Trivia
 
-What port does HTTP run on?
- 1. 80
- 2. 53
- 3. 443
- 4. 23
+Which programming language shares its name with an island in Indonesia?
+ 1. C
+ 2. Jakarta
+ 3. Java
+ 4. Python
 
 <details>
   <summary>Answer</summary>
-  80
+  Java
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  13 hours 23 minutes</strong> since this server shutdown
+Its been <strong>7 days  13 hours 53 minutes</strong> since this server shutdown
