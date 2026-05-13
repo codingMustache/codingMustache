@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did one wall say to the other wall? I'll meet you at the corner!
+Why are mummys scared of vacation? They're afraid to unwind.
 
 
 ## Daily Trivia
 
-What internet protocol was documented in RFC 1459?
- 1. FTP
- 2. HTTPS
- 3. HTTP
- 4. IRC
+What does the DOS in Microsoft&#039;s first operating system &quot;MS-DOS&quot; stand for?
+ 1. Disk Operating System
+ 2. Dumb Operating System
+ 3. Driver Oriented System
+ 4. Diskless Operating System
 
 <details>
   <summary>Answer</summary>
-  IRC
+  Disk Operating System
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  8 hours 53 minutes</strong> since this server shutdown
+Its been <strong>7 days  9 hours 23 minutes</strong> since this server shutdown
