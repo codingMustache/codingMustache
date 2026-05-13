@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of music do planets listen to? Nep-tunes.
+How do you get two whales in a car? Start in England and drive West.
 
 
 ## Daily Trivia
 
-What amount of bits commonly equals one byte?
- 1. 1
- 2. 2
- 3. 64
- 4. 8
+Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
+ 1. Apple
+ 2. Microsoft
+ 3. Commodore
+ 4. Atari
 
 <details>
   <summary>Answer</summary>
-  8
+  Apple
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  5 hours 23 minutes</strong> since this server shutdown
+Its been <strong>8 days  5 hours 53 minutes</strong> since this server shutdown
