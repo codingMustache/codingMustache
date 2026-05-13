@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you get when you cross a chicken with a skunk? A fowl smell!
+Want to hear a joke about construction? Nah, I'm still working on it.
 
 
 ## Daily Trivia
 
-What does the term USB stand for?
- 1. Unityped Semtex Backer
- 2. Unified Signal Bus
- 3. Universal Simtex Blot
- 4. Universal Serial Bus
+On Twitter, what was the original character limit for a Tweet?
+ 1. 140
+ 2. 100
+ 3. 160
+ 4. 120
 
 <details>
   <summary>Answer</summary>
-  Universal Serial Bus
+  140
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  22 hours 53 minutes</strong> since this server shutdown
+Its been <strong>7 days  23 hours 23 minutes</strong> since this server shutdown
