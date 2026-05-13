@@ -6,25 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do pumpkins sit on people’s porches?
-
-They have no hands to knock on the door.
+Slept like a log last night … woke up in the fireplace.
 
 
 ## Daily Trivia
 
-What kind of memory is used on memory cache?
- 1. ROM
- 2. SRAM
- 3. Flash
- 4. DRAM
+CMOS is tech used for constructing integrated circuits. What does CMOS stand for?
+ 1. Complementary magnetic-ohms-semiconductor
+ 2. Computer-made operating system
+ 3. Computer-made oscillating static
+ 4. Complementary metal&ndash;oxide&ndash;semiconductor
 
 <details>
   <summary>Answer</summary>
-  SRAM
+  Complementary metal&ndash;oxide&ndash;semiconductor
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  18 hours 53 minutes</strong> since this server shutdown
+Its been <strong>7 days  19 hours 23 minutes</strong> since this server shutdown
