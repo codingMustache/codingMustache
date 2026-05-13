@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Don’t interrupt someone working intently on a puzzle. Chances are, you’ll hear some crosswords.
+My new thesaurus is terrible. In fact, it's so bad, I'd say it's terrible.
 
 
 ## Daily Trivia
 
-What is largely considered the precursor to the USB format?
- 1. SVGA
- 2. PCIe
- 3. FireWire
- 4. PS/2
+Which of these is not a layer in the OSI model for data communications?
+ 1. Application Layer
+ 2. Transport Layer
+ 3. Physical Layer
+ 4. Connection Layer
 
 <details>
   <summary>Answer</summary>
-  PS/2
+  Connection Layer
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  21 hours 53 minutes</strong> since this server shutdown
+Its been <strong>7 days  22 hours 23 minutes</strong> since this server shutdown
