@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What’s Forest Gump’s Facebook password? 1forest1
+What do you call a duck that gets all A's? A wise quacker.
 
 
 ## Daily Trivia
 
-What is the most preferred image format used for logos in the Wikimedia database?
- 1. .gif
- 2. .jpeg
- 3. .png
- 4. .svg
+What internet protocol was documented in RFC 1459?
+ 1. IRC
+ 2. FTP
+ 3. HTTPS
+ 4. HTTP
 
 <details>
   <summary>Answer</summary>
-  .svg
+  IRC
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  15 hours 23 minutes</strong> since this server shutdown
+Its been <strong>7 days  15 hours 53 minutes</strong> since this server shutdown
