@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's red and bad for your teeth? A Brick.
+They say Dodger Stadium can hold up to fifty-six thousand people, but that is just a ballpark figure.
 
 
 ## Daily Trivia
 
-Which computer hardware device provides an interface for all other connected devices to communicate?
- 1. Central Processing Unit
- 2. Hard Disk Drive
- 3. Motherboard
- 4. Random Access Memory
+What programming language was GitHub written in?
+ 1. Python
+ 2. JavaScript
+ 3. Lua
+ 4. Ruby
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  Ruby
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  11 hours 53 minutes</strong> since this server shutdown
+Its been <strong>7 days  12 hours 23 minutes</strong> since this server shutdown
