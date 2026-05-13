@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I made a playlist for hiking. It has music from Peanuts, The Cranberries, and Eminem. I call it my Trail Mix.
+Don’t interrupt someone working intently on a puzzle. Chances are, you’ll hear some crosswords.
 
 
 ## Daily Trivia
 
-In networking, what does OSPF stand for?
- 1. Order Sense Ping Find
- 2. Order State Part First
- 3. Open Signal Path Finder
- 4. Open Shortest Path First
+What is largely considered the precursor to the USB format?
+ 1. SVGA
+ 2. PCIe
+ 3. FireWire
+ 4. PS/2
 
 <details>
   <summary>Answer</summary>
-  Open Shortest Path First
+  PS/2
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  21 hours 23 minutes</strong> since this server shutdown
+Its been <strong>7 days  21 hours 53 minutes</strong> since this server shutdown
