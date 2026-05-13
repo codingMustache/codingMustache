@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor.
+A book just fell on my head. I only have my shelf to blame.
 
 
 ## Daily Trivia
 
-What does the Prt Sc button do?
- 1. Captures what&#039;s on the screen and copies it to your clipboard
- 2. Closes all windows
- 3. Saves a .png file of what&#039;s on the screen in your screenshots folder in photos
- 4. Nothing
+When was the programming language &quot;C#&quot; released?
+ 1. 1998
+ 2. 1999
+ 3. 2000
+ 4. 2001
 
 <details>
   <summary>Answer</summary>
-  Captures what&#039;s on the screen and copies it to your clipboard
+  2000
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  4 hours 23 minutes</strong> since this server shutdown
+Its been <strong>8 days  4 hours 53 minutes</strong> since this server shutdown
