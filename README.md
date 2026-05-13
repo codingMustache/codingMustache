@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Thanks for explaining the word "many" to me. It means a lot.
+I applied to be a doorman but didn't get the job due to lack of experience. That surprised me, I thought it was an entry level position.
 
 
 ## Daily Trivia
 
-How fast is USB 3.1 Gen 2 theoretically?
- 1. 10 Gb/s
- 2. 1 Gb/s
- 3. 8 Gb/s
- 4. 5 Gb/s
+Which computer language would you associate Django framework with?
+ 1. Java
+ 2. C++
+ 3. Python
+ 4. C#
 
 <details>
   <summary>Answer</summary>
-  10 Gb/s
+  Python
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  1 hours 23 minutes</strong> since this server shutdown
+Its been <strong>8 days  1 hours 53 minutes</strong> since this server shutdown
