@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I applied to be a doorman but didn't get the job due to lack of experience. That surprised me, I thought it was an entry level position.
+I've got a joke about vegetables for you... but it's a bit corny.
 
 
 ## Daily Trivia
 
-Which computer language would you associate Django framework with?
- 1. Java
- 2. C++
- 3. Python
- 4. C#
+Whistler was the codename of this Microsoft Operating System.
+ 1. Windows XP
+ 2. Windows 95
+ 3. Windows 2000
+ 4. Windows 7
 
 <details>
   <summary>Answer</summary>
-  Python
+  Windows XP
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  1 hours 53 minutes</strong> since this server shutdown
+Its been <strong>8 days  2 hours 23 minutes</strong> since this server shutdown
