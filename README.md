@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I asked the surgeon if I could administer my own anesthetic, they said: go ahead, knock yourself out.
+Thanks for explaining the word "many" to me. It means a lot.
 
 
 ## Daily Trivia
 
-How many values can a single byte represent?
- 1. 8
- 2. 1
- 3. 1024
- 4. 256
+How fast is USB 3.1 Gen 2 theoretically?
+ 1. 10 Gb/s
+ 2. 1 Gb/s
+ 3. 8 Gb/s
+ 4. 5 Gb/s
 
 <details>
   <summary>Answer</summary>
-  256
+  10 Gb/s
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days 53 minutes</strong> since this server shutdown
+Its been <strong>8 days  1 hours 23 minutes</strong> since this server shutdown
