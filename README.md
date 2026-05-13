@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-They say Dodger Stadium can hold up to fifty-six thousand people, but that is just a ballpark figure.
+Guy told me today he did not know what cloning is. I told him, "that makes 2 of us."
 
 
 ## Daily Trivia
 
-What programming language was GitHub written in?
- 1. Python
- 2. JavaScript
- 3. Lua
- 4. Ruby
+Who is the founder of Palantir?
+ 1. Peter Thiel
+ 2. Jack Dorsey
+ 3. Mark Zuckerberg
+ 4. Marc Benioff
 
 <details>
   <summary>Answer</summary>
-  Ruby
+  Peter Thiel
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  12 hours 23 minutes</strong> since this server shutdown
+Its been <strong>7 days  12 hours 53 minutes</strong> since this server shutdown
