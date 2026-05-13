@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My new thesaurus is terrible. In fact, it's so bad, I'd say it's terrible.
+What do you get when you cross a chicken with a skunk? A fowl smell!
 
 
 ## Daily Trivia
 
-Which of these is not a layer in the OSI model for data communications?
- 1. Application Layer
- 2. Transport Layer
- 3. Physical Layer
- 4. Connection Layer
+What does the term USB stand for?
+ 1. Unityped Semtex Backer
+ 2. Unified Signal Bus
+ 3. Universal Simtex Blot
+ 4. Universal Serial Bus
 
 <details>
   <summary>Answer</summary>
-  Connection Layer
+  Universal Serial Bus
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  22 hours 23 minutes</strong> since this server shutdown
+Its been <strong>7 days  22 hours 53 minutes</strong> since this server shutdown
