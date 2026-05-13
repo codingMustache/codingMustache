@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Some people eat light bulbs. They say it's a nice light snack.
+"I'm sorry." "Hi sorry, I'm dad"
 
 
 ## Daily Trivia
 
-What was Bitcoin&#039;s block size limit in 2010?
- 1. 1 TB
- 2. 1 KB
- 3. 1GB
- 4. 1 MB
+In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
+ 1. &lt;scroll&gt;&lt;/scroll&gt;
+ 2. &lt;move&gt;&lt;/move&gt;
+ 3. &lt;slide&gt;&lt;/slide&gt;
+ 4. &lt;marquee&gt;&lt;/marquee&gt;
 
 <details>
   <summary>Answer</summary>
-  1 MB
+  &lt;marquee&gt;&lt;/marquee&gt;
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  19 hours 53 minutes</strong> since this server shutdown
+Its been <strong>7 days  20 hours 23 minutes</strong> since this server shutdown
