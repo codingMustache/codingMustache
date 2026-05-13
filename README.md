@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do birds give out on Halloween? Tweets.
+I asked the surgeon if I could administer my own anesthetic, they said: go ahead, knock yourself out.
 
 
 ## Daily Trivia
 
-Which operating system was released first?
- 1. Mac OS
- 2. OS/2
- 3. Linux
- 4. Windows
+How many values can a single byte represent?
+ 1. 8
+ 2. 1
+ 3. 1024
+ 4. 256
 
 <details>
   <summary>Answer</summary>
-  Mac OS
+  256
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days 23 minutes</strong> since this server shutdown
+Its been <strong>8 days 53 minutes</strong> since this server shutdown
