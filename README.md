@@ -6,23 +6,25 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I've got a joke about vegetables for you... but it's a bit corny.
+What's the worst part about being a cross-eyed teacher?
+
+They can't control their pupils.
 
 
 ## Daily Trivia
 
-Whistler was the codename of this Microsoft Operating System.
- 1. Windows XP
- 2. Windows 95
- 3. Windows 2000
- 4. Windows 7
+What does LTS stand for in the software market?
+ 1. Long Taco Service
+ 2. Ludicrous Transfer Speed
+ 3. Ludicrous Turbo Speed
+ 4. Long Term Support
 
 <details>
   <summary>Answer</summary>
-  Windows XP
+  Long Term Support
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  2 hours 23 minutes</strong> since this server shutdown
+Its been <strong>8 days  2 hours 53 minutes</strong> since this server shutdown
