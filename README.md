@@ -6,25 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the worst part about being a cross-eyed teacher?
-
-They can't control their pupils.
+Atheism is a non-prophet organisation.
 
 
 ## Daily Trivia
 
-What does LTS stand for in the software market?
- 1. Long Taco Service
- 2. Ludicrous Transfer Speed
- 3. Ludicrous Turbo Speed
- 4. Long Term Support
+What was the name of the security vulnerability found in Bash in 2014?
+ 1. Heartbleed
+ 2. Bashbug
+ 3. Stagefright
+ 4. Shellshock
 
 <details>
   <summary>Answer</summary>
-  Long Term Support
+  Shellshock
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  2 hours 53 minutes</strong> since this server shutdown
+Its been <strong>8 days  3 hours 23 minutes</strong> since this server shutdown
