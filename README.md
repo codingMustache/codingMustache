@@ -6,23 +6,25 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I made a playlist for hiking. It has music from Peanuts, The Cranberries, and Eminem. I call it my Trail Mix.
+Why do pumpkins sit on people’s porches?
+
+They have no hands to knock on the door.
 
 
 ## Daily Trivia
 
-On which computer hardware device is the BIOS chip located?
- 1. Motherboard
- 2. Hard Disk Drive
- 3. Graphics Processing Unit
- 4. Central Processing Unit
+What kind of memory is used on memory cache?
+ 1. ROM
+ 2. SRAM
+ 3. Flash
+ 4. DRAM
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  SRAM
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  18 hours 23 minutes</strong> since this server shutdown
+Its been <strong>7 days  18 hours 53 minutes</strong> since this server shutdown
