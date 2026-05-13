@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A book just fell on my head. I only have my shelf to blame.
+What kind of music do planets listen to? Nep-tunes.
 
 
 ## Daily Trivia
 
-When was the programming language &quot;C#&quot; released?
- 1. 1998
- 2. 1999
- 3. 2000
- 4. 2001
+What amount of bits commonly equals one byte?
+ 1. 1
+ 2. 2
+ 3. 64
+ 4. 8
 
 <details>
   <summary>Answer</summary>
-  2000
+  8
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  4 hours 53 minutes</strong> since this server shutdown
+Its been <strong>8 days  5 hours 23 minutes</strong> since this server shutdown
