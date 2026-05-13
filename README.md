@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My son is studying to be a surgeon, I just hope he makes the cut.
+Toasters were the first form of pop-up notifications.
 
 
 ## Daily Trivia
 
-What is the number of keys on a standard Windows Keyboard?
- 1. 76
- 2. 94
- 3. 104
- 4. 64
+What is the most preferred image format used for logos in the Wikimedia database?
+ 1. .png
+ 2. .gif
+ 3. .jpeg
+ 4. .svg
 
 <details>
   <summary>Answer</summary>
-  104
+  .svg
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  7 hours 23 minutes</strong> since this server shutdown
+Its been <strong>7 days  7 hours 53 minutes</strong> since this server shutdown
