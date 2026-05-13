@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is a vampire's favorite fruit? A blood orange.
+I invented a new word! Plagiarism!
 
 
 ## Daily Trivia
 
-What does SSD stand for?
- 1. Source Solution Drive
- 2. Solid State Disk
- 3. Solid State Drive
- 4. Solution Source Disk
+What does the computer software acronym JVM stand for?
+ 1. Java Virtual Machine
+ 2. Just Virtual Machine
+ 3. Java Visual Machine
+ 4. Java Vendor Machine
 
 <details>
   <summary>Answer</summary>
-  Solid State Drive
+  Java Virtual Machine
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>7 days  9 hours 53 minutes</strong> since this server shutdown
+Its been <strong>7 days  10 hours 23 minutes</strong> since this server shutdown
