@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of award did the dentist receive? A little plaque.
+Who is the coolest Doctor in the hospital? The hip Doctor!
 
 
 ## Daily Trivia
 
-Linus Torvalds created which of these?
- 1. Microsoft Windows
- 2. Python
- 3. Wikipedia
- 4. Linux
+What is the code name for the mobile operating system Android 7.0?
+ 1. Ice Cream Sandwich
+ 2. Nougat
+ 3. Jelly Bean
+ 4. Marshmallow
 
 <details>
   <summary>Answer</summary>
-  Linux
+  Nougat
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  12 hours 53 minutes</strong> since this server shutdown
+Its been <strong>8 days  13 hours 23 minutes</strong> since this server shutdown
