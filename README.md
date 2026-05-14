@@ -6,23 +6,25 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-*Reversing the car* "Ah, this takes me back"
+What did the hat say to the scarf?
+You can hang around. I'll just go on ahead.
+
 
 
 ## Daily Trivia
 
-The numbering system with a radix of 16 is more commonly referred to as 
- 1. Duodecimal
- 2. Binary
- 3. Hexidecimal
- 4. Octal
+Which of these is not a key value of Agile software development?
+ 1. Responding to change
+ 2. Comprehensive documentation
+ 3. Individuals and interactions
+ 4. Customer collaboration
 
 <details>
   <summary>Answer</summary>
-  Hexidecimal
+  Comprehensive documentation
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  3 hours 53 minutes</strong> since this server shutdown
+Its been <strong>9 days  4 hours 23 minutes</strong> since this server shutdown
