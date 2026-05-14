@@ -6,25 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the hat say to the scarf?
-You can hang around. I'll just go on ahead.
-
+How do robots eat guacamole? With computer chips.
 
 
 ## Daily Trivia
 
-Which of these is not a key value of Agile software development?
- 1. Responding to change
- 2. Comprehensive documentation
- 3. Individuals and interactions
- 4. Customer collaboration
+Which operating system was released first?
+ 1. OS/2
+ 2. Mac OS
+ 3. Linux
+ 4. Windows
 
 <details>
   <summary>Answer</summary>
-  Comprehensive documentation
+  Mac OS
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  4 hours 23 minutes</strong> since this server shutdown
+Its been <strong>9 days  4 hours 53 minutes</strong> since this server shutdown
