@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of pants do ghosts wear? Boo jeans.
+Why did the kid throw the clock out the window? He wanted to see time fly!
 
 
 ## Daily Trivia
 
-How many bytes are in a single Kibibyte?
- 1. 1024
- 2. 1000
- 3. 2400
- 4. 1240
+The numbering system with a radix of 16 is more commonly referred to as 
+ 1. Hexidecimal
+ 2. Duodecimal
+ 3. Binary
+ 4. Octal
 
 <details>
   <summary>Answer</summary>
-  1024
+  Hexidecimal
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  18 hours 53 minutes</strong> since this server shutdown
+Its been <strong>8 days  19 hours 23 minutes</strong> since this server shutdown
