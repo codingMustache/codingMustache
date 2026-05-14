@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-You know that cemetery up the road? People are dying to get in there.
+Why was the big cat disqualified from the race? Because it was a cheetah.
 
 
 ## Daily Trivia
 
-Which of these is not a layer in the OSI model for data communications?
- 1. Physical Layer
- 2. Transport Layer
- 3. Connection Layer
- 4. Application Layer
+The C programming language was created by this American computer scientist. 
+ 1. Tim Berners Lee
+ 2. al-Khwārizmī
+ 3. Dennis Ritchie
+ 4. Willis Ware
 
 <details>
   <summary>Answer</summary>
-  Connection Layer
+  Dennis Ritchie
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  15 hours 53 minutes</strong> since this server shutdown
+Its been <strong>8 days  16 hours 23 minutes</strong> since this server shutdown
