@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I don't trust stairs. They're always up to something.
+I've been trying to come up with a dad joke about momentum . . . but I just can't seem to get it going.
 
 
 ## Daily Trivia
 
-In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
- 1. &lt;marquee&gt;&lt;/marquee&gt;
- 2. &lt;slide&gt;&lt;/slide&gt;
- 3. &lt;move&gt;&lt;/move&gt;
- 4. &lt;scroll&gt;&lt;/scroll&gt;
+In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
+ 1. static
+ 2. center
+ 3. absolute
+ 4. relative
 
 <details>
   <summary>Answer</summary>
-  &lt;marquee&gt;&lt;/marquee&gt;
+  center
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  23 hours 23 minutes</strong> since this server shutdown
+Its been <strong>8 days  23 hours 53 minutes</strong> since this server shutdown
