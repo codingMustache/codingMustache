@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call cheese by itself? Provolone.
+How do you fix a broken pizza? With tomato paste.
 
 
 ## Daily Trivia
 
-What does &quot;LCD&quot; stand for?
- 1. Liquid Crystal Display
- 2. Language Control Design
- 3. Last Common Difference
- 4. Long Continuous Design
+What was the name given to Android 4.3?
+ 1. Lollipop
+ 2. Froyo
+ 3. Jelly Bean
+ 4. Nutella
 
 <details>
   <summary>Answer</summary>
-  Liquid Crystal Display
+  Jelly Bean
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  21 hours 23 minutes</strong> since this server shutdown
+Its been <strong>8 days  21 hours 53 minutes</strong> since this server shutdown
