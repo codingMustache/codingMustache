@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What’s the difference between an African elephant and an Indian elephant? About 5000 miles.
+What kind of award did the dentist receive? A little plaque.
 
 
 ## Daily Trivia
 
-Lenovo acquired IBM&#039;s personal computer division, including the ThinkPad line of laptops and tablets, in what year?
- 1. 1999
- 2. 2002
- 3. 2005
- 4. 2008
+Linus Torvalds created which of these?
+ 1. Microsoft Windows
+ 2. Python
+ 3. Wikipedia
+ 4. Linux
 
 <details>
   <summary>Answer</summary>
-  2005
+  Linux
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  12 hours 23 minutes</strong> since this server shutdown
+Its been <strong>8 days  12 hours 53 minutes</strong> since this server shutdown
