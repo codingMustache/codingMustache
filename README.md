@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do sheep go to get their hair cut? The baa-baa shop.
+What is a tornado's favorite game to play? Twister!
 
 
 ## Daily Trivia
 
-In networking, what does OSPF stand for?
- 1. Open Shortest Path First
- 2. Open Signal Path Finder
- 3. Order Sense Ping Find
- 4. Order State Part First
+What is known as &quot;the brain&quot; of the Computer?
+ 1. Graphics Processing Unit
+ 2. Keyboard
+ 3. Central Processing Unit
+ 4. Motherboard
 
 <details>
   <summary>Answer</summary>
-  Open Shortest Path First
+  Central Processing Unit
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  2 hours 23 minutes</strong> since this server shutdown
+Its been <strong>9 days  2 hours 53 minutes</strong> since this server shutdown
