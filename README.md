@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I've been trying to come up with a dad joke about momentum . . . but I just can't seem to get it going.
+Thanks for explaining the word "many" to me. It means a lot.
 
 
 ## Daily Trivia
 
-In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
- 1. static
- 2. center
- 3. absolute
- 4. relative
+What kind of memory is used on memory cache?
+ 1. DRAM
+ 2. SRAM
+ 3. ROM
+ 4. Flash
 
 <details>
   <summary>Answer</summary>
-  center
+  SRAM
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  23 hours 53 minutes</strong> since this server shutdown
+Its been <strong>9 days 23 minutes</strong> since this server shutdown
