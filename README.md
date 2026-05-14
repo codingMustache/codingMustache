@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I decided to sell my Hoover… well it was just collecting dust.
+What's the difference between a rooster and a crow? A rooster can crow but a crow cannot rooster.
 
 
 ## Daily Trivia
 
-When Gmail first launched, how much storage did it provide for your email?
- 1. 512MB
- 2. 5GB
- 3. Unlimited
- 4. 1GB
+What programming language was GitHub written in?
+ 1. Ruby
+ 2. JavaScript
+ 3. Python
+ 4. Lua
 
 <details>
   <summary>Answer</summary>
-  1GB
+  Ruby
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  14 hours 53 minutes</strong> since this server shutdown
+Its been <strong>8 days  15 hours 23 minutes</strong> since this server shutdown
