@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Have you heard of the band 1023MB? They haven't got a gig yet.
+I knew a guy who collected candy canes, they were all in mint condition
 
 
 ## Daily Trivia
 
-What does the International System of Quantities refer 1024 bytes as?
- 1. Kylobyte
- 2. Kilobyte
- 3. Kelobyte
- 4. Kibibyte
+The name of technology company HP stands for what?
+ 1. Hellman-Pohl
+ 2. Howard Packmann
+ 3. Hewlett-Packard
+ 4. Husker-Pollosk
 
 <details>
   <summary>Answer</summary>
-  Kibibyte
+  Hewlett-Packard
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  9 hours 53 minutes</strong> since this server shutdown
+Its been <strong>8 days  10 hours 23 minutes</strong> since this server shutdown
