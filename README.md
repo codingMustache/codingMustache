@@ -6,23 +6,25 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the kid throw the clock out the window? He wanted to see time fly!
+Why do pumpkins sit on people’s porches?
+
+They have no hands to knock on the door.
 
 
 ## Daily Trivia
 
-The numbering system with a radix of 16 is more commonly referred to as 
- 1. Hexidecimal
- 2. Duodecimal
- 3. Binary
- 4. Octal
+The acronym &quot;RIP&quot; stands for which of these?
+ 1. Runtime Instance Processes
+ 2. Regular Interval Processes
+ 3. Routine Inspection Protocol
+ 4. Routing Information Protocol
 
 <details>
   <summary>Answer</summary>
-  Hexidecimal
+  Routing Information Protocol
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  19 hours 23 minutes</strong> since this server shutdown
+Its been <strong>8 days  19 hours 53 minutes</strong> since this server shutdown
