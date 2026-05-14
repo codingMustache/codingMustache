@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I am so good at sleeping I can do it with my eyes closed!
+I went on a date last night with a girl from the zoo. It was great. She’s a keeper.
 
 
 ## Daily Trivia
 
-Which of these programming languages is a low-level language?
- 1. Assembly
- 2. Python
- 3. C#
- 4. Pascal
+The acronym &quot;RIP&quot; stands for which of these?
+ 1. Runtime Instance Processes
+ 2. Regular Interval Processes
+ 3. Routine Inspection Protocol
+ 4. Routing Information Protocol
 
 <details>
   <summary>Answer</summary>
-  Assembly
+  Routing Information Protocol
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  5 hours 53 minutes</strong> since this server shutdown
+Its been <strong>9 days  6 hours 23 minutes</strong> since this server shutdown
