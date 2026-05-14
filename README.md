@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the cookie cry? It was feeling crumby.
+How do you steal a coat? You jacket.
 
 
 ## Daily Trivia
 
-Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
- 1. Apple
- 2. Commodore
- 3. Atari
- 4. Microsoft
+The Harvard architecture for micro-controllers added which additional bus?
+ 1. Instruction
+ 2. Control
+ 3. Data
+ 4. Address
 
 <details>
   <summary>Answer</summary>
-  Apple
+  Instruction
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  1 hours 23 minutes</strong> since this server shutdown
+Its been <strong>9 days  1 hours 53 minutes</strong> since this server shutdown
