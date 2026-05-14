@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I boiled a funny bone last night and had a laughing stock
+Why did the scarecrow win an award? Because he was outstanding in his field.
 
 
 ## Daily Trivia
 
-In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
- 1. absolute
- 2. static
- 3. center
- 4. relative
+In the server hosting industry IaaS stands for...
+ 1. Internet as a Service
+ 2. Infrastructure as a Service
+ 3. Internet and a Server
+ 4. Infrastructure as a Server
 
 <details>
   <summary>Answer</summary>
-  center
+  Infrastructure as a Service
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  6 hours 53 minutes</strong> since this server shutdown
+Its been <strong>9 days  7 hours 23 minutes</strong> since this server shutdown
