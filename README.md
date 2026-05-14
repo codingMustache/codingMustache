@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is a tornado's favorite game to play? Twister!
+How do locomotives know where they're going? Lots of training
 
 
 ## Daily Trivia
 
-What is known as &quot;the brain&quot; of the Computer?
- 1. Graphics Processing Unit
- 2. Keyboard
- 3. Central Processing Unit
- 4. Motherboard
+CMOS is tech used for constructing integrated circuits. What does CMOS stand for?
+ 1. Complementary magnetic-ohms-semiconductor
+ 2. Complementary metal&ndash;oxide&ndash;semiconductor
+ 3. Computer-made oscillating static
+ 4. Computer-made operating system
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  Complementary metal&ndash;oxide&ndash;semiconductor
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  2 hours 53 minutes</strong> since this server shutdown
+Its been <strong>9 days  3 hours 23 minutes</strong> since this server shutdown
