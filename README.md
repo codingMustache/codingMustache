@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A man was caught stealing in a supermarket today while balanced on the shoulders of a couple of vampires. He was charged with shoplifting on two counts. 
+A cannibal is someone who is fed up with people.
 
 
 ## Daily Trivia
 
-Which data structure does FILO apply to?
- 1. Queue
- 2. Heap
- 3. Tree
- 4. Stack
+.at is the top-level domain for what country?
+ 1. Argentina
+ 2. Australia
+ 3. Angola
+ 4. Austria
 
 <details>
   <summary>Answer</summary>
-  Stack
+  Austria
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  11 hours 23 minutes</strong> since this server shutdown
+Its been <strong>8 days  11 hours 53 minutes</strong> since this server shutdown
