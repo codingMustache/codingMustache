@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Two peanuts were walking down the street. One was a salted.
+What are the strongest days of the week? Saturday and Sunday...the rest are weekdays.
 
 
 ## Daily Trivia
 
-What is the name of Layer 7 of the OSI model?
- 1. Present
- 2. Application
- 3. Session
- 4. Network
+Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
+ 1. 1.5 MHz
+ 2. 32.0 kHz
+ 3. 20.5 kHz
+ 4. 44.1 kHz
 
 <details>
   <summary>Answer</summary>
-  Application
+  44.1 kHz
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  7 hours 53 minutes</strong> since this server shutdown
+Its been <strong>8 days  8 hours 23 minutes</strong> since this server shutdown
