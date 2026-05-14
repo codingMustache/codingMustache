@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was the big cat disqualified from the race? Because it was a cheetah.
+What do you call a magician who has lost their magic? Ian.
 
 
 ## Daily Trivia
 
-The C programming language was created by this American computer scientist. 
- 1. Tim Berners Lee
- 2. al-Khwārizmī
- 3. Dennis Ritchie
- 4. Willis Ware
+Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
+ 1. Two Years
+ 2. Eight Years
+ 3. Year
+ 4. Four Years
 
 <details>
   <summary>Answer</summary>
-  Dennis Ritchie
+  Year
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  16 hours 23 minutes</strong> since this server shutdown
+Its been <strong>8 days  16 hours 53 minutes</strong> since this server shutdown
