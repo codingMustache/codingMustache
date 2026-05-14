@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Who is the coolest Doctor in the hospital? The hip Doctor!
+I'll tell you what often gets over looked... garden fences.
 
 
 ## Daily Trivia
 
-What is the code name for the mobile operating system Android 7.0?
- 1. Ice Cream Sandwich
- 2. Nougat
- 3. Jelly Bean
- 4. Marshmallow
+In computing, what does MIDI stand for?
+ 1. Musical Interface of Digital Instruments
+ 2. Musical Instrument Data Interface
+ 3. Modular Interface of Digital Instruments
+ 4. Musical Instrument Digital Interface
 
 <details>
   <summary>Answer</summary>
-  Nougat
+  Musical Instrument Digital Interface
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  13 hours 23 minutes</strong> since this server shutdown
+Its been <strong>8 days  13 hours 53 minutes</strong> since this server shutdown
