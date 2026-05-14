@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I went on a date last night with a girl from the zoo. It was great. She’s a keeper.
+I boiled a funny bone last night and had a laughing stock
 
 
 ## Daily Trivia
 
-The acronym &quot;RIP&quot; stands for which of these?
- 1. Runtime Instance Processes
- 2. Regular Interval Processes
- 3. Routine Inspection Protocol
- 4. Routing Information Protocol
+In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
+ 1. absolute
+ 2. static
+ 3. center
+ 4. relative
 
 <details>
   <summary>Answer</summary>
-  Routing Information Protocol
+  center
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  6 hours 23 minutes</strong> since this server shutdown
+Its been <strong>9 days  6 hours 53 minutes</strong> since this server shutdown
