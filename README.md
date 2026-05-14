@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I'll tell you what often gets over looked... garden fences.
+I bought shoes from a drug dealer once. I don't know what he laced them with, but I was tripping all day.
 
 
 ## Daily Trivia
 
-In computing, what does MIDI stand for?
- 1. Musical Interface of Digital Instruments
- 2. Musical Instrument Data Interface
- 3. Modular Interface of Digital Instruments
- 4. Musical Instrument Digital Interface
+Which one of these is not an official development name for a Ubuntu release?
+ 1. Wily Werewolf
+ 2. Utopic Unicorn
+ 3. Mystic Mansion
+ 4. Trusty Tahr
 
 <details>
   <summary>Answer</summary>
-  Musical Instrument Digital Interface
+  Mystic Mansion
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  13 hours 53 minutes</strong> since this server shutdown
+Its been <strong>8 days  14 hours 23 minutes</strong> since this server shutdown
