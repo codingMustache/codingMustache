@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I bought shoes from a drug dealer once. I don't know what he laced them with, but I was tripping all day.
+I decided to sell my Hoover… well it was just collecting dust.
 
 
 ## Daily Trivia
 
-Which one of these is not an official development name for a Ubuntu release?
- 1. Wily Werewolf
- 2. Utopic Unicorn
- 3. Mystic Mansion
- 4. Trusty Tahr
+When Gmail first launched, how much storage did it provide for your email?
+ 1. 512MB
+ 2. 5GB
+ 3. Unlimited
+ 4. 1GB
 
 <details>
   <summary>Answer</summary>
-  Mystic Mansion
+  1GB
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  14 hours 23 minutes</strong> since this server shutdown
+Its been <strong>8 days  14 hours 53 minutes</strong> since this server shutdown
