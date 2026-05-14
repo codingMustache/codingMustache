@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I dreamed about drowning in an ocean made out of orange soda last night. It took me a while to work out it was just a Fanta sea.
+Why is the new Kindle screen textured to look like paper? So you feel write at home.
 
 
 ## Daily Trivia
 
-Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
- 1. 44.1 kHz
- 2. 20.5 kHz
- 3. 1.5 MHz
- 4. 32.0 kHz
+In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
+ 1. Blue
+ 2. Red
+ 3. Yellow
+ 4. Green
 
 <details>
   <summary>Answer</summary>
-  44.1 kHz
+  Green
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>8 days  20 hours 23 minutes</strong> since this server shutdown
+Its been <strong>8 days  20 hours 53 minutes</strong> since this server shutdown
