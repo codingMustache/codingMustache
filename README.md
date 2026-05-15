@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why does Waldo only wear stripes? Because he doesn't want to be spotted.
+Past, present, and future walked into a bar.... It was tense.
 
 
 ## Daily Trivia
 
-What is the code name for the mobile operating system Android 7.0?
- 1. Nougat
- 2. Jelly Bean
- 3. Marshmallow
- 4. Ice Cream Sandwich
+Which programming language shares its name with an island in Indonesia?
+ 1. C
+ 2. Python
+ 3. Jakarta
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  Nougat
+  Java
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  5 hours 53 minutes</strong> since this server shutdown
+Its been <strong>10 days  6 hours 23 minutes</strong> since this server shutdown
