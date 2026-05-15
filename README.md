@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do sheep go to get their hair cut? The baa-baa shop.
+What do you call a group of disorganized cats? A cat-tastrophe.
 
 
 ## Daily Trivia
 
-What was the name of the security vulnerability found in Bash in 2014?
- 1. Bashbug
- 2. Shellshock
- 3. Stagefright
- 4. Heartbleed
+What does the term GPU stand for?
+ 1. Graphics Processing Unit
+ 2. Gaming Processor Unit
+ 3. Graphite Producing Unit
+ 4. Graphical Proprietary Unit
 
 <details>
   <summary>Answer</summary>
-  Shellshock
+  Graphics Processing Unit
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  21 hours 53 minutes</strong> since this server shutdown
+Its been <strong>9 days  22 hours 23 minutes</strong> since this server shutdown
