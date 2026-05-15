@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the best thing about elevator jokes? They work on so many levels.
+I went to the store to pick up eight cans of sprite... when I got home I realized I'd only picked seven up
 
 
 ## Daily Trivia
 
-What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
- 1. FM Synthesizer
- 2. ADPCM Sampler
- 3. Programmable Sound Generator (PSG)
- 4. PCM Sampler
+What major programming language does Unreal Engine 4 use?
+ 1. Assembly
+ 2. C++
+ 3. C#
+ 4. ECMAScript
 
 <details>
   <summary>Answer</summary>
-  ADPCM Sampler
+  C++
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days 23 minutes</strong> since this server shutdown
+Its been <strong>10 days 53 minutes</strong> since this server shutdown
