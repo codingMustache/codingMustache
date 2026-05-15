@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Don't tell secrets in corn fields. Too many ears around.
+Why was the strawberry sad? Its parents were in a jam.
 
 
 ## Daily Trivia
 
-What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
- 1. FM Synthesizer
- 2. Programmable Sound Generator (PSG)
- 3. PCM Sampler
- 4. ADPCM Sampler
+What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
+ 1. Heat Sink
+ 2. Temperature Decipator
+ 3. CPU Vent
+ 4. Heat Vent
 
 <details>
   <summary>Answer</summary>
-  ADPCM Sampler
+  Heat Sink
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  17 hours 23 minutes</strong> since this server shutdown
+Its been <strong>9 days  17 hours 53 minutes</strong> since this server shutdown
