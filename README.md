@@ -6,23 +6,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Have you heard about the film "Constipation", you probably haven't because it's not out yet.
+What is the best way to carve?
+Whittle by whittle.
 
 
 ## Daily Trivia
 
-In networking, what does OSPF stand for?
- 1. Open Shortest Path First
- 2. Open Signal Path Finder
- 3. Order Sense Ping Find
- 4. Order State Part First
+Which of the following is a personal computer made by the Japanese company Fujitsu?
+ 1. PC-9801
+ 2. Xmillennium 
+ 3. MSX
+ 4. FM-7
 
 <details>
   <summary>Answer</summary>
-  Open Shortest Path First
+  FM-7
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  12 hours 53 minutes</strong> since this server shutdown
+Its been <strong>9 days  13 hours 23 minutes</strong> since this server shutdown
