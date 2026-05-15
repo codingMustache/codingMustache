@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do trees seem suspicious on sunny days? Dunno, they're just a bit shady.
+Did you know you should always take an extra pair of pants golfing? Just in case you get a hole in one.
 
 
 ## Daily Trivia
 
-When did the online streaming service &quot;Mixer&quot; launch?
- 1. 2013
- 2. 2009
- 3. 2011
- 4. 2016
+What was the name of the image that features as the default background wallpaper for Windows XP?
+ 1. Azul
+ 2. Bliss
+ 3. Red moon desert
+ 4. Tulips
 
 <details>
   <summary>Answer</summary>
-  2016
+  Bliss
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  14 hours 23 minutes</strong> since this server shutdown
+Its been <strong>9 days  14 hours 53 minutes</strong> since this server shutdown
