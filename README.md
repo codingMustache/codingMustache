@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I went to the store to pick up eight cans of sprite... when I got home I realized I'd only picked seven up
+A steak pun is a rare medium well done.
 
 
 ## Daily Trivia
 
-What major programming language does Unreal Engine 4 use?
- 1. Assembly
- 2. C++
- 3. C#
- 4. ECMAScript
+What kind of memory is used on memory cache?
+ 1. SRAM
+ 2. DRAM
+ 3. ROM
+ 4. Flash
 
 <details>
   <summary>Answer</summary>
-  C++
+  SRAM
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days 53 minutes</strong> since this server shutdown
+Its been <strong>10 days  1 hours 23 minutes</strong> since this server shutdown
