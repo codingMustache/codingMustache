@@ -6,15 +6,15 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a fly without wings? A walk.
+What's a ninja's favorite type of shoes? Sneakers!
 
 
 ## Daily Trivia
 
 Who invented the &quot;Spanning Tree Protocol&quot;?
- 1. Michael Roberts
+ 1. Paul Vixie
  2. Vint Cerf
- 3. Paul Vixie
+ 3. Michael Roberts
  4. Radia Perlman
 
 <details>
@@ -25,4 +25,4 @@ Who invented the &quot;Spanning Tree Protocol&quot;?
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  6 hours 53 minutes</strong> since this server shutdown
+Its been <strong>10 days  7 hours 23 minutes</strong> since this server shutdown
