@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The other day I was listening to a song about superglue, it’s been stuck in my head ever since.
+Why are giraffes so slow to apologize? Because it takes them a long time to swallow their pride.
 
 
 ## Daily Trivia
 
-In computing terms, typically what does CLI stand for?
- 1. Command Line Interface
- 2. Common Language Input
- 3. Control Line Interface
- 4. Common Language Interface
+Which of these names was an actual codename for a cancelled Microsoft project?
+ 1. Saturn
+ 2. Pollux
+ 3. Enceladus
+ 4. Neptune
 
 <details>
   <summary>Answer</summary>
-  Command Line Interface
+  Neptune
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  10 hours 53 minutes</strong> since this server shutdown
+Its been <strong>9 days  11 hours 23 minutes</strong> since this server shutdown
