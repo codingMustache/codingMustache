@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the scarecrow win an award? Because he was outstanding in his field.
+A man got hit in the head with a can of Coke, but he was alright because it was a soft drink.
 
 
 ## Daily Trivia
 
-In the server hosting industry IaaS stands for...
- 1. Internet as a Service
- 2. Infrastructure as a Service
- 3. Internet and a Server
- 4. Infrastructure as a Server
+In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
+ 1. &lt;marquee&gt;&lt;/marquee&gt;
+ 2. &lt;slide&gt;&lt;/slide&gt;
+ 3. &lt;scroll&gt;&lt;/scroll&gt;
+ 4. &lt;move&gt;&lt;/move&gt;
 
 <details>
   <summary>Answer</summary>
-  Infrastructure as a Service
+  &lt;marquee&gt;&lt;/marquee&gt;
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  7 hours 23 minutes</strong> since this server shutdown
+Its been <strong>9 days  7 hours 53 minutes</strong> since this server shutdown
