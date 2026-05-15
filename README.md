@@ -6,24 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is the best way to carve?
-Whittle by whittle.
+How come the stadium got hot after the game? Because all of the fans left.
 
 
 ## Daily Trivia
 
-Which of the following is a personal computer made by the Japanese company Fujitsu?
- 1. PC-9801
- 2. Xmillennium 
- 3. MSX
- 4. FM-7
+How long is an IPv6 address?
+ 1. 32 bits
+ 2. 64 bits
+ 3. 128 bits
+ 4. 128 bytes
 
 <details>
   <summary>Answer</summary>
-  FM-7
+  128 bits
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  13 hours 23 minutes</strong> since this server shutdown
+Its been <strong>9 days  13 hours 53 minutes</strong> since this server shutdown
