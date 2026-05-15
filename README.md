@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a droid that takes the long way around? R2 detour.
+What do you call a cow on a trampoline? A milk shake!
 
 
 ## Daily Trivia
 
-Which programming language was developed by Sun Microsystems in 1995?
- 1. Python
- 2. Solaris OS
- 3. C++
- 4. Java
+What does the DOS in Microsoft&#039;s first operating system &quot;MS-DOS&quot; stand for?
+ 1. Disk Operating System
+ 2. Driver Oriented System
+ 3. Dumb Operating System
+ 4. Diskless Operating System
 
 <details>
   <summary>Answer</summary>
-  Java
+  Disk Operating System
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  15 hours 53 minutes</strong> since this server shutdown
+Its been <strong>9 days  16 hours 23 minutes</strong> since this server shutdown
