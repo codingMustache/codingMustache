@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was the robot angry? Because someone kept pressing his buttons!
+Me and my mates are in a band called Duvet. We're a cover band.
 
 
 ## Daily Trivia
 
-Unix Time is defined as the number of seconds that have elapsed since when?
- 1. Midnight, July 4, 1980
- 2. Midnight, January 1, 1970
- 3. Midnight, July 4, 1976
- 4. Midnight on the creator of Unix&#039;s birthday
+If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
+ 1. Binary
+ 2. Python
+ 3. C++
+ 4. JavaScript
 
 <details>
   <summary>Answer</summary>
-  Midnight, January 1, 1970
+  Binary
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  9 hours 53 minutes</strong> since this server shutdown
+Its been <strong>9 days  10 hours 23 minutes</strong> since this server shutdown
