@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I decided to sell my Hoover… well it was just collecting dust.
+Don't tell secrets in corn fields. Too many ears around.
 
 
 ## Daily Trivia
 
-In programming, what do you call functions with the same name but different implementations?
- 1. Overloading
- 2. Inheriting
- 3. Abstracting
- 4. Overriding
+What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
+ 1. FM Synthesizer
+ 2. Programmable Sound Generator (PSG)
+ 3. PCM Sampler
+ 4. ADPCM Sampler
 
 <details>
   <summary>Answer</summary>
-  Overloading
+  ADPCM Sampler
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  16 hours 53 minutes</strong> since this server shutdown
+Its been <strong>9 days  17 hours 23 minutes</strong> since this server shutdown
