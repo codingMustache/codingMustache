@@ -6,23 +6,25 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A man got hit in the head with a can of Coke, but he was alright because it was a soft drink.
+What's large, grey, and doesn't matter?
+An irrelephant.
+
 
 
 ## Daily Trivia
 
-In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
- 1. &lt;marquee&gt;&lt;/marquee&gt;
- 2. &lt;slide&gt;&lt;/slide&gt;
- 3. &lt;scroll&gt;&lt;/scroll&gt;
- 4. &lt;move&gt;&lt;/move&gt;
+What is the main CPU is the Sega Mega Drive / Sega Genesis?
+ 1. Intel 8088
+ 2. Yamaha YM2612
+ 3. Zilog Z80
+ 4. Motorola 68000
 
 <details>
   <summary>Answer</summary>
-  &lt;marquee&gt;&lt;/marquee&gt;
+  Motorola 68000
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  7 hours 53 minutes</strong> since this server shutdown
+Its been <strong>9 days  8 hours 23 minutes</strong> since this server shutdown
