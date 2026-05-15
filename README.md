@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A man tried to sell me a coffin today. I told him that's the last thing I need.
+I used to work in a shoe recycling shop. It was sole destroying.
 
 
 ## Daily Trivia
 
-The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
- 1. Fiji
- 2. Tuvalu
- 3. Micronesia
- 4. Marshall Islands
+What does CPU stand for?
+ 1. Central Processor Unit
+ 2. Computer Personal Unit
+ 3. Central Process Unit
+ 4. Central Processing Unit
 
 <details>
   <summary>Answer</summary>
-  Micronesia
+  Central Processing Unit
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  20 hours 53 minutes</strong> since this server shutdown
+Its been <strong>9 days  21 hours 23 minutes</strong> since this server shutdown
