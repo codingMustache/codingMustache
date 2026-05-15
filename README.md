@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was Pavlov's beard so soft?  Because he conditioned it.
+What did the Zen Buddist say to the hotdog vendor? Make me one with everything.
 
 
 ## Daily Trivia
 
-The name of technology company HP stands for what?
- 1. Hellman-Pohl
- 2. Howard Packmann
- 3. Husker-Pollosk
- 4. Hewlett-Packard
+Which one of these is not an official development name for a Ubuntu release?
+ 1. Trusty Tahr
+ 2. Utopic Unicorn
+ 3. Mystic Mansion
+ 4. Wily Werewolf
 
 <details>
   <summary>Answer</summary>
-  Hewlett-Packard
+  Mystic Mansion
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  19 hours 23 minutes</strong> since this server shutdown
+Its been <strong>9 days  19 hours 53 minutes</strong> since this server shutdown
