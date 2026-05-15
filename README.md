@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A beekeeper was indicted after he confessed to years of stealing at work. They charged him with emBEEzlement
+A man was caught stealing in a supermarket today while balanced on the shoulders of a couple of vampires. He was charged with shoplifting on two counts. 
 
 
 ## Daily Trivia
 
-What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?
- 1. Heat Sink
- 2. Temperature Decipator
- 3. Heat Vent
- 4. CPU Vent
+Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
+ 1. Puma
+ 2. Cheetah
+ 3. Leopard
+ 4. Tiger
 
 <details>
   <summary>Answer</summary>
-  Heat Sink
+  Cheetah
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  2 hours 23 minutes</strong> since this server shutdown
+Its been <strong>10 days  2 hours 53 minutes</strong> since this server shutdown
