@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do sheep go to get their hair cut? The baa-baa shop.
+Why was Pavlov's beard so soft?  Because he conditioned it.
 
 
 ## Daily Trivia
 
-The acronym &quot;RIP&quot; stands for which of these?
- 1. Routing Information Protocol
- 2. Routine Inspection Protocol
- 3. Regular Interval Processes
- 4. Runtime Instance Processes
+The name of technology company HP stands for what?
+ 1. Hellman-Pohl
+ 2. Howard Packmann
+ 3. Husker-Pollosk
+ 4. Hewlett-Packard
 
 <details>
   <summary>Answer</summary>
-  Routing Information Protocol
+  Hewlett-Packard
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  18 hours 53 minutes</strong> since this server shutdown
+Its been <strong>9 days  19 hours 23 minutes</strong> since this server shutdown
