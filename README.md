@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A steak pun is a rare medium well done.
+Atheism is a non-prophet organisation.
 
 
 ## Daily Trivia
 
-What kind of memory is used on memory cache?
- 1. SRAM
- 2. DRAM
- 3. ROM
- 4. Flash
+The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
+ 1. HD Graphics 500
+ 2. HD Graphics 700 
+ 3. HD Graphics 600
+ 4. HD Graphics 7000
 
 <details>
   <summary>Answer</summary>
-  SRAM
+  HD Graphics 500
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  1 hours 23 minutes</strong> since this server shutdown
+Its been <strong>10 days  1 hours 53 minutes</strong> since this server shutdown
