@@ -6,25 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's large, grey, and doesn't matter?
-An irrelephant.
-
+I won an argument with a weather forecaster once. His logic was cloudy...
 
 
 ## Daily Trivia
 
-What is the main CPU is the Sega Mega Drive / Sega Genesis?
- 1. Intel 8088
- 2. Yamaha YM2612
- 3. Zilog Z80
- 4. Motorola 68000
+What was the first commerically available computer processor?
+ 1. Intel 486SX
+ 2. TMS 1000
+ 3. AMD AM386
+ 4. Intel 4004
 
 <details>
   <summary>Answer</summary>
-  Motorola 68000
+  Intel 4004
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 days  8 hours 23 minutes</strong> since this server shutdown
+Its been <strong>9 days  8 hours 53 minutes</strong> since this server shutdown
