@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of tree fits in your hand? A palm tree!
+Shout out to my grandma, that's the only way she can hear.
 
 
 ## Daily Trivia
 
-What kind of memory is used on memory cache?
- 1. SRAM
- 2. DRAM
- 3. ROM
- 4. Flash
+What is the maximum value of a 32-bit signed binary integer?
+ 1. 2,147,483,647
+ 2. 9,223,372,036,854,775,807
+ 3. 2048
+ 4. 255
 
 <details>
   <summary>Answer</summary>
-  SRAM
+  2,147,483,647
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 10 hours 16 minutes</strong> since this server shutdown
+Its been <strong> 10 hours 46 minutes</strong> since this server shutdown
