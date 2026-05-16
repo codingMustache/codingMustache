@@ -6,23 +6,25 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I was thinking about moving to Moscow but there is no point Russian into things.
+ I never wanted to believe that my Dad was stealing from his job as a road worker. But when I got home, all the signs were there.
+
+
 
 
 ## Daily Trivia
 
-The programming language &#039;Swift&#039; was created to replace what other programming language?
- 1. Objective-C
- 2. C++
- 3. Ruby
- 4. C#
+On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
+ 1. Asterisk
+ 2. Percent Sign
+ 3. Exclamation Mark
+ 4. Dollar Sign
 
 <details>
   <summary>Answer</summary>
-  Objective-C
+  Exclamation Mark
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 4 hours 46 minutes</strong> since this server shutdown
+Its been <strong> 5 hours 16 minutes</strong> since this server shutdown
