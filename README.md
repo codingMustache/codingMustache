@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the traffic light say to the car as it passed? "Don't look I'm changing!"
+What do you call a guy lying on your doorstep? Matt.
 
 
 ## Daily Trivia
 
-What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
- 1. Coffee Lake
- 2. Broadwell
- 3. Skylake
- 4. Sandy Bridge
+What does the acronym CDN stand for in terms of networking?
+ 1. Content Delivery Network
+ 2. Computational Data Network
+ 3. Content Distribution Network
+ 4. Compressed Data Network
 
 <details>
   <summary>Answer</summary>
-  Coffee Lake
+  Content Delivery Network
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 8 hours 46 minutes</strong> since this server shutdown
+Its been <strong> 9 hours 16 minutes</strong> since this server shutdown
