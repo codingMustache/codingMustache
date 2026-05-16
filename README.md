@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Just read a few facts about frogs. They were ribbiting.
+What did the traffic light say to the car as it passed? "Don't look I'm changing!"
 
 
 ## Daily Trivia
 
-Which of the following physical typologies are used with Ethernet Networks?
- 1. Star
- 2. Hex
- 3. Mesh
- 4. Ring
+What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?
+ 1. Coffee Lake
+ 2. Broadwell
+ 3. Skylake
+ 4. Sandy Bridge
 
 <details>
   <summary>Answer</summary>
-  Star
+  Coffee Lake
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 8 hours 16 minutes</strong> since this server shutdown
+Its been <strong> 8 hours 46 minutes</strong> since this server shutdown
