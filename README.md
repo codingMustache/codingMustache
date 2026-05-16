@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-There's not really any training for garbagemen. They just pick things up as they go.
+What do you do on a remote island? Try and find the TV island it belongs to.
 
 
 ## Daily Trivia
 
-In computing, what does LAN stand for?
- 1. Long Antenna Node
- 2. Light Access Node
- 3. Land Address Navigation
- 4. Local Area Network
+What was the name given to Android 4.3?
+ 1. Lollipop
+ 2. Nutella
+ 3. Froyo
+ 4. Jelly Bean
 
 <details>
   <summary>Answer</summary>
-  Local Area Network
+  Jelly Bean
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 21 hours 16 minutes</strong> since this server shutdown
+Its been <strong> 21 hours 46 minutes</strong> since this server shutdown
