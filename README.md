@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the doctor say to the gingerbread man who broke his leg? Try icing it.
+Why did the banana go to the doctor? He was not "peeling" well.
 
 
 ## Daily Trivia
 
-Which of these is not a key value of Agile software development?
- 1. Individuals and interactions
- 2. Customer collaboration
- 3. Responding to change
- 4. Comprehensive documentation
+When was the programming language &quot;C#&quot; released?
+ 1. 1999
+ 2. 1998
+ 3. 2000
+ 4. 2001
 
 <details>
   <summary>Answer</summary>
-  Comprehensive documentation
+  2000
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 11 hours 46 minutes</strong> since this server shutdown
+Its been <strong> 12 hours 16 minutes</strong> since this server shutdown
