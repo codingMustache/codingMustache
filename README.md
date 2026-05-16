@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A Sandwich walks into a bar, the bartender says “Sorry, we don’t serve food here”
+What do you call a beehive without the b's? An eehive.
 
 
 ## Daily Trivia
 
-How many kilobytes in one gigabyte (in decimal)?
- 1. 1024
- 2. 1000000
- 3. 1000
- 4. 1048576
+What does the DOS in Microsoft&#039;s first operating system &quot;MS-DOS&quot; stand for?
+ 1. Disk Operating System
+ 2. Dumb Operating System
+ 3. Driver Oriented System
+ 4. Diskless Operating System
 
 <details>
   <summary>Answer</summary>
-  1000000
+  Disk Operating System
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 15 hours 16 minutes</strong> since this server shutdown
+Its been <strong> 15 hours 46 minutes</strong> since this server shutdown
