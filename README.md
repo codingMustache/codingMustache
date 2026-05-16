@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a beehive without the b's? An eehive.
+There’s a new type of broom out, it’s sweeping the nation.
 
 
 ## Daily Trivia
 
-What does the DOS in Microsoft&#039;s first operating system &quot;MS-DOS&quot; stand for?
- 1. Disk Operating System
- 2. Dumb Operating System
- 3. Driver Oriented System
- 4. Diskless Operating System
+In computing, what does MIDI stand for?
+ 1. Musical Interface of Digital Instruments
+ 2. Musical Instrument Data Interface
+ 3. Modular Interface of Digital Instruments
+ 4. Musical Instrument Digital Interface
 
 <details>
   <summary>Answer</summary>
-  Disk Operating System
+  Musical Instrument Digital Interface
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 15 hours 46 minutes</strong> since this server shutdown
+Its been <strong> 16 hours 16 minutes</strong> since this server shutdown
