@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I was going to learn how to juggle, but I didn't have the balls.
+Just read a few facts about frogs. They were ribbiting.
 
 
 ## Daily Trivia
 
-What five letter word is the motto of the IBM Computer company?
- 1. Think
- 2. Pixel
- 3. Logic
- 4. Click
+Which of the following physical typologies are used with Ethernet Networks?
+ 1. Star
+ 2. Hex
+ 3. Mesh
+ 4. Ring
 
 <details>
   <summary>Answer</summary>
-  Think
+  Star
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 7 hours 46 minutes</strong> since this server shutdown
+Its been <strong> 8 hours 16 minutes</strong> since this server shutdown
