@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do birds fly south for the winter? Because it's too far to walk.
+What do you call a snake who builds houses? A boa constructor!
 
 
 ## Daily Trivia
 
-What kind of memory is used on memory cache?
- 1. DRAM
- 2. ROM
- 3. Flash
- 4. SRAM
+All of the following programs are classified as raster graphics editors EXCEPT:
+ 1. Adobe Photoshop
+ 2. GIMP
+ 3. Paint.NET
+ 4. Inkscape
 
 <details>
   <summary>Answer</summary>
-  SRAM
+  Inkscape
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 19 hours 46 minutes</strong> since this server shutdown
+Its been <strong> 20 hours 16 minutes</strong> since this server shutdown
