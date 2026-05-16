@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Have you heard of the band 1023MB? They haven't got a gig yet.
+I went on a date last night with a girl from the zoo. It was great. She’s a keeper.
 
 
 ## Daily Trivia
 
-What is the most preferred image format used for logos in the Wikimedia database?
- 1. .svg
- 2. .jpeg
- 3. .gif
- 4. .png
+What is the maximum value of a 32-bit signed binary integer?
+ 1. 2,147,483,647
+ 2. 255
+ 3. 2048
+ 4. 9,223,372,036,854,775,807
 
 <details>
   <summary>Answer</summary>
-  .svg
+  2,147,483,647
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 2 hours 16 minutes</strong> since this server shutdown
+Its been <strong> 2 hours 46 minutes</strong> since this server shutdown
