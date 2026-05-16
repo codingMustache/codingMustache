@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the chicken get a penalty? For fowl play.
+Why do birds fly south for the winter? Because it's too far to walk.
 
 
 ## Daily Trivia
 
-The numbering system with a radix of 16 is more commonly referred to as 
- 1. Hexidecimal
- 2. Binary
- 3. Duodecimal
- 4. Octal
+What kind of memory is used on memory cache?
+ 1. DRAM
+ 2. ROM
+ 3. Flash
+ 4. SRAM
 
 <details>
   <summary>Answer</summary>
-  Hexidecimal
+  SRAM
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 19 hours 16 minutes</strong> since this server shutdown
+Its been <strong> 19 hours 46 minutes</strong> since this server shutdown
