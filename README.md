@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-There’s a new type of broom out, it’s sweeping the nation.
+How do hens stay fit? They always egg-cercise!
 
 
 ## Daily Trivia
 
-In computing, what does MIDI stand for?
- 1. Musical Interface of Digital Instruments
- 2. Musical Instrument Data Interface
- 3. Modular Interface of Digital Instruments
- 4. Musical Instrument Digital Interface
+Lenovo acquired IBM&#039;s personal computer division, including the ThinkPad line of laptops and tablets, in what year?
+ 1. 2008
+ 2. 2002
+ 3. 2005
+ 4. 1999
 
 <details>
   <summary>Answer</summary>
-  Musical Instrument Digital Interface
+  2005
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 16 hours 16 minutes</strong> since this server shutdown
+Its been <strong> 16 hours 46 minutes</strong> since this server shutdown
