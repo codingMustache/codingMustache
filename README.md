@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I dreamed about drowning in an ocean made out of orange soda last night. It took me a while to work out it was just a Fanta sea.
+A Sandwich walks into a bar, the bartender says “Sorry, we don’t serve food here”
 
 
 ## Daily Trivia
 
-Who invented the &quot;Spanning Tree Protocol&quot;?
- 1. Michael Roberts
- 2. Vint Cerf
- 3. Paul Vixie
- 4. Radia Perlman
+How many kilobytes in one gigabyte (in decimal)?
+ 1. 1024
+ 2. 1000000
+ 3. 1000
+ 4. 1048576
 
 <details>
   <summary>Answer</summary>
-  Radia Perlman
+  1000000
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 14 hours 46 minutes</strong> since this server shutdown
+Its been <strong> 15 hours 16 minutes</strong> since this server shutdown
