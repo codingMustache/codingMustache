@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to be a banker, but I lost interest.
+Why did the man put his money in the freezer? He wanted cold hard cash!
 
 
 ## Daily Trivia
 
-Which computer language would you associate Django framework with?
- 1. Python
- 2. Java
- 3. C++
- 4. C#
+Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
+ 1. Microsoft
+ 2. Atari
+ 3. Apple
+ 4. Commodore
 
 <details>
   <summary>Answer</summary>
-  Python
+  Apple
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 3 hours 46 minutes</strong> since this server shutdown
+Its been <strong> 4 hours 16 minutes</strong> since this server shutdown
