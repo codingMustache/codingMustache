@@ -6,24 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A weasel walks into a bar. The bartender says, "Wow, I've never served a weasel before. What can I get for you?"
-"Pop," goes the weasel.
+How are false teeth like stars? They come out at night!
 
 
 ## Daily Trivia
 
-Dutch computer scientist Mark Overmars is known for creating which game development engine?
- 1. Stencyl
- 2. Construct
- 3. Torque 2D
- 4. Game Maker
+Nvidia&#039;s headquarters are based in which Silicon Valley city?
+ 1. Santa Clara
+ 2. Palo Alto
+ 3. Cupertino
+ 4. Mountain View
 
 <details>
   <summary>Answer</summary>
-  Game Maker
+  Santa Clara
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>16 minutes</strong> since this server shutdown
+Its been <strong>46 minutes</strong> since this server shutdown
