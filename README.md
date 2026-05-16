@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My boss told me to have a good day... so I went home.
+I used to work for a soft drink can crusher. It was soda pressing.
 
 
 ## Daily Trivia
 
-What internet protocol was documented in RFC 1459?
- 1. FTP
- 2. IRC
- 3. HTTPS
- 4. HTTP
+Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
+ 1. Shellscript
+ 2. Corrupted Blood
+ 3. Shellshock
+ 4. Heartbleed
 
 <details>
   <summary>Answer</summary>
-  IRC
+  Heartbleed
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 18 hours 16 minutes</strong> since this server shutdown
+Its been <strong> 18 hours 46 minutes</strong> since this server shutdown
