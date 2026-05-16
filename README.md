@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I got fired from a florist, apparently I took too many leaves.
+Why can't your nose be 12 inches long? Because then it'd be a foot!
 
 
 ## Daily Trivia
 
-.at is the top-level domain for what country?
- 1. Argentina
- 2. Australia
- 3. Angola
- 4. Austria
+America Online (AOL) started out as which of these online service providers?
+ 1. CompuServe
+ 2. Prodigy
+ 3. Quantum Link
+ 4. GEnie
 
 <details>
   <summary>Answer</summary>
-  Austria
+  Quantum Link
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 13 hours 46 minutes</strong> since this server shutdown
+Its been <strong> 14 hours 16 minutes</strong> since this server shutdown
