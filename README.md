@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why don't skeletons ride roller coasters? They don't have the stomach for it.
+When I left school, I passed every one of my exams with the exception of Greek Mythology. It always was my achilles elbow
 
 
 ## Daily Trivia
 
-What was the first commerically available computer processor?
- 1. Intel 4004
- 2. AMD AM386
- 3. Intel 486SX
- 4. TMS 1000
+How many kilobytes in one gigabyte (in decimal)?
+ 1. 1024
+ 2. 1000000
+ 3. 1000
+ 4. 1048576
 
 <details>
   <summary>Answer</summary>
-  Intel 4004
+  1000000
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 17 hours 16 minutes</strong> since this server shutdown
+Its been <strong> 17 hours 46 minutes</strong> since this server shutdown
