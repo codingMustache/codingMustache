@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I tried to milk a cow today, but was unsuccessful. Udder failure.
+What did the piece of bread say to the knife? Butter me up.
 
 
 ## Daily Trivia
 
-On which computer hardware device is the BIOS chip located?
- 1. Graphics Processing Unit
- 2. Central Processing Unit
- 3. Motherboard
- 4. Hard Disk Drive
+If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
+ 1. JavaScript
+ 2. C++
+ 3. Binary
+ 4. Python
 
 <details>
   <summary>Answer</summary>
-  Motherboard
+  Binary
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 12 hours 46 minutes</strong> since this server shutdown
+Its been <strong> 13 hours 16 minutes</strong> since this server shutdown
