@@ -6,25 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the hat say to the scarf?
-You can hang around. I'll just go on ahead.
-
+I was going to learn how to juggle, but I didn't have the balls.
 
 
 ## Daily Trivia
 
-What major programming language does Unreal Engine 4 use?
- 1. C++
- 2. Assembly
- 3. C#
- 4. ECMAScript
+What five letter word is the motto of the IBM Computer company?
+ 1. Think
+ 2. Pixel
+ 3. Logic
+ 4. Click
 
 <details>
   <summary>Answer</summary>
-  C++
+  Think
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 7 hours 16 minutes</strong> since this server shutdown
+Its been <strong> 7 hours 46 minutes</strong> since this server shutdown
