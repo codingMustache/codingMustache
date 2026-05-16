@@ -6,23 +6,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I needed a password eight characters long so I picked Snow White and the Seven Dwarfs.
+A weasel walks into a bar. The bartender says, "Wow, I've never served a weasel before. What can I get for you?"
+"Pop," goes the weasel.
 
 
 ## Daily Trivia
 
-Australia, Japan, and Southeast Asia are in which ITU Region?
- 1. Region 1
- 2. Region 2
- 3. Region 4
- 4. Region 3
+Dutch computer scientist Mark Overmars is known for creating which game development engine?
+ 1. Stencyl
+ 2. Construct
+ 3. Torque 2D
+ 4. Game Maker
 
 <details>
   <summary>Answer</summary>
-  Region 3
+  Game Maker
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>10 days  8 hours 53 minutes</strong> since this server shutdown
+Its been <strong>16 minutes</strong> since this server shutdown
