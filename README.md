@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the difference between a poorly dressed man on a tricycle and a well dressed man on a bicycle? Attire.
+Have you heard of the band 1023MB? They haven't got a gig yet.
 
 
 ## Daily Trivia
 
-Which programming language was developed by Sun Microsystems in 1995?
- 1. Java
- 2. C++
- 3. Python
- 4. Solaris OS
+What is the most preferred image format used for logos in the Wikimedia database?
+ 1. .svg
+ 2. .jpeg
+ 3. .gif
+ 4. .png
 
 <details>
   <summary>Answer</summary>
-  Java
+  .svg
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 1 hours 46 minutes</strong> since this server shutdown
+Its been <strong> 2 hours 16 minutes</strong> since this server shutdown
