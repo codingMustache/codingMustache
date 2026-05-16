@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a guy lying on your doorstep? Matt.
+Conjunctivitis.com – now that’s a site for sore eyes.
 
 
 ## Daily Trivia
 
-What does the acronym CDN stand for in terms of networking?
- 1. Content Delivery Network
- 2. Computational Data Network
- 3. Content Distribution Network
- 4. Compressed Data Network
+What is the most preferred image format used for logos in the Wikimedia database?
+ 1. .png
+ 2. .jpeg
+ 3. .svg
+ 4. .gif
 
 <details>
   <summary>Answer</summary>
-  Content Delivery Network
+  .svg
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 9 hours 16 minutes</strong> since this server shutdown
+Its been <strong> 9 hours 46 minutes</strong> since this server shutdown
