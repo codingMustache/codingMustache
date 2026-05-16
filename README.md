@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you get when you cross a chicken with a skunk? A fowl smell!
+A man walked in to a bar with some asphalt on his arm. He said “Two beers please, one for me and one for the road.”
 
 
 ## Daily Trivia
 
-What kind of memory is used on memory cache?
- 1. SRAM
- 2. Flash
- 3. ROM
- 4. DRAM
+When did the online streaming service &quot;Mixer&quot; launch?
+ 1. 2009
+ 2. 2016
+ 3. 2013
+ 4. 2011
 
 <details>
   <summary>Answer</summary>
-  SRAM
+  2016
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 5 hours 46 minutes</strong> since this server shutdown
+Its been <strong> 6 hours 16 minutes</strong> since this server shutdown
