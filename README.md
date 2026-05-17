@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I adopted my dog from a blacksmith. As soon as we got home he made a bolt for the door.
+When Dad drops a pea off of his plate ‘oh dear I’ve pee’d on the table!
 
 
 ## Daily Trivia
 
-What was the name of the first Bulgarian personal computer?
- 1. Pravetz 8D
- 2. Pravetz 82
- 3. IMKO-1
- 4. IZOT 1030
+What does &quot;LCD&quot; stand for?
+ 1. Last Common Difference
+ 2. Liquid Crystal Display
+ 3. Language Control Design
+ 4. Long Continuous Design
 
 <details>
   <summary>Answer</summary>
-  IMKO-1
+  Liquid Crystal Display
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 10 hours 39 minutes</strong> since this server shutdown
+Its been <strong> 11 hours 9 minutes</strong> since this server shutdown
