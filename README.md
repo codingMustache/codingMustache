@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Waking up this morning was an eye-opening experience.
+What kind of magic do cows believe in? MOODOO.
 
 
 ## Daily Trivia
 
-When was the programming language &quot;C#&quot; released?
- 1. 1998
- 2. 2001
- 3. 1999
- 4. 2000
+Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
+ 1. Shellscript
+ 2. Shellshock
+ 3. Corrupted Blood
+ 4. Heartbleed
 
 <details>
   <summary>Answer</summary>
-  2000
+  Heartbleed
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 9 hours 39 minutes</strong> since this server shutdown
+Its been <strong> 10 hours 9 minutes</strong> since this server shutdown
