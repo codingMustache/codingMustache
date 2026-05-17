@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you know you should always take an extra pair of pants golfing? Just in case you get a hole in one.
+If you think swimming with dolphins is expensive, you should try swimming with sharks--it cost me an arm and a leg!
 
 
 ## Daily Trivia
 
-Laserjet and inkjet printers are both examples of what type of printer?
- 1. Dot matrix printer
- 2. Non-impact printer
- 3. Daisywheel printer
- 4. Impact printer
+What does CPU stand for?
+ 1. Central Process Unit
+ 2. Central Processing Unit
+ 3. Computer Personal Unit
+ 4. Central Processor Unit
 
 <details>
   <summary>Answer</summary>
-  Non-impact printer
+  Central Processing Unit
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 5 hours 9 minutes</strong> since this server shutdown
+Its been <strong> 5 hours 39 minutes</strong> since this server shutdown
