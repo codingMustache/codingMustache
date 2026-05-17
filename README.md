@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-When Dad drops a pea off of his plate ‘oh dear I’ve pee’d on the table!
+Someone broke into my house last night and stole my limbo trophy. How low can you go?
 
 
 ## Daily Trivia
 
-What does &quot;LCD&quot; stand for?
- 1. Last Common Difference
- 2. Liquid Crystal Display
- 3. Language Control Design
- 4. Long Continuous Design
+What does the acronym CDN stand for in terms of networking?
+ 1. Content Distribution Network
+ 2. Computational Data Network
+ 3. Compressed Data Network
+ 4. Content Delivery Network
 
 <details>
   <summary>Answer</summary>
-  Liquid Crystal Display
+  Content Delivery Network
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 11 hours 9 minutes</strong> since this server shutdown
+Its been <strong> 12 hours 39 minutes</strong> since this server shutdown
