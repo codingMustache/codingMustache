@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where did you learn to make ice cream? Sunday school.
+Yesterday, I accidentally swallowed some food coloring. The doctor says I’m okay, but I feel like I’ve dyed a little inside.
 
 
 ## Daily Trivia
 
-What was Bitcoin&#039;s block size limit in 2010?
- 1. 1 MB
- 2. 1 TB
- 3. 1 KB
- 4. 1GB
+Which RAID array type is associated with data mirroring?
+ 1. RAID 5
+ 2. RAID 1
+ 3. RAID 10
+ 4. RAID 0
 
 <details>
   <summary>Answer</summary>
-  1 MB
+  RAID 1
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 3 hours 38 minutes</strong> since this server shutdown
+Its been <strong> 4 hours 8 minutes</strong> since this server shutdown
