@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I couldn't figure out how the seat belt worked. Then it just clicked.
+Did you know you should always take an extra pair of pants golfing? Just in case you get a hole in one.
 
 
 ## Daily Trivia
 
-Which programming language was developed by Sun Microsystems in 1995?
- 1. Java
- 2. C++
- 3. Solaris OS
- 4. Python
+Laserjet and inkjet printers are both examples of what type of printer?
+ 1. Dot matrix printer
+ 2. Non-impact printer
+ 3. Daisywheel printer
+ 4. Impact printer
 
 <details>
   <summary>Answer</summary>
-  Java
+  Non-impact printer
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 4 hours 39 minutes</strong> since this server shutdown
+Its been <strong> 5 hours 9 minutes</strong> since this server shutdown
