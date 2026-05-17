@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Sgt.: Commissar! Commissar! The troops are revolting! Commissar: Well, you’re pretty repulsive yourself.
+I couldn't figure out how the seat belt worked. Then it just clicked.
 
 
 ## Daily Trivia
 
-What was Bitcoin&#039;s block size limit in 2010?
- 1. 1 MB
- 2. 1 TB
- 3. 1 KB
- 4. 1GB
+Which programming language was developed by Sun Microsystems in 1995?
+ 1. Java
+ 2. C++
+ 3. Solaris OS
+ 4. Python
 
 <details>
   <summary>Answer</summary>
-  1 MB
+  Java
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 4 hours 9 minutes</strong> since this server shutdown
+Its been <strong> 4 hours 39 minutes</strong> since this server shutdown
