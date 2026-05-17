@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A doll was recently found dead in a rice paddy. It's the only known instance of a nick nack paddy wack.
+I used to think I was indecisive, but now I'm not sure.
 
 
 ## Daily Trivia
 
-How many bytes are in a single Kibibyte?
- 1. 2400
- 2. 1000
- 3. 1240
- 4. 1024
+Australia, Japan, and Southeast Asia are in which ITU Region?
+ 1. Region 3
+ 2. Region 4
+ 3. Region 2
+ 4. Region 1
 
 <details>
   <summary>Answer</summary>
-  1024
+  Region 3
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 2 hours 9 minutes</strong> since this server shutdown
+Its been <strong> 2 hours 39 minutes</strong> since this server shutdown
