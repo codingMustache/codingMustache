@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the worst thing about ancient history class? The teachers tend to Babylon.
+What do you call a droid that takes the long way around? R2 detour.
 
 
 ## Daily Trivia
 
-What kind of memory is used on memory cache?
- 1. DRAM
- 2. ROM
- 3. Flash
- 4. SRAM
+The numbering system with a radix of 16 is more commonly referred to as 
+ 1. Hexidecimal
+ 2. Octal
+ 3. Duodecimal
+ 4. Binary
 
 <details>
   <summary>Answer</summary>
-  SRAM
+  Hexidecimal
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 3 hours 9 minutes</strong> since this server shutdown
+Its been <strong> 3 hours 39 minutes</strong> since this server shutdown
