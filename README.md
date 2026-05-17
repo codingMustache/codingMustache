@@ -6,24 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was Santa's little helper feeling depressed? Because he has low elf esteem.
-
+Waking up this morning was an eye-opening experience.
 
 
 ## Daily Trivia
 
-What language does Node.js use?
- 1. Java Source
- 2. Joomla Source Code
- 3. JavaScript
- 4. Java
+When was the programming language &quot;C#&quot; released?
+ 1. 1998
+ 2. 2001
+ 3. 1999
+ 4. 2000
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  2000
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 8 hours 39 minutes</strong> since this server shutdown
+Its been <strong> 9 hours 39 minutes</strong> since this server shutdown
