@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you get a baby alien to sleep?  You rocket.
+Why are fish easy to weigh? Because they have their own scales.
 
 
 ## Daily Trivia
 
-What programming language was GitHub written in?
- 1. Python
- 2. Lua
- 3. Ruby
- 4. JavaScript
+What kind of memory is used on memory cache?
+ 1. Flash
+ 2. SRAM
+ 3. ROM
+ 4. DRAM
 
 <details>
   <summary>Answer</summary>
-  Ruby
+  SRAM
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 7 hours 9 minutes</strong> since this server shutdown
+Its been <strong> 7 hours 39 minutes</strong> since this server shutdown
