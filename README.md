@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-If a child refuses to sleep during nap time, are they guilty of resisting a rest?
+Where did you learn to make ice cream? Sunday school.
 
 
 ## Daily Trivia
 
-Which data structure does FILO apply to?
- 1. Stack
- 2. Tree
- 3. Heap
- 4. Queue
+What was Bitcoin&#039;s block size limit in 2010?
+ 1. 1 MB
+ 2. 1 TB
+ 3. 1 KB
+ 4. 1GB
 
 <details>
   <summary>Answer</summary>
-  Stack
+  1 MB
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 3 hours 8 minutes</strong> since this server shutdown
+Its been <strong> 3 hours 38 minutes</strong> since this server shutdown
