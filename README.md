@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Two satellites decided to get married. The wedding wasn't much, but the reception was incredible.
+How do you get a baby alien to sleep?  You rocket.
 
 
 ## Daily Trivia
 
-According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:
- 1. A&#039;B&#039;
- 2. AB&#039; + AB
- 3. A&#039; + B&#039;
- 4. A&#039;B + B&#039;A
+What programming language was GitHub written in?
+ 1. Python
+ 2. Lua
+ 3. Ruby
+ 4. JavaScript
 
 <details>
   <summary>Answer</summary>
-  A&#039; + B&#039;
+  Ruby
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 6 hours 39 minutes</strong> since this server shutdown
+Its been <strong> 7 hours 9 minutes</strong> since this server shutdown
