@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why don't sharks eat clowns?  Because they taste funny.
+I'm glad I know sign language, it's pretty handy.
 
 
 ## Daily Trivia
 
-In computing, what does MIDI stand for?
- 1. Musical Interface of Digital Instruments
- 2. Modular Interface of Digital Instruments
- 3. Musical Instrument Data Interface
- 4. Musical Instrument Digital Interface
+What internet protocol was documented in RFC 1459?
+ 1. IRC
+ 2. FTP
+ 3. HTTPS
+ 4. HTTP
 
 <details>
   <summary>Answer</summary>
-  Musical Instrument Digital Interface
+  IRC
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>9 minutes</strong> since this server shutdown
+Its been <strong>39 minutes</strong> since this server shutdown
