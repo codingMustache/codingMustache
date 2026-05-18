@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the worker get fired from the orange juice factory? Lack of concentration.
+When Dad drops a pea off of his plate ‘oh dear I’ve pee’d on the table!
 
 
 ## Daily Trivia
 
-What does the term GPU stand for?
- 1. Graphics Processing Unit
- 2. Graphical Proprietary Unit
- 3. Graphite Producing Unit
- 4. Gaming Processor Unit
+What does the &quot;MP&quot; stand for in MP3?
+ 1. Music Player
+ 2. Moving Picture
+ 3. Multi Pass
+ 4. Micro Point
 
 <details>
   <summary>Answer</summary>
-  Graphics Processing Unit
+  Moving Picture
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days 38 minutes</strong> since this server shutdown
+Its been <strong>1 days  1 hours 8 minutes</strong> since this server shutdown
