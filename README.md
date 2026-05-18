@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did Michael Jackson name his denim store?    Billy Jeans!
+Why are fish easy to weigh? Because they have their own scales.
 
 
 ## Daily Trivia
 
-In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
- 1. Static
- 2. Final
- 3. Public
- 4. Private
+.at is the top-level domain for what country?
+ 1. Austria
+ 2. Australia
+ 3. Argentina
+ 4. Angola
 
 <details>
   <summary>Answer</summary>
-  Final
+  Austria
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 6 hours 38 minutes</strong> since this server shutdown
+Its been <strong> 7 hours 8 minutes</strong> since this server shutdown
