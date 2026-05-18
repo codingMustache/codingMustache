@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A boy dug three holes in the yard. When his mother saw, she exclaimed: "well, well, well"
+There’s a new type of broom out, it’s sweeping the nation.
 
 
 ## Daily Trivia
 
-What does LTS stand for in the software market?
- 1. Ludicrous Turbo Speed
- 2. Long Taco Service
- 3. Ludicrous Transfer Speed
- 4. Long Term Support
+What does the term MIME stand for, in regards to computing?
+ 1. Multipurpose Internet Mail Extensions
+ 2. Mail Interleave Method Exchange
+ 3. Multipurpose Interleave Mail Exchange
+ 4. Mail Internet Mail Exchange
 
 <details>
   <summary>Answer</summary>
-  Long Term Support
+  Multipurpose Internet Mail Extensions
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 19 hours 38 minutes</strong> since this server shutdown
+Its been <strong> 20 hours 8 minutes</strong> since this server shutdown
