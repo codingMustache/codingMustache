@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-When Dad drops a pea off of his plate ‘oh dear I’ve pee’d on the table!
+What do you call a sheep with no legs? A cloud.
 
 
 ## Daily Trivia
 
-What does the &quot;MP&quot; stand for in MP3?
- 1. Music Player
- 2. Moving Picture
- 3. Multi Pass
- 4. Micro Point
+Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
+ 1. Year
+ 2. Eight Years
+ 3. Two Years
+ 4. Four Years
 
 <details>
   <summary>Answer</summary>
-  Moving Picture
+  Year
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  1 hours 8 minutes</strong> since this server shutdown
+Its been <strong>1 days  1 hours 38 minutes</strong> since this server shutdown
