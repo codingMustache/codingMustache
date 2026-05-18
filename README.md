@@ -6,23 +6,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the worker get fired from the orange juice factory? Lack of concentration.
+I fear for the calendar, its days are numbered.
+
 
 
 ## Daily Trivia
 
-Which of these programming languages is a low-level language?
- 1. Assembly
- 2. Pascal
- 3. C#
- 4. Python
+Which of these is not a layer in the OSI model for data communications?
+ 1. Transport Layer
+ 2. Connection Layer
+ 3. Physical Layer
+ 4. Application Layer
 
 <details>
   <summary>Answer</summary>
-  Assembly
+  Connection Layer
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 22 hours 8 minutes</strong> since this server shutdown
+Its been <strong> 22 hours 38 minutes</strong> since this server shutdown
