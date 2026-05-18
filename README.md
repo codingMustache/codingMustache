@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Shout out to my grandma, that's the only way she can hear.
+Why did Sweden start painting barcodes on the sides of their battleships? So they could Scandinavian.
 
 
 ## Daily Trivia
 
-What does the term MIME stand for, in regards to computing?
- 1. Multipurpose Internet Mail Extensions
- 2. Mail Interleave Method Exchange
- 3. Multipurpose Interleave Mail Exchange
- 4. Mail Internet Mail Exchange
+What does the term GPU stand for?
+ 1. Gaming Processor Unit
+ 2. Graphics Processing Unit
+ 3. Graphite Producing Unit
+ 4. Graphical Proprietary Unit
 
 <details>
   <summary>Answer</summary>
-  Multipurpose Internet Mail Extensions
+  Graphics Processing Unit
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 5 hours 8 minutes</strong> since this server shutdown
+Its been <strong> 5 hours 38 minutes</strong> since this server shutdown
