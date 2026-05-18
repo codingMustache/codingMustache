@@ -6,24 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you do when you see a space man?
-Park your car, man.
+The shovel was a ground-breaking invention.
 
 
 ## Daily Trivia
 
-What does AD stand for in relation to Windows Operating Systems? 
- 1. Active Directory
- 2. Active Department
- 3. Automated Database
- 4. Alternative Drive
+Which of the following is the oldest of these computers by release date?
+ 1. Apple 3
+ 2. TRS-80
+ 3. ZX Spectrum
+ 4. Commodore 64
 
 <details>
   <summary>Answer</summary>
-  Active Directory
+  TRS-80
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  2 hours 38 minutes</strong> since this server shutdown
+Its been <strong>1 days  3 hours 8 minutes</strong> since this server shutdown
