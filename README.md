@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-There’s a new type of broom out, it’s sweeping the nation.
+Why are fish easy to weigh? Because they have their own scales.
 
 
 ## Daily Trivia
 
-What does the term MIME stand for, in regards to computing?
- 1. Multipurpose Internet Mail Extensions
- 2. Mail Interleave Method Exchange
- 3. Multipurpose Interleave Mail Exchange
- 4. Mail Internet Mail Exchange
+What is the name of the default theme that is installed with Windows XP?
+ 1. Neptune
+ 2. Luna
+ 3. Whistler
+ 4. Bliss
 
 <details>
   <summary>Answer</summary>
-  Multipurpose Internet Mail Extensions
+  Luna
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 20 hours 8 minutes</strong> since this server shutdown
+Its been <strong> 20 hours 38 minutes</strong> since this server shutdown
