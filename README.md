@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-what happens when you cross a sheep with a kangaroo ? A woolly jumper!
+I heard there was a new store called Moderation. They have everything there
 
 
 ## Daily Trivia
 
-What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
- 1. Session
- 2. Data link
- 3. Transport
- 4. Network
+Which one of these is not an official development name for a Ubuntu release?
+ 1. Trusty Tahr
+ 2. Utopic Unicorn
+ 3. Wily Werewolf
+ 4. Mystic Mansion
 
 <details>
   <summary>Answer</summary>
-  Transport
+  Mystic Mansion
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 17 hours 8 minutes</strong> since this server shutdown
+Its been <strong> 17 hours 38 minutes</strong> since this server shutdown
