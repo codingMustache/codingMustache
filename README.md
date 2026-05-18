@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you know crocodiles could grow up to 15 feet? But most just have 4.
+I met this girl on a dating site and, I don't know, we just clicked.
 
 
 ## Daily Trivia
 
-Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
- 1. Microsoft
- 2. Atari
- 3. Commodore
- 4. Apple
+The acronym &quot;RIP&quot; stands for which of these?
+ 1. Runtime Instance Processes
+ 2. Routing Information Protocol
+ 3. Regular Interval Processes
+ 4. Routine Inspection Protocol
 
 <details>
   <summary>Answer</summary>
-  Apple
+  Routing Information Protocol
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 14 hours 8 minutes</strong> since this server shutdown
+Its been <strong> 15 hours 8 minutes</strong> since this server shutdown
