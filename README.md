@@ -6,24 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you do when you see a space man?
-Park your car, man.
+I hate perforated lines, they're tearable.
 
 
 ## Daily Trivia
 
-The programming language &#039;Swift&#039; was created to replace what other programming language?
- 1. C++
- 2. Objective-C
- 3. C#
- 4. Ruby
+In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
+ 1. static
+ 2. absolute
+ 3. relative
+ 4. center
 
 <details>
   <summary>Answer</summary>
-  Objective-C
+  center
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 10 hours 8 minutes</strong> since this server shutdown
+Its been <strong> 10 hours 38 minutes</strong> since this server shutdown
