@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a sheep with no legs? A cloud.
+What did Michael Jackson name his denim store?    Billy Jeans!
 
 
 ## Daily Trivia
 
-HTML is what type of language?
- 1. Markup Language
- 2. Scripting Language
- 3. Programming Language
- 4. Macro Language
+In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
+ 1. Static
+ 2. Final
+ 3. Public
+ 4. Private
 
 <details>
   <summary>Answer</summary>
-  Markup Language
+  Final
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 6 hours 8 minutes</strong> since this server shutdown
+Its been <strong> 6 hours 38 minutes</strong> since this server shutdown
