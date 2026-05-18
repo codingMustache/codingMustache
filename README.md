@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a sheep with no legs? A cloud.
+What's black and white and read all over? The newspaper.
 
 
 ## Daily Trivia
 
-Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
- 1. Year
- 2. Eight Years
- 3. Two Years
- 4. Four Years
+All of the following programs are classified as raster graphics editors EXCEPT:
+ 1. Inkscape
+ 2. Paint.NET
+ 3. GIMP
+ 4. Adobe Photoshop
 
 <details>
   <summary>Answer</summary>
-  Year
+  Inkscape
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  1 hours 38 minutes</strong> since this server shutdown
+Its been <strong>1 days  2 hours 8 minutes</strong> since this server shutdown
