@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Do you know where you can get chicken broth in bulk? The stock market.
+Why do cows wear bells? Because their horns don't work.
 
 
 ## Daily Trivia
 
-Who invented the &quot;Spanning Tree Protocol&quot;?
- 1. Michael Roberts
- 2. Radia Perlman
- 3. Paul Vixie
- 4. Vint Cerf
+What does the acronym CDN stand for in terms of networking?
+ 1. Content Delivery Network
+ 2. Computational Data Network
+ 3. Content Distribution Network
+ 4. Compressed Data Network
 
 <details>
   <summary>Answer</summary>
-  Radia Perlman
+  Content Delivery Network
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 18 hours 8 minutes</strong> since this server shutdown
+Its been <strong> 18 hours 38 minutes</strong> since this server shutdown
