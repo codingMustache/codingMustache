@@ -6,23 +6,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Today a girl said she recognized me from vegetarian club, but I’m sure I’ve never met herbivore.
+What is the least spoken language in the world?
+Sign Language
 
 
 ## Daily Trivia
 
-What was the name of the image that features as the default background wallpaper for Windows XP?
- 1. Bliss
- 2. Tulips
- 3. Red moon desert
- 4. Azul
+What is the name of Layer 7 of the OSI model?
+ 1. Application
+ 2. Present
+ 3. Network
+ 4. Session
 
 <details>
   <summary>Answer</summary>
-  Bliss
+  Application
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 16 hours 8 minutes</strong> since this server shutdown
+Its been <strong> 16 hours 38 minutes</strong> since this server shutdown
