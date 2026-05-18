@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's brown and sticky? A stick.
+I tried taking some high resolution photos of local farmland, but they all turned out a bit grainy.
 
 
 ## Daily Trivia
 
-If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
- 1. JavaScript
- 2. C++
- 3. Binary
- 4. Python
+What does RAID stand for?
+ 1. Rapid Access for Indexed Devices
+ 2. Range of Applications with Identical Designs
+ 3. Randomized Abstract Identification Description
+ 4. Redundant Array of Independent Disks
 
 <details>
   <summary>Answer</summary>
-  Binary
+  Redundant Array of Independent Disks
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 11 hours 8 minutes</strong> since this server shutdown
+Its been <strong> 11 hours 38 minutes</strong> since this server shutdown
