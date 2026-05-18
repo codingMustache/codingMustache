@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I hate perforated lines, they're tearable.
+What's brown and sticky? A stick.
 
 
 ## Daily Trivia
 
-In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
- 1. static
- 2. absolute
- 3. relative
- 4. center
+If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
+ 1. JavaScript
+ 2. C++
+ 3. Binary
+ 4. Python
 
 <details>
   <summary>Answer</summary>
-  center
+  Binary
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 10 hours 38 minutes</strong> since this server shutdown
+Its been <strong> 11 hours 8 minutes</strong> since this server shutdown
