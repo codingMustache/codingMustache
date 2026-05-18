@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did Sweden start painting barcodes on the sides of their battleships? So they could Scandinavian.
+What do you call a sheep with no legs? A cloud.
 
 
 ## Daily Trivia
 
-What does the term GPU stand for?
- 1. Gaming Processor Unit
- 2. Graphics Processing Unit
- 3. Graphite Producing Unit
- 4. Graphical Proprietary Unit
+HTML is what type of language?
+ 1. Markup Language
+ 2. Scripting Language
+ 3. Programming Language
+ 4. Macro Language
 
 <details>
   <summary>Answer</summary>
-  Graphics Processing Unit
+  Markup Language
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 5 hours 38 minutes</strong> since this server shutdown
+Its been <strong> 6 hours 8 minutes</strong> since this server shutdown
