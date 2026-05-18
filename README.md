@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Milk is also the fastest liquid on earth – its pasteurized before you even see it
+Why is it a bad idea to iron your four-leaf clover? Cause you shouldn't press your luck.
 
 
 ## Daily Trivia
 
-What did the name of the Tor Anonymity Network orignially stand for?
- 1. The Ominous Router
- 2. The Orange Router
- 3. The Onion Router
- 4. The Only Router
+Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
+ 1. Commodore
+ 2. Atari
+ 3. Apple
+ 4. Microsoft
 
 <details>
   <summary>Answer</summary>
-  The Onion Router
+  Apple
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 12 hours 8 minutes</strong> since this server shutdown
+Its been <strong> 12 hours 38 minutes</strong> since this server shutdown
