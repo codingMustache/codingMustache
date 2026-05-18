@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many hipsters does it take to change a lightbulb? Oh, it's a really obscure number. You've probably never heard of it.
+I’m only familiar with 25 letters in the English language. I don’t know why.
 
 
 ## Daily Trivia
 
-According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:
- 1. A&#039; + B&#039;
- 2. AB&#039; + AB
- 3. A&#039;B&#039;
- 4. A&#039;B + B&#039;A
+Which of the following languages is used as a scripting language in the Unity 3D game engine?
+ 1. C++
+ 2. Java
+ 3. C#
+ 4. Objective-C
 
 <details>
   <summary>Answer</summary>
-  A&#039; + B&#039;
+  C#
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  3 hours 38 minutes</strong> since this server shutdown
+Its been <strong>1 days  4 hours 8 minutes</strong> since this server shutdown
