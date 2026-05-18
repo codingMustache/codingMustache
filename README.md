@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-"Hey, dad, did you get a haircut?" "No, I got them all cut."
+The rotation of earth really makes my day.
 
 
 ## Daily Trivia
 
-The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
- 1. Marshall Islands
- 2. Fiji
- 3. Micronesia
- 4. Tuvalu
+In computing, what does LAN stand for?
+ 1. Long Antenna Node
+ 2. Local Area Network
+ 3. Light Access Node
+ 4. Land Address Navigation
 
 <details>
   <summary>Answer</summary>
-  Micronesia
+  Local Area Network
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 7 hours 38 minutes</strong> since this server shutdown
+Its been <strong> 8 hours 8 minutes</strong> since this server shutdown
