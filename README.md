@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A bartender broke up with her boyfriend, but he kept asking her for another shot.
+Did you know crocodiles could grow up to 15 feet? But most just have 4.
 
 
 ## Daily Trivia
 
-In computing, what does LAN stand for?
- 1. Long Antenna Node
- 2. Light Access Node
- 3. Local Area Network
- 4. Land Address Navigation
+Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
+ 1. Microsoft
+ 2. Atari
+ 3. Commodore
+ 4. Apple
 
 <details>
   <summary>Answer</summary>
-  Local Area Network
+  Apple
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 13 hours 38 minutes</strong> since this server shutdown
+Its been <strong> 14 hours 8 minutes</strong> since this server shutdown
