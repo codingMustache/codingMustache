@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I tried taking some high resolution photos of local farmland, but they all turned out a bit grainy.
+Milk is also the fastest liquid on earth – its pasteurized before you even see it
 
 
 ## Daily Trivia
 
-What does RAID stand for?
- 1. Rapid Access for Indexed Devices
- 2. Range of Applications with Identical Designs
- 3. Randomized Abstract Identification Description
- 4. Redundant Array of Independent Disks
+What did the name of the Tor Anonymity Network orignially stand for?
+ 1. The Ominous Router
+ 2. The Orange Router
+ 3. The Onion Router
+ 4. The Only Router
 
 <details>
   <summary>Answer</summary>
-  Redundant Array of Independent Disks
+  The Onion Router
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 11 hours 38 minutes</strong> since this server shutdown
+Its been <strong> 12 hours 8 minutes</strong> since this server shutdown
