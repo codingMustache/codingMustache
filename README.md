@@ -6,23 +6,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's black and white and read all over? The newspaper.
+What do you do when you see a space man?
+Park your car, man.
 
 
 ## Daily Trivia
 
-All of the following programs are classified as raster graphics editors EXCEPT:
- 1. Inkscape
- 2. Paint.NET
- 3. GIMP
- 4. Adobe Photoshop
+What does AD stand for in relation to Windows Operating Systems? 
+ 1. Active Directory
+ 2. Active Department
+ 3. Automated Database
+ 4. Alternative Drive
 
 <details>
   <summary>Answer</summary>
-  Inkscape
+  Active Directory
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  2 hours 8 minutes</strong> since this server shutdown
+Its been <strong>1 days  2 hours 38 minutes</strong> since this server shutdown
