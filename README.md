@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The rotation of earth really makes my day.
+Why did the cowboy have a weiner dog? Somebody told him to get a long little doggy.
 
 
 ## Daily Trivia
 
-In computing, what does LAN stand for?
- 1. Long Antenna Node
- 2. Local Area Network
- 3. Light Access Node
- 4. Land Address Navigation
+Laserjet and inkjet printers are both examples of what type of printer?
+ 1. Daisywheel printer
+ 2. Non-impact printer
+ 3. Dot matrix printer
+ 4. Impact printer
 
 <details>
   <summary>Answer</summary>
-  Local Area Network
+  Non-impact printer
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 8 hours 8 minutes</strong> since this server shutdown
+Its been <strong> 8 hours 38 minutes</strong> since this server shutdown
