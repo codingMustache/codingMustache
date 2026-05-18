@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I met this girl on a dating site and, I don't know, we just clicked.
+Today a girl said she recognized me from vegetarian club, but I’m sure I’ve never met herbivore.
 
 
 ## Daily Trivia
 
-The acronym &quot;RIP&quot; stands for which of these?
- 1. Runtime Instance Processes
- 2. Routing Information Protocol
- 3. Regular Interval Processes
- 4. Routine Inspection Protocol
+What was the name of the image that features as the default background wallpaper for Windows XP?
+ 1. Bliss
+ 2. Tulips
+ 3. Red moon desert
+ 4. Azul
 
 <details>
   <summary>Answer</summary>
-  Routing Information Protocol
+  Bliss
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 15 hours 8 minutes</strong> since this server shutdown
+Its been <strong> 16 hours 8 minutes</strong> since this server shutdown
