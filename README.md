@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the cowboy have a weiner dog? Somebody told him to get a long little doggy.
+Why did the house go to the doctor? It was having window panes.
 
 
 ## Daily Trivia
 
-Laserjet and inkjet printers are both examples of what type of printer?
- 1. Daisywheel printer
- 2. Non-impact printer
- 3. Dot matrix printer
- 4. Impact printer
+What is the name of Layer 7 of the OSI model?
+ 1. Application
+ 2. Present
+ 3. Network
+ 4. Session
 
 <details>
   <summary>Answer</summary>
-  Non-impact printer
+  Application
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 8 hours 38 minutes</strong> since this server shutdown
+Its been <strong> 9 hours 8 minutes</strong> since this server shutdown
