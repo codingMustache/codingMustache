@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The shovel was a ground-breaking invention.
+How many hipsters does it take to change a lightbulb? Oh, it's a really obscure number. You've probably never heard of it.
 
 
 ## Daily Trivia
 
-Which of the following is the oldest of these computers by release date?
- 1. Apple 3
- 2. TRS-80
- 3. ZX Spectrum
- 4. Commodore 64
+According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:
+ 1. A&#039; + B&#039;
+ 2. AB&#039; + AB
+ 3. A&#039;B&#039;
+ 4. A&#039;B + B&#039;A
 
 <details>
   <summary>Answer</summary>
-  TRS-80
+  A&#039; + B&#039;
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  3 hours 8 minutes</strong> since this server shutdown
+Its been <strong>1 days  3 hours 38 minutes</strong> since this server shutdown
