@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I’m only familiar with 25 letters in the English language. I don’t know why.
+How do you make a 'one' disappear? You add a 'g' and it's 'gone'
 
 
 ## Daily Trivia
 
-Which of the following languages is used as a scripting language in the Unity 3D game engine?
- 1. C++
- 2. Java
- 3. C#
- 4. Objective-C
+In CSS, which of these values CANNOT be used with the &quot;position&quot; property?
+ 1. absolute
+ 2. center
+ 3. relative
+ 4. static
 
 <details>
   <summary>Answer</summary>
-  C#
+  center
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  4 hours 8 minutes</strong> since this server shutdown
+Its been <strong>1 days  4 hours 38 minutes</strong> since this server shutdown
