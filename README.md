@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I heard there was a new store called Moderation. They have everything there
+Do you know where you can get chicken broth in bulk? The stock market.
 
 
 ## Daily Trivia
 
-Which one of these is not an official development name for a Ubuntu release?
- 1. Trusty Tahr
- 2. Utopic Unicorn
- 3. Wily Werewolf
- 4. Mystic Mansion
+Who invented the &quot;Spanning Tree Protocol&quot;?
+ 1. Michael Roberts
+ 2. Radia Perlman
+ 3. Paul Vixie
+ 4. Vint Cerf
 
 <details>
   <summary>Answer</summary>
-  Mystic Mansion
+  Radia Perlman
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong> 17 hours 38 minutes</strong> since this server shutdown
+Its been <strong> 18 hours 8 minutes</strong> since this server shutdown
