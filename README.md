@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did Sweden start painting barcodes on the sides of their battleships? So they could Scandinavian.
+Why did the worker get fired from the orange juice factory? Lack of concentration.
 
 
 ## Daily Trivia
 
-In computing terms, typically what does CLI stand for?
- 1. Common Language Input
- 2. Control Line Interface
- 3. Common Language Interface
- 4. Command Line Interface
+What does the term GPU stand for?
+ 1. Graphics Processing Unit
+ 2. Graphical Proprietary Unit
+ 3. Graphite Producing Unit
+ 4. Gaming Processor Unit
 
 <details>
   <summary>Answer</summary>
-  Command Line Interface
+  Graphics Processing Unit
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days 8 minutes</strong> since this server shutdown
+Its been <strong>1 days 38 minutes</strong> since this server shutdown
