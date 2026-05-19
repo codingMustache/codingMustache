@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How come the stadium got hot after the game? Because all of the fans left.
+Why was it called the dark ages? Because of all the knights. 
 
 
 ## Daily Trivia
 
-Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...
- 1. Four Years
- 2. Eight Years
- 3. Two Years
- 4. Year
+The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
+ 1. Commodore Business Machines
+ 2. Amstrad PLC
+ 3. Acorn Computers
+ 4. Sinclair Research
 
 <details>
   <summary>Answer</summary>
-  Year
+  Acorn Computers
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  3 hours 38 minutes</strong> since this server shutdown
+Its been <strong>2 days  4 hours 8 minutes</strong> since this server shutdown
