@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Have you heard about corduroy pillows?  They're making headlines!
+How did the hipster burn the roof of his mouth? He ate the pizza before it was cool.
 
 
 ## Daily Trivia
 
-Which programming language was developed by Sun Microsystems in 1995?
- 1. Python
- 2. Solaris OS
- 3. C++
- 4. Java
+Whistler was the codename of this Microsoft Operating System.
+ 1. Windows 95
+ 2. Windows 7
+ 3. Windows XP
+ 4. Windows 2000
 
 <details>
   <summary>Answer</summary>
-  Java
+  Windows XP
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  15 hours 8 minutes</strong> since this server shutdown
+Its been <strong>1 days  15 hours 38 minutes</strong> since this server shutdown
