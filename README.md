@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I really want to buy one of those supermarket checkout dividers, but the cashier keeps putting it back.
+In the news a courtroom artist was arrested today, I'm not surprised, he always seemed sketchy.
 
 
 ## Daily Trivia
 
-How many cores does the Intel i7-6950X have?
- 1. 12
- 2. 8
- 3. 4
- 4. 10
+In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
+ 1. Blue
+ 2. Red
+ 3. Yellow
+ 4. Green
 
 <details>
   <summary>Answer</summary>
-  10
+  Green
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  6 hours 8 minutes</strong> since this server shutdown
+Its been <strong>1 days  6 hours 38 minutes</strong> since this server shutdown
