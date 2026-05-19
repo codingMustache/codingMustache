@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Conjunctivitis.com – now that’s a site for sore eyes.
+Why do fish live in salt water? Because pepper makes them sneeze!
 
 
 ## Daily Trivia
 
-What does AD stand for in relation to Windows Operating Systems? 
- 1. Active Department
- 2. Active Directory
- 3. Automated Database
- 4. Alternative Drive
+When Gmail first launched, how much storage did it provide for your email?
+ 1. Unlimited
+ 2. 1GB
+ 3. 5GB
+ 4. 512MB
 
 <details>
   <summary>Answer</summary>
-  Active Directory
+  1GB
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days 38 minutes</strong> since this server shutdown
+Its been <strong>2 days  1 hours 8 minutes</strong> since this server shutdown
