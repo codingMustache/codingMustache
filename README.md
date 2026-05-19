@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Don't buy flowers at a monastery. Because only you can prevent florist friars.
+Conjunctivitis.com – now that’s a site for sore eyes.
 
 
 ## Daily Trivia
 
-How many Hz does the video standard PAL support?
- 1. 50
- 2. 59
- 3. 60
- 4. 25
+What does AD stand for in relation to Windows Operating Systems? 
+ 1. Active Department
+ 2. Active Directory
+ 3. Automated Database
+ 4. Alternative Drive
 
 <details>
   <summary>Answer</summary>
-  50
+  Active Directory
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days 8 minutes</strong> since this server shutdown
+Its been <strong>2 days 38 minutes</strong> since this server shutdown
