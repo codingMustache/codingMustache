@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It was so cold yesterday my computer froze. My own fault though, I left too many windows open.
+What time did the man go to the dentist? Tooth hurt-y.
 
 
 ## Daily Trivia
 
-What is the domain name for the country Tuvalu?
- 1. .tu
- 2. .tt
- 3. .tl
- 4. .tv
+When Gmail first launched, how much storage did it provide for your email?
+ 1. 1GB
+ 2. 512MB
+ 3. 5GB
+ 4. Unlimited
 
 <details>
   <summary>Answer</summary>
-  .tv
+  1GB
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  13 hours 38 minutes</strong> since this server shutdown
+Its been <strong>1 days  14 hours 8 minutes</strong> since this server shutdown
