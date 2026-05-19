@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Without geometry life is pointless.
+I used to hate facial hair, but then it grew on me.
 
 
 ## Daily Trivia
 
-How many bytes are in a single Kibibyte?
- 1. 1024
- 2. 1000
- 3. 2400
- 4. 1240
+What internet protocol was documented in RFC 1459?
+ 1. HTTP
+ 2. HTTPS
+ 3. FTP
+ 4. IRC
 
 <details>
   <summary>Answer</summary>
-  1024
+  IRC
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  22 hours 38 minutes</strong> since this server shutdown
+Its been <strong>1 days  23 hours 8 minutes</strong> since this server shutdown
