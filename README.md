@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-"I'm sorry." "Hi sorry, I'm dad"
+How do the trees get on the internet? They log on.
 
 
 ## Daily Trivia
 
-What is largely considered the precursor to the USB format?
- 1. FireWire
- 2. PCIe
- 3. PS/2
- 4. SVGA
+In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
+ 1. echo &quot;Hello World&quot;
+ 2. printf(&quot;Hello World&quot;)
+ 3. print(&quot;Hello World&quot;)
+ 4. console.log(&quot;Hello World&quot;)
 
 <details>
   <summary>Answer</summary>
-  PS/2
+  print(&quot;Hello World&quot;)
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  7 hours 38 minutes</strong> since this server shutdown
+Its been <strong>1 days  8 hours 8 minutes</strong> since this server shutdown
