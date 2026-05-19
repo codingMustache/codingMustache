@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A quick shoutout to all of the sidewalks out there... Thanks for keeping me off the streets.
+Don't buy flowers at a monastery. Because only you can prevent florist friars.
 
 
 ## Daily Trivia
 
-What is the most preferred image format used for logos in the Wikimedia database?
- 1. .svg
- 2. .gif
- 3. .jpeg
- 4. .png
+How many Hz does the video standard PAL support?
+ 1. 50
+ 2. 59
+ 3. 60
+ 4. 25
 
 <details>
   <summary>Answer</summary>
-  .svg
+  50
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  23 hours 38 minutes</strong> since this server shutdown
+Its been <strong>2 days 8 minutes</strong> since this server shutdown
