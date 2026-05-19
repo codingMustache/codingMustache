@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-When you have a bladder infection, urine trouble.
+Why do you never see elephants hiding in trees? Because they're so good at it.
 
 
 ## Daily Trivia
 
-Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?
- 1. Cherry MX Blue
- 2. Cherry MX Red
- 3. Cherry MX Black
- 4. Cherry MX Brown
+If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
+ 1. Python
+ 2. Binary
+ 3. JavaScript
+ 4. C++
 
 <details>
   <summary>Answer</summary>
-  Cherry MX Blue
+  Binary
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  21 hours 38 minutes</strong> since this server shutdown
+Its been <strong>1 days  22 hours 8 minutes</strong> since this server shutdown
