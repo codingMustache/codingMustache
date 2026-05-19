@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The biggest knight at King Arthur's round table was Sir Cumference. He acquired his size from eating too much pi.
+Have you heard about corduroy pillows?  They're making headlines!
 
 
 ## Daily Trivia
 
-Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
- 1. Cheetah
- 2. Leopard
- 3. Tiger
- 4. Puma
+Which programming language was developed by Sun Microsystems in 1995?
+ 1. Python
+ 2. Solaris OS
+ 3. C++
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  Cheetah
+  Java
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  14 hours 38 minutes</strong> since this server shutdown
+Its been <strong>1 days  15 hours 8 minutes</strong> since this server shutdown
