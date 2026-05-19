@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Pie is $2.50 in Jamaica and $3.00 in The Bahamas. These are the pie-rates of the Caribbean.
+What's the best thing about elevator jokes? They work on so many levels.
 
 
 ## Daily Trivia
 
-Which programming language was developed by Sun Microsystems in 1995?
- 1. Python
- 2. C++
- 3. Solaris OS
- 4. Java
+How many kilobytes in one gigabyte (in decimal)?
+ 1. 1000000
+ 2. 1024
+ 3. 1048576
+ 4. 1000
 
 <details>
   <summary>Answer</summary>
-  Java
+  1000000
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  8 hours 38 minutes</strong> since this server shutdown
+Its been <strong>1 days  9 hours 8 minutes</strong> since this server shutdown
