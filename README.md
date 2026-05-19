@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a fat psychic? A four-chin teller.
+Can a kangaroo jump higher than the Empire State Building? Of course. The Empire State Building can't jump.
 
 
 ## Daily Trivia
 
-The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
- 1. HD Graphics 700 
- 2. HD Graphics 600
- 3. HD Graphics 7000
- 4. HD Graphics 500
+Which of the following physical typologies are used with Ethernet Networks?
+ 1. Ring
+ 2. Star
+ 3. Mesh
+ 4. Hex
 
 <details>
   <summary>Answer</summary>
-  HD Graphics 500
+  Star
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  2 hours 8 minutes</strong> since this server shutdown
+Its been <strong>2 days  2 hours 38 minutes</strong> since this server shutdown
