@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Conjunctivitis.com – now that’s a site for sore eyes.
+Where’s the bin? Dad: I haven’t been anywhere!
 
 
 ## Daily Trivia
 
-America Online (AOL) started out as which of these online service providers?
- 1. CompuServe
- 2. Prodigy
- 3. GEnie
- 4. Quantum Link
+In web design, what does CSS stand for?
+ 1. Computer Style Sheet
+ 2. Counter Strike: Source
+ 3. Cascading Style Sheet
+ 4. Corrective Style Sheet
 
 <details>
   <summary>Answer</summary>
-  Quantum Link
+  Cascading Style Sheet
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  19 hours 8 minutes</strong> since this server shutdown
+Its been <strong>1 days  19 hours 38 minutes</strong> since this server shutdown
