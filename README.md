@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I made a playlist for hiking. It has music from Peanuts, The Cranberries, and Eminem. I call it my Trail Mix.
+If you’re struggling to think of what to get someone for Christmas. Get them a fridge and watch their face light up when they open it.
 
 
 ## Daily Trivia
 
-What does CPU stand for?
- 1. Computer Personal Unit
- 2. Central Processing Unit
- 3. Central Process Unit
- 4. Central Processor Unit
+Which of these people was NOT a founder of Apple Inc?
+ 1. Jonathan Ive
+ 2. Steve Wozniak
+ 3. Ronald Wayne
+ 4. Steve Jobs
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  Jonathan Ive
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  17 hours 8 minutes</strong> since this server shutdown
+Its been <strong>1 days  17 hours 38 minutes</strong> since this server shutdown
