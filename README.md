@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I’ve got this disease where I can’t stop making airport puns. The doctor says it terminal.
+I just got fired from a florist, apparently I took too many leaves.
 
 
 ## Daily Trivia
 
-Which of these names was an actual codename for a cancelled Microsoft project?
- 1. Neptune
- 2. Pollux
- 3. Saturn
- 4. Enceladus
+While Apple was formed in California, in which western state was Microsoft founded?
+ 1. Arizona
+ 2. New Mexico
+ 3. Washington
+ 4. Colorado
 
 <details>
   <summary>Answer</summary>
-  Neptune
+  New Mexico
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  20 hours 8 minutes</strong> since this server shutdown
+Its been <strong>1 days  20 hours 38 minutes</strong> since this server shutdown
