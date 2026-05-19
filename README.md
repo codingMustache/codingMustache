@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Did you hear about the campsite that got visited by Bigfoot? It got in tents.
+It was so cold yesterday my computer froze. My own fault though, I left too many windows open.
 
 
 ## Daily Trivia
 
-In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?
- 1. Blue
- 2. Green
- 3. Yellow
- 4. Red
+What is the domain name for the country Tuvalu?
+ 1. .tu
+ 2. .tt
+ 3. .tl
+ 4. .tv
 
 <details>
   <summary>Answer</summary>
-  Green
+  .tv
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  13 hours 8 minutes</strong> since this server shutdown
+Its been <strong>1 days  13 hours 38 minutes</strong> since this server shutdown
