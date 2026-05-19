@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I always wanted to look into why I procrastinate, but I keep putting it off. 
+"I'm sorry." "Hi sorry, I'm dad"
 
 
 ## Daily Trivia
 
-CMOS is tech used for constructing integrated circuits. What does CMOS stand for?
- 1. Complementary magnetic-ohms-semiconductor
- 2. Computer-made operating system
- 3. Computer-made oscillating static
- 4. Complementary metal&ndash;oxide&ndash;semiconductor
+What is largely considered the precursor to the USB format?
+ 1. FireWire
+ 2. PCIe
+ 3. PS/2
+ 4. SVGA
 
 <details>
   <summary>Answer</summary>
-  Complementary metal&ndash;oxide&ndash;semiconductor
+  PS/2
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  7 hours 8 minutes</strong> since this server shutdown
+Its been <strong>1 days  7 hours 38 minutes</strong> since this server shutdown
