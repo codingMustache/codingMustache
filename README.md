@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where’s the bin? Dad: I haven’t been anywhere!
+I’ve got this disease where I can’t stop making airport puns. The doctor says it terminal.
 
 
 ## Daily Trivia
 
-In web design, what does CSS stand for?
- 1. Computer Style Sheet
- 2. Counter Strike: Source
- 3. Cascading Style Sheet
- 4. Corrective Style Sheet
+Which of these names was an actual codename for a cancelled Microsoft project?
+ 1. Neptune
+ 2. Pollux
+ 3. Saturn
+ 4. Enceladus
 
 <details>
   <summary>Answer</summary>
-  Cascading Style Sheet
+  Neptune
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  19 hours 38 minutes</strong> since this server shutdown
+Its been <strong>1 days  20 hours 8 minutes</strong> since this server shutdown
