@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My boss told me to attach two pieces of wood together... I totally nailed it!
+How many hipsters does it take to change a lightbulb? Oh, it's a really obscure number. You've probably never heard of it.
 
 
 ## Daily Trivia
 
-The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?
- 1. Fiji
- 2. Tuvalu
- 3. Marshall Islands
- 4. Micronesia
+What is the name of the default theme that is installed with Windows XP?
+ 1. Neptune
+ 2. Bliss
+ 3. Luna
+ 4. Whistler
 
 <details>
   <summary>Answer</summary>
-  Micronesia
+  Luna
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  16 hours 8 minutes</strong> since this server shutdown
+Its been <strong>1 days  16 hours 38 minutes</strong> since this server shutdown
