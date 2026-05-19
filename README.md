@@ -6,23 +6,25 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the octopus beat the shark in a fight? Because it was well armed.
+Why do pumpkins sit on people’s porches?
+
+They have no hands to knock on the door.
 
 
 ## Daily Trivia
 
-Which of the following computer components can be built using only NAND gates?
- 1. RAM
- 2. CPU
- 3. Register
- 4. ALU
+How many values can a single byte represent?
+ 1. 256
+ 2. 1024
+ 3. 1
+ 4. 8
 
 <details>
   <summary>Answer</summary>
-  ALU
+  256
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  4 hours 38 minutes</strong> since this server shutdown
+Its been <strong>2 days  5 hours 8 minutes</strong> since this server shutdown
