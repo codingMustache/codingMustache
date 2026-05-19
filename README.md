@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do the trees get on the internet? They log on.
+Pie is $2.50 in Jamaica and $3.00 in The Bahamas. These are the pie-rates of the Caribbean.
 
 
 ## Daily Trivia
 
-In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
- 1. echo &quot;Hello World&quot;
- 2. printf(&quot;Hello World&quot;)
- 3. print(&quot;Hello World&quot;)
- 4. console.log(&quot;Hello World&quot;)
+Which programming language was developed by Sun Microsystems in 1995?
+ 1. Python
+ 2. C++
+ 3. Solaris OS
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  print(&quot;Hello World&quot;)
+  Java
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>1 days  8 hours 8 minutes</strong> since this server shutdown
+Its been <strong>1 days  8 hours 38 minutes</strong> since this server shutdown
