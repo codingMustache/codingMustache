@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do fish keep their money? In the riverbank
+Why do crabs never give to charity? Because they’re shellfish.
 
 
 ## Daily Trivia
 
-What does the term GPU stand for?
- 1. Graphics Processing Unit
- 2. Graphical Proprietary Unit
- 3. Gaming Processor Unit
- 4. Graphite Producing Unit
+How many values can a single byte represent?
+ 1. 256
+ 2. 8
+ 3. 1
+ 4. 1024
 
 <details>
   <summary>Answer</summary>
-  Graphics Processing Unit
+  256
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  6 hours 38 minutes</strong> since this server shutdown
+Its been <strong>2 days  7 hours 8 minutes</strong> since this server shutdown
