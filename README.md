@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a cow with two legs? Lean beef.
+Frankenstein enters a bodybuilding competition and finds he has seriously misunderstood the objective.
 
 
 ## Daily Trivia
 
-Which one of these is not an official development name for a Ubuntu release?
- 1. Trusty Tahr
- 2. Utopic Unicorn
- 3. Wily Werewolf
- 4. Mystic Mansion
+The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
+ 1. HD Graphics 700 
+ 2. HD Graphics 600
+ 3. HD Graphics 7000
+ 4. HD Graphics 500
 
 <details>
   <summary>Answer</summary>
-  Mystic Mansion
+  HD Graphics 500
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  23 hours 8 minutes</strong> since this server shutdown
+Its been <strong>2 days  23 hours 38 minutes</strong> since this server shutdown
