@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a fashionable lawn statue with an excellent sense of rhythmn? A metro-gnome
+How are false teeth like stars? They come out at night!
 
 
 ## Daily Trivia
 
-In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
- 1. print(&quot;Hello World&quot;)
- 2. printf(&quot;Hello World&quot;)
- 3. echo &quot;Hello World&quot;
- 4. console.log(&quot;Hello World&quot;)
+In web design, what does CSS stand for?
+ 1. Counter Strike: Source
+ 2. Corrective Style Sheet
+ 3. Cascading Style Sheet
+ 4. Computer Style Sheet
 
 <details>
   <summary>Answer</summary>
-  print(&quot;Hello World&quot;)
+  Cascading Style Sheet
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  2 hours 8 minutes</strong> since this server shutdown
+Its been <strong>3 days  2 hours 38 minutes</strong> since this server shutdown
