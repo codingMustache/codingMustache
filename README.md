@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The invention of the wheel was what got things rolling
+Americans can't switch from pounds to kilograms overnight. That would cause mass confusion.
 
 
 ## Daily Trivia
 
-In the server hosting industry IaaS stands for...
- 1. Internet as a Service
- 2. Infrastructure as a Service
- 3. Internet and a Server
- 4. Infrastructure as a Server
+The acronym &quot;RIP&quot; stands for which of these?
+ 1. Regular Interval Processes
+ 2. Runtime Instance Processes
+ 3. Routing Information Protocol
+ 4. Routine Inspection Protocol
 
 <details>
   <summary>Answer</summary>
-  Infrastructure as a Service
+  Routing Information Protocol
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  13 hours 8 minutes</strong> since this server shutdown
+Its been <strong>2 days  13 hours 38 minutes</strong> since this server shutdown
