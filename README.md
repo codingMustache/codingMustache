@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I thought about going on an all-almond diet. But that's just nuts.
+Why did the fireman wear red, white, and blue suspenders? To hold his pants up.
 
 
 ## Daily Trivia
 
-What was the name of the image that features as the default background wallpaper for Windows XP?
- 1. Bliss
- 2. Tulips
- 3. Red moon desert
- 4. Azul
+According to the International System of Units, how many bytes are in a kilobyte of RAM?
+ 1. 512
+ 2. 1024
+ 3. 1000
+ 4. 500
 
 <details>
   <summary>Answer</summary>
-  Bliss
+  1000
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  11 hours 8 minutes</strong> since this server shutdown
+Its been <strong>2 days  11 hours 38 minutes</strong> since this server shutdown
