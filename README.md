@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What’s the longest word in the dictionary? Smiles. Because there’s a mile between the two S’s.
+I been watching a channel on TV that is strictly just about origami — of course it is paper-view.
 
 
 ## Daily Trivia
 
-What is the domain name for the country Tuvalu?
- 1. .tl
- 2. .tv
- 3. .tt
- 4. .tu
+Which one of these is not an official development name for a Ubuntu release?
+ 1. Wily Werewolf
+ 2. Utopic Unicorn
+ 3. Mystic Mansion
+ 4. Trusty Tahr
 
 <details>
   <summary>Answer</summary>
-  .tv
+  Mystic Mansion
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  14 hours 38 minutes</strong> since this server shutdown
+Its been <strong>2 days  15 hours 8 minutes</strong> since this server shutdown
