@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was ten scared of seven? Because seven ate nine.
+My friend said to me: "What rhymes with orange" I said: "no it doesn't"
 
 
 ## Daily Trivia
 
-What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
- 1. Transport
- 2. Network
- 3. Session
- 4. Data link
+What did the name of the Tor Anonymity Network orignially stand for?
+ 1. The Orange Router
+ 2. The Ominous Router
+ 3. The Onion Router
+ 4. The Only Router
 
 <details>
   <summary>Answer</summary>
-  Transport
+  The Onion Router
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  12 hours 8 minutes</strong> since this server shutdown
+Its been <strong>2 days  12 hours 38 minutes</strong> since this server shutdown
