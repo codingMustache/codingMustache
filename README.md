@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The other day, my wife asked me to pass her lipstick but I accidentally passed her a glue stick. She still isn't talking to me.
+What’s the longest word in the dictionary? Smiles. Because there’s a mile between the two S’s.
 
 
 ## Daily Trivia
 
-In computing, what does LAN stand for?
- 1. Long Antenna Node
- 2. Light Access Node
- 3. Land Address Navigation
- 4. Local Area Network
+What is the domain name for the country Tuvalu?
+ 1. .tl
+ 2. .tv
+ 3. .tt
+ 4. .tu
 
 <details>
   <summary>Answer</summary>
-  Local Area Network
+  .tv
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  14 hours 8 minutes</strong> since this server shutdown
+Its been <strong>2 days  14 hours 38 minutes</strong> since this server shutdown
