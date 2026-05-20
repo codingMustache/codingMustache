@@ -11,18 +11,18 @@ I been watching a channel on TV that is strictly just about origami — of cours
 
 ## Daily Trivia
 
-Which one of these is not an official development name for a Ubuntu release?
- 1. Wily Werewolf
- 2. Utopic Unicorn
- 3. Mystic Mansion
- 4. Trusty Tahr
+America Online (AOL) started out as which of these online service providers?
+ 1. Quantum Link
+ 2. GEnie
+ 3. CompuServe
+ 4. Prodigy
 
 <details>
   <summary>Answer</summary>
-  Mystic Mansion
+  Quantum Link
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  15 hours 8 minutes</strong> since this server shutdown
+Its been <strong>2 days  15 hours 38 minutes</strong> since this server shutdown
