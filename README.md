@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Frankenstein enters a bodybuilding competition and finds he has seriously misunderstood the objective.
+Do you want a brief explanation of what an acorn is? In a nutshell, it's an oak tree.
 
 
 ## Daily Trivia
 
-The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
- 1. HD Graphics 700 
- 2. HD Graphics 600
- 3. HD Graphics 7000
- 4. HD Graphics 500
+What is the name of Layer 7 of the OSI model?
+ 1. Session
+ 2. Present
+ 3. Application
+ 4. Network
 
 <details>
   <summary>Answer</summary>
-  HD Graphics 500
+  Application
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  23 hours 38 minutes</strong> since this server shutdown
+Its been <strong>3 days 8 minutes</strong> since this server shutdown
