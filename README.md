@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Do you want a brief explanation of what an acorn is? In a nutshell, it's an oak tree.
+How can you tell a vampire has a cold? They start coffin.
 
 
 ## Daily Trivia
 
-What is the name of Layer 7 of the OSI model?
- 1. Session
- 2. Present
- 3. Application
- 4. Network
+When did the online streaming service &quot;Mixer&quot; launch?
+ 1. 2011
+ 2. 2013
+ 3. 2016
+ 4. 2009
 
 <details>
   <summary>Answer</summary>
-  Application
+  2016
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days 8 minutes</strong> since this server shutdown
+Its been <strong>3 days 38 minutes</strong> since this server shutdown
