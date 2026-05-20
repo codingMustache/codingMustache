@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I knew i shouldn’t have ate that seafood. Because now i’m feeling a little… Eel
+I really want to buy one of those supermarket checkout dividers, but the cashier keeps putting it back.
 
 
 ## Daily Trivia
 
-In computing, what does LAN stand for?
- 1. Land Address Navigation
- 2. Light Access Node
- 3. Long Antenna Node
- 4. Local Area Network
+Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
+ 1. 44.1 kHz
+ 2. 20.5 kHz
+ 3. 32.0 kHz
+ 4. 1.5 MHz
 
 <details>
   <summary>Answer</summary>
-  Local Area Network
+  44.1 kHz
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  4 hours 38 minutes</strong> since this server shutdown
+Its been <strong>3 days  5 hours 8 minutes</strong> since this server shutdown
