@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I needed a password eight characters long so I picked Snow White and the Seven Dwarfs.
+How do the trees get on the internet? They log on.
 
 
 ## Daily Trivia
 
-Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
- 1. Heartbleed
- 2. Shellscript
- 3. Corrupted Blood
- 4. Shellshock
+Which programming language shares its name with an island in Indonesia?
+ 1. C
+ 2. Python
+ 3. Jakarta
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  Heartbleed
+  Java
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  3 hours 38 minutes</strong> since this server shutdown
+Its been <strong>3 days  4 hours 8 minutes</strong> since this server shutdown
