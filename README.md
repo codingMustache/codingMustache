@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It's only a murder of crows if there's probable caws.
+What do you call a cow with two legs? Lean beef.
 
 
 ## Daily Trivia
 
-The acronym &quot;RIP&quot; stands for which of these?
- 1. Routing Information Protocol
- 2. Routine Inspection Protocol
- 3. Regular Interval Processes
- 4. Runtime Instance Processes
+Which one of these is not an official development name for a Ubuntu release?
+ 1. Trusty Tahr
+ 2. Utopic Unicorn
+ 3. Wily Werewolf
+ 4. Mystic Mansion
 
 <details>
   <summary>Answer</summary>
-  Routing Information Protocol
+  Mystic Mansion
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  22 hours 38 minutes</strong> since this server shutdown
+Its been <strong>2 days  23 hours 8 minutes</strong> since this server shutdown
