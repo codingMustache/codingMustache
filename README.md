@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Americans can't switch from pounds to kilograms overnight. That would cause mass confusion.
+The other day, my wife asked me to pass her lipstick but I accidentally passed her a glue stick. She still isn't talking to me.
 
 
 ## Daily Trivia
 
-The acronym &quot;RIP&quot; stands for which of these?
- 1. Regular Interval Processes
- 2. Runtime Instance Processes
- 3. Routing Information Protocol
- 4. Routine Inspection Protocol
+In computing, what does LAN stand for?
+ 1. Long Antenna Node
+ 2. Light Access Node
+ 3. Land Address Navigation
+ 4. Local Area Network
 
 <details>
   <summary>Answer</summary>
-  Routing Information Protocol
+  Local Area Network
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  13 hours 38 minutes</strong> since this server shutdown
+Its been <strong>2 days  14 hours 8 minutes</strong> since this server shutdown
