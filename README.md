@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did one nut say as he chased another nut?  I'm a cashew!
+What did one plate say to the other plate? Dinner is on me!
 
 
 ## Daily Trivia
 
-Which of the following languages is used as a scripting language in the Unity 3D game engine?
- 1. C#
- 2. C++
- 3. Java
- 4. Objective-C
+What internet protocol was documented in RFC 1459?
+ 1. IRC
+ 2. FTP
+ 3. HTTPS
+ 4. HTTP
 
 <details>
   <summary>Answer</summary>
-  C#
+  IRC
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  16 hours 38 minutes</strong> since this server shutdown
+Its been <strong>2 days  17 hours 8 minutes</strong> since this server shutdown
