@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a cow with no legs? Ground beef.
+I have kleptomania, but when it gets bad, I take something for it.
 
 
 ## Daily Trivia
 
-On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
- 1. Percent Sign
- 2. Dollar Sign
- 3. Exclamation Mark
- 4. Asterisk
+In programming, what do you call functions with the same name but different implementations?
+ 1. Overriding
+ 2. Abstracting
+ 3. Inheriting
+ 4. Overloading
 
 <details>
   <summary>Answer</summary>
-  Exclamation Mark
+  Overloading
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  10 hours 8 minutes</strong> since this server shutdown
+Its been <strong>2 days  10 hours 38 minutes</strong> since this server shutdown
