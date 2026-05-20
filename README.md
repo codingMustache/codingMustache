@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is the hardest part about sky diving? The ground.
+Where do fish keep their money? In the riverbank
 
 
 ## Daily Trivia
 
-Linus Torvalds created which of these?
- 1. Linux
- 2. Wikipedia
- 3. Python
- 4. Microsoft Windows
+What does the term GPU stand for?
+ 1. Graphics Processing Unit
+ 2. Graphical Proprietary Unit
+ 3. Gaming Processor Unit
+ 4. Graphite Producing Unit
 
 <details>
   <summary>Answer</summary>
-  Linux
+  Graphics Processing Unit
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>2 days  6 hours 8 minutes</strong> since this server shutdown
+Its been <strong>2 days  6 hours 38 minutes</strong> since this server shutdown
