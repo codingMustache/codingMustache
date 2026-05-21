@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What’s brown and sounds like a bell? Dung!
+Why do bees have sticky hair? Because they use honey combs!
 
 
 ## Daily Trivia
 
-What does GHz stand for?
- 1. Gigahotz
- 2. Gigahetz
- 3. Gigahatz
- 4. Gigahertz
+What vulnerability ranked #1 on the OWASP Top 10 in 2013?
+ 1. Broken Authentication
+ 2. Injection 
+ 3. Cross-Site Scripting
+ 4. Insecure Direct Object References
 
 <details>
   <summary>Answer</summary>
-  Gigahertz
+  Injection 
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  14 hours 8 minutes</strong> since this server shutdown
+Its been <strong>3 days  14 hours 38 minutes</strong> since this server shutdown
