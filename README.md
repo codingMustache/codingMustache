@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Coffee has a tough time at my house, every morning it gets mugged.
+I went to a Foo Fighters Concert once... It was Everlong...
 
 
 ## Daily Trivia
 
-What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
- 1. Data link
- 2. Session
- 3. Network
- 4. Transport
+Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
+ 1. 44.1 kHz
+ 2. 20.5 kHz
+ 3. 1.5 MHz
+ 4. 32.0 kHz
 
 <details>
   <summary>Answer</summary>
-  Transport
+  44.1 kHz
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  19 hours 38 minutes</strong> since this server shutdown
+Its been <strong>3 days  20 hours 8 minutes</strong> since this server shutdown
