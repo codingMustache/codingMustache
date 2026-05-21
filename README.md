@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I’ve got this disease where I can’t stop making airport puns. The doctor says it terminal.
+A girl once asked me what my heart desired, apparently blood, oxygen and neural messages were all wrong answers
 
 
 ## Daily Trivia
 
-What does the term GPU stand for?
- 1. Gaming Processor Unit
- 2. Graphite Producing Unit
- 3. Graphical Proprietary Unit
- 4. Graphics Processing Unit
+What was Bitcoin&#039;s block size limit in 2010?
+ 1. 1 TB
+ 2. 1 MB
+ 3. 1 KB
+ 4. 1GB
 
 <details>
   <summary>Answer</summary>
-  Graphics Processing Unit
+  1 MB
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  12 hours 38 minutes</strong> since this server shutdown
+Its been <strong>3 days  13 hours 8 minutes</strong> since this server shutdown
