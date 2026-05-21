@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-When people are sad, I sometimes let them colour in my tattoos. Sometimes all they need is a shoulder to crayon.
+They say Dodger Stadium can hold up to fifty-six thousand people, but that is just a ballpark figure.
 
 
 ## Daily Trivia
 
-The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
- 1. Commodore Business Machines
- 2. Amstrad PLC
- 3. Sinclair Research
- 4. Acorn Computers
+What was Bitcoin&#039;s block size limit in 2010?
+ 1. 1 TB
+ 2. 1 KB
+ 3. 1GB
+ 4. 1 MB
 
 <details>
   <summary>Answer</summary>
-  Acorn Computers
+  1 MB
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  10 hours 8 minutes</strong> since this server shutdown
+Its been <strong>3 days  10 hours 38 minutes</strong> since this server shutdown
