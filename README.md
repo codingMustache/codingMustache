@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are fish easy to weigh? Because they have their own scales.
+Why can't a bicycle stand on its own? It's two-tired.
 
 
 ## Daily Trivia
 
-What programming language was GitHub written in?
- 1. Ruby
- 2. Lua
- 3. Python
- 4. JavaScript
+What kind of memory is used on memory cache?
+ 1. Flash
+ 2. SRAM
+ 3. ROM
+ 4. DRAM
 
 <details>
   <summary>Answer</summary>
-  Ruby
+  SRAM
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  3 hours 8 minutes</strong> since this server shutdown
+Its been <strong>4 days  3 hours 38 minutes</strong> since this server shutdown
