@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How was the snow globe feeling after the storm? A little shaken.
+What’s brown and sounds like a bell? Dung!
 
 
 ## Daily Trivia
 
-The numbering system with a radix of 16 is more commonly referred to as 
- 1. Hexidecimal
- 2. Octal
- 3. Duodecimal
- 4. Binary
+What does GHz stand for?
+ 1. Gigahotz
+ 2. Gigahetz
+ 3. Gigahatz
+ 4. Gigahertz
 
 <details>
   <summary>Answer</summary>
-  Hexidecimal
+  Gigahertz
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  13 hours 38 minutes</strong> since this server shutdown
+Its been <strong>3 days  14 hours 8 minutes</strong> since this server shutdown
