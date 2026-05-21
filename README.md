@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-When people are sad, I sometimes let them colour in my tattoos. Sometimes all they need is a shoulder to crayon.
+When does a joke become a dad joke? When it becomes apparent.
 
 
 ## Daily Trivia
 
-What does SSD stand for?
- 1. Source Solution Drive
- 2. Solid State Drive
- 3. Solid State Disk
- 4. Solution Source Disk
+The Harvard architecture for micro-controllers added which additional bus?
+ 1. Instruction
+ 2. Control
+ 3. Address
+ 4. Data
 
 <details>
   <summary>Answer</summary>
-  Solid State Drive
+  Instruction
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  7 hours 8 minutes</strong> since this server shutdown
+Its been <strong>3 days  7 hours 38 minutes</strong> since this server shutdown
