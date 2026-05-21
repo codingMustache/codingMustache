@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A girl once asked me what my heart desired, apparently blood, oxygen and neural messages were all wrong answers
+How was the snow globe feeling after the storm? A little shaken.
 
 
 ## Daily Trivia
 
-What was Bitcoin&#039;s block size limit in 2010?
- 1. 1 TB
- 2. 1 MB
- 3. 1 KB
- 4. 1GB
+The numbering system with a radix of 16 is more commonly referred to as 
+ 1. Hexidecimal
+ 2. Octal
+ 3. Duodecimal
+ 4. Binary
 
 <details>
   <summary>Answer</summary>
-  1 MB
+  Hexidecimal
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  13 hours 8 minutes</strong> since this server shutdown
+Its been <strong>3 days  13 hours 38 minutes</strong> since this server shutdown
