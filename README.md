@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a magician who has lost their magic? Ian.
+The word queue is ironic. It's just q with a bunch of silent letters waiting in line.
 
 
 ## Daily Trivia
 
-What does GHz stand for?
- 1. Gigahatz
- 2. Gigahetz
- 3. Gigahotz
- 4. Gigahertz
+What does RAID stand for?
+ 1. Rapid Access for Indexed Devices
+ 2. Redundant Array of Independent Disks
+ 3. Range of Applications with Identical Designs
+ 4. Randomized Abstract Identification Description
 
 <details>
   <summary>Answer</summary>
-  Gigahertz
+  Redundant Array of Independent Disks
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  21 hours 8 minutes</strong> since this server shutdown
+Its been <strong>3 days  21 hours 38 minutes</strong> since this server shutdown
