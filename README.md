@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why can't a bicycle stand on its own? It's two-tired.
+What kind of magic do cows believe in? MOODOO.
 
 
 ## Daily Trivia
 
-What kind of memory is used on memory cache?
- 1. Flash
- 2. SRAM
- 3. ROM
- 4. DRAM
+What does the acronym CDN stand for in terms of networking?
+ 1. Content Delivery Network
+ 2. Content Distribution Network
+ 3. Computational Data Network
+ 4. Compressed Data Network
 
 <details>
   <summary>Answer</summary>
-  SRAM
+  Content Delivery Network
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  3 hours 38 minutes</strong> since this server shutdown
+Its been <strong>4 days  4 hours 8 minutes</strong> since this server shutdown
