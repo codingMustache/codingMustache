@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the late tomato say to the early tomato? I’ll ketch up
+Where do rabbits go after they get married? On a bunny-moon.
 
 
 ## Daily Trivia
 
-When was the programming language &quot;C#&quot; released?
- 1. 2000
- 2. 2001
- 3. 1998
- 4. 1999
+Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
+ 1. Shellscript
+ 2. Heartbleed
+ 3. Corrupted Blood
+ 4. Shellshock
 
 <details>
   <summary>Answer</summary>
-  2000
+  Heartbleed
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  18 hours 8 minutes</strong> since this server shutdown
+Its been <strong>3 days  18 hours 38 minutes</strong> since this server shutdown
