@@ -6,16 +6,16 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-This furniture store keeps emailing me, all I wanted was one night stand!
+Why did the kid throw the clock out the window? He wanted to see time fly!
 
 
 ## Daily Trivia
 
 The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
- 1. Amstrad PLC
- 2. Acorn Computers
- 3. Commodore Business Machines
- 4. Sinclair Research
+ 1. Sinclair Research
+ 2. Commodore Business Machines
+ 3. Acorn Computers
+ 4. Amstrad PLC
 
 <details>
   <summary>Answer</summary>
@@ -25,4 +25,4 @@ The Electron computer was released in Britain during 1983 for the home computing
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  11 hours 38 minutes</strong> since this server shutdown
+Its been <strong>3 days  12 hours 8 minutes</strong> since this server shutdown
