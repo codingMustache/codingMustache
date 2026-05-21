@@ -6,24 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-"Dad, I'm cold."
-"Go stand in the corner, I hear it's 90 degrees."
+Have you ever seen fruit preserves being made? It's jarring.
 
 
 ## Daily Trivia
 
-What is the domain name for the country Tuvalu?
- 1. .tv
- 2. .tt
- 3. .tl
- 4. .tu
+Which of these is not a key value of Agile software development?
+ 1. Comprehensive documentation
+ 2. Responding to change
+ 3. Customer collaboration
+ 4. Individuals and interactions
 
 <details>
   <summary>Answer</summary>
-  .tv
+  Comprehensive documentation
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  23 hours 38 minutes</strong> since this server shutdown
+Its been <strong>4 days 8 minutes</strong> since this server shutdown
