@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do the trees get on the internet? They log on.
+I burned 2000 calories today, I left my food in the oven for too long.
 
 
 ## Daily Trivia
 
-Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
- 1. Cheetah
- 2. Leopard
- 3. Puma
- 4. Tiger
+Australia, Japan, and Southeast Asia are in which ITU Region?
+ 1. Region 2
+ 2. Region 3
+ 3. Region 1
+ 4. Region 4
 
 <details>
   <summary>Answer</summary>
-  Cheetah
+  Region 3
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  2 hours 8 minutes</strong> since this server shutdown
+Its been <strong>4 days  2 hours 38 minutes</strong> since this server shutdown
