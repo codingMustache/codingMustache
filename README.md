@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do bees have sticky hair? Because they use honey combs!
+I ordered a chicken and an egg from Amazon. I'll let you know.
 
 
 ## Daily Trivia
 
-What vulnerability ranked #1 on the OWASP Top 10 in 2013?
- 1. Broken Authentication
- 2. Injection 
- 3. Cross-Site Scripting
- 4. Insecure Direct Object References
+In networking, what does OSPF stand for?
+ 1. Open Signal Path Finder
+ 2. Order State Part First
+ 3. Open Shortest Path First
+ 4. Order Sense Ping Find
 
 <details>
   <summary>Answer</summary>
-  Injection 
+  Open Shortest Path First
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  14 hours 38 minutes</strong> since this server shutdown
+Its been <strong>3 days  15 hours 8 minutes</strong> since this server shutdown
