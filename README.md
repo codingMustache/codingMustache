@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I burned 2000 calories today, I left my food in the oven for too long.
+How do the trees get on the internet? They log on.
 
 
 ## Daily Trivia
 
-Which of the following languages is used as a scripting language in the Unity 3D game engine?
- 1. Java
- 2. C++
- 3. Objective-C
- 4. C#
+Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
+ 1. Cheetah
+ 2. Leopard
+ 3. Puma
+ 4. Tiger
 
 <details>
   <summary>Answer</summary>
-  C#
+  Cheetah
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  1 hours 38 minutes</strong> since this server shutdown
+Its been <strong>4 days  2 hours 8 minutes</strong> since this server shutdown
