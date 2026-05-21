@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do bananas have to put on sunscreen before they go to the beach? Because they might peel!
+What do you call an alligator in a vest? An in-vest-igator!
 
 
 ## Daily Trivia
 
-According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:
- 1. A&#039;B + B&#039;A
- 2. A&#039; + B&#039;
- 3. A&#039;B&#039;
- 4. AB&#039; + AB
+Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
+ 1. Puma
+ 2. Tiger
+ 3. Leopard
+ 4. Cheetah
 
 <details>
   <summary>Answer</summary>
-  A&#039; + B&#039;
+  Cheetah
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days 38 minutes</strong> since this server shutdown
+Its been <strong>4 days  1 hours 8 minutes</strong> since this server shutdown
