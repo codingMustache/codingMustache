@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I really want to buy one of those supermarket checkout dividers, but the cashier keeps putting it back.
+What kind of tree fits in your hand? A palm tree!
 
 
 ## Daily Trivia
 
-Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
- 1. 44.1 kHz
- 2. 20.5 kHz
- 3. 32.0 kHz
- 4. 1.5 MHz
+What does the DOS in Microsoft&#039;s first operating system &quot;MS-DOS&quot; stand for?
+ 1. Dumb Operating System
+ 2. Disk Operating System
+ 3. Driver Oriented System
+ 4. Diskless Operating System
 
 <details>
   <summary>Answer</summary>
-  44.1 kHz
+  Disk Operating System
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  5 hours 8 minutes</strong> since this server shutdown
+Its been <strong>3 days  5 hours 38 minutes</strong> since this server shutdown
