@@ -6,23 +6,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why is the new Kindle screen textured to look like paper? So you feel write at home.
+"Dad, I'm cold."
+"Go stand in the corner, I hear it's 90 degrees."
 
 
 ## Daily Trivia
 
-CMOS is tech used for constructing integrated circuits. What does CMOS stand for?
- 1. Complementary metal&ndash;oxide&ndash;semiconductor
- 2. Complementary magnetic-ohms-semiconductor
- 3. Computer-made operating system
- 4. Computer-made oscillating static
+What is the domain name for the country Tuvalu?
+ 1. .tv
+ 2. .tt
+ 3. .tl
+ 4. .tu
 
 <details>
   <summary>Answer</summary>
-  Complementary metal&ndash;oxide&ndash;semiconductor
+  .tv
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  23 hours 8 minutes</strong> since this server shutdown
+Its been <strong>3 days  23 hours 38 minutes</strong> since this server shutdown
