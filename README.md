@@ -6,24 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do cats write notes?
-Scratch Paper!
+How do you fix a damaged jack-o-lantern? You use a pumpkin patch.
 
 
 ## Daily Trivia
 
-Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
- 1. JavaScript
- 2. Python
- 3. C#
- 4. PHP
+Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
+ 1. Overstock
+ 2. eBay
+ 3. Amazon
+ 4. Shopify
 
 <details>
   <summary>Answer</summary>
-  JavaScript
+  Amazon
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  17 hours 8 minutes</strong> since this server shutdown
+Its been <strong>3 days  17 hours 38 minutes</strong> since this server shutdown
