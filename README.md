@@ -6,23 +6,25 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What musical instrument is found in the bathroom? A tuba toothpaste.
+Never Trust Someone With Graph Paper...
+
+They're always plotting something.
 
 
 ## Daily Trivia
 
-Generally, which component of a computer draws the most power?
- 1. Video Card
- 2. Power Supply
- 3. Processor
- 4. Hard Drive
+Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
+ 1. Shopify
+ 2. Overstock
+ 3. eBay
+ 4. Amazon
 
 <details>
   <summary>Answer</summary>
-  Video Card
+  Amazon
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  15 hours 38 minutes</strong> since this server shutdown
+Its been <strong>3 days  16 hours 8 minutes</strong> since this server shutdown
