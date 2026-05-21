@@ -6,24 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why don't you find hippopotamuses hiding in trees?
-They're really good at it.
+This furniture store keeps emailing me, all I wanted was one night stand!
 
 
 ## Daily Trivia
 
-What did the name of the Tor Anonymity Network orignially stand for?
- 1. The Only Router
- 2. The Orange Router
- 3. The Ominous Router
- 4. The Onion Router
+The Electron computer was released in Britain during 1983 for the home computing market, by which company? 
+ 1. Amstrad PLC
+ 2. Acorn Computers
+ 3. Commodore Business Machines
+ 4. Sinclair Research
 
 <details>
   <summary>Answer</summary>
-  The Onion Router
+  Acorn Computers
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  11 hours 8 minutes</strong> since this server shutdown
+Its been <strong>3 days  11 hours 38 minutes</strong> since this server shutdown
