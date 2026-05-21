@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Have you ever seen fruit preserves being made? It's jarring.
+Why do bananas have to put on sunscreen before they go to the beach? Because they might peel!
 
 
 ## Daily Trivia
 
-Which of these is not a key value of Agile software development?
- 1. Comprehensive documentation
- 2. Responding to change
- 3. Customer collaboration
- 4. Individuals and interactions
+According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:
+ 1. A&#039;B + B&#039;A
+ 2. A&#039; + B&#039;
+ 3. A&#039;B&#039;
+ 4. AB&#039; + AB
 
 <details>
   <summary>Answer</summary>
-  Comprehensive documentation
+  A&#039; + B&#039;
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days 8 minutes</strong> since this server shutdown
+Its been <strong>4 days 38 minutes</strong> since this server shutdown
