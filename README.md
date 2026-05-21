@@ -6,25 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
- I never wanted to believe that my Dad was stealing from his job as a road worker. But when I got home, all the signs were there.
-
-
+I once lost a banana at court but then I appealed. 
 
 
 ## Daily Trivia
 
-Color model CMYK stands for?
- 1. Cyan, Magenta, Yellow, and Khaki
- 2. Cream, Maroon, Yellow, and Black
- 3. Cyan, Magenta, Yellow, and Black
- 4. Cream, Maroon, Yellow, and Khaki
+In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
+ 1. &lt;marquee&gt;&lt;/marquee&gt;
+ 2. &lt;scroll&gt;&lt;/scroll&gt;
+ 3. &lt;move&gt;&lt;/move&gt;
+ 4. &lt;slide&gt;&lt;/slide&gt;
 
 <details>
   <summary>Answer</summary>
-  Cyan, Magenta, Yellow, and Black
+  &lt;marquee&gt;&lt;/marquee&gt;
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  8 hours 38 minutes</strong> since this server shutdown
+Its been <strong>3 days  9 hours 8 minutes</strong> since this server shutdown
