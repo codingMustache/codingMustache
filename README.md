@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do hens stay fit? They always egg-cercise!
+What do you call a fake noodle? An impasta.
 
 
 ## Daily Trivia
 
-In computing, what does MIDI stand for?
- 1. Musical Interface of Digital Instruments
- 2. Musical Instrument Digital Interface
- 3. Musical Instrument Data Interface
- 4. Modular Interface of Digital Instruments
+Which programming language was developed by Sun Microsystems in 1995?
+ 1. Python
+ 2. C++
+ 3. Solaris OS
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  Musical Instrument Digital Interface
+  Java
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  6 hours 8 minutes</strong> since this server shutdown
+Its been <strong>3 days  6 hours 38 minutes</strong> since this server shutdown
