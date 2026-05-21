@@ -6,23 +6,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-They tried to make a diamond shaped like a duck. It quacked under the pressure.
+Where do cats write notes?
+Scratch Paper!
 
 
 ## Daily Trivia
 
-What programming language was GitHub written in?
+Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
  1. JavaScript
  2. Python
- 3. Lua
- 4. Ruby
+ 3. C#
+ 4. PHP
 
 <details>
   <summary>Answer</summary>
-  Ruby
+  JavaScript
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  16 hours 38 minutes</strong> since this server shutdown
+Its been <strong>3 days  17 hours 8 minutes</strong> since this server shutdown
