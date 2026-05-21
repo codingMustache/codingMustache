@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I went to a Foo Fighters Concert once... It was Everlong...
+Where do young cows eat lunch? In the calf-ateria.
 
 
 ## Daily Trivia
 
-Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?
- 1. 44.1 kHz
- 2. 20.5 kHz
- 3. 1.5 MHz
- 4. 32.0 kHz
+In computing, what does LAN stand for?
+ 1. Local Area Network
+ 2. Long Antenna Node
+ 3. Light Access Node
+ 4. Land Address Navigation
 
 <details>
   <summary>Answer</summary>
-  44.1 kHz
+  Local Area Network
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  20 hours 8 minutes</strong> since this server shutdown
+Its been <strong>3 days  20 hours 38 minutes</strong> since this server shutdown
