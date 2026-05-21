@@ -6,25 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Never Trust Someone With Graph Paper...
-
-They're always plotting something.
+They tried to make a diamond shaped like a duck. It quacked under the pressure.
 
 
 ## Daily Trivia
 
-Which internet company began life as an online bookstore called &#039;Cadabra&#039;?
- 1. Shopify
- 2. Overstock
- 3. eBay
- 4. Amazon
+What programming language was GitHub written in?
+ 1. JavaScript
+ 2. Python
+ 3. Lua
+ 4. Ruby
 
 <details>
   <summary>Answer</summary>
-  Amazon
+  Ruby
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>3 days  16 hours 8 minutes</strong> since this server shutdown
+Its been <strong>3 days  16 hours 38 minutes</strong> since this server shutdown
