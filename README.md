@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How many South Americans does it take to change a lightbulb? A Brazilian
+“Hold on, I have something in my shoe”  “I’m pretty sure it’s a foot”
 
 
 ## Daily Trivia
 
-What programming language was GitHub written in?
- 1. Ruby
- 2. Python
- 3. JavaScript
- 4. Lua
+What does the International System of Quantities refer 1024 bytes as?
+ 1. Kibibyte
+ 2. Kelobyte
+ 3. Kilobyte
+ 4. Kylobyte
 
 <details>
   <summary>Answer</summary>
-  Ruby
+  Kibibyte
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  15 hours 8 minutes</strong> since this server shutdown
+Its been <strong>4 days  15 hours 38 minutes</strong> since this server shutdown
