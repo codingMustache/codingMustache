@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-New atoms frequently lose electrons when they fail to keep an ion them.
+Why do birds fly south for the winter? Because it's too far to walk.
 
 
 ## Daily Trivia
 
-How fast is USB 3.1 Gen 2 theoretically?
- 1. 5 Gb/s
- 2. 8 Gb/s
- 3. 1 Gb/s
- 4. 10 Gb/s
+What does RAID stand for?
+ 1. Redundant Array of Independent Disks
+ 2. Rapid Access for Indexed Devices
+ 3. Range of Applications with Identical Designs
+ 4. Randomized Abstract Identification Description
 
 <details>
   <summary>Answer</summary>
-  10 Gb/s
+  Redundant Array of Independent Disks
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  9 hours 8 minutes</strong> since this server shutdown
+Its been <strong>4 days  9 hours 38 minutes</strong> since this server shutdown
