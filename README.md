@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I was going to get a brain transplant, but I changed my mind
+Do you know where you can get chicken broth in bulk? The stock market.
 
 
 ## Daily Trivia
 
-What was the name of the security vulnerability found in Bash in 2014?
- 1. Heartbleed
- 2. Bashbug
- 3. Stagefright
- 4. Shellshock
+Which one of these is not an official development name for a Ubuntu release?
+ 1. Wily Werewolf
+ 2. Trusty Tahr
+ 3. Utopic Unicorn
+ 4. Mystic Mansion
 
 <details>
   <summary>Answer</summary>
-  Shellshock
+  Mystic Mansion
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  21 hours 38 minutes</strong> since this server shutdown
+Its been <strong>4 days  22 hours 8 minutes</strong> since this server shutdown
