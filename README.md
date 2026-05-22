@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a gorilla wearing headphones? Anything you'd like, it can't hear you.
+New atoms frequently lose electrons when they fail to keep an ion them.
 
 
 ## Daily Trivia
 
-The programming language &#039;Swift&#039; was created to replace what other programming language?
- 1. Objective-C
- 2. Ruby
- 3. C#
- 4. C++
+How fast is USB 3.1 Gen 2 theoretically?
+ 1. 5 Gb/s
+ 2. 8 Gb/s
+ 3. 1 Gb/s
+ 4. 10 Gb/s
 
 <details>
   <summary>Answer</summary>
-  Objective-C
+  10 Gb/s
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  8 hours 38 minutes</strong> since this server shutdown
+Its been <strong>4 days  9 hours 8 minutes</strong> since this server shutdown
