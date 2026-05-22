@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a fish wearing a bowtie? Sofishticated.
+Why don't eggs tell jokes? They'd crack each other up
 
 
 ## Daily Trivia
 
-What does the term GPU stand for?
- 1. Graphical Proprietary Unit
- 2. Graphics Processing Unit
- 3. Graphite Producing Unit
- 4. Gaming Processor Unit
+All of the following programs are classified as raster graphics editors EXCEPT:
+ 1. Inkscape
+ 2. Adobe Photoshop
+ 3. GIMP
+ 4. Paint.NET
 
 <details>
   <summary>Answer</summary>
-  Graphics Processing Unit
+  Inkscape
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  3 hours 38 minutes</strong> since this server shutdown
+Its been <strong>5 days  4 hours 8 minutes</strong> since this server shutdown
