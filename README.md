@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My sea sickness comes in waves.
+What did celery say when he broke up with his girlfriend? She wasn't right for me, so I really don't carrot all.
 
 
 ## Daily Trivia
 
-Which of the following is NOT a computer science algorithm?
- 1. Bubble Sort
- 2. Merge Sort
- 3. Quick Sort
- 4. Float Sort
+Which programming language was developed by Sun Microsystems in 1995?
+ 1. C++
+ 2. Solaris OS
+ 3. Java
+ 4. Python
 
 <details>
   <summary>Answer</summary>
-  Float Sort
+  Java
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  20 hours 8 minutes</strong> since this server shutdown
+Its been <strong>4 days  20 hours 38 minutes</strong> since this server shutdown
