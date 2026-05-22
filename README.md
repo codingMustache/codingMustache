@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Do you know where you can get chicken broth in bulk? The stock market.
+Why don’t seagulls fly over the bay? Because then they’d be bay-gulls!
 
 
 ## Daily Trivia
 
-Which one of these is not an official development name for a Ubuntu release?
- 1. Wily Werewolf
- 2. Trusty Tahr
- 3. Utopic Unicorn
- 4. Mystic Mansion
+Which of the following computer components can be built using only NAND gates?
+ 1. ALU
+ 2. Register
+ 3. RAM
+ 4. CPU
 
 <details>
   <summary>Answer</summary>
-  Mystic Mansion
+  ALU
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  22 hours 8 minutes</strong> since this server shutdown
+Its been <strong>4 days  22 hours 38 minutes</strong> since this server shutdown
