@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the scarf say to the hat? You go on ahead, I am going to hang around a bit longer.
+When my wife told me to stop impersonating a flamingo, I had to put my foot down.
 
 
 ## Daily Trivia
 
-What major programming language does Unreal Engine 4 use?
- 1. Assembly
- 2. C#
- 3. ECMAScript
- 4. C++
+Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
+ 1. Corrupted Blood
+ 2. Shellscript
+ 3. Heartbleed
+ 4. Shellshock
 
 <details>
   <summary>Answer</summary>
-  C++
+  Heartbleed
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  10 hours 8 minutes</strong> since this server shutdown
+Its been <strong>4 days  10 hours 38 minutes</strong> since this server shutdown
