@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do birds fly south for the winter? Because it's too far to walk.
+What did the scarf say to the hat? You go on ahead, I am going to hang around a bit longer.
 
 
 ## Daily Trivia
 
-What does RAID stand for?
- 1. Redundant Array of Independent Disks
- 2. Rapid Access for Indexed Devices
- 3. Range of Applications with Identical Designs
- 4. Randomized Abstract Identification Description
+What major programming language does Unreal Engine 4 use?
+ 1. Assembly
+ 2. C#
+ 3. ECMAScript
+ 4. C++
 
 <details>
   <summary>Answer</summary>
-  Redundant Array of Independent Disks
+  C++
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  9 hours 38 minutes</strong> since this server shutdown
+Its been <strong>4 days  10 hours 8 minutes</strong> since this server shutdown
