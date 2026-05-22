@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-When my wife told me to stop impersonating a flamingo, I had to put my foot down.
+The other day, my wife asked me to pass her lipstick but I accidentally passed her a glue stick. She still isn't talking to me.
 
 
 ## Daily Trivia
 
-Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
- 1. Corrupted Blood
- 2. Shellscript
- 3. Heartbleed
- 4. Shellshock
+If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
+ 1. JavaScript
+ 2. C++
+ 3. Binary
+ 4. Python
 
 <details>
   <summary>Answer</summary>
-  Heartbleed
+  Binary
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  10 hours 38 minutes</strong> since this server shutdown
+Its been <strong>4 days  11 hours 8 minutes</strong> since this server shutdown
