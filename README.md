@@ -6,23 +6,25 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Mountains aren't just funny, they are hill areas
+Why do pumpkins sit on people’s porches?
+
+They have no hands to knock on the door.
 
 
 ## Daily Trivia
 
-Which of the following languages is used as a scripting language in the Unity 3D game engine?
- 1. C++
- 2. C#
- 3. Java
- 4. Objective-C
+What port does HTTP run on?
+ 1. 80
+ 2. 23
+ 3. 443
+ 4. 53
 
 <details>
   <summary>Answer</summary>
-  C#
+  80
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  2 hours 8 minutes</strong> since this server shutdown
+Its been <strong>5 days  2 hours 38 minutes</strong> since this server shutdown
