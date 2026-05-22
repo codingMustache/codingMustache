@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-When will the little snake arrive? I don't know but he won't be long...
+Why did the Clydesdale give the pony a glass of water?  Because he was a little horse!
 
 
 ## Daily Trivia
 
-What was the name given to Android 4.3?
- 1. Lollipop
- 2. Nutella
- 3. Froyo
- 4. Jelly Bean
+How many Hz does the video standard PAL support?
+ 1. 25
+ 2. 60
+ 3. 59
+ 4. 50
 
 <details>
   <summary>Answer</summary>
-  Jelly Bean
+  50
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  12 hours 8 minutes</strong> since this server shutdown
+Its been <strong>4 days  12 hours 38 minutes</strong> since this server shutdown
