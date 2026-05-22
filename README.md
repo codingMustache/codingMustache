@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The other day, my wife asked me to pass her lipstick but I accidentally passed her a glue stick. She still isn't talking to me.
+What do you call a fashionable lawn statue with an excellent sense of rhythmn? A metro-gnome
 
 
 ## Daily Trivia
 
-If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
- 1. JavaScript
- 2. C++
- 3. Binary
- 4. Python
+Who is the founder of Palantir?
+ 1. Peter Thiel
+ 2. Jack Dorsey
+ 3. Marc Benioff
+ 4. Mark Zuckerberg
 
 <details>
   <summary>Answer</summary>
-  Binary
+  Peter Thiel
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  11 hours 8 minutes</strong> since this server shutdown
+Its been <strong>4 days  11 hours 38 minutes</strong> since this server shutdown
