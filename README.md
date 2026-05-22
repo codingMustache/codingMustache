@@ -6,25 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do pumpkins sit on people’s porches?
-
-They have no hands to knock on the door.
+Why do trees seem suspicious on sunny days? Dunno, they're just a bit shady.
 
 
 ## Daily Trivia
 
-What port does HTTP run on?
- 1. 80
- 2. 23
- 3. 443
- 4. 53
+In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?
+ 1. Static
+ 2. Final
+ 3. Public
+ 4. Private
 
 <details>
   <summary>Answer</summary>
-  80
+  Final
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  2 hours 38 minutes</strong> since this server shutdown
+Its been <strong>5 days  3 hours 8 minutes</strong> since this server shutdown
