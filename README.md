@@ -6,23 +6,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why are skeletons so calm? Because nothing gets under their skin.
+Cosmetic surgery used to be such a taboo subject.
+Now you can talk about Botox and nobody raises an eyebrow.
 
 
 ## Daily Trivia
 
-CMOS is tech used for constructing integrated circuits. What does CMOS stand for?
- 1. Computer-made operating system
- 2. Computer-made oscillating static
- 3. Complementary metal&ndash;oxide&ndash;semiconductor
- 4. Complementary magnetic-ohms-semiconductor
+What is the commonly used keyboard shortcut for the &#039;Copy&#039; function on Windows OS?
+ 1. Alt + X
+ 2. Alt + C
+ 3. Ctrl + X
+ 4. Ctrl + C
 
 <details>
   <summary>Answer</summary>
-  Complementary metal&ndash;oxide&ndash;semiconductor
+  Ctrl + C
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  19 hours 8 minutes</strong> since this server shutdown
+Its been <strong>4 days  19 hours 38 minutes</strong> since this server shutdown
