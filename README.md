@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The word queue is ironic. It's just q with a bunch of silent letters waiting in line.
+Writing with a broken pencil is pointless.
 
 
 ## Daily Trivia
 
-What did the name of the Tor Anonymity Network orignially stand for?
- 1. The Onion Router
- 2. The Ominous Router
- 3. The Orange Router
- 4. The Only Router
+If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
+ 1. JavaScript
+ 2. Python
+ 3. C++
+ 4. Binary
 
 <details>
   <summary>Answer</summary>
-  The Onion Router
+  Binary
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  6 hours 38 minutes</strong> since this server shutdown
+Its been <strong>4 days  7 hours 8 minutes</strong> since this server shutdown
