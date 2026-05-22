@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you get a baby alien to sleep?  You rocket.
+I started a new business making yachts in my attic this year...the sails are going through the roof
 
 
 ## Daily Trivia
 
-What does the computer software acronym JVM stand for?
- 1. Just Virtual Machine
- 2. Java Visual Machine
- 3. Java Vendor Machine
- 4. Java Virtual Machine
+Which kind of algorithm is Ron Rivest not famous for creating?
+ 1. Asymmetric encryption
+ 2. Hashing algorithm
+ 3. Secret sharing scheme
+ 4. Stream cipher
 
 <details>
   <summary>Answer</summary>
-  Java Virtual Machine
+  Secret sharing scheme
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  13 hours 8 minutes</strong> since this server shutdown
+Its been <strong>4 days  13 hours 38 minutes</strong> since this server shutdown
