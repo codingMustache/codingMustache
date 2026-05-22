@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I started a new business making yachts in my attic this year...the sails are going through the roof
+There are two types of people in this world, those who can extrapolate from incomplete data...
 
 
 ## Daily Trivia
 
-Which kind of algorithm is Ron Rivest not famous for creating?
- 1. Asymmetric encryption
- 2. Hashing algorithm
- 3. Secret sharing scheme
- 4. Stream cipher
+Which of the following computer components can be built using only NAND gates?
+ 1. CPU
+ 2. RAM
+ 3. Register
+ 4. ALU
 
 <details>
   <summary>Answer</summary>
-  Secret sharing scheme
+  ALU
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  13 hours 38 minutes</strong> since this server shutdown
+Its been <strong>4 days  14 hours 8 minutes</strong> since this server shutdown
