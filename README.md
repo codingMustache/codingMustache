@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It was so cold yesterday my computer froze. My own fault though, I left too many windows open.
+The word queue is ironic. It's just q with a bunch of silent letters waiting in line.
 
 
 ## Daily Trivia
 
-What is the name of the default theme that is installed with Windows XP?
- 1. Luna
- 2. Neptune
- 3. Whistler
- 4. Bliss
+What did the name of the Tor Anonymity Network orignially stand for?
+ 1. The Onion Router
+ 2. The Ominous Router
+ 3. The Orange Router
+ 4. The Only Router
 
 <details>
   <summary>Answer</summary>
-  Luna
+  The Onion Router
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  6 hours 8 minutes</strong> since this server shutdown
+Its been <strong>4 days  6 hours 38 minutes</strong> since this server shutdown
