@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why don't eggs tell jokes? They'd crack each other up
+Why did the octopus beat the shark in a fight? Because it was well armed.
 
 
 ## Daily Trivia
 
-All of the following programs are classified as raster graphics editors EXCEPT:
- 1. Inkscape
- 2. Adobe Photoshop
- 3. GIMP
- 4. Paint.NET
+What does CPU stand for?
+ 1. Central Processing Unit
+ 2. Computer Personal Unit
+ 3. Central Process Unit
+ 4. Central Processor Unit
 
 <details>
   <summary>Answer</summary>
-  Inkscape
+  Central Processing Unit
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  4 hours 8 minutes</strong> since this server shutdown
+Its been <strong>5 days  4 hours 38 minutes</strong> since this server shutdown
