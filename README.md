@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Writing with a broken pencil is pointless.
+What do you call a cow with no legs? Ground beef.
 
 
 ## Daily Trivia
 
-If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
- 1. JavaScript
- 2. Python
- 3. C++
- 4. Binary
+What does the term USB stand for?
+ 1. Universal Simtex Blot
+ 2. Unified Signal Bus
+ 3. Unityped Semtex Backer
+ 4. Universal Serial Bus
 
 <details>
   <summary>Answer</summary>
-  Binary
+  Universal Serial Bus
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  7 hours 8 minutes</strong> since this server shutdown
+Its been <strong>4 days  7 hours 38 minutes</strong> since this server shutdown
