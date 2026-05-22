@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a cow with no legs? Ground beef.
+Why did the girl smear peanut butter on the road? To go with the traffic jam.
 
 
 ## Daily Trivia
 
-What does the term USB stand for?
- 1. Universal Simtex Blot
- 2. Unified Signal Bus
- 3. Unityped Semtex Backer
- 4. Universal Serial Bus
+The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:
+ 1. HD Graphics 700 
+ 2. HD Graphics 7000
+ 3. HD Graphics 500
+ 4. HD Graphics 600
 
 <details>
   <summary>Answer</summary>
-  Universal Serial Bus
+  HD Graphics 500
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  7 hours 38 minutes</strong> since this server shutdown
+Its been <strong>4 days  8 hours 8 minutes</strong> since this server shutdown
