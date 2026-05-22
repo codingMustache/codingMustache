@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did celery say when he broke up with his girlfriend? She wasn't right for me, so I really don't carrot all.
+I gave my friend 10 puns hoping that one of them would make him laugh. Sadly, no pun in ten did.
 
 
 ## Daily Trivia
 
-Which programming language was developed by Sun Microsystems in 1995?
+If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
  1. C++
- 2. Solaris OS
- 3. Java
- 4. Python
+ 2. JavaScript
+ 3. Python
+ 4. Binary
 
 <details>
   <summary>Answer</summary>
-  Java
+  Binary
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>4 days  20 hours 38 minutes</strong> since this server shutdown
+Its been <strong>4 days  21 hours 8 minutes</strong> since this server shutdown
