@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why did the octopus beat the shark in a fight? Because it was well armed.
+What did the Dorito farmer say to the other Dorito farmer? Cool Ranch!
 
 
 ## Daily Trivia
 
-What does CPU stand for?
- 1. Central Processing Unit
- 2. Computer Personal Unit
- 3. Central Process Unit
- 4. Central Processor Unit
+If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
+ 1. Binary
+ 2. Python
+ 3. C++
+ 4. JavaScript
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  Binary
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  4 hours 38 minutes</strong> since this server shutdown
+Its been <strong>5 days  5 hours 8 minutes</strong> since this server shutdown
