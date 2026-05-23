@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A doll was recently found dead in a rice paddy. It's the only known instance of a nick nack paddy wack.
+I can't take my dog to the pond anymore because the ducks keep attacking him. That's what I get for buying a pure bread dog.
 
 
 ## Daily Trivia
 
-What does the &quot;MP&quot; stand for in MP3?
- 1. Moving Picture
- 2. Micro Point
- 3. Multi Pass
- 4. Music Player
+What is the name of the default theme that is installed with Windows XP?
+ 1. Luna
+ 2. Whistler
+ 3. Neptune
+ 4. Bliss
 
 <details>
   <summary>Answer</summary>
-  Moving Picture
+  Luna
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  20 hours 8 minutes</strong> since this server shutdown
+Its been <strong>5 days  20 hours 38 minutes</strong> since this server shutdown
