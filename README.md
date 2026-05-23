@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the Dorito farmer say to the other Dorito farmer? Cool Ranch!
+Why do ducks make great detectives? They always quack the case.
 
 
 ## Daily Trivia
 
-If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
- 1. Binary
- 2. Python
- 3. C++
- 4. JavaScript
+Laserjet and inkjet printers are both examples of what type of printer?
+ 1. Daisywheel printer
+ 2. Impact printer
+ 3. Non-impact printer
+ 4. Dot matrix printer
 
 <details>
   <summary>Answer</summary>
-  Binary
+  Non-impact printer
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  5 hours 8 minutes</strong> since this server shutdown
+Its been <strong>5 days  5 hours 38 minutes</strong> since this server shutdown
