@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do you teach a kid to climb stairs? There is a step by step guide.
+The other day I was listening to a song about superglue, it’s been stuck in my head ever since.
 
 
 ## Daily Trivia
 
-What is the commonly used keyboard shortcut for the &#039;Copy&#039; function on Windows OS?
- 1. Ctrl + C
- 2. Ctrl + X
- 3. Alt + C
- 4. Alt + X
+What is known as &quot;the brain&quot; of the Computer?
+ 1. Graphics Processing Unit
+ 2. Motherboard
+ 3. Central Processing Unit
+ 4. Keyboard
 
 <details>
   <summary>Answer</summary>
-  Ctrl + C
+  Central Processing Unit
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  18 hours 8 minutes</strong> since this server shutdown
+Its been <strong>5 days  18 hours 38 minutes</strong> since this server shutdown
