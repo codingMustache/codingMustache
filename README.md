@@ -6,24 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's the difference between a seal and a sea lion?
-An ion! 
+What do you get if you put a duck in a cement mixer? Quacks in the pavement.
 
 
 ## Daily Trivia
 
-What is the domain name for the country Tuvalu?
- 1. .tv
- 2. .tu
- 3. .tt
- 4. .tl
+What does the &quot;MP&quot; stand for in MP3?
+ 1. Music Player
+ 2. Multi Pass
+ 3. Micro Point
+ 4. Moving Picture
 
 <details>
   <summary>Answer</summary>
-  .tv
+  Moving Picture
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  14 hours 38 minutes</strong> since this server shutdown
+Its been <strong>5 days  15 hours 8 minutes</strong> since this server shutdown
