@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why does Han Solo like gum? It's chewy!
+What do you call a cow on a trampoline? A milk shake!
 
 
 ## Daily Trivia
 
-What was the first Android version specifically optimized for tablets?
- 1. Eclair
- 2. Marshmellow
- 3. Honeycomb
- 4. Froyo
+How many Hz does the video standard PAL support?
+ 1. 50
+ 2. 25
+ 3. 60
+ 4. 59
 
 <details>
   <summary>Answer</summary>
-  Honeycomb
+  50
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  8 hours 8 minutes</strong> since this server shutdown
+Its been <strong>5 days  8 hours 38 minutes</strong> since this server shutdown
