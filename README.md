@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why don't sharks eat clowns?  Because they taste funny.
+Don't buy flowers at a monastery. Because only you can prevent florist friars.
 
 
 ## Daily Trivia
 
-Who is the founder of Palantir?
- 1. Jack Dorsey
- 2. Marc Benioff
- 3. Peter Thiel
- 4. Mark Zuckerberg
+Which computer language would you associate Django framework with?
+ 1. Java
+ 2. C++
+ 3. Python
+ 4. C#
 
 <details>
   <summary>Answer</summary>
-  Peter Thiel
+  Python
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  12 hours 8 minutes</strong> since this server shutdown
+Its been <strong>5 days  12 hours 38 minutes</strong> since this server shutdown
