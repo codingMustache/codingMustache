@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-How do the trees get on the internet? They log on.
+When my wife told me to stop impersonating a flamingo, I had to put my foot down.
 
 
 ## Daily Trivia
 
-Approximately how many Apple I personal computers were created?
- 1. 200
- 2. 1000
- 3. 500
- 4. 100
+What kind of memory is used on memory cache?
+ 1. SRAM
+ 2. Flash
+ 3. DRAM
+ 4. ROM
 
 <details>
   <summary>Answer</summary>
-  200
+  SRAM
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  2 hours 38 minutes</strong> since this server shutdown
+Its been <strong>6 days  3 hours 8 minutes</strong> since this server shutdown
