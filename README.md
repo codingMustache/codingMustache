@@ -6,23 +6,24 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-The other day I was listening to a song about superglue, it’s been stuck in my head ever since.
+I fear for the calendar, its days are numbered.
+
 
 
 ## Daily Trivia
 
-What is known as &quot;the brain&quot; of the Computer?
- 1. Graphics Processing Unit
- 2. Motherboard
- 3. Central Processing Unit
- 4. Keyboard
+What kind of memory is used on memory cache?
+ 1. DRAM
+ 2. ROM
+ 3. Flash
+ 4. SRAM
 
 <details>
   <summary>Answer</summary>
-  Central Processing Unit
+  SRAM
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  18 hours 38 minutes</strong> since this server shutdown
+Its been <strong>5 days  19 hours 8 minutes</strong> since this server shutdown
