@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What is a witch's favorite subject in school? Spelling!
+What did the doctor say to the gingerbread man who broke his leg? Try icing it.
 
 
 ## Daily Trivia
 
-How long is an IPv6 address?
- 1. 128 bytes
- 2. 64 bits
- 3. 128 bits
- 4. 32 bits
+Unix Time is defined as the number of seconds that have elapsed since when?
+ 1. Midnight, January 1, 1970
+ 2. Midnight, July 4, 1980
+ 3. Midnight on the creator of Unix&#039;s birthday
+ 4. Midnight, July 4, 1976
 
 <details>
   <summary>Answer</summary>
-  128 bits
+  Midnight, January 1, 1970
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  17 hours 8 minutes</strong> since this server shutdown
+Its been <strong>5 days  17 hours 38 minutes</strong> since this server shutdown
