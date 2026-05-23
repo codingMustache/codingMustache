@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I heard there was a new store called Moderation. They have everything there
+What's orange and sounds like a parrot? A Carrot.
 
 
 ## Daily Trivia
 
-Which programming language was developed by Sun Microsystems in 1995?
- 1. Java
- 2. C++
- 3. Solaris OS
- 4. Python
+The Harvard architecture for micro-controllers added which additional bus?
+ 1. Instruction
+ 2. Control
+ 3. Data
+ 4. Address
 
 <details>
   <summary>Answer</summary>
-  Java
+  Instruction
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  21 hours 38 minutes</strong> since this server shutdown
+Its been <strong>5 days  22 hours 8 minutes</strong> since this server shutdown
