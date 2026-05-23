@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Yesterday, I accidentally swallowed some food coloring. The doctor says I’m okay, but I feel like I’ve dyed a little inside.
+Why does Han Solo like gum? It's chewy!
 
 
 ## Daily Trivia
 
-Which RAID array type is associated with data mirroring?
- 1. RAID 5
- 2. RAID 10
- 3. RAID 0
- 4. RAID 1
+What was the first Android version specifically optimized for tablets?
+ 1. Eclair
+ 2. Marshmellow
+ 3. Honeycomb
+ 4. Froyo
 
 <details>
   <summary>Answer</summary>
-  RAID 1
+  Honeycomb
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  7 hours 38 minutes</strong> since this server shutdown
+Its been <strong>5 days  8 hours 8 minutes</strong> since this server shutdown
