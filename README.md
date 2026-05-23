@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What do you call a cow on a trampoline? A milk shake!
+Why was the shirt happy to hang around the tank top? Because it was armless
 
 
 ## Daily Trivia
 
-How many Hz does the video standard PAL support?
- 1. 50
- 2. 25
- 3. 60
- 4. 59
+Color model CMYK stands for?
+ 1. Cream, Maroon, Yellow, and Black
+ 2. Cyan, Magenta, Yellow, and Khaki
+ 3. Cream, Maroon, Yellow, and Khaki
+ 4. Cyan, Magenta, Yellow, and Black
 
 <details>
   <summary>Answer</summary>
-  50
+  Cyan, Magenta, Yellow, and Black
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  8 hours 38 minutes</strong> since this server shutdown
+Its been <strong>5 days  9 hours 8 minutes</strong> since this server shutdown
