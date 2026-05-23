@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Yesterday I confused the words "jacuzzi" and "yakuza". Now I'm in hot water with the Japanese mafia.
+Dad died because he couldn't remember his blood type. I will never forget his last words. Be positive.
 
 
 ## Daily Trivia
 
-What is the most preferred image format used for logos in the Wikimedia database?
- 1. .png
- 2. .gif
- 3. .svg
- 4. .jpeg
+Which programming language was developed by Sun Microsystems in 1995?
+ 1. Python
+ 2. Solaris OS
+ 3. C++
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  .svg
+  Java
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  22 hours 38 minutes</strong> since this server shutdown
+Its been <strong>5 days  23 hours 8 minutes</strong> since this server shutdown
