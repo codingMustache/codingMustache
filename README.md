@@ -6,23 +6,25 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I used to work in a shoe recycling shop. It was sole destroying.
+Why do pumpkins sit on people’s porches?
+
+They have no hands to knock on the door.
 
 
 ## Daily Trivia
 
-What does RAID stand for?
- 1. Rapid Access for Indexed Devices
- 2. Range of Applications with Identical Designs
- 3. Randomized Abstract Identification Description
- 4. Redundant Array of Independent Disks
+What does the International System of Quantities refer 1024 bytes as?
+ 1. Kibibyte
+ 2. Kelobyte
+ 3. Kilobyte
+ 4. Kylobyte
 
 <details>
   <summary>Answer</summary>
-  Redundant Array of Independent Disks
+  Kibibyte
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  13 hours 38 minutes</strong> since this server shutdown
+Its been <strong>5 days  14 hours 8 minutes</strong> since this server shutdown
