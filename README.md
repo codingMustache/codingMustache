@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why do ducks make great detectives? They always quack the case.
+Why was Pavlov's beard so soft?  Because he conditioned it.
 
 
 ## Daily Trivia
 
-Laserjet and inkjet printers are both examples of what type of printer?
- 1. Daisywheel printer
- 2. Impact printer
- 3. Non-impact printer
- 4. Dot matrix printer
+Which kind of algorithm is Ron Rivest not famous for creating?
+ 1. Hashing algorithm
+ 2. Asymmetric encryption
+ 3. Stream cipher
+ 4. Secret sharing scheme
 
 <details>
   <summary>Answer</summary>
-  Non-impact printer
+  Secret sharing scheme
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  5 hours 38 minutes</strong> since this server shutdown
+Its been <strong>5 days  6 hours 8 minutes</strong> since this server shutdown
