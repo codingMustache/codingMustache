@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-It takes guts to be an organ donor.
+What kind of pants do ghosts wear? Boo jeans.
 
 
 ## Daily Trivia
 
-Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
- 1. Puma
- 2. Cheetah
- 3. Tiger
- 4. Leopard
+The teapot often seen in many 3D modeling applications is called what?
+ 1. Pixar Teapot
+ 2. 3D Teapot
+ 3. Utah Teapot
+ 4. Tennessee Teapot
 
 <details>
   <summary>Answer</summary>
-  Cheetah
+  Utah Teapot
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  23 hours 38 minutes</strong> since this server shutdown
+Its been <strong>6 days 8 minutes</strong> since this server shutdown
