@@ -6,25 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where was the Declaration of Independence signed?
-
-At the bottom! 
+Why does Superman get invited to dinners? Because he is a Supperhero.
 
 
 ## Daily Trivia
 
-In web design, what does CSS stand for?
- 1. Cascading Style Sheet
- 2. Counter Strike: Source
- 3. Corrective Style Sheet
- 4. Computer Style Sheet
+In the server hosting industry IaaS stands for...
+ 1. Internet and a Server
+ 2. Internet as a Service
+ 3. Infrastructure as a Server
+ 4. Infrastructure as a Service
 
 <details>
   <summary>Answer</summary>
-  Cascading Style Sheet
+  Infrastructure as a Service
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  1 hours 38 minutes</strong> since this server shutdown
+Its been <strong>6 days  2 hours 8 minutes</strong> since this server shutdown
