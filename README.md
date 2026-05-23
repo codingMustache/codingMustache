@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What kind of pants do ghosts wear? Boo jeans.
+The urge to sing the Lion King song is just a whim away.
 
 
 ## Daily Trivia
 
-The teapot often seen in many 3D modeling applications is called what?
- 1. Pixar Teapot
- 2. 3D Teapot
- 3. Utah Teapot
- 4. Tennessee Teapot
+Which of these names was an actual codename for a cancelled Microsoft project?
+ 1. Neptune
+ 2. Enceladus
+ 3. Pollux
+ 4. Saturn
 
 <details>
   <summary>Answer</summary>
-  Utah Teapot
+  Neptune
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days 8 minutes</strong> since this server shutdown
+Its been <strong>6 days 38 minutes</strong> since this server shutdown
