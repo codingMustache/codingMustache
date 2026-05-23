@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What's orange and sounds like a parrot? A Carrot.
+Yesterday I confused the words "jacuzzi" and "yakuza". Now I'm in hot water with the Japanese mafia.
 
 
 ## Daily Trivia
 
-The Harvard architecture for micro-controllers added which additional bus?
- 1. Instruction
- 2. Control
- 3. Data
- 4. Address
+What is the most preferred image format used for logos in the Wikimedia database?
+ 1. .png
+ 2. .gif
+ 3. .svg
+ 4. .jpeg
 
 <details>
   <summary>Answer</summary>
-  Instruction
+  .svg
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  22 hours 8 minutes</strong> since this server shutdown
+Its been <strong>5 days  22 hours 38 minutes</strong> since this server shutdown
