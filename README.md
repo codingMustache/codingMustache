@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Why was Pavlov's beard so soft?  Because he conditioned it.
+A ghost walks into a bar and asks for a glass of vodka but the bar tender says, “sorry we don’t serve spirits”
 
 
 ## Daily Trivia
 
-Which kind of algorithm is Ron Rivest not famous for creating?
- 1. Hashing algorithm
- 2. Asymmetric encryption
- 3. Stream cipher
- 4. Secret sharing scheme
+Which of the following is the oldest of these computers by release date?
+ 1. TRS-80
+ 2. Commodore 64
+ 3. ZX Spectrum
+ 4. Apple 3
 
 <details>
   <summary>Answer</summary>
-  Secret sharing scheme
+  TRS-80
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  6 hours 8 minutes</strong> since this server shutdown
+Its been <strong>5 days  6 hours 38 minutes</strong> since this server shutdown
