@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Don't buy flowers at a monastery. Because only you can prevent florist friars.
+New atoms frequently lose electrons when they fail to keep an ion them.
 
 
 ## Daily Trivia
 
-Which computer language would you associate Django framework with?
- 1. Java
- 2. C++
- 3. Python
- 4. C#
+What amount of bits commonly equals one byte?
+ 1. 8
+ 2. 64
+ 3. 2
+ 4. 1
 
 <details>
   <summary>Answer</summary>
-  Python
+  8
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  12 hours 38 minutes</strong> since this server shutdown
+Its been <strong>5 days  13 hours 8 minutes</strong> since this server shutdown
