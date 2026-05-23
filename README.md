@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-My sister bet me $15 that I couldn't build a car out of spaghetti. You should have seen the look on her face as I drove pasta.
+Today, my son asked "Can I have a book mark?" and I burst into tears. 11 years old and he still doesn't know my name is Brian.
 
 
 ## Daily Trivia
 
-What is the name of Layer 7 of the OSI model?
- 1. Application
- 2. Present
- 3. Network
- 4. Session
+While Apple was formed in California, in which western state was Microsoft founded?
+ 1. New Mexico
+ 2. Arizona
+ 3. Washington
+ 4. Colorado
 
 <details>
   <summary>Answer</summary>
-  Application
+  New Mexico
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  9 hours 38 minutes</strong> since this server shutdown
+Its been <strong>5 days  10 hours 8 minutes</strong> since this server shutdown
