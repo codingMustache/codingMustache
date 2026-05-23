@@ -6,24 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-I fear for the calendar, its days are numbered.
-
+What's red and bad for your teeth? A Brick.
 
 
 ## Daily Trivia
 
-What kind of memory is used on memory cache?
- 1. DRAM
- 2. ROM
- 3. Flash
- 4. SRAM
+What does the &#039;S&#039; in the RSA encryption algorithm stand for?
+ 1. Shamir
+ 2. Schottky
+ 3. Secure
+ 4. Stable
 
 <details>
   <summary>Answer</summary>
-  SRAM
+  Shamir
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  19 hours 8 minutes</strong> since this server shutdown
+Its been <strong>5 days  19 hours 38 minutes</strong> since this server shutdown
