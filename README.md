@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the grape do when he got stepped on? He let out a little wine.
+A magician was driving down the street and then he turned into a driveway.
 
 
 ## Daily Trivia
 
-What does the term USB stand for?
- 1. Unityped Semtex Backer
- 2. Universal Serial Bus
- 3. Unified Signal Bus
- 4. Universal Simtex Blot
+On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
+ 1. Exclamation Mark
+ 2. Dollar Sign
+ 3. Percent Sign
+ 4. Asterisk
 
 <details>
   <summary>Answer</summary>
-  Universal Serial Bus
+  Exclamation Mark
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  4 hours 8 minutes</strong> since this server shutdown
+Its been <strong>6 days  4 hours 38 minutes</strong> since this server shutdown
