@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-When does a joke become a dad joke? When it becomes apparent.
+I heard there was a new store called Moderation. They have everything there
 
 
 ## Daily Trivia
 
-In the server hosting industry IaaS stands for...
- 1. Internet as a Service
- 2. Internet and a Server
- 3. Infrastructure as a Server
- 4. Infrastructure as a Service
+Which programming language was developed by Sun Microsystems in 1995?
+ 1. Java
+ 2. C++
+ 3. Solaris OS
+ 4. Python
 
 <details>
   <summary>Answer</summary>
-  Infrastructure as a Service
+  Java
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  21 hours 8 minutes</strong> since this server shutdown
+Its been <strong>5 days  21 hours 38 minutes</strong> since this server shutdown
