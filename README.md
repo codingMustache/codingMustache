@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Where do sheep go to get their hair cut? The baa-baa shop.
+Where do young cows eat lunch? In the calf-ateria.
 
 
 ## Daily Trivia
 
-Who is the founder of Palantir?
- 1. Peter Thiel
- 2. Mark Zuckerberg
- 3. Marc Benioff
- 4. Jack Dorsey
+How many Hz does the video standard PAL support?
+ 1. 50
+ 2. 25
+ 3. 60
+ 4. 59
 
 <details>
   <summary>Answer</summary>
-  Peter Thiel
+  50
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  15 hours 38 minutes</strong> since this server shutdown
+Its been <strong>5 days  16 hours 8 minutes</strong> since this server shutdown
