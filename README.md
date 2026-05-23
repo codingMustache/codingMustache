@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-Dad died because he couldn't remember his blood type. I will never forget his last words. Be positive.
+It takes guts to be an organ donor.
 
 
 ## Daily Trivia
 
-Which programming language was developed by Sun Microsystems in 1995?
- 1. Python
- 2. Solaris OS
- 3. C++
- 4. Java
+Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
+ 1. Puma
+ 2. Cheetah
+ 3. Tiger
+ 4. Leopard
 
 <details>
   <summary>Answer</summary>
-  Java
+  Cheetah
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  23 hours 8 minutes</strong> since this server shutdown
+Its been <strong>5 days  23 hours 38 minutes</strong> since this server shutdown
