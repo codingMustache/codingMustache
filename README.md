@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What did the doctor say to the gingerbread man who broke his leg? Try icing it.
+How do you teach a kid to climb stairs? There is a step by step guide.
 
 
 ## Daily Trivia
 
-Unix Time is defined as the number of seconds that have elapsed since when?
- 1. Midnight, January 1, 1970
- 2. Midnight, July 4, 1980
- 3. Midnight on the creator of Unix&#039;s birthday
- 4. Midnight, July 4, 1976
+What is the commonly used keyboard shortcut for the &#039;Copy&#039; function on Windows OS?
+ 1. Ctrl + C
+ 2. Ctrl + X
+ 3. Alt + C
+ 4. Alt + X
 
 <details>
   <summary>Answer</summary>
-  Midnight, January 1, 1970
+  Ctrl + C
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>5 days  17 hours 38 minutes</strong> since this server shutdown
+Its been <strong>5 days  18 hours 8 minutes</strong> since this server shutdown
