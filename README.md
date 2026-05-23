@@ -6,23 +6,25 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-There's not really any training for garbagemen. They just pick things up as they go.
+Where was the Declaration of Independence signed?
+
+At the bottom! 
 
 
 ## Daily Trivia
 
-What does the computer software acronym JVM stand for?
- 1. Java Vendor Machine
- 2. Java Visual Machine
- 3. Just Virtual Machine
- 4. Java Virtual Machine
+In web design, what does CSS stand for?
+ 1. Cascading Style Sheet
+ 2. Counter Strike: Source
+ 3. Corrective Style Sheet
+ 4. Computer Style Sheet
 
 <details>
   <summary>Answer</summary>
-  Java Virtual Machine
+  Cascading Style Sheet
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  1 hours 8 minutes</strong> since this server shutdown
+Its been <strong>6 days  1 hours 38 minutes</strong> since this server shutdown
