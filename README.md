@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-A police officer caught two kids playing with a firework and a car battery. He charged one and let the other one off.
+What do you call a fish wearing a bowtie? Sofishticated.
 
 
 ## Daily Trivia
 
-What does the acronym CDN stand for in terms of networking?
- 1. Computational Data Network
- 2. Content Delivery Network
- 3. Compressed Data Network
- 4. Content Distribution Network
+Which of the following languages is used as a scripting language in the Unity 3D game engine?
+ 1. C++
+ 2. Objective-C
+ 3. C#
+ 4. Java
 
 <details>
   <summary>Answer</summary>
-  Content Delivery Network
+  C#
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  5 hours 38 minutes</strong> since this server shutdown
+Its been <strong>6 days  6 hours 8 minutes</strong> since this server shutdown
