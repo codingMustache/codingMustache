@@ -6,23 +6,23 @@ Hello I'm Jorge and I love making things for the internet
 
 ## Joke of the Day
 
-What don't watermelons get married? Because they cantaloupe.
+A police officer caught two kids playing with a firework and a car battery. He charged one and let the other one off.
 
 
 ## Daily Trivia
 
-In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
- 1. &lt;marquee&gt;&lt;/marquee&gt;
- 2. &lt;scroll&gt;&lt;/scroll&gt;
- 3. &lt;move&gt;&lt;/move&gt;
- 4. &lt;slide&gt;&lt;/slide&gt;
+What does the acronym CDN stand for in terms of networking?
+ 1. Computational Data Network
+ 2. Content Delivery Network
+ 3. Compressed Data Network
+ 4. Content Distribution Network
 
 <details>
   <summary>Answer</summary>
-  &lt;marquee&gt;&lt;/marquee&gt;
+  Content Delivery Network
 </details>
 
 
 ## Home Server Up-Time
 
-Its been <strong>6 days  5 hours 8 minutes</strong> since this server shutdown
+Its been <strong>6 days  5 hours 38 minutes</strong> since this server shutdown
